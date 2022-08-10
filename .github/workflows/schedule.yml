@@ -1,0 +1,42 @@
+# This workflow will scrap GitHub trending projects daily.
+
+name: Daily Github Trending
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Run Scraper
+      run: |
+        python scraper.py
+
+    # Runs a set of commands using the runners shell
+    - name: Push to origin master
+      run: |
+        echo start push
+        git config --global user.name "aneasystone"
+        git config --global user.email "aneasystone@gmail.com"
+        
+        git add -A
+        git commit -m $(date '+%Y-%m-%d')
+        git push
+        
