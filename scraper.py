@@ -1,13 +1,12 @@
 # coding:utf-8
 
 import datetime
-import codecs
 import requests
-import os
+import urllib.parse
 from pyquery import PyQuery as pq
 
 def scrape_url(url):
-    ''' scrape github trending url
+    ''' Scrape github trending url
     '''
     HEADERS = {
         'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
@@ -16,6 +15,7 @@ def scrape_url(url):
         'Accept-Language'	: 'zh-CN,zh;q=0.8'
     }
 
+    print(url)
     r = requests.get(url, headers=HEADERS)
     assert r.status_code == 200
     
@@ -34,23 +34,27 @@ def scrape_url(url):
     return results
 
 def scrape_lang(language):
-    ''' scrape github trending with lang parameters
+    ''' Scrape github trending with lang parameters
     '''
-    url = 'https://github.com/trending/{language}'.format(language=language)
+    url = 'https://github.com/trending/{language}'.format(language=urllib.parse.quote_plus(language))
     r1 = scrape_url(url)
-    url = 'https://github.com/trending/{language}&spoken_language_code=zh'.format(language=language)
+    url = 'https://github.com/trending/{language}?spoken_language_code=zh'.format(language=urllib.parse.quote_plus(language))
     r2 = scrape_url(url)
     return { **r1, **r2 }
 
 def write_markdown(lang, results):
-    ''' write the results to markdown file
+    ''' Write the results to markdown file
     '''
-    with open('README.md') as f:
+    content = ''
+    with open('README.md', mode='r', encoding='utf-8') as f:
         content = f.read()
-        content = convert_file_contenet(content, lang, results)
+    content = convert_file_contenet(content, lang, results)
+    with open('README.md', mode='w', encoding='utf-8') as f:
         f.write(content)
 
 def convert_file_contenet(content, lang, results):
+    ''' Add distinct results to content
+    '''
     distinct_results = []
     for title, result in results.items():
         if '[' + title + ']' not in content:
@@ -62,21 +66,38 @@ def convert_file_contenet(content, lang, results):
 
     lang_title = convert_lang_title(lang)
     if lang_title not in content:
-        content += lang_title + '\r\n'
+        content = content + lang_title + '\n'
     
-    return content.replace(lang_title, lang_title + convert_result_content(distinct_results))
+    return content.replace(lang_title, lang_title + '\n\n' + convert_result_content(distinct_results))
 
 def convert_result_content(results):
+    ''' Format all results to a string
+    '''
+    strdate = datetime.datetime.now().strftime('%Y-%m-%d')
+    content = ''
     for result in results:
-        return u"* [{title}]({url}) - {description}\n".format(
-            title=result['title'], url=result['v'], description=result['description'])
+        content = content + u"* 【{strdate}】[{title}]({url}) - {description}\n".format(
+            strdate=strdate, title=result['title'], url=result['url'],
+            description=format_description(result['description']))
+    return content
+
+def format_description(description):
+    ''' Remove new line characters
+    '''
+    if not description:
+        return ''
+    return description.replace('\r', '').replace('\n', '')
 
 def convert_lang_title(lang):
+    ''' Lang title
+    '''
     if lang == '':
         return '## All language'
     return '## ' + lang.capitalize()
 
 def job():
+    ''' Start the scrape job
+    '''
     languages = ['', 'java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
