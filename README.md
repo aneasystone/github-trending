@@ -4,6 +4,30 @@
 
 ## All language
 
+* 【2022-08-13】[CompVis / stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+* 【2022-08-13】[microsoft / fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - 
+* 【2022-08-13】[ocsf / ocsf-schema](https://github.com/ocsf/ocsf-schema) - OCSF Schema
+* 【2022-08-13】[Anuken / Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+* 【2022-08-13】[redballoonsecurity / ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries.
+* 【2022-08-13】[leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜33 JavaScript concepts every developer should know.
+* 【2022-08-13】[GetStream / whatsApp-clone-compose](https://github.com/GetStream/whatsApp-clone-compose) - 📱WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.
+* 【2022-08-13】[dotnet / docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
+* 【2022-08-13】[Tencent / ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+* 【2022-08-13】[MicrosoftDocs / azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
+* 【2022-08-13】[apache / doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+* 【2022-08-13】[GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+* 【2022-08-13】[bailicangdu / vue2-manage](https://github.com/bailicangdu/vue2-manage) - A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统
+* 【2022-08-13】[Tencent / secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
+* 【2022-08-13】[justjavac / awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总💯
+* 【2022-08-13】[TideSec / BypassAntiVirus](https://github.com/TideSec/BypassAntiVirus) - 远控免杀系列文章及配套工具，汇总测试了互联网上的几十种免杀工具、113种白名单免杀方式、8种代码编译免杀、若干免杀实战技术，并对免杀效果进行了一一测试，为远控的免杀和杀软对抗免杀提供参考。
+* 【2022-08-13】[QiuChenly / QQFlacMusicDownloader](https://github.com/QiuChenly/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载
+* 【2022-08-13】[chuzhixin / vue-admin-better](https://github.com/chuzhixin/vue-admin-better) - 🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro
+* 【2022-08-13】[DataV-Team / DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
+* 【2022-08-13】[lenve / vhr](https://github.com/lenve/vhr) - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+* 【2022-08-13】[macrozheng / springcloud-learning](https://github.com/macrozheng/springcloud-learning) - 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。
+* 【2022-08-13】[pythonstock / stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
+* 【2022-08-13】[honghuangdc / soybean-admin](https://github.com/honghuangdc/soybean-admin) - A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS. 一个基于Vue3、Vite3、TypeScript、NaiveUI and UnoCSS的清新优雅的中后台模版。
+
 * 【2022-08-12】[novuhq / novu](https://github.com/novuhq/novu) - 🚀The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
 * 【2022-08-12】[ange-yaghi / engine-sim](https://github.com/ange-yaghi/engine-sim) - Combustion engine simulator that generates realistic audio.
 * 【2022-08-12】[donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -79,6 +103,27 @@
 * 【2022-08-11】[woai3c / Front-end-articles](https://github.com/woai3c/Front-end-articles) - 分享我的编程经验和学习心得，订阅请点 watch。
 
 ## Java
+
+* 【2022-08-13】[checkstyle / checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+* 【2022-08-13】[seaswalker / spring-analysis](https://github.com/seaswalker/spring-analysis) - Spring源码阅读
+* 【2022-08-13】[Activiti / Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+* 【2022-08-13】[apache / camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+* 【2022-08-13】[apache / dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
+* 【2022-08-13】[streamxhub / streamx](https://github.com/streamxhub/streamx) - Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
+* 【2022-08-13】[LuckSiege / PictureSelector](https://github.com/LuckSiege/PictureSelector) - Picture Selector Library for Android or 图片选择器
+* 【2022-08-13】[apolloconfig / apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+* 【2022-08-13】[crossoverJie / JCSprout](https://github.com/crossoverJie/JCSprout) - 👨‍🎓Java Core Sprout : basic, concurrent, algorithm
+* 【2022-08-13】[jetlinks / jetlinks-community](https://github.com/jetlinks/jetlinks-community) - JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。
+* 【2022-08-13】[zfile-dev / zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+* 【2022-08-13】[macrozheng / mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+* 【2022-08-13】[elunez / eladmin](https://github.com/elunez/eladmin) - 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* 【2022-08-13】[itwanger / toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) - 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
+* 【2022-08-13】[tws-graduate-program / twuc-tdd-backend-shopping-cart](https://github.com/tws-graduate-program/twuc-tdd-backend-shopping-cart) - 
+* 【2022-08-13】[gyf-dev / ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，适配横竖屏切换、刘海屏、软键盘弹出等问题，可以修改状态栏字体颜色和导航栏图标颜色，以及不可修改字体颜色手机的适配，适用于Activity、Fragment、DialogFragment、Dialog，PopupWindow，一句代码轻松实现，以及对bar的其他设置，详见README。简书请参考：http://www.jianshu.com/p/2a884e211a62
+* 【2022-08-13】[medcl / elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) - The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+* 【2022-08-13】[alibaba / easyexcel](https://github.com/alibaba/easyexcel) - 快速、简洁、解决大文件内存溢出的java处理Excel工具
+* 【2022-08-13】[ofdrw / ofdrw](https://github.com/ofdrw/ofdrw) - OFD Reader & Writer 开源的OFD处理库，支持文档生成、数字签名、文档保护、文档合并、转换等功能，文档格式遵循《GB/T 33190-2016 电子文件存储与交换格式版式文档》。
+* 【2022-08-13】[opengoofy / hippo4j](https://github.com/opengoofy/hippo4j) - 📌强大的动态线程池框架，附带监控报警功能，支持 JDK、Tomcat、Jetty、Undertow 线程池；Apache RocketMQ、Dubbo、RabbitMQ、Hystrix 消费线程池（更多框架线程池还在适配中）。内置两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 
 * 【2022-08-12】[eugenp / tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 * 【2022-08-12】[PhilJay / MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful🚀Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
@@ -156,6 +201,35 @@
 
 ## Python
 
+* 【2022-08-13】[dmlc / dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+* 【2022-08-13】[ansible / ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+* 【2022-08-13】[open-mmlab / mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
+* 【2022-08-13】[mouredev / Hello-Python](https://github.com/mouredev/Hello-Python) - Python desde cero
+* 【2022-08-13】[locustio / locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+* 【2022-08-13】[0xricksanchez / like-dbg](https://github.com/0xricksanchez/like-dbg) - Fully dockerized Linux kernel debugging environment
+* 【2022-08-13】[open-mmlab / mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - OpenMMLab Semantic Segmentation Toolbox and Benchmark.
+* 【2022-08-13】[nnaisense / evotorch](https://github.com/nnaisense/evotorch) - EvoTorch is an advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE.
+* 【2022-08-13】[sourceincite / DashOverride](https://github.com/sourceincite/DashOverride) - This is a pre-authenticated RCE exploit for VMware vRealize Operations Manager
+* 【2022-08-13】[triton-inference-server / server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+* 【2022-08-13】[iterativv / NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity) - Trading strategy for the Freqtrade crypto bot
+* 【2022-08-13】[FedML-AI / FedML](https://github.com/FedML-AI/FedML) - FedML - The federated learning and distributed training library enabling machine learning anywhere at any scale. It's backed by FedML, Inc (https://FedML.ai). Supporting large-scale geo-distributed training, cross-device federated learning on smartphones/IoTs, cross-silo federated learning on data silos, and research simulation. Best Paper Award…
+* 【2022-08-13】[pydantic / pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+* 【2022-08-13】[towhee-io / towhee](https://github.com/towhee-io/towhee) - Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.
+* 【2022-08-13】[PaddlePaddle / PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.
+* 【2022-08-13】[IBM / LNN](https://github.com/IBM/LNN) - A `Neural = Symbolic` framework for sound and complete weighted real-value logic
+* 【2022-08-13】[RunaCapital / awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products🚀
+* 【2022-08-13】[TheKingOfDuck / fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts) - Web Pentesting Fuzz 字典,一个就够了。
+* 【2022-08-13】[W01fh4cker / Serein](https://github.com/W01fh4cker/Serein) - 【懒人神器】一款图形化、批量采集url、批量对采集的url进行各种nday检测的工具。可用于src挖掘、cnvd挖掘、0day利用、打造自己的武器库等场景。可以批量利用Actively Exploited Atlassian Confluence 0Day CVE-2022-26134和DedeCMS v5.7.87 SQL注入 CVE-2022-23337。
+* 【2022-08-13】[PaddlePaddle / ERNIE](https://github.com/PaddlePaddle/ERNIE) - Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.
+* 【2022-08-13】[nonebot / nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
+* 【2022-08-13】[TophantTechnology / ARL](https://github.com/TophantTechnology/ARL) - ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2022-08-13】[noneplugin / nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet) - Nonebot2 插件，用于制作摸头等头像相关表情包
+* 【2022-08-13】[vnpy / vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+* 【2022-08-13】[h2y / Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
+* 【2022-08-13】[d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。
+* 【2022-08-13】[bojone / bert4keras](https://github.com/bojone/bert4keras) - keras implement of transformers for humans
+* 【2022-08-13】[skywind3000 / ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
+
 * 【2022-08-12】[open-mmlab / mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 * 【2022-08-12】[bridgecrewio / checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 * 【2022-08-12】[encode / django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django.🎸
@@ -225,6 +299,31 @@
 * 【2022-08-11】[fighting41love / funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
 
 ## Javascript
+
+* 【2022-08-13】[dessant / buster](https://github.com/dessant/buster) - Captcha solver extension for humans
+* 【2022-08-13】[yogeshojha / rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with…
+* 【2022-08-13】[nolimits4web / swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+* 【2022-08-13】[OpenZeppelin / openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
+* 【2022-08-13】[CesiumGS / cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps🌎
+* 【2022-08-13】[100devs / todo-list-express](https://github.com/100devs/todo-list-express) - 
+* 【2022-08-13】[hakimel / reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+* 【2022-08-13】[Budibase / budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more🚀. Budibase, the low code platform you'll enjoy using⚡
+* 【2022-08-13】[amzn / style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
+* 【2022-08-13】[SheetJS / sheetjs](https://github.com/SheetJS/sheetjs) - 📗SheetJS Community Edition -- Spreadsheet Data Toolkit
+* 【2022-08-13】[shuding / nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
+* 【2022-08-13】[bigskysoftware / htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML
+* 【2022-08-13】[nuxt / nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
+* 【2022-08-13】[near / near-sdk-js](https://github.com/near/near-sdk-js) - Tools for building NEAR smart contracts in JavaScript
+* 【2022-08-13】[eolinker / eoapi](https://github.com/eolinker/eoapi) - Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
+* 【2022-08-13】[haizlin / fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+* 【2022-08-13】[stevenjoezhang / live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+* 【2022-08-13】[Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+* 【2022-08-13】[vaxilu / x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
+* 【2022-08-13】[yyhsong / iDataV](https://github.com/yyhsong/iDataV) - 大屏数据可视化 Big screen data visualization demo
+* 【2022-08-13】[NXY666 / JsjiamiV6-Decryptor](https://github.com/NXY666/JsjiamiV6-Decryptor) - 使用 Node.js 开发的 JsjiamiV6（JS最牛加密） 解密工具。
+* 【2022-08-13】[wechatsync / Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+* 【2022-08-13】[chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* 【2022-08-13】[leochen-g / wechatBot](https://github.com/leochen-g/wechatBot) - 微信每日说，三步教你用Node做一个微信哄女友(基友)神器！还能帮女朋友解决垃圾分类难题
 
 * 【2022-08-12】[mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 * 【2022-08-12】[umami-software / umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -306,6 +405,37 @@
 * 【2022-08-11】[6dylan6 / jdpro](https://github.com/6dylan6/jdpro) - 青龙脚本库
 
 ## Go
+
+* 【2022-08-13】[kubernetes / minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+* 【2022-08-13】[hashicorp / terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
+* 【2022-08-13】[grafana / tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+* 【2022-08-13】[go-redis / redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
+* 【2022-08-13】[evanw / esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+* 【2022-08-13】[stretchr / testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+* 【2022-08-13】[berty / berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+* 【2022-08-13】[OpenIMSDK / Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM
+* 【2022-08-13】[helm / helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+* 【2022-08-13】[milvus-io / milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
+* 【2022-08-13】[Shopify / sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
+* 【2022-08-13】[emirpasic / gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+* 【2022-08-13】[prometheus / prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+* 【2022-08-13】[kubernetes / kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
+* 【2022-08-13】[argoproj / argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+* 【2022-08-13】[Bytebase / Bytebase](https://github.com/Bytebase/Bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+* 【2022-08-13】[osgochina / dmicro](https://github.com/osgochina/dmicro) - dmicro是一个高效、可扩展且简单易用的微服务框架。包含drpc,dserver等组件。
+* 【2022-08-13】[xiaobaiTech / golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集
+* 【2022-08-13】[link1st / go-stress-testing](https://github.com/link1st/go-stress-testing) - go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】
+* 【2022-08-13】[ginuerzh / gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+* 【2022-08-13】[xinliangnote / go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用、cron 定时任务 等等。
+* 【2022-08-13】[yeasy / docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+* 【2022-08-13】[marmotedu / iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
+* 【2022-08-13】[EdgeSecurityTeam / EHole](https://github.com/EdgeSecurityTeam/EHole) - EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
+* 【2022-08-13】[cookieY / Yearning](https://github.com/cookieY/Yearning) - 🐳A most popular sql audit platform for mysql
+* 【2022-08-13】[guonaihong / gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
+* 【2022-08-13】[eryajf / go-ldap-admin](https://github.com/eryajf/go-ldap-admin) - 🌉基于Go+Vue实现的openLDAP后台管理项目
+* 【2022-08-13】[chaitin / veinmind-tools](https://github.com/chaitin/veinmind-tools) - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
+* 【2022-08-13】[hwholiday / learning_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+* 【2022-08-13】[redtoolskobe / scaninfo](https://github.com/redtoolskobe/scaninfo) - fast scan for redtools
 
 * 【2022-08-12】[weaveworks / eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
 * 【2022-08-12】[ClickHouse / clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse
@@ -395,6 +525,36 @@
 
 ## C
 
+* 【2022-08-13】[DeutscheKI / tevr-asr-tool](https://github.com/DeutscheKI/tevr-asr-tool) - State-of-the-art (ranked #1 Aug 2022) German Speech Recognition in 284 lines of C++. This is a 100% private 100% offline 100% free CLI tool.
+* 【2022-08-13】[netdata / netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+* 【2022-08-13】[redis / redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+* 【2022-08-13】[libuv / libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
+* 【2022-08-13】[robertdavidgraham / masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+* 【2022-08-13】[microsoft / Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) - This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+* 【2022-08-13】[hathach / tinyusb](https://github.com/hathach/tinyusb) - An open source cross-platform USB stack for embedded system
+* 【2022-08-13】[haproxy / haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+* 【2022-08-13】[coturn / coturn](https://github.com/coturn/coturn) - coturn TURN server project
+* 【2022-08-13】[facebook / zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+* 【2022-08-13】[yugabyte / yugabyte-db](https://github.com/yugabyte/yugabyte-db) - The high-performance distributed SQL database for global, internet-scale apps.
+* 【2022-08-13】[libevent / libevent](https://github.com/libevent/libevent) - Event notification library
+* 【2022-08-13】[timescale / timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries. Packaged as a PostgreSQL extension.
+* 【2022-08-13】[libvips / nip2](https://github.com/libvips/nip2) - A spreadsheet-like GUI for libvips.
+* 【2022-08-13】[ThrowTheSwitch / Unity](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C
+* 【2022-08-13】[GStreamer / gstreamer](https://github.com/GStreamer/gstreamer) - GStreamer open-source multimedia framework
+* 【2022-08-13】[spdk / spdk](https://github.com/spdk/spdk) - Storage Performance Development Kit
+* 【2022-08-13】[akopytov / sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
+* 【2022-08-13】[raysan5 / raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+* 【2022-08-13】[Cisco-Talos / clamav](https://github.com/Cisco-Talos/clamav) - ClamAV - Documentation is here: https://docs.clamav.net
+* 【2022-08-13】[mobinsheng / books](https://github.com/mobinsheng/books) - 技术书籍
+* 【2022-08-13】[armink / EasyLogger](https://github.com/armink/EasyLogger) - An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library. | 一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库
+* 【2022-08-13】[kenzok8 / small-package](https://github.com/kenzok8/small-package) - 自动同步更新上游库软件
+* 【2022-08-13】[DavadDi / bpf_study](https://github.com/DavadDi/bpf_study) - bpf 学习仓库
+* 【2022-08-13】[gatieme / LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers) - Linux内核与设备驱动程序学习笔记
+* 【2022-08-13】[FASTSHIFT / X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
+* 【2022-08-13】[Pangu-Immortal / KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect) - 💰Android终极保活：Android4.4到Android13.0 完美的保活方案
+* 【2022-08-13】[bingoogolapple / BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式
+* 【2022-08-13】[starrtc / starrtc-server](https://github.com/starrtc/starrtc-server) - 免费IM系统，IM即时通信消息系统(含一对一文字聊天，群聊，聊天室)，免费一对一voip实时通话，录屏，webrtc服务端，免费直播连麦，互动直播，视频直播，RTSP拉流，RTMP推流，语音对讲，免费在线会议，视频会议等服务端程序，支持物联网平台，✨万水千山总是情，来个star行不行✨
+
 * 【2022-08-12】[pjreddie / darknet](https://github.com/pjreddie/darknet) - Convolutional Neural Networks
 * 【2022-08-12】[zephyrproject-rtos / zephyr](https://github.com/zephyrproject-rtos/zephyr) - Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
 * 【2022-08-12】[espressif / arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
@@ -480,6 +640,28 @@
 
 ## C++
 
+* 【2022-08-13】[libcpr / cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
+* 【2022-08-13】[versatica / mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
+* 【2022-08-13】[Tencent / MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+* 【2022-08-13】[PX4 / PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - PX4 Autopilot Software
+* 【2022-08-13】[adnanaziz / EPIJudge](https://github.com/adnanaziz/EPIJudge) - EPI Judge - Preview Release
+* 【2022-08-13】[DefTruth / lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) - 🛠A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime.
+* 【2022-08-13】[microsoft / onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+* 【2022-08-13】[google / leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+* 【2022-08-13】[o3de / o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+* 【2022-08-13】[microsoft / WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) - The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
+* 【2022-08-13】[StarRocks / starrocks](https://github.com/StarRocks/starrocks) - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
+* 【2022-08-13】[MaaAssistantArknights / MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients
+* 【2022-08-13】[smopu / unity3d_quick_reflection](https://github.com/smopu/unity3d_quick_reflection) - 在unity3D中使用指针进行快速反射
+* 【2022-08-13】[markparticle / WebServer](https://github.com/markparticle/WebServer) - C++ Linux WebServer服务器
+* 【2022-08-13】[ffffffff0x / 1earn](https://github.com/ffffffff0x/1earn) - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
+* 【2022-08-13】[Tencent / libco](https://github.com/Tencent/libco) - libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.
+* 【2022-08-13】[chengxumiaodaren / cpp-learning](https://github.com/chengxumiaodaren/cpp-learning) - 
+* 【2022-08-13】[cppla / ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+* 【2022-08-13】[BrightXiaoHan / CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial) - CMake中文实战教程
+* 【2022-08-13】[ethan-li-coding / SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学，欢迎star！
+* 【2022-08-13】[SmartKeyerror / reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23) - leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。
+
 * 【2022-08-12】[llvm / torch-mlir](https://github.com/llvm/torch-mlir) - The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
 * 【2022-08-12】[cepxeo / dll4shell](https://github.com/cepxeo/dll4shell) - Shellcode launcher for AV bypass
 * 【2022-08-12】[flutter / engine](https://github.com/flutter/engine) - The Flutter engine
@@ -563,6 +745,23 @@
 
 ## C#
 
+* 【2022-08-13】[GitCredentialManager / git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+* 【2022-08-13】[ant-design-blazor / ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+* 【2022-08-13】[openbullet / OpenBullet2](https://github.com/openbullet/OpenBullet2) - OpenBullet reinvented
+* 【2022-08-13】[abpframework / abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core
+* 【2022-08-13】[dotnet / wpf](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
+* 【2022-08-13】[DapperLib / Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
+* 【2022-08-13】[emrecancubukcu / Terrain-Decorator](https://github.com/emrecancubukcu/Terrain-Decorator) - lightweight terrain tool for unity3d
+* 【2022-08-13】[AzureAD / microsoft-authentication-library-for-dotnet](https://github.com/AzureAD/microsoft-authentication-library-for-dotnet) - Microsoft Authentication Library (MSAL) for .NET
+* 【2022-08-13】[Anonymous-ghost / AttackWebFrameworkTools-5.0](https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0) - 本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。傻瓜式导入url即可实现批量getshell。批量自动化测试。例如:Thinkphp,Struts2,weblogic。出现的最新漏洞进行实时跟踪并且更新例如:log4jRCE,向日葵RCE 等等.
+* 【2022-08-13】[Uahh / ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
+* 【2022-08-13】[Jimmey-Jiang / Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
+* 【2022-08-13】[JasonMa0012 / JasonMaToonRenderPipeline](https://github.com/JasonMa0012/JasonMaToonRenderPipeline) - JTRP : Unity HDRP ToonShading Render Pipeline (Preview)
+* 【2022-08-13】[proxysu / ProxySU](https://github.com/proxysu/ProxySU) - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
+* 【2022-08-13】[nilaoda / BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
+* 【2022-08-13】[1357310795 / JboxWebdav](https://github.com/1357310795/JboxWebdav) - 
+* 【2022-08-13】[liukuo362573 / YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin) - 基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://toolhelper.cn/admin
+
 * 【2022-08-12】[mob-sakai / ParticleEffectForUGUI](https://github.com/mob-sakai/ParticleEffectForUGUI) - Render particle effect in UnityUI(uGUI). Maskable, sortable, and no extra Camera/RenderTexture/Canvas.
 * 【2022-08-12】[umbraco / Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) - The simple, flexible and friendly ASP.NET CMS used by more than 730.000 websites
 * 【2022-08-12】[Klocman / Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -644,6 +843,26 @@
 
 ## Html
 
+* 【2022-08-13】[cotes2020 / jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+* 【2022-08-13】[rubickCenter / rubick](https://github.com/rubickCenter/rubick) - 🔧Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+* 【2022-08-13】[markmead / hyperui](https://github.com/markmead/hyperui) - 🐳Free open source Tailwind CSS components for marketing and ecommece websites, as well as application UI
+* 【2022-08-13】[webmin / webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
+* 【2022-08-13】[Ylianst / MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you get the server started, will create a mesh (a group of computers) and then download and install a mesh agent on each computer you want to manage. A…
+* 【2022-08-13】[LAX1DUDE / eaglercraft](https://github.com/LAX1DUDE/eaglercraft) - Eaglercraft is real Minecraft 1.5.2 that you can play in any regular web browser. That includes school chromebooks, it works on all chromebooks. You can join real Minecraft 1.5.2 servers with it through a custom proxy based on Bungeecord.
+* 【2022-08-13】[Tencent / weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+* 【2022-08-13】[joemccann / dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+* 【2022-08-13】[OWASP / ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard
+* 【2022-08-13】[dennis-jiang / Front-End-Knowledges](https://github.com/dennis-jiang/Front-End-Knowledges) - 前端知识进阶
+* 【2022-08-13】[Tencent / tdesign-miniprogram](https://github.com/Tencent/tdesign-miniprogram) - A Wechat MiniProgram UI components lib for TDesign.
+* 【2022-08-13】[sqlsec / Hackintosh](https://github.com/sqlsec/Hackintosh) - 国光的黑苹果安装教程：手把手教你配置 OpenCore
+* 【2022-08-13】[TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
+* 【2022-08-13】[liyupi / free-programming-resources](https://github.com/liyupi/free-programming-resources) - 💎免费的编程资源大全，持续更新！🔥覆盖各种语言和方向（Java \ Python \ C++ \ JavaScript \ Golang \ 前端 \ 后端等）的学习路线、贴心教程、项目实战、编程书籍、面试合集、实用资源等，对程序员非常有帮助！
+* 【2022-08-13】[TransparentLC / WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
+* 【2022-08-13】[javascript-tutorial / zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+* 【2022-08-13】[LuckyHookin / edge-TTS-record](https://github.com/LuckyHookin/edge-TTS-record) - 一个可以录制 Microsoft Edge 浏览器的语音合成（TTS）语音并输出为 .wav 音频的（windows平台）工具。
+* 【2022-08-13】[NICEXAI / leaflet_zh](https://github.com/NICEXAI/leaflet_zh) - Leaflet中文文档
+* 【2022-08-13】[anran-world / Anranawsl](https://github.com/anran-world/Anranawsl) - 公众号：OMGA，百度云Svip、免费获取优酷vip、芒果vip、B站大会员、腾讯vip、百度网盘Svip、科学上网不限速节点、白嫖白撸线报、SS、SSR、V2ray、百度网盘资源更新、百度网盘热门电视剧、电影、每天分享最新的百度网SVIP，迅雷超级会员，爱奇艺VIP会员，优酷VIP会员，哔哩哔哩大会员，百度文库VIP，网易云黑胶VIP，喜马拉雅VIP，千图网VIP ，包图网VIP，摄图网VIP，天眼查VIP，苹果ID等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载，图库素材VIP下载，学术文献VIP下载（知网维普万方读秀龙源超星，英语数据库，法律数据库，医学数据库，金融数据库），全网视频VIP解析，全网音乐MP3免费听及下载，各种绝版资源汇总，欢迎推荐分享…
+
 * 【2022-08-12】[bradtraversy / spacex-website](https://github.com/bradtraversy/spacex-website) - 
 * 【2022-08-12】[google / fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 * 【2022-08-12】[sonic-net / SONiC](https://github.com/sonic-net/SONiC) - Landing page for Software for Open Networking in the Cloud (SONiC) - https://sonic-net.github.io/SONiC/
@@ -717,6 +936,28 @@
 
 ## Css
 
+* 【2022-08-13】[dotnet / intro-to-dotnet-web-dev](https://github.com/dotnet/intro-to-dotnet-web-dev) - Get Started as a Web Developer with .NET, C#, and ASP.NET Core
+* 【2022-08-13】[jgthms / bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+* 【2022-08-13】[adrianhajdin / project_modern_ui_ux_gpt3](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) - Master the creation of Modern UX/UI Websites
+* 【2022-08-13】[lipis / flag-icons](https://github.com/lipis/flag-icons) - 🎏A curated collection of all country flags in SVG — plus the CSS for easier integration
+* 【2022-08-13】[Patalin / HTML-CSS-JS-SignIN-SignUp-Form](https://github.com/Patalin/HTML-CSS-JS-SignIN-SignUp-Form) - 
+* 【2022-08-13】[jdan / 98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
+* 【2022-08-13】[Athbi989 / kc-day5](https://github.com/Athbi989/kc-day5) - 
+* 【2022-08-13】[netology-code / bjs-diplom](https://github.com/netology-code/bjs-diplom) - Дипломное задание к курсу «Основы JavaScript»
+* 【2022-08-13】[wesbos / What-The-Flexbox](https://github.com/wesbos/What-The-Flexbox) - Exercises for the What The Flexbox video series - available at Flexbox.io
+* 【2022-08-13】[IBM / plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+* 【2022-08-13】[creativetimofficial / paper-dashboard-react](https://github.com/creativetimofficial/paper-dashboard-react) - 
+* 【2022-08-13】[creativetimofficial / argon-dashboard-django](https://github.com/creativetimofficial/argon-dashboard-django) - Argon Dashboard - Django Template | Creative-Tim
+* 【2022-08-13】[you-dont-need / You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
+* 【2022-08-13】[CiroLee / html_css_javascript](https://github.com/CiroLee/html_css_javascript) - base exercises for front-end developers novice
+* 【2022-08-13】[microsoft / azuredevopslabs](https://github.com/microsoft/azuredevopslabs) - Learn how you can plan smartly, collaborate better, and ship faster with a set of modern development services with Azure DevOps.
+* 【2022-08-13】[jeffreyvr / tailpress](https://github.com/jeffreyvr/tailpress) - TailPress is a minimal boilerplate theme for WordPress using Tailwind CSS.
+* 【2022-08-13】[jackjyq / xiaohei-zuowen](https://github.com/jackjyq/xiaohei-zuowen) - 小嘿作文生成器
+* 【2022-08-13】[YGYOOO / WeChat-Shelter](https://github.com/YGYOOO/WeChat-Shelter) - chrome插件，把网页微信伪装成云笔记~（仅供娱乐! (￣ε￣)
+* 【2022-08-13】[mengkunsoft / lmbtfy](https://github.com/mengkunsoft/lmbtfy) - 🔍让我帮你百度一下？Let Me Baidu That For You
+* 【2022-08-13】[apachecn / home](https://github.com/apachecn/home) - ApacheCN 开源组织：公告、介绍、成员、活动、交流方式
+* 【2022-08-13】[Heriec / typoraCracker](https://github.com/Heriec/typoraCracker) - 修改Typora过段时间就过期的问题
+
 * 【2022-08-12】[primefaces / primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library
 * 【2022-08-12】[panr / hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 * 【2022-08-12】[microsoft / vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
@@ -774,6 +1015,26 @@
 * 【2022-08-11】[LearnOpenGL-CN / LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) - http://learnopengl.com 系列教程的简体中文翻译
 
 ## Unknown
+
+* 【2022-08-13】[smartcontractkit / full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+* 【2022-08-13】[shieldfy / API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
+* 【2022-08-13】[GavinMendelGleason / blog](https://github.com/GavinMendelGleason/blog) - Gavin Mendel-Gleason's blog
+* 【2022-08-13】[Chenyu-otf / chenyuluoyan_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保質期，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
+* 【2022-08-13】[smirnov-am / awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
+* 【2022-08-13】[projectdiscovery / nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+* 【2022-08-13】[andkret / Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
+* 【2022-08-13】[ipfs / ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+* 【2022-08-13】[djsime1 / awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬A collection of awesome resources for the Flipper Zero device.
+* 【2022-08-13】[o0HalfLife0o / TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) - 
+* 【2022-08-13】[DopplerHQ / awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions. Feel free to contribute!🎓
+* 【2022-08-13】[LukeYui / EldenRingSeamlessCoopRelease](https://github.com/LukeYui/EldenRingSeamlessCoopRelease) - 
+* 【2022-08-13】[xitu / gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+* 【2022-08-13】[guchangan1 / All-Defense-Tool](https://github.com/guchangan1/All-Defense-Tool) - 本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。
+* 【2022-08-13】[iamseancheney / python_for_data_analysis_2nd_chinese_version](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version) - 《利用Python进行数据分析·第2版》
+* 【2022-08-13】[MLNLP-World / MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
+* 【2022-08-13】[feitu-dev / Zing](https://github.com/feitu-dev/Zing) - 想做优雅的渗透测试工具
+* 【2022-08-13】[0voice / linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+* 【2022-08-13】[liu673cn / box](https://github.com/liu673cn/box) - TVbox 1.0.0（空壳-自行配置）
 
 * 【2022-08-12】[uber-go / guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 * 【2022-08-12】[khangich / machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
