@@ -68,7 +68,7 @@ def convert_file_contenet(content, lang, results):
     if lang_title not in content:
         content = content + lang_title + '\n'
     
-    return content.replace(lang_title, lang_title + '\n\n' + convert_result_content(distinct_results))
+    return content.replace(lang_title + '\n', lang_title + '\n\n' + convert_result_content(distinct_results))
 
 def convert_result_content(results):
     ''' Format all results to a string
