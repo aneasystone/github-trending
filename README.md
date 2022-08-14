@@ -2,6 +2,8 @@
 
 使用 [GitHub Actions](https://docs.github.com/cn/actions) 跟踪 [GitHub 趋势项目](https://github.com/trending)。
 
+项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
+
 ## All language
 
 * 【2022-08-14】[keyding / Operator-Mono](https://github.com/keyding/Operator-Mono) - A nice code font
