@@ -6,6 +6,17 @@
 
 ## All language
 
+* 【2022-08-22】[rust-lang / rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+* 【2022-08-22】[codecrafters-io / build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+* 【2022-08-22】[Cloud-Architekt / AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense) - This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected.
+* 【2022-08-22】[godotengine / godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+* 【2022-08-22】[KrauseFx / InAppBrowser.com](https://github.com/KrauseFx/InAppBrowser.com) - Showcasing what the Instagram in-app browser does under the hood
+* 【2022-08-22】[SagerNet / sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+* 【2022-08-22】[jart / cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+* 【2022-08-22】[freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+* 【2022-08-22】[wulabing / Xray_onekey](https://github.com/wulabing/Xray_onekey) - Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本
+* 【2022-08-22】[wulabing / V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) - 
+* 【2022-08-22】[mamoe / mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 * 【2022-08-21】[jbhuang0604 / awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 * 【2022-08-21】[233boy / v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 * 【2022-08-21】[vitejs / vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -240,6 +251,20 @@
 
 ## Java
 
+* 【2022-08-22】[signalapp / Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+* 【2022-08-22】[kiwibrowser / src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
+* 【2022-08-22】[FabricMC / fabric-example-mod](https://github.com/FabricMC/fabric-example-mod) - Example Fabric mod
+* 【2022-08-22】[AnasImloul / Leetcode-Solutions](https://github.com/AnasImloul/Leetcode-Solutions) - A repository with over 7000 solutions to more than 1800 Leetcode problems written primarily in four programming languages (C++, Python, Java, and Javascript).
+* 【2022-08-22】[3arthqu4ke / 3arthh4ck](https://github.com/3arthqu4ke/3arthh4ck) - Utility mod and proxy server for 1.12.2
+* 【2022-08-22】[iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+* 【2022-08-22】[square / retrofit](https://github.com/square/retrofit) - A type-safe HTTP client for Android and the JVM
+* 【2022-08-22】[cinit / QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+* 【2022-08-22】[pansong291 / XQuickEnergy](https://github.com/pansong291/XQuickEnergy) - 快速收取蚂蚁森林能量
+* 【2022-08-22】[IoT-Technology / IoT-Technical-Guide](https://github.com/IoT-Technology/IoT-Technical-Guide) - 🐝IoT Technical Guide --- 从零搭建高性能物联网平台及物联网解决方案和Thingsboard源码分析✨✨✨(IoT Platform, SaaS, MQTT, CoAP, HTTP, Modbus, OPC, WebSocket, 物模型，Protobuf, PostgreSQL, MongoDB, Spring Security, OAuth2, RuleEngine, Kafka, Docker)
+* 【2022-08-22】[yushijinhun / authlib-injector](https://github.com/yushijinhun/authlib-injector) - Build your own Minecraft authentication system.
+* 【2022-08-22】[AllDataTeam / alldata](https://github.com/AllDataTeam/alldata) - 💥🔥为了解决企业建设大数据平台的痛难点, 本项目旨在对Apache众多大数据平台组件进行二次开发维护，并输出一款通用的大数据平台底座，重点解决数据采集, 数据存储, 数据计算, 数据开发和数据运营场景遇到的问题与挑战, 初衷是建设开源业界领先的一站式大数据平台, 赋能成千上万个中小企业的业务快速发展, 以及给热爱大数据的开发者提供一系列解决方案。
+* 【2022-08-22】[wxiaoqi / Spring-Cloud-Platform](https://github.com/wxiaoqi/Spring-Cloud-Platform) - 🔥🔥🔥国内首个Spring Cloud微服务化RBAC的管理平台，核心采用Spring Boot 2.4、Spring Cloud 2020.0.0 & Alibaba，前端采用d2-admin中台框架。🔝🔝记得上边点个star 关注更新
+* 【2022-08-22】[kerwincui / wumei-smart](https://github.com/kerwincui/wumei-smart) - [wumei smart living iot platform] 物美智能生活物联网平台，可用于企业搭建私域物联网，个人学习和搭建自己的智能家居平台，项目包含服务端、web端、移动端、设备端SDK，支持智能音箱。
 * 【2022-08-21】[prestodb / presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
 * 【2022-08-21】[cryptomator / cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 * 【2022-08-21】[apache / iotdb](https://github.com/apache/iotdb) - Apache IoTDB
@@ -503,6 +528,19 @@
 
 ## Python
 
+* 【2022-08-22】[public-apis / public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+* 【2022-08-22】[GradienceTeam / Gradience](https://github.com/GradienceTeam/Gradience) - Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.
+* 【2022-08-22】[python-telegram-bot / python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+* 【2022-08-22】[p0dalirius / CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE) - A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.
+* 【2022-08-22】[lucidrains / denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - Implementation of Denoising Diffusion Probabilistic Model in Pytorch
+* 【2022-08-22】[Dineshkarthik / telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
+* 【2022-08-22】[Vinyzu / DiscordGenerator](https://github.com/Vinyzu/DiscordGenerator) - Dislock, the most advanced Discord Browser Generator. Powered by hCaptcha Solving AI.
+* 【2022-08-22】[RsaCtfTool / RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data
+* 【2022-08-22】[ranaroussi / yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
+* 【2022-08-22】[LonamiWebs / Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+* 【2022-08-22】[Darknights-dev / Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights 服务器 | 明日方舟 Arknights 私服
+* 【2022-08-22】[XX-net / XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+* 【2022-08-22】[hgjazhgj / FGO-py](https://github.com/hgjazhgj/FGO-py) - 全自动免配置跨平台开箱即用的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
 * 【2022-08-21】[ultralytics / yolov5](https://github.com/ultralytics/yolov5) - YOLOv5🚀in PyTorch > ONNX > CoreML > TFLite
 * 【2022-08-21】[nicolargo / glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 * 【2022-08-21】[chubin / wttr.in](https://github.com/chubin/wttr.in) - ⛅The right way to check the weather
@@ -765,6 +803,20 @@
 
 ## Javascript
 
+* 【2022-08-22】[philc / vimium](https://github.com/philc/vimium) - The hacker's browser.
+* 【2022-08-22】[john-smilga / node-express-course](https://github.com/john-smilga/node-express-course) - 
+* 【2022-08-22】[rahuldkjain / github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
+* 【2022-08-22】[umutxyp / MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
+* 【2022-08-22】[dillonzq / LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
+* 【2022-08-22】[AR-js-org / AR.js](https://github.com/AR-js-org/AR.js) - Image tracking, Location Based AR, Marker tracking. All on the Web.
+* 【2022-08-22】[hagopj13 / node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
+* 【2022-08-22】[doener2323 / doenerium](https://github.com/doener2323/doenerium) - Fully undetected grabber (grabs wallets, passwords, cookies, modifies discord client etc.)
+* 【2022-08-22】[ZhangMYihua / crwn-clothing-v2](https://github.com/ZhangMYihua/crwn-clothing-v2) - Version 2 of Crwn-Clothing!
+* 【2022-08-22】[w37fhy / QuantumultX](https://github.com/w37fhy/QuantumultX) - 同步和更新大佬脚本库，更新懒人配置
+* 【2022-08-22】[limbopro / Adblock4limbo](https://github.com/limbopro/Adblock4limbo) - 毒奶去网页广告计划（稳定版）For Quantumult X & Surge & 油猴脚本 ；如去内容农场/禁漫天堂/绅士漫画/奈菲影视/低端影视/哔嘀影视/片库网/Pornhub/Jable/Netflav/HPjav等视频网站广告或其他ACG网站网页广告；
+* 【2022-08-22】[ipcjs / bilibili-helper](https://github.com/ipcjs/bilibili-helper) - 各种油猴脚本
+* 【2022-08-22】[limbopro / Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流规则。
+* 【2022-08-22】[dream7180 / foobox-cn](https://github.com/dream7180/foobox-cn) - CUI 整合 for foobar2000
 * 【2022-08-21】[Asabeneh / 30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
 * 【2022-08-21】[chao325 / Evil.js](https://github.com/chao325/Evil.js) - 专注技术的库
 * 【2022-08-21】[wll8 / lodash-utils](https://github.com/wll8/lodash-utils) - 基于 evil.js 优化，引入之后, 可以当作 lodash 使用，然后在特定条件下产生一些错误。
@@ -1018,6 +1070,21 @@
 
 ## Go
 
+* 【2022-08-22】[ThrillQuks / Pitraix](https://github.com/ThrillQuks/Pitraix) - Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR
+* 【2022-08-22】[XTLS / Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+* 【2022-08-22】[getlantern / lantern](https://github.com/getlantern/lantern) - Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+* 【2022-08-22】[avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+* 【2022-08-22】[techschool / simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go
+* 【2022-08-22】[AdguardTeam / AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+* 【2022-08-22】[ekzhang / classes.wtf](https://github.com/ekzhang/classes.wtf) - A course catalog with extremely fast full-text search
+* 【2022-08-22】[IceWhaleTech / CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+* 【2022-08-22】[FerretDB / FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+* 【2022-08-22】[unkperson / consulta-operadora](https://github.com/unkperson/consulta-operadora) - 📞: consult the operator of a telephone in Brazil🇧🇷
+* 【2022-08-22】[ntt360 / pmon2](https://github.com/ntt360/pmon2) - golang进程管理工具(golang process manager)
+* 【2022-08-22】[yliu7949 / KouShare-dl](https://github.com/yliu7949/KouShare-dl) - KouShare-dl 是一个用于从“蔻享学术”视频网站下载视频和课件、录制直播的命令行工具。
+* 【2022-08-22】[KubeOperator / KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+* 【2022-08-22】[voidint / g](https://github.com/voidint/g) - Golang Version Manager
+* 【2022-08-22】[teamssix / cf](https://github.com/teamssix/cf) - Cloud Exploitation Framework 云环境利用框架，方便红队人员在获得 AK 的后续工作
 * 【2022-08-21】[go-gorm / gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 * 【2022-08-21】[infracost / infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉Love your cloud bill!
 * 【2022-08-21】[fatedier / frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -1322,6 +1389,15 @@
 
 ## C
 
+* 【2022-08-22】[SinaKarvandi / Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
+* 【2022-08-22】[raspberrypi / pico-sdk](https://github.com/raspberrypi/pico-sdk) - 
+* 【2022-08-22】[mpc-hc / mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository. For support use our Trac: https://trac.mpc-hc.org/
+* 【2022-08-22】[jarun / nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+* 【2022-08-22】[Kitware / CMake](https://github.com/Kitware/CMake) - Mirror of CMake upstream repository
+* 【2022-08-22】[valinet / ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+* 【2022-08-22】[CloverHackyColor / CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader) - Bootloader for macOS, Windows and Linux in UEFI and in legacy mode
+* 【2022-08-22】[NJU-ProjectN / navy-apps](https://github.com/NJU-ProjectN/navy-apps) - 
+* 【2022-08-22】[keke1023 / Padavan](https://github.com/keke1023/Padavan) - 基于hanwckf,chongshengB以及padavanonly的源码整合而来，支持7603/7615/7915的kvr
 * 【2022-08-21】[waryas / KACE](https://github.com/waryas/KACE) - Emulate Drivers in RING3 with self context mapping or unicorn
 * 【2022-08-21】[emukidid / swiss-gc](https://github.com/emukidid/swiss-gc) - Swiss - The swiss army knife of GameCube homebrew
 * 【2022-08-21】[48d31kh413k / 1337-Piscine-42](https://github.com/48d31kh413k/1337-Piscine-42) - June Piscine 2021 from 1337 Benguerir 42 Network.
@@ -1555,6 +1631,15 @@
 
 ## C++
 
+* 【2022-08-22】[TheCherno / Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
+* 【2022-08-22】[xenia-project / xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
+* 【2022-08-22】[skypjack / entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+* 【2022-08-22】[Aircoookie / WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+* 【2022-08-22】[ThePhD / sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
+* 【2022-08-22】[OpenTTD / OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
+* 【2022-08-22】[seladb / PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) - PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, WinPcap, DPDK and PF_RING.
+* 【2022-08-22】[km1994 / nlp_paper_study](https://github.com/km1994/nlp_paper_study) - 该仓库主要记录 NLP 算法工程师相关的顶会论文研读笔记
+* 【2022-08-22】[pcman-bbs / pcman-windows](https://github.com/pcman-bbs/pcman-windows) - PCMan Windows
 * 【2022-08-21】[TonyBrobston / yet-another-smart-vent](https://github.com/TonyBrobston/yet-another-smart-vent) - 
 * 【2022-08-21】[Chase1803 / UCMiraka-ValorantExternal](https://github.com/Chase1803/UCMiraka-ValorantExternal) - UC Release. External Cheat example for Valorant
 * 【2022-08-21】[azerothcore / azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
@@ -1816,6 +1901,17 @@
 
 ## C#
 
+* 【2022-08-22】[hellzerg / optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
+* 【2022-08-22】[kkokosa / dotnet-counters-ui](https://github.com/kkokosa/dotnet-counters-ui) - Multiplatform UI tool for observing .NET counters, written and maintained by an awesome contributors from Dotnetos community🌶
+* 【2022-08-22】[ppy / osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
+* 【2022-08-22】[MonoGame / MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
+* 【2022-08-22】[HMBSbige / ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
+* 【2022-08-22】[atmosgames / SuperSimple2DKit](https://github.com/atmosgames/SuperSimple2DKit) - A simple kit meant to help jump start the creation of your 2D Unity game!
+* 【2022-08-22】[netchx / netch](https://github.com/netchx/netch) - A simple proxy client
+* 【2022-08-22】[2dust / clashN](https://github.com/2dust/clashN) - A clash client for Windows, support clash core and Clash.Meta core
+* 【2022-08-22】[xupefei / Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
+* 【2022-08-22】[jadepeng / XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
+* 【2022-08-22】[hitchao / Jvedio](https://github.com/hitchao/Jvedio) - Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件
 * 【2022-08-21】[Crequency / KitX](https://github.com/Crequency/KitX) - An all-purpose toolbox app🎇, that allows you to manage yours plugins and inject your code into it.
 * 【2022-08-21】[vxunderground / MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 * 【2022-08-21】[dotnet-architecture / eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
@@ -2037,6 +2133,11 @@
 
 ## Html
 
+* 【2022-08-22】[RootMyTV / RootMyTV.github.io](https://github.com/RootMyTV/RootMyTV.github.io) - RootMyTV is a user-friendly exploit for rooting/jailbreaking LG webOS smart TVs.
+* 【2022-08-22】[expressjs / expressjs.com](https://github.com/expressjs/expressjs.com) - 
+* 【2022-08-22】[StartBootstrap / startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+* 【2022-08-22】[FrancescoXX / free-Web3-resources](https://github.com/FrancescoXX/free-Web3-resources) - A list of FREE resources to make Web3 accessible to everyone.
+* 【2022-08-22】[chipzoller / hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 * 【2022-08-21】[alexeygrigorev / data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) - Data science interview questions and answers
 * 【2022-08-21】[learntocloud / learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
 * 【2022-08-21】[cod3rcursos / web-moderno](https://github.com/cod3rcursos/web-moderno) - 
@@ -2262,6 +2363,13 @@
 
 ## Css
 
+* 【2022-08-22】[athul / archie](https://github.com/athul/archie) - A minimal Hugo Theme
+* 【2022-08-22】[ShaifArfan / one-page-website-html-css-project](https://github.com/ShaifArfan/one-page-website-html-css-project) - This project is for html & css practice. We made this for youtube tutorial purpose.
+* 【2022-08-22】[rime / home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
+* 【2022-08-22】[abdellatifAhammad / Viral-Couch-Animation](https://github.com/abdellatifAhammad/Viral-Couch-Animation) - the story behind this project is that I saw a video on Instagram and I like this design, after searching I find that it was created by Cosmin Capitanu on dribble, and I decide to try to turn it to code using CSS only, yeah that's it, enjoy it.
+* 【2022-08-22】[cardano-foundation / CIPs](https://github.com/cardano-foundation/CIPs) - 
+* 【2022-08-22】[electricalice / Ao3-pride-skin](https://github.com/electricalice/Ao3-pride-skin) - 
+* 【2022-08-22】[endofunky / ida-nord-theme](https://github.com/endofunky/ida-nord-theme) - A dark Nord theme port for Hex Rays IDA
 * 【2022-08-21】[sefyudem / Sliding-Sign-In-Sign-Up-Form](https://github.com/sefyudem/Sliding-Sign-In-Sign-Up-Form) - 
 * 【2022-08-21】[creativetimofficial / nextjs-argon-dashboard](https://github.com/creativetimofficial/nextjs-argon-dashboard) - NextJS version of Argon Dashboard React
 * 【2022-08-21】[twbs / rfs](https://github.com/twbs/rfs) - ✩ Automates responsive resizing ✩
@@ -2434,6 +2542,28 @@
 
 ## Unknown
 
+* 【2022-08-22】[Twipped / InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
+* 【2022-08-22】[sorrycc / chinese-f2e-developer](https://github.com/sorrycc/chinese-f2e-developer) - 中国前端开发者。
+* 【2022-08-22】[sib-swiss / training-collection](https://github.com/sib-swiss/training-collection) - Collection of bioinformatics training materials
+* 【2022-08-22】[krishnaik06 / 3-Months-RoadMap-For-Data-Science](https://github.com/krishnaik06/3-Months-RoadMap-For-Data-Science) - 
+* 【2022-08-22】[commclassroom / roadmaps](https://github.com/commclassroom/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
+* 【2022-08-22】[Hack-with-Github / Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+* 【2022-08-22】[mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+* 【2022-08-22】[thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂The perfect Front-End Checklist for modern websites and meticulous developers
+* 【2022-08-22】[felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
+* 【2022-08-22】[bradtraversy / design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+* 【2022-08-22】[prasadgujar / low-level-design-primer](https://github.com/prasadgujar/low-level-design-primer) - Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.
+* 【2022-08-22】[b7leung / MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.
+* 【2022-08-22】[sirpdboy / openwrt](https://github.com/sirpdboy/openwrt) - openwrt
+* 【2022-08-22】[unlock-music / unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+* 【2022-08-22】[hwanz / SS-SSR-V2ray](https://github.com/hwanz/SS-SSR-V2ray) - ssr/v2ray机场推荐与评测2022
+* 【2022-08-22】[BlackZhangJX / Android-Notes](https://github.com/BlackZhangJX/Android-Notes) - Android开发核心知识点笔记（不断更新中🔥）
+* 【2022-08-22】[githubvpn007 / v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国外游戏、vpn、vpn推荐、每天更新、上外网、外网、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、代理服务器、机场、马里奥、魔兽世界、poshMark、亚马逊、虾皮、煤炉、Mercari、外贸
+* 【2022-08-22】[kxswa / k](https://github.com/kxswa/k) - 🚀免费节点、订阅、机场、梯子、代理、VPN、v2ray、shadowrocket、shadowrocksR、免费翻墙、科学上网、免费梯子、谷歌商店、翻墙梯子
+* 【2022-08-22】[wantToDoSomeThing / ssSSRV2rayClashTrojan](https://github.com/wantToDoSomeThing/ssSSRV2rayClashTrojan) - 科学上网，ss, ssr, v2ray, trojan, clash, clashr，翻墙机场推荐
+* 【2022-08-22】[TheMRLL / WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+* 【2022-08-22】[Semporia / TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.0） 、TikTok（V25.6.0）、TikTok TestFlight 25.8.0，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+* 【2022-08-22】[zhenxun-org / nonebot_plugins_zhenxun_bot](https://github.com/zhenxun-org/nonebot_plugins_zhenxun_bot) - 真寻bot的插件库，稍微修改也可在nonebot2平台通用
 * 【2022-08-21】[cmhungsteve / Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) - An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites
 * 【2022-08-21】[Fndroid / clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 * 【2022-08-21】[sudheerj / angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) - List of 300 Angular Interview Questions and answers
