@@ -6,6 +6,18 @@
 
 ## All language
 
+* 【2022-08-28】[total-typescript / beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+* 【2022-08-28】[google / guava](https://github.com/google/guava) - Google core libraries for Java
+* 【2022-08-28】[microsoft / TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+* 【2022-08-28】[authzed / spicedb](https://github.com/authzed/spicedb) - Open source permissions database inspired by Google Zanzibar
+* 【2022-08-28】[ethereum / EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
+* 【2022-08-28】[hunar4321 / life_code](https://github.com/hunar4321/life_code) - A simple program to simulate attraction/reuplsion forces between many particles
+* 【2022-08-28】[benphelps / homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage) with Docker and service API integrations.
+* 【2022-08-28】[hexstr / FGOAssetsModifyTool](https://github.com/hexstr/FGOAssetsModifyTool) - Fate/GO资源解密工具
+* 【2022-08-28】[wuba / Antenna](https://github.com/wuba/Antenna) - Antenna是58同城安全团队打造的一款辅助安全从业人员验证网络中多种漏洞是否存在以及可利用性的工具。其基于带外应用安全测试(OAST)通过任务的形式，将不同漏洞场景检测能力通过插件的形式进行集合，通过与目标进行out-bind的数据通信方式进行辅助检测。
+* 【2022-08-28】[liyupi / yuindex](https://github.com/liyupi/yuindex) - ✨新项目 - 极客范儿的浏览器主页💻Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统
+* 【2022-08-28】[Tencent / QMUI_iOS](https://github.com/Tencent/QMUI_iOS) - QMUI iOS——致力于提高项目 UI 开发效率的解决方案
+* 【2022-08-28】[jdf2e / nutui](https://github.com/jdf2e/nutui) - 京东风格的移动端 Vue2、Vue3 组件库 、支持多端小程序(A Vue.js UI Toolkit for Mobile Web)
 * 【2022-08-27】[cemu-project / Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
 * 【2022-08-27】[total-typescript / beginners-typescript](https://github.com/total-typescript/beginners-typescript) - 18 interactive exercises for TypeScript beginners
 * 【2022-08-27】[itorr / sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜虚拟器
@@ -308,6 +320,15 @@
 
 ## Java
 
+* 【2022-08-28】[quarkusio / quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
+* 【2022-08-28】[CymChad / BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) - BRVAH:Powerful and flexible RecyclerAdapter
+* 【2022-08-28】[line / armeria](https://github.com/line/armeria) - Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.
+* 【2022-08-28】[android / connectivity-samples](https://github.com/android/connectivity-samples) - Multiple samples showing the best practices in connectivity on Android.
+* 【2022-08-28】[alibaba / druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+* 【2022-08-28】[apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Identity & Single Sign On for all earthlings and beyond.
+* 【2022-08-28】[awsdocs / aws-lambda-developer-guide](https://github.com/awsdocs/aws-lambda-developer-guide) - The AWS Lambda Developer Guide
+* 【2022-08-28】[Mr-xn / RedTeam_BlueTeam_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
+* 【2022-08-28】[Snailclimb / guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework) - A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）
 * 【2022-08-27】[jenkinsci / jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 * 【2022-08-27】[confluentinc / schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 * 【2022-08-27】[sqshq / piggymetrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
@@ -632,6 +653,20 @@
 
 ## Python
 
+* 【2022-08-28】[microsoft / nni](https://github.com/microsoft/nni) - An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+* 【2022-08-28】[sqlfluff / sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
+* 【2022-08-28】[dbt-labs / dbt-utils](https://github.com/dbt-labs/dbt-utils) - Utility functions for dbt projects.
+* 【2022-08-28】[hummingbot / hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
+* 【2022-08-28】[saltstack / salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+* 【2022-08-28】[POSTECH-CVLab / PeRFception](https://github.com/POSTECH-CVLab/PeRFception) - Official implementation of PeRFception: Perception using Radiance Fields.
+* 【2022-08-28】[PaddlePaddle / PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best Demo Award.
+* 【2022-08-28】[MVIG-SJTU / AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System
+* 【2022-08-28】[RangiLyu / nanodet](https://github.com/RangiLyu/nanodet) - NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model.🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥
+* 【2022-08-28】[cl2333 / Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - 
+* 【2022-08-28】[RoomaSec / RmEye](https://github.com/RoomaSec/RmEye) - 戎码之眼是一个window上的基于att&ck模型的威胁监控工具.有效检测常见的未知威胁与已知威胁.防守方的利剑
+* 【2022-08-28】[0voice / interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+* 【2022-08-28】[injetlee / Python](https://github.com/injetlee/Python) - Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机
+* 【2022-08-28】[DarLiner / Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese) - 2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记，此外，还包括创建者看到的所有机器学习/深度学习面经中的问题。 除了其中 DL/ML 相关的，其他与算法岗相关的计算机知识也会记录。 但是不会包括如前端/测试/JAVA/Android等岗位中有关的问题。
 * 【2022-08-27】[chubin / cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 * 【2022-08-27】[t3l3machus / hoaxshell](https://github.com/t3l3machus/hoaxshell) - An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.
 * 【2022-08-27】[sec-an / TV_Spider](https://github.com/sec-an/TV_Spider) - TVBoxOSC 服务端爬虫 Custom Server Spider for Tv Written in Python3
@@ -974,6 +1009,16 @@
 
 ## Javascript
 
+* 【2022-08-28】[visgl / deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
+* 【2022-08-28】[upscayl / upscayl](https://github.com/upscayl/upscayl) - 🆙Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
+* 【2022-08-28】[pixeltris / TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
+* 【2022-08-28】[WordPress / gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+* 【2022-08-28】[videojs / video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+* 【2022-08-28】[JacksonTian / fks](https://github.com/JacksonTian/fks) - 前端技能汇总 Frontend Knowledge Structure
+* 【2022-08-28】[ly525 / luban-h5](https://github.com/ly525/luban-h5) - [WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.
+* 【2022-08-28】[menzi11 / BullshitGenerator](https://github.com/menzi11/BullshitGenerator) - Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
+* 【2022-08-28】[bailicangdu / node-elm](https://github.com/bailicangdu/node-elm) - Backend system based on node.js + Mongodb. 基于 node.js + Mongodb 构建的后台系统
+* 【2022-08-28】[toolgood / ToolGood.Words](https://github.com/toolgood/ToolGood.Words) - 一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。
 * 【2022-08-27】[facebook / draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 * 【2022-08-27】[zachgoll / fullstack-roadmap-series](https://github.com/zachgoll/fullstack-roadmap-series) - This series will take you from an absolute beginner to a fullstack developer for 2021 and beyond
 * 【2022-08-27】[NARKOZ / hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -1310,6 +1355,16 @@
 
 ## Go
 
+* 【2022-08-28】[oauth2-proxy / oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+* 【2022-08-28】[jetpack-io / devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers.
+* 【2022-08-28】[smartcontractkit / chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
+* 【2022-08-28】[lightningnetwork / lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon⚡️
+* 【2022-08-28】[kubernetes-sigs / controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+* 【2022-08-28】[tinygo-org / tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* 【2022-08-28】[shopspring / decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go
+* 【2022-08-28】[elastic / beats](https://github.com/elastic/beats) - 🐠Beats - Lightweight shippers for Elasticsearch & Logstash
+* 【2022-08-28】[pingc0y / URLFinder](https://github.com/pingc0y/URLFinder) - 类似JSFinder的golang实现，更快更全更舒服
+* 【2022-08-28】[hardcore-os / corekv](https://github.com/hardcore-os/corekv) - 
 * 【2022-08-27】[teivah / 100-go-mistakes](https://github.com/teivah/100-go-mistakes) - Source code and community space of📖100 Go Mistakes
 * 【2022-08-27】[hibiken / asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 * 【2022-08-27】[BishopFox / sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
@@ -1685,6 +1740,17 @@
 
 ## C
 
+* 【2022-08-28】[xiph / rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction
+* 【2022-08-28】[bellard / quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.
+* 【2022-08-28】[immortalwrt / immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+* 【2022-08-28】[theori-io / CVE-2022-32250-exploit](https://github.com/theori-io/CVE-2022-32250-exploit) - 
+* 【2022-08-28】[wuzhouhui / misc](https://github.com/wuzhouhui/misc) - 学习与工作中收集的一些资料
+* 【2022-08-28】[xmake-io / xmake](https://github.com/xmake-io/xmake) - 🔥A cross-platform build utility based on Lua
+* 【2022-08-28】[luoyesiqiu / dpt-shell](https://github.com/luoyesiqiu/dpt-shell) - Android函数抽取壳实现
+* 【2022-08-28】[destan19 / OpenAppFilter](https://github.com/destan19/OpenAppFilter) - App filtering is a parent management plug-in based on OpenWrt, which supports app filtering for games, videos, chats, downloads, etc.
+* 【2022-08-28】[lmh12138 / HITSZ-OpenAuto](https://github.com/lmh12138/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
+* 【2022-08-28】[beride / linux0.11-1](https://github.com/beride/linux0.11-1) - Linux内核0.11完全注释V3.0配套源代码
+* 【2022-08-28】[XUANXUQAQ / File-Engine](https://github.com/XUANXUQAQ/File-Engine) - An app launcher && efficiency tool
 * 【2022-08-27】[google / sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer
 * 【2022-08-27】[stephane / libmodbus](https://github.com/stephane/libmodbus) - A Modbus library for Linux, Mac OS, FreeBSD and Windows
 * 【2022-08-27】[warmcat / libwebsockets](https://github.com/warmcat/libwebsockets) - canonical libwebsockets.org networking library
@@ -1983,6 +2049,15 @@
 
 ## C++
 
+* 【2022-08-28】[PetoiCamp / OpenCat](https://github.com/PetoiCamp/OpenCat) - An affordable Boston Dynamics-style quadruped robot dog for STEM education and AI-enhanced services.
+* 【2022-08-28】[hoffstadt / DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+* 【2022-08-28】[mamedev / mame](https://github.com/mamedev/mame) - MAME
+* 【2022-08-28】[mavlink / qgroundcontrol](https://github.com/mavlink/qgroundcontrol) - Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)
+* 【2022-08-28】[WinMerge / winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
+* 【2022-08-28】[zesiar0 / MyPsExec](https://github.com/zesiar0/MyPsExec) - demo PsExec
+* 【2022-08-28】[wz-wsl / 360bypass](https://github.com/wz-wsl/360bypass) - 利用inline hook免杀绕过360，vt爆3个
+* 【2022-08-28】[Tencent / puerts](https://github.com/Tencent/puerts) - 普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS
+* 【2022-08-28】[HuangCongQing / pcl-learning](https://github.com/HuangCongQing/pcl-learning) - 🔥PCL（Point Cloud Library）点云库学习记录
 * 【2022-08-27】[microsoft / calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
 * 【2022-08-27】[doctest / doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
 * 【2022-08-27】[ORCx41 / EtwSessionHijacking](https://github.com/ORCx41/EtwSessionHijacking) - A Poc on blocking Procmon from monitoring network events
@@ -2310,6 +2385,21 @@
 
 ## C#
 
+* 【2022-08-28】[dotnet-architecture / eshop-mobile-client](https://github.com/dotnet-architecture/eshop-mobile-client) - eShop mobile client
+* 【2022-08-28】[dotnet / docfx](https://github.com/dotnet/docfx) - Static site generator for .NET API documentation.
+* 【2022-08-28】[Queuete / ExileApi](https://github.com/Queuete/ExileApi) - Public Fork of ExileApi
+* 【2022-08-28】[ykundesu / SuperNewRoles](https://github.com/ykundesu/SuperNewRoles) - モードや役職など、様々な要素があるMOD、SuperNewRoles!!!!
+* 【2022-08-28】[sta / websocket-sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
+* 【2022-08-28】[BSData / phalanx](https://github.com/BSData/phalanx) - Project Phalanx is a roster editor handling BattleScribe datafiles
+* 【2022-08-28】[lepoco / wpfui](https://github.com/lepoco/wpfui) - A simple way to make your application written in WPF keep up with modern design trends. Library changes the base elements like Page, ToggleButton or List, and also includes additional controls like Navigation, NumberBox, Dialog or Snackbar.
+* 【2022-08-28】[2881099 / FreeScheduler](https://github.com/2881099/FreeScheduler) - 轻量化定时任务调度，支持临时的延时任务和重复循环任务(可持久化)，可按秒，每天/每周/每月固定时间，自定义间隔执行，支持 .NET Core 2.1+、.NET Framework 4.0+ 运行环境。
+* 【2022-08-28】[ppy / osu-framework](https://github.com/ppy/osu-framework) - A game framework written with osu! in mind.
+* 【2022-08-28】[open-telemetry / opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
+* 【2022-08-28】[spectreconsole / spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
+* 【2022-08-28】[xunkong / KeqingNiuza](https://github.com/xunkong/KeqingNiuza) - 刻记牛杂店
+* 【2022-08-28】[2881099 / im](https://github.com/2881099/im) - .NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.
+* 【2022-08-28】[TeslaFly01 / SmartSqlT](https://github.com/TeslaFly01/SmartSqlT) - 🔥🔥🔥SmartSQL 是一款方便、快捷的数据库文档查询、导出工具！该工具从最初支持CHM文档格式开始，通过不断地探索开发、集思广益和不断改进，又陆续支持Word、Excel、PDF、Html、Xml、Json、MarkDown等文档格式的导出。同时支持SqlServer、MySql、PostgreSQL、SQLite等多种数据库的文档查询和导出功能。
+* 【2022-08-28】[zR00t1 / WannaCry](https://github.com/zR00t1/WannaCry) - 基于C#编写的WannaCry模拟病毒，通常应用于网络安全应急演练
 * 【2022-08-27】[FastEndpoints / Library](https://github.com/FastEndpoints/Library) - A light-weight REST API development framework for ASP.Net 6 and newer.
 * 【2022-08-27】[elsa-workflows / elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET Standard 2.0 Workflows Library
 * 【2022-08-27】[NLog / NLog](https://github.com/NLog/NLog) - NLog - Advanced and Structured Logging for Various .NET Platforms
@@ -2578,6 +2668,14 @@
 
 ## Html
 
+* 【2022-08-28】[brave / brave-core](https://github.com/brave/brave-core) - Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues
+* 【2022-08-28】[wsvincent / awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+* 【2022-08-28】[azure-ad-b2c / samples](https://github.com/azure-ad-b2c/samples) - Azure AD B2C custom policy solutions and samples.
+* 【2022-08-28】[zuramai / mazer](https://github.com/zuramai/mazer) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page
+* 【2022-08-28】[kevquirk / 512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
+* 【2022-08-28】[MiMirHenryStone / Sync-Grid](https://github.com/MiMirHenryStone/Sync-Grid) - 
+* 【2022-08-28】[NLPIR-team / NLPIR](https://github.com/NLPIR-team/NLPIR) - 
+* 【2022-08-28】[ty6815 / AvStackDocs](https://github.com/ty6815/AvStackDocs) - 音视频基础知识整理和相关协议文档说明
 * 【2022-08-27】[ainfosec / FISSURE](https://github.com/ainfosec/FISSURE) - The RF and reverse engineering framework for everyone
 * 【2022-08-27】[cobiwave / simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️A minimal portfolio template for Developers
 * 【2022-08-27】[fcwu / docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -2856,6 +2954,13 @@
 
 ## Css
 
+* 【2022-08-28】[missing-semester / missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education📚
+* 【2022-08-28】[LineageOS / android_vendor_lineage](https://github.com/LineageOS/android_vendor_lineage) - 
+* 【2022-08-28】[jlord / hello](https://github.com/jlord/hello) - [Fork-n-Go] A simple personal page. Demo:
+* 【2022-08-28】[aidenybai / million-react](https://github.com/aidenybai/million-react) - ⚛️Write React with a faster Virtual DOM
+* 【2022-08-28】[qumuchegi / notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
+* 【2022-08-28】[calebman / girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection) - 送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。
+* 【2022-08-28】[Tokinx / Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 * 【2022-08-27】[aws-samples / aws-cdk-intro-workshop](https://github.com/aws-samples/aws-cdk-intro-workshop) - Introduction to the AWS CDK - Workshop
 * 【2022-08-27】[jennythinkful / pizza](https://github.com/jennythinkful/pizza) - 
 * 【2022-08-27】[GoneTone / genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer) - 原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer | A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!
@@ -3067,6 +3172,15 @@
 
 ## Unknown
 
+* 【2022-08-28】[edoardottt / awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
+* 【2022-08-28】[heroku / roadmap](https://github.com/heroku/roadmap) - This is the public roadmap for Salesforce Heroku services.
+* 【2022-08-28】[upptime / upptime](https://github.com/upptime/upptime) - ⬆️Free uptime monitor and status page powered by GitHub
+* 【2022-08-28】[jivoi / awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security
+* 【2022-08-28】[EdOverflow / can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+* 【2022-08-28】[leereilly / games](https://github.com/leereilly/games) - 🎮A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+* 【2022-08-28】[Proviesec / google-dorks](https://github.com/Proviesec/google-dorks) - Useful Google Dorks for WebSecurity and Bug Bounty
+* 【2022-08-28】[stefanprodan / dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
+* 【2022-08-28】[rockbenben / LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
 * 【2022-08-27】[imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 * 【2022-08-27】[CodingForCrypt0 / pancakeswap-sniper-bot](https://github.com/CodingForCrypt0/pancakeswap-sniper-bot) - Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star.
 * 【2022-08-27】[angular-vietnam / 100-days-of-angular](https://github.com/angular-vietnam/100-days-of-angular) - Series độc quyền cung cấp bởi thành viên của Angular Vietnam về các chủ đề liên quan tới Angular trong vòng 100 ngày.
