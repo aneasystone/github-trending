@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2022-09-01】[CodeEditApp / CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+* 【2022-09-01】[Joshua-Ashton / VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
+* 【2022-09-01】[hlky / sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
+* 【2022-09-01】[zeeka-network / bazuka](https://github.com/zeeka-network/bazuka) - Rust implementation of Zeeka protocol
+* 【2022-09-01】[magnusviri / stable-diffusion-old](https://github.com/magnusviri/stable-diffusion-old) - Placeholder for the old Stable Diffusion Mac version
+* 【2022-09-01】[jgraph / drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+* 【2022-09-01】[ksz-ksz / rxjs-insights](https://github.com/ksz-ksz/rxjs-insights) - See through the observables.
+* 【2022-09-01】[k4yt3x / video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
+* 【2022-09-01】[guangzhengli / k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
+* 【2022-09-01】[MustangYM / WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 * 【2022-08-31】[AykutSarac / jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 * 【2022-08-31】[bes-dev / stable_diffusion.openvino](https://github.com/bes-dev/stable_diffusion.openvino) - 
 * 【2022-08-31】[microsoft / ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -350,6 +360,15 @@
 
 ## Java
 
+* 【2022-09-01】[seata / seata](https://github.com/seata/seata) - 🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+* 【2022-09-01】[react-native-image-picker / react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - 🌄A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
+* 【2022-09-01】[apache / shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+* 【2022-09-01】[aws / aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) - The official AWS SDK for Java - Version 2
+* 【2022-09-01】[kiegroup / drools](https://github.com/kiegroup/drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
+* 【2022-09-01】[MindorksOpenSource / android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
+* 【2022-09-01】[WindySha / Xpatch](https://github.com/WindySha/Xpatch) - 免Root实现app加载Xposed插件工具。This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
+* 【2022-09-01】[starcwang / easy_javadoc](https://github.com/starcwang/easy_javadoc) - IntelliJ IDEA 插件，自动生成javadoc文档注释
+* 【2022-09-01】[tarena-tech / tarena-pigeon](https://github.com/tarena-tech/tarena-pigeon) - 信鸽-与非科技开源消息中台
 * 【2022-08-31】[plantuml / plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 * 【2022-08-31】[mapstruct / mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 * 【2022-08-31】[gyoogle / tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) - 👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전📖
@@ -709,6 +728,16 @@
 
 ## Python
 
+* 【2022-09-01】[EvanLi / Github-Ranking](https://github.com/EvanLi/Github-Ranking) - ⭐Github Ranking⭐Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+* 【2022-09-01】[Azure / azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
+* 【2022-09-01】[pytorch / tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
+* 【2022-09-01】[alibaba / EasyCV](https://github.com/alibaba/EasyCV) - An all-in-one toolkit for computer vision
+* 【2022-09-01】[eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+* 【2022-09-01】[MasterBin-IIAU / Unicorn](https://github.com/MasterBin-IIAU/Unicorn) - [ECCV'22 Oral] Towards Grand Unification of Object Tracking
+* 【2022-09-01】[shellward / StablenderDiffusion](https://github.com/shellward/StablenderDiffusion) - General Repo for blender and stable-diffusion integration
+* 【2022-09-01】[wandb / wandb](https://github.com/wandb/wandb) - 🔥A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+* 【2022-09-01】[pengzhendong / text_normalization](https://github.com/pengzhendong/text_normalization) - 
+* 【2022-09-01】[casual-silva / NewsCrawl](https://github.com/casual-silva/NewsCrawl) - 狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化; 配置集群爬虫分配策略；👉现成的docker一键部署文档已为大家踩坑
 * 【2022-08-31】[optuna / optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 * 【2022-08-31】[mhaskar / ExchangeFinder](https://github.com/mhaskar/ExchangeFinder) - Find Microsoft Exchange instance for a given domain and identify the exact version
 * 【2022-08-31】[benbusby / whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1100,6 +1129,14 @@
 
 ## Javascript
 
+* 【2022-09-01】[100devs / todo-mvc-auth-local](https://github.com/100devs/todo-mvc-auth-local) - 
+* 【2022-09-01】[luin / medis](https://github.com/luin/medis) - 💻Medis is a beautiful, easy-to-use Mac database management application for Redis.
+* 【2022-09-01】[atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+* 【2022-09-01】[serverless / serverless](https://github.com/serverless/serverless) - ⚡Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+* 【2022-09-01】[Kenshin / simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+* 【2022-09-01】[ksky521 / nodeppt](https://github.com/ksky521/nodeppt) - This is probably the best web presentation tool so far!
+* 【2022-09-01】[a597873885 / webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态。webfunny is a lightweight front-end monitoring system and webfunny is also a front-end performance monitoring system. It monitors front-end logs and analyzes front-end health status in real time.
+* 【2022-09-01】[M-cheng-web / web-tracing](https://github.com/M-cheng-web/web-tracing) - 前端 - 埋点, 性能采集, 异常采集, 请求采集, 路由采集
 * 【2022-08-31】[tholman / cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 * 【2022-08-31】[HowProgrammingWorks / Index](https://github.com/HowProgrammingWorks/Index) - Metarhia educational program index📖
 * 【2022-08-31】[SchemaStore / schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -1472,6 +1509,16 @@
 
 ## Go
 
+* 【2022-09-01】[onsi / ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
+* 【2022-09-01】[moby / buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+* 【2022-09-01】[crossplane-contrib / provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider
+* 【2022-09-01】[ray-project / kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes
+* 【2022-09-01】[nats-io / nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+* 【2022-09-01】[docker / buildx](https://github.com/docker/buildx) - Docker CLI plugin for extended build capabilities with BuildKit
+* 【2022-09-01】[turbot / steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+* 【2022-09-01】[tjfoc / gmsm](https://github.com/tjfoc/gmsm) - GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
+* 【2022-09-01】[szdyg / pdb_proxy](https://github.com/szdyg/pdb_proxy) - 
+* 【2022-09-01】[SonicCloudOrg / sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) - 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。
 * 【2022-08-31】[prometheus-operator / prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 * 【2022-08-31】[google / pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 * 【2022-08-31】[opencontainers / runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification
@@ -1884,6 +1931,12 @@
 
 ## C
 
+* 【2022-09-01】[eeriedusk / knockles](https://github.com/eeriedusk/knockles) - eBPF Port Knocking Tool
+* 【2022-09-01】[RT-Thread / rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
+* 【2022-09-01】[wireshark / wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
+* 【2022-09-01】[fwupd / fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
+* 【2022-09-01】[wasm3 / wasm3](https://github.com/wasm3/wasm3) - 🚀The fastest WebAssembly interpreter, and the most universal runtime
+* 【2022-09-01】[ImageMagick / ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ImageMagick 7
 * 【2022-08-31】[ithewei / libhv](https://github.com/ithewei/libhv) - 🔥比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.
 * 【2022-08-31】[github / trilogy](https://github.com/github/trilogy) - Trilogy is a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding.
 * 【2022-08-31】[alibaba / xquic](https://github.com/alibaba/xquic) - XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
@@ -2221,6 +2274,9 @@
 
 ## C++
 
+* 【2022-09-01】[danielkrupinski / Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
+* 【2022-09-01】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
+* 【2022-09-01】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
 * 【2022-08-31】[Kudaes / Elevator](https://github.com/Kudaes/Elevator) - UAC Bypass by abusing RPC and debug objects.
 * 【2022-08-31】[zodiacon / DbgPrint](https://github.com/zodiacon/DbgPrint) - Debug Print viewer (user and kernel)
 * 【2022-08-31】[epezent / implot](https://github.com/epezent/implot) - Immediate Mode Plotting
@@ -2581,6 +2637,10 @@
 
 ## C#
 
+* 【2022-09-01】[LaVieon / GrasshopperTetris](https://github.com/LaVieon/GrasshopperTetris) - 
+* 【2022-09-01】[Timotheeee / btd6_mods](https://github.com/Timotheeee/btd6_mods) - 
+* 【2022-09-01】[526077247 / ETPro](https://github.com/526077247/ETPro) - ET6+YooAsset+HybridCLR
+* 【2022-09-01】[jasonhua95 / awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core) - .NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。
 * 【2022-08-31】[t1m0thyj / WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows 10
 * 【2022-08-31】[Wox-launcher / Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 * 【2022-08-31】[cefsharp / CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
@@ -2894,6 +2954,15 @@
 
 ## Html
 
+* 【2022-09-01】[OWASP / www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
+* 【2022-09-01】[gitdagray / css_course](https://github.com/gitdagray/css_course) - 
+* 【2022-09-01】[SeldonIO / seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
+* 【2022-09-01】[jaykali / lockphish](https://github.com/jaykali/lockphish) - Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
+* 【2022-09-01】[Vepcz0069 / Snake-mods](https://github.com/Vepcz0069/Snake-mods) - mods for the google snake game!
+* 【2022-09-01】[techwithtim / Flask-Web-App-Tutorial](https://github.com/techwithtim/Flask-Web-App-Tutorial) - Code for the note storing flask web app made during a YouTube video.
+* 【2022-09-01】[QianMo / Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) - Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference
+* 【2022-09-01】[DistSysCorp / ddia](https://github.com/DistSysCorp/ddia) - DDIA 逐章精读
+* 【2022-09-01】[jiji262 / wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
 * 【2022-08-31】[imrk51 / CEH-v11-Study-Guide](https://github.com/imrk51/CEH-v11-Study-Guide) - 
 * 【2022-08-31】[haixiangyan / make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥🔥《造轮子》系列小书 —— 带你造 10 个实用的 npm 库📦
 * 【2022-08-31】[Terminus2049 / Not-exist-in-douban](https://github.com/Terminus2049/Not-exist-in-douban) - 豆瓣不存在的书影音
@@ -3197,6 +3266,14 @@
 
 ## Css
 
+* 【2022-09-01】[aza547 / wow-recorder](https://github.com/aza547/wow-recorder) - A desktop screen recorder application that records and saves videos of in-game World of Warcraft encounters, and provides a graphical user interface to view the replays. It is completely free, open source and contains no adverts.
+* 【2022-09-01】[MrOtherGuy / firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
+* 【2022-09-01】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
+* 【2022-09-01】[LexirIO / lexir-io-challenge](https://github.com/LexirIO/lexir-io-challenge) - 
+* 【2022-09-01】[ue12-p22 / intro](https://github.com/ue12-p22/intro) - 
+* 【2022-09-01】[yasagit / ichiyasaGitSample](https://github.com/yasagit/ichiyasaGitSample) - 『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクトです。
+* 【2022-09-01】[ElzeroWebSchool / HTML_And_CSS_Template_Three](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Three) - 
+* 【2022-09-01】[Codecademy / deploying-a-static-site-with-netlify-sample](https://github.com/Codecademy/deploying-a-static-site-with-netlify-sample) - 
 * 【2022-08-31】[phil294 / density-userstyle](https://github.com/phil294/density-userstyle) - Removing padding from websites
 * 【2022-08-31】[creativetimofficial / black-dashboard-react](https://github.com/creativetimofficial/black-dashboard-react) - 
 * 【2022-08-31】[yasagit-2 / ichiyasaGitSample](https://github.com/yasagit-2/ichiyasaGitSample) - 『いちばんやさしいGit&GitHubの教本』のサンプルプロジェクトです。
@@ -3434,6 +3511,15 @@
 
 ## Unknown
 
+* 【2022-09-01】[tjhorner / upsy-desky](https://github.com/tjhorner/upsy-desky) - Automate your standing desk
+* 【2022-09-01】[DataWithDanny / sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) - 
+* 【2022-09-01】[jsoslow2 / Fantasy-Football-Models](https://github.com/jsoslow2/Fantasy-Football-Models) - Beating the shit out of my friends with data science
+* 【2022-09-01】[zbezj / HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
+* 【2022-09-01】[warpdotdev / Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
+* 【2022-09-01】[muellerberndt / android_app_security_checklist](https://github.com/muellerberndt/android_app_security_checklist) - Android App Security Checklist
+* 【2022-09-01】[LinDaiDai / bpmn-chinese-document](https://github.com/LinDaiDai/bpmn-chinese-document) - 📒全网最详bpmn.js中文教材/文档
+* 【2022-09-01】[Jackpopc / CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store) - 你想要的计算机经典书籍，这里都有！
+* 【2022-09-01】[yhArcadia / Yunzai-Bot-plugins-index](https://github.com/yhArcadia/Yunzai-Bot-plugins-index) - Yunzai-Bot云崽QQ机器人插件索引
 * 【2022-08-31】[CAIC-AD / YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) - YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception
 * 【2022-08-31】[altryne / awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 * 【2022-08-31】[staltz / ttosa](https://github.com/staltz/ttosa) - CSV data for Time Till Open Source Alternative
