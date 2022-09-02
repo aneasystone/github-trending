@@ -6,6 +6,19 @@
 
 ## All language
 
+* 【2022-09-02】[apple / swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
+* 【2022-09-02】[mstrYoda / kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap) - 
+* 【2022-09-02】[flutter / flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+* 【2022-09-02】[vulhub / vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
+* 【2022-09-02】[total-typescript / typescript-generics-tutorial](https://github.com/total-typescript/typescript-generics-tutorial) - Interactive tutorial on using generics in TypeScript
+* 【2022-09-02】[altryne / sd-webui-colab](https://github.com/altryne/sd-webui-colab) - A repo for the maintenance of the Colab version of stable-diffusion-webui repo
+* 【2022-09-02】[CompVis / latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+* 【2022-09-02】[girliemac / a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
+* 【2022-09-02】[heartcombo / devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden.
+* 【2022-09-02】[elunez / eladmin-web](https://github.com/elunez/eladmin-web) - eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由
+* 【2022-09-02】[Ormicron / Sharp-dumpkey](https://github.com/Ormicron/Sharp-dumpkey) - 基于C#实现的获取微信数据库密钥的小工具
+* 【2022-09-02】[emptysuns / Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+* 【2022-09-02】[oneliey / BUPT-SCS-Courses](https://github.com/oneliey/BUPT-SCS-Courses) - BUPT SCS 选修课指北
 * 【2022-09-01】[CodeEditApp / CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 * 【2022-09-01】[Joshua-Ashton / VPhysics-Jolt](https://github.com/Joshua-Ashton/VPhysics-Jolt) - Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
 * 【2022-09-01】[hlky / sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
@@ -360,6 +373,12 @@
 
 ## Java
 
+* 【2022-09-02】[streamxhub / streampark](https://github.com/streamxhub/streampark) - Make stream processing easier! easy-to-use stream processing application development framework and one-stop stream processing operation platform
+* 【2022-09-02】[techops-recsys-grad-hiring / joi-grad-shopping-cart-java](https://github.com/techops-recsys-grad-hiring/joi-grad-shopping-cart-java) - 
+* 【2022-09-02】[eclipse-vertx / vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
+* 【2022-09-02】[apache / ranger](https://github.com/apache/ranger) - Mirror of Apache Ranger
+* 【2022-09-02】[chenjiabing666 / JavaFamily](https://github.com/chenjiabing666/JavaFamily) - 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
+* 【2022-09-02】[veo / wsMemShell](https://github.com/veo/wsMemShell) - WebSocket Webshell，一种新型WebShell技术
 * 【2022-09-01】[seata / seata](https://github.com/seata/seata) - 🔥Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2022-09-01】[react-native-image-picker / react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker) - 🌄A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
 * 【2022-09-01】[apache / shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
@@ -728,6 +747,17 @@
 
 ## Python
 
+* 【2022-09-02】[nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+* 【2022-09-02】[PaddlePaddle / PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
+* 【2022-09-02】[badtuxx / DescomplicandoPrometheus](https://github.com/badtuxx/DescomplicandoPrometheus) - Repositório do treinamento Descomplicando o Prometheus da LINUXtips
+* 【2022-09-02】[careercup / CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python) - Cracking the Coding Interview 6th Ed. Python Solutions
+* 【2022-09-02】[dvlab-research / BlockNeRFPytorch](https://github.com/dvlab-research/BlockNeRFPytorch) - 1. Weekly classified NeRF literature. 2. Non-official implementation of Block-NeRF and Mega-NeRF in Pytorch. 3. Train your large-scale NeRF in the wild.
+* 【2022-09-02】[8080labs / ppscore](https://github.com/8080labs/ppscore) - Predictive Power Score (PPS) in Python
+* 【2022-09-02】[OWASP / CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+* 【2022-09-02】[NVIDIA / NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
+* 【2022-09-02】[lyhue1991 / eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0🍎🍊is delicious, just eat it!😋😋
+* 【2022-09-02】[zhzyker / vulmap](https://github.com/zhzyker/vulmap) - Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能
+* 【2022-09-02】[Rockyzsu / stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
 * 【2022-09-01】[EvanLi / Github-Ranking](https://github.com/EvanLi/Github-Ranking) - ⭐Github Ranking⭐Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 * 【2022-09-01】[Azure / azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 * 【2022-09-01】[pytorch / tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
@@ -1129,6 +1159,19 @@
 
 ## Javascript
 
+* 【2022-09-02】[rolling-scopes-school / tasks](https://github.com/rolling-scopes-school/tasks) - 
+* 【2022-09-02】[alyssaxuu / flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts✨
+* 【2022-09-02】[alyssaxuu / screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome🎥
+* 【2022-09-02】[pinojs / pino](https://github.com/pinojs/pino) - 🌲super fast, all natural json logger
+* 【2022-09-02】[Automattic / mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+* 【2022-09-02】[google / docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+* 【2022-09-02】[aws-actions / configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
+* 【2022-09-02】[gitdagray / mern_stack_course](https://github.com/gitdagray/mern_stack_course) - 
+* 【2022-09-02】[jbaysolutions / vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
+* 【2022-09-02】[Momo707577045 / media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
+* 【2022-09-02】[WTFAcademy / WTFEthers](https://github.com/WTFAcademy/WTFEthers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
+* 【2022-09-02】[zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
+* 【2022-09-02】[numberwolf / h265web.js](https://github.com/numberwolf/h265web.js) - 🔥HEVC/H.265 网页直播/点播播放器 支持H.265的HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket播放。🔥A HEVC/H.265 Web Player, for LIVE/VOD stream. Support H.265 Codec with HttpFLV/HLS/MP4/TS/FLV/M3U8/Websocket.
 * 【2022-09-01】[100devs / todo-mvc-auth-local](https://github.com/100devs/todo-mvc-auth-local) - 
 * 【2022-09-01】[luin / medis](https://github.com/luin/medis) - 💻Medis is a beautiful, easy-to-use Mac database management application for Redis.
 * 【2022-09-01】[atlassian / react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -1509,6 +1552,13 @@
 
 ## Go
 
+* 【2022-09-02】[ps1337 / reinschauer](https://github.com/ps1337/reinschauer) - 
+* 【2022-09-02】[prometheus / blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
+* 【2022-09-02】[cosmos / relayer](https://github.com/cosmos/relayer) - An IBC relayer for ibc-go
+* 【2022-09-02】[WireGuard / wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+* 【2022-09-02】[google / cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+* 【2022-09-02】[fatih / color](https://github.com/fatih/color) - Color package for Go (golang)
+* 【2022-09-02】[wgpsec / ENScan_GO](https://github.com/wgpsec/ENScan_GO) - 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
 * 【2022-09-01】[onsi / ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 * 【2022-09-01】[moby / buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 * 【2022-09-01】[crossplane-contrib / provider-aws](https://github.com/crossplane-contrib/provider-aws) - Crossplane AWS Provider
@@ -1931,6 +1981,15 @@
 
 ## C
 
+* 【2022-09-02】[u-boot / u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
+* 【2022-09-02】[axboe / fio](https://github.com/axboe/fio) - Flexible I/O Tester
+* 【2022-09-02】[arut / nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
+* 【2022-09-02】[mit-han-lab / tinyengine](https://github.com/mit-han-lab/tinyengine) - [NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; MCUNetV3: On-Device Training Under 256KB Memory
+* 【2022-09-02】[SanderMertens / flecs](https://github.com/SanderMertens/flecs) - A fast entity component system (ECS) for C & C++
+* 【2022-09-02】[raspberrypi / linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/
+* 【2022-09-02】[elfmaster / maya](https://github.com/elfmaster/maya) - Highly advanced Linux anti-exploitation and anti-tamper binary protector for ELF.
+* 【2022-09-02】[ehids / ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.
+* 【2022-09-02】[xboot / xboot](https://github.com/xboot/xboot) - The extensible bootloader for embedded system with application engine, write once, run everywhere.
 * 【2022-09-01】[eeriedusk / knockles](https://github.com/eeriedusk/knockles) - eBPF Port Knocking Tool
 * 【2022-09-01】[RT-Thread / rt-thread](https://github.com/RT-Thread/rt-thread) - RT-Thread is an open source IoT operating system.
 * 【2022-09-01】[wireshark / wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.
@@ -2274,6 +2333,12 @@
 
 ## C++
 
+* 【2022-09-02】[12CrazyPaul21 / WxBox](https://github.com/12CrazyPaul21/WxBox) - 桌面端微信机器人
+* 【2022-09-02】[ArduPilot / ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
+* 【2022-09-02】[opencv / opencv_contrib](https://github.com/opencv/opencv_contrib) - Repository for OpenCV's extra modules
+* 【2022-09-02】[oceanbase / oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
+* 【2022-09-02】[weidai11 / cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
+* 【2022-09-02】[SYaoJun / cpp_in_action](https://github.com/SYaoJun/cpp_in_action) - C/C++ mini project
 * 【2022-09-01】[danielkrupinski / Osiris](https://github.com/danielkrupinski/Osiris) - Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.
 * 【2022-09-01】[openthread / openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 * 【2022-09-01】[open-source-parsers / jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
@@ -2637,6 +2702,17 @@
 
 ## C#
 
+* 【2022-09-02】[dotnet / BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
+* 【2022-09-02】[naweed / MauiTubePlayer](https://github.com/naweed/MauiTubePlayer) - A Youtube Clone app building using .Net Maui
+* 【2022-09-02】[r4wd3r / Suborner](https://github.com/r4wd3r/Suborner) - 
+* 【2022-09-02】[lostindark / DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
+* 【2022-09-02】[HandyOrg / HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+* 【2022-09-02】[madskristensen / RainbowBraces](https://github.com/madskristensen/RainbowBraces) - A Visual Studio extension
+* 【2022-09-02】[ScottPlot / ScottPlot](https://github.com/ScottPlot/ScottPlot) - Interactive Plotting Library for .NET
+* 【2022-09-02】[microsoft / RulesEngine](https://github.com/microsoft/RulesEngine) - A Json based Rules Engine with extensive Dynamic expression support
+* 【2022-09-02】[MapsterMapper / Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
+* 【2022-09-02】[2881099 / FightLandlord](https://github.com/2881099/FightLandlord) - .NETCore斗地主服务器 + HTML5前端
+* 【2022-09-02】[Bambi5 / Collei_Launcher](https://github.com/Bambi5/Collei_Launcher) - 启动器
 * 【2022-09-01】[LaVieon / GrasshopperTetris](https://github.com/LaVieon/GrasshopperTetris) - 
 * 【2022-09-01】[Timotheeee / btd6_mods](https://github.com/Timotheeee/btd6_mods) - 
 * 【2022-09-01】[526077247 / ETPro](https://github.com/526077247/ETPro) - ET6+YooAsset+HybridCLR
@@ -2954,6 +3030,11 @@
 
 ## Html
 
+* 【2022-09-02】[qbcore-framework / qb-multicharacter](https://github.com/qbcore-framework/qb-multicharacter) - Multi-Character System Used With QB-Core👨👩
+* 【2022-09-02】[cznull / cznull.github.io](https://github.com/cznull/cznull.github.io) - 
+* 【2022-09-02】[Montana-Media-Arts / 120_CreativeCoding1-Fall2022-Samples](https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2022-Samples) - 
+* 【2022-09-02】[zgjx6 / SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator) - 社会工程学密码生成器，是一个利用个人信息生成密码的工具
+* 【2022-09-02】[xuaikun / xuaikun.github.io](https://github.com/xuaikun/xuaikun.github.io) - 
 * 【2022-09-01】[OWASP / www-project-kubernetes-top-ten](https://github.com/OWASP/www-project-kubernetes-top-ten) - OWASP Foundation Web Respository
 * 【2022-09-01】[gitdagray / css_course](https://github.com/gitdagray/css_course) - 
 * 【2022-09-01】[SeldonIO / seldon-core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
@@ -3266,6 +3347,12 @@
 
 ## Css
 
+* 【2022-09-02】[nbuntsch / exercice-maquette-mobile-cook](https://github.com/nbuntsch/exercice-maquette-mobile-cook) - 
+* 【2022-09-02】[nbuntsch / exercice-maquette-mobile-architecture](https://github.com/nbuntsch/exercice-maquette-mobile-architecture) - 
+* 【2022-09-02】[HackerUSA-CE / CSS-CSS-Animations](https://github.com/HackerUSA-CE/CSS-CSS-Animations) - code along for class for CSS animations 3.3.1
+* 【2022-09-02】[joe-bell / loading-disco](https://github.com/joe-bell/loading-disco) - An alternative to the loading spinner 🪩
+* 【2022-09-02】[woowacourse / jwp-dashboard-http](https://github.com/woowacourse/jwp-dashboard-http) - 
+* 【2022-09-02】[interactive-structures / teach-pui](https://github.com/interactive-structures/teach-pui) - 
 * 【2022-09-01】[aza547 / wow-recorder](https://github.com/aza547/wow-recorder) - A desktop screen recorder application that records and saves videos of in-game World of Warcraft encounters, and provides a graphical user interface to view the replays. It is completely free, open source and contains no adverts.
 * 【2022-09-01】[MrOtherGuy / firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 * 【2022-09-01】[stripe-samples / checkout-one-time-payments](https://github.com/stripe-samples/checkout-one-time-payments) - Use Checkout to quickly collect one-time payments.
@@ -3511,6 +3598,16 @@
 
 ## Unknown
 
+* 【2022-09-02】[tomhuang12 / awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
+* 【2022-09-02】[louisfb01 / start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+* 【2022-09-02】[ezgiturali / Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
+* 【2022-09-02】[alex / what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+* 【2022-09-02】[microsoft / api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+* 【2022-09-02】[sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - ⚡Delightful Node.js packages and resources
+* 【2022-09-02】[GeQ1an / Rules](https://github.com/GeQ1an/Rules) - Stick Rules -- Quantumult X / Loon / ClashX Rules \ Quantumult back to CN Rules
+* 【2022-09-02】[zhengnianli / EmbedSummary](https://github.com/zhengnianli/EmbedSummary) - 精品嵌入式资源汇总
+* 【2022-09-02】[xrayfree / free-ssr-ss-v2ray-vpn-clash](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash) - 长期免费维护数个SSR/SS/V2RAY/VPN/CLASH订阅高速节点链接！电报群：https://t.me/xrayfree
+* 【2022-09-02】[sorenduan / awesome-java-books](https://github.com/sorenduan/awesome-java-books) - Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
 * 【2022-09-01】[tjhorner / upsy-desky](https://github.com/tjhorner/upsy-desky) - Automate your standing desk
 * 【2022-09-01】[DataWithDanny / sql-masterclass](https://github.com/DataWithDanny/sql-masterclass) - 
 * 【2022-09-01】[jsoslow2 / Fantasy-Football-Models](https://github.com/jsoslow2/Fantasy-Football-Models) - Beating the shit out of my friends with data science
