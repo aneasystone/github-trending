@@ -1,5 +1,6 @@
 # coding:utf-8
 
+import os
 import datetime
 import requests
 import urllib.parse
@@ -42,22 +43,30 @@ def scrape_lang(language):
     r2 = scrape_url(url)
     return { **r1, **r2 }
 
-def write_markdown(lang, results):
+def write_markdown(lang, results, archived_contents):
     ''' Write the results to markdown file
     '''
     content = ''
     with open('README.md', mode='r', encoding='utf-8') as f:
         content = f.read()
-    content = convert_file_contenet(content, lang, results)
+    content = convert_file_contenet(content, lang, results, archived_contents)
     with open('README.md', mode='w', encoding='utf-8') as f:
         f.write(content)
 
-def convert_file_contenet(content, lang, results):
+def is_title_exist(title, content, archived_contents):
+    if '[' + title + ']' in content:
+        return True
+    for archived_content in archived_contents:
+        if '[' + title + ']' in archived_content:
+            return True
+    return False
+
+def convert_file_contenet(content, lang, results, archived_contents):
     ''' Add distinct results to content
     '''
     distinct_results = []
     for title, result in results.items():
-        if '[' + title + ']' not in content:
+        if not is_title_exist(title, content, archived_contents):
             distinct_results.append(result)
     
     if not distinct_results:
@@ -95,13 +104,27 @@ def convert_lang_title(lang):
         return '## All language'
     return '## ' + lang.capitalize()
 
+def get_archived_contents():
+    archived_contents = []
+    archived_files = os.listdir('./archived')
+    for file in archived_files:
+        content = ''
+        with open('./archived/' + file, mode='r', encoding='utf-8') as f:
+            content = f.read()
+        archived_contents.append(content)
+    return archived_contents
+
 def job():
+    ''' Get archived contents
+    '''
+    archived_contents = get_archived_contents()
+
     ''' Start the scrape job
     '''
     languages = ['', 'java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
-        write_markdown(lang, results)
+        write_markdown(lang, results, archived_contents)
 
 if __name__ == '__main__':
     job()
