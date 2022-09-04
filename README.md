@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-04】[TuGraph-db / tugraph-db](https://github.com/TuGraph-db/tugraph-db) - 
+* 【2022-09-04】[community / community](https://github.com/community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
+* 【2022-09-04】[WongKinYiu / yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+* 【2022-09-04】[nextcloud / server](https://github.com/nextcloud/server) - ☁️Nextcloud server, a safe home for all your data
+* 【2022-09-04】[adap / flower](https://github.com/adap/flower) - Flower - A Friendly Federated Learning Framework
+* 【2022-09-04】[vmware-tanzu / kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+* 【2022-09-04】[rust-lang / rustlings](https://github.com/rust-lang/rustlings) - 🦀Small exercises to get you used to reading and writing Rust code!
 * 【2022-09-03】[helix-editor / helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 * 【2022-09-03】[alyssaxuu / motionity](https://github.com/alyssaxuu/motionity) - The web-based motion graphics editor for everyone📽
 * 【2022-09-03】[gskinnerTeam / flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app) - A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.
@@ -40,6 +47,10 @@
 
 ## Java
 
+* 【2022-09-04】[antlr / antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
+* 【2022-09-04】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。 The mini-spring-cloud is a simplified version of the Spring Cloud framework, which can help you quickly familiarize yourself with the source code of Spring Cloud framework and master its core princ…
+* 【2022-09-04】[mouzt / mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
+* 【2022-09-04】[Firebasky / Java](https://github.com/Firebasky/Java) - 关于学习java安全的一些知识,正在学习中ing,欢迎fork and star
 * 【2022-09-03】[fabric8io / kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
 * 【2022-09-03】[thombergs / code-examples](https://github.com/thombergs/code-examples) - A collection of code examples from blog posts etc.
 * 【2022-09-03】[OpenLineage / OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
@@ -63,6 +74,12 @@
 
 ## Python
 
+* 【2022-09-04】[ljvmiranda921 / prodigy-pdf-custom-recipe](https://github.com/ljvmiranda921/prodigy-pdf-custom-recipe) - Custom recipe and utilities for document processing
+* 【2022-09-04】[replicate / cog](https://github.com/replicate/cog) - Containers for machine learning
+* 【2022-09-04】[Gabattal / Scripts-LeagueOfLegends](https://github.com/Gabattal/Scripts-LeagueOfLegends) - When I have a script idea, whether it is stupid or brilliant, I develop it and I push it there :D
+* 【2022-09-04】[facebookresearch / dino](https://github.com/facebookresearch/dino) - PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
+* 【2022-09-04】[fundamentalvision / Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) - Deformable DETR: Deformable Transformers for End-to-End Object Detection.
+* 【2022-09-04】[vishnubob / wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 * 【2022-09-03】[kakaobrain / coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
 * 【2022-09-03】[UKPLab / sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 * 【2022-09-03】[kedro-org / kedro](https://github.com/kedro-org/kedro) - A Python framework for creating reproducible, maintainable and modular data science code.
@@ -95,6 +112,10 @@
 
 ## Javascript
 
+* 【2022-09-04】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪A list of funny and tricky JavaScript examples
+* 【2022-09-04】[alyssaxuu / omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity⌨️
+* 【2022-09-04】[zadam / trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+* 【2022-09-04】[Momo707577045 / m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
 * 【2022-09-03】[npm / cli](https://github.com/npm/cli) - the package manager for JavaScript
 * 【2022-09-03】[fengyuanchen / cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 * 【2022-09-03】[chartjs / Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
@@ -127,6 +148,17 @@
 
 ## Go
 
+* 【2022-09-04】[cilium / cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+* 【2022-09-04】[zyedidia / micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+* 【2022-09-04】[uptrace / bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
+* 【2022-09-04】[kubernetes / enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
+* 【2022-09-04】[istio / istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+* 【2022-09-04】[alphadose / haxmap](https://github.com/alphadose/haxmap) - Fastest and most memory efficient golang concurrent hashmap
+* 【2022-09-04】[flashbots / mev-boost](https://github.com/flashbots/mev-boost) - MEV-boost allows proof-of-stake Ethereum consensus clients to outsource block construction
+* 【2022-09-04】[caoyingjunz / pixiu](https://github.com/caoyingjunz/pixiu) - Pixiu(貔貅) 旨在对 kubernetes 原生功能的补充和强化
+* 【2022-09-04】[stilleshan / dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件. https://docker.ioiox.com
+* 【2022-09-04】[yeasy / blockchain_guide](https://github.com/yeasy/blockchain_guide) - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
+* 【2022-09-04】[pretty66 / iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 * 【2022-09-03】[ThreeDotsLabs / wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 * 【2022-09-03】[kubevela / kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 * 【2022-09-03】[open-telemetry / opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
@@ -162,6 +194,14 @@
 
 ## C
 
+* 【2022-09-04】[FreeRTOS / FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) - FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.
+* 【2022-09-04】[NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
+* 【2022-09-04】[zmkfirmware / zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
+* 【2022-09-04】[reactos / reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+* 【2022-09-04】[AprilRobotics / apriltag](https://github.com/AprilRobotics/apriltag) - AprilTag is a visual fiducial system popular for robotics research.
+* 【2022-09-04】[chenzyyzd / CuprumTurbo-Scheduler](https://github.com/chenzyyzd/CuprumTurbo-Scheduler) - 一个易于上手的调度
+* 【2022-09-04】[ChenLittlePing / LearningVideo](https://github.com/ChenLittlePing/LearningVideo) - 【Android 音视频开发打怪升级】系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
+* 【2022-09-04】[Heltec-Aaron-Lee / WiFi_Kit_series](https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series) - Arduino source codes and toolchain for WiFi_Kit_series made by HelTecAutomation.
 * 【2022-09-03】[Palakis / obs-ndi](https://github.com/Palakis/obs-ndi) - NewTek NDI integration for OBS Studio
 * 【2022-09-03】[ARMmbed / DAPLink](https://github.com/ARMmbed/DAPLink) - 
 * 【2022-09-03】[StaZhu / enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) - A guide that teach you enable hardware HEVC decoding for Chrome / Edge on macOS / Windows, or build a custom version of Chromium / Electron that supports hardware & software HEVC decoding.
@@ -186,6 +226,14 @@
 
 ## C++
 
+* 【2022-09-04】[FreeCAD / FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+* 【2022-09-04】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
+* 【2022-09-04】[lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
+* 【2022-09-04】[cyberbotics / webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
+* 【2022-09-04】[openxrlab / xrnerf](https://github.com/openxrlab/xrnerf) - OpenXRLab Neural Radiance Field (NeRF) Toolbox and Benchmark
+* 【2022-09-04】[Tencent / mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component developed by WeChat.
+* 【2022-09-04】[NVIDIA / FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
+* 【2022-09-04】[zaphoyd / websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 * 【2022-09-03】[eProsima / Fast-DDS](https://github.com/eProsima/Fast-DDS) - The most complete DDS - Proven: Plenty of success cases.
 * 【2022-09-03】[cs225-illinois / release-f22](https://github.com/cs225-illinois/release-f22) - Assignment release repo for CS 225 Fall 2022.
 * 【2022-09-03】[ethz-asl / kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox
@@ -209,6 +257,15 @@
 
 ## C#
 
+* 【2022-09-04】[microsoft / WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
+* 【2022-09-04】[Azure / azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
+* 【2022-09-04】[ledoge / novideo_srgb](https://github.com/ledoge/novideo_srgb) - Calibrate monitors to sRGB or other color spaces on NVIDIA GPUs, based on EDID data or ICC profiles
+* 【2022-09-04】[nopSolutions / nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
+* 【2022-09-04】[lysilver / KopSoftWms](https://github.com/lysilver/KopSoftWms) - KopSoft仓库管理系统
+* 【2022-09-04】[QAX-A-Team / BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) - 这是一个抓取浏览器密码的工具，后续会添加更多功能
+* 【2022-09-04】[snltty / p2p-tunnel](https://github.com/snltty/p2p-tunnel) - .NET6 Socket编程实现内网穿透，UDP,TCP打洞实现点对点直连，通过tcp转发，udp转发，http1.1代理，socks5代理，组网，实现访问内网web ，内网桌面，及其它TCP/UDP上层协议服务
+* 【2022-09-04】[insoxin / China-Telecom-Helper](https://github.com/insoxin/China-Telecom-Helper) - 中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆)
+* 【2022-09-04】[dingxiaowei / MonitorTool](https://github.com/dingxiaowei/MonitorTool) - Unity性能监控软件
 * 【2022-09-03】[microsoft / fhir-server](https://github.com/microsoft/fhir-server) - A service that implements the FHIR standard
 * 【2022-09-03】[thangchung / awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - 🐝A collection of awesome .NET core libraries, tools, frameworks and software
 * 【2022-09-03】[dotnetcore / FreeSql](https://github.com/dotnetcore/FreeSql) - 🦄.NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, MsAccess orm.
@@ -232,6 +289,10 @@
 
 ## Html
 
+* 【2022-09-04】[microsoft / language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+* 【2022-09-04】[FireCubeStudios / Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
+* 【2022-09-04】[raoli1986 / Shadowrocket-ID](https://github.com/raoli1986/Shadowrocket-ID) - 
+* 【2022-09-04】[Krasjet / quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
 * 【2022-09-03】[itorr / sojo](https://github.com/itorr/sojo) - 💊「逼死前端狗」听说你是前端工程师？
 * 【2022-09-03】[JPCERTCC / phishurl-list](https://github.com/JPCERTCC/phishurl-list) - Phishing URL dataset from JPCERT/CC
 * 【2022-09-03】[roottusk / vapi](https://github.com/roottusk/vapi) - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
@@ -255,6 +316,10 @@
 
 ## Css
 
+* 【2022-09-04】[lighthouse-labs / tweeter-react](https://github.com/lighthouse-labs/tweeter-react) - This is the starter code for converting Tweeter into a React project.
+* 【2022-09-04】[vicky002 / AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
+* 【2022-09-04】[TryGhost / Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
+* 【2022-09-04】[eic / epic-eic.org](https://github.com/eic/epic-eic.org) - Website (temporary) of EPIC Collaboration
 * 【2022-09-03】[Patalin / HTML-CSS-Image-Hover-Effects](https://github.com/Patalin/HTML-CSS-Image-Hover-Effects) - 
 * 【2022-09-03】[ui-buttons / core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 * 【2022-09-03】[enhance-dev / enhance-starter-project](https://github.com/enhance-dev/enhance-starter-project) - file based routing metaframework for blazing fast custom elements
@@ -278,6 +343,13 @@
 
 ## Unknown
 
+* 【2022-09-04】[ValveSoftware / Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay) - Public Bug Tracker for Dota2
+* 【2022-09-04】[wcb1969 / iptv](https://github.com/wcb1969/iptv) - tv
+* 【2022-09-04】[awesome-stable-diffusion / awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
+* 【2022-09-04】[k88hudson / git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+* 【2022-09-04】[azwhikaru / fish_helper_config](https://github.com/azwhikaru/fish_helper_config) - 闲鱼猪手配置
+* 【2022-09-04】[LeiWang1999 / FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
+* 【2022-09-04】[elder-frog / OpenCourseCatalog](https://github.com/elder-frog/OpenCourseCatalog) - Bilibili 公开课目录
 * 【2022-09-03】[microsoft / Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 * 【2022-09-03】[scaleracademy / scaler-september-open-source-challenge](https://github.com/scaleracademy/scaler-september-open-source-challenge) - Scaler September Open Source Challenge
 * 【2022-09-03】[vuejs / rfcs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core
