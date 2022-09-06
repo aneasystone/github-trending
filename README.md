@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-06】[opa334 / TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
+* 【2022-09-06】[lapce / lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+* 【2022-09-06】[eloialonso / iris](https://github.com/eloialonso/iris) - Transformers are Sample Efficient World Models
+* 【2022-09-06】[raycast / extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+* 【2022-09-06】[zhongxinghong / PKUAutoElective](https://github.com/zhongxinghong/PKUAutoElective) - 北大选课网补退选阶段自动选课小工具
+* 【2022-09-06】[tianqiraf / DouZero_For_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) - 基于DouZero定制AI实战欢乐斗地主
+* 【2022-09-06】[FxPool / FxMinerProxyV3](https://github.com/FxPool/FxMinerProxyV3) - 原创GO+VUE开发,FxMinerProxyV3是FxMinerProxy(傅里叶)的UI升级版本今后都会一直维护这个版本,这里是官方,独家手机APP支持安装，IOS，独家SSH后台服务器群控，内存占用小3000台300M，自动判断芯片机协议，支持ETH,ETC,BTC,CFX,ERG0,NTG,RVN,LTC,BEAM等，FXMinerProxy
 * 【2022-09-04】[TuGraph-db / tugraph-db](https://github.com/TuGraph-db/tugraph-db) - 
 * 【2022-09-04】[community / community](https://github.com/community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 * 【2022-09-04】[WongKinYiu / yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
@@ -47,6 +54,21 @@
 
 ## Java
 
+* 【2022-09-06】[MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
+* 【2022-09-06】[xManager-v2 / xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+* 【2022-09-06】[bitcoin-wallet / bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+* 【2022-09-06】[Creators-of-Create / Create](https://github.com/Creators-of-Create/Create) - [Forge Mod] Building Tools and Aesthetic Technology
+* 【2022-09-06】[LSPosed / LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+* 【2022-09-06】[foobnix / LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
+* 【2022-09-06】[Sagar0-0 / DsA](https://github.com/Sagar0-0/DsA) - Building the largest DSA solutions repository TOGETHER.
+* 【2022-09-06】[vctgo / vctgo-platform](https://github.com/vctgo/vctgo-platform) - 🔥官方推荐🔥🎉基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。 首先感谢若依提供的开源支持!请大家继续关注若依项目! 本项目基于 RuoYi-Cloud 进行二次开发的租户版本 菜盟由来-菜鸟联盟,由当时我和2个好朋友一起拟定的名字 vct代表了我们三个菜鸟的字母,go 代表了我们要菜鸟起飞!
+* 【2022-09-06】[cinit / TMoe](https://github.com/cinit/TMoe) - An Xposed module for Telegram clients
+* 【2022-09-06】[threedr3am / JSP-WebShells](https://github.com/threedr3am/JSP-WebShells) - Collect JSP webshell of various implementation methods. 收集JSP Webshell的各种姿势
+* 【2022-09-06】[zhanglei-workspace / shopping-management-system](https://github.com/zhanglei-workspace/shopping-management-system) - 该项目为多个小项目的集合（持续更新中...）。内容类似淘宝、京东等网购管理系统以及图书管理、超市管理等系统。目的在于便于Java初级爱好者在学习完某一部分Java知识后有一个合适的项目锻炼、运用所学知识，完善知识体系。适用人群：Java基础到入门的爱好者。
+* 【2022-09-06】[Nepxion / Discovery](https://github.com/Nepxion/Discovery) - ☀️Nepxion Discovery is a solution for Spring Cloud with blue green, gray, route, limitation, circuit breaker, degrade, isolation, tracing, dye, failover 蓝绿、灰度、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移
+* 【2022-09-06】[skiptests / astraea](https://github.com/skiptests/astraea) - 釋放kafka的無限潛能
+* 【2022-09-06】[CatVodTVOfficial / CatVodTVSpider](https://github.com/CatVodTVOfficial/CatVodTVSpider) - 
+* 【2022-09-06】[jiayaoO3O / 18-comic-finder](https://github.com/jiayaoO3O/18-comic-finder) - 禁漫天堂Github Actions下载器🧘
 * 【2022-09-04】[antlr / antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 * 【2022-09-04】[DerekYRC / mini-spring-cloud](https://github.com/DerekYRC/mini-spring-cloud) - mini-spring-cloud是简化版的spring-cloud框架，能帮助你快速熟悉spring-cloud源码及掌握其核心原理。在保留spring cloud核心功能的的前提下尽量精简代码，核心功能包括服务注册、服务发现、负载均衡、集成Feign简化调用、流量控制、熔断降级、API网关等。 The mini-spring-cloud is a simplified version of the Spring Cloud framework, which can help you quickly familiarize yourself with the source code of Spring Cloud framework and master its core princ…
 * 【2022-09-04】[mouzt / mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
@@ -74,6 +96,15 @@
 
 ## Python
 
+* 【2022-09-06】[impira / docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
+* 【2022-09-06】[alievk / avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+* 【2022-09-06】[riverscuomo / new-albums](https://github.com/riverscuomo/new-albums) - This project is for me to experiment with open-source collaboration. So please feel free to chime in and participate. If you like, you can join the 'coder' channel on my discord server. https://discord.gg/mr-rivers-neighborhood . I've been learning programming since 2015 but I've been mostly working on my own. So my github/collaboration skills a…
+* 【2022-09-06】[crytic / slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
+* 【2022-09-06】[sammchardy / python-binance](https://github.com/sammchardy/python-binance) - Binance Exchange API python implementation for automated trading
+* 【2022-09-06】[rbbrdckybk / ai-art-generator](https://github.com/rbbrdckybk/ai-art-generator) - For automating the creation of large batches of AI-generated artwork locally.
+* 【2022-09-06】[KurtBestor / Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - 🍰Desktop utility to download images/videos/music/text from various websites, and more.
+* 【2022-09-06】[HaujetZhao / QuickHand](https://github.com/HaujetZhao/QuickHand) - 快速的仿手写文字的图片生成器。基于 https://github.com/Gsllchb/Handright/ 的 GUI。
+* 【2022-09-06】[SAI-24-me / neverWriteByHand](https://github.com/SAI-24-me/neverWriteByHand) - 模拟手写稿
 * 【2022-09-04】[ljvmiranda921 / prodigy-pdf-custom-recipe](https://github.com/ljvmiranda921/prodigy-pdf-custom-recipe) - Custom recipe and utilities for document processing
 * 【2022-09-04】[replicate / cog](https://github.com/replicate/cog) - Containers for machine learning
 * 【2022-09-04】[Gabattal / Scripts-LeagueOfLegends](https://github.com/Gabattal/Scripts-LeagueOfLegends) - When I have a script idea, whether it is stupid or brilliant, I develop it and I push it there :D
@@ -112,6 +143,14 @@
 
 ## Javascript
 
+* 【2022-09-06】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+* 【2022-09-06】[streetwriters / notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+* 【2022-09-06】[haqq-network / validators-contest](https://github.com/haqq-network/validators-contest) - 
+* 【2022-09-06】[oldboyxx / jira_clone](https://github.com/oldboyxx/jira_clone) - A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.
+* 【2022-09-06】[DIYgod / DPlayer](https://github.com/DIYgod/DPlayer) - 🍭Wow, such a lovely HTML5 danmaku video player
+* 【2022-09-06】[victornpb / undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
+* 【2022-09-06】[mwittrien / BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
+* 【2022-09-06】[1c7 / Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - 💻计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)
 * 【2022-09-04】[denysdovhan / wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪A list of funny and tricky JavaScript examples
 * 【2022-09-04】[alyssaxuu / omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity⌨️
 * 【2022-09-04】[zadam / trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -148,6 +187,13 @@
 
 ## Go
 
+* 【2022-09-06】[astaxie / build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+* 【2022-09-06】[evrone / go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
+* 【2022-09-06】[derailed / popeye](https://github.com/derailed/popeye) - 👀A Kubernetes cluster resource sanitizer
+* 【2022-09-06】[15-440 / p0](https://github.com/15-440/p0) - Repository for 15-440 P0 - Fall 2022
+* 【2022-09-06】[sosedoff / pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
+* 【2022-09-06】[hellogcc / 100-gdb-tips](https://github.com/hellogcc/100-gdb-tips) - A collection of gdb tips. 100 maybe just mean many here.
+* 【2022-09-06】[jiujuan / go-collection](https://github.com/jiujuan/go-collection) - 🌷awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。
 * 【2022-09-04】[cilium / cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 * 【2022-09-04】[zyedidia / micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 * 【2022-09-04】[uptrace / bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
@@ -194,6 +240,12 @@
 
 ## C
 
+* 【2022-09-06】[koute / bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
+* 【2022-09-06】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+* 【2022-09-06】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
+* 【2022-09-06】[jdah / minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
+* 【2022-09-06】[hoverwinter / HIT-OSLab](https://github.com/hoverwinter/HIT-OSLab) - S - 哈工大《操作系统》实验
+* 【2022-09-06】[yaocccc / dwm](https://github.com/yaocccc/dwm) - 
 * 【2022-09-04】[FreeRTOS / FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) - FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.
 * 【2022-09-04】[NVIDIA / open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 * 【2022-09-04】[zmkfirmware / zmk](https://github.com/zmkfirmware/zmk) - ZMK Firmware Repository
@@ -226,6 +278,10 @@
 
 ## C++
 
+* 【2022-09-06】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
+* 【2022-09-06】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64
+* 【2022-09-06】[fjqisba / E-Decompiler](https://github.com/fjqisba/E-Decompiler) - 用来辅助分析易语言程序的IDA插件
+* 【2022-09-06】[opengauss-mirror / openGauss-server](https://github.com/opengauss-mirror/openGauss-server) - openGauss kernel
 * 【2022-09-04】[FreeCAD / FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 * 【2022-09-04】[tzapu / WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 * 【2022-09-04】[lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
@@ -257,6 +313,13 @@
 
 ## C#
 
+* 【2022-09-06】[LavaGang / MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
+* 【2022-09-06】[UnamSanctam / SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner) - A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more.
+* 【2022-09-06】[File-New-Project / EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
+* 【2022-09-06】[BookerLiu / GeekDesk](https://github.com/BookerLiu/GeekDesk) - 小巧、美观的桌面快速启动工具
+* 【2022-09-06】[dockersamples / example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
+* 【2022-09-06】[awgil / ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod) - BossMod FFXIV dalamud plugin
+* 【2022-09-06】[ic3w0lf22 / Roblox-Account-Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager) - Application that allows you to add multiple accounts into one application allowing you to easily play on alt accounts without having to change accounts
 * 【2022-09-04】[microsoft / WinAppDriver](https://github.com/microsoft/WinAppDriver) - Windows Application Driver
 * 【2022-09-04】[Azure / azure-powershell](https://github.com/Azure/azure-powershell) - Microsoft Azure PowerShell
 * 【2022-09-04】[ledoge / novideo_srgb](https://github.com/ledoge/novideo_srgb) - Calibrate monitors to sRGB or other color spaces on NVIDIA GPUs, based on EDID data or ICC profiles
@@ -289,6 +352,14 @@
 
 ## Html
 
+* 【2022-09-06】[techchipnet / CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
+* 【2022-09-06】[Huxpro / huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
+* 【2022-09-06】[swsnu / swppfall2022](https://github.com/swsnu/swppfall2022) - 
+* 【2022-09-06】[abhivaikar / howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+* 【2022-09-06】[maboroshin / qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme
+* 【2022-09-06】[edk2-porting / renegade-project.org](https://github.com/edk2-porting/renegade-project.org) - Renegade Project Website
+* 【2022-09-06】[benx1n / HikariBot](https://github.com/benx1n/HikariBot) - 战舰世界HikariBot，基于Nonebot2，全平台兼容
+* 【2022-09-06】[httIsHere / notion-widget](https://github.com/httIsHere/notion-widget) - 阿汪同学自制版 Notion | Wolai | FlowUs 组件库
 * 【2022-09-04】[microsoft / language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 * 【2022-09-04】[FireCubeStudios / Protecc](https://github.com/FireCubeStudios/Protecc) - It protecc
 * 【2022-09-04】[raoli1986 / Shadowrocket-ID](https://github.com/raoli1986/Shadowrocket-ID) - 
@@ -316,6 +387,9 @@
 
 ## Css
 
+* 【2022-09-06】[Sqaaakoi / noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - GPU Drops' captcha solving extension without affiliate tracking code injection
+* 【2022-09-06】[xianxincoder / xianxin-plugin](https://github.com/xianxincoder/xianxin-plugin) - Yunzai-Bot云崽QQ机器人 v3插件
+* 【2022-09-06】[witalihirsch / Mono-gtk-theme](https://github.com/witalihirsch/Mono-gtk-theme) - Mono Theme for Gnome
 * 【2022-09-04】[lighthouse-labs / tweeter-react](https://github.com/lighthouse-labs/tweeter-react) - This is the starter code for converting Tweeter into a React project.
 * 【2022-09-04】[vicky002 / AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 * 【2022-09-04】[TryGhost / Casper](https://github.com/TryGhost/Casper) - The default theme for Ghost
@@ -343,6 +417,15 @@
 
 ## Unknown
 
+* 【2022-09-06】[JoeRichardsonJR / Ethereum-Proof-of-Stack-Merger-fork-Tool](https://github.com/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool) - Ethereum Proof of Stack Merger Harkfork Tool ,This tool will make sure your address is locked in to get both side of the hard fork and double your holdings.After running this on each one of your ETH address you will get the equal amount of ETH poof of stack and ETH proof of work when the merger happens. The amount you will get depend on the amou…
+* 【2022-09-06】[greenbellpepper / GreenPepper](https://github.com/greenbellpepper/GreenPepper) - 
+* 【2022-09-06】[89996462 / HTTP-Catcher](https://github.com/89996462/HTTP-Catcher) - 
+* 【2022-09-06】[kmille36 / Windows-11-VPS](https://github.com/kmille36/Windows-11-VPS) - 😎😘Free Windows 11 VPS for 1 Hour ! Easy Method!
+* 【2022-09-06】[Netskao / iOS-DumpDecrypted-IPAs](https://github.com/Netskao/iOS-DumpDecrypted-IPAs) - iOS DumpDecrypted IPAs
+* 【2022-09-06】[changgyhub / leetcode_101](https://github.com/changgyhub/leetcode_101) - LeetCode 101：和你一起你轻松刷题（C++）
+* 【2022-09-06】[nakixii / Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 
+* 【2022-09-06】[h3110w0r1d-y / BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen ( All version supported )
+* 【2022-09-06】[googlehosts / hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 * 【2022-09-04】[ValveSoftware / Dota2-Gameplay](https://github.com/ValveSoftware/Dota2-Gameplay) - Public Bug Tracker for Dota2
 * 【2022-09-04】[wcb1969 / iptv](https://github.com/wcb1969/iptv) - tv
 * 【2022-09-04】[awesome-stable-diffusion / awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) - Curated list of awesome resources for the Stable Diffusion AI Model.
