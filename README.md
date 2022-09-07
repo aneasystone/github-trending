@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-09-07】[valence-rs / valence](https://github.com/valence-rs/valence) - A Rust framework for building Minecraft servers.
+* 【2022-09-07】[Mr-xn / BLACKHAT_USA2022](https://github.com/Mr-xn/BLACKHAT_USA2022) - BLACKHAT USA2022 PDF Public
+* 【2022-09-07】[projectdiscovery / uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engines.
+* 【2022-09-07】[firebase / firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) - Firebase iOS SDK
+* 【2022-09-07】[nuxt / framework](https://github.com/nuxt/framework) - The Hybrid Vue(3) Framework.
+* 【2022-09-07】[PrestaShop / PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+* 【2022-09-07】[openshiporg / openship](https://github.com/openshiporg/openship) - multi-channel fulfillment at scale
+* 【2022-09-07】[QiuSimons / YAOF](https://github.com/QiuSimons/YAOF) - OpenWrt for Nanopi R2C/R2S/R4S/X86
+* 【2022-09-07】[the1812 / Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 * 【2022-09-06】[opa334 / TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 * 【2022-09-06】[lapce / lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 * 【2022-09-06】[eloialonso / iris](https://github.com/eloialonso/iris) - Transformers are Sample Efficient World Models
@@ -54,6 +63,11 @@
 
 ## Java
 
+* 【2022-09-07】[codecentric / spring-boot-admin](https://github.com/codecentric/spring-boot-admin) - Admin UI for administration of spring boot applications
+* 【2022-09-07】[CyrilFeng / Q-calculator](https://github.com/CyrilFeng/Q-calculator) - 高性能优惠叠加计算框架
+* 【2022-09-07】[lukas-krecan / ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
+* 【2022-09-07】[apache / shiro](https://github.com/apache/shiro) - Apache Shiro
+* 【2022-09-07】[chefyuan / algorithm-base](https://github.com/chefyuan/algorithm-base) - 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com
 * 【2022-09-06】[MeteorDevelopment / meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 * 【2022-09-06】[xManager-v2 / xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
 * 【2022-09-06】[bitcoin-wallet / bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
@@ -96,6 +110,19 @@
 
 ## Python
 
+* 【2022-09-07】[spookylukey / django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Sharing patterns I use with Django and htmx
+* 【2022-09-07】[AtsushiSakai / PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
+* 【2022-09-07】[median-research-group / LibMTL](https://github.com/median-research-group/LibMTL) - A PyTorch Library for Multi-Task Learning
+* 【2022-09-07】[lucidrains / vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+* 【2022-09-07】[alibaba / EasyNLP](https://github.com/alibaba/EasyNLP) - EasyNLP: A Comprehensive and Easy-to-use NLP Toolkit
+* 【2022-09-07】[nianticlabs / simplerecon](https://github.com/nianticlabs/simplerecon) - [ECCV 2022] SimpleRecon: 3D Reconstruction Without 3D Convolutions
+* 【2022-09-07】[Mailu / Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
+* 【2022-09-07】[tony9402 / baekjoon](https://github.com/tony9402/baekjoon) - 코딩테스트 대비 문제집(Baekjoon Online Judge)
+* 【2022-09-07】[geohot / tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad!❤️
+* 【2022-09-07】[BBuf / tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn) - tvm learn
+* 【2022-09-07】[hiroi-sora / Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
+* 【2022-09-07】[itcharge / LeetCode-Py](https://github.com/itcharge/LeetCode-Py) - ⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」700+ 道题目的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。
+* 【2022-09-07】[Mr-xn / BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 * 【2022-09-06】[impira / docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 * 【2022-09-06】[alievk / avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 * 【2022-09-06】[riverscuomo / new-albums](https://github.com/riverscuomo/new-albums) - This project is for me to experiment with open-source collaboration. So please feel free to chime in and participate. If you like, you can join the 'coder' channel on my discord server. https://discord.gg/mr-rivers-neighborhood . I've been learning programming since 2015 but I've been mostly working on my own. So my github/collaboration skills a…
@@ -143,6 +170,13 @@
 
 ## Javascript
 
+* 【2022-09-07】[vitmalina / w2ui](https://github.com/vitmalina/w2ui) - UI widgets for modern apps. Data table, forms, toolbars, sidebar, tabs, tooltips, popups. All under 120kb (gzipped).
+* 【2022-09-07】[OverflowCat / zhihu-watermark-remover](https://github.com/OverflowCat/zhihu-watermark-remover) - Userscript that removes or fakes blind watermarks on Zhihu's webpages
+* 【2022-09-07】[axa-group / Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
+* 【2022-09-07】[handsontable / handsontable](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team⚡
+* 【2022-09-07】[lutzroeder / netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+* 【2022-09-07】[cookpete / react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
+* 【2022-09-07】[leanote / leanote](https://github.com/leanote/leanote) - Not Just A Notepad! (golang + mongodb) http://leanote.org
 * 【2022-09-06】[RobinLinus / snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 * 【2022-09-06】[streetwriters / notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 * 【2022-09-06】[haqq-network / validators-contest](https://github.com/haqq-network/validators-contest) - 
@@ -187,6 +221,13 @@
 
 ## Go
 
+* 【2022-09-07】[tidwall / gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+* 【2022-09-07】[hashicorp / consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+* 【2022-09-07】[goharbor / harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
+* 【2022-09-07】[julienschmidt / httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
+* 【2022-09-07】[bytebase / bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams. https://www.bytebase.com
+* 【2022-09-07】[mitchellh / mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
+* 【2022-09-07】[devld / go-drive](https://github.com/devld/go-drive) - A simple cloud drive mapping web app supports local, FTP/SFTP, S3, OneDrive, WebDAV, Google Drive.
 * 【2022-09-06】[astaxie / build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 * 【2022-09-06】[evrone / go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 * 【2022-09-06】[derailed / popeye](https://github.com/derailed/popeye) - 👀A Kubernetes cluster resource sanitizer
@@ -240,6 +281,11 @@
 
 ## C
 
+* 【2022-09-07】[corsix / amx](https://github.com/corsix/amx) - Apple AMX Instruction Set
+* 【2022-09-07】[gameprive / win2k](https://github.com/gameprive/win2k) - Windows 2000 source code
+* 【2022-09-07】[FeralAI / GP2040](https://github.com/FeralAI/GP2040) - Gamepad firmware for Raspberry Pi Pico and other RP2040 microcontrollers supporting Nintendo Switch, XInput and DirectInput
+* 【2022-09-07】[libopencm3 / libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
+* 【2022-09-07】[Hanley-Yao / Zynq7010_eink_controller](https://github.com/Hanley-Yao/Zynq7010_eink_controller) - 这是一个基于Zynq7010的Eink控制器 在ED097TC2上高质量显示帧数高达10FPS
 * 【2022-09-06】[koute / bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 * 【2022-09-06】[ValdikSS / GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 * 【2022-09-06】[mit-pdos / xv6-public](https://github.com/mit-pdos/xv6-public) - xv6 OS
@@ -278,6 +324,13 @@
 
 ## C++
 
+* 【2022-09-07】[Xaymar / obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+* 【2022-09-07】[recastnavigation / recastnavigation](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh Toolset for Games
+* 【2022-09-07】[chenshuo / muduo](https://github.com/chenshuo/muduo) - Event-driven network library for multi-threaded Linux server in C++11
+* 【2022-09-07】[flameshot-org / flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software🖥️📸
+* 【2022-09-07】[Project-OSRM / osrm-backend](https://github.com/Project-OSRM/osrm-backend) - Open Source Routing Machine - C++ backend
+* 【2022-09-07】[kamyu104 / LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️Python / Modern C++ Solutions of All 2402 LeetCode Problems (Weekly Update)
+* 【2022-09-07】[yasio / yasio](https://github.com/yasio/yasio) - A multi-platform support c++11 library with focus on asio (asynchronous socket I/O) for any client applications.
 * 【2022-09-06】[AlexandreRouma / SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 * 【2022-09-06】[stenzek / duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64
 * 【2022-09-06】[fjqisba / E-Decompiler](https://github.com/fjqisba/E-Decompiler) - 用来辅助分析易语言程序的IDA插件
@@ -313,6 +366,11 @@
 
 ## C#
 
+* 【2022-09-07】[beto-rodriguez / LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere Maui, Uno Platform, Blazor-wasm, WPF, WinForms, Xamarin, Avalonia, WinUI, UWP.
+* 【2022-09-07】[mob-sakai / UIEffect](https://github.com/mob-sakai/UIEffect) - UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!
+* 【2022-09-07】[skillmaker-dev / AlgorithmsPlayGround.NET](https://github.com/skillmaker-dev/AlgorithmsPlayGround.NET) - Open source library containing known sorting and searching algorithms.
+* 【2022-09-07】[BartoszCichecki / LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight replacement of Lenovo Vantage for Lenovo Legion laptops.
+* 【2022-09-07】[Tencent / InjectFix](https://github.com/Tencent/InjectFix) - InjectFix is a hot-fix solution library for Unity
 * 【2022-09-06】[LavaGang / MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 * 【2022-09-06】[UnamSanctam / SilentCryptoMiner](https://github.com/UnamSanctam/SilentCryptoMiner) - A Silent (Hidden) Free Crypto Miner Builder - Supports ETH, ETC, XMR and many more.
 * 【2022-09-06】[File-New-Project / EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
@@ -352,6 +410,18 @@
 
 ## Html
 
+* 【2022-09-07】[Maclinz / JS_CSS_PortfolioProject](https://github.com/Maclinz/JS_CSS_PortfolioProject) - 
+* 【2022-09-07】[tryber / herocker-exercise-frontend](https://github.com/tryber/herocker-exercise-frontend) - 
+* 【2022-09-07】[CyberSecurityUP / Red-Team-Management](https://github.com/CyberSecurityUP/Red-Team-Management) - 
+* 【2022-09-07】[inikulin / parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+* 【2022-09-07】[jonmircha / youtube-js](https://github.com/jonmircha/youtube-js) - Repositorio de códigos del Curso JavaScript de @jonmircha
+* 【2022-09-07】[esphome / bluetooth-proxies](https://github.com/esphome/bluetooth-proxies) - This repo hosts known, tested devices that can serve as Bluetooth proxies for Home Assistant.
+* 【2022-09-07】[mGalarnyk / datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
+* 【2022-09-07】[mattcone / markdown-guide](https://github.com/mattcone/markdown-guide) - The comprehensive Markdown reference guide.
+* 【2022-09-07】[shaoxiongdu / JVMStudy](https://github.com/shaoxiongdu/JVMStudy) - 💊JVM 底层原理解析
+* 【2022-09-07】[iosvpn / iosvpn.github.io](https://github.com/iosvpn/iosvpn.github.io) - iPhone和iOS 翻墙梯子VPN推荐，2022中国苹果手机iPhone翻墙软件和科学上网避坑指南，稳定梯子推荐。
+* 【2022-09-07】[SexyBeast233 / SecBooks](https://github.com/SexyBeast233/SecBooks) - 安全类各家文库大乱斗
+* 【2022-09-07】[tuna / mirror-web](https://github.com/tuna/mirror-web) - Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/
 * 【2022-09-06】[techchipnet / CamPhish](https://github.com/techchipnet/CamPhish) - Grab cam shots from target's phone front camera or PC webcam just sending a link.
 * 【2022-09-06】[Huxpro / huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
 * 【2022-09-06】[swsnu / swppfall2022](https://github.com/swsnu/swppfall2022) - 
@@ -387,6 +457,9 @@
 
 ## Css
 
+* 【2022-09-07】[lighthouse-labs / hello-react](https://github.com/lighthouse-labs/hello-react) - 
+* 【2022-09-07】[ranmaru22 / firefox-vertical-tabs](https://github.com/ranmaru22/firefox-vertical-tabs) - Vertical tabs for Firefox, inspired by Edge.
+* 【2022-09-07】[nisarhassan12 / portfolio-template](https://github.com/nisarhassan12/portfolio-template) - A beautiful minimal and accessible portfolio template for Developers. Give it a star🌟if you find it useful.
 * 【2022-09-06】[Sqaaakoi / noptcha-patch](https://github.com/Sqaaakoi/noptcha-patch) - GPU Drops' captcha solving extension without affiliate tracking code injection
 * 【2022-09-06】[xianxincoder / xianxin-plugin](https://github.com/xianxincoder/xianxin-plugin) - Yunzai-Bot云崽QQ机器人 v3插件
 * 【2022-09-06】[witalihirsch / Mono-gtk-theme](https://github.com/witalihirsch/Mono-gtk-theme) - Mono Theme for Gnome
@@ -417,6 +490,12 @@
 
 ## Unknown
 
+* 【2022-09-07】[kghobbs / job-market-materials](https://github.com/kghobbs/job-market-materials) - 
+* 【2022-09-07】[mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+* 【2022-09-07】[nmajor25 / companies-hiring-remote-devs](https://github.com/nmajor25/companies-hiring-remote-devs) - List of companies hiring remote software developers.
+* 【2022-09-07】[RipplePiam / MobaXterm-Chinese-Simplified](https://github.com/RipplePiam/MobaXterm-Chinese-Simplified) - MobaXterm 简体中文汉化版🌏🖥🖥🖥【💌慢工精心制作，"提示"也汉化💻】 【😍控件布局精细调整】
+* 【2022-09-07】[open-dingtalk / pierced](https://github.com/open-dingtalk/pierced) - 钉钉内网穿透
+* 【2022-09-07】[623637646 / 996.Leave](https://github.com/623637646/996.Leave) - 逃离996
 * 【2022-09-06】[JoeRichardsonJR / Ethereum-Proof-of-Stack-Merger-fork-Tool](https://github.com/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool) - Ethereum Proof of Stack Merger Harkfork Tool ,This tool will make sure your address is locked in to get both side of the hard fork and double your holdings.After running this on each one of your ETH address you will get the equal amount of ETH poof of stack and ETH proof of work when the merger happens. The amount you will get depend on the amou…
 * 【2022-09-06】[greenbellpepper / GreenPepper](https://github.com/greenbellpepper/GreenPepper) - 
 * 【2022-09-06】[89996462 / HTTP-Catcher](https://github.com/89996462/HTTP-Catcher) - 
