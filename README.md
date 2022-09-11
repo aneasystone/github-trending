@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-11】[OpenRadioss / OpenRadioss](https://github.com/OpenRadioss/OpenRadioss) - OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis
+* 【2022-09-11】[akka / akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+* 【2022-09-11】[inkasadev / osib-frontend-pt](https://github.com/inkasadev/osib-frontend-pt) - Caminho para uma educação autodidata gratuita em Frontend!
+* 【2022-09-11】[picotorrent / picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.
+* 【2022-09-11】[XavierXiao / Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
+* 【2022-09-11】[openai / CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
+* 【2022-09-11】[tw93 / MiaoYan](https://github.com/tw93/MiaoYan) - ⛷Lightweight Markdown app to help you write great sentences.⛷轻灵的 Markdown 笔记本伴你写出妙言
 * 【2022-09-10】[somebasj / ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
 * 【2022-09-10】[bytedance / appshark](https://github.com/bytedance/appshark) - 
 * 【2022-09-10】[meituan / YOLOv6](https://github.com/meituan/YOLOv6) - YOLOv6: a single-stage object detection framework dedicated to industrial applications.
@@ -89,6 +96,11 @@
 
 ## Java
 
+* 【2022-09-11】[Netflix / conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
+* 【2022-09-11】[Cydeo-EU10 / Java_Programming_EU10](https://github.com/Cydeo-EU10/Java_Programming_EU10) - 
+* 【2022-09-11】[killme2008 / aviatorscript](https://github.com/killme2008/aviatorscript) - A high performance scripting language hosted on the JVM.
+* 【2022-09-11】[hamibot / hamibot](https://github.com/hamibot/hamibot) - 安卓平台自动化工具，无需 root。
+* 【2022-09-11】[will-che / flink-recommandSystem-demo](https://github.com/will-che/flink-recommandSystem-demo) - 🚁🚀基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
 * 【2022-09-10】[DependencyTrack / dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * 【2022-09-10】[quartz-scheduler / quartz](https://github.com/quartz-scheduler/quartz) - Code for Quartz Scheduler
 * 【2022-09-10】[apache / fineract](https://github.com/apache/fineract) - Apache Fineract
@@ -147,6 +159,17 @@
 
 ## Python
 
+* 【2022-09-11】[GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
+* 【2022-09-11】[psf / black](https://github.com/psf/black) - The uncompromising Python code formatter
+* 【2022-09-11】[trekhleb / learn-python](https://github.com/trekhleb/learn-python) - 📚Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+* 【2022-09-11】[karpathy / makemore](https://github.com/karpathy/makemore) - An autoregressive character-level language model for making more things
+* 【2022-09-11】[deepmind / mujoco_menagerie](https://github.com/deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
+* 【2022-09-11】[pyg-team / pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) - Graph Neural Network Library for PyTorch
+* 【2022-09-11】[Louisvdw / dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) - dbus driver for serial battery in VenusOS
+* 【2022-09-11】[numpy / numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+* 【2022-09-11】[open-mmlab / mmengine](https://github.com/open-mmlab/mmengine) - OpenMMLab Foundational Library for Training Deep Learning Models
+* 【2022-09-11】[BlinkDL / AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
+* 【2022-09-11】[pyecharts / pyecharts](https://github.com/pyecharts/pyecharts) - 🎨Python Echarts Plotting Library
 * 【2022-09-10】[grafana / oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 * 【2022-09-10】[nateraw / stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create🔥videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 * 【2022-09-10】[python / cpython](https://github.com/python/cpython) - The Python programming language
@@ -237,6 +260,16 @@
 
 ## Javascript
 
+* 【2022-09-11】[parse-community / parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+* 【2022-09-11】[lijiejie / EasyPen](https://github.com/lijiejie/EasyPen) - EasyPen is a GUI program which helps pentesters do information gathering, vulnerability scan and exploitation
+* 【2022-09-11】[quarto-dev / quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
+* 【2022-09-11】[module-federation / module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
+* 【2022-09-11】[quasarframework / quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
+* 【2022-09-11】[ffmpegwasm / ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
+* 【2022-09-11】[conventional-changelog / conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+* 【2022-09-11】[cnodejs / nodeclub](https://github.com/cnodejs/nodeclub) - 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
+* 【2022-09-11】[ShuaiLeiLu / JD](https://github.com/ShuaiLeiLu/JD) - 京东羊毛脚本
+* 【2022-09-11】[moshang-xc / lottery](https://github.com/moshang-xc/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2022-09-10】[maromalo / DefinitelyNotSHC](https://github.com/maromalo/DefinitelyNotSHC) - Fork of DevilBro's ShowHiddenChannels plugin for BetterDiscord, works after guideline change.
 * 【2022-09-10】[learning-zone / nodejs-interview-questions](https://github.com/learning-zone/nodejs-interview-questions) - Node.js Interview Questions ( v16.x )
 * 【2022-09-10】[100devs / binary-upload-boom](https://github.com/100devs/binary-upload-boom) - The 100Devs Social Network
@@ -313,6 +346,22 @@
 
 ## Go
 
+* 【2022-09-11】[Ciyfly / microwaveo](https://github.com/Ciyfly/microwaveo) - 将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密
+* 【2022-09-11】[gravitational / teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+* 【2022-09-11】[tendermint / tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
+* 【2022-09-11】[dexidp / dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+* 【2022-09-11】[aws / aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
+* 【2022-09-11】[filecoin-project / lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go
+* 【2022-09-11】[pion / webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
+* 【2022-09-11】[ossf / scorecard](https://github.com/ossf/scorecard) - Security Scorecards - Security health metrics for Open Source
+* 【2022-09-11】[fluxcd / flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+* 【2022-09-11】[ipfs / kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+* 【2022-09-11】[charmbracelet / lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts👄
+* 【2022-09-11】[knative / serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
+* 【2022-09-11】[go-eagle / eagle](https://github.com/go-eagle/eagle) - 🦅A microservice framework for Go
+* 【2022-09-11】[hteen / apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
+* 【2022-09-11】[eatmoreapple / openwechat](https://github.com/eatmoreapple/openwechat) - golang版微信SDK
+* 【2022-09-11】[zu1k / nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 * 【2022-09-10】[fin3ss3g0d / evilgophish](https://github.com/fin3ss3g0d/evilgophish) - evilginx2 + gophish
 * 【2022-09-10】[patrickmn / go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * 【2022-09-10】[portainer / portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
@@ -402,6 +451,18 @@
 
 ## C
 
+* 【2022-09-11】[mecomonteshbtn / C-low_level_programming](https://github.com/mecomonteshbtn/C-low_level_programming) - Repository about Low Level Programming in C language
+* 【2022-09-11】[xinntao / Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan) - NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
+* 【2022-09-11】[kai-dg / holbertonschool-low_level_programming](https://github.com/kai-dg/holbertonschool-low_level_programming) - Holberton Curriculum for learning C. Learning the basic fundamentals.
+* 【2022-09-11】[fontforge / fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
+* 【2022-09-11】[Bodmer / TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) - Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips
+* 【2022-09-11】[FreeRDP / FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+* 【2022-09-11】[bdbaraban / holbertonschool-low_level_programming](https://github.com/bdbaraban/holbertonschool-low_level_programming) - Low-level programming and algorithm projects for Holberton School Year 1
+* 【2022-09-11】[Emmastro / alx-low_level_programming](https://github.com/Emmastro/alx-low_level_programming) - 
+* 【2022-09-11】[luischaparroc / holbertonschool-low_level_programming](https://github.com/luischaparroc/holbertonschool-low_level_programming) - 🚀Low-level programming training module
+* 【2022-09-11】[lroudge / holbertonschool-low_level_programming](https://github.com/lroudge/holbertonschool-low_level_programming) - 
+* 【2022-09-11】[HavocFramework / Modules](https://github.com/HavocFramework/Modules) - Modules used by the Havoc Framework
+* 【2022-09-11】[abcz316 / rwProcMem33](https://github.com/abcz316/rwProcMem33) - Linux read & write process memory module.
 * 【2022-09-10】[deepmind / mujoco](https://github.com/deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * 【2022-09-10】[microsoft / msquic](https://github.com/microsoft/msquic) - Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 * 【2022-09-10】[pret / pokeemerald](https://github.com/pret/pokeemerald) - Decompilation of Pokémon Emerald
@@ -468,6 +529,9 @@
 
 ## C++
 
+* 【2022-09-11】[p-ranav / alpaca](https://github.com/p-ranav/alpaca) - Serialization library written in C++17 - Pack C++ structs into a compact byte-array without any macros or boilerplate code
+* 【2022-09-11】[wolfpld / tracy](https://github.com/wolfpld/tracy) - C++ frame profiler
+* 【2022-09-11】[mayerui / sudoku](https://github.com/mayerui/sudoku) - C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
 * 【2022-09-10】[aardappel / treesheets](https://github.com/aardappel/treesheets) - TreeSheets : Free Form Data Organizer (see treesheets.com)
 * 【2022-09-10】[Mauler125 / r5sdk](https://github.com/Mauler125/r5sdk) - 
 * 【2022-09-10】[microsoft / DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) - This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
@@ -534,6 +598,12 @@
 
 ## C#
 
+* 【2022-09-11】[nemanjarogic / DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) - A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+* 【2022-09-11】[modern-forms / Modern.Forms](https://github.com/modern-forms/Modern.Forms) - Cross-platform spiritual successor to Winforms for .NET 6
+* 【2022-09-11】[HangfireIO / Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
+* 【2022-09-11】[dotnet / msbuild](https://github.com/dotnet/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.
+* 【2022-09-11】[CopyPlusPlus / CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus) - 让复制更加简单！
+* 【2022-09-11】[It-Life / Deer_GameFramework_Wolong](https://github.com/It-Life/Deer_GameFramework_Wolong) - 基于GameFramework框架衍生的一个Wolong (huatuo)热更框架,接入luban配表工具
 * 【2022-09-10】[quasar / Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 * 【2022-09-10】[robinrodricks / FluentFTP](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS client for .NET & .NET Standard, optimized for speed. Provides extensive FTP commands, File uploads/downloads, SSL/TLS connections, Automatic directory listing parsing, File hashing/checksums, File permissions/CHMOD, FTP proxies, FXP support, UTF-8 support, Async/await support, Powershell support and more. Written entirely in C#.
 * 【2022-09-10】[TheJoeFin / Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows 10 quickly and easily with Text Grab. With optional background process and popups.
@@ -596,6 +666,15 @@
 
 ## Html
 
+* 【2022-09-11】[twitter / twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+* 【2022-09-11】[ElemeFE / node-interview](https://github.com/ElemeFE/node-interview) - How to pass the Node.js interview of ElemeFE.
+* 【2022-09-11】[vmware-tanzu / tanzu-dev-portal](https://github.com/vmware-tanzu/tanzu-dev-portal) - Content for Tanzu dev portal
+* 【2022-09-11】[rafaballerini / Formulario](https://github.com/rafaballerini/Formulario) - Página de formulário com HTML e CSS
+* 【2022-09-11】[goitacademy / react-homework-template](https://github.com/goitacademy/react-homework-template) - React course homework template
+* 【2022-09-11】[rawchen / AliPan](https://github.com/rawchen/AliPan) - 阿里云盘列表程序 - Spring Boot
+* 【2022-09-11】[WeixinCloud / wxcloudrun-flask](https://github.com/WeixinCloud/wxcloudrun-flask) - 微信云托管 flask 框架模板
+* 【2022-09-11】[jdk137 / netFlow](https://github.com/jdk137/netFlow) - show website netFlow based on d3 sankey.js
+* 【2022-09-11】[midorg-com / midorg](https://github.com/midorg-com/midorg) - 元岛社区的代码仓库
 * 【2022-09-10】[dixonandmoe / rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 * 【2022-09-10】[twbs / examples](https://github.com/twbs/examples) - Functional examples of using Bootstrap in common JS frameworks like Webpack, Parcel, Vite, and more!
 * 【2022-09-10】[bigcommerce / cornerstone](https://github.com/bigcommerce/cornerstone) - The BigCommerce Cornerstone theme
@@ -666,6 +745,14 @@
 
 ## Css
 
+* 【2022-09-11】[Xeraxlabs / DX1.0-Foodplug](https://github.com/Xeraxlabs/DX1.0-Foodplug) - A simple restaurant website project
+* 【2022-09-11】[Patalin / HTML-CSS-LogIn](https://github.com/Patalin/HTML-CSS-LogIn) - 
+* 【2022-09-11】[1Marc / todomvc-vanillajs-2022](https://github.com/1Marc/todomvc-vanillajs-2022) - TodoMVC with Modern (ES6+), Vanilla JavaScript
+* 【2022-09-11】[aneagoie / keiko-corp](https://github.com/aneagoie/keiko-corp) - The greatest startup ever created
+* 【2022-09-11】[sighingnow / jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) - Build Jekyll site with GitBook style!
+* 【2022-09-11】[purogamer / Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam) - Fluent for Steam. A simple skin for steam to make it look like windows 11.
+* 【2022-09-11】[Theigrams / My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes) - A CSS style for Typora
+* 【2022-09-11】[rememberber / MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
 * 【2022-09-10】[nasa / Transform-to-Open-Science](https://github.com/nasa/Transform-to-Open-Science) - Transformation to Open Science
 * 【2022-09-10】[rafakuntz / Biblioteca-CCM-Marechal](https://github.com/rafakuntz/Biblioteca-CCM-Marechal) - Projeto realizado pelo aluno Rafael Vilson Gonçalves Kuntz Junior, estudante do Colégio Estadual Cívico-Militar Marechal Rondon, NRE-Toledo. Site desenvolvido para incentivar o gosto pela leitura e pelos estudos, interagindo com toda a comunidade escolar. No decorrer do período de desenvolvimento do projeto para o Concurso Agrinho foram desenvol…
 * 【2022-09-10】[scaffold-eth / scaffold-eth-examples](https://github.com/scaffold-eth/scaffold-eth-examples) - Scaffold-Eth🏗examples repo
@@ -721,6 +808,14 @@
 
 ## Unknown
 
+* 【2022-09-11】[academic / awesome-datascience](https://github.com/academic/awesome-datascience) - 📝An awesome Data Science repository to learn and apply for real world problems.
+* 【2022-09-11】[mingyuan-zhang / MotionDiffuse](https://github.com/mingyuan-zhang/MotionDiffuse) - MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model
+* 【2022-09-11】[keenanromain / AWS-SAA-C02-Study-Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide) - How to become a certified AWS Solutions Architect
+* 【2022-09-11】[ossu / bioinformatics](https://github.com/ossu/bioinformatics) - 🔬Path to a free self-taught education in Bioinformatics!
+* 【2022-09-11】[studyhelperhelper / studyhelper](https://github.com/studyhelperhelper/studyhelper) - 学习强国 xxqg 助手 数独 sudoku
+* 【2022-09-11】[robotze / -GitHubDesktop_ZH](https://github.com/robotze/-GitHubDesktop_ZH) - 
+* 【2022-09-11】[gejun123456 / MyBatisCodeHelper-Pro](https://github.com/gejun123456/MyBatisCodeHelper-Pro) - 
+* 【2022-09-11】[synebula / SoftwareEngineerExam](https://github.com/synebula/SoftwareEngineerExam) - 软考资料, 收集于网络。目前包括：系统架构师、项目管理师、软件设计师备考资料
 * 【2022-09-10】[naver / fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 * 【2022-09-10】[meirwah / awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
 * 【2022-09-10】[ml-tooling / best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆A ranked list of awesome machine learning Python libraries. Updated weekly.
