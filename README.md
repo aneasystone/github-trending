@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-13】[tachiyomiorg / tachiyomi-extensions](https://github.com/tachiyomiorg/tachiyomi-extensions) - Source extensions for the Tachiyomi app.
+* 【2022-09-13】[odin-lang / Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
+* 【2022-09-13】[neurreps / awesome-neural-geometry](https://github.com/neurreps/awesome-neural-geometry) - A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
+* 【2022-09-13】[ContainerSSH / ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+* 【2022-09-13】[n8n-io / n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+* 【2022-09-13】[trpc / trpc](https://github.com/trpc/trpc) - 🧙‍♀️Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+* 【2022-09-13】[zhanwen / MathModel](https://github.com/zhanwen/MathModel) - 研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT
 * 【2022-09-12】[meienberger / runtipi](https://github.com/meienberger/runtipi) - ⛺️Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps.✨
 * 【2022-09-12】[karpathy / nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 * 【2022-09-12】[jaakkopasanen / AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
@@ -105,6 +112,15 @@
 
 ## Java
 
+* 【2022-09-13】[FIRST-Tech-Challenge / FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) - 
+* 【2022-09-13】[barry-ran / QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+* 【2022-09-13】[NeilAlishev / SpringCourse](https://github.com/NeilAlishev/SpringCourse) - Сопровождающие материалы для курса по Spring Framework
+* 【2022-09-13】[google / closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+* 【2022-09-13】[Heeexy / SpringBoot-Shiro-Vue](https://github.com/Heeexy/SpringBoot-Shiro-Vue) - 提供一套基于Spring Boot-Shiro-Vue的权限管理思路.前后端都加以控制,做到按钮/接口级别的权限。（当前新版本已移除shiro依赖，简化了配置）
+* 【2022-09-13】[qunarcorp / qmq](https://github.com/qunarcorp/qmq) - QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。
+* 【2022-09-13】[luoye663 / e5](https://github.com/luoye663/e5) - e5续订
+* 【2022-09-13】[hanxinhao000 / ZeroTermux](https://github.com/hanxinhao000/ZeroTermux) - 
+* 【2022-09-13】[metersphere / jenkins-plugin](https://github.com/metersphere/jenkins-plugin) - MeterSphere 配套的 Jenkins 插件，在 Jenkins 任务中触发指定的 MeterSphere 平台上的测试任务执行
 * 【2022-09-12】[anujd64 / Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive in an Awesome way !!
 * 【2022-09-12】[arduino / Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 * 【2022-09-12】[lightbend / config](https://github.com/lightbend/config) - configuration library for JVM languages using HOCON files
@@ -179,6 +195,17 @@
 
 ## Python
 
+* 【2022-09-13】[jina-ai / jina-video-chat](https://github.com/jina-ai/jina-video-chat) - 
+* 【2022-09-13】[IlluminatiFish / Odyssey](https://github.com/IlluminatiFish/Odyssey) - A piece of software that shows a traceroute of a URL redirect path
+* 【2022-09-13】[jsmidt / QuantPy](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance In python.
+* 【2022-09-13】[google / tf-quant-finance](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
+* 【2022-09-13】[Datalux / Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+* 【2022-09-13】[saturn-opposition / wechat_analysis](https://github.com/saturn-opposition/wechat_analysis) - 微信聊天记录文本分析
+* 【2022-09-13】[d2l-ai / d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+* 【2022-09-13】[dgtlmoon / changedetection.io](https://github.com/dgtlmoon/changedetection.io) - changedetection.io - The best and simplest self-hosted free open source website change detection tracking, monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change for free. Free Open source web page change detection
+* 【2022-09-13】[heiheiyoyo / uie_pytorch](https://github.com/heiheiyoyo/uie_pytorch) - PaddleNLP UIE模型的PyTorch版实现
+* 【2022-09-13】[daydreaming666 / Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
+* 【2022-09-13】[foyoux / aligo](https://github.com/foyoux/aligo) - 🔥简单、易用、可扩展的阿里云盘 API 接口库🚀
 * 【2022-09-12】[je-suis-tm / quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
 * 【2022-09-12】[bobbyrsec / Microsoft-Teams-GIFShell](https://github.com/bobbyrsec/Microsoft-Teams-GIFShell) - 
 * 【2022-09-12】[mementum / backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
@@ -291,6 +318,13 @@
 
 ## Javascript
 
+* 【2022-09-13】[qeeqbox / social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+* 【2022-09-13】[mschwarzmueller / nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code) - Source code for my NextJS course (https://acad.link/nextjs)
+* 【2022-09-13】[Anarios / return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
+* 【2022-09-13】[midoks / mdserver-web](https://github.com/midoks/mdserver-web) - Simple Linux Panel
+* 【2022-09-13】[sirpdboy / sirpdboy-package](https://github.com/sirpdboy/sirpdboy-package) - sirpbboy-package
+* 【2022-09-13】[skygongque / tts](https://github.com/skygongque/tts) - 微软azure文本转语音 音频下载
+* 【2022-09-13】[hoothin / UserScripts](https://github.com/hoothin/UserScripts) - Greasemonkey scripts
 * 【2022-09-12】[11ty / webc](https://github.com/11ty/webc) - Single File Web Components
 * 【2022-09-12】[vihangayt0 / VihangaBot-MD-V3](https://github.com/vihangayt0/VihangaBot-MD-V3) - 
 * 【2022-09-12】[soumyajit4419 / Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
@@ -384,6 +418,14 @@
 
 ## Go
 
+* 【2022-09-13】[FiloSottile / age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+* 【2022-09-13】[projectdiscovery / subfinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+* 【2022-09-13】[alexliesenfeld / health](https://github.com/alexliesenfeld/health) - A simple and flexible health check library for Go.
+* 【2022-09-13】[semi-technologies / weaviate](https://github.com/semi-technologies/weaviate) - vector search engine
+* 【2022-09-13】[sairson / Yasso](https://github.com/sairson/Yasso) - 强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）
+* 【2022-09-13】[k8gege / LadonGo](https://github.com/k8gege/LadonGo) - LadonGO 4.2 Pentest Scanner framework 全平台Go开源内网渗透扫描器框架,Windows/Linux/Mac内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBanner/HttpTitle/TcpBanner/Weblogic/Oxid多网卡主机，端口扫描服务识别PortScan。
+* 【2022-09-13】[Loyalsoldier / domain-list-custom](https://github.com/Loyalsoldier/domain-list-custom) - 🦄🎃👻V2Ray 路由规则文件自定义版，可代替官方 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Customized edition of geosite.dat for V2Ray, Xray-core, Shadowsocks-windows, Trojan-Go and leaf, based on data directory in https://github.com/v2fly/domain-list-community
+* 【2022-09-13】[liuhr / my2sql](https://github.com/liuhr/my2sql) - 解析MySQL binlog ，可以生成原始SQL、回滚SQL、去除主键的INSERT SQL等，也可以生成DML统计信息以及大事务分析信息。
 * 【2022-09-12】[inlets / mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer🍸
 * 【2022-09-12】[maxpert / marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator
 * 【2022-09-12】[arl / statsviz](https://github.com/arl/statsviz) - 🚀Visualise Go program runtime metrics in real time in your browser
@@ -505,6 +547,11 @@
 
 ## C
 
+* 【2022-09-13】[xiph / flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
+* 【2022-09-13】[chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
+* 【2022-09-13】[Prry / stm32-uart-dma](https://github.com/Prry/stm32-uart-dma) - STM32串口DMA模式发送&接收实现，高速串口通信（1.5Mbps）不丢数据
+* 【2022-09-13】[3293172751 / awesome-cs-course](https://github.com/3293172751/awesome-cs-course) - 🎉包含Linux，计算机操作系统，组成原理，算法，计算机网络，数据结合，python，C/C++，Go,区块链，git,markdown,html等笔记
+* 【2022-09-13】[pengxurui / AndroidFamilyDemo](https://github.com/pengxurui/AndroidFamilyDemo) - AndroidFamily 专栏配套示例程序
 * 【2022-09-12】[floooh / sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 * 【2022-09-12】[grbl / grbl](https://github.com/grbl/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 * 【2022-09-12】[Immediate-Mode-UI / Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -590,6 +637,7 @@
 
 ## C++
 
+* 【2022-09-13】[ValveSoftware / source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 * 【2022-09-12】[idealvin / coost](https://github.com/idealvin/coost) - A tiny boost library in C++11.
 * 【2022-09-12】[google / silifuzz](https://github.com/google/silifuzz) - 
 * 【2022-09-12】[yamashi / CyberEngineTweaks](https://github.com/yamashi/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -668,6 +716,14 @@
 
 ## C#
 
+* 【2022-09-13】[icsharpcode / ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
+* 【2022-09-13】[CjangCjengh / MoeGoe_GUI](https://github.com/CjangCjengh/MoeGoe_GUI) - GUI for MoeGoe
+* 【2022-09-13】[OpenTabletDriver / OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver
+* 【2022-09-13】[kwsch / PKHeX](https://github.com/kwsch/PKHeX) - Pokémon Save File Editor
+* 【2022-09-13】[DeadlyKitten / MonkeModManager](https://github.com/DeadlyKitten/MonkeModManager) - Mod Installer for the PC version of Gorilla Tag.
+* 【2022-09-13】[Readarr / Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
+* 【2022-09-13】[Sonarr / Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+* 【2022-09-13】[xerysherry / uEmuera](https://github.com/xerysherry/uEmuera) - Unity of Emuera (Unity of Emulator of Eramaker)/ Emuera Unity移植
 * 【2022-09-12】[Jackett / Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 * 【2022-09-12】[builtbybel / privatezilla](https://github.com/builtbybel/privatezilla) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
 * 【2022-09-12】[Paliverse / DualSenseX](https://github.com/Paliverse/DualSenseX) - Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC
@@ -740,6 +796,12 @@
 
 ## Html
 
+* 【2022-09-13】[cirosantilli / china-dictatorship](https://github.com/cirosantilli/china-dictatorship) - 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法轮功 996.ICU709大抓捕巴拿马文件邓家贵低端人口西藏骚乱。Friends who live in China and have real name on account, please don't star this repo, or else the police might pay you a visit. Home to the mega-FAQ, news compilation, restaurant and music recommen…
+* 【2022-09-13】[getumbrel / umbrel-apps](https://github.com/getumbrel/umbrel-apps) - The new, official app repository of the Umbrel App Store. Submit apps and updates here.
+* 【2022-09-13】[anisul-Islam / react-assignment-2-counter-app](https://github.com/anisul-Islam/react-assignment-2-counter-app) - 
+* 【2022-09-13】[adixmr / leetcode](https://github.com/adixmr/leetcode) - Leetcode Questions - Sorted by likes, likes-dislikes ratio and much more
+* 【2022-09-13】[coding-boot-camp / urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram) - 
+* 【2022-09-13】[Th30neAnd0nly / AIRAVAT](https://github.com/Th30neAnd0nly/AIRAVAT) - A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 * 【2022-09-12】[iptv-org / epg](https://github.com/iptv-org/epg) - EPG (Electronic Program Guide) for thousands of TV channels collected from different sources
 * 【2022-09-12】[coreui / coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 * 【2022-09-12】[niemingzhao / v2ray-heroku](https://github.com/niemingzhao/v2ray-heroku) - 利用 github actions 实现 v2ray-heroku 的部署，停止，启动，和删除。
@@ -824,6 +886,9 @@
 
 ## Css
 
+* 【2022-09-13】[GDSC-IET-LUCKNOW / IET-GDSC-Website](https://github.com/GDSC-IET-LUCKNOW/IET-GDSC-Website) - This is IET Lucknow's official GDSC website
+* 【2022-09-13】[rawchen / blog-ssm](https://github.com/rawchen/blog-ssm) - 一个简单漂亮的SSM博客系统。
+* 【2022-09-13】[CodegirlSchool / pets-shop](https://github.com/CodegirlSchool/pets-shop) - Домашнее задание к модулю "Объекты"
 * 【2022-09-12】[yscoder / hexo-theme-indigo](https://github.com/yscoder/hexo-theme-indigo) - 一个Material Design风格的Hexo主题。 https://imys.net/ 　　 备用:
 * 【2022-09-11】[Xeraxlabs / DX1.0-Foodplug](https://github.com/Xeraxlabs/DX1.0-Foodplug) - A simple restaurant website project
 * 【2022-09-11】[Patalin / HTML-CSS-LogIn](https://github.com/Patalin/HTML-CSS-LogIn) - 
@@ -888,6 +953,9 @@
 
 ## Unknown
 
+* 【2022-09-13】[amazon-research / alexa-teacher-models](https://github.com/amazon-research/alexa-teacher-models) - 
+* 【2022-09-13】[PapirusDevelopmentTeam / papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+* 【2022-09-13】[FouadRaheb / Watusi-for-WhatsApp](https://github.com/FouadRaheb/Watusi-for-WhatsApp) - Your all-in-one tweak for WhatsApp Messenger!
 * 【2022-09-12】[rust-lang / rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 * 【2022-09-12】[km-neuron / se-git-exercise](https://github.com/km-neuron/se-git-exercise) - Git Exercise Project
 * 【2022-09-12】[anandjha90 / iNeuron_FSDA](https://github.com/anandjha90/iNeuron_FSDA) - This repository contains all the files and folders taught in the class.Make use of it effectively
