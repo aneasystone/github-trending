@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-09-15】[divamgupta / diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
+* 【2022-09-15】[twitter / compose-rules](https://github.com/twitter/compose-rules) - Static checks to aid with a healthy adoption of Compose
+* 【2022-09-15】[Alamofire / Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
+* 【2022-09-15】[apptension / developer-handbook](https://github.com/apptension/developer-handbook) - An opinionated guide on how to become a professional Web/Mobile App Developer.
+* 【2022-09-15】[dotnet / core](https://github.com/dotnet/core) - Home repository for .NET Core
+* 【2022-09-15】[microsoft / playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* 【2022-09-15】[joeyballentine / chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
+* 【2022-09-15】[A-Normal-User / NtSocket_NtClient_NtServer](https://github.com/A-Normal-User/NtSocket_NtClient_NtServer) - Using NtCreateFile and NtDeviceIoControlFile to realize the function of winsock（利用NtCreateFile和NtDeviceIoControlFile 实现winsock的功能）
+* 【2022-09-15】[Mikoto10032 / DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial
 * 【2022-09-14】[danielgindi / Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 * 【2022-09-14】[hoppscotch / hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽Open source API development ecosystem - https://hoppscotch.io
 * 【2022-09-14】[apihero-run / jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed.🚀
@@ -120,6 +129,12 @@
 
 ## Java
 
+* 【2022-09-15】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
+* 【2022-09-15】[micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.
+* 【2022-09-15】[react-native-camera / react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
+* 【2022-09-15】[GoogleContainerTools / jib](https://github.com/GoogleContainerTools/jib) - 🏗Build container images for your Java applications.
+* 【2022-09-15】[PolarBearJun / BlackBox-M](https://github.com/PolarBearJun/BlackBox-M) - FuckLody
+* 【2022-09-15】[Ghost2097221 / YongyouNC-Unserialize-Tools](https://github.com/Ghost2097221/YongyouNC-Unserialize-Tools) - 用友NC反序列化漏洞payload生成
 * 【2022-09-14】[oracle / helidon](https://github.com/oracle/helidon) - Java libraries for writing microservices
 * 【2022-09-14】[rest-assured / rest-assured](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services
 * 【2022-09-14】[spring-projects / spring-kafka](https://github.com/spring-projects/spring-kafka) - Provides Familiar Spring Abstractions for Apache Kafka
@@ -221,6 +236,14 @@
 
 ## Python
 
+* 【2022-09-15】[tahaluindo / Shopee-flashsale](https://github.com/tahaluindo/Shopee-flashsale) - This Shopee Flash Sale BOT
+* 【2022-09-15】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.
+* 【2022-09-15】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
+* 【2022-09-15】[open-mmlab / mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.
+* 【2022-09-15】[IDEA-Research / DINO](https://github.com/IDEA-Research/DINO) - Official implementation of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection"
+* 【2022-09-15】[PeterL1n / RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
+* 【2022-09-15】[eriklindernoren / PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+* 【2022-09-15】[jackzhenguo / python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 * 【2022-09-14】[mohamedbenchikh / CVE-2022-27925](https://github.com/mohamedbenchikh/CVE-2022-27925) - 
 * 【2022-09-14】[serengil / deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 * 【2022-09-14】[httpie / httpie](https://github.com/httpie/httpie) - 🥧HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -361,6 +384,11 @@
 
 ## Javascript
 
+* 【2022-09-15】[adrianhajdin / project_web3.0](https://github.com/adrianhajdin/project_web3.0) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application
+* 【2022-09-15】[stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+* 【2022-09-15】[WebGoat / WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
+* 【2022-09-15】[jgraph / drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
+* 【2022-09-15】[flutterchina / flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd) - 《Flutter实战 第二版》- 书稿（未完成）
 * 【2022-09-14】[crobynsc / tiktok-views](https://github.com/crobynsc/tiktok-views) - Automate tiktok views by zefoy.com
 * 【2022-09-14】[devXprite / infoooze](https://github.com/devXprite/infoooze) - Infoooze is an Open-source intelligence (OSINT) tool in NodeJs. It provides various modules that allow efficient searches.
 * 【2022-09-14】[meliorence / react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel) - Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.
@@ -473,6 +501,9 @@
 
 ## Go
 
+* 【2022-09-15】[0xPolygon / polygon-edge](https://github.com/0xPolygon/polygon-edge) - A Framework for Building Ethereum-compatible Blockchain Networks
+* 【2022-09-15】[anjia0532 / gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) - all of the gcr.io docker image mirror
+* 【2022-09-15】[andeya / pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
 * 【2022-09-14】[uber-go / goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 * 【2022-09-14】[grafana / mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
 * 【2022-09-14】[mozilla / sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -610,6 +641,12 @@
 
 ## C
 
+* 【2022-09-15】[arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+* 【2022-09-15】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
+* 【2022-09-15】[libimobiledevice / libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+* 【2022-09-15】[hkx3upper / Karlann](https://github.com/hkx3upper/Karlann) - It's a kernel-based keylogger for Windows x64.
+* 【2022-09-15】[Aiano / FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm.
+* 【2022-09-15】[wuxx / AntRunner](https://github.com/wuxx/AntRunner) - a DIY Antenna Rotator by BG5DIW
 * 【2022-09-14】[InfiniTimeOrg / InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) - Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS
 * 【2022-09-14】[hpjansson / chafa](https://github.com/hpjansson/chafa) - 📺🗿Terminal graphics for the 21st century.
 * 【2022-09-14】[lh3 / miniprot](https://github.com/lh3/miniprot) - Aligning proteins to genomes with splicing and frameshift
@@ -705,6 +742,9 @@
 
 ## C++
 
+* 【2022-09-15】[drogonframework / drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
+* 【2022-09-15】[abseil / abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
+* 【2022-09-15】[iree-org / iree](https://github.com/iree-org/iree) - 👻
 * 【2022-09-14】[rutura / The-C-20-Masterclass-Source-Code](https://github.com/rutura/The-C-20-Masterclass-Source-Code) - Source code for the C++ 20 Masterclass on udemy
 * 【2022-09-14】[SerenityOS / ladybird](https://github.com/SerenityOS/ladybird) - Ladybird web browser
 * 【2022-09-14】[Neargye / magic_enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
@@ -791,6 +831,12 @@
 
 ## C#
 
+* 【2022-09-15】[mRemoteNG / mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+* 【2022-09-15】[neuecc / UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
+* 【2022-09-15】[dotnet-shashlik / shashlik.eventbus](https://github.com/dotnet-shashlik/shashlik.eventbus) - .net core 事件总线，分布式事务解决方案（最终一致性）
+* 【2022-09-15】[shmilylty / SharpHostInfo](https://github.com/shmilylty/SharpHostInfo) - SharpHostInfo是一款快速探测内网主机信息工具（深信服深蓝实验室天威战队强力驱动）
+* 【2022-09-15】[Super-Badmen-Viper / MoZhiMusicPlayer](https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer) - MusicPlayer，仿制当前主流的某T的音乐软件，基于dotNET_C#_WPF的个人开源音乐播放器，优秀的学习项目
+* 【2022-09-15】[yhuse / SunnyUI](https://github.com/yhuse/SunnyUI) - SunnyUI.Net, 基于.Net 4.0+、.Net 6 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。
 * 【2022-09-14】[GhostPack / Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
 * 【2022-09-14】[Azure / azure-functions-core-tools](https://github.com/Azure/azure-functions-core-tools) - Command line tools for Azure Functions
 * 【2022-09-14】[Fictiverse / StableDiffusion-Windows-GUI](https://github.com/Fictiverse/StableDiffusion-Windows-GUI) - 
@@ -876,6 +922,13 @@
 
 ## Html
 
+* 【2022-09-15】[collabnix / kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
+* 【2022-09-15】[mdn / css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
+* 【2022-09-15】[maykbrito / nlw-esports-explorer](https://github.com/maykbrito/nlw-esports-explorer) - Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat
+* 【2022-09-15】[Pradumnasaraf / open-source-with-pradumna](https://github.com/Pradumnasaraf/open-source-with-pradumna) - Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.
+* 【2022-09-15】[kotonemywaifu / JSDec](https://github.com/kotonemywaifu/JSDec) - Online JavaScript decoder.Supported sojson v4/Premium/v5 and more(No longer update)
+* 【2022-09-15】[sethcottle / littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
+* 【2022-09-15】[monlor / MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 * 【2022-09-14】[rammcodes / Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio🔥- Portfolio Template for Developers🚀
 * 【2022-09-14】[clong / DetectionLab](https://github.com/clong/DetectionLab) - Automate the creation of a lab environment complete with security tooling and logging best practices
 * 【2022-09-14】[telerik / kendo-themes](https://github.com/telerik/kendo-themes) - Monorepo for SASS-based Kendo UI themes
@@ -972,6 +1025,13 @@
 
 ## Css
 
+* 【2022-09-15】[shenweiyan / WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+* 【2022-09-15】[froala / wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
+* 【2022-09-15】[monospaced / mysteron.js](https://github.com/monospaced/mysteron.js) - Web Audio API theremin.
+* 【2022-09-15】[codestates-seb / fe-dom-practice](https://github.com/codestates-seb/fe-dom-practice) - 
+* 【2022-09-15】[the-mvm / the-mvm.github.io](https://github.com/the-mvm/the-mvm.github.io) - The Minimum Viable Model website and Jekyll theme.
+* 【2022-09-15】[imba / imba-vite-template](https://github.com/imba/imba-vite-template) - Imba template using vite
+* 【2022-09-15】[suruibuas / eui](https://github.com/suruibuas/eui) - eui（原eadmin） - 极致用户体验与极简开发并存的开箱即用的后台UI框架，预览版账号：eui，密码：888888
 * 【2022-09-14】[ardalis / pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals) - Sample code for the Pluralsight DDD Fundamentals course by Julie Lerman and Steve "ardalis" Smith
 * 【2022-09-13】[GDSC-IET-LUCKNOW / IET-GDSC-Website](https://github.com/GDSC-IET-LUCKNOW/IET-GDSC-Website) - This is IET Lucknow's official GDSC website
 * 【2022-09-13】[rawchen / blog-ssm](https://github.com/rawchen/blog-ssm) - 一个简单漂亮的SSM博客系统。
@@ -1040,6 +1100,12 @@
 
 ## Unknown
 
+* 【2022-09-15】[joaocarvalhoopen / How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
+* 【2022-09-15】[cat-milk / Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+* 【2022-09-15】[daffainfo / AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
+* 【2022-09-15】[Flutterando / forum](https://github.com/Flutterando/forum) - Organizando as discussões feitas no Telegram, Discord e Facebook no Github em formato de Issues.
+* 【2022-09-15】[easychen / rsspush](https://github.com/easychen/rsspush) - 监测RSS变动，并发送最新内容到微信
+* 【2022-09-15】[miaomiaosoft / PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 * 【2022-09-14】[AUTOMATIC1111 / stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
 * 【2022-09-14】[brillout / awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 * 【2022-09-14】[RealityNet / Android-Forensics-References](https://github.com/RealityNet/Android-Forensics-References) - 
