@@ -6,6 +6,20 @@
 
 ## All language
 
+* 【2022-09-16】[alura / techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech carrer!
+* 【2022-09-16】[ethereum / ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
+* 【2022-09-16】[revanced / revanced-manager](https://github.com/revanced/revanced-manager) - 💊The official ReVanced Manager
+* 【2022-09-16】[remix-run / react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+* 【2022-09-16】[malwaredllc / byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
+* 【2022-09-16】[YangLing0818 / Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) - Diffusion model papers, survey, and taxonomy
+* 【2022-09-16】[cloud-custodian / cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+* 【2022-09-16】[Azure / azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) - This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+* 【2022-09-16】[macrozheng / mall-admin-web](https://github.com/macrozheng/mall-admin-web) - mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。
+* 【2022-09-16】[bailicangdu / vue2-elm](https://github.com/bailicangdu/vue2-elm) - Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+* 【2022-09-16】[Kaiyiwing / qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+* 【2022-09-16】[lin-xin / vue-manage-system](https://github.com/lin-xin/vue-manage-system) - 基于Vue3 + Element Plus 的后台管理系统解决方案
+* 【2022-09-16】[Tencent / lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+* 【2022-09-16】[yzy1996 / English-Writing](https://github.com/yzy1996/English-Writing) - Enhance Your English Writing
 * 【2022-09-15】[divamgupta / diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 * 【2022-09-15】[twitter / compose-rules](https://github.com/twitter/compose-rules) - Static checks to aid with a healthy adoption of Compose
 * 【2022-09-15】[Alamofire / Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
@@ -129,6 +143,8 @@
 
 ## Java
 
+* 【2022-09-16】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
+* 【2022-09-16】[youlookwhat / ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、[腾讯x5使用示例]
 * 【2022-09-15】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
 * 【2022-09-15】[micrometer-metrics / micrometer](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.
 * 【2022-09-15】[react-native-camera / react-native-camera](https://github.com/react-native-camera/react-native-camera) - A Camera component for React Native. Also supports barcode scanning!
@@ -236,6 +252,15 @@
 
 ## Python
 
+* 【2022-09-16】[kornia / kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
+* 【2022-09-16】[ex0dus-0x / fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.
+* 【2022-09-16】[carlospolop / hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+* 【2022-09-16】[DiegoDBLe / Python-Basico-Lets-Code](https://github.com/DiegoDBLe/Python-Basico-Lets-Code) - Curso Básico de Python da Lets-Code
+* 【2022-09-16】[open-mmlab / mmgeneration](https://github.com/open-mmlab/mmgeneration) - MMGeneration is a powerful toolkit for generative models, based on PyTorch and MMCV.
+* 【2022-09-16】[AnthonyCalandra / modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features) - A cheatsheet of modern C++ language and library features.
+* 【2022-09-16】[cluic / wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
+* 【2022-09-16】[chatopera / Synonyms](https://github.com/chatopera/Synonyms) - 🌿中文近义词：聊天机器人，智能问答工具包
+* 【2022-09-16】[waditu / tushare](https://github.com/waditu/tushare) - TuShare is a utility for crawling historical data of China stocks
 * 【2022-09-15】[tahaluindo / Shopee-flashsale](https://github.com/tahaluindo/Shopee-flashsale) - This Shopee Flash Sale BOT
 * 【2022-09-15】[deepset-ai / haystack](https://github.com/deepset-ai/haystack) - 🔍Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.
 * 【2022-09-15】[SigmaHQ / sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems
@@ -384,6 +409,14 @@
 
 ## Javascript
 
+* 【2022-09-16】[knownsec / KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
+* 【2022-09-16】[therealgliz / blooket-hacks](https://github.com/therealgliz/blooket-hacks) - Multiple game hacks to use so the game become easier to play!
+* 【2022-09-16】[websockets / ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+* 【2022-09-16】[sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+* 【2022-09-16】[PanJiaChen / vue-admin-template](https://github.com/PanJiaChen/vue-admin-template) - a vue2.0 minimal admin template
+* 【2022-09-16】[sondnpt00343 / tiktok-ui](https://github.com/sondnpt00343/tiktok-ui) - Tiktok Clone, dự án thực hành trong khóa ReactJS tại F8: https://fullstack.edu.vn/courses/reactjs
+* 【2022-09-16】[BigCleverMan / Trinity-Force](https://github.com/BigCleverMan/Trinity-Force) - 
+* 【2022-09-16】[zhangti0708 / bigdata-examples](https://github.com/zhangti0708/bigdata-examples) - 数据可视化，大屏模板示例
 * 【2022-09-15】[adrianhajdin / project_web3.0](https://github.com/adrianhajdin/project_web3.0) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Web 3.0 React Solidity Blockchain Application
 * 【2022-09-15】[stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 * 【2022-09-15】[WebGoat / WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
@@ -501,6 +534,10 @@
 
 ## Go
 
+* 【2022-09-16】[ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
+* 【2022-09-16】[containers / skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
+* 【2022-09-16】[go-gorm / gen](https://github.com/go-gorm/gen) - Gen: Friendly & Safer GORM powered by Code Generation
+* 【2022-09-16】[newbe3three / gotoexec](https://github.com/newbe3three/gotoexec) - 通过Go语言实现的一款基于gRPC的远控木马。
 * 【2022-09-15】[0xPolygon / polygon-edge](https://github.com/0xPolygon/polygon-edge) - A Framework for Building Ethereum-compatible Blockchain Networks
 * 【2022-09-15】[anjia0532 / gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) - all of the gcr.io docker image mirror
 * 【2022-09-15】[andeya / pholcus](https://github.com/andeya/pholcus) - Pholcus is a distributed high-concurrency crawler software written in pure golang
@@ -641,6 +678,11 @@
 
 ## C
 
+* 【2022-09-16】[thradams / cake](https://github.com/thradams/cake) - Cake a C23 front end and transpiler written in C
+* 【2022-09-16】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
+* 【2022-09-16】[RavenProject / Ravencoin](https://github.com/RavenProject/Ravencoin) - Ravencoin Core integration/staging tree
+* 【2022-09-16】[riscv-software-src / riscv-isa-sim](https://github.com/riscv-software-src/riscv-isa-sim) - Spike, a RISC-V ISA Simulator
+* 【2022-09-16】[Xilinx / XRT](https://github.com/Xilinx/XRT) - Xilinx Run Time for FPGA
 * 【2022-09-15】[arthenica / ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) - FFmpeg Kit for applications. Supports Android, Flutter, iOS, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
 * 【2022-09-15】[tporadowski / redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.
 * 【2022-09-15】[libimobiledevice / libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -742,6 +784,10 @@
 
 ## C++
 
+* 【2022-09-16】[nuttyartist / notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
+* 【2022-09-16】[vcmi / vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
+* 【2022-09-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
+* 【2022-09-16】[hao14293 / 2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408) - 💯✍备考2021年研究生-408
 * 【2022-09-15】[drogonframework / drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 * 【2022-09-15】[abseil / abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
 * 【2022-09-15】[iree-org / iree](https://github.com/iree-org/iree) - 👻
@@ -831,6 +877,15 @@
 
 ## C#
 
+* 【2022-09-16】[OrchardCMS / OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
+* 【2022-09-16】[builtbybel / TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
+* 【2022-09-16】[JJConsulting / JJMasterData](https://github.com/JJConsulting/JJMasterData) - JJMasterData is an open-source .NET library to help you create CRUDs at runtime quickly from data dictionaries (metadata).
+* 【2022-09-16】[donet5 / SqlSugar](https://github.com/donet5/SqlSugar) - Best ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
+* 【2022-09-16】[Xabaril / AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+* 【2022-09-16】[jasontaylordev / NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
+* 【2022-09-16】[simplcommerce / SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
+* 【2022-09-16】[GZTimeWalker / GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
+* 【2022-09-16】[kpali / ncmdumpGUI](https://github.com/kpali/ncmdumpGUI) - 网易云音乐ncm转mp3格式，Windows图形界面版本
 * 【2022-09-15】[mRemoteNG / mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 * 【2022-09-15】[neuecc / UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 * 【2022-09-15】[dotnet-shashlik / shashlik.eventbus](https://github.com/dotnet-shashlik/shashlik.eventbus) - .net core 事件总线，分布式事务解决方案（最终一致性）
@@ -922,6 +977,11 @@
 
 ## Html
 
+* 【2022-09-16】[momo0853 / kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
+* 【2022-09-16】[libredirect / libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
+* 【2022-09-16】[justinmajetich / AirBnB_clone](https://github.com/justinmajetich/AirBnB_clone) - 
+* 【2022-09-16】[divanov11 / StudyBud](https://github.com/divanov11/StudyBud) - 
+* 【2022-09-16】[Elmas5 / zhenyang-seminar](https://github.com/Elmas5/zhenyang-seminar) - 真央研习班官网专用仓库
 * 【2022-09-15】[collabnix / kubelabs](https://github.com/collabnix/kubelabs) - Get Started with Kubernetes
 * 【2022-09-15】[mdn / css-examples](https://github.com/mdn/css-examples) - Code examples that accompany the MDN CSS documentation
 * 【2022-09-15】[maykbrito / nlw-esports-explorer](https://github.com/maykbrito/nlw-esports-explorer) - Projeto desenvolvido no evento Next Level Week (NLW) da Rocketseat
@@ -1025,6 +1085,12 @@
 
 ## Css
 
+* 【2022-09-16】[nalgeon / sqlite-weekly](https://github.com/nalgeon/sqlite-weekly) - Weekly SQLite news, articles and extensions✨
+* 【2022-09-16】[Adrien-Kourganoff / TP2_WEB_OCRES](https://github.com/Adrien-Kourganoff/TP2_WEB_OCRES) - 
+* 【2022-09-16】[WillMuijrers / will-wacky-website](https://github.com/WillMuijrers/will-wacky-website) - Personal website for fork testing
+* 【2022-09-16】[ucds-vu / ko2022-templates](https://github.com/ucds-vu/ko2022-templates) - 
+* 【2022-09-16】[mir-hussain / debugging-project-3](https://github.com/mir-hussain/debugging-project-3) - 
+* 【2022-09-16】[ElzeroWebSchool / HTML_And_CSS_Template_One](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_One) - HTML And CSS Template One
 * 【2022-09-15】[shenweiyan / WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 * 【2022-09-15】[froala / wysiwyg-editor](https://github.com/froala/wysiwyg-editor) - The next generation Javascript WYSIWYG HTML Editor.
 * 【2022-09-15】[monospaced / mysteron.js](https://github.com/monospaced/mysteron.js) - Web Audio API theremin.
@@ -1100,6 +1166,12 @@
 
 ## Unknown
 
+* 【2022-09-16】[km-neuron / algorithm-assignment](https://github.com/km-neuron/algorithm-assignment) - 
+* 【2022-09-16】[Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) - 💻🎉An awesome & curated list of best applications and tools for Windows.
+* 【2022-09-16】[kottans / frontend](https://github.com/kottans/frontend) - Kottans frontend course🎓
+* 【2022-09-16】[rafaballerini / rafaballerini](https://github.com/rafaballerini/rafaballerini) - 
+* 【2022-09-16】[x-Ai / BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --> ∞
+* 【2022-09-16】[husthuke / awesome-knowledge-graph](https://github.com/husthuke/awesome-knowledge-graph) - 整理知识图谱相关学习资料
 * 【2022-09-15】[joaocarvalhoopen / How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust) - A guide to the adventurer.
 * 【2022-09-15】[cat-milk / Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 * 【2022-09-15】[daffainfo / AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
