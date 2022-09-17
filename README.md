@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-09-17】[facebookincubator / memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+* 【2022-09-17】[Lcry / a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) - 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊
+* 【2022-09-17】[nadrad / h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
+* 【2022-09-17】[b23r0 / Heroinn](https://github.com/b23r0/Heroinn) - A cross platform C2/post-exploitation framework.
+* 【2022-09-17】[type-challenges / type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+* 【2022-09-17】[bmpi-dev / invest-alchemy](https://github.com/bmpi-dev/invest-alchemy) - Invest Alchemy is a trade assistant for A share stock market. 为了满足上班族或业余投资者简单长期的投资需求，投资炼金术这个辅助用户投资交易的系统，它可以从投资组合整体的角度评价交易策略的风险与收益，而不像大多量化投资软件，解决了交易策略在模拟回测与投资组合实践中差距过大的问题。
+* 【2022-09-17】[total-typescript / type-transformations-workshop](https://github.com/total-typescript/type-transformations-workshop) - Master transforming types in TypeScript
+* 【2022-09-17】[facebook / jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+* 【2022-09-17】[kyxiaxiang / CrackSleeve4.7](https://github.com/kyxiaxiang/CrackSleeve4.7) - 
 * 【2022-09-16】[alura / techguide](https://github.com/alura/techguide) - TechGuide main repository with the code that guides your tech carrer!
 * 【2022-09-16】[ethereum / ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
 * 【2022-09-16】[revanced / revanced-manager](https://github.com/revanced/revanced-manager) - 💊The official ReVanced Manager
@@ -143,6 +152,8 @@
 
 ## Java
 
+* 【2022-09-17】[reactor / reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty
+* 【2022-09-17】[ffay / lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209
 * 【2022-09-16】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
 * 【2022-09-16】[youlookwhat / ByWebView](https://github.com/youlookwhat/ByWebView) - 🌏WebView 全方面使用，JS交互、进度条、上传图片、错误页面、视频全屏播放、唤起原生App、获取网页源代码、被作为第三方浏览器打开、DeepLink、[腾讯x5使用示例]
 * 【2022-09-15】[quarkusio / quarkus-quickstarts](https://github.com/quarkusio/quarkus-quickstarts) - Quarkus quickstart code
@@ -252,6 +263,14 @@
 
 ## Python
 
+* 【2022-09-17】[HelixNGC7293 / DeforumStableDiffusionLocal](https://github.com/HelixNGC7293/DeforumStableDiffusionLocal) - Local version of Deforum Stable Diffusion, supports txt settings file input and animation features!
+* 【2022-09-17】[openvinotoolkit / open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
+* 【2022-09-17】[junyanz / pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
+* 【2022-09-17】[78ResearchLab / PoC](https://github.com/78ResearchLab/PoC) - 
+* 【2022-09-17】[kubeflow / pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
+* 【2022-09-17】[Skydio / revup](https://github.com/Skydio/revup) - Revolutionary github tools. Effortlessly create multiple branches and pull requests.
+* 【2022-09-17】[MikeWang000000 / Natter](https://github.com/MikeWang000000/Natter) - TCP hole punching tool
+* 【2022-09-17】[XiaoMiku01 / fansMedalHelper](https://github.com/XiaoMiku01/fansMedalHelper) - 新版B站粉丝牌助手 全自动升级粉丝牌
 * 【2022-09-16】[kornia / kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 * 【2022-09-16】[ex0dus-0x / fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022.
 * 【2022-09-16】[carlospolop / hacktricks](https://github.com/carlospolop/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
@@ -409,6 +428,13 @@
 
 ## Javascript
 
+* 【2022-09-17】[novnc / noVNC](https://github.com/novnc/noVNC) - VNC client web application
+* 【2022-09-17】[SortableJS / Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
+* 【2022-09-17】[locomotivemtl / locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤Detection of elements in viewport & smooth scrolling with parallax.
+* 【2022-09-17】[iamkun / dayjs](https://github.com/iamkun/dayjs) - ⏰Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+* 【2022-09-17】[EmulatorJS / EmulatorJS](https://github.com/EmulatorJS/EmulatorJS) - The official home of the EmulatorJS project
+* 【2022-09-17】[grpc / grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+* 【2022-09-17】[89996462 / Quantumult-X](https://github.com/89996462/Quantumult-X) - 
 * 【2022-09-16】[knownsec / KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 * 【2022-09-16】[therealgliz / blooket-hacks](https://github.com/therealgliz/blooket-hacks) - Multiple game hacks to use so the game become easier to play!
 * 【2022-09-16】[websockets / ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -534,6 +560,11 @@
 
 ## Go
 
+* 【2022-09-17】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
+* 【2022-09-17】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
+* 【2022-09-17】[devploit / dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40X response codes.
+* 【2022-09-17】[google / gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+* 【2022-09-17】[v2fly / domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 * 【2022-09-16】[ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) - Go Training Class Material :
 * 【2022-09-16】[containers / skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 * 【2022-09-16】[go-gorm / gen](https://github.com/go-gorm/gen) - Gen: Friendly & Safer GORM powered by Code Generation
@@ -678,6 +709,9 @@
 
 ## C
 
+* 【2022-09-17】[avaneev / prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
+* 【2022-09-17】[Lordwill1 / alx-low_level_programming](https://github.com/Lordwill1/alx-low_level_programming) - Welcome to C programming repository. C is one of the most important and widely used of all programming languages. It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware.
+* 【2022-09-17】[jianfengye / nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment) - nginx源码中文注释版
 * 【2022-09-16】[thradams / cake](https://github.com/thradams/cake) - Cake a C23 front end and transpiler written in C
 * 【2022-09-16】[libusb / libusb](https://github.com/libusb/libusb) - A cross-platform library to access USB devices
 * 【2022-09-16】[RavenProject / Ravencoin](https://github.com/RavenProject/Ravencoin) - Ravencoin Core integration/staging tree
@@ -877,6 +911,10 @@
 
 ## C#
 
+* 【2022-09-17】[Accenture / Codecepticon](https://github.com/Accenture/Codecepticon) - 
+* 【2022-09-17】[Cysharp / MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+* 【2022-09-17】[trueai-org / module-shop](https://github.com/trueai-org/module-shop) - 一个基于 .NET Core构建的简单、跨平台、模块化的商城系统
+* 【2022-09-17】[iioter / iotgateway](https://github.com/iioter/iotgateway) - A cross-platform IoT gateway based on .net6. Through visual configuration, you can easily connect to any of your devices and systems (such as PLC, barcode scanner, CNC, database, serial device, host computer, OPC Server, OPC UA Server, Mqtt Server, etc.), so as to interact with Thingsboard, IoTSharp or Your own IoT platform for two-way data comm…
 * 【2022-09-16】[OrchardCMS / OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 * 【2022-09-16】[builtbybel / TweakUIX](https://github.com/builtbybel/TweakUIX) - PowerToys/Tweak UI Replica
 * 【2022-09-16】[JJConsulting / JJMasterData](https://github.com/JJConsulting/JJMasterData) - JJMasterData is an open-source .NET library to help you create CRUDs at runtime quickly from data dictionaries (metadata).
@@ -977,6 +1015,10 @@
 
 ## Html
 
+* 【2022-09-17】[gobitfly / eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
+* 【2022-09-17】[scrimba / learn-html-and-css](https://github.com/scrimba/learn-html-and-css) - Code files for Scrimba's HTML and CSS course
+* 【2022-09-17】[hunar4321 / particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
+* 【2022-09-17】[tjy-gitnub / win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版
 * 【2022-09-16】[momo0853 / kkndme](https://github.com/momo0853/kkndme) - kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。
 * 【2022-09-16】[libredirect / libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 * 【2022-09-16】[justinmajetich / AirBnB_clone](https://github.com/justinmajetich/AirBnB_clone) - 
@@ -1085,6 +1127,9 @@
 
 ## Css
 
+* 【2022-09-17】[eikon-frontend / starterkit](https://github.com/eikon-frontend/starterkit) - 
+* 【2022-09-17】[JacquiM / CMPG-323-IOT-Device-Management](https://github.com/JacquiM/CMPG-323-IOT-Device-Management) - 
+* 【2022-09-17】[xiangjianan / lks](https://github.com/xiangjianan/lks) - 
 * 【2022-09-16】[nalgeon / sqlite-weekly](https://github.com/nalgeon/sqlite-weekly) - Weekly SQLite news, articles and extensions✨
 * 【2022-09-16】[Adrien-Kourganoff / TP2_WEB_OCRES](https://github.com/Adrien-Kourganoff/TP2_WEB_OCRES) - 
 * 【2022-09-16】[WillMuijrers / will-wacky-website](https://github.com/WillMuijrers/will-wacky-website) - Personal website for fork testing
@@ -1166,6 +1211,9 @@
 
 ## Unknown
 
+* 【2022-09-17】[nas5w / interview-resources](https://github.com/nas5w/interview-resources) - A non-overwhelming list of resources for tech interviews.
+* 【2022-09-17】[baristunar / design-patterns-tr](https://github.com/baristunar/design-patterns-tr) - Türkçe daha fazla kaynak oluşturmak adına önemli "Design "Pattern" makalelerini çeviriyoruz.
+* 【2022-09-17】[sebaxakerhtc / rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
 * 【2022-09-16】[km-neuron / algorithm-assignment](https://github.com/km-neuron/algorithm-assignment) - 
 * 【2022-09-16】[Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) - 💻🎉An awesome & curated list of best applications and tools for Windows.
 * 【2022-09-16】[kottans / frontend](https://github.com/kottans/frontend) - Kottans frontend course🎓
