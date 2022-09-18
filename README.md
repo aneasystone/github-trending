@@ -6,6 +6,18 @@
 
 ## All language
 
+* 【2022-09-18】[zc2638 / ylgy](https://github.com/zc2638/ylgy) - 羊了个羊 通关程序，支持无限通关
+* 【2022-09-18】[RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
+* 【2022-09-18】[penpot / penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+* 【2022-09-18】[george-jiang-wow / yanglegeyang](https://github.com/george-jiang-wow/yanglegeyang) - 羊了个羊在线版
+* 【2022-09-18】[theatre-js / theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+* 【2022-09-18】[tauri-apps / tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+* 【2022-09-18】[yaklang / yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
+* 【2022-09-18】[missuo / FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
+* 【2022-09-18】[yangzhi-1 / yanglegeyang](https://github.com/yangzhi-1/yanglegeyang) - 羊了个羊微信PC版无限道具；重复进入第一关。
+* 【2022-09-18】[djerryz / Sheep_Sheep_Ni](https://github.com/djerryz/Sheep_Sheep_Ni) - 羊了个羊- 前端源码与接口分析
+* 【2022-09-18】[ezshine / wxapkg-convertor](https://github.com/ezshine/wxapkg-convertor) - 一个反编译微信小程序的工具，仓库也收集各种微信小程序/小游戏.wxapkg文件
+* 【2022-09-18】[yangdaozhao / ylgy](https://github.com/yangdaozhao/ylgy) - 羊了个羊 Quantumult X 重写脚本 秒过关
 * 【2022-09-17】[facebookincubator / memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 * 【2022-09-17】[Lcry / a-sheep-assistant](https://github.com/Lcry/a-sheep-assistant) - 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊
 * 【2022-09-17】[nadrad / h-m-m](https://github.com/nadrad/h-m-m) - Hackers Mind Map
@@ -152,6 +164,9 @@
 
 ## Java
 
+* 【2022-09-18】[Tencent / spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent) - Spring Cloud Tencent is a Spring Cloud based Service Governance Framework provided by Tencent.
+* 【2022-09-18】[OpenRefine / OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
+* 【2022-09-18】[JessYanCoding / AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 🔥A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案).
 * 【2022-09-17】[reactor / reactor-netty](https://github.com/reactor/reactor-netty) - TCP/HTTP/UDP/QUIC client/server with Reactor over Netty
 * 【2022-09-17】[ffay / lanproxy](https://github.com/ffay/lanproxy) - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209
 * 【2022-09-16】[synthetichealth / synthea](https://github.com/synthetichealth/synthea) - Synthetic Patient Population Simulator
@@ -263,6 +278,9 @@
 
 ## Python
 
+* 【2022-09-18】[Trusted-AI / AIF360](https://github.com/Trusted-AI/AIF360) - A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
+* 【2022-09-18】[RhinoSecurityLabs / pacu](https://github.com/RhinoSecurityLabs/pacu) - The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+* 【2022-09-18】[killall-love / a-sheep-assistant](https://github.com/killall-love/a-sheep-assistant) - 羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。
 * 【2022-09-17】[HelixNGC7293 / DeforumStableDiffusionLocal](https://github.com/HelixNGC7293/DeforumStableDiffusionLocal) - Local version of Deforum Stable Diffusion, supports txt settings file input and animation features!
 * 【2022-09-17】[openvinotoolkit / open_model_zoo](https://github.com/openvinotoolkit/open_model_zoo) - Pre-trained Deep Learning models and demos (high quality and extremely fast)
 * 【2022-09-17】[junyanz / pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch
@@ -428,6 +446,13 @@
 
 ## Javascript
 
+* 【2022-09-18】[tc39 / proposal-extractors](https://github.com/tc39/proposal-extractors) - Extractors for ECMAScript
+* 【2022-09-18】[PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
+* 【2022-09-18】[GoogleChrome / lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+* 【2022-09-18】[google / blockly-samples](https://github.com/google/blockly-samples) - Plugins, codelabs, and examples related to the Blockly library.
+* 【2022-09-18】[aquasecurity / cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM)
+* 【2022-09-18】[GrowthEase / GameSentry](https://github.com/GrowthEase/GameSentry) - 一款提高安全测试效率的工具
+* 【2022-09-18】[sl1673495 / blogs](https://github.com/sl1673495/blogs) - 📖全网 100w+ 阅读量的进阶前端技术博客仓库，Vue 源码解析，React 深度实践，TypeScript 进阶艺术，工程化，性能优化实践……
 * 【2022-09-17】[novnc / noVNC](https://github.com/novnc/noVNC) - VNC client web application
 * 【2022-09-17】[SortableJS / Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 * 【2022-09-17】[locomotivemtl / locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤Detection of elements in viewport & smooth scrolling with parallax.
@@ -560,6 +585,10 @@
 
 ## Go
 
+* 【2022-09-18】[go-admin-team / go-admin](https://github.com/go-admin-team/go-admin) - 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev Antd 订阅版：https://preview.go-admin.dev
+* 【2022-09-18】[ContainerSolutions / k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
+* 【2022-09-18】[ac0d3r / MySQLMonitor](https://github.com/ac0d3r/MySQLMonitor) - 监控 MySQL 执行语句并实时打印的工具🤖️
+* 【2022-09-18】[brokercap / Bifrost](https://github.com/brokercap/Bifrost) - Bifrost ---- 面向生产环境的 MySQL,MariaDB 同步到Redis,MongoDB,ClickHouse,MySQL等服务的异构中间件
 * 【2022-09-17】[BishopFox / cloudfox](https://github.com/BishopFox/cloudfox) - Automating situational awareness for cloud penetration tests.
 * 【2022-09-17】[v2ray / domain-list-community](https://github.com/v2ray/domain-list-community) - Community managed domain list
 * 【2022-09-17】[devploit / dontgo403](https://github.com/devploit/dontgo403) - Tool to bypass 40X response codes.
@@ -709,6 +738,8 @@
 
 ## C
 
+* 【2022-09-18】[blackmagic-debug / blackmagic](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
+* 【2022-09-18】[winfsp / sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 * 【2022-09-17】[avaneev / prvhash](https://github.com/avaneev/prvhash) - PRVHASH - Pseudo-Random-Value Hash. Hash functions, PRNG with unlimited period, randomness extractor. (Codename Gradilac/Градилак)
 * 【2022-09-17】[Lordwill1 / alx-low_level_programming](https://github.com/Lordwill1/alx-low_level_programming) - Welcome to C programming repository. C is one of the most important and widely used of all programming languages. It is a powerful language that can be used not only to build general-purpose applications but also to write “low-level” programs that interact very closely with the computer hardware.
 * 【2022-09-17】[jianfengye / nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment) - nginx源码中文注释版
@@ -818,6 +849,11 @@
 
 ## C++
 
+* 【2022-09-18】[momo5502 / boiii](https://github.com/momo5502/boiii) - ☄️Reverse engineering and analysis of Call of Duty: Black Ops 3
+* 【2022-09-18】[zeromq / libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
+* 【2022-09-18】[oneapi-src / oneDNN](https://github.com/oneapi-src/oneDNN) - oneAPI Deep Neural Network Library (oneDNN)
+* 【2022-09-18】[A-Normal-User / Pretend_HideVirtualMemory](https://github.com/A-Normal-User/Pretend_HideVirtualMemory) - 利用物理内存映射，实现虚拟内存的伪隐藏
+* 【2022-09-18】[chenkui164 / FastASR](https://github.com/chenkui164/FastASR) - 这是一个用C++实现ASR推理的项目，它依赖很少，安装也很简单，推理速度很快，在树莓派4B等ARM平台也可以流畅的运行。 推理模型是基于目前最先进的conformer模型，使用10000+小时的wenetspeech数据集训练得到， 所以识别效果也很好，可以媲美许多商用的ASR软件。
 * 【2022-09-16】[nuttyartist / notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
 * 【2022-09-16】[vcmi / vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 * 【2022-09-16】[ceres-solver / ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
@@ -911,6 +947,13 @@
 
 ## C#
 
+* 【2022-09-18】[danielgerlag / workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
+* 【2022-09-18】[jstedfast / MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+* 【2022-09-18】[CommunityToolkit / dotnet](https://github.com/CommunityToolkit/dotnet) - .NET Community Toolkit is a collection of helpers and APIs that work for all .NET developers and are agnostic of any specific UI platform. The toolkit is maintained and published by Microsoft, and part of the .NET Foundation.
+* 【2022-09-18】[ntminer / NtMiner](https://github.com/ntminer/NtMiner) - GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files
+* 【2022-09-18】[m969 / EGamePlay](https://github.com/m969/EGamePlay) - 一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables.
+* 【2022-09-18】[zxsean / sakana_Unity](https://github.com/zxsean/sakana_Unity) - 「Sakana!」石蒜模拟器 但是Unity
+* 【2022-09-18】[AlifeLine / Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
 * 【2022-09-17】[Accenture / Codecepticon](https://github.com/Accenture/Codecepticon) - 
 * 【2022-09-17】[Cysharp / MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 * 【2022-09-17】[trueai-org / module-shop](https://github.com/trueai-org/module-shop) - 一个基于 .NET Core构建的简单、跨平台、模块化的商城系统
@@ -1015,6 +1058,9 @@
 
 ## Html
 
+* 【2022-09-18】[WICG / webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
+* 【2022-09-18】[HomoEfficio / dev-tips](https://github.com/HomoEfficio/dev-tips) - 개발하다 마주쳤던 작은 문제들과 해결 방법 정리
+* 【2022-09-18】[pojiezhiyuanjun / freev2](https://github.com/pojiezhiyuanjun/freev2) - free V2
 * 【2022-09-17】[gobitfly / eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) - Open source golang based explorer for the eth2 beacon chain
 * 【2022-09-17】[scrimba / learn-html-and-css](https://github.com/scrimba/learn-html-and-css) - Code files for Scrimba's HTML and CSS course
 * 【2022-09-17】[hunar4321 / particle-life](https://github.com/hunar4321/particle-life) - A simple program to simulate artificial life using attraction/reuplsion forces between many particles
@@ -1127,6 +1173,13 @@
 
 ## Css
 
+* 【2022-09-18】[elgrove / idcac-3.4.2](https://github.com/elgrove/idcac-3.4.2) - The source code for the popular Chrome extension 'I don't care about cookies' version 3.4.2, the version before it was acquired by Avast
+* 【2022-09-18】[woowacourse / jwp-dashboard-mvc](https://github.com/woowacourse/jwp-dashboard-mvc) - 
+* 【2022-09-18】[OhMyGuus / I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies" (WIP)
+* 【2022-09-18】[blockpane / tenderduty](https://github.com/blockpane/tenderduty) - Notification tool for Cosmos/Tendermint validators, sends alerts when missing pre-commits
+* 【2022-09-18】[npx08 / nlw-flix](https://github.com/npx08/nlw-flix) - 📺NLW Flix é uma vertente do projeto NLW eSports desenvolvido durante a Next Level Week eSports.
+* 【2022-09-18】[Coolc4t / Coolc4tWebsite](https://github.com/Coolc4t/Coolc4tWebsite) - A cool website with pictures of cat!
+* 【2022-09-18】[ai / easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 * 【2022-09-17】[eikon-frontend / starterkit](https://github.com/eikon-frontend/starterkit) - 
 * 【2022-09-17】[JacquiM / CMPG-323-IOT-Device-Management](https://github.com/JacquiM/CMPG-323-IOT-Device-Management) - 
 * 【2022-09-17】[xiangjianan / lks](https://github.com/xiangjianan/lks) - 
@@ -1211,6 +1264,14 @@
 
 ## Unknown
 
+* 【2022-09-18】[orkunisitmak / text2img-index](https://github.com/orkunisitmak/text2img-index) - Text2img ve diğer yazıdan görsel üretme araçlarının listesi
+* 【2022-09-18】[Funkmyster / awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) - Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.
+* 【2022-09-18】[MuddledBox / FlipperZeroSub-GHz](https://github.com/MuddledBox/FlipperZeroSub-GHz) - Sub-GHz Files for the Flipper Zero
+* 【2022-09-18】[ethereumpow / docs](https://github.com/ethereumpow/docs) - EthereumPoW (ETHW) Official Docs
+* 【2022-09-18】[sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 🔗Some useful websites for programmers.
+* 【2022-09-18】[tchapi / markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
+* 【2022-09-18】[google / eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
+* 【2022-09-18】[pm936 / httpcatcher](https://github.com/pm936/httpcatcher) - 网球规则
 * 【2022-09-17】[nas5w / interview-resources](https://github.com/nas5w/interview-resources) - A non-overwhelming list of resources for tech interviews.
 * 【2022-09-17】[baristunar / design-patterns-tr](https://github.com/baristunar/design-patterns-tr) - Türkçe daha fazla kaynak oluşturmak adına önemli "Design "Pattern" makalelerini çeviriyoruz.
 * 【2022-09-17】[sebaxakerhtc / rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
