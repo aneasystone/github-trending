@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-20】[hsutter / cppfront](https://github.com/hsutter/cppfront) - A personal experimental C++ Syntax 2 -> Syntax 1 compiler
+* 【2022-09-20】[t3-oss / create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
+* 【2022-09-20】[liyupi / yulegeyu](https://github.com/liyupi/yulegeyu) - 羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn
+* 【2022-09-20】[elihwyma / Pogo](https://github.com/elihwyma/Pogo) - 
+* 【2022-09-20】[mrdbourke / pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+* 【2022-09-20】[SleepyAsh0191 / sheep-n-sheep-backend](https://github.com/SleepyAsh0191/sheep-n-sheep-backend) - 随便用java写的自制羊了个羊服务端，写的很垃圾，勿喷
+* 【2022-09-20】[zhangchuangiie / SimpleKafka](https://github.com/zhangchuangiie/SimpleKafka) - 一个基于Kafka客户端封装的工具，Kafka开发效率神器
 * 【2022-09-19】[Selina1981 / yanglegeyang](https://github.com/Selina1981/yanglegeyang) - 羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。
 * 【2022-09-19】[relogX / system-design-questions](https://github.com/relogX/system-design-questions) - Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass
 * 【2022-09-19】[AbdBarho / stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
@@ -176,6 +183,9 @@
 
 ## Java
 
+* 【2022-09-20】[openziti / goroutine-analyzer](https://github.com/openziti/goroutine-analyzer) - Helps analyze goroutines. Inspired by TDA for Java and goroutine-inspect for golang.
+* 【2022-09-20】[Lonely-night / fastjsonVul](https://github.com/Lonely-night/fastjsonVul) - fastjson 80 远程代码执行漏洞复现
+* 【2022-09-20】[GCS-ZHN / AutoCard](https://github.com/GCS-ZHN/AutoCard) - 浙大健康打卡的学习交流项目
 * 【2022-09-19】[jindrapetrik / jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 * 【2022-09-19】[LSPosed / CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 * 【2022-09-19】[Fox2Code / FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
@@ -295,6 +305,16 @@
 
 ## Python
 
+* 【2022-09-20】[peninha / The-Perfect-Backboard](https://github.com/peninha/The-Perfect-Backboard) - Algorithm to calculate the perfect geometry for a never miss backboard. Algoritmo para calcular o formato de uma tabela de basquete que sempre acerta na cesta.
+* 【2022-09-20】[xRET2pwn / Teamsniper](https://github.com/xRET2pwn/Teamsniper) - Teamsniper is a tool for fetching keywords in a Microsoft Teams such as (passwords, emails, database, etc.).
+* 【2022-09-20】[zalandoresearch / fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark👇
+* 【2022-09-20】[Ultimaker / Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+* 【2022-09-20】[searxng / searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
+* 【2022-09-20】[dankeyy / incdec.py](https://github.com/dankeyy/incdec.py) - for all your ++ -- needs
+* 【2022-09-20】[vpei / Free-TVUrl-Merge](https://github.com/vpei/Free-TVUrl-Merge) - 免费电视台网址聚合，测试不能用链接。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。
+* 【2022-09-20】[TheKOG / Gal-Voice-Bot](https://github.com/TheKOG/Gal-Voice-Bot) - 
+* 【2022-09-20】[startkkkkkk / Beijing_Daxuexi_Simple](https://github.com/startkkkkkk/Beijing_Daxuexi_Simple) - 北京 青年大学习 使用Github Actions自动完成
+* 【2022-09-20】[ZiniuLu / Python-100-Days](https://github.com/ZiniuLu/Python-100-Days) - 出处：https://github.com/jackfrued/Python-100-Days.git
 * 【2022-09-19】[carson-katri / dream-textures](https://github.com/carson-katri/dream-textures) - Stable Diffusion built-in to the Blender shader editor
 * 【2022-09-19】[Eventual-Inc / Daft](https://github.com/Eventual-Inc/Daft) - Python DataFrame for Complex Data
 * 【2022-09-19】[SilentNightSound / GI-Model-Importer](https://github.com/SilentNightSound/GI-Model-Importer) - Tools and instructions for importing custom models into a certain anime game
@@ -474,6 +494,9 @@
 
 ## Javascript
 
+* 【2022-09-20】[HashLips / hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine) - HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.
+* 【2022-09-20】[SudhanPlayz / Discord-MusicBot](https://github.com/SudhanPlayz/Discord-MusicBot) - An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
+* 【2022-09-20】[webtorrent / webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️Streaming torrent client for the web
 * 【2022-09-19】[openwrt / luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 * 【2022-09-19】[Ajmal-Achu / Wizard-MD](https://github.com/Ajmal-Achu/Wizard-MD) - 
 * 【2022-09-19】[NobyDa / Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
@@ -619,6 +642,12 @@
 
 ## Go
 
+* 【2022-09-20】[charmbracelet / bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework🏗
+* 【2022-09-20】[inancgumus / learngo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+* 【2022-09-20】[charmbracelet / bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
+* 【2022-09-20】[micro / micro](https://github.com/micro/micro) - API first development platform
+* 【2022-09-20】[21888 / yang](https://github.com/21888/yang) - 羊了个羊秒通关辅助网页版HTML+服务端,支持无限通关,开箱即用支持一键部署[全网首发]
+* 【2022-09-20】[haojie06 / selfhelp-iptables](https://github.com/haojie06/selfhelp-iptables) - 通过http api自助添加iptables白名单与黑名单的工具，防止nmap等程序的端口扫描和恶意主动探测，防止ssh、mysql等敏感服务受到攻击，并能对探测进行记录。
 * 【2022-09-19】[wundergraph / wunderbase](https://github.com/wundergraph/wunderbase) - Serverless GraphQL Database built on top of Firecracker, SQLite and Prisma
 * 【2022-09-19】[DNSCrypt / dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * 【2022-09-19】[dtm-labs / dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -780,6 +809,11 @@
 
 ## C
 
+* 【2022-09-20】[rossimo / retrobot](https://github.com/rossimo/retrobot) - 
+* 【2022-09-20】[jonas / tig](https://github.com/jonas/tig) - Text-mode interface for git
+* 【2022-09-20】[raspberrypi / pico-examples](https://github.com/raspberrypi/pico-examples) - 
+* 【2022-09-20】[yshui / picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+* 【2022-09-20】[hime-ime / hime](https://github.com/hime-ime/hime) - HIME Input Method Editor
 * 【2022-09-19】[Ralim / IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 * 【2022-09-19】[pi-hole / FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine
 * 【2022-09-19】[ntop / n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN
@@ -894,6 +928,12 @@
 
 ## C++
 
+* 【2022-09-20】[deepmind / s6](https://github.com/deepmind/s6) - 
+* 【2022-09-20】[AnthonyChen0921 / SmartAC](https://github.com/AnthonyChen0921/SmartAC) - Turn you traditional AC into a smart AC with $10
+* 【2022-09-20】[citizenfx / fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.
+* 【2022-09-20】[tkchu / Game-Programming-Patterns-CN](https://github.com/tkchu/Game-Programming-Patterns-CN) - 《游戏编程模式》中文版
+* 【2022-09-20】[liuchuo / PAT](https://github.com/liuchuo/PAT) - 🍭浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～
+* 【2022-09-20】[HeYijia / VINS-Course](https://github.com/HeYijia/VINS-Course) - VINS-Mono code without Ceres or ROS
 * 【2022-09-19】[ProjectPhysX / FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on any GPU via OpenCL.
 * 【2022-09-19】[harfbuzz / harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 * 【2022-09-19】[atcoder / ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
@@ -998,6 +1038,10 @@
 
 ## C#
 
+* 【2022-09-20】[ipodtouch0218 / NSMB-MarioVsLuigi](https://github.com/ipodtouch0218/NSMB-MarioVsLuigi) - Standalone Unity remake of New Super Mario Bros DS' multiplayer gamemode, "Mario vs Luigi"
+* 【2022-09-20】[msojocs / fiddler-everywhere-crack](https://github.com/msojocs/fiddler-everywhere-crack) - 
+* 【2022-09-20】[China-Mr-zhong / Fast.Framework](https://github.com/China-Mr-zhong/Fast.Framework) - Fast Framework 是一个基于NET6.0 封装的轻量级 ORM 框架 支持多种数据库
+* 【2022-09-20】[LightCountry / TokenPay](https://github.com/LightCountry/TokenPay) - 一款支持动态收款地址收取USDT-TRC20和TRX的支付解决方案！
 * 【2022-09-19】[SwaggyMacro / YangLeGeYang](https://github.com/SwaggyMacro/YangLeGeYang) - 免抓包版本，羊了个羊 小助手，羊了个羊一键通关，自动获取Token，羊了个羊辅助，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。
 * 【2022-09-19】[JosefNemec / Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 * 【2022-09-19】[dremin / RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
@@ -1116,6 +1160,12 @@
 
 ## Html
 
+* 【2022-09-20】[Tikam02 / DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+* 【2022-09-20】[jonbarron / website](https://github.com/jonbarron/website) - 
+* 【2022-09-20】[php / doc-en](https://github.com/php/doc-en) - English PHP documentation
+* 【2022-09-20】[Ajaxy / telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web Z, GPL v3
+* 【2022-09-20】[grassmunk / Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
+* 【2022-09-20】[DaoCloud / DaoCloud-docs](https://github.com/DaoCloud/DaoCloud-docs) - DaoCloud Enterprise Open Documents
 * 【2022-09-19】[quiple / galmuri](https://github.com/quiple/galmuri) - Bitmap fonts inspired by the font design from Nintendo DS
 * 【2022-09-19】[bjmashibing / java](https://github.com/bjmashibing/java) - 
 * 【2022-09-18】[WICG / webcomponents](https://github.com/WICG/webcomponents) - Web Components specifications
@@ -1326,6 +1376,17 @@
 
 ## Unknown
 
+* 【2022-09-20】[arainho / awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
+* 【2022-09-20】[Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+* 【2022-09-20】[su18 / hack-fastjson-1.2.80](https://github.com/su18/hack-fastjson-1.2.80) - 
+* 【2022-09-20】[bromite / bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+* 【2022-09-20】[AndrewEllis93 / Ellis-PIF-Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile) - 
+* 【2022-09-20】[ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
+* 【2022-09-20】[oneman233 / seu-master](https://github.com/oneman233/seu-master) - 东南大学研究生课程资料整理
+* 【2022-09-20】[OJZen / QMD_Android](https://github.com/OJZen/QMD_Android) - for release.
+* 【2022-09-20】[xiaolei565 / aimto408](https://github.com/xiaolei565/aimto408) - 🇨🇳🇨🇳🇨🇳这个repo是为了那些准备死磕 计算机考研4️⃣0️⃣8️⃣的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star📝📝📝，祝你们一战成硕🏆🏆🏆~~（更新23年大纲变化----2023年408和数学基本无变化）
+* 【2022-09-20】[wangdoc / clang-tutorial](https://github.com/wangdoc/clang-tutorial) - C 语言教程
+* 【2022-09-20】[iCSToCS / CSBook](https://github.com/iCSToCS/CSBook) - 计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍
 * 【2022-09-19】[chainsulting / ethereum-2.0-validator-setup-guide](https://github.com/chainsulting/ethereum-2.0-validator-setup-guide) - 👨‍🏫How to setup Ethereum 2.0 validator via dedicated server by OVHCloud☁️
 * 【2022-09-19】[codeNiuMa / yanglegeyang](https://github.com/codeNiuMa/yanglegeyang) - 羊了个羊代码修改，每一关都是第一关！
 * 【2022-09-19】[azat-io / you-dont-know-js-ru](https://github.com/azat-io/you-dont-know-js-ru) - 📚Russian translation of "You Don't Know JS" book series
