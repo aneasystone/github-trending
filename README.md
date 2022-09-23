@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-23】[Launch-X-Latam / OnBoarding](https://github.com/Launch-X-Latam/OnBoarding) - 
+* 【2022-09-23】[open-mmlab / mmyolo](https://github.com/open-mmlab/mmyolo) - OpenMMLab YOLO series toolbox and benchmark
+* 【2022-09-23】[epfml / ML_course](https://github.com/epfml/ML_course) - EPFL Machine Learning Course, Fall 2021
+* 【2022-09-23】[Visual-Attention-Network / SegNeXt](https://github.com/Visual-Attention-Network/SegNeXt) - Official Pytorch implementations for "SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation" (NeurIPS 2022)
+* 【2022-09-23】[desktop / desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
+* 【2022-09-23】[Markakd / CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588) - exploit for CVE-2022-2588
+* 【2022-09-23】[MahdiMashrur / Awesome-Application-Security-Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist) - Checklist of the most important security countermeasures when designing, creating, testing your web/mobile application
 * 【2022-09-22】[BuilderIO / qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 * 【2022-09-22】[bytecodealliance / wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 * 【2022-09-22】[Azure / azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
@@ -196,6 +203,7 @@
 
 ## Java
 
+* 【2022-09-23】[AriaLyy / Aria](https://github.com/AriaLyy/Aria) - 下载可以很简单
 * 【2022-09-22】[mock-server / mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby. MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and…
 * 【2022-09-21】[apache / druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
 * 【2022-09-21】[linkedin / cruise-control](https://github.com/linkedin/cruise-control) - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.
@@ -323,6 +331,16 @@
 
 ## Python
 
+* 【2022-09-23】[salesforce / LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
+* 【2022-09-23】[kakaobrain / NeRF-Factory](https://github.com/kakaobrain/NeRF-Factory) - An awesome PyTorch NeRF library
+* 【2022-09-23】[donnemartin / data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+* 【2022-09-23】[sharonzhou / long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
+* 【2022-09-23】[cado-security / varc](https://github.com/cado-security/varc) - Volatile Artifact Collector
+* 【2022-09-23】[postgresml / postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+* 【2022-09-23】[ydataai / pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+* 【2022-09-23】[wyp010428 / ylgy920](https://github.com/wyp010428/ylgy920) - 最新羊了个羊通关方法汇总
+* 【2022-09-23】[Axx8 / ShellCode_Loader](https://github.com/Axx8/ShellCode_Loader) - ShellCode_Loader - Msf&CobaltStrike免杀ShellCode加载器、Shellcode_encryption - 免杀Shellcode加密生成工具，目前测试免杀360&火绒&电脑管家&Windows Defender（其他杀软未测试）。
+* 【2022-09-23】[rrrrat / PassCaptcha](https://github.com/rrrrat/PassCaptcha) - 帮助爬虫通过点选验证及滑动验证, 验证码识别
 * 【2022-09-22】[Processus-Thief / HEKATOMB](https://github.com/Processus-Thief/HEKATOMB) - Hekatomb is a python script that connects to LDAP directory to retrieve all computers and users informations. Then it will download all DPAPI blob of all users from all computers and uses Domain backup keys to decrypt them.
 * 【2022-09-22】[streamlit / streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 * 【2022-09-22】[aio-libs / aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -535,6 +553,11 @@
 
 ## Javascript
 
+* 【2022-09-23】[rolling-scopes-school / js-fe-course-en](https://github.com/rolling-scopes-school/js-fe-course-en) - 
+* 【2022-09-23】[mermaid-js / mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+* 【2022-09-23】[testing-library / jest-dom](https://github.com/testing-library/jest-dom) - 🦉Custom jest matchers to test the state of the DOM
+* 【2022-09-23】[MuhammedKalkan / OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
+* 【2022-09-23】[tnfe / hel](https://github.com/tnfe/hel) - 前端微模块解决方案 A module federation SDK which is unrelated to tool chain for module consumer.
 * 【2022-09-22】[CoolElectronics / bookmarkfs](https://github.com/CoolElectronics/bookmarkfs) - Exploit chrome's profile sync for free cloud storage
 * 【2022-09-22】[TheAlgorithms / JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 * 【2022-09-22】[seanprashad / leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
@@ -696,6 +719,9 @@
 
 ## Go
 
+* 【2022-09-23】[ddosify / ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com🚀
+* 【2022-09-23】[go-yaml / yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
+* 【2022-09-23】[a1phaboy / FastjsonScan](https://github.com/a1phaboy/FastjsonScan) - Fastjson扫描器，可识别版本、依赖库、autoType状态等。A tool to distinguish fastjson ,version and dependency
 * 【2022-09-22】[felixge / fgtrace](https://github.com/felixge/fgtrace) - fgtrace is an experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler.
 * 【2022-09-22】[google / go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 * 【2022-09-22】[kubernetes-sigs / aws-efs-csi-driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver) - CSI Driver for Amazon EFS https://aws.amazon.com/efs/
@@ -880,6 +906,7 @@
 
 ## C
 
+* 【2022-09-23】[remzi-arpacidusseau / ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects) - Projects for an undergraduate OS course
 * 【2022-09-22】[WBGlIl / ReBeacon_Src](https://github.com/WBGlIl/ReBeacon_Src) - 
 * 【2022-09-22】[woltapp / blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 * 【2022-09-22】[xianyi / OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
@@ -1011,6 +1038,12 @@
 
 ## C++
 
+* 【2022-09-23】[doublesymmetry / react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support, background mode and more!
+* 【2022-09-23】[react-native-linear-gradient / react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient) - A <LinearGradient /> component for react-native
+* 【2022-09-23】[aristocratos / btop](https://github.com/aristocratos/btop) - A monitor of resources
+* 【2022-09-23】[Moiezen / HS_SPR_CAL](https://github.com/Moiezen/HS_SPR_CAL) - Hearthstone Spectral Pillager Rogue Calculator
+* 【2022-09-23】[KikoPlayProject / KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player 不仅仅是全功能弹幕播放器
+* 【2022-09-23】[a1phaboy / bypassAVNote](https://github.com/a1phaboy/bypassAVNote) - 免杀死亡笔记
 * 【2022-09-22】[emilybache / GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 * 【2022-09-22】[gzc / CLRS](https://github.com/gzc/CLRS) - 📓Solutions to Introduction to Algorithms
 * 【2022-09-22】[yocover / start-learning-opengl](https://github.com/yocover/start-learning-opengl) - Learn opengl together
@@ -1130,6 +1163,11 @@
 
 ## C#
 
+* 【2022-09-23】[bchavez / Bogus](https://github.com/bchavez/Bogus) - 📇A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+* 【2022-09-23】[StateSmith / StateSmith](https://github.com/StateSmith/StateSmith) - A state machine code generation tool suitable for bare metal, embedded and more.
+* 【2022-09-23】[ClosedXML / ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
+* 【2022-09-23】[MicrosoftLearning / AZ500-AzureSecurityTechnologies](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies) - Microsoft Azure Security Technologies
+* 【2022-09-23】[he55 / DreamScene2](https://github.com/he55/DreamScene2) - 一个小而快并且功能强大的 Windows 动态桌面软件
 * 【2022-09-22】[Suprcode / mir-eternal](https://github.com/Suprcode/mir-eternal) - 
 * 【2022-09-22】[testcontainers / testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) - 🐋A library to support tests with throwaway instances of Docker containers for all compatible .NET Standard versions.
 * 【2022-09-22】[TeamStepping / Stepping.NET](https://github.com/TeamStepping/Stepping.NET) - Stepping is a distributed BASE jobs implementation. You can use it as a workflow engine, event outbox/inbox, email/SMS sender, remote invoker, and more.
@@ -1267,6 +1305,13 @@
 
 ## Html
 
+* 【2022-09-23】[solygambas / html-css-javascript-projects](https://github.com/solygambas/html-css-javascript-projects) - 100+ mini web projects using HTML, CSS and JavaScript.
+* 【2022-09-23】[kciter / jazzlang](https://github.com/kciter/jazzlang) - 샤빱두비뚜밥 두비두비두비두비 뚜비두밥 사바두비두봐 샤바다 두붸둡🎷
+* 【2022-09-23】[xiangyuecn / ACME-HTML-Web-Browser-Client](https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client) - ACME Web Browser Client: HTML5网页版ACME客户端，免费申请获得用于 HTTPS 的 SSL/TLS 域名证书（RSA、ECC/ECDSA），支持多域名和通配符泛域名，可以向 Let's Encrypt、ZeroSSL 等支持 ACME 协议的证书颁发机构申请pem格式证书
+* 【2022-09-23】[bradjasper / ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet
+* 【2022-09-23】[Th30neAnd0nly / Ohm](https://github.com/Th30neAnd0nly/Ohm) - Android RAT with web panel and undetectable App
+* 【2022-09-23】[tulios / json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
+* 【2022-09-23】[LRH1993 / android_interview](https://github.com/LRH1993/android_interview) - gitbook地址
 * 【2022-09-22】[tc39 / proposal-array-from-async](https://github.com/tc39/proposal-array-from-async) - Draft specification for a proposed Array.fromAsync method in JavaScript.
 * 【2022-09-22】[kshyam / flask-blog-with-db](https://github.com/kshyam/flask-blog-with-db) - How to create flask app with flask_sqlalchemy
 * 【2022-09-22】[Chocolate1999 / hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk) - ⚡魔改自butterfly🦋主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！❤️
@@ -1402,6 +1447,11 @@
 
 ## Css
 
+* 【2022-09-23】[reduxjs / redux-fundamentals-example-app](https://github.com/reduxjs/redux-fundamentals-example-app) - Example app for the Redux Fundamentals tutorial
+* 【2022-09-23】[EthicalSource / contributor_covenant](https://github.com/EthicalSource/contributor_covenant) - Pledge your respect and appreciation for contributors of all kinds to your open source project.
+* 【2022-09-23】[kaylagordon / number-guesser-vocalization](https://github.com/kaylagordon/number-guesser-vocalization) - 
+* 【2022-09-23】[oliverspryn / Epoch-CMS](https://github.com/oliverspryn/Epoch-CMS) - 
+* 【2022-09-23】[ahangchen / windy-afternoon](https://github.com/ahangchen/windy-afternoon) - Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision
 * 【2022-09-22】[choidavid4 / pagina-completa-html-css](https://github.com/choidavid4/pagina-completa-html-css) - pagina completa programaya
 * 【2022-09-22】[MilenaCarecho / 30diasDeCSS](https://github.com/MilenaCarecho/30diasDeCSS) - Desafio criar 30 mini projetos utilizando HTML e CSS em 30 dias
 * 【2022-09-22】[braintree / jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
@@ -1504,6 +1554,11 @@
 
 ## Unknown
 
+* 【2022-09-23】[CScorza / OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE) - Tools OSINT MOBILE
+* 【2022-09-23】[BeichenDream / Godzilla](https://github.com/BeichenDream/Godzilla) - 哥斯拉
+* 【2022-09-23】[ZhongYi-LinuxDriverDev / CS-EmbeddedLinux-Book](https://github.com/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book) - 嵌入式，计算机常用电子书籍整理，并且附带下载链接，涵盖：ARM体系与架构，C/C++语言，汇编语言，操作系统，计算机网络，计算组成原理，Linux驱动，Linux内核，单片机开发，程序员认知成长，笔试面试技巧等书籍。长期更新中，欢迎star~
+* 【2022-09-23】[wainshine / Chinese-Names-Corpus](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别。
+* 【2022-09-23】[rebase-network / who-is-hiring](https://github.com/rebase-network/who-is-hiring) - 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！
 * 【2022-09-22】[macbian-linux / macos-subsystem-for-linux](https://github.com/macbian-linux/macos-subsystem-for-linux) - Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!
 * 【2022-09-22】[metaplex-foundation / metaplex](https://github.com/metaplex-foundation/metaplex) - A directory of what the Metaplex Foundation works on!
 * 【2022-09-22】[lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
