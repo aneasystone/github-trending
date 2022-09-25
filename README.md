@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-09-25】[steven-tey / dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+* 【2022-09-25】[IDEA-Research / detrex](https://github.com/IDEA-Research/detrex) - IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms
+* 【2022-09-25】[AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+* 【2022-09-25】[hyperium / tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
+* 【2022-09-25】[lidangzzz / How-to-run](https://github.com/lidangzzz/How-to-run) - 立党的润学笔记
 * 【2022-09-24】[openai / whisper](https://github.com/openai/whisper) - 
 * 【2022-09-24】[3xp0rt / LockBit-Black-Builder](https://github.com/3xp0rt/LockBit-Black-Builder) - 
 * 【2022-09-24】[pointfreeco / swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) - 📸Delightful Swift snapshot testing.
@@ -213,6 +218,10 @@
 
 ## Java
 
+* 【2022-09-25】[open-telemetry / opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) - OpenTelemetry Java SDK
+* 【2022-09-25】[twowaits / SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list📋of tech interview questions📘of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
+* 【2022-09-25】[json-path / JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
+* 【2022-09-25】[Lotus6 / ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 * 【2022-09-24】[react-native-webrtc / react-native-webrtc](https://github.com/react-native-webrtc/react-native-webrtc) - The WebRTC module for React Native
 * 【2022-09-24】[apache / zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 * 【2022-09-24】[kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -345,6 +354,17 @@
 
 ## Python
 
+* 【2022-09-25】[iterative / dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+* 【2022-09-25】[PyCQA / pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+* 【2022-09-25】[advanced-threat-research / Creosote](https://github.com/advanced-threat-research/Creosote) - Creosote is our solution to searching for the tarfile vulnerability described by CVE-2007-4559.
+* 【2022-09-25】[krea-ai / open-prompts](https://github.com/krea-ai/open-prompts) - 
+* 【2022-09-25】[Miksus / rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
+* 【2022-09-25】[Sentinel-One / CobaltStrikeParser](https://github.com/Sentinel-One/CobaltStrikeParser) - 
+* 【2022-09-25】[huggingface / datasets](https://github.com/huggingface/datasets) - 🤗The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+* 【2022-09-25】[blakeblackshear / frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+* 【2022-09-25】[piercefreeman / cloud-gpu-reliability](https://github.com/piercefreeman/cloud-gpu-reliability) - A mini container to log cloud gpu reliability
+* 【2022-09-25】[jsvine / pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+* 【2022-09-25】[LoRexxar / Kunlun-M](https://github.com/LoRexxar/Kunlun-M) - KunLun-M是一个完全开源的静态白盒扫描工具，支持PHP、JavaScript的语义扫描，基础安全、组件安全扫描，Chrome Ext\Solidity的基础扫描。
 * 【2022-09-24】[microsoft / Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) - A Unified Semi-Supervised Learning Codebase (NeurIPS'22)
 * 【2022-09-24】[marqo-ai / marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 * 【2022-09-24】[sczhou / CodeFormer](https://github.com/sczhou/CodeFormer) - PyTorch codes for "Towards Robust Blind Face Restoration with Codebook Lookup Transformer" (NeurIPS 2022)
@@ -576,6 +596,13 @@
 
 ## Javascript
 
+* 【2022-09-25】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+* 【2022-09-25】[platformatic / platformatic](https://github.com/platformatic/platformatic) - 
+* 【2022-09-25】[anaer / Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
+* 【2022-09-25】[JetCyC / galaxyz-a-web](https://github.com/JetCyC/galaxyz-a-web) - 
+* 【2022-09-25】[snailuncle / autojsDemo](https://github.com/snailuncle/autojsDemo) - 
+* 【2022-09-25】[liuly0322 / l-plugin](https://github.com/liuly0322/l-plugin) - L-Plugin for Yunzai-Bot
+* 【2022-09-25】[isghost / kaixinxiaoxiaole](https://github.com/isghost/kaixinxiaoxiaole) - 使用cocos creator 编写的三消游戏 开心消消乐
 * 【2022-09-24】[bigbluebutton / bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 * 【2022-09-24】[danba340 / minecraft-freecodecamp](https://github.com/danba340/minecraft-freecodecamp) - 
 * 【2022-09-24】[im-robot / nvs-gui](https://github.com/im-robot/nvs-gui) - 可视化的nodejs版本管理工具
@@ -747,6 +774,11 @@
 
 ## Go
 
+* 【2022-09-25】[hktalent / scan4all](https://github.com/hktalent/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+* 【2022-09-25】[open-telemetry / opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
+* 【2022-09-25】[microsoft / CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
+* 【2022-09-25】[suyuan32 / simple-admin-core](https://github.com/suyuan32/simple-admin-core) - Simple Admin是一个开箱即用的分布式微服务后端管理系统，基于go-zero开发，提供丰富的功能如服务发现，权限管理等。 该框架可以帮助您快速开发具有RPC服务的后台管理系统。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time.
+* 【2022-09-25】[PaddlePaddle / PaddleFlow](https://github.com/PaddlePaddle/PaddleFlow) - 
 * 【2022-09-24】[linkerd / linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 * 【2022-09-24】[wailsapp / wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 * 【2022-09-24】[kubesphere / kubekey](https://github.com/kubesphere/kubekey) - Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA🔥⎈🐳
@@ -945,6 +977,13 @@
 
 ## C
 
+* 【2022-09-25】[google / brotli](https://github.com/google/brotli) - Brotli compression format
+* 【2022-09-25】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+* 【2022-09-25】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
+* 【2022-09-25】[holbertonschool / make_magic_happen](https://github.com/holbertonschool/make_magic_happen) - Make Magic Happen
+* 【2022-09-25】[TelegramMessenger / MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
+* 【2022-09-25】[istoreos / istoreos](https://github.com/istoreos/istoreos) - 提供一个人人会用的的路由、NAS系统
+* 【2022-09-25】[MarioCrane / LeagueLobby](https://github.com/MarioCrane/LeagueLobby) - 英雄联盟自定义房间创建工具，包括5V5训练营，(血月杀等轮换模式已被官方关闭)
 * 【2022-09-24】[telekom-security / tpotce](https://github.com/telekom-security/tpotce) - 🍯T-Pot - The All In One Honeypot Platform🐝
 * 【2022-09-24】[openvenues / libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * 【2022-09-24】[OISF / suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF
@@ -1083,6 +1122,10 @@
 
 ## C++
 
+* 【2022-09-25】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计⭐
+* 【2022-09-25】[Noob-Dream / cskaoyan](https://github.com/Noob-Dream/cskaoyan) - 计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题
+* 【2022-09-25】[fanvanzh / 3dtiles](https://github.com/fanvanzh/3dtiles) - The fastest tools for 3dtiles convert in the world!
+* 【2022-09-25】[tearshark / librf](https://github.com/tearshark/librf) - 基于C++ Coroutines编写的无栈协程库
 * 【2022-09-24】[antonioCoco / JuicyPotatoNG](https://github.com/antonioCoco/JuicyPotatoNG) - Another Windows Local Privilege Escalation from Service Account to System
 * 【2022-09-24】[dusty-nv / jetson-inference](https://github.com/dusty-nv/jetson-inference) - Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.
 * 【2022-09-24】[oneapi-src / oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -1213,6 +1256,9 @@
 
 ## C#
 
+* 【2022-09-25】[jsuarezruiz / figma-to-maui-graphics](https://github.com/jsuarezruiz/figma-to-maui-graphics) - FigmaSharp.Maui.Graphics turns your Figma design into .NET MAUI Graphics code
+* 【2022-09-25】[GlossMod / UnityScriptTrainer](https://github.com/GlossMod/UnityScriptTrainer) - 一些unity游戏的内置修改器
+* 【2022-09-25】[GlossMod / UnityGameUI](https://github.com/GlossMod/UnityGameUI) - 使用 GameObject 为Unity构建的一个UI库
 * 【2022-09-24】[enisn / UraniumUI](https://github.com/enisn/UraniumUI) - Uranium is a Free & Open-Source UI Kit for MAUI.
 * 【2022-09-24】[Unity-Technologies / com.unity.multiplayer.samples.coop](https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop) - A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.
 * 【2022-09-24】[tukasa0001 / TownOfHost](https://github.com/tukasa0001/TownOfHost) - Host only mod for Among Us.
@@ -1361,6 +1407,9 @@
 
 ## Html
 
+* 【2022-09-25】[estevanmaito / windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊A multi theme, completely accessible, ready for production dashboard.
+* 【2022-09-25】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
+* 【2022-09-25】[huzidaha / react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
 * 【2022-09-24】[Nyandwi / machine_learning_complete](https://github.com/Nyandwi/machine_learning_complete) - A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
 * 【2022-09-24】[kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
 * 【2022-09-24】[sproogen / modern-resume-theme](https://github.com/sproogen/modern-resume-theme) - A modern static resume template and theme. Powered by Jekyll and GitHub pages.
@@ -1511,6 +1560,10 @@
 
 ## Css
 
+* 【2022-09-25】[flick0 / dotfiles](https://github.com/flick0/dotfiles) - 
+* 【2022-09-25】[LindaEng / swe2.0-workshop-sample-code](https://github.com/LindaEng/swe2.0-workshop-sample-code) - 
+* 【2022-09-25】[kleo / evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple
+* 【2022-09-25】[andreasgrafen / cascade](https://github.com/andreasgrafen/cascade) - Firefox custom CSS based on Simplefox
 * 【2022-09-24】[quarkusio / quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes) - Quarkus sample application - Super Heroes
 * 【2022-09-24】[Cimlah / Repo-Share](https://github.com/Cimlah/Repo-Share) - A NodeJS app generating an iframe based on information about your repository, so you can show off your portfolio in an elegant way
 * 【2022-09-24】[cs50 / cs50.readthedocs.io](https://github.com/cs50/cs50.readthedocs.io) - 
@@ -1622,6 +1675,16 @@
 
 ## Unknown
 
+* 【2022-09-25】[ngalongc / bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
+* 【2022-09-25】[vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉A curated list of awesome things related to Vue.js
+* 【2022-09-25】[LaravelDaily / laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
+* 【2022-09-25】[octocat / Hello-World](https://github.com/octocat/Hello-World) - My first repository on GitHub!
+* 【2022-09-25】[priyankavergadia / GCPSketchnote](https://github.com/priyankavergadia/GCPSketchnote) - If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.
+* 【2022-09-25】[yoksel / common-words](https://github.com/yoksel/common-words) - 🧐Слова, часто используемые в CSS-классах
+* 【2022-09-25】[learning-zone / react-interview-questions](https://github.com/learning-zone/react-interview-questions) - React Interview Questions ( v18.x )
+* 【2022-09-25】[itwanger / JavaBooks](https://github.com/itwanger/JavaBooks) - 📚Java程序员必读书单（超1000本PDF，附下载地址）包括但不限于Java、设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等，助力每一个Java程序员构建属于自己的知识体系。
+* 【2022-09-25】[sty945 / bank_interview](https://github.com/sty945/bank_interview) - 🏦银行笔试面试经验分享及资料分享（help you pass the bank interview, and get a amazing bank offer!）
+* 【2022-09-25】[sin-x / FPGA](https://github.com/sin-x/FPGA) - 数字IC相关资料
 * 【2022-09-24】[FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
 * 【2022-09-24】[tanprathan / MobileApp-Pentest-Cheatsheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.
 * 【2022-09-24】[nodejs / Release](https://github.com/nodejs/Release) - Node.js Release Working Group
