@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-09-26】[google / tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
+* 【2022-09-26】[pi-hole / docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+* 【2022-09-26】[jzimmerman / langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
+* 【2022-09-26】[signalapp / Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) - 
+* 【2022-09-26】[ahrm / UnstableFusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more!
+* 【2022-09-26】[Rezmason / matrix](https://github.com/Rezmason/matrix) - matrix (web-based green code rain, made with love)
+* 【2022-09-26】[opendilab / DI-sheep](https://github.com/opendilab/DI-sheep) - 深度强化学习 + 羊了个羊（Deep Reinforcement Learning + 3 Tiles Game)
+* 【2022-09-26】[SuLingGG / OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
 * 【2022-09-25】[steven-tey / dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 * 【2022-09-25】[IDEA-Research / detrex](https://github.com/IDEA-Research/detrex) - IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms
 * 【2022-09-25】[AppFlowy-IO / AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -218,6 +226,13 @@
 
 ## Java
 
+* 【2022-09-26】[00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
+* 【2022-09-26】[osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
+* 【2022-09-26】[termux / termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
+* 【2022-09-26】[Baseflow / PhotoView](https://github.com/Baseflow/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
+* 【2022-09-26】[GeyserMC / Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+* 【2022-09-26】[supertokens / supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+* 【2022-09-26】[WinterChenS / my-site](https://github.com/WinterChenS/my-site) - springboot2.0开发的个人网站，集成了：个人首页，个人博客，个人作品
 * 【2022-09-25】[open-telemetry / opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) - OpenTelemetry Java SDK
 * 【2022-09-25】[twowaits / SDE-Interview-Questions](https://github.com/twowaits/SDE-Interview-Questions) - Most comprehensive list📋of tech interview questions📘of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.
 * 【2022-09-25】[json-path / JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
@@ -354,6 +369,16 @@
 
 ## Python
 
+* 【2022-09-26】[jina-ai / docarray](https://github.com/jina-ai/docarray) - 🧬The data structure for unstructured multimodal data · Neural Search · Vector Search · Document Store
+* 【2022-09-26】[m1guelpf / yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
+* 【2022-09-26】[ManimCommunity / manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
+* 【2022-09-26】[MShawon / YouTube-Viewer](https://github.com/MShawon/YouTube-Viewer) - A multithreaded view bot for YouTube
+* 【2022-09-26】[jofpin / trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+* 【2022-09-26】[Newbeeer / Poisson_flow](https://github.com/Newbeeer/Poisson_flow) - Code for NeurIPS 2022 Paper, "Poisson Flow Generative Models"
+* 【2022-09-26】[OctoPrint / OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
+* 【2022-09-26】[heroaku / TVboxo](https://github.com/heroaku/TVboxo) - 自用资源
+* 【2022-09-26】[a312863063 / generators-with-stylegan2](https://github.com/a312863063/generators-with-stylegan2) - Here is a series of face generators based on StyleGAN2
+* 【2022-09-26】[kajweb / dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 * 【2022-09-25】[iterative / dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 * 【2022-09-25】[PyCQA / pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
 * 【2022-09-25】[advanced-threat-research / Creosote](https://github.com/advanced-threat-research/Creosote) - Creosote is our solution to searching for the tarfile vulnerability described by CVE-2007-4559.
@@ -596,6 +621,14 @@
 
 ## Javascript
 
+* 【2022-09-26】[jes / nightdrive](https://github.com/jes/nightdrive) - Night-time driving simulation
+* 【2022-09-26】[learnk8s / xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
+* 【2022-09-26】[adrianhajdin / project_music_player](https://github.com/adrianhajdin/project_music_player) - Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.
+* 【2022-09-26】[rollup / plugins](https://github.com/rollup/plugins) - 🍣The one-stop shop for official Rollup plugins
+* 【2022-09-26】[LLK / scratch-gui](https://github.com/LLK/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
+* 【2022-09-26】[pwndoc / pwndoc](https://github.com/pwndoc/pwndoc) - Pentest Report Generator
+* 【2022-09-26】[sanuwaofficial / AQUABOT-MD](https://github.com/sanuwaofficial/AQUABOT-MD) - This project is still being tested
+* 【2022-09-26】[jsososo / QQMusicApi](https://github.com/jsososo/QQMusicApi) - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
 * 【2022-09-25】[ether / etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
 * 【2022-09-25】[platformatic / platformatic](https://github.com/platformatic/platformatic) - 
 * 【2022-09-25】[anaer / Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
@@ -774,6 +807,13 @@
 
 ## Go
 
+* 【2022-09-26】[filebrowser / filebrowser](https://github.com/filebrowser/filebrowser) - 📂Web File Browser
+* 【2022-09-26】[spiffe / spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
+* 【2022-09-26】[authelia / authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+* 【2022-09-26】[ffuf / ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
+* 【2022-09-26】[junegunn / fzf](https://github.com/junegunn/fzf) - 🌸A command-line fuzzy finder
+* 【2022-09-26】[putyy / ai-share](https://github.com/putyy/ai-share) - go gin、vue3的练手项目
+* 【2022-09-26】[crossfw / Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
 * 【2022-09-25】[hktalent / scan4all](https://github.com/hktalent/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2022-09-25】[open-telemetry / opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 * 【2022-09-25】[microsoft / CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances
@@ -977,6 +1017,9 @@
 
 ## C
 
+* 【2022-09-26】[i3 / i3](https://github.com/i3/i3) - A tiling window manager
+* 【2022-09-26】[merbanan / rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+* 【2022-09-26】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
 * 【2022-09-25】[google / brotli](https://github.com/google/brotli) - Brotli compression format
 * 【2022-09-25】[catboost / catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 * 【2022-09-25】[nmap / nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
@@ -1122,6 +1165,11 @@
 
 ## C++
 
+* 【2022-09-26】[rochus-keller / LeanQt](https://github.com/rochus-keller/LeanQt) - LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
+* 【2022-09-26】[alvr-org / ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
+* 【2022-09-26】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
+* 【2022-09-26】[nasa / fprime](https://github.com/nasa/fprime) - F' - A flight software and embedded systems framework
+* 【2022-09-26】[Alexays / Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors.✌️🎉
 * 【2022-09-25】[Qv2ray / Qv2ray](https://github.com/Qv2ray/Qv2ray) - ⭐Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计⭐
 * 【2022-09-25】[Noob-Dream / cskaoyan](https://github.com/Noob-Dream/cskaoyan) - 计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题
 * 【2022-09-25】[fanvanzh / 3dtiles](https://github.com/fanvanzh/3dtiles) - The fastest tools for 3dtiles convert in the world!
@@ -1256,6 +1304,10 @@
 
 ## C#
 
+* 【2022-09-26】[davidfowl / AspNetCoreOwinSample](https://github.com/davidfowl/AspNetCoreOwinSample) - A sample showing running OWIN based frameworks on top of ASP.NET Core
+* 【2022-09-26】[Kyome22 / RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
+* 【2022-09-26】[doombubbles / ultimate-crosspathing](https://github.com/doombubbles/ultimate-crosspathing) - A BTD6 mod that allows for more cross-pathing combinations.
+* 【2022-09-26】[xqyjlj / csp](https://github.com/xqyjlj/csp) - Chip Software Package
 * 【2022-09-25】[jsuarezruiz / figma-to-maui-graphics](https://github.com/jsuarezruiz/figma-to-maui-graphics) - FigmaSharp.Maui.Graphics turns your Figma design into .NET MAUI Graphics code
 * 【2022-09-25】[GlossMod / UnityScriptTrainer](https://github.com/GlossMod/UnityScriptTrainer) - 一些unity游戏的内置修改器
 * 【2022-09-25】[GlossMod / UnityGameUI](https://github.com/GlossMod/UnityGameUI) - 使用 GameObject 为Unity构建的一个UI库
@@ -1407,6 +1459,11 @@
 
 ## Html
 
+* 【2022-09-26】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
+* 【2022-09-26】[NLNOG / lg.ring.nlnog.net](https://github.com/NLNOG/lg.ring.nlnog.net) - Source code for the NLNOG Looking Glass front end
+* 【2022-09-26】[OnionBrowser / OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
+* 【2022-09-26】[dddggg123 / vue3-big-screen](https://github.com/dddggg123/vue3-big-screen) - 
+* 【2022-09-26】[oulume / free-gradient-colors](https://github.com/oulume/free-gradient-colors) - 免费的180个美丽CSS3渐变样式和超清渐变图
 * 【2022-09-25】[estevanmaito / windmill-dashboard](https://github.com/estevanmaito/windmill-dashboard) - 📊A multi theme, completely accessible, ready for production dashboard.
 * 【2022-09-25】[tpn / pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 * 【2022-09-25】[huzidaha / react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
@@ -1560,6 +1617,8 @@
 
 ## Css
 
+* 【2022-09-26】[30-seconds / 30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
+* 【2022-09-26】[primefaces / sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
 * 【2022-09-25】[flick0 / dotfiles](https://github.com/flick0/dotfiles) - 
 * 【2022-09-25】[LindaEng / swe2.0-workshop-sample-code](https://github.com/LindaEng/swe2.0-workshop-sample-code) - 
 * 【2022-09-25】[kleo / evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple
@@ -1675,6 +1734,11 @@
 
 ## Unknown
 
+* 【2022-09-26】[nv-tlabs / GET3D](https://github.com/nv-tlabs/GET3D) - 
+* 【2022-09-26】[kjfx / AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
+* 【2022-09-26】[i2ii / i](https://github.com/i2ii/i) - 
+* 【2022-09-26】[free18 / v2ray](https://github.com/free18/v2ray) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN
+* 【2022-09-26】[Fukki-Z / nodefree](https://github.com/Fukki-Z/nodefree) - 每日更新 ｜免费翻墙、免费科学上网、免费节点、免费梯子、免费订阅链接、蓝灯、熊猫、谷歌商店、youtobe｜vmess/clash/v2ray/trojan/sr/ssr
 * 【2022-09-25】[ngalongc / bug-bounty-reference](https://github.com/ngalongc/bug-bounty-reference) - Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature
 * 【2022-09-25】[vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉A curated list of awesome things related to Vue.js
 * 【2022-09-25】[LaravelDaily / laravel-tips](https://github.com/LaravelDaily/laravel-tips) - Awesome tips for Laravel
