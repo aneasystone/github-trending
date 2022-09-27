@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2022-09-27】[yewstack / yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+* 【2022-09-27】[termux / termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 * 【2022-09-26】[google / tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
 * 【2022-09-26】[pi-hole / docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 * 【2022-09-26】[jzimmerman / langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
@@ -226,6 +228,9 @@
 
 ## Java
 
+* 【2022-09-27】[Telegram-FOSS-Team / Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
+* 【2022-09-27】[dromara / forest](https://github.com/dromara/forest) - A high-level and lightweight HTTP client framework for Java. it makes sending HTTP requests in Java easier.
+* 【2022-09-27】[sqdpt666 / VxMessageWeatherActions](https://github.com/sqdpt666/VxMessageWeatherActions) - 微信公众号消息推送Actions版本+天气预报
 * 【2022-09-26】[00-Evan / shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 * 【2022-09-26】[osmandapp / OsmAnd](https://github.com/osmandapp/OsmAnd) - OsmAnd
 * 【2022-09-26】[termux / termux-api](https://github.com/termux/termux-api) - Termux add-on app which exposes device functionality as API to command line programs.
@@ -369,6 +374,11 @@
 
 ## Python
 
+* 【2022-09-27】[netspooky / xx](https://github.com/netspooky/xx) - The xx file format. Turn your hex dumps into art, then into binary data.
+* 【2022-09-27】[Porchetta-Industries / CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
+* 【2022-09-27】[neonbjb / tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
+* 【2022-09-27】[EssayKillerBrain / EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+* 【2022-09-27】[TerryGSL / daily_morning](https://github.com/TerryGSL/daily_morning) - 微信定时推送早安
 * 【2022-09-26】[jina-ai / docarray](https://github.com/jina-ai/docarray) - 🧬The data structure for unstructured multimodal data · Neural Search · Vector Search · Document Store
 * 【2022-09-26】[m1guelpf / yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 * 【2022-09-26】[ManimCommunity / manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -621,6 +631,9 @@
 
 ## Javascript
 
+* 【2022-09-27】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+* 【2022-09-27】[adrianhajdin / project_professional_portfolio](https://github.com/adrianhajdin/project_professional_portfolio) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity
+* 【2022-09-27】[gniziemazity / Self-driving-car](https://github.com/gniziemazity/Self-driving-car) - 
 * 【2022-09-26】[jes / nightdrive](https://github.com/jes/nightdrive) - Night-time driving simulation
 * 【2022-09-26】[learnk8s / xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster
 * 【2022-09-26】[adrianhajdin / project_music_player](https://github.com/adrianhajdin/project_music_player) - Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.
@@ -807,6 +820,11 @@
 
 ## Go
 
+* 【2022-09-27】[cloudflare / cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+* 【2022-09-27】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
+* 【2022-09-27】[kyverno / kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
+* 【2022-09-27】[bettercap / bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+* 【2022-09-27】[inbug-team / SweetBabyScan](https://github.com/inbug-team/SweetBabyScan) - Red Tools 渗透测试
 * 【2022-09-26】[filebrowser / filebrowser](https://github.com/filebrowser/filebrowser) - 📂Web File Browser
 * 【2022-09-26】[spiffe / spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
 * 【2022-09-26】[authelia / authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -1017,6 +1035,10 @@
 
 ## C
 
+* 【2022-09-27】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+* 【2022-09-27】[nvim-telescope / telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
+* 【2022-09-27】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
+* 【2022-09-27】[nanomsg / nng](https://github.com/nanomsg/nng) - nanomsg-next-generation -- light-weight brokerless messaging
 * 【2022-09-26】[i3 / i3](https://github.com/i3/i3) - A tiling window manager
 * 【2022-09-26】[merbanan / rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 * 【2022-09-26】[FluidSynth / fluidsynth](https://github.com/FluidSynth/fluidsynth) - Software synthesizer based on the SoundFont 2 specifications
@@ -1165,6 +1187,14 @@
 
 ## C++
 
+* 【2022-09-27】[jomjol / AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - 
+* 【2022-09-27】[JoeyDeVries / LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
+* 【2022-09-27】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
+* 【2022-09-27】[tdlib / td](https://github.com/tdlib/td) - Cross-platform library for building Telegram clients
+* 【2022-09-27】[D1rkMtr / githubC2](https://github.com/D1rkMtr/githubC2) - Abusing Github API to host our C2 traffic, usefull for bypassing blocking firewall rules if github is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
+* 【2022-09-27】[jtdh / luntan](https://github.com/jtdh/luntan) - 发车论坛导航大全_上车必看论坛_修车论坛_永久收集发布页！尽头导航_终点磁力导航github
+* 【2022-09-27】[lizhirui / DreamCore](https://github.com/lizhirui/DreamCore) - 
+* 【2022-09-27】[Kin-Zhang / simple_ndt_slam](https://github.com/Kin-Zhang/simple_ndt_slam) - 简易slam包 快速部署使用; simple ndt slam, quick deploy on mobile robot, support mapping and localization (origin from autoware.ai)
 * 【2022-09-26】[rochus-keller / LeanQt](https://github.com/rochus-keller/LeanQt) - LeanQt is a stripped-down Qt version easy to build from source and to integrate with an application.
 * 【2022-09-26】[alvr-org / ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
 * 【2022-09-26】[axstin / rbxfpsunlocker](https://github.com/axstin/rbxfpsunlocker) - FPS Unlocker for Roblox
@@ -1304,6 +1334,10 @@
 
 ## C#
 
+* 【2022-09-27】[bbepis / XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) - 
+* 【2022-09-27】[0x7c13 / Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) - PAL3(仙剑奇侠传三) & PAL3a(仙剑奇侠传三外传) reimplementation using C#/Unity
+* 【2022-09-27】[INotGreen / XieBroRAT](https://github.com/INotGreen/XieBroRAT) - 
+* 【2022-09-27】[xiaoye97 / TaiWuCreateAvatarOptimization](https://github.com/xiaoye97/TaiWuCreateAvatarOptimization) - 捏人优化
 * 【2022-09-26】[davidfowl / AspNetCoreOwinSample](https://github.com/davidfowl/AspNetCoreOwinSample) - A sample showing running OWIN based frameworks on top of ASP.NET Core
 * 【2022-09-26】[Kyome22 / RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 * 【2022-09-26】[doombubbles / ultimate-crosspathing](https://github.com/doombubbles/ultimate-crosspathing) - A BTD6 mod that allows for more cross-pathing combinations.
@@ -1459,6 +1493,7 @@
 
 ## Html
 
+* 【2022-09-27】[Financial-Times / chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 * 【2022-09-26】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2022-09-26】[NLNOG / lg.ring.nlnog.net](https://github.com/NLNOG/lg.ring.nlnog.net) - Source code for the NLNOG Looking Glass front end
 * 【2022-09-26】[OnionBrowser / OnionBrowser](https://github.com/OnionBrowser/OnionBrowser) - An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
@@ -1617,6 +1652,10 @@
 
 ## Css
 
+* 【2022-09-27】[angea / pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
+* 【2022-09-27】[bedimcode / responsive-portfolio-website-chris](https://github.com/bedimcode/responsive-portfolio-website-chris) - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
+* 【2022-09-27】[panr / hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
+* 【2022-09-27】[TylerPottsDev / yt-js-task-list-2021](https://github.com/TylerPottsDev/yt-js-task-list-2021) - 
 * 【2022-09-26】[30-seconds / 30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - Short CSS code snippets for all your development needs
 * 【2022-09-26】[primefaces / sakai-vue](https://github.com/primefaces/sakai-vue) - Free Vue Admin Template by PrimeVue
 * 【2022-09-25】[flick0 / dotfiles](https://github.com/flick0/dotfiles) - 
@@ -1734,6 +1773,11 @@
 
 ## Unknown
 
+* 【2022-09-27】[openai / gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
+* 【2022-09-27】[jenndryden / Canadian-Tech-Internships-Summer-2023](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023) - Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022
+* 【2022-09-27】[CyberSecurityUP / PenTest-Consulting-Creator](https://github.com/CyberSecurityUP/PenTest-Consulting-Creator) - Repository with some necessary information for you to create your PenTest consultancy
+* 【2022-09-27】[bnematzadeh / LoggerPlusPlus-API-Filters](https://github.com/bnematzadeh/LoggerPlusPlus-API-Filters) - A Collection of Logger++ Filters for Hunting API Vulnerabilities
+* 【2022-09-27】[Paladinfeng / MiaoProject](https://github.com/Paladinfeng/MiaoProject) - Miao Project Bug 反馈
 * 【2022-09-26】[nv-tlabs / GET3D](https://github.com/nv-tlabs/GET3D) - 
 * 【2022-09-26】[kjfx / AX6000](https://github.com/kjfx/AX6000) - 小米 AX6000 科学上网，开启ssh刷机，AX6000 openwrt xiaomi shellclash
 * 【2022-09-26】[i2ii / i](https://github.com/i2ii/i) - 
