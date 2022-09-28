@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-09-28】[WordPress / wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
+* 【2022-09-28】[evilsocket / spycast](https://github.com/evilsocket/spycast) - A crossplatform mDNS enumeration tool.
+* 【2022-09-28】[angular / angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
+* 【2022-09-28】[ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
+* 【2022-09-28】[newbee-ltd / newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app) - 🔥🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。
 * 【2022-09-27】[yewstack / yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 * 【2022-09-27】[termux / termux-packages](https://github.com/termux/termux-packages) - A build system and primary set of packages for Termux.
 * 【2022-09-26】[google / tensorstore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
@@ -228,6 +233,10 @@
 
 ## Java
 
+* 【2022-09-28】[linkedin / venice](https://github.com/linkedin/venice) - Venice, Derived Data Platform for planet-scale workloads.
+* 【2022-09-28】[MinhQuan992 / design-patterns](https://github.com/MinhQuan992/design-patterns) - This project contains many sample codes for demonstrating the usage of some common design patterns.
+* 【2022-09-28】[jojoldu / freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice) - 
+* 【2022-09-28】[lenyueocy / yanglegeyang](https://github.com/lenyueocy/yanglegeyang) - 羊了个羊一键通关脚本，Java最最最新稳定版（2022年9月26日10点10分更新）
 * 【2022-09-27】[Telegram-FOSS-Team / Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Unofficial, FOSS-friendly fork of the original Telegram client for Android
 * 【2022-09-27】[dromara / forest](https://github.com/dromara/forest) - A high-level and lightweight HTTP client framework for Java. it makes sending HTTP requests in Java easier.
 * 【2022-09-27】[sqdpt666 / VxMessageWeatherActions](https://github.com/sqdpt666/VxMessageWeatherActions) - 微信公众号消息推送Actions版本+天气预报
@@ -374,6 +383,14 @@
 
 ## Python
 
+* 【2022-09-28】[iamnihal / warf](https://github.com/iamnihal/warf) - WARF is a Web Application Reconnaissance Framework that helps to gather information about the target.
+* 【2022-09-28】[CTFd / CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
+* 【2022-09-28】[google-research / bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
+* 【2022-09-28】[parlance-zz / g-diffuser-lib](https://github.com/parlance-zz/g-diffuser-lib) - Experimental utilities, extensions, and frontend interfaces for the diffusers library (stable-diffusion)
+* 【2022-09-28】[shirayu / whispering](https://github.com/shirayu/whispering) - Streaming transcriber with whisper
+* 【2022-09-28】[frappe / frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript
+* 【2022-09-28】[FederatedAI / FATE](https://github.com/FederatedAI/FATE) - An Industrial Grade Federated Learning Framework
+* 【2022-09-28】[luck-ying / Library-POC](https://github.com/luck-ying/Library-POC) - 基于Pocsuite3、goby编写的漏洞poc&exp存档
 * 【2022-09-27】[netspooky / xx](https://github.com/netspooky/xx) - The xx file format. Turn your hex dumps into art, then into binary data.
 * 【2022-09-27】[Porchetta-Industries / CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec) - A swiss army knife for pentesting networks
 * 【2022-09-27】[neonbjb / tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
@@ -631,6 +648,11 @@
 
 ## Javascript
 
+* 【2022-09-28】[RobinHerbots / Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
+* 【2022-09-28】[naptha / tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages📖🎉🖥
+* 【2022-09-28】[thapatechnical / thapareactecom](https://github.com/thapatechnical/thapareactecom) - 
+* 【2022-09-28】[jackocnr / intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
+* 【2022-09-28】[zengkan0703 / text-watermark](https://github.com/zengkan0703/text-watermark) - 在文本中添加不可见的文字水印
 * 【2022-09-27】[FastForwardTeam / FastForward](https://github.com/FastForwardTeam/FastForward) - Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
 * 【2022-09-27】[adrianhajdin / project_professional_portfolio](https://github.com/adrianhajdin/project_professional_portfolio) - This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity
 * 【2022-09-27】[gniziemazity / Self-driving-car](https://github.com/gniziemazity/Self-driving-car) - 
@@ -820,6 +842,10 @@
 
 ## Go
 
+* 【2022-09-28】[klauspost / compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
+* 【2022-09-28】[DATA-DOG / go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
+* 【2022-09-28】[Ptkatz / OrcaC2](https://github.com/Ptkatz/OrcaC2) - OrcaC2是一款基于Websocket加密通信的多功能C&C框架，使用Golang实现。
+* 【2022-09-28】[ja9er / Gofreeproxy](https://github.com/ja9er/Gofreeproxy) - 自用的动态代理小工具
 * 【2022-09-27】[cloudflare / cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 * 【2022-09-27】[naiba / nezha](https://github.com/naiba/nezha) - Self-hosted, lightweight server and website monitoring and O&M tool
 * 【2022-09-27】[kyverno / kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
@@ -1035,6 +1061,15 @@
 
 ## C
 
+* 【2022-09-28】[Idov31 / Cronos](https://github.com/Idov31/Cronos) - PoC for a new sleep obfuscation technique leveraging waitable timers to evade memory scanners.
+* 【2022-09-28】[naksyn / Pyramid](https://github.com/naksyn/Pyramid) - a tool to help operate in EDRs' blind spots
+* 【2022-09-28】[OpenEtherCATsociety / SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
+* 【2022-09-28】[jiangdongguo / AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera) - 🔥🔥🔥Flexible and useful UVC camera engine on Android platform, supporting multi-road cameras!
+* 【2022-09-28】[betascribbles / alx-low_level_programming](https://github.com/betascribbles/alx-low_level_programming) - Project-based learning tasks that I am doing at alx-Holberton School year 1.
+* 【2022-09-28】[monoprosito / holbertonschool-low_level_programming](https://github.com/monoprosito/holbertonschool-low_level_programming) - A repository that stores low-level programming projects done on Holberton Campus
+* 【2022-09-28】[holbertonschool / _putchar.c](https://github.com/holbertonschool/_putchar.c) - 
+* 【2022-09-28】[figozhang / runninglinuxkernel_5.0](https://github.com/figozhang/runninglinuxkernel_5.0) - 奔跑吧linux内核第二版（卷1，卷2，入门篇） 实验平台
+* 【2022-09-28】[rock-app / fabu.love](https://github.com/rock-app/fabu.love) - 应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/
 * 【2022-09-27】[ExistentialAudio / BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 * 【2022-09-27】[nvim-telescope / telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 * 【2022-09-27】[OpenIntelWireless / itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS
@@ -1187,6 +1222,11 @@
 
 ## C++
 
+* 【2022-09-28】[qiayuanliao / legged_control](https://github.com/qiayuanliao/legged_control) - Nonlinear MPC and WBC for legged robot based on OCS2 and ros-controls
+* 【2022-09-28】[Pwnrin / CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206) - Exploit for CVE-2022-30206
+* 【2022-09-28】[kaust-csg-uaamg / uaamg](https://github.com/kaust-csg-uaamg/uaamg) - 
+* 【2022-09-28】[tranek / GASDocumentation](https://github.com/tranek/GASDocumentation) - My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.
+* 【2022-09-28】[seventeenman / CallBackDump](https://github.com/seventeenman/CallBackDump) - 能过卡巴、核晶、defender等杀软的dump lsass进程工具
 * 【2022-09-27】[jomjol / AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - 
 * 【2022-09-27】[JoeyDeVries / LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
 * 【2022-09-27】[libjxl / libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
@@ -1334,6 +1374,11 @@
 
 ## C#
 
+* 【2022-09-28】[chronoxor / NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
+* 【2022-09-28】[mini-software / MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
+* 【2022-09-28】[mini-software / MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
+* 【2022-09-28】[CommunityToolkit / WindowsCommunityToolkit](https://github.com/CommunityToolkit/WindowsCommunityToolkit) - The Windows Community Toolkit is a collection of helpers, extensions, and custom controls. It simplifies and demonstrates common developer tasks building .NET apps with UWP and the Windows App SDK / WinUI 3 for Windows 10 and Windows 11. The toolkit is part of the .NET Foundation.
+* 【2022-09-28】[Live-Charts / Live-Charts](https://github.com/Live-Charts/Live-Charts) - Simple, flexible, interactive & powerful charts, maps and gauges for .Net
 * 【2022-09-27】[bbepis / XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) - 
 * 【2022-09-27】[0x7c13 / Pal3.Unity](https://github.com/0x7c13/Pal3.Unity) - PAL3(仙剑奇侠传三) & PAL3a(仙剑奇侠传三外传) reimplementation using C#/Unity
 * 【2022-09-27】[INotGreen / XieBroRAT](https://github.com/INotGreen/XieBroRAT) - 
@@ -1493,6 +1538,12 @@
 
 ## Html
 
+* 【2022-09-28】[DownUnderCTF / Challenges_2022_Public](https://github.com/DownUnderCTF/Challenges_2022_Public) - Files + Writeups for DownUnderCTF 2022 Challenges
+* 【2022-09-28】[developedbyed / minimalist-website-2022](https://github.com/developedbyed/minimalist-website-2022) - 
+* 【2022-09-28】[yairEO / tagify](https://github.com/yairEO/tagify) - 🔖lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+* 【2022-09-28】[ZeroOctave / ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) - This Repository Contains 150+ web development Projects.
+* 【2022-09-28】[VoronDesign / Voron-Hardware](https://github.com/VoronDesign/Voron-Hardware) - Cool Hardware designed by the Voron Design group
+* 【2022-09-28】[xx025 / YanX](https://github.com/xx025/YanX) - 研招网硕士专业目录下载；考研专业目录下载，招生人数，考试科目，考研专业，考研院校；考研专业信息下载，考研考试信息下载，专业目录下载；211院校名单、985院校名单、双一流院校名单；A类地区、B类地区目录；考研院校库；23考研；24考研；
 * 【2022-09-27】[Financial-Times / chart-doctor](https://github.com/Financial-Times/chart-doctor) - Sample files to accompany the FT's Chart Doctor column
 * 【2022-09-26】[bobbyiliev / introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Free Introduction to Bash Scripting eBook
 * 【2022-09-26】[NLNOG / lg.ring.nlnog.net](https://github.com/NLNOG/lg.ring.nlnog.net) - Source code for the NLNOG Looking Glass front end
@@ -1652,6 +1703,11 @@
 
 ## Css
 
+* 【2022-09-28】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
+* 【2022-09-28】[PrincessMaggy / cohort4-project](https://github.com/PrincessMaggy/cohort4-project) - A Project for My Mentees in HertechTrai
+* 【2022-09-28】[afzafri / UiTM-Timetable-Generator](https://github.com/afzafri/UiTM-Timetable-Generator) - Fetch and generate Timetable for UiTM
+* 【2022-09-28】[Wei-Xia / most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
+* 【2022-09-28】[coding-boot-camp / friendly-parakeet](https://github.com/coding-boot-camp/friendly-parakeet) - 
 * 【2022-09-27】[angea / pocorgtfo](https://github.com/angea/pocorgtfo) - a "Proof of Concept or GTFO" mirror with an extensive index with also whole issues or individual articles as clean PDFs.
 * 【2022-09-27】[bedimcode / responsive-portfolio-website-chris](https://github.com/bedimcode/responsive-portfolio-website-chris) - Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
 * 【2022-09-27】[panr / hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
@@ -1773,6 +1829,14 @@
 
 ## Unknown
 
+* 【2022-09-28】[qingsongedu / time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
+* 【2022-09-28】[olexale / flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
+* 【2022-09-28】[ixinzhi / loving-books](https://github.com/ixinzhi/loving-books) - 📚恋爱指南
+* 【2022-09-28】[geerlingguy / ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
+* 【2022-09-28】[rzashakeri / beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile.🪄⭐
+* 【2022-09-28】[hankinghu / literature-books](https://github.com/hankinghu/literature-books) - 书籍txt
+* 【2022-09-28】[overmind1980 / oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial) - 良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。
+* 【2022-09-28】[bumingbaipod / podcast](https://github.com/bumingbaipod/podcast) - 此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。 版权所有©️不明白播客 bumingbai.net
 * 【2022-09-27】[openai / gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
 * 【2022-09-27】[jenndryden / Canadian-Tech-Internships-Summer-2023](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023) - Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022
 * 【2022-09-27】[CyberSecurityUP / PenTest-Consulting-Creator](https://github.com/CyberSecurityUP/PenTest-Consulting-Creator) - Repository with some necessary information for you to create your PenTest consultancy
