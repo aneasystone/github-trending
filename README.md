@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-09-29】[huggingface / setfit](https://github.com/huggingface/setfit) - Efficient few-shot learning with Sentence Transformers
+* 【2022-09-29】[coral-xyz / backpack](https://github.com/coral-xyz/backpack) - 🎒Next level crypto wallet
+* 【2022-09-29】[D1rkMtr / DumpThatLSASS](https://github.com/D1rkMtr/DumpThatLSASS) - Dumping LSASS by Unhooking MiniDumpWriteDump by getting a fresh DbgHelp.dll copy from the disk , plus functions and strings obfuscation , it contains Anti-sandbox , if you run it under unperformant Virtual Machine you need to uncomment the code related to it and recompile.
+* 【2022-09-29】[squizlabs / PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+* 【2022-09-29】[prisma / prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+* 【2022-09-29】[may-fly / mayfly-go](https://github.com/may-fly/mayfly-go) - web版linux(终端 文件 脚本 进程)、数据库(mysql pgsql)、redis(单机 哨兵 集群)、mongo统一管理操作平台。
+* 【2022-09-29】[Mr-xn / Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC) - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms
 * 【2022-09-28】[WordPress / wordpress-wasm](https://github.com/WordPress/wordpress-wasm) - Run WordPress in the browser thanks to WebAssembly magic
 * 【2022-09-28】[evilsocket / spycast](https://github.com/evilsocket/spycast) - A crossplatform mDNS enumeration tool.
 * 【2022-09-28】[angular / angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
@@ -233,6 +240,7 @@
 
 ## Java
 
+* 【2022-09-29】[zaproxy / zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 * 【2022-09-28】[linkedin / venice](https://github.com/linkedin/venice) - Venice, Derived Data Platform for planet-scale workloads.
 * 【2022-09-28】[MinhQuan992 / design-patterns](https://github.com/MinhQuan992/design-patterns) - This project contains many sample codes for demonstrating the usage of some common design patterns.
 * 【2022-09-28】[jojoldu / freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice) - 
@@ -383,6 +391,13 @@
 
 ## Python
 
+* 【2022-09-29】[Netflix / vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+* 【2022-09-29】[NaiboWang / CommandlineConfig](https://github.com/NaiboWang/CommandlineConfig) - A library for users to write (experiment in research) configurations in Python Dict or JSON format, while can read parameters from the command line to modify values.
+* 【2022-09-29】[facebookresearch / xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
+* 【2022-09-29】[bokeh / bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python
+* 【2022-09-29】[WindXaa / Android-Vulnerability-Mining](https://github.com/WindXaa/Android-Vulnerability-Mining) - Android APP漏洞之战系列，主要讲述如何快速挖掘APP漏洞
+* 【2022-09-29】[LiAoRJ / CS_fakesubmit](https://github.com/LiAoRJ/CS_fakesubmit) - 一个可以伪装上线Cobaltstrike的脚本
+* 【2022-09-29】[grayddq / GScan](https://github.com/grayddq/GScan) - 本程序旨在为安全应急响应人员对Linux主机排查时提供便利，实现主机侧Checklist的自动全面化检测，根据检测结果自动数据聚合，进行黑客攻击路径溯源。
 * 【2022-09-28】[iamnihal / warf](https://github.com/iamnihal/warf) - WARF is a Web Application Reconnaissance Framework that helps to gather information about the target.
 * 【2022-09-28】[CTFd / CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 * 【2022-09-28】[google-research / bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
@@ -648,6 +663,10 @@
 
 ## Javascript
 
+* 【2022-09-29】[cypress-io / cypress-example-recipes](https://github.com/cypress-io/cypress-example-recipes) - Various recipes for testing common scenarios with Cypress
+* 【2022-09-29】[badges / shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+* 【2022-09-29】[kokdemo / beijing-popup-map](https://github.com/kokdemo/beijing-popup-map) - 北京健康宝弹窗地图，数据来源北京疾控中心，不定期更新
+* 【2022-09-29】[rustq / colorid.js](https://github.com/rustq/colorid.js) - The unique 4-colors-ID string generator in JavaScript🌈一款基于 4 种颜色来表示身份的 JavaScript 随机 ID 生成器
 * 【2022-09-28】[RobinHerbots / Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 * 【2022-09-28】[naptha / tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages📖🎉🖥
 * 【2022-09-28】[thapatechnical / thapareactecom](https://github.com/thapatechnical/thapareactecom) - 
@@ -842,6 +861,11 @@
 
 ## Go
 
+* 【2022-09-29】[prometheus / node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+* 【2022-09-29】[nektos / act](https://github.com/nektos/act) - Run your GitHub Actions locally🚀
+* 【2022-09-29】[jmoiron / sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
+* 【2022-09-29】[opencost / opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
+* 【2022-09-29】[mmM1ku / Mscan](https://github.com/mmM1ku/Mscan) - Mscan是一款基于go语言开发的内网资产探测工具。
 * 【2022-09-28】[klauspost / compress](https://github.com/klauspost/compress) - Optimized Go Compression Packages
 * 【2022-09-28】[DATA-DOG / go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 * 【2022-09-28】[Ptkatz / OrcaC2](https://github.com/Ptkatz/OrcaC2) - OrcaC2是一款基于Websocket加密通信的多功能C&C框架，使用Golang实现。
@@ -1061,6 +1085,17 @@
 
 ## C
 
+* 【2022-09-29】[DavidBuchanan314 / monomorph](https://github.com/DavidBuchanan314/monomorph) - MD5-Monomorphic Shellcode Packer - all payloads have the same MD5 hash
+* 【2022-09-29】[redis / hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis >= 1.2
+* 【2022-09-29】[bitcoin-core / secp256k1](https://github.com/bitcoin-core/secp256k1) - Optimized C library for EC operations on curve secp256k1
+* 【2022-09-29】[xiph / opus](https://github.com/xiph/opus) - Modern audio compression for the internet.
+* 【2022-09-29】[ProtonVPN / android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+* 【2022-09-29】[ufrisk / MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System
+* 【2022-09-29】[ARM-software / arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) - Read-only mirror of Trusted Firmware-A
+* 【2022-09-29】[labring / sealfs](https://github.com/labring/sealfs) - silky, high performance distributed file-system
+* 【2022-09-29】[leafyoung / CTP](https://github.com/leafyoung/CTP) - 综合交易系统资料汇总
+* 【2022-09-29】[Erensu / ignav](https://github.com/Erensu/ignav) - integrated navigation for ins and gnss
+* 【2022-09-29】[j10ccc / zjut-icicles](https://github.com/j10ccc/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2022-09-28】[Idov31 / Cronos](https://github.com/Idov31/Cronos) - PoC for a new sleep obfuscation technique leveraging waitable timers to evade memory scanners.
 * 【2022-09-28】[naksyn / Pyramid](https://github.com/naksyn/Pyramid) - a tool to help operate in EDRs' blind spots
 * 【2022-09-28】[OpenEtherCATsociety / SOEM](https://github.com/OpenEtherCATsociety/SOEM) - Simple Open Source EtherCAT Master
@@ -1222,6 +1257,10 @@
 
 ## C++
 
+* 【2022-09-29】[Taiga74164 / Akebi-GC](https://github.com/Taiga74164/Akebi-GC) - Genshin cheat for OS/CN 3.0
+* 【2022-09-29】[hluk / CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+* 【2022-09-29】[PointCloudLibrary / pcl](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library (PCL)
+* 【2022-09-29】[unlir / XDrive](https://github.com/unlir/XDrive) - Stepper motor with multi-function interface and closed loop function. 具有多功能接口和闭环功能的步进电机。
 * 【2022-09-28】[qiayuanliao / legged_control](https://github.com/qiayuanliao/legged_control) - Nonlinear MPC and WBC for legged robot based on OCS2 and ros-controls
 * 【2022-09-28】[Pwnrin / CVE-2022-30206](https://github.com/Pwnrin/CVE-2022-30206) - Exploit for CVE-2022-30206
 * 【2022-09-28】[kaust-csg-uaamg / uaamg](https://github.com/kaust-csg-uaamg/uaamg) - 
@@ -1374,6 +1413,8 @@
 
 ## C#
 
+* 【2022-09-29】[AutoDarkMode / Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+* 【2022-09-29】[zhuxb711 / RX-Explorer](https://github.com/zhuxb711/RX-Explorer) - 一款优雅的UWP文件管理器 | An elegant UWP Explorer
 * 【2022-09-28】[chronoxor / NetCoreServer](https://github.com/chronoxor/NetCoreServer) - Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution
 * 【2022-09-28】[mini-software / MiniExcel](https://github.com/mini-software/MiniExcel) - Fast, Low-Memory, Easy Excel .NET helper to import/export/template spreadsheet
 * 【2022-09-28】[mini-software / MiniWord](https://github.com/mini-software/MiniWord) - .NET Word(docx) exporting template engine without COM+ & interop (support Linux and Mac)
@@ -1538,6 +1579,11 @@
 
 ## Html
 
+* 【2022-09-29】[romarpla / cursoFrontEnd](https://github.com/romarpla/cursoFrontEnd) - 
+* 【2022-09-29】[gsasansol / GirlScript-Asansol](https://github.com/gsasansol/GirlScript-Asansol) - Github repo for Official website of GirlScript Asansol.
+* 【2022-09-29】[mdbootstrap / Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates😎- FREE for commercial use
+* 【2022-09-29】[yzhu798 / CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) - 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》）、面试题、嵌入式相关等
+* 【2022-09-29】[doocs / coding-interview](https://github.com/doocs/coding-interview) - 😀代码面试题集，包括剑指 Offer、编程之美等
 * 【2022-09-28】[DownUnderCTF / Challenges_2022_Public](https://github.com/DownUnderCTF/Challenges_2022_Public) - Files + Writeups for DownUnderCTF 2022 Challenges
 * 【2022-09-28】[developedbyed / minimalist-website-2022](https://github.com/developedbyed/minimalist-website-2022) - 
 * 【2022-09-28】[yairEO / tagify](https://github.com/yairEO/tagify) - 🔖lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
@@ -1703,6 +1749,7 @@
 
 ## Css
 
+* 【2022-09-29】[ConsenSys-Academy / Blockchain-Developer-Bootcamp](https://github.com/ConsenSys-Academy/Blockchain-Developer-Bootcamp) - Open-source version of ConsenSys Academy's Blockchain Developer Bootcamp
 * 【2022-09-28】[caracal-js / Incognito](https://github.com/caracal-js/Incognito) - Source code.
 * 【2022-09-28】[PrincessMaggy / cohort4-project](https://github.com/PrincessMaggy/cohort4-project) - A Project for My Mentees in HertechTrai
 * 【2022-09-28】[afzafri / UiTM-Timetable-Generator](https://github.com/afzafri/UiTM-Timetable-Generator) - Fetch and generate Timetable for UiTM
@@ -1829,6 +1876,11 @@
 
 ## Unknown
 
+* 【2022-09-29】[vavkamil / awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools
+* 【2022-09-29】[getify / foi-lang](https://github.com/getify/foi-lang) - Foi: a different kind of functional programming language
+* 【2022-09-29】[iximiuz / awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers.
+* 【2022-09-29】[a406010503 / Miui_Camera](https://github.com/a406010503/Miui_Camera) - 一個基於 MIUI13（Android12）適配的 Magisk 相機模組
+* 【2022-09-29】[j1anFen / shiro_attack](https://github.com/j1anFen/shiro_attack) - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）
 * 【2022-09-28】[qingsongedu / time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) - A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
 * 【2022-09-28】[olexale / flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
 * 【2022-09-28】[ixinzhi / loving-books](https://github.com/ixinzhi/loving-books) - 📚恋爱指南
