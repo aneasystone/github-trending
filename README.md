@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-10-01】[dosisod / refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
+* 【2022-10-01】[GoVanguard / list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
+* 【2022-10-01】[total-typescript / typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
+* 【2022-10-01】[TheLastBen / fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, +25% speed increase + memory efficient.
+* 【2022-10-01】[WeAreMahsaAmini / CelebrityWall](https://github.com/WeAreMahsaAmini/CelebrityWall) - 
 * 【2022-09-30】[cloudflare / workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 * 【2022-09-30】[nifanfa / MOOS](https://github.com/nifanfa/MOOS) - C# x64 operating system programming with the .NET native ahead-of-time compilation technology.
 * 【2022-09-30】[optiv / Freeze](https://github.com/optiv/Freeze) - Freeze is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls, and alternative execution methods
@@ -252,6 +257,8 @@
 
 ## Java
 
+* 【2022-10-01】[apache / tomcat](https://github.com/apache/tomcat) - Apache Tomcat
+* 【2022-10-01】[yindz / common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
 * 【2022-09-30】[apna-college / Alpha](https://github.com/apna-college/Alpha) - 
 * 【2022-09-30】[spring-cloud / spring-cloud-config](https://github.com/spring-cloud/spring-cloud-config) - External configuration (server and client) for Spring Cloud
 * 【2022-09-30】[KikiLetGo / CyberController](https://github.com/KikiLetGo/CyberController) - CyberController
@@ -408,6 +415,15 @@
 
 ## Python
 
+* 【2022-10-01】[GoogleCloudPlatform / python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
+* 【2022-10-01】[google / latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
+* 【2022-10-01】[stark0de / nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
+* 【2022-10-01】[rafaelvleite / fide_crawler](https://github.com/rafaelvleite/fide_crawler) - 
+* 【2022-10-01】[openai / DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
+* 【2022-10-01】[pre-commit / pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
+* 【2022-10-01】[redis / redis-py](https://github.com/redis/redis-py) - Redis Python Client
+* 【2022-10-01】[DawnFlame / POChouse](https://github.com/DawnFlame/POChouse) - POC&EXP仓库、hvv弹药库、Nday、1day
+* 【2022-10-01】[rivercold / QueryFilter](https://github.com/rivercold/QueryFilter) - Select queries from search logs and filter porn & similar queires.
 * 【2022-09-30】[Sanster / lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
 * 【2022-09-30】[dbertho / spamcity](https://github.com/dbertho/spamcity) - Spam Numbero and make your city the most dangerous place on Earth
 * 【2022-09-30】[CharlesPikachu / Games](https://github.com/CharlesPikachu/Games) - Games: Create interesting games by pure python.
@@ -688,6 +704,11 @@
 
 ## Javascript
 
+* 【2022-10-01】[WeAreMahsaAmini / Homepage](https://github.com/WeAreMahsaAmini/Homepage) - The homepage for #MahsaAmini
+* 【2022-10-01】[saharmor / dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
+* 【2022-10-01】[jsx-eslint / eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
+* 【2022-10-01】[FilipePS / Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
+* 【2022-10-01】[he1pu / JDHelp](https://github.com/he1pu/JDHelp) - 
 * 【2022-09-30】[alexlenail / NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 * 【2022-09-30】[lllyasviel / style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints🎨(TOG2018/SIGGRAPH2018ASIA)
 * 【2022-09-30】[OptimalBits / bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -896,6 +917,14 @@
 
 ## Go
 
+* 【2022-10-01】[lightninglabs / taro](https://github.com/lightninglabs/taro) - A layer 1 daemon, for the Taro protocol specification, written in Go (golang)
+* 【2022-10-01】[trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+* 【2022-10-01】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+* 【2022-10-01】[uber-go / fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
+* 【2022-10-01】[databus23 / helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
+* 【2022-10-01】[TruthHun / DocHub](https://github.com/TruthHun/DocHub) - 参考百度文库，使用Beego（Golang）开发的开源文库系统
+* 【2022-10-01】[baiyutang / meetup](https://github.com/baiyutang/meetup) - 【❤️互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如👉QCon👉全球运维技术大会👉GDG👉全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎 PR / Issues
+* 【2022-10-01】[y805939188 / simple-k8s-cni](https://github.com/y805939188/simple-k8s-cni) - this is a test for custom cni
 * 【2022-09-30】[matrixorigin / matrixone](https://github.com/matrixorigin/matrixone) - Hyperconverged cloud-edge native database
 * 【2022-09-30】[meshery / meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane
 * 【2022-09-30】[drakkan / sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
@@ -1127,6 +1156,12 @@
 
 ## C
 
+* 【2022-10-01】[DDeGonge / OS-ARM](https://github.com/DDeGonge/OS-ARM) - 
+* 【2022-10-01】[strongswan / strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
+* 【2022-10-01】[greatscottgadgets / hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
+* 【2022-10-01】[lethal-guitar / Duke2Reconstructed](https://github.com/lethal-guitar/Duke2Reconstructed) - Reconstructed source code of the game Duke Nukem II
+* 【2022-10-01】[ucb-bar / chipyard](https://github.com/ucb-bar/chipyard) - An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+* 【2022-10-01】[OnionUI / Onion](https://github.com/OnionUI/Onion) - Stock OS overhaul for Miyoo Mini
 * 【2022-09-30】[ORCx41 / KnownDllUnhook](https://github.com/ORCx41/KnownDllUnhook) - Replace the .txt section of the current loaded modules from \KnownDlls\ to bypass edrs
 * 【2022-09-30】[X0rg / CPU-X](https://github.com/X0rg/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 * 【2022-09-30】[sqlcipher / sqlcipher](https://github.com/sqlcipher/sqlcipher) - SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.
@@ -1309,6 +1344,15 @@
 
 ## C++
 
+* 【2022-10-01】[D1rkMtr / VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) - Abusing VirusTotal API to host our C2 traffic, usefull for bypassing blocking firewall rules if VirusTotal is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
+* 【2022-10-01】[cocos2d / cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+* 【2022-10-01】[magma / magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
+* 【2022-10-01】[HKUST-Aerial-Robotics / VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) - An optimization-based multi-sensor state estimator
+* 【2022-10-01】[sysown / proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
+* 【2022-10-01】[xiangli0608 / cartographer_detailed_comments_ws](https://github.com/xiangli0608/cartographer_detailed_comments_ws) - cartographer work space with detailed comments
+* 【2022-10-01】[Yyyyshen / HackTechLearning](https://github.com/Yyyyshen/HackTechLearning) - 有需求做攻防对抗，买本书学习下常见技术，例子敲一敲
+* 【2022-10-01】[scarsty / kys-cpp](https://github.com/scarsty/kys-cpp) - 《金庸群侠传》c++复刻版，已完工
+* 【2022-10-01】[AngelMonica126 / GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - 🐙🐙图形学论文实现
 * 【2022-09-30】[cdcseacave / openMVS](https://github.com/cdcseacave/openMVS) - open Multi-View Stereo reconstruction library
 * 【2022-09-30】[solosky / nfc-emu](https://github.com/solosky/nfc-emu) - NFC模拟器
 * 【2022-09-29】[Taiga74164 / Akebi-GC](https://github.com/Taiga74164/Akebi-GC) - Genshin cheat for OS/CN 3.0
@@ -1467,6 +1511,12 @@
 
 ## C#
 
+* 【2022-10-01】[ALIILAPRO / warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
+* 【2022-10-01】[RonSijm / ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole💝
+* 【2022-10-01】[Collective-Software / ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
+* 【2022-10-01】[FlandreDevs / Flandre](https://github.com/FlandreDevs/Flandre) - 跨平台，低耦合的聊天机器人框架，一次编写，多处运行。
+* 【2022-10-01】[XINCGer / UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick) - 提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)
+* 【2022-10-01】[Gaoyifei1011 / GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
 * 【2022-09-30】[pavelsavara / dotnet-wasm-todo-mvc](https://github.com/pavelsavara/dotnet-wasm-todo-mvc) - 
 * 【2022-09-30】[8212369 / WPR](https://github.com/8212369/WPR) - WP7-8 APP 运行器
 * 【2022-09-30】[91270 / Meiam.System](https://github.com/91270/Meiam.System) - .NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架
@@ -1637,6 +1687,15 @@
 
 ## Html
 
+* 【2022-10-01】[AliceWonderland / hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) - Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
+* 【2022-10-01】[rohansaini886 / Hacktoberfest2022](https://github.com/rohansaini886/Hacktoberfest2022) - Contribute on this repository with valid pull request to Hacktoberfest 2022 and earn amazing swags!
+* 【2022-10-01】[HTTPArchive / almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
+* 【2022-10-01】[DeveloperAshish8 / CodeChamp-s-Website](https://github.com/DeveloperAshish8/CodeChamp-s-Website) - This is an open source community website designed for CodeChamp using HTML, CSS, Javascript and Bootstrap.
+* 【2022-10-01】[vasturiano / react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
+* 【2022-10-01】[IBM-EPBL / IBM-Project-22781-1659858111](https://github.com/IBM-EPBL/IBM-Project-22781-1659858111) - News Tracker Application
+* 【2022-10-01】[hossainchisty / Freshdesk-ERP-Platform](https://github.com/hossainchisty/Freshdesk-ERP-Platform) - FreshDesk is smart ERP solution to manage your business.🎯🔥
+* 【2022-10-01】[atcoder-for-chinese-developers / atcoder-for-chinese](https://github.com/atcoder-for-chinese-developers/atcoder-for-chinese) - Atcoder Description and Solution for Chinese
+* 【2022-10-01】[hookmaster / frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 * 【2022-09-30】[fineanmol / Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022) - Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a⭐️
 * 【2022-09-30】[donald-f-ferguson / F22-Simple-Web-UI](https://github.com/donald-f-ferguson/F22-Simple-Web-UI) - Simple started Angular application for my Columbia Classes, Fall 2022.
 * 【2022-09-30】[leemunroe / responsive-html-email-template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template
@@ -1813,6 +1872,13 @@
 
 ## Css
 
+* 【2022-10-01】[akshitagupta15june / PetMe](https://github.com/akshitagupta15june/PetMe) - PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need.
+* 【2022-10-01】[naumen-student / naumen.scala.course.2022.autumn](https://github.com/naumen-student/naumen.scala.course.2022.autumn) - naumen scala autumn
+* 【2022-10-01】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
+* 【2022-10-01】[elipapa / markdown-cv](https://github.com/elipapa/markdown-cv) - a simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+* 【2022-10-01】[Fangornito / ReimsQuizz](https://github.com/Fangornito/ReimsQuizz) - Premier Projet / Team 3
+* 【2022-10-01】[creativetimofficial / argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react) - React version of Argon Design System
+* 【2022-10-01】[Titanium-Network / Incognito](https://github.com/Titanium-Network/Incognito) - Source code.
 * 【2022-09-30】[narasimhareddyprostack / fs-sept-Gold](https://github.com/narasimhareddyprostack/fs-sept-Gold) - 
 * 【2022-09-30】[missing-semester-cn / missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 * 【2022-09-30】[AchievedOwner / TDesignBlazor](https://github.com/AchievedOwner/TDesignBlazor) - 基于 TDesign 的 Blazor 组件库
@@ -1943,6 +2009,18 @@
 
 ## Unknown
 
+* 【2022-10-01】[carlospolop / hacktricks-cloud](https://github.com/carlospolop/hacktricks-cloud) - 
+* 【2022-10-01】[LukasMasuch / best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆A ranked list of awesome React open-source libraries and tools. Updated weekly.
+* 【2022-10-01】[payloadbox / xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯Cross Site Scripting ( XSS ) Vulnerability Payload List
+* 【2022-10-01】[kojino / 120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions) - Answers to 120 commonly asked data science interview questions.
+* 【2022-10-01】[FourthBrain / software-dev-for-mlops-101](https://github.com/FourthBrain/software-dev-for-mlops-101) - Set up your local environment to do some real Machine Learning Operations software development, just like pro MLOps practitioners.
+* 【2022-10-01】[acantril / aws-sa-associate-saac03](https://github.com/acantril/aws-sa-associate-saac03) - github repo for https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
+* 【2022-10-01】[kamranahmedse / design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
+* 【2022-10-01】[f2etw / jobs](https://github.com/f2etw/jobs) - Our jobs board.
+* 【2022-10-01】[wsdjeg / Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 
+* 【2022-10-01】[tnfe / TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈🙉🙊每周为您推荐国内外前端领域最新的优秀文章以及行业进展
+* 【2022-10-01】[aceld / libevent](https://github.com/aceld/libevent) - <Libevent深入浅出>本书要求有一定的服务并发编程基础，了解select和epoll等多路I/O复用机制。
+* 【2022-10-01】[chongshengB / Padavan-build](https://github.com/chongshengB/Padavan-build) - Padavan 自动编译
 * 【2022-09-30】[reactjs / rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 * 【2022-09-30】[tayllan / awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 * 【2022-09-30】[docker / hacktoberfest-2022](https://github.com/docker/hacktoberfest-2022) - Docker Hacktoberfest 2022
