@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2022-10-02】[lucidrains / make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
+* 【2022-10-02】[NielsRogge / Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
+* 【2022-10-02】[inspiradanacomputacao / tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) - Manifesto de Pessoas Tecnologistas contra Bolsonaro
+* 【2022-10-02】[Ildaron / Laser_control](https://github.com/Ildaron/Laser_control) - Open-Source Laser for control mosquito, weed, and pest
+* 【2022-10-02】[developedbyed / react-portofolio-with-tailwind](https://github.com/developedbyed/react-portofolio-with-tailwind) - 
+* 【2022-10-02】[denoland / deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+* 【2022-10-02】[phoenixframework / phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
+* 【2022-10-02】[fireship-io / fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster https://fireship.io
+* 【2022-10-02】[lidangzzz / canada-run](https://github.com/lidangzzz/canada-run) - 成本100万人民币拿15张枫叶卡零基础教程（程序员篇）
+* 【2022-10-02】[yeszao / dnmp](https://github.com/yeszao/dnmp) - Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 * 【2022-10-01】[dosisod / refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 * 【2022-10-01】[GoVanguard / list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 * 【2022-10-01】[total-typescript / typescript-generics-workshop](https://github.com/total-typescript/typescript-generics-workshop) - Interactive tutorial on using generics in TypeScript
@@ -257,6 +267,10 @@
 
 ## Java
 
+* 【2022-10-02】[spring-projects-experimental / spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot
+* 【2022-10-02】[Graylog2 / graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
+* 【2022-10-02】[GoogleCloudPlatform / DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
+* 【2022-10-02】[cami-la / sacola-api_IFOOD_DEV_WEEK](https://github.com/cami-la/sacola-api_IFOOD_DEV_WEEK) - Código-Fonte do Projeto Sacola API do iFood Dev Week.
 * 【2022-10-01】[apache / tomcat](https://github.com/apache/tomcat) - Apache Tomcat
 * 【2022-10-01】[yindz / common-random](https://github.com/yindz/common-random) - 简单易用的随机数据生成器。生成各种比较真实的假数据。一般用于开发和测试阶段的数据填充模拟。支持各类中国特色本地化的数据格式。An easy-to use random data generator. Generally used for data filling, simulation, demonstration and other scenarios in the development and test phase.
 * 【2022-09-30】[apna-college / Alpha](https://github.com/apna-college/Alpha) - 
@@ -415,6 +429,12 @@
 
 ## Python
 
+* 【2022-10-02】[facebookresearch / demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
+* 【2022-10-02】[flyteorg / flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
+* 【2022-10-02】[fboulnois / stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
+* 【2022-10-02】[dbisu / pico-ducky](https://github.com/dbisu/pico-ducky) - Create a USB Rubber Ducky like device using a Raspberry PI Pico
+* 【2022-10-02】[Rickwang177 / Implementation-of-handwritten-digit-recognition-algorithm-using-deep-Learning-method](https://github.com/Rickwang177/Implementation-of-handwritten-digit-recognition-algorithm-using-deep-Learning-method) - This paper implements a handwritten digit recognition algorithm based on deep learning. On the basis of the completion of the basic algorithm, ① this project adds a progress bar of training, ② calls gpu for training, ③ saves the latest training weight, ④ draws the change curve of loss and accuracy in the training process in real time, the code n…
+* 【2022-10-02】[bubbliiiing / yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) - 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
 * 【2022-10-01】[GoogleCloudPlatform / python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 * 【2022-10-01】[google / latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 * 【2022-10-01】[stark0de / nginxpwner](https://github.com/stark0de/nginxpwner) - Nginxpwner is a simple tool to look for common Nginx misconfigurations and vulnerabilities.
@@ -704,6 +724,10 @@
 
 ## Javascript
 
+* 【2022-10-02】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+* 【2022-10-02】[QasimWani / LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
+* 【2022-10-02】[up-for-grabs / up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
+* 【2022-10-02】[Tencent / kbone](https://github.com/Tencent/kbone) - 一个致力于微信小程序和 Web 端同构的解决方案
 * 【2022-10-01】[WeAreMahsaAmini / Homepage](https://github.com/WeAreMahsaAmini/Homepage) - The homepage for #MahsaAmini
 * 【2022-10-01】[saharmor / dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
 * 【2022-10-01】[jsx-eslint / eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
@@ -917,6 +941,12 @@
 
 ## Go
 
+* 【2022-10-02】[go-micro / go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
+* 【2022-10-02】[pkg / errors](https://github.com/pkg/errors) - Simple error handling primitives
+* 【2022-10-02】[terraform-docs / terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
+* 【2022-10-02】[kubernetes-sigs / metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+* 【2022-10-02】[traefik / traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+* 【2022-10-02】[rmb122 / rogue_mysql_server](https://github.com/rmb122/rogue_mysql_server) - A rouge mysql server supports reading files from most mysql libraries of multiple programming languages.
 * 【2022-10-01】[lightninglabs / taro](https://github.com/lightninglabs/taro) - A layer 1 daemon, for the Taro protocol specification, written in Go (golang)
 * 【2022-10-01】[trufflesecurity / trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 * 【2022-10-01】[future-architect / vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -1156,6 +1186,7 @@
 
 ## C
 
+* 【2022-10-02】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 * 【2022-10-01】[DDeGonge / OS-ARM](https://github.com/DDeGonge/OS-ARM) - 
 * 【2022-10-01】[strongswan / strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
 * 【2022-10-01】[greatscottgadgets / hackrf](https://github.com/greatscottgadgets/hackrf) - low cost software radio platform
@@ -1344,6 +1375,7 @@
 
 ## C++
 
+* 【2022-10-02】[facebook / yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 * 【2022-10-01】[D1rkMtr / VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) - Abusing VirusTotal API to host our C2 traffic, usefull for bypassing blocking firewall rules if VirusTotal is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 * 【2022-10-01】[cocos2d / cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
 * 【2022-10-01】[magma / magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
@@ -1511,6 +1543,11 @@
 
 ## C#
 
+* 【2022-10-02】[Pryaxis / TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
+* 【2022-10-02】[Dec0ne / KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).
+* 【2022-10-02】[JasonWei512 / EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device's battery life. A WinUI 3 GUI for EnergyStar.
+* 【2022-10-02】[gc-toolkit / GenshinLauncher](https://github.com/gc-toolkit/GenshinLauncher) - 高仿官方启动器的gc启动器捏
+* 【2022-10-02】[fanliang11 / surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. support Event-based Asynchronous Pattern and reactive programming ,The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling…
 * 【2022-10-01】[ALIILAPRO / warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 * 【2022-10-01】[RonSijm / ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole💝
 * 【2022-10-01】[Collective-Software / ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
@@ -1687,6 +1724,13 @@
 
 ## Html
 
+* 【2022-10-02】[cloudflare / turnstile-demo-workers](https://github.com/cloudflare/turnstile-demo-workers) - A simple demo with a Turnstile-protected form, using Cloudflare Workers.
+* 【2022-10-02】[RobAI-Lab / hainanu-course-resource](https://github.com/RobAI-Lab/hainanu-course-resource) - 海南大学课程攻略共享计划
+* 【2022-10-02】[prafullpandey614 / HactoberFest-2022](https://github.com/prafullpandey614/HactoberFest-2022) - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. Hacktoberfest is a …
+* 【2022-10-02】[sodafoundation / multi-cloud](https://github.com/sodafoundation/multi-cloud) - SODA Strato (Multi-cloud) project provides a cloud vendor agnostic data management for hybrid cloud, intercloud or intracloud. This project is renamed as 'Strato'
+* 【2022-10-02】[goitacademy / mobile-menu-workshop](https://github.com/goitacademy/mobile-menu-workshop) - 
+* 【2022-10-02】[jenkins-infra / jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server
+* 【2022-10-02】[aaaddress1 / buyHouseAnalyzer](https://github.com/aaaddress1/buyHouseAnalyzer) - 開源台灣房市在線實價登錄分析工具
 * 【2022-10-01】[AliceWonderland / hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) - Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
 * 【2022-10-01】[rohansaini886 / Hacktoberfest2022](https://github.com/rohansaini886/Hacktoberfest2022) - Contribute on this repository with valid pull request to Hacktoberfest 2022 and earn amazing swags!
 * 【2022-10-01】[HTTPArchive / almanac.httparchive.org](https://github.com/HTTPArchive/almanac.httparchive.org) - HTTP Archive's annual "State of the Web" report made by the web community
@@ -1872,6 +1916,10 @@
 
 ## Css
 
+* 【2022-10-02】[eduardojesus12 / live-coding-2](https://github.com/eduardojesus12/live-coding-2) - Prueba técnica Live coding 2
+* 【2022-10-02】[EmulatorOS / EmulatorOS.github.io](https://github.com/EmulatorOS/EmulatorOS.github.io) - 
+* 【2022-10-02】[faaiz-space / hut-calci](https://github.com/faaiz-space/hut-calci) - This project is for implementing different animations with which users can interact, It has a Calculator which has some cool features but needing more for others to get benifits.
+* 【2022-10-02】[dannycandle / FluidFox](https://github.com/dannycandle/FluidFox) - A custom Firefox userChrome for mac OS.
 * 【2022-10-01】[akshitagupta15june / PetMe](https://github.com/akshitagupta15june/PetMe) - PetMe is an all-in-one platform that allows animals to be adopted, donated to pet lovers, and provides emergency medical care to stray animals in need.
 * 【2022-10-01】[naumen-student / naumen.scala.course.2022.autumn](https://github.com/naumen-student/naumen.scala.course.2022.autumn) - naumen scala autumn
 * 【2022-10-01】[jaywcjlove / reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘单(主要是方便自己)。
@@ -2009,6 +2057,10 @@
 
 ## Unknown
 
+* 【2022-10-02】[aquasecurity / cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
+* 【2022-10-02】[EddieHubCommunity / hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice
+* 【2022-10-02】[hzh0425 / hzh0425](https://github.com/hzh0425/hzh0425) - 个人简历
+* 【2022-10-02】[TheisTrue / MLofAndrew-Ng](https://github.com/TheisTrue/MLofAndrew-Ng) - 吴恩达机器学习课程的讲义，欢迎大家一起学习
 * 【2022-10-01】[carlospolop / hacktricks-cloud](https://github.com/carlospolop/hacktricks-cloud) - 
 * 【2022-10-01】[LukasMasuch / best-of-react](https://github.com/LukasMasuch/best-of-react) - 🏆A ranked list of awesome React open-source libraries and tools. Updated weekly.
 * 【2022-10-01】[payloadbox / xss-payload-list](https://github.com/payloadbox/xss-payload-list) - 🎯Cross Site Scripting ( XSS ) Vulnerability Payload List
