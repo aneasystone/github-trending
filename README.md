@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-10-03】[lkwq007 / stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
+* 【2022-10-03】[bitcoin / bips](https://github.com/bitcoin/bips) - Bitcoin Improvement Proposals
+* 【2022-10-03】[HavocFramework / Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework
+* 【2022-10-03】[tldr-pages / tldr](https://github.com/tldr-pages/tldr) - 📚Collaborative cheatsheets for console commands
+* 【2022-10-03】[GoVanguard / Getting-into-InfoSec-and-Cybersecurity](https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity) - A shorter, less intimidating list of infosec resources helpful for anyone trying to learn.
+* 【2022-10-03】[build-trust / ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale.
+* 【2022-10-03】[iced-rs / iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
+* 【2022-10-03】[shatyuka / Zhiliao](https://github.com/shatyuka/Zhiliao) - 知乎去广告Xposed模块
 * 【2022-10-02】[lucidrains / make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch
 * 【2022-10-02】[NielsRogge / Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 * 【2022-10-02】[inspiradanacomputacao / tecnologistas-contra-bolsonaro](https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro) - Manifesto de Pessoas Tecnologistas contra Bolsonaro
@@ -267,6 +275,14 @@
 
 ## Java
 
+* 【2022-10-03】[Cydeo-B28 / Java_Programming](https://github.com/Cydeo-B28/Java_Programming) - Java Programming Repository For Cydeo SDET Batch 28 Students
+* 【2022-10-03】[guardianproject / orbot](https://github.com/guardianproject/orbot) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
+* 【2022-10-03】[ossamamehmood / Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) - Hacktoberfest 2022 OPEN FIRST Pull Request - FREE T-SHIRT🎉
+* 【2022-10-03】[tapdata / tapdata](https://github.com/tapdata/tapdata) - Tapdata Live Data Platform Project
+* 【2022-10-03】[jellyfin / jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
+* 【2022-10-03】[MoRan1607 / BigDataGuide](https://github.com/MoRan1607/BigDataGuide) - 大数据学习，从零开始学习大数据，包含大数据学习各阶段学习视频、面试资料
+* 【2022-10-03】[helloklf / EdgeGesture](https://github.com/helloklf/EdgeGesture) - 边缘手势
+* 【2022-10-03】[Baidu-AIP / speech-demo](https://github.com/Baidu-AIP/speech-demo) - 语音api示例
 * 【2022-10-02】[spring-projects-experimental / spring-boot-migrator](https://github.com/spring-projects-experimental/spring-boot-migrator) - Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot
 * 【2022-10-02】[Graylog2 / graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
 * 【2022-10-02】[GoogleCloudPlatform / DataflowTemplates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
@@ -429,6 +445,14 @@
 
 ## Python
 
+* 【2022-10-03】[scrapy / scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+* 【2022-10-03】[kovidgoyal / calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+* 【2022-10-03】[oppia / oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
+* 【2022-10-03】[crweiner / hacktoberfest-swag-list](https://github.com/crweiner/hacktoberfest-swag-list) - Multiple companies go above and beyond for Hacktoberfest, and this repo tries to list them all.
+* 【2022-10-03】[nat / natbot](https://github.com/nat/natbot) - Drive a browser with GPT-3
+* 【2022-10-03】[helloparthshah / StadiaWireless](https://github.com/helloparthshah/StadiaWireless) - Stadia Wireless enables you to use your stadia controller wirelessly. Not just with stadia, but with any game.
+* 【2022-10-03】[ethereum / research](https://github.com/ethereum/research) - 
+* 【2022-10-03】[simonw / action-transcription](https://github.com/simonw/action-transcription) - A tool for creating a repository of transcribed videos
 * 【2022-10-02】[facebookresearch / demucs](https://github.com/facebookresearch/demucs) - Code for the paper Hybrid Spectrogram and Waveform Source Separation
 * 【2022-10-02】[flyteorg / flyte](https://github.com/flyteorg/flyte) - Kubernetes-native workflow automation platform for complex, mission-critical data and ML processes at scale. It has been battle-tested at Lyft, Spotify, Freenome, and others and is truly open-source.
 * 【2022-10-02】[fboulnois / stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
@@ -724,6 +748,10 @@
 
 ## Javascript
 
+* 【2022-10-03】[GooseMod / OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
+* 【2022-10-03】[midudev / hacktoberfest-2022](https://github.com/midudev/hacktoberfest-2022) - Solving a frontend challenge for Hacktoberfest 2022
+* 【2022-10-03】[deepsourcelabs / good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution.
+* 【2022-10-03】[lvhuagai / CustomEatingGame](https://github.com/lvhuagai/CustomEatingGame) - 自定义吃掉XXX游戏
 * 【2022-10-02】[tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 * 【2022-10-02】[QasimWani / LeetHub](https://github.com/QasimWani/LeetHub) - Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository
 * 【2022-10-02】[up-for-grabs / up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net) - This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!
@@ -941,6 +969,12 @@
 
 ## Go
 
+* 【2022-10-03】[FairwindsOps / goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
+* 【2022-10-03】[procyon-projects / chrono](https://github.com/procyon-projects/chrono) - Chrono is a scheduler library that lets you run your task and code periodically
+* 【2022-10-03】[noisetorch / NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
+* 【2022-10-03】[71 / stadiacontroller](https://github.com/71/stadiacontroller) - Command line application that emulates an Xbox 360 controller from a wired Stadia controller on Windows.
+* 【2022-10-03】[osmosis-labs / osmosis](https://github.com/osmosis-labs/osmosis) - The AMM Laboratory
+* 【2022-10-03】[wangluozhe / requests](https://github.com/wangluozhe/requests) - 用于快速请求HTTP或HTTPS，并支持修改ja3指纹
 * 【2022-10-02】[go-micro / go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 * 【2022-10-02】[pkg / errors](https://github.com/pkg/errors) - Simple error handling primitives
 * 【2022-10-02】[terraform-docs / terraform-docs](https://github.com/terraform-docs/terraform-docs) - Generate documentation from Terraform modules in various output formats
@@ -1186,6 +1220,10 @@
 
 ## C
 
+* 【2022-10-03】[libgit2 / libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
+* 【2022-10-03】[ThirteenAG / WidescreenFixesPack](https://github.com/ThirteenAG/WidescreenFixesPack) - Plugins to make or improve widescreen resolutions support in games, add more features and fix bugs.
+* 【2022-10-03】[screetsec / TheFatRat](https://github.com/screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…
+* 【2022-10-03】[openbsd / src](https://github.com/openbsd/src) - Public git conversion mirror of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.
 * 【2022-10-02】[openvswitch / ovs](https://github.com/openvswitch/ovs) - Open vSwitch
 * 【2022-10-01】[DDeGonge / OS-ARM](https://github.com/DDeGonge/OS-ARM) - 
 * 【2022-10-01】[strongswan / strongswan](https://github.com/strongswan/strongswan) - strongSwan - IPsec-based VPN
@@ -1375,6 +1413,15 @@
 
 ## C++
 
+* 【2022-10-03】[OpenGenus / cosmos](https://github.com/OpenGenus/cosmos) - Hacktoberfest 2022 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+* 【2022-10-03】[pixie-io / pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+* 【2022-10-03】[bigtreetech / BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) - BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.
+* 【2022-10-03】[Vita3K / Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+* 【2022-10-03】[LeelaChessZero / lc0](https://github.com/LeelaChessZero/lc0) - The rewritten engine, originally for tensorflow. Now all other backends have been ported here.
+* 【2022-10-03】[wwmm / easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
+* 【2022-10-03】[uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends🤘
+* 【2022-10-03】[grandiloquent / wifi_file_server](https://github.com/grandiloquent/wifi_file_server) - 通过Wifi在手机、电脑、平板等智能设备上共享文件，无需USB线
+* 【2022-10-03】[JiangJiaWei520 / CyC2018](https://github.com/JiangJiaWei520/CyC2018) - 【转】技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计
 * 【2022-10-02】[facebook / yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 * 【2022-10-01】[D1rkMtr / VirusTotalC2](https://github.com/D1rkMtr/VirusTotalC2) - Abusing VirusTotal API to host our C2 traffic, usefull for bypassing blocking firewall rules if VirusTotal is in the target white list , and in case you don't have C2 infrastructure , now you have a free one
 * 【2022-10-01】[cocos2d / cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
@@ -1543,6 +1590,10 @@
 
 ## C#
 
+* 【2022-10-03】[StressLevelZero / MarrowSDK](https://github.com/StressLevelZero/MarrowSDK) - 
+* 【2022-10-03】[TEdit / Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor) - TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers!
+* 【2022-10-03】[pizzaboxer / bloxstrap](https://github.com/pizzaboxer/bloxstrap) - An open, feature-packed alternative bootstrapper for Roblox.
+* 【2022-10-03】[StressLevelZero / Custom-URP](https://github.com/StressLevelZero/Custom-URP) - 
 * 【2022-10-02】[Pryaxis / TShock](https://github.com/Pryaxis/TShock) - ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.
 * 【2022-10-02】[Dec0ne / KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) - KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).
 * 【2022-10-02】[JasonWei512 / EnergyStarX](https://github.com/JasonWei512/EnergyStarX) - 🔋Improve your Windows device's battery life. A WinUI 3 GUI for EnergyStar.
@@ -1724,6 +1775,11 @@
 
 ## Html
 
+* 【2022-10-03】[Arman-ali-khan-786 / calculator](https://github.com/Arman-ali-khan-786/calculator) - A moblie ui calculator webapp
+* 【2022-10-03】[Developer-Student-Clubs-UBa / hactoberfest2022](https://github.com/Developer-Student-Clubs-UBa/hactoberfest2022) - A repository for 2022 contributions to hacktoberfest by GDSC UBa
+* 【2022-10-03】[SauravMukherjee44 / CodeIN-Community-Website](https://github.com/SauravMukherjee44/CodeIN-Community-Website) - Open Source Website for CodeIN Community built using HTML, CSS, JavaScript and Bootstrap - HacktoberFest Accepted
+* 【2022-10-03】[Coders-Evoke-Community / Amazing-Frontend_Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) - Using Html Css and Javascript add whatever you want .... Designs of navbar , footers, landing pages , animations , one page websites , template with a parallax effect ,forms ,pop designs ,motion templates and many more .
+* 【2022-10-03】[SauravMukherjee44 / Aec-Library-Website](https://github.com/SauravMukherjee44/Aec-Library-Website) - This is an Open-Source Library Website in which you get Resources to learn different topics, Donate book section to donate your old books, and a Book issue section to keep a record of all the books issued. -HacktoberFest Accepted
 * 【2022-10-02】[cloudflare / turnstile-demo-workers](https://github.com/cloudflare/turnstile-demo-workers) - A simple demo with a Turnstile-protected form, using Cloudflare Workers.
 * 【2022-10-02】[RobAI-Lab / hainanu-course-resource](https://github.com/RobAI-Lab/hainanu-course-resource) - 海南大学课程攻略共享计划
 * 【2022-10-02】[prafullpandey614 / HactoberFest-2022](https://github.com/prafullpandey614/HactoberFest-2022) - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge. Hacktoberfest is a …
@@ -1916,6 +1972,9 @@
 
 ## Css
 
+* 【2022-10-03】[KiranAminPanjwani / LeatherHoard](https://github.com/KiranAminPanjwani/LeatherHoard) - A basic template for e-commerce website, designed with HTML, CSS and Bootstrap.
+* 【2022-10-03】[dailydotdev / docs](https://github.com/dailydotdev/docs) - The official product docs of daily.dev
+* 【2022-10-03】[526avijitgupta / gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 * 【2022-10-02】[eduardojesus12 / live-coding-2](https://github.com/eduardojesus12/live-coding-2) - Prueba técnica Live coding 2
 * 【2022-10-02】[EmulatorOS / EmulatorOS.github.io](https://github.com/EmulatorOS/EmulatorOS.github.io) - 
 * 【2022-10-02】[faaiz-space / hut-calci](https://github.com/faaiz-space/hut-calci) - This project is for implementing different animations with which users can interact, It has a Calculator which has some cool features but needing more for others to get benifits.
@@ -2057,6 +2116,16 @@
 
 ## Unknown
 
+* 【2022-10-03】[stephrobert / awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
+* 【2022-10-03】[OtacilioN / awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+* 【2022-10-03】[GuyTevet / motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
+* 【2022-10-03】[lucidrains / phenaki-pytorch](https://github.com/lucidrains/phenaki-pytorch) - Implementation of Phenaki Video, which uses Mask GIT to produce videos of up to 2 minutes in length, in Pytorch
+* 【2022-10-03】[panacloud-modern-global-apps / typescript-node-projects](https://github.com/panacloud-modern-global-apps/typescript-node-projects) - Programming Projects to Learn TypeScript and Node.js
+* 【2022-10-03】[codebasics / roadmaps](https://github.com/codebasics/roadmaps) - This repo is to add pages on various career paths and roadmaps such as data scientist, software engineer etc.
+* 【2022-10-03】[gpakosz / .tmux](https://github.com/gpakosz/.tmux) - 🇫🇷Oh my tmux! My self-contained, pretty & versatile tmux configuration made with❤️
+* 【2022-10-03】[InternetForIran / InternetForIran](https://github.com/InternetForIran/InternetForIran) - Helping Iranian people stay connected to the Internet
+* 【2022-10-03】[hzpt-inet-club / english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
+* 【2022-10-03】[Nekomoekissaten-SUB / Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 * 【2022-10-02】[aquasecurity / cloud-security-remediation-guides](https://github.com/aquasecurity/cloud-security-remediation-guides) - Security Remediation Guides
 * 【2022-10-02】[EddieHubCommunity / hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice) - Repo for you to raise a Pull Request for practice
 * 【2022-10-02】[hzh0425 / hzh0425](https://github.com/hzh0425/hzh0425) - 个人简历
