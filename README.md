@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2022-10-05】[SigNoz / signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc.🔥🖥.👉Open source Application Performance Monitoring (APM) & Observability tool
+* 【2022-10-05】[soxoj / maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️Collect a dossier on a person by username from thousands of sites
+* 【2022-10-05】[FernandaCader / recursos-datos](https://github.com/FernandaCader/recursos-datos) - Recopilación de recursos de ciencias de datos por parte de la comunidad Datos Para Todos
+* 【2022-10-05】[bufbuild / protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - protoc plugin to generate polyglot message validators
+* 【2022-10-05】[palera1n / palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-15.3.1 tethered checkm8 "jailbreak" (rootless is 15.0-15.7 semi-tethered, no tweaks)
+* 【2022-10-05】[nvm-sh / nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+* 【2022-10-05】[kirin10000 / Xray-script](https://github.com/kirin10000/Xray-script) - Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本
+* 【2022-10-05】[u1f383 / fuzzing-learning-in-30-days](https://github.com/u1f383/fuzzing-learning-in-30-days) - 
+* 【2022-10-05】[Notsfsssf / pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+* 【2022-10-05】[niuhuan / pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 * 【2022-10-04】[midudev / password-generator](https://github.com/midudev/password-generator) - Best password generator agnostic to framework
 * 【2022-10-04】[Aashu-Dubey / React-Native-UI-Templates](https://github.com/Aashu-Dubey/React-Native-UI-Templates) - UI kits built in React-Native & TypeScript.
 * 【2022-10-04】[mikeroyal / Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide) - Steam Deck Guide
@@ -281,6 +291,18 @@
 
 ## Java
 
+* 【2022-10-05】[questdb / questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+* 【2022-10-05】[dropwizard / dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
+* 【2022-10-05】[isl-org / MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
+* 【2022-10-05】[rubenlagus / TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java library to create bots using Telegram Bots API
+* 【2022-10-05】[hneemann / Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
+* 【2022-10-05】[TNG / ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
+* 【2022-10-05】[Zohaib-Sathio / Hacktoberfest_22](https://github.com/Zohaib-Sathio/Hacktoberfest_22) - This repository is dedicated to serve developers who are new to open-source contributions and want to contribute some value in Hacktoberfest 2022. Give a star to repo if you find it useful!
+* 【2022-10-05】[hazelcast / hazelcast](https://github.com/hazelcast/hazelcast) - Open-source distributed computation and storage platform
+* 【2022-10-05】[TEAMMATES / teammates](https://github.com/TEAMMATES/teammates) - This is the project website for the TEAMMATES feedback management tool for education
+* 【2022-10-05】[SoumyadeepMukherjee / Advanced-DSA](https://github.com/SoumyadeepMukherjee/Advanced-DSA) - This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
+* 【2022-10-05】[forezp / SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) - 《史上最简单的Spring Cloud教程源码》
+* 【2022-10-05】[ByteLegend / ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
 * 【2022-10-04】[tarunsinghofficial / HacktoberFest](https://github.com/tarunsinghofficial/HacktoberFest) - Add your Programs or tech content to help other contributors✅
 * 【2022-10-04】[apache / maven](https://github.com/apache/maven) - Apache Maven core
 * 【2022-10-04】[lukeaschenbrenner / TxtNet-Browser](https://github.com/lukeaschenbrenner/TxtNet-Browser) - An app that allows you to view web pages over SMS
@@ -460,6 +482,17 @@
 
 ## Python
 
+* 【2022-10-05】[PyCQA / bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+* 【2022-10-05】[joschuck / matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
+* 【2022-10-05】[SHI-Labs / Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - [Preprint] Neighborhood Attention Transformer, 2022
+* 【2022-10-05】[sj5027052 / Hactoberfest2022](https://github.com/sj5027052/Hactoberfest2022) - Contribute on this repository with valid pull request to Hacktoberfest 2022 and earn amazing swags!
+* 【2022-10-05】[fei-protocol / checkthechain](https://github.com/fei-protocol/checkthechain) - ctc is a tool for collecting and analyzing historical data of Ethereum and other EVM chains
+* 【2022-10-05】[codePerfectPlus / awesomeScripts](https://github.com/codePerfectPlus/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a⭐
+* 【2022-10-05】[z-yuxie / AirtestScriptsForArknights](https://github.com/z-yuxie/AirtestScriptsForArknights) - 使用网易AirtestIDE编写的明日方舟相关自动化脚本
+* 【2022-10-05】[mtianyan / django-react-tyadmin](https://github.com/mtianyan/django-react-tyadmin) - 支持Python3.9,Django4! 类似 xadmin 的基于Model 快速生成前后台管理增删改查，筛选，搜索的后台管理自动化工具。Antd 界面好看现代化！前后端分离！无损二次开发！由Django Restful Framework 和 Ant Design Pro V4 驱动
+* 【2022-10-05】[ddgth / cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式
+* 【2022-10-05】[LihaoLikeOrangeJuice / clock-in-gzhu](https://github.com/LihaoLikeOrangeJuice/clock-in-gzhu) - 使用Github Actions实现广州大学GZHU自动健康打卡
+* 【2022-10-05】[shidenggui / easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
 * 【2022-10-04】[online-ml / river](https://github.com/online-ml/river) - 🌊Online machine learning in Python
 * 【2022-10-04】[ShrootBuck / Undiscord](https://github.com/ShrootBuck/Undiscord) - A tool to delete all of your Discord messages in one go.
 * 【2022-10-04】[tinkoff-ai / CORL](https://github.com/tinkoff-ai/CORL) - High-quality single-file implementations of SOTA Offline RL algorithms: AWAC, BC, CQL, DT, EDAC, IQL, SAC-N, TD3+BC
@@ -769,6 +802,17 @@
 
 ## Javascript
 
+* 【2022-10-05】[wingkwong / leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
+* 【2022-10-05】[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+* 【2022-10-05】[typescript-cheatsheets / react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+* 【2022-10-05】[vulxdev / Vulx](https://github.com/vulxdev/Vulx) - Vulx - A Valorant profile editor that allows for server-sided, in game customisation.
+* 【2022-10-05】[WTFAcademy / WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers) - 我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。
+* 【2022-10-05】[lchzh3473 / sim-phi](https://github.com/lchzh3473/sim-phi) - Simulation of Phigros display with js/canvas
+* 【2022-10-05】[ledccn / IYUUPlus](https://github.com/ledccn/IYUUPlus) - IYUUAutoReseed项目的升级版，常驻内存运行；集成WEBUI控制界面、辅种、下载、定时访问URL、动态域名DDNS等常用功能，提供完善的插件机制。
+* 【2022-10-05】[xfgryujk / blivechat](https://github.com/xfgryujk/blivechat) - 用于OBS的仿YouTube风格的bilibili直播评论栏
+* 【2022-10-05】[liu673cn / drpy](https://github.com/liu673cn/drpy) - 欢迎使用DR-PY首页界面　　　　　　　当前版本: 3.7.14　　　　　　　　　　　框架开发：道长　　　　　　　　　　　框架美化：蓝莓　　　　　　　　　　　可以简单的自定义爬虫实现cms数据接口
+* 【2022-10-05】[lazy-luo / smarGate](https://github.com/lazy-luo/smarGate) - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
+* 【2022-10-05】[CreditTone / hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 * 【2022-10-04】[leeoniya / uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 * 【2022-10-04】[maheshjainckd / Hacktoberfest2022-for-everyone](https://github.com/maheshjainckd/Hacktoberfest2022-for-everyone) - This repository is for everyone who wants to participate in Hacktoberfest 2022. Anyone can contribute/add quality code or projects for your Swags (T- Shirt), must be relevant that can add some value to this repository.
 * 【2022-10-04】[horizon-ui / horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
@@ -998,6 +1042,13 @@
 
 ## Go
 
+* 【2022-10-05】[external-secrets / external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+* 【2022-10-05】[go-ozzo / ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+* 【2022-10-05】[projectdiscovery / asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information.
+* 【2022-10-05】[orzogc / fake115uploader](https://github.com/orzogc/fake115uploader) - 模拟115网盘客户端的上传功能
+* 【2022-10-05】[Ggasdfg321 / shiro_check](https://github.com/Ggasdfg321/shiro_check) - 批量对存在Shiro框架的目标爆破Key
+* 【2022-10-05】[nicoxiang / geektime-downloader](https://github.com/nicoxiang/geektime-downloader) - 极客时间课程下载器，支持下载极客时间专栏(PDF/Markdown)和视频课，及训练营视频
+* 【2022-10-05】[vineychow / gochatting-cn](https://github.com/vineychow/gochatting-cn) - go语言实现的开源聊天室，这里我提供汉化版本供国内的go爱好者下载。
 * 【2022-10-04】[VNCERT-CC / 0dayex-checker](https://github.com/VNCERT-CC/0dayex-checker) - Zeroday Microsoft Exchange Server checker (Virtual Patching checker)
 * 【2022-10-04】[mickael-kerjean / filestash](https://github.com/mickael-kerjean/filestash) - 🦄A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 * 【2022-10-04】[cdle / sillyGirl](https://github.com/cdle/sillyGirl) - 傻妞机器人
@@ -1254,6 +1305,13 @@
 
 ## C
 
+* 【2022-10-05】[CamHenlin / FocusedEdit](https://github.com/CamHenlin/FocusedEdit) - Classic Macintosh (System 2.0 through 9.2.2) text editor with shared live editing on a modern computer, via serial port
+* 【2022-10-05】[AdarshAddee / Hacktoberfest-2022-For-All](https://github.com/AdarshAddee/Hacktoberfest-2022-For-All) - Hacktoberfest2022🥳- Contribute given programs in every language😎you want, every PR will be accepted😍!!!
+* 【2022-10-05】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
+* 【2022-10-05】[Perfare / Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) - Using Zygisk to dump il2cpp data at runtime
+* 【2022-10-05】[pimoroni / pimoroni-pico](https://github.com/pimoroni/pimoroni-pico) - Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.
+* 【2022-10-05】[aoxueos / OpenWrtBuild_Occupied](https://github.com/aoxueos/OpenWrtBuild_Occupied) - 一个自用的Openwrt在线编译项目，包括机型AX6，R2S（R68S）和X86
+* 【2022-10-05】[yangjie10930 / EpMedia](https://github.com/yangjie10930/EpMedia) - Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，变速，添加LOGO，添加滤镜，添加背景音乐，加速减速视频，倒放音视频。 The video processing framework based on FFmpeg developed on Android is simple, easy to use, and small in size, helping users quickly realize video processing functions. Contains the following functions: editing, cropping, rotating, mir…
 * 【2022-10-04】[microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 * 【2022-10-04】[matsumotory / ngx_mruby](https://github.com/matsumotory/ngx_mruby) - ngx_mruby - A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language mruby for nginx
 * 【2022-10-04】[TencentCloud / tencentcloud-iot-explorer-sdk-embedded-c](https://github.com/TencentCloud/tencentcloud-iot-explorer-sdk-embedded-c) - SDK for embedded system connect and comunicate with Tencent Cloud IoT Explorer Platform
@@ -1450,6 +1508,16 @@
 
 ## C++
 
+* 【2022-10-05】[codemistic / Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms) - A repository to help the open-source community with DSA related contributions
+* 【2022-10-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
+* 【2022-10-05】[shivaylamba / Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest) - Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add any program under any language (it can be anything from a hello-world program to a complex data structure algorithm) or update the existing one. Just make sure you add the program under the correct language directory. Happy coding
+* 【2022-10-05】[djhaled / Uiana-MapImporter](https://github.com/djhaled/Uiana-MapImporter) - 
+* 【2022-10-05】[tbnobody / OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles Inverters
+* 【2022-10-05】[tanyagupta0201 / LeetCode-Problems-Solutions](https://github.com/tanyagupta0201/LeetCode-Problems-Solutions) - 
+* 【2022-10-05】[imhardikdesai / DSA-Algorithms](https://github.com/imhardikdesai/DSA-Algorithms) - Add your Programs related to Algorithms✅
+* 【2022-10-05】[TARANG0503 / DSA-Practice](https://github.com/TARANG0503/DSA-Practice) - Open to hacktoberfest 2022
+* 【2022-10-05】[ros-planning / moveit2](https://github.com/ros-planning/moveit2) - 🤖MoveIt for ROS 2
+* 【2022-10-05】[JamesHockenberry / VALORANT-CHEAT-HACK-AIMBOT-ESP-SKINCHANGER](https://github.com/JamesHockenberry/VALORANT-CHEAT-HACK-AIMBOT-ESP-SKINCHANGER) - VALORANT Cheat Hack Aimbot, ESP, SKINCHANGER
 * 【2022-10-04】[fineanmol / hacktoberfest](https://github.com/fineanmol/hacktoberfest) - Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a⭐️
 * 【2022-10-04】[1dharode / Hacktoberfest2022](https://github.com/1dharode/Hacktoberfest2022) - Send your valuable codes here
 * 【2022-10-04】[epasveer / seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
@@ -1633,6 +1701,7 @@
 
 ## C#
 
+* 【2022-10-05】[MicrosoftLearning / AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) - AZ-204: Developing solutions for Microsoft Azure
 * 【2022-10-04】[crosire / scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
 * 【2022-10-04】[SteamRE / DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
 * 【2022-10-03】[StressLevelZero / MarrowSDK](https://github.com/StressLevelZero/MarrowSDK) - 
@@ -1820,6 +1889,14 @@
 
 ## Html
 
+* 【2022-10-05】[desandro / masonry](https://github.com/desandro/masonry) - 🏩Cascading grid layout plugin
+* 【2022-10-05】[GDSC-SGGSCC / Hacktoberfest-22](https://github.com/GDSC-SGGSCC/Hacktoberfest-22) - Kickstart your Hacktoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' or any other program under any language. Happy Hacking!!
+* 【2022-10-05】[jimmy-byte / -HactoberFest2022-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2022-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
+* 【2022-10-05】[kishanrajput23 / Web-Development-Projects](https://github.com/kishanrajput23/Web-Development-Projects) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2022.
+* 【2022-10-05】[do-community / cloud_haiku](https://github.com/do-community/cloud_haiku) - Community-made poetry about infrastructure
+* 【2022-10-05】[avinash201199 / weather-app](https://github.com/avinash201199/weather-app) - Weather app with JavaScript and api
+* 【2022-10-05】[jimting / AREEAnswer](https://github.com/jimting/AREEAnswer) - AREEAnswer - 學術倫理解答王
+* 【2022-10-05】[Shao-Kui / D3.js-Demos](https://github.com/Shao-Kui/D3.js-Demos) - 
 * 【2022-10-04】[datarhei / restreamer](https://github.com/datarhei/restreamer) - The Restreamer is a complete streaming server solution for self-hosting. It has a visually appealing user interface and no ongoing license costs. Upload your live stream to YouTube, Twitch, Facebook, Vimeo, or other streaming solutions like Wowza. Receive video data from OBS and publish it with the RTMP and SRT server.
 * 【2022-10-04】[dsasaank-369 / Pokemon](https://github.com/dsasaank-369/Pokemon) - Hacktoberfest 2022
 * 【2022-10-04】[shahednasser / awesome-resources](https://github.com/shahednasser/awesome-resources) - 😎List of helpful resources added by the community for the community!
@@ -2025,6 +2102,11 @@
 
 ## Css
 
+* 【2022-10-05】[minhaj-313 / Portfolio-1](https://github.com/minhaj-313/Portfolio-1) - https://minhaj-313.github.io/Portfolio-1/
+* 【2022-10-05】[smokeme / airstrike](https://github.com/smokeme/airstrike) - 
+* 【2022-10-05】[Rick-mad-lab / Todolist](https://github.com/Rick-mad-lab/Todolist) - 
+* 【2022-10-05】[avinash201199 / To-Do-List](https://github.com/avinash201199/To-Do-List) - To-Do-List javascript project
+* 【2022-10-05】[Anudeep-313 / mini-project](https://github.com/Anudeep-313/mini-project) - Website to showcase the Metabase(BI) analysis generated by creating a data pipeline using AWS Glue.
 * 【2022-10-04】[durgesh2001 / Hacktoberfest_2022](https://github.com/durgesh2001/Hacktoberfest_2022) - This repository is encourage people to contribute to open source throughout october.
 * 【2022-10-04】[vueschool / vue-masterclass](https://github.com/vueschool/vue-masterclass) - 🗂Source code for The Vue 3 Masterclass
 * 【2022-10-04】[zero-to-mastery / webblocks-2022](https://github.com/zero-to-mastery/webblocks-2022) - There is a big hype about front-end frameworks all over the place. But in this project we are going to build a showcase library of components using vanilla HTML, CSS and maybe some Javascript.
@@ -2175,6 +2257,21 @@
 
 ## Unknown
 
+* 【2022-10-05】[PRBonn / kiss-icp](https://github.com/PRBonn/kiss-icp) - KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://arxiv.org/pdf/2209.15397.pdf
+* 【2022-10-05】[trickest / wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
+* 【2022-10-05】[imran-parray / Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
+* 【2022-10-05】[cpressey / Facts-about-State-Machines](https://github.com/cpressey/Facts-about-State-Machines) - I hold the opinion that state machines are underrated
+* 【2022-10-05】[codemistic / HacktoberFest](https://github.com/codemistic/HacktoberFest) - An exclusive repository to make your first contribution to Open Source and HactoberFest 2022.
+* 【2022-10-05】[slowmist / Knowledge-Base](https://github.com/slowmist/Knowledge-Base) - Knowledge Base 慢雾安全团队知识库
+* 【2022-10-05】[ninechapter-algorithm / leetcode-linghu-templete](https://github.com/ninechapter-algorithm/leetcode-linghu-templete) - 算法面试必备，推荐刷题网站www.lintcode.com。北大学霸的《LeetCode刷题模板》+V领取: jiuzhangfeifei
+* 【2022-10-05】[doimet / AuxTools](https://github.com/doimet/AuxTools) - 图形化红队渗透辅助工具
+* 【2022-10-05】[mijue33 / yxdf64](https://github.com/mijue33/yxdf64) - 土原怎么读音是什么_土原怎么读音是什么免费观看
+* 【2022-10-05】[ee787 / sbgu095](https://github.com/ee787/sbgu095) - 公交之狼舒婷免费阅读_公交之狼舒婷免费阅读哪里能看？
+* 【2022-10-05】[ee787 / vopxh43](https://github.com/ee787/vopxh43) - 冠希08珍藏版pdf百度云_冠希08珍藏版pdf百度云-在线观看完整版
+* 【2022-10-05】[thutetbaf / nxlh99](https://github.com/thutetbaf/nxlh99) - 欧美人动物ppt免费的_欧美人动物ppt免费的完整版免费播放
+* 【2022-10-05】[mijue33 / whejg304](https://github.com/mijue33/whejg304) - ipx620中文字幕相泽南_ipx620中文字幕相泽南-免费完整版片
+* 【2022-10-05】[lkjui3 / leoew86](https://github.com/lkjui3/leoew86) - 巴黎蓬皮杜艺术中心nike_巴黎蓬皮杜艺术中心nike哪里能看？
+* 【2022-10-05】[cailuolitv / -](https://github.com/cailuolitv/-) - 
 * 【2022-10-04】[codedamn / projects](https://github.com/codedamn/projects) - A collection of high-quality projects to build as a developer
 * 【2022-10-04】[AUK9527 / Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 * 【2022-10-04】[soxoj / counter-osint-guide-ru](https://github.com/soxoj/counter-osint-guide-ru) - Исчерпывающее руководство по приватности и контр-ОСИНТ для Рунета и всего СНГ🇷🇺
