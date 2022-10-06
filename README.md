@@ -6,6 +6,30 @@
 
 ## All language
 
+* 【2022-10-06】[facebookincubator / AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
+* 【2022-10-06】[snaplet / postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
+* 【2022-10-06】[Cryptogenic / PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW
+* 【2022-10-06】[folke / noice.nvim](https://github.com/folke/noice.nvim) - 💥Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+* 【2022-10-06】[itsnebulalol / ios15-tweaks](https://github.com/itsnebulalol/ios15-tweaks) - List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15.
+* 【2022-10-06】[Expensify / App](https://github.com/Expensify/App) - Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.
+* 【2022-10-06】[asottile / pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+* 【2022-10-06】[apple / swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
+* 【2022-10-06】[he4rt / he4rtoberfest-2022](https://github.com/he4rt/he4rtoberfest-2022) - Repo oficial do He4rtoberfest da He4rt Developers 2022
+* 【2022-10-06】[surveyjs / survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
+* 【2022-10-06】[hashicorp / terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
+* 【2022-10-06】[Azure / MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft
+* 【2022-10-06】[swagger-api / swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+* 【2022-10-06】[AmazingAng / WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。
+* 【2022-10-06】[datageartech / datagear](https://github.com/datageartech/datagear) - 数据可视化分析平台，自由制作任何您想要的数据可视化看板
+* 【2022-10-06】[theighezpabm / lfomk173](https://github.com/theighezpabm/lfomk173) - 红杏最新地域网名在线看_红杏最新地域网名在线看-在线观看完整版
+* 【2022-10-06】[raythalktc / mzm94](https://github.com/raythalktc/mzm94) - sg111yz丝瓜下载安装_sg111yz丝瓜下载安装-高清完整版
+* 【2022-10-06】[sosmetbl / izdip542](https://github.com/sosmetbl/izdip542) - sg111xyz破解版_sg111xyz破解版哪里能看？
+* 【2022-10-06】[lo454d / xixx30](https://github.com/lo454d/xixx30) - www.wcgacc.com_www.wcgacc.com完整版免费播放
+* 【2022-10-06】[raythalktc / zwe35](https://github.com/raythalktc/zwe35) - 永久3e38cos_永久3e38cos哪里能看？
+* 【2022-10-06】[staynedxcoc / ntgh972](https://github.com/staynedxcoc/ntgh972) - 精产国品产视频在自线_精产国品产视频在自线无跳转入口
+* 【2022-10-06】[soughkbywl / wiur180](https://github.com/soughkbywl/wiur180) - 综合亚洲yy亚洲日..._综合亚洲yy亚洲日...免费观看
+* 【2022-10-06】[lo454d / faepe591](https://github.com/lo454d/faepe591) - 色谱网18未满十八sede_色谱网18未满十八sede-免费完整版片
+* 【2022-10-06】[lo454d / sasjj00](https://github.com/lo454d/sasjj00) - 8x8x8x8人成免费伊甸区_8x8x8x8人成免费伊甸区-高清完整版
 * 【2022-10-05】[SigNoz / signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc.🔥🖥.👉Open source Application Performance Monitoring (APM) & Observability tool
 * 【2022-10-05】[soxoj / maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️Collect a dossier on a person by username from thousands of sites
 * 【2022-10-05】[FernandaCader / recursos-datos](https://github.com/FernandaCader/recursos-datos) - Recopilación de recursos de ciencias de datos por parte de la comunidad Datos Para Todos
@@ -291,6 +315,20 @@
 
 ## Java
 
+* 【2022-10-06】[confluentinc / kafka-connect-jdbc](https://github.com/confluentinc/kafka-connect-jdbc) - Kafka Connect connector for JDBC-compatible databases
+* 【2022-10-06】[keycloak / keycloak-quickstarts](https://github.com/keycloak/keycloak-quickstarts) - 
+* 【2022-10-06】[aws-amplify / amplify-android](https://github.com/aws-amplify/amplify-android) - The fastest and easiest way to use AWS from your Android app.
+* 【2022-10-06】[eclipse-tycho / tycho](https://github.com/eclipse-tycho/tycho) - Tycho project repository (tycho)
+* 【2022-10-06】[hapifhir / hapi-fhir](https://github.com/hapifhir/hapi-fhir) - 🔥HAPI FHIR - Java API for HL7 FHIR Clients and Servers
+* 【2022-10-06】[confluentinc / kafka-connect-hdfs](https://github.com/confluentinc/kafka-connect-hdfs) - Kafka Connect HDFS connector
+* 【2022-10-06】[openid / AppAuth-Android](https://github.com/openid/AppAuth-Android) - Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+* 【2022-10-06】[ikarus23 / MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
+* 【2022-10-06】[FasterXML / jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
+* 【2022-10-06】[corretto / corretto-8](https://github.com/corretto/corretto-8) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+* 【2022-10-06】[pulumi / pulumi-aws](https://github.com/pulumi/pulumi-aws) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+* 【2022-10-06】[hustcc / JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+* 【2022-10-06】[SplashCodes / JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
+* 【2022-10-06】[SDU-Android-Lab / eQuestionnaire-server](https://github.com/SDU-Android-Lab/eQuestionnaire-server) - 电子调查问卷服务器
 * 【2022-10-05】[questdb / questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
 * 【2022-10-05】[dropwizard / dropwizard](https://github.com/dropwizard/dropwizard) - A damn simple library for building production-ready RESTful web services.
 * 【2022-10-05】[isl-org / MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
@@ -482,6 +520,23 @@
 
 ## Python
 
+* 【2022-10-06】[rafaelvleite / centipawn_loss_calculator](https://github.com/rafaelvleite/centipawn_loss_calculator) - 
+* 【2022-10-06】[casualsnek / onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
+* 【2022-10-06】[prometheus / client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
+* 【2022-10-06】[HobbitLong / SupContrast](https://github.com/HobbitLong/SupContrast) - PyTorch implementation of "Supervised Contrastive Learning" (and SimCLR incidentally)
+* 【2022-10-06】[jazzband / pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+* 【2022-10-06】[microsoft / WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+* 【2022-10-06】[ethereum / web3.py](https://github.com/ethereum/web3.py) - A python interface for interacting with the Ethereum blockchain and ecosystem.
+* 【2022-10-06】[LibrePhotos / librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
+* 【2022-10-06】[leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
+* 【2022-10-06】[EugeneLiu / translationCSAPP](https://github.com/EugeneLiu/translationCSAPP) - 为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。
+* 【2022-10-06】[fugary / calibre-douban](https://github.com/fugary/calibre-douban) - Calibre new douban metadata source plugin. Douban no longer provides book APIs to the public, so it can only use web crawling to obtain data. This is a calibre Douban plugin based on web crawling.
+* 【2022-10-06】[Lucifer1993 / TPscan](https://github.com/Lucifer1993/TPscan) - 一键ThinkPHP漏洞检测
+* 【2022-10-06】[IDEA-CCNL / Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文认知智能的基础设施。
+* 【2022-10-06】[GeneralNewsExtractor / GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
+* 【2022-10-06】[bubbliiiing / faster-rcnn-pytorch](https://github.com/bubbliiiing/faster-rcnn-pytorch) - 这是一个faster-rcnn的pytorch实现的库，可以利用voc数据集格式的数据进行训练。
+* 【2022-10-06】[makelove / OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial) - OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。
+* 【2022-10-06】[kagurazakayashi / nikki3words](https://github.com/kagurazakayashi/nikki3words) - 👗从第三方奇迹暖暖资料库中获得所有服装名称列表，可自定义输入输出和分隔符。可以用来创建各种输入法的细胞词库，方便在游戏中输入服装名称。数据源：http://seal100x.github.io/nikkiup2u3/
 * 【2022-10-05】[PyCQA / bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 * 【2022-10-05】[joschuck / matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 * 【2022-10-05】[SHI-Labs / Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer) - [Preprint] Neighborhood Attention Transformer, 2022
@@ -802,6 +857,19 @@
 
 ## Javascript
 
+* 【2022-10-06】[cpojer / vite-ts-react-tailwind-template](https://github.com/cpojer/vite-ts-react-tailwind-template) - Minimal, sensible defaults, fast.
+* 【2022-10-06】[thunlp / WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
+* 【2022-10-06】[dropzone / dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+* 【2022-10-06】[mercurius-js / mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
+* 【2022-10-06】[aFarkas / html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
+* 【2022-10-06】[trailheadapps / lwc-recipes](https://github.com/trailheadapps/lwc-recipes) - A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform
+* 【2022-10-06】[rstudio / bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
+* 【2022-10-06】[zhongshaofa / layuimini](https://github.com/zhongshaofa/layuimini) - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
+* 【2022-10-06】[zhang-wangz / LeetCodeRating](https://github.com/zhang-wangz/LeetCodeRating) - 一款显示题目对应周赛难度分的浏览器插件| TamperMonkey | Chrome | FireFox
+* 【2022-10-06】[SurviveSJTU / SJTU-Application](https://github.com/SurviveSJTU/SJTU-Application) - https://survivesjtu.github.io/SJTU-Application/#/
+* 【2022-10-06】[TributePaulWalker / Profiles](https://github.com/TributePaulWalker/Profiles) - 搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!
+* 【2022-10-06】[hobbyfang / javOldDriver](https://github.com/hobbyfang/javOldDriver) - jav老司机
+* 【2022-10-06】[kkHAIKE / fake115](https://github.com/kkHAIKE/fake115) - 伪装115浏览器
 * 【2022-10-05】[wingkwong / leetcode-the-hard-way](https://github.com/wingkwong/leetcode-the-hard-way) - LeetCode The Hard Way - From Absolute Beginner to Quitter. Join Discord: https://discord.com/invite/Nqm4jJcyBf
 * 【2022-10-05】[gildas-lormeau / SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
 * 【2022-10-05】[typescript-cheatsheets / react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -1042,6 +1110,17 @@
 
 ## Go
 
+* 【2022-10-06】[hashicorp / terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Terraform Kubernetes provider
+* 【2022-10-06】[pion / opus](https://github.com/pion/opus) - Pure Go implementation of Opus
+* 【2022-10-06】[volatiletech / sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
+* 【2022-10-06】[hashicorp / go-multierror](https://github.com/hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
+* 【2022-10-06】[hashicorp / consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.
+* 【2022-10-06】[awslabs / amazon-ecr-credential-helper](https://github.com/awslabs/amazon-ecr-credential-helper) - Automatically gets credentials for Amazon ECR on docker push/docker pull
+* 【2022-10-06】[rs / xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
+* 【2022-10-06】[hashicorp / vault-k8s](https://github.com/hashicorp/vault-k8s) - First-class support for Vault and Kubernetes.
+* 【2022-10-06】[satori / go.uuid](https://github.com/satori/go.uuid) - UUID package for Go
+* 【2022-10-06】[haifenghuang / magpie-language-design](https://github.com/haifenghuang/magpie-language-design) - 语言设计教程（献给想学语言设计的朋友）
+* 【2022-10-06】[foamzou / media-get](https://github.com/foamzou/media-get) - Get the media through the url
 * 【2022-10-05】[external-secrets / external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 * 【2022-10-05】[go-ozzo / ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
 * 【2022-10-05】[projectdiscovery / asnmap](https://github.com/projectdiscovery/asnmap) - Go CLI and Library for quickly mapping organization network ranges using ASN information.
@@ -1305,6 +1384,11 @@
 
 ## C
 
+* 【2022-10-06】[rsyslog / rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
+* 【2022-10-06】[sparklemotion / nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
+* 【2022-10-06】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+* 【2022-10-06】[alelievr / libft-unit-test](https://github.com/alelievr/libft-unit-test) - 
+* 【2022-10-06】[enjoy-digital / litex](https://github.com/enjoy-digital/litex) - Build your hardware, easily!
 * 【2022-10-05】[CamHenlin / FocusedEdit](https://github.com/CamHenlin/FocusedEdit) - Classic Macintosh (System 2.0 through 9.2.2) text editor with shared live editing on a modern computer, via serial port
 * 【2022-10-05】[AdarshAddee / Hacktoberfest-2022-For-All](https://github.com/AdarshAddee/Hacktoberfest-2022-For-All) - Hacktoberfest2022🥳- Contribute given programs in every language😎you want, every PR will be accepted😍!!!
 * 【2022-10-05】[EdgeTX / edgetx](https://github.com/EdgeTX/edgetx) - EdgeTX is the cutting edge open source firmware for your R/C radio
@@ -1508,6 +1592,20 @@
 
 ## C++
 
+* 【2022-10-06】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+* 【2022-10-06】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
+* 【2022-10-06】[meshtastic / Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
+* 【2022-10-06】[jtv / libpqxx](https://github.com/jtv/libpqxx) - The official C++ client API for PostgreSQL.
+* 【2022-10-06】[ouster-lidar / ouster_example](https://github.com/ouster-lidar/ouster_example) - Ouster, Inc. sample code
+* 【2022-10-06】[autowarefoundation / autoware.universe](https://github.com/autowarefoundation/autoware.universe) - 
+* 【2022-10-06】[aws / aws-iot-device-sdk-cpp-v2](https://github.com/aws/aws-iot-device-sdk-cpp-v2) - Next generation AWS IoT Client SDK for C++ using the AWS Common Runtime
+* 【2022-10-06】[awslabs / amazon-kinesis-video-streams-producer-sdk-cpp](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp) - Amazon Kinesis Video Streams Producer SDK for C++ is for developers to install and customize for their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams.
+* 【2022-10-06】[CGAL / cgal](https://github.com/CGAL/cgal) - The public CGAL repository, see the README below
+* 【2022-10-06】[commaai / opendbc](https://github.com/commaai/opendbc) - democratize access to car decoder rings
+* 【2022-10-06】[zeromq / cppzmq](https://github.com/zeromq/cppzmq) - Header-only C++ binding for libzmq
+* 【2022-10-06】[symless / synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+* 【2022-10-06】[pytorch / xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
+* 【2022-10-06】[youngyangyang04 / Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) - A tiny KV storage based on skiplist written in C++ language| 使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥🚀
 * 【2022-10-05】[codemistic / Data-Structures-and-Algorithms](https://github.com/codemistic/Data-Structures-and-Algorithms) - A repository to help the open-source community with DSA related contributions
 * 【2022-10-05】[klzgrad / naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 * 【2022-10-05】[shivaylamba / Hacktoberfest](https://github.com/shivaylamba/Hacktoberfest) - Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add any program under any language (it can be anything from a hello-world program to a complex data structure algorithm) or update the existing one. Just make sure you add the program under the correct language directory. Happy coding
@@ -1701,6 +1799,10 @@
 
 ## C#
 
+* 【2022-10-06】[openiddict / openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OpenID Connect stack for ASP.NET Core and Microsoft.Owin (compatible with ASP.NET 4.6.1)
+* 【2022-10-06】[Azure-Samples / active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
+* 【2022-10-06】[BornToBeRoot / NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+* 【2022-10-06】[khellang / Scrutor](https://github.com/khellang/Scrutor) - Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection
 * 【2022-10-05】[MicrosoftLearning / AZ-204-DevelopingSolutionsforMicrosoftAzure](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure) - AZ-204: Developing solutions for Microsoft Azure
 * 【2022-10-04】[crosire / scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
 * 【2022-10-04】[SteamRE / DepotDownloader](https://github.com/SteamRE/DepotDownloader) - Steam depot downloader utilizing the SteamKit2 library.
@@ -1889,6 +1991,11 @@
 
 ## Html
 
+* 【2022-10-06】[swapagarwal / geeksay](https://github.com/swapagarwal/geeksay) - 🤓geeks will ctrl+s the world!
+* 【2022-10-06】[seyhunak / twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 6.0, Rails 5 - Rails 4.x Asset Pipeline
+* 【2022-10-06】[Minesraft2 / Blooket-Cheats](https://github.com/Minesraft2/Blooket-Cheats) - 
+* 【2022-10-06】[netology-code / html-2-homeworks](https://github.com/netology-code/html-2-homeworks) - 
+* 【2022-10-06】[nestcn / docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn) - nestjs 中文文档
 * 【2022-10-05】[desandro / masonry](https://github.com/desandro/masonry) - 🏩Cascading grid layout plugin
 * 【2022-10-05】[GDSC-SGGSCC / Hacktoberfest-22](https://github.com/GDSC-SGGSCC/Hacktoberfest-22) - Kickstart your Hacktoberfest and Make your first PR! ~ A beginner friendly repository made specifically for open source beginners. Add a 'Hello World' or any other program under any language. Happy Hacking!!
 * 【2022-10-05】[jimmy-byte / -HactoberFest2022-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2022-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
@@ -2102,6 +2209,10 @@
 
 ## Css
 
+* 【2022-10-06】[bradtraversy / image-resizer-electron](https://github.com/bradtraversy/image-resizer-electron) - Electron app to change the dimensions of an image
+* 【2022-10-06】[cssnano / cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+* 【2022-10-06】[stefancho / water-theme](https://github.com/stefancho/water-theme) - a simple wordpress theme
+* 【2022-10-06】[hankchizljaw / modern-css-reset](https://github.com/hankchizljaw/modern-css-reset) - A bare-bones CSS reset for modern web development.
 * 【2022-10-05】[minhaj-313 / Portfolio-1](https://github.com/minhaj-313/Portfolio-1) - https://minhaj-313.github.io/Portfolio-1/
 * 【2022-10-05】[smokeme / airstrike](https://github.com/smokeme/airstrike) - 
 * 【2022-10-05】[Rick-mad-lab / Todolist](https://github.com/Rick-mad-lab/Todolist) - 
@@ -2257,6 +2368,25 @@
 
 ## Unknown
 
+* 【2022-10-06】[osmosis-labs / assetlists](https://github.com/osmosis-labs/assetlists) - 
+* 【2022-10-06】[bloominstituteoftechnology / web-code-along-user-data-management](https://github.com/bloominstituteoftechnology/web-code-along-user-data-management) - 
+* 【2022-10-06】[mathiasuy / Soluciones-Klenberg](https://github.com/mathiasuy/Soluciones-Klenberg) - Algorithm Design (Kleinberg Tardos 2005) - Solutions
+* 【2022-10-06】[SouJunior / porque-tech](https://github.com/SouJunior/porque-tech) - Me conte porque escolheu a área de Tech?
+* 【2022-10-06】[mitre / cti](https://github.com/mitre/cti) - Cyber Threat Intelligence Repository expressed in STIX 2.0
+* 【2022-10-06】[slowmist / Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+* 【2022-10-06】[liuchong / awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
+* 【2022-10-06】[dotnet / extensions](https://github.com/dotnet/extensions) - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
+* 【2022-10-06】[digitalblossom / alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐Privacy-respecting web frontends for popular services
+* 【2022-10-06】[raythalktc / ldes402](https://github.com/raythalktc/ldes402) - 国内真正的永久免费建站_国内真正的永久免费建站-在线观看完整版
+* 【2022-10-06】[ee787 / yaqtr544](https://github.com/ee787/yaqtr544) - 国产最好的a级suv夜色直播_国产最好的a级suv夜色直播-免费完整版片
+* 【2022-10-06】[lo454d / qkqzb105](https://github.com/lo454d/qkqzb105) - www.96yz25xyz_www.96yz25xyz免费在线完整版片
+* 【2022-10-06】[taseynmancmk / gcezw04](https://github.com/taseynmancmk/gcezw04) - 俄罗斯美女毛多水多肥妇_俄罗斯美女毛多水多肥妇-在线观看完整版
+* 【2022-10-06】[theighezpabm / eyu848](https://github.com/theighezpabm/eyu848) - yw1135 龙物视频入口_yw1135 龙物视频入口免费在线完整版片
+* 【2022-10-06】[ee787 / yadc370](https://github.com/ee787/yadc370) - 欧美ppt大全免费_欧美ppt大全免费-免费完整版片
+* 【2022-10-06】[hyu9w / pedf562](https://github.com/hyu9w/pedf562) - 中文字幕第二区第5页_中文字幕第二区第5页免费观看
+* 【2022-10-06】[ee787 / xdfjk30](https://github.com/ee787/xdfjk30) - 果冻传媒仙踪林视频在线观看老狼_果冻传媒仙踪林视频在线观看老狼无跳转入口
+* 【2022-10-06】[thyses5 / xibe38](https://github.com/thyses5/xibe38) - 小仙儿有声色说杏8电台_小仙儿有声色说杏8电台免费观看
+* 【2022-10-06】[mijue33 / ffv82](https://github.com/mijue33/ffv82) - 妈妈今晚就是你的生日礼物_妈妈今晚就是你的生日礼物免费在线完整版片
 * 【2022-10-05】[PRBonn / kiss-icp](https://github.com/PRBonn/kiss-icp) - KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://arxiv.org/pdf/2209.15397.pdf
 * 【2022-10-05】[trickest / wordlists](https://github.com/trickest/wordlists) - Real-world infosec wordlists, updated regularly
 * 【2022-10-05】[imran-parray / Mind-Maps](https://github.com/imran-parray/Mind-Maps) - Mind-Maps of Several Things
