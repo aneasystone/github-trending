@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-10-07】[libsql / libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+* 【2022-10-07】[net4people / bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
+* 【2022-10-07】[xcad2k / cheat-sheets](https://github.com/xcad2k/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+* 【2022-10-07】[shubhamgrg04 / awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
+* 【2022-10-07】[pola-rs / polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
+* 【2022-10-07】[sourcegraph / sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search (self-hosted)
+* 【2022-10-07】[QInzhengk / Math-Model-and-Machine-Learning](https://github.com/QInzhengk/Math-Model-and-Machine-Learning) - 数学建模和机器学习的笔记和资料（持续更新中......）。
+* 【2022-10-07】[Molunerfinn / PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+* 【2022-10-07】[ljpzzz / machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
 * 【2022-10-06】[facebookincubator / AITemplate](https://github.com/facebookincubator/AITemplate) - AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 * 【2022-10-06】[snaplet / postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
 * 【2022-10-06】[Cryptogenic / PS5-4.03-Kernel-Exploit](https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit) - An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW
@@ -315,6 +324,18 @@
 
 ## Java
 
+* 【2022-10-07】[pascal-lab / Tai-e-assignments](https://github.com/pascal-lab/Tai-e-assignments) - Tai-e assignments for static program analysis
+* 【2022-10-07】[abh80 / smart-edge](https://github.com/abh80/smart-edge) - Alternative to dynamic island for android (better than other similar projects)
+* 【2022-10-07】[oracle / graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere🚀
+* 【2022-10-07】[learning-zone / java-interview-questions](https://github.com/learning-zone/java-interview-questions) - Java Interview Questions ( v8 )
+* 【2022-10-07】[InvisiblePro / Hacktoberfest-2022](https://github.com/InvisiblePro/Hacktoberfest-2022) - This is the Repository for Hacktoberfest 2022, specially for contribution and get the pull request accepted!! All Languages are accepted!
+* 【2022-10-07】[google-developer-training / android-fundamentals-apps-v2](https://github.com/google-developer-training/android-fundamentals-apps-v2) - 
+* 【2022-10-07】[traccar / traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+* 【2022-10-07】[rnmapbox / maps](https://github.com/rnmapbox/maps) - A Mapbox react native module for creating custom maps
+* 【2022-10-07】[resilience4j / resilience4j](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming
+* 【2022-10-07】[White-hua / Apt_t00ls](https://github.com/White-hua/Apt_t00ls) - 高危漏洞利用工具
+* 【2022-10-07】[semicons / java_oci_manage](https://github.com/semicons/java_oci_manage) - R探长Bot(oracle云/azure云)
+* 【2022-10-07】[safe6Sec / ShiroExp](https://github.com/safe6Sec/ShiroExp) - shiro综合利用工具
 * 【2022-10-06】[confluentinc / kafka-connect-jdbc](https://github.com/confluentinc/kafka-connect-jdbc) - Kafka Connect connector for JDBC-compatible databases
 * 【2022-10-06】[keycloak / keycloak-quickstarts](https://github.com/keycloak/keycloak-quickstarts) - 
 * 【2022-10-06】[aws-amplify / amplify-android](https://github.com/aws-amplify/amplify-android) - The fastest and easiest way to use AWS from your Android app.
@@ -520,6 +541,17 @@
 
 ## Python
 
+* 【2022-10-07】[aws-samples / aws-cdk-examples](https://github.com/aws-samples/aws-cdk-examples) - Example projects using the AWS CDK
+* 【2022-10-07】[CarperAI / trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+* 【2022-10-07】[fox-it / dissect](https://github.com/fox-it/dissect) - This project is a meta package, it will install all other Dissect modules with the right combination of versions.
+* 【2022-10-07】[IBM-EPBL / IBM-Project-35221-1660282887](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887) - Smart Waste Management System For Metropolitan Cities
+* 【2022-10-07】[octallium / modern-python-101](https://github.com/octallium/modern-python-101) - Modern Python 101 - Thinking In Types
+* 【2022-10-07】[waditu / czsc](https://github.com/waditu/czsc) - 缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易
+* 【2022-10-07】[HIllya51 / LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译工具，支持OCR、HOOK，支持20+种翻译工具，支持TTS
+* 【2022-10-07】[justinzm / gopup](https://github.com/justinzm/gopup) - 数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…
+* 【2022-10-07】[MerickBao / LZU-COVID-AutoCheck](https://github.com/MerickBao/LZU-COVID-AutoCheck) - 兰州大学定时自动健康打卡
+* 【2022-10-07】[6dylan6 / auto_comment](https://github.com/6dylan6/auto_comment) - 自动评价
+* 【2022-10-07】[RimoChan / unvcode](https://github.com/RimoChan/unvcode) - 【幼女Code】反和谐超级武器！
 * 【2022-10-06】[rafaelvleite / centipawn_loss_calculator](https://github.com/rafaelvleite/centipawn_loss_calculator) - 
 * 【2022-10-06】[casualsnek / onthespot](https://github.com/casualsnek/onthespot) - qt based music downloader written in python
 * 【2022-10-06】[prometheus / client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
@@ -857,6 +889,13 @@
 
 ## Javascript
 
+* 【2022-10-07】[GoogleChrome / lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
+* 【2022-10-07】[codemistic / Web-Development](https://github.com/codemistic/Web-Development) - A repository to help the open-source community with cool projects
+* 【2022-10-07】[Clueless-Community / first-contribution](https://github.com/Clueless-Community/first-contribution) - A repo where you can make your first contribution and get a contributors card in our website.
+* 【2022-10-07】[rxzyx / Blooket-Hacks](https://github.com/rxzyx/Blooket-Hacks) - The absolute best Blooket hack there is.
+* 【2022-10-07】[immattdavison / NoMoreDomains](https://github.com/immattdavison/NoMoreDomains) - NoMoreDomains is a browser extension tool made to stop you from registering new domains. We're all guilty of registering domains we don't need so use this tool to help stop yourself!
+* 【2022-10-07】[docker / getting-started](https://github.com/docker/getting-started) - Getting started with Docker
+* 【2022-10-07】[hccluck / public_actions](https://github.com/hccluck/public_actions) - 掘金定时签到任务 自动发送邮件通知签到结果 邮件 签到 抽奖 沾喜气 自动签到 自动抽奖 自动沾喜气
 * 【2022-10-06】[cpojer / vite-ts-react-tailwind-template](https://github.com/cpojer/vite-ts-react-tailwind-template) - Minimal, sensible defaults, fast.
 * 【2022-10-06】[thunlp / WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 * 【2022-10-06】[dropzone / dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
@@ -1110,6 +1149,11 @@
 
 ## Go
 
+* 【2022-10-07】[gruntwork-io / terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+* 【2022-10-07】[distribution / distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+* 【2022-10-07】[containers / buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
+* 【2022-10-07】[TCP404 / OneTiny](https://github.com/TCP404/OneTiny) - OneTiny 是一个用于局域网内共享文件的FTP程序
+* 【2022-10-07】[Loyalsoldier / cn-blocked-domain](https://github.com/Loyalsoldier/cn-blocked-domain) - ⛔️🚫⚠️从 Greatfire Analyzer 爬取的在中国大陆被屏蔽的域名列表。Domains blocked in China mainland crawled from Greatfire Analyzer.
 * 【2022-10-06】[hashicorp / terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) - Terraform Kubernetes provider
 * 【2022-10-06】[pion / opus](https://github.com/pion/opus) - Pure Go implementation of Opus
 * 【2022-10-06】[volatiletech / sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
@@ -1384,6 +1428,16 @@
 
 ## C
 
+* 【2022-10-07】[twitter / pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter's unified cache backend
+* 【2022-10-07】[MrAnonymous09 / hacktoberfest-solutions-submissions](https://github.com/MrAnonymous09/hacktoberfest-solutions-submissions) - Get ready to submit your 1st contribution on open source. HACKTOBERFEST IS FOR EVERYONE.
+* 【2022-10-07】[nelhage / reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
+* 【2022-10-07】[pgbackrest / pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
+* 【2022-10-07】[asterisk / asterisk](https://github.com/asterisk/asterisk) - Mirror of the official Asterisk (https://www.asterisk.org) Project repository. No pull requests here please. Use Gerrit:
+* 【2022-10-07】[seL4 / seL4](https://github.com/seL4/seL4) - The seL4 microkernel
+* 【2022-10-07】[dokan-dev / dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
+* 【2022-10-07】[vedderb / bldc](https://github.com/vedderb/bldc) - The VESC motor control firmware
+* 【2022-10-07】[Rjlucian / Leetcode](https://github.com/Rjlucian/Leetcode) - 
+* 【2022-10-07】[vonzhou / CSAPP](https://github.com/vonzhou/CSAPP) - CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！
 * 【2022-10-06】[rsyslog / rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 * 【2022-10-06】[sparklemotion / nokogiri](https://github.com/sparklemotion/nokogiri) - Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.
 * 【2022-10-06】[neutrinolabs / xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
@@ -1592,6 +1646,15 @@
 
 ## C++
 
+* 【2022-10-07】[socketsupply / socket](https://github.com/socketsupply/socket) - The Socket Runtime
+* 【2022-10-07】[microsoft / AirSim](https://github.com/microsoft/AirSim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
+* 【2022-10-07】[M2Team / NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+* 【2022-10-07】[MakeContributions / DSA](https://github.com/MakeContributions/DSA) - Data Structure and Algorithm (DSA) contributions
+* 【2022-10-07】[dikshantrajput / Hacktoberfest-accepted-2022](https://github.com/dikshantrajput/Hacktoberfest-accepted-2022) - This repository is for everyone who wants to participate in Hacktoberfest 2022. Anyone can contribute/add quality code or projects for your Swags (T- Shirt), must be relevant that can add some value to this repository
+* 【2022-10-07】[feixiaoju / Software-Engineering-Learning-Path](https://github.com/feixiaoju/Software-Engineering-Learning-Path) - This project can provide guidance for students majoring in software engineering
+* 【2022-10-07】[ruc-deke / rucbase-lab](https://github.com/ruc-deke/rucbase-lab) - RUC Educational Database Project open lab
+* 【2022-10-07】[raoyutian / PaddleOCRSharp](https://github.com/raoyutian/PaddleOCRSharp) - This project is modified and encapsulated by C++ code based on Baidu PaddlePaddle OCR. Net class library. It includes the table recognition function of text recognition, text detection and statistical analysis based on text detection results. At the same time, it is optimized to improve the recognition accuracy in the case of inaccurate small im…
+* 【2022-10-07】[libxengine / xmaster](https://github.com/libxengine/xmaster) - 
 * 【2022-10-06】[Stellarium / stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 * 【2022-10-06】[mfem / mfem](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods
 * 【2022-10-06】[meshtastic / Meshtastic-device](https://github.com/meshtastic/Meshtastic-device) - Meshtastic device firmware
@@ -1799,6 +1862,8 @@
 
 ## C#
 
+* 【2022-10-07】[StefanTheCode / OptimizeMePlease](https://github.com/StefanTheCode/OptimizeMePlease) - 
+* 【2022-10-07】[microsoft / scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 * 【2022-10-06】[openiddict / openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OpenID Connect stack for ASP.NET Core and Microsoft.Owin (compatible with ASP.NET 4.6.1)
 * 【2022-10-06】[Azure-Samples / active-directory-aspnetcore-webapp-openidconnect-v2](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2) - An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)
 * 【2022-10-06】[BornToBeRoot / NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
@@ -1991,6 +2056,15 @@
 
 ## Html
 
+* 【2022-10-07】[weiweihuanghuang / fragment-mono](https://github.com/weiweihuanghuang/fragment-mono) - Helvetica Monospace Coding Font
+* 【2022-10-07】[abhijitmondal121 / Hacktoberfest2022-profileCardGenerator](https://github.com/abhijitmondal121/Hacktoberfest2022-profileCardGenerator) - Create Hacktoberfest PRs. Star this Repo!⭐
+* 【2022-10-07】[codemistic / Non-Code](https://github.com/codemistic/Non-Code) - A repository to help the open-source community with Non-Code/Low-Code contributions
+* 【2022-10-07】[pranjay-poddar / Swasthify](https://github.com/pranjay-poddar/Swasthify) - Hacktoberfest'22 | This web app is resolutely committed to provide our users with hospitals and their services at their fingertips.
+* 【2022-10-07】[milligram / milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+* 【2022-10-07】[kokonior / HTML-Projects](https://github.com/kokonior/HTML-Projects) - Feel free to create new file, don't hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people.
+* 【2022-10-07】[Web3-Bharat-ITER / UI-Component-Library](https://github.com/Web3-Bharat-ITER/UI-Component-Library) - This repo contains different UI Components which can be reused.
+* 【2022-10-07】[open-telemetry / opentelemetry.io](https://github.com/open-telemetry/opentelemetry.io) - The OpenTelemetry website and documentation
+* 【2022-10-07】[Weilbyte / tiktok-tts](https://github.com/Weilbyte/tiktok-tts) - Generate TikTok Text-to-Speech voices in your browser
 * 【2022-10-06】[swapagarwal / geeksay](https://github.com/swapagarwal/geeksay) - 🤓geeks will ctrl+s the world!
 * 【2022-10-06】[seyhunak / twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) - Twitter Bootstrap for Rails 6.0, Rails 5 - Rails 4.x Asset Pipeline
 * 【2022-10-06】[Minesraft2 / Blooket-Cheats](https://github.com/Minesraft2/Blooket-Cheats) - 
@@ -2209,6 +2283,13 @@
 
 ## Css
 
+* 【2022-10-07】[Zack-Dx / Twitter-Landing-Page](https://github.com/Zack-Dx/Twitter-Landing-Page) - A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star🌟. Have a great day!
+* 【2022-10-07】[irshadmd / Awesome-CSS-Projects](https://github.com/irshadmd/Awesome-CSS-Projects) - Awesome CSS Projects
+* 【2022-10-07】[The-Shivam-garg / BigB-E-learn-Websit-e](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e) - BigB is a E-learning website built using HTML, CSS, JavaScript and Bootstrap - Hacktoberfest Accepted.🤞This project is previously accepted in GSSoC 2022 , JWOC 22.
+* 【2022-10-07】[avinash201199 / Portfolio-Collection](https://github.com/avinash201199/Portfolio-Collection) - This repository contains collection of portfolio's .
+* 【2022-10-07】[webAhead1 / flexible](https://github.com/webAhead1/flexible) - 
+* 【2022-10-07】[TechSpiritSS / Terminal-Portfolio](https://github.com/TechSpiritSS/Terminal-Portfolio) - Terminal Style Portfolio made with HTML / CSS / JS
+* 【2022-10-07】[json-api / json-api](https://github.com/json-api/json-api) - A specification for building JSON APIs
 * 【2022-10-06】[bradtraversy / image-resizer-electron](https://github.com/bradtraversy/image-resizer-electron) - Electron app to change the dimensions of an image
 * 【2022-10-06】[cssnano / cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 * 【2022-10-06】[stefancho / water-theme](https://github.com/stefancho/water-theme) - a simple wordpress theme
@@ -2368,6 +2449,17 @@
 
 ## Unknown
 
+* 【2022-10-07】[sbilly / awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
+* 【2022-10-07】[ElzeroWebSchool / HTML_And_CSS_Template_Four](https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Four) - 
+* 【2022-10-07】[karanS08 / ctf-tools](https://github.com/karanS08/ctf-tools) - Add links to your favorite CTF tools to make other people lives easier .
+* 【2022-10-07】[StrangerealIntel / EternalLiberty](https://github.com/StrangerealIntel/EternalLiberty) - 
+* 【2022-10-07】[unknwon / go-study-index](https://github.com/unknwon/go-study-index) - Go 语言学习资料索引
+* 【2022-10-07】[redleafnew / Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl) - GB/T 7714相关的csl以及Zotero使用技巧及教程。
+* 【2022-10-07】[qingshuisiyuan / electron-ssr-backup](https://github.com/qingshuisiyuan/electron-ssr-backup) - electron-ssr原作者删除了这个伟大的项目，故备份了下来，不继续开发,且用且珍惜
+* 【2022-10-07】[xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
+* 【2022-10-07】[shesteteainip / rukgd73](https://github.com/shesteteainip/rukgd73) - 成品网站灬源码1688韩国站_成品网站灬源码1688韩国站哪里能看？
+* 【2022-10-07】[steshegiwuk / uciwy22](https://github.com/steshegiwuk/uciwy22) - 我爱我妻论坛原创申请_我爱我妻论坛原创申请哪里能看？
+* 【2022-10-07】[lo454d / szid17](https://github.com/lo454d/szid17) - www.96yz175.xyz_www.96yz175.xyz无跳转入口
 * 【2022-10-06】[osmosis-labs / assetlists](https://github.com/osmosis-labs/assetlists) - 
 * 【2022-10-06】[bloominstituteoftechnology / web-code-along-user-data-management](https://github.com/bloominstituteoftechnology/web-code-along-user-data-management) - 
 * 【2022-10-06】[mathiasuy / Soluciones-Klenberg](https://github.com/mathiasuy/Soluciones-Klenberg) - Algorithm Design (Kleinberg Tardos 2005) - Solutions
