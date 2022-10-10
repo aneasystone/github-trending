@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-10-10】[bloc97 / CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion
+* 【2022-10-10】[CompVis / taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
+* 【2022-10-10】[relt-1 / czeditor](https://github.com/relt-1/czeditor) - 
+* 【2022-10-10】[vbenjs / vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 * 【2022-10-09】[ashawkey / stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 * 【2022-10-09】[nocodb / nocodb](https://github.com/nocodb/nocodb) - 🔥🔥🔥Open Source Airtable Alternative
 * 【2022-10-09】[streamich / react-use](https://github.com/streamich/react-use) - React Hooks —👍
@@ -90,6 +94,7 @@
 
 ## Java
 
+* 【2022-10-10】[huaweicloud / Sermant](https://github.com/huaweicloud/Sermant) - Sermant, a proxyless service mesh solution based on Javaagent.
 * 【2022-10-09】[in28minutes / devops-master-class](https://github.com/in28minutes/devops-master-class) - Devops Tutorial for Beginners - Learn Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 * 【2022-10-09】[eclipse / jkube](https://github.com/eclipse/jkube) - Successor of the deprecated Fabric8 Maven Plugin
 * 【2022-10-09】[graphhopper / graphhopper](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
@@ -162,6 +167,8 @@
 
 ## Python
 
+* 【2022-10-10】[ageitgey / face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+* 【2022-10-10】[HazyResearch / manifest](https://github.com/HazyResearch/manifest) - Prompt programming with FMs.
 * 【2022-10-09】[megadose / holehe](https://github.com/megadose/holehe) - holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
 * 【2022-10-09】[danielgatis / rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 * 【2022-10-09】[aerdem4 / lofo-importance](https://github.com/aerdem4/lofo-importance) - Leave One Feature Out Importance
@@ -244,6 +251,12 @@
 
 ## Javascript
 
+* 【2022-10-10】[antfu / eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config presets
+* 【2022-10-10】[volantis-x / hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
+* 【2022-10-10】[leaningtech / webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+* 【2022-10-10】[tailwindlabs / tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+* 【2022-10-10】[IAmTamal / Milan](https://github.com/IAmTamal/Milan) - Milan - Where help meets need❤- A hub for the Users to connect with the NGOs, Charities and other orgs for a good cause !
+* 【2022-10-10】[scbrf / scbrf](https://github.com/scbrf/scbrf) - 
 * 【2022-10-09】[jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 * 【2022-10-09】[wasimreja / book-finder](https://github.com/wasimreja/book-finder) - Find the book you want to read next!
 * 【2022-10-09】[Tharki-God / BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins) - Just me trying
@@ -307,6 +320,7 @@
 
 ## Go
 
+* 【2022-10-10】[cosmos / iavl](https://github.com/cosmos/iavl) - Merkleized IAVL+ Tree implementation in Go
 * 【2022-10-09】[kubernetes / dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 * 【2022-10-09】[Schira4396 / VcenterKiller](https://github.com/Schira4396/VcenterKiller) - 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
 * 【2022-10-09】[jing332 / tts-server-go](https://github.com/jing332/tts-server-go) - 微软TTS服务转发，以便在与阅读APP中直接朗读
@@ -362,6 +376,10 @@
 
 ## C
 
+* 【2022-10-10】[winscp / winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
+* 【2022-10-10】[zark314 / SplatoonGearSearch](https://github.com/zark314/SplatoonGearSearch) - 喷喷喷装备制造辅助器
+* 【2022-10-10】[wuxx / nanoDLA](https://github.com/wuxx/nanoDLA) - 24MHz sampling rate Logic Analyzer based on fx2lafw
+* 【2022-10-10】[ultraji / linux-0.12](https://github.com/ultraji/linux-0.12) - 《Linux内核完全剖析》linux0.12源码及实验环境
 * 【2022-10-09】[OpenVPN / openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN is an open source VPN daemon
 * 【2022-10-09】[espressif / esp-adf](https://github.com/espressif/esp-adf) - Espressif Audio Development Framework
 * 【2022-10-09】[epeth0mus / Fugu15](https://github.com/epeth0mus/Fugu15) - Open Source iOS 15 - iOS 15.6 Jailbreak Project
@@ -407,6 +425,9 @@
 
 ## C++
 
+* 【2022-10-10】[tanyarajhans / LeetCode](https://github.com/tanyarajhans/LeetCode) - Collection of LeetCode questions to ace the coding interview!
+* 【2022-10-10】[jvm-profiling-tools / async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+* 【2022-10-10】[ChunelFeng / CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的跨平台的C++线程池。欢迎 star & fork
 * 【2022-10-09】[D1rkMtr / ObfLoader](https://github.com/D1rkMtr/ObfLoader) - MAC, IPv4, UUID shellcode Loaders and Obfuscators to obfuscate the shellcode and using some native API to converts it to it binary format and loads it.
 * 【2022-10-09】[SFML / SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
 * 【2022-10-09】[Mridul-1-Sharma / Hacktoberfest2022-DataStructuresAndAlgorithms](https://github.com/Mridul-1-Sharma/Hacktoberfest2022-DataStructuresAndAlgorithms) - Contribute to this repository with valid pull request to Hacktoberfest 2022 and earn awesome swags & T-shirts. This is a beginner friendly Project.
@@ -473,6 +494,10 @@
 
 ## C#
 
+* 【2022-10-10】[Perfare / AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+* 【2022-10-10】[ariacom / Seal-Report](https://github.com/ariacom/Seal-Report) - Open Database Reporting Tool (.Net)
+* 【2022-10-10】[silahian / VisualHFT](https://github.com/silahian/VisualHFT) - GUI for enterprise level high frequency trading systems, making focus on visualizing market microstructure analytics, such Limit Order Book dynamic, latencies, execution quality, and other analytics. WPF & C#
+* 【2022-10-10】[whuanle / CZGL.SystemInfo](https://github.com/whuanle/CZGL.SystemInfo) - 一个.NET Core监控系统CPU内存等信息的工具
 * 【2022-10-09】[sqlkata / querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 * 【2022-10-09】[TheAlgorithms / C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 * 【2022-10-09】[dotnet / interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
@@ -508,6 +533,10 @@
 
 ## Html
 
+* 【2022-10-10】[nova-video-player / aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
+* 【2022-10-10】[Zack-Dx / Discord-clone-project](https://github.com/Zack-Dx/Discord-clone-project) - Discord Site Landing Page CLONE! A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star.🌟Have a great day!
+* 【2022-10-10】[tans / online-editor](https://github.com/tans/online-editor) - online text editor - cross platform , no-signup required
+* 【2022-10-10】[RajVarsani / html-archives](https://github.com/RajVarsani/html-archives) - An archive for beginner friendly projects
 * 【2022-10-09】[microsoft / ImagineCup](https://github.com/microsoft/ImagineCup) - Resources to help you enter, and perhaps win, the Imagine Cup, a worldwide event by Microsoft
 * 【2022-10-09】[jvallbona / exercici2](https://github.com/jvallbona/exercici2) - 
 * 【2022-10-09】[adarshpand3y / Hacktoberfest2022-DSA](https://github.com/adarshpand3y/Hacktoberfest2022-DSA) - Contribute in Hacktoberfest 2022 by contributing Data Structures and Algorithms Code
@@ -573,6 +602,7 @@
 
 ## Css
 
+* 【2022-10-10】[NiallEccles / Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
 * 【2022-10-09】[Zack-Dx / Discord-Clone](https://github.com/Zack-Dx/Discord-Clone) - Discord Site Landing Page CLONE! A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star.🌟Have a great day!
 * 【2022-10-09】[fineanmol / Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button) - Annoying Submit Button in React. Give a⭐️if you have liked this project and want to support it !
 * 【2022-10-09】[ShaoZeMing / happy-birthday](https://github.com/ShaoZeMing/happy-birthday) - 基于H5和CSS制作的生日祝贺网页，兼容移动端自适应。demo http://love.4d4k.com/birthday/she
@@ -615,6 +645,10 @@
 
 ## Unknown
 
+* 【2022-10-10】[arthurspk / guiadofrontend](https://github.com/arthurspk/guiadofrontend) - Nesse guia você encontrará tudo para se torna um desenvolvedor front-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
+* 【2022-10-10】[arthurspk / guiadobackend](https://github.com/arthurspk/guiadobackend) - Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.
+* 【2022-10-10】[mrcodedev / frontend-developer-resources](https://github.com/mrcodedev/frontend-developer-resources) - Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos
+* 【2022-10-10】[ilovexjp / healthcode-backup](https://github.com/ilovexjp/healthcode-backup) - 备份一些健康码演示工具
 * 【2022-10-09】[YuzukiHD / YuzukiLOHCC-PRO](https://github.com/YuzukiHD/YuzukiLOHCC-PRO) - Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332
 * 【2022-10-09】[meirwah / awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 * 【2022-10-09】[microsoft / vscode-discussions](https://github.com/microsoft/vscode-discussions) - The official place to discuss all things VS Code!
