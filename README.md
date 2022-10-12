@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-10-12】[tremorlabs / tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
+* 【2022-10-12】[FairCrypto / XEN-crypto](https://github.com/FairCrypto/XEN-crypto) - XEN Crypto
+* 【2022-10-12】[koishijs / novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
+* 【2022-10-12】[lewagon / setup](https://github.com/lewagon/setup) - Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp
+* 【2022-10-12】[massalabs / massa](https://github.com/massalabs/massa) - The Decentralized and Scaled Blockchain
+* 【2022-10-12】[massgravel / Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+* 【2022-10-12】[jupyterhub / jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 * 【2022-10-11】[xiaoxian521 / vue-pure-admin](https://github.com/xiaoxian521/vue-pure-admin) - 🔥✨✨✨Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）
 * 【2022-10-11】[ilovexjp / trip-card](https://github.com/ilovexjp/trip-card) - 通信大数据行程卡模拟
 * 【2022-10-10】[bloc97 / CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion
@@ -96,6 +103,7 @@
 
 ## Java
 
+* 【2022-10-12】[netty / netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 * 【2022-10-11】[coding-parrot / Low-Level-Design](https://github.com/coding-parrot/Low-Level-Design) - Useful Resources for Low Level System Design
 * 【2022-10-11】[fuzhengwei / java-algorithms](https://github.com/fuzhengwei/java-algorithms) - 📝Java 数据结构和算法 | Algorithms and data structures implemented in Java with explanations and links to further readings
 * 【2022-10-10】[huaweicloud / Sermant](https://github.com/huaweicloud/Sermant) - Sermant, a proxyless service mesh solution based on Javaagent.
@@ -171,6 +179,13 @@
 
 ## Python
 
+* 【2022-10-12】[ekzhang / inline-sql](https://github.com/ekzhang/inline-sql) - 🪄Inline SQL in any Python program
+* 【2022-10-12】[RotBotSlicer / Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
+* 【2022-10-12】[KichangKim / DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
+* 【2022-10-12】[zhm-real / PathPlanning](https://github.com/zhm-real/PathPlanning) - Common used path planning algorithms with animations.
+* 【2022-10-12】[open-mmlab / mmclassification](https://github.com/open-mmlab/mmclassification) - OpenMMLab Image Classification Toolbox and Benchmark
+* 【2022-10-12】[scooderic / exhentai-tags-chinese-translation](https://github.com/scooderic/exhentai-tags-chinese-translation) - E-Hentai/ExHentai 全部 TAGs 中文翻译
+* 【2022-10-12】[youyuge34 / PI-REC](https://github.com/youyuge34/PI-REC) - 🔥PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain.🔥图像翻译，条件GAN，AI绘画
 * 【2022-10-11】[soimort / you-get](https://github.com/soimort/you-get) - ⏬Dumb downloader that scrapes the web
 * 【2022-10-11】[OPTML-Group / BiP](https://github.com/OPTML-Group/BiP) - [NeurIPS22] "Advancing Model Pruning via Bi-level Optimization" by Yihua Zhang*, Yuguang Yao*, Parikshit Ram, Pu Zhao, Tianlong Chen, Mingyi Hong, Yanzhi Wang, and Sijia Liu
 * 【2022-10-11】[garrettj403 / SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
@@ -261,6 +276,10 @@
 
 ## Javascript
 
+* 【2022-10-12】[toss / slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
+* 【2022-10-12】[codinasion / program](https://github.com/codinasion/program) - An open source codebase for sharing programming solutions.
+* 【2022-10-12】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+* 【2022-10-12】[miracle90 / monitor](https://github.com/miracle90/monitor) - 前端监控体系搭建（错误、异常、白屏、性能监控、卡顿、pv等，接入日志、告警系统）
 * 【2022-10-11】[neptune-mutual-blue / app.neptunemutual.com](https://github.com/neptune-mutual-blue/app.neptunemutual.com) - 
 * 【2022-10-11】[neptune-mutual-blue / neptunemutual.com](https://github.com/neptune-mutual-blue/neptunemutual.com) - Neptune Mutual Website
 * 【2022-10-11】[neptune-mutual-blue / protocol](https://github.com/neptune-mutual-blue/protocol) - 
@@ -336,6 +355,8 @@
 
 ## Go
 
+* 【2022-10-12】[siderolabs / talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
+* 【2022-10-12】[disksing / twiyou](https://github.com/disksing/twiyou) - 
 * 【2022-10-11】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 * 【2022-10-11】[nikolaydubina / go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩Tools for Go projects
 * 【2022-10-11】[btcsuite / btcd](https://github.com/btcsuite/btcd) - An alternative full node bitcoin implementation written in Go (golang)
@@ -397,6 +418,9 @@
 
 ## C
 
+* 【2022-10-12】[goatshriek / stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
+* 【2022-10-12】[webview / webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
+* 【2022-10-12】[neineit / ICE_TEA_BIOS](https://github.com/neineit/ICE_TEA_BIOS) - The BIOS Code from project C970
 * 【2022-10-11】[ggerganov / whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 * 【2022-10-11】[ZJU-SEC / os22fall-stu](https://github.com/ZJU-SEC/os22fall-stu) - https://zju-sec.github.io/os22fall-stu/
 * 【2022-10-10】[winscp / winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.
@@ -448,6 +472,8 @@
 
 ## C++
 
+* 【2022-10-12】[fjqisba / WeChatStudy](https://github.com/fjqisba/WeChatStudy) - StudyWechat
+* 【2022-10-12】[jixunmoe / qmc2](https://github.com/jixunmoe/qmc2) - QMC2 (mflac/mgg) 文件解密。
 * 【2022-10-11】[zeux / meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
 * 【2022-10-11】[changkun / modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 * 【2022-10-11】[Avinash987 / Coding](https://github.com/Avinash987/Coding) - Data Structures and Algorithms (DSA) Preparation sheet
@@ -520,6 +546,9 @@
 
 ## C#
 
+* 【2022-10-12】[Unity-Technologies / FPSSample](https://github.com/Unity-Technologies/FPSSample) - A first person multiplayer shooter example project in Unity
+* 【2022-10-12】[PinoyWH1Z / AoratosWin](https://github.com/PinoyWH1Z/AoratosWin) - A tool that removes traces of executed applications on Windows OS.
+* 【2022-10-12】[mono / SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
 * 【2022-10-11】[sschmid / Entitas](https://github.com/sschmid/Entitas) - Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 * 【2022-10-11】[Assistant / ModAssistant](https://github.com/Assistant/ModAssistant) - Simple Beat Saber Mod Installer
 * 【2022-10-11】[VerifyTests / Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
@@ -562,6 +591,13 @@
 
 ## Html
 
+* 【2022-10-12】[biratdatta / Webpage-Maker](https://github.com/biratdatta/Webpage-Maker) - Cheat sheet for HTML and CSS
+* 【2022-10-12】[hirashoaib / learn-javascript](https://github.com/hirashoaib/learn-javascript) - Step By Step guide to learn Java Script
+* 【2022-10-12】[RIKI-05 / MOMOMIA](https://github.com/RIKI-05/MOMOMIA) - A food ordering website
+* 【2022-10-12】[Ankit-11525 / e-commerce_redstore.github.io](https://github.com/Ankit-11525/e-commerce_redstore.github.io) - 
+* 【2022-10-12】[tdeerenberg / WA-ScheduledMessenger](https://github.com/tdeerenberg/WA-ScheduledMessenger) - A Python3 program with a WebUI that checks if today is the date to send a WhatsApp message to the corresponding person.
+* 【2022-10-12】[MLSC-BSOITR / Books-Collection](https://github.com/MLSC-BSOITR/Books-Collection) - This repository contains books on various Programming Languages, Concepts of coding, Software development. The link provided will directly take you to the book your looking for!!
+* 【2022-10-12】[airbnb / lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie
 * 【2022-10-11】[DecodersCommunity / portfolio-builder](https://github.com/DecodersCommunity/portfolio-builder) - A repository to publish your single page portfolios.
 * 【2022-10-11】[pablocc1979 / Green-Hub-Proxy](https://github.com/pablocc1979/Green-Hub-Proxy) - GreenHub VPN | Proxy, 该服务仅供学术研究/行业研究人员使用；请勿用于非法活动！
 * 【2022-10-10】[nova-video-player / aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
@@ -633,6 +669,10 @@
 
 ## Css
 
+* 【2022-10-12】[WildCodeSchool / php-wildzoo](https://github.com/WildCodeSchool/php-wildzoo) - 
+* 【2022-10-12】[ElvinPero / PriceTemplate](https://github.com/ElvinPero/PriceTemplate) - This is a price template panel project where I aim to make working price template model that can be used on webapps
+* 【2022-10-12】[ps-interactive / ics_solutions](https://github.com/ps-interactive/ics_solutions) - 
+* 【2022-10-12】[deeqakkk / Journey-with-js](https://github.com/deeqakkk/Journey-with-js) - A list of frontend projects for every beginners and intermediate level learner.
 * 【2022-10-11】[shikhar13012001 / css-awesomeness](https://github.com/shikhar13012001/css-awesomeness) - This project is an educational asset demonstrating the open source power
 * 【2022-10-11】[Fueler-io / Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources) - One and only place on the internet for all Web Development Resources.
 * 【2022-10-10】[NiallEccles / Hacktoberfest-animations](https://github.com/NiallEccles/Hacktoberfest-animations) - Small animation selector for Hacktoberfest
@@ -678,6 +718,12 @@
 
 ## Unknown
 
+* 【2022-10-12】[Pradeep-Pandey13 / CSS-Cheatsheets](https://github.com/Pradeep-Pandey13/CSS-Cheatsheets) - In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.
+* 【2022-10-12】[shreyaschavhan / linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
+* 【2022-10-12】[IBM-EPBL / Assignments-CApD](https://github.com/IBM-EPBL/Assignments-CApD) - 
+* 【2022-10-12】[err4o4 / spotify-car-thing-reverse-engineering](https://github.com/err4o4/spotify-car-thing-reverse-engineering) - 
+* 【2022-10-12】[matthiasjost / dotnet-content-creators](https://github.com/matthiasjost/dotnet-content-creators) - ⚡A list of .NET content creators
+* 【2022-10-12】[ripperhe / Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台翻译和 OCR 软件。
 * 【2022-10-11】[StewAlexander-com / VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet) - Cheatsheet for Vim
 * 【2022-10-11】[anderspitman / awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 * 【2022-10-11】[GrrrDog / Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet) - The cheat sheet about Java Deserialization vulnerabilities
