@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-10-13】[total-typescript / advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop) - An interactive TypeScript repo on advanced patterns (WIP)
+* 【2022-10-13】[vuejs / vue](https://github.com/vuejs/vue) - 🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* 【2022-10-13】[vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈An enterprise-class UI components based on Ant Design and Vue.🐜
+* 【2022-10-13】[vercel / satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
+* 【2022-10-13】[BetterDiscord / BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+* 【2022-10-13】[crater-invoice / crater](https://github.com/crater-invoice/crater) - Open Source Invoicing Solution for Individuals & Businesses
+* 【2022-10-13】[CsEnox / CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992) - Authenticated Remote Command Execution in Gitlab via GitHub import
+* 【2022-10-13】[hua1995116 / awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting) - AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）
+* 【2022-10-13】[firemakergk / aquar-home](https://github.com/firemakergk/aquar-home) - 高度可定制的个人Home页，同时是强大的NAS服务控制台。
 * 【2022-10-12】[tremorlabs / tremor](https://github.com/tremorlabs/tremor) - The react library to build dashboards fast.
 * 【2022-10-12】[FairCrypto / XEN-crypto](https://github.com/FairCrypto/XEN-crypto) - XEN Crypto
 * 【2022-10-12】[koishijs / novelai-bot](https://github.com/koishijs/novelai-bot) - Generate images by NovelAI | 基于 NovelAI 的画图机器人
@@ -103,6 +112,9 @@
 
 ## Java
 
+* 【2022-10-13】[software-mansion / react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
+* 【2022-10-13】[flightsteed / oms-erp](https://github.com/flightsteed/oms-erp) - 打造一站式商用级的中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
+* 【2022-10-13】[apache / jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 * 【2022-10-12】[netty / netty](https://github.com/netty/netty) - Netty project - an event-driven asynchronous network application framework
 * 【2022-10-11】[coding-parrot / Low-Level-Design](https://github.com/coding-parrot/Low-Level-Design) - Useful Resources for Low Level System Design
 * 【2022-10-11】[fuzhengwei / java-algorithms](https://github.com/fuzhengwei/java-algorithms) - 📝Java 数据结构和算法 | Algorithms and data structures implemented in Java with explanations and links to further readings
@@ -179,6 +191,11 @@
 
 ## Python
 
+* 【2022-10-13】[pytorch / text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
+* 【2022-10-13】[Demindiro / agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
+* 【2022-10-13】[pyinstaller / pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
+* 【2022-10-13】[DSP-8192 / HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua) - （鬼畜用）活字印刷生成器
+* 【2022-10-13】[JiehangXie / PaddleBoBo](https://github.com/JiehangXie/PaddleBoBo) - 基于飞桨开发的虚拟主播
 * 【2022-10-12】[ekzhang / inline-sql](https://github.com/ekzhang/inline-sql) - 🪄Inline SQL in any Python program
 * 【2022-10-12】[RotBotSlicer / Transform](https://github.com/RotBotSlicer/Transform) - Algorithm for 3D printer with new kinematics
 * 【2022-10-12】[KichangKim / DeepDanbooru](https://github.com/KichangKim/DeepDanbooru) - AI based multi-label girl image classification system, implemented by using TensorFlow.
@@ -276,6 +293,10 @@
 
 ## Javascript
 
+* 【2022-10-13】[RioChndr / jaksel-language](https://github.com/RioChndr/jaksel-language) - Jaksel Script, Programming language very modern and Indonesian style
+* 【2022-10-13】[dream-num / Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+* 【2022-10-13】[juliangarnier / anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+* 【2022-10-13】[helloxz / onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 * 【2022-10-12】[toss / slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services.
 * 【2022-10-12】[codinasion / program](https://github.com/codinasion/program) - An open source codebase for sharing programming solutions.
 * 【2022-10-12】[kleampa / not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
@@ -355,6 +376,8 @@
 
 ## Go
 
+* 【2022-10-13】[koishijs / koishi-desktop](https://github.com/koishijs/koishi-desktop) - Launch Koishi from your desktop
+* 【2022-10-13】[FxPool / FXMinerProxy](https://github.com/FxPool/FXMinerProxy) - minerproxy中转,100%原创GO+VUE开发,手机APP支持，ETCminerproxy,ETHWminerproxy,ETFminerproxy,BTCminerproxy,LTCminerproxy,ERGminerproxy,KASminerproxy,BTGminerproxy,XMRminerproxy,RVNminerproxy,CFXminerproxy....
 * 【2022-10-12】[siderolabs / talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 * 【2022-10-12】[disksing / twiyou](https://github.com/disksing/twiyou) - 
 * 【2022-10-11】[fyne-io / fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
@@ -418,6 +441,7 @@
 
 ## C
 
+* 【2022-10-13】[li-xiaojun / AndroidKTX](https://github.com/li-xiaojun/AndroidKTX) - 🔥Some very useful kotlin extensions for speed android development！好用到爆的Kotlin扩展，加速你的Android开发！
 * 【2022-10-12】[goatshriek / stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
 * 【2022-10-12】[webview / webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 * 【2022-10-12】[neineit / ICE_TEA_BIOS](https://github.com/neineit/ICE_TEA_BIOS) - The BIOS Code from project C970
@@ -472,6 +496,10 @@
 
 ## C++
 
+* 【2022-10-13】[facebook / hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
+* 【2022-10-13】[google / libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+* 【2022-10-13】[Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+* 【2022-10-13】[ZLMediaKit / ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit) - 一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO
 * 【2022-10-12】[fjqisba / WeChatStudy](https://github.com/fjqisba/WeChatStudy) - StudyWechat
 * 【2022-10-12】[jixunmoe / qmc2](https://github.com/jixunmoe/qmc2) - QMC2 (mflac/mgg) 文件解密。
 * 【2022-10-11】[zeux / meshoptimizer](https://github.com/zeux/meshoptimizer) - Mesh optimization library that makes meshes smaller and faster to render
@@ -546,6 +574,13 @@
 
 ## C#
 
+* 【2022-10-13】[Dec0ne / ShadowSpray](https://github.com/Dec0ne/ShadowSpray) - A tool to spray Shadow Credentials across an entire domain in hopes of abusing long forgotten GenericWrite/GenericAll DACLs over other objects in the domain.
+* 【2022-10-13】[kodlamaio-projects / nArchitecture.RentACarProject](https://github.com/kodlamaio-projects/nArchitecture.RentACarProject) - 
+* 【2022-10-13】[Green-Software-Foundation / carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - Carbon-Aware SDK
+* 【2022-10-13】[FireCubeStudios / FluentFlyouts3](https://github.com/FireCubeStudios/FluentFlyouts3) - Fluent Flyouts 3 WinUI 3 Edition
+* 【2022-10-13】[Megabit / Blazorise](https://github.com/Megabit/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.
+* 【2022-10-13】[lsunky / SkillEditorDemo](https://github.com/lsunky/SkillEditorDemo) - 基于unitytimeline的一个技能编辑器，支持调试，运行。
+* 【2022-10-13】[JusterZhu / GeneralUpdate](https://github.com/JusterZhu/GeneralUpdate) - 
 * 【2022-10-12】[Unity-Technologies / FPSSample](https://github.com/Unity-Technologies/FPSSample) - A first person multiplayer shooter example project in Unity
 * 【2022-10-12】[PinoyWH1Z / AoratosWin](https://github.com/PinoyWH1Z/AoratosWin) - A tool that removes traces of executed applications on Windows OS.
 * 【2022-10-12】[mono / SkiaSharp](https://github.com/mono/SkiaSharp) - SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
@@ -591,6 +626,13 @@
 
 ## Html
 
+* 【2022-10-13】[aws-samples / aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
+* 【2022-10-13】[vishaaal / BookCase](https://github.com/vishaaal/BookCase) - This is a small webpage that allows user to add and showcase their favorite Books!
+* 【2022-10-13】[harshvardhansb / TourGuide](https://github.com/harshvardhansb/TourGuide) - 
+* 【2022-10-13】[zcyzcy88 / TagTable](https://github.com/zcyzcy88/TagTable) - [Dump] gelbooru, danbooru, sankaku complex, konachan, yande.re | keywords sheet, experience for image search (关键词/搜图经验)
+* 【2022-10-13】[mrsanshui / WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI) - 基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！
+* 【2022-10-13】[r00tSe7en / cobweb](https://github.com/r00tSe7en/cobweb) - cobweb 蛛网 - 子域名和解析IP对应关系数据可视化
+* 【2022-10-13】[WTFAcademy / WTF-CSS](https://github.com/WTFAcademy/WTF-CSS) - WTF CSS教程，总结/搬运自MDN CSS教程，帮助新人快速入门CSS，并写出Uniswap页面和NFT铸造页面。
 * 【2022-10-12】[biratdatta / Webpage-Maker](https://github.com/biratdatta/Webpage-Maker) - Cheat sheet for HTML and CSS
 * 【2022-10-12】[hirashoaib / learn-javascript](https://github.com/hirashoaib/learn-javascript) - Step By Step guide to learn Java Script
 * 【2022-10-12】[RIKI-05 / MOMOMIA](https://github.com/RIKI-05/MOMOMIA) - A food ordering website
@@ -669,6 +711,12 @@
 
 ## Css
 
+* 【2022-10-13】[vijayyprajapati / Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
+* 【2022-10-13】[FirmanKurniawan / CSS-Projects](https://github.com/FirmanKurniawan/CSS-Projects) - Feel free to create new file, don't hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people.
+* 【2022-10-13】[aitoss / Hacktoberfest2022](https://github.com/aitoss/Hacktoberfest2022) - 
+* 【2022-10-13】[TeamOpencampus / opencampus-website](https://github.com/TeamOpencampus/opencampus-website) - Landing website for OpenCampus
+* 【2022-10-13】[Google-Developer-Student-Club-RJIT / Donaate](https://github.com/Google-Developer-Student-Club-RJIT/Donaate) - This website is made for the people who want to donate to the needy people. It is a straightforward website built with HTML, CSS, and JavaScript. This project is part of the Hacktoberfest on behalf of the Google Developer Student Club's RJIT, and it aims to teach students about open source and basic web development.
+* 【2022-10-13】[creativecommons / search](https://github.com/creativecommons/search) - Creative Commons Meta Search
 * 【2022-10-12】[WildCodeSchool / php-wildzoo](https://github.com/WildCodeSchool/php-wildzoo) - 
 * 【2022-10-12】[ElvinPero / PriceTemplate](https://github.com/ElvinPero/PriceTemplate) - This is a price template panel project where I aim to make working price template model that can be used on webapps
 * 【2022-10-12】[ps-interactive / ics_solutions](https://github.com/ps-interactive/ics_solutions) - 
@@ -718,6 +766,10 @@
 
 ## Unknown
 
+* 【2022-10-13】[0xsyr0 / OSCP](https://github.com/0xsyr0/OSCP) - OSCP Guide
+* 【2022-10-13】[bigdatabysumitm / NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
+* 【2022-10-13】[sw-yx / prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering
+* 【2022-10-13】[dhaval17 / awsome-security-write-ups-and-POCs](https://github.com/dhaval17/awsome-security-write-ups-and-POCs) - Awesome Writeups and POCs
 * 【2022-10-12】[Pradeep-Pandey13 / CSS-Cheatsheets](https://github.com/Pradeep-Pandey13/CSS-Cheatsheets) - In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.
 * 【2022-10-12】[shreyaschavhan / linux-commands-cheatsheet](https://github.com/shreyaschavhan/linux-commands-cheatsheet) - All Useful Linux Commands (For OSCP & daily pen-testing usage)
 * 【2022-10-12】[IBM-EPBL / Assignments-CApD](https://github.com/IBM-EPBL/Assignments-CApD) - 
