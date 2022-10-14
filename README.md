@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-10-14】[InboxSDK / InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
+* 【2022-10-14】[KAIR-BAIR / nerfacc](https://github.com/KAIR-BAIR/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch.
+* 【2022-10-14】[FyroxEngine / Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+* 【2022-10-14】[dylanaraps / pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖A collection of pure bash alternatives to external processes.
+* 【2022-10-14】[SunWeb3Sec / DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hack incidents using Foundry.
+* 【2022-10-14】[tj-actions / changed-files](https://github.com/tj-actions/changed-files) - Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
+* 【2022-10-14】[terraform-aws-modules / terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources🇺🇦
 * 【2022-10-13】[total-typescript / advanced-patterns-workshop](https://github.com/total-typescript/advanced-patterns-workshop) - An interactive TypeScript repo on advanced patterns (WIP)
 * 【2022-10-13】[vuejs / vue](https://github.com/vuejs/vue) - 🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * 【2022-10-13】[vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈An enterprise-class UI components based on Ant Design and Vue.🐜
@@ -112,6 +119,8 @@
 
 ## Java
 
+* 【2022-10-14】[googlesamples / mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
+* 【2022-10-14】[baidu / starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 * 【2022-10-13】[software-mansion / react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 * 【2022-10-13】[flightsteed / oms-erp](https://github.com/flightsteed/oms-erp) - 打造一站式商用级的中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
 * 【2022-10-13】[apache / jmeter](https://github.com/apache/jmeter) - Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
@@ -191,6 +200,11 @@
 
 ## Python
 
+* 【2022-10-14】[bigb0sss / RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
+* 【2022-10-14】[pytest-dev / pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+* 【2022-10-14】[joke2k / faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+* 【2022-10-14】[NVlabs / stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
+* 【2022-10-14】[tkfy920 / qstock](https://github.com/tkfy920/qstock) - qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口； 选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等； 回测模块为大家提供向量化（基于pandas）和基于事件驱动的基本框架和模型。 关注“Python金融量化“微信公众号，获取更多应用信息。
 * 【2022-10-13】[pytorch / text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 * 【2022-10-13】[Demindiro / agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software
 * 【2022-10-13】[pyinstaller / pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
@@ -293,6 +307,9 @@
 
 ## Javascript
 
+* 【2022-10-14】[rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+* 【2022-10-14】[conventional-changelog / standard-version](https://github.com/conventional-changelog/standard-version) - 🏆Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
+* 【2022-10-14】[web3 / web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
 * 【2022-10-13】[RioChndr / jaksel-language](https://github.com/RioChndr/jaksel-language) - Jaksel Script, Programming language very modern and Indonesian style
 * 【2022-10-13】[dream-num / Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 * 【2022-10-13】[juliangarnier / anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -376,6 +393,9 @@
 
 ## Go
 
+* 【2022-10-14】[nats-io / nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
+* 【2022-10-14】[shirou / gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
+* 【2022-10-14】[wa-lang / wa](https://github.com/wa-lang/wa) - 凹语言™ 专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainability, compiled language for developing WebAssembly software
 * 【2022-10-13】[koishijs / koishi-desktop](https://github.com/koishijs/koishi-desktop) - Launch Koishi from your desktop
 * 【2022-10-13】[FxPool / FXMinerProxy](https://github.com/FxPool/FXMinerProxy) - minerproxy中转,100%原创GO+VUE开发,手机APP支持，ETCminerproxy,ETHWminerproxy,ETFminerproxy,BTCminerproxy,LTCminerproxy,ERGminerproxy,KASminerproxy,BTGminerproxy,XMRminerproxy,RVNminerproxy,CFXminerproxy....
 * 【2022-10-12】[siderolabs / talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
@@ -441,6 +461,7 @@
 
 ## C
 
+* 【2022-10-14】[CTCaer / hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 * 【2022-10-13】[li-xiaojun / AndroidKTX](https://github.com/li-xiaojun/AndroidKTX) - 🔥Some very useful kotlin extensions for speed android development！好用到爆的Kotlin扩展，加速你的Android开发！
 * 【2022-10-12】[goatshriek / stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
 * 【2022-10-12】[webview / webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
@@ -496,6 +517,11 @@
 
 ## C++
 
+* 【2022-10-14】[NVlabs / tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
+* 【2022-10-14】[NotepadFree / NotepadFree](https://github.com/NotepadFree/NotepadFree) - NotepadFree是源自Notepad++的编辑器应用。
+* 【2022-10-14】[ldrobotSensorTeam / ldlidar_stl_ros](https://github.com/ldrobotSensorTeam/ldlidar_stl_ros) - LDROBOT DTOF LiDAR ROS Package
+* 【2022-10-14】[downdemo / Design-Patterns-in-Cpp17](https://github.com/downdemo/Design-Patterns-in-Cpp17) - C++17 implementation of 23 GoF design patterns for zero memory leaks using smart pointers.
+* 【2022-10-14】[glKarin / com.n0n3m4.diii4a](https://github.com/glKarin/com.n0n3m4.diii4a) - n0n3m4's DIII4A. DOOM III/Quake 4 for Android
 * 【2022-10-13】[facebook / hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 * 【2022-10-13】[google / libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 * 【2022-10-13】[Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -574,6 +600,12 @@
 
 ## C#
 
+* 【2022-10-14】[jfrog / project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
+* 【2022-10-14】[luzamm / PromptCombiner](https://github.com/luzamm/PromptCombiner) - novelai相关
+* 【2022-10-14】[microsoft / Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
+* 【2022-10-14】[zt199510 / ZFile](https://github.com/zt199510/ZFile) - 
+* 【2022-10-14】[evilashz / SharpADUserIP](https://github.com/evilashz/SharpADUserIP) - 提取DC日志，快速获取域用户对应IP地址
+* 【2022-10-14】[myacat / TextureBake](https://github.com/myacat/TextureBake) - Convert curves to Texture
 * 【2022-10-13】[Dec0ne / ShadowSpray](https://github.com/Dec0ne/ShadowSpray) - A tool to spray Shadow Credentials across an entire domain in hopes of abusing long forgotten GenericWrite/GenericAll DACLs over other objects in the domain.
 * 【2022-10-13】[kodlamaio-projects / nArchitecture.RentACarProject](https://github.com/kodlamaio-projects/nArchitecture.RentACarProject) - 
 * 【2022-10-13】[Green-Software-Foundation / carbon-aware-sdk](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - Carbon-Aware SDK
@@ -626,6 +658,8 @@
 
 ## Html
 
+* 【2022-10-14】[BlackTimber-Labs / Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website) - This is a HacktoberFest Repo, You can make portfolio Website of your own . Happy Open Source.
+* 【2022-10-14】[aymanebenhima / YouCodeScrumBoard](https://github.com/aymanebenhima/YouCodeScrumBoard) - L'objectif est de développer une application web YouCode Scrum Board en bootstrap et de le rendre aussi proche que possible de la conception proposée.
 * 【2022-10-13】[aws-samples / aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
 * 【2022-10-13】[vishaaal / BookCase](https://github.com/vishaaal/BookCase) - This is a small webpage that allows user to add and showcase their favorite Books!
 * 【2022-10-13】[harshvardhansb / TourGuide](https://github.com/harshvardhansb/TourGuide) - 
@@ -711,6 +745,12 @@
 
 ## Css
 
+* 【2022-10-14】[AgencyPMG / ProgrammingChallenges](https://github.com/AgencyPMG/ProgrammingChallenges) - Programming challenges for interviewees.
+* 【2022-10-14】[GauravMKedia / animation-collections](https://github.com/GauravMKedia/animation-collections) - This repository is made for containing different animations used for website designing.
+* 【2022-10-14】[Diptenusarkar / Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
+* 【2022-10-14】[gdscjec / Gdsc_jec_website](https://github.com/gdscjec/Gdsc_jec_website) - Beginner friendly repo , create PR and get 1 task completed.
+* 【2022-10-14】[Screenly / screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on Github!
+* 【2022-10-14】[Basir-PD / 100-Projects-HTML-CSS-JavaScript](https://github.com/Basir-PD/100-Projects-HTML-CSS-JavaScript) - 100 Projects Challenge
 * 【2022-10-13】[vijayyprajapati / Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A platform where anyone can make their profile, share their twitter and linkedIn bookmarks, see other shared bookmarks and contribute to the community.
 * 【2022-10-13】[FirmanKurniawan / CSS-Projects](https://github.com/FirmanKurniawan/CSS-Projects) - Feel free to create new file, don't hesitate to pull your code, the most important thing is that the file name here must match your nickname so that file does not conflict with other people.
 * 【2022-10-13】[aitoss / Hacktoberfest2022](https://github.com/aitoss/Hacktoberfest2022) - 
@@ -766,6 +806,14 @@
 
 ## Unknown
 
+* 【2022-10-14】[Salusec / EfficientAudit](https://github.com/Salusec/EfficientAudit) - About how you should cooperate with the audit company to complete project audit with high quality and efficiency.
+* 【2022-10-14】[FBlackBox / BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
+* 【2022-10-14】[bespoyasov / refactor-like-a-superhero-online-book](https://github.com/bespoyasov/refactor-like-a-superhero-online-book) - How to refactor apps efficiently and without pain •💩➡️🍭
+* 【2022-10-14】[dair-ai / Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮A collection of resources to learn mathematics for machine learning
+* 【2022-10-14】[microsoft / aka](https://github.com/microsoft/aka) - Doc page listing all public aka.ms links for Microsoft admin portals
+* 【2022-10-14】[reactnativecn / react-native-guide](https://github.com/reactnativecn/react-native-guide) - React Native指南汇集了各类react-native学习资源、开源App和组件
+* 【2022-10-14】[forthespada / InterviewGuide](https://github.com/forthespada/InterviewGuide) - 🔥🔥「InterviewGuide」是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们计算机校招&秋招经验总结文章的汇总，包括但不限于C/C++ 、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！
+* 【2022-10-14】[Bypass007 / Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) - 应急响应实战笔记，一个安全工程师的自我修养。
 * 【2022-10-13】[0xsyr0 / OSCP](https://github.com/0xsyr0/OSCP) - OSCP Guide
 * 【2022-10-13】[bigdatabysumitm / NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
 * 【2022-10-13】[sw-yx / prompt-eng](https://github.com/sw-yx/prompt-eng) - notes for prompt engineering
