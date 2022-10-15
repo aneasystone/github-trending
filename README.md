@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-10-15】[holbertonschool / Betty](https://github.com/holbertonschool/Betty) - Holberton-style C code checker written in Perl
+* 【2022-10-15】[smallnest / concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
+* 【2022-10-15】[awesome-devblog / awesome-devblog](https://github.com/awesome-devblog/awesome-devblog) - 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).
+* 【2022-10-15】[pointfreeco / swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+* 【2022-10-15】[Azure / Azure-Sentinel](https://github.com/Azure/Azure-Sentinel) - Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+* 【2022-10-15】[chakra-ui / chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️Simple, Modular & Accessible UI Components for your React Applications
 * 【2022-10-14】[InboxSDK / InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 * 【2022-10-14】[KAIR-BAIR / nerfacc](https://github.com/KAIR-BAIR/nerfacc) - A General NeRF Acceleration Toolbox in PyTorch.
 * 【2022-10-14】[FyroxEngine / Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
@@ -119,6 +125,8 @@
 
 ## Java
 
+* 【2022-10-15】[BleachDev / BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
+* 【2022-10-15】[ririv / QuickOutline](https://github.com/ririv/QuickOutline) - 给PDF添加大纲、目录。Add outline to PDF
 * 【2022-10-14】[googlesamples / mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
 * 【2022-10-14】[baidu / starlight](https://github.com/baidu/starlight) - Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 * 【2022-10-13】[software-mansion / react-native-svg](https://github.com/software-mansion/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
@@ -200,6 +208,10 @@
 
 ## Python
 
+* 【2022-10-15】[sqlalchemy / sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+* 【2022-10-15】[JingShing / NovelAI-installation-tutorial](https://github.com/JingShing/NovelAI-installation-tutorial) - NovelAI installation tutorial
+* 【2022-10-15】[django / django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+* 【2022-10-15】[microsoft / AI-System](https://github.com/microsoft/AI-System) - System for AI Education Resource.
 * 【2022-10-14】[bigb0sss / RedTeam-OffensiveSecurity](https://github.com/bigb0sss/RedTeam-OffensiveSecurity) - Tools & Interesting Things for RedTeam Ops
 * 【2022-10-14】[pytest-dev / pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 * 【2022-10-14】[joke2k / faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
@@ -307,6 +319,11 @@
 
 ## Javascript
 
+* 【2022-10-15】[obsidianmd / obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+* 【2022-10-15】[jhipster / generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+* 【2022-10-15】[formio / formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
+* 【2022-10-15】[ShuaiLeiLu / JD_Scripts](https://github.com/ShuaiLeiLu/JD_Scripts) - 京东羊毛脚本
+* 【2022-10-15】[hellojuantu / image_border_optimizer](https://github.com/hellojuantu/image_border_optimizer) - 轻量化的图片编辑器
 * 【2022-10-14】[rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 * 【2022-10-14】[conventional-changelog / standard-version](https://github.com/conventional-changelog/standard-version) - 🏆Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 * 【2022-10-14】[web3 / web3.js](https://github.com/web3/web3.js) - Ethereum JavaScript API
@@ -393,6 +410,7 @@
 
 ## Go
 
+* 【2022-10-15】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩Monibuca is a Modularized, Extensible framework for building Streaming Server
 * 【2022-10-14】[nats-io / nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 * 【2022-10-14】[shirou / gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
 * 【2022-10-14】[wa-lang / wa](https://github.com/wa-lang/wa) - 凹语言™ 专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainability, compiled language for developing WebAssembly software
@@ -461,6 +479,9 @@
 
 ## C
 
+* 【2022-10-15】[ORCx41 / AtomPePacker](https://github.com/ORCx41/AtomPePacker) - A Highly capable Pe Packer
+* 【2022-10-15】[lambertjamesd / portal64](https://github.com/lambertjamesd/portal64) - A demake of Portal for the Nintendo 64
+* 【2022-10-15】[echtdefault / Janus](https://github.com/echtdefault/Janus) - Janus is a pre-build event that performs string obfuscation during compile time. This project is based off the CIA's Marble Framework
 * 【2022-10-14】[CTCaer / hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 * 【2022-10-13】[li-xiaojun / AndroidKTX](https://github.com/li-xiaojun/AndroidKTX) - 🔥Some very useful kotlin extensions for speed android development！好用到爆的Kotlin扩展，加速你的Android开发！
 * 【2022-10-12】[goatshriek / stumpless](https://github.com/goatshriek/stumpless) - a C logging library built for high performance and a rich feature set
@@ -517,6 +538,9 @@
 
 ## C++
 
+* 【2022-10-15】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
+* 【2022-10-15】[google / oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
+* 【2022-10-15】[FiYHer / driver_callback_bypass_1909](https://github.com/FiYHer/driver_callback_bypass_1909) - 研究和移除各种内核回调,在anti anti cheat的路上越走越远
 * 【2022-10-14】[NVlabs / tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) - Lightning fast C++/CUDA neural network framework
 * 【2022-10-14】[NotepadFree / NotepadFree](https://github.com/NotepadFree/NotepadFree) - NotepadFree是源自Notepad++的编辑器应用。
 * 【2022-10-14】[ldrobotSensorTeam / ldlidar_stl_ros](https://github.com/ldrobotSensorTeam/ldlidar_stl_ros) - LDROBOT DTOF LiDAR ROS Package
@@ -600,6 +624,7 @@
 
 ## C#
 
+* 【2022-10-15】[HenJigg / wpf-uidesign](https://github.com/HenJigg/wpf-uidesign) - 使用WPF创建的一些UI设计案例
 * 【2022-10-14】[jfrog / project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
 * 【2022-10-14】[luzamm / PromptCombiner](https://github.com/luzamm/PromptCombiner) - novelai相关
 * 【2022-10-14】[microsoft / Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
@@ -658,6 +683,10 @@
 
 ## Html
 
+* 【2022-10-15】[Clueless-Community / web-ui-kit](https://github.com/Clueless-Community/web-ui-kit) - This is a Web UI Kit made with simple HTML and Tailwind CSS. You can use them in any of your projects, be it a simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app.
+* 【2022-10-15】[Lonewolf0502 / DeveloperCode](https://github.com/Lonewolf0502/DeveloperCode) - hacktoberfest 2022
+* 【2022-10-15】[Apoorv-cloud / 1_Hacktoberfest-22](https://github.com/Apoorv-cloud/1_Hacktoberfest-22) - A beginner-friendly repository to contribute for Hacktoberfest'22. Just add your favorite spotify playlist and get the PR merged
+* 【2022-10-15】[sudoskys / StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - Stable Diffusion Book |关于 Ai 绘画的全面中文Wiki|入门到入土|开源文档
 * 【2022-10-14】[BlackTimber-Labs / Portfolio-Website](https://github.com/BlackTimber-Labs/Portfolio-Website) - This is a HacktoberFest Repo, You can make portfolio Website of your own . Happy Open Source.
 * 【2022-10-14】[aymanebenhima / YouCodeScrumBoard](https://github.com/aymanebenhima/YouCodeScrumBoard) - L'objectif est de développer une application web YouCode Scrum Board en bootstrap et de le rendre aussi proche que possible de la conception proposée.
 * 【2022-10-13】[aws-samples / aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configuration file which enables the completely automated deployment of customizable architectures within AWS without changing a single line of code.
@@ -745,6 +774,9 @@
 
 ## Css
 
+* 【2022-10-15】[anshrusia200 / css-only-loaders](https://github.com/anshrusia200/css-only-loaders) - A repository for cool css-only loaders
+* 【2022-10-15】[edwardhaddican / ContactListStarter](https://github.com/edwardhaddican/ContactListStarter) - 
+* 【2022-10-15】[Shivang10799 / Hactoberfest_2022](https://github.com/Shivang10799/Hactoberfest_2022) - 
 * 【2022-10-14】[AgencyPMG / ProgrammingChallenges](https://github.com/AgencyPMG/ProgrammingChallenges) - Programming challenges for interviewees.
 * 【2022-10-14】[GauravMKedia / animation-collections](https://github.com/GauravMKedia/animation-collections) - This repository is made for containing different animations used for website designing.
 * 【2022-10-14】[Diptenusarkar / Website-Template](https://github.com/Diptenusarkar/Website-Template) - Website Template this repository is free for all. You can use this code for both personal & commercial use.
@@ -806,6 +838,13 @@
 
 ## Unknown
 
+* 【2022-10-15】[shreyaschavhan / oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try. [Start Date: 21st March 2022]
+* 【2022-10-15】[paulgolter / blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
+* 【2022-10-15】[jeromedalbert / real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
+* 【2022-10-15】[afshinea / stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
+* 【2022-10-15】[lovebeefcat / movie-bot-conf](https://github.com/lovebeefcat/movie-bot-conf) - 自用学习，请勿打扰
+* 【2022-10-15】[liu976336402 / NUC9-hackintosh](https://github.com/liu976336402/NUC9-hackintosh) - NUC9 opencore 引导
+* 【2022-10-15】[Trinea / android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects, More powerful web version:
 * 【2022-10-14】[Salusec / EfficientAudit](https://github.com/Salusec/EfficientAudit) - About how you should cooperate with the audit company to complete project audit with high quality and efficiency.
 * 【2022-10-14】[FBlackBox / BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.
 * 【2022-10-14】[bespoyasov / refactor-like-a-superhero-online-book](https://github.com/bespoyasov/refactor-like-a-superhero-online-book) - How to refactor apps efficiently and without pain •💩➡️🍭
