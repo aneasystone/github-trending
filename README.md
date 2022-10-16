@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-10-16】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo⚛️
+* 【2022-10-16】[rocketseat-education / ignite-lab-design-system](https://github.com/rocketseat-education/ignite-lab-design-system) - Projeto desenvolvido durante o Ignite Lab 03
+* 【2022-10-16】[horizon3ai / CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684) - A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager
+* 【2022-10-16】[lxgw / LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+* 【2022-10-16】[Unity-Technologies / game-programming-patterns-demo](https://github.com/Unity-Technologies/game-programming-patterns-demo) - A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook "Level up your code with game programming patterns"
+* 【2022-10-16】[angular / components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular
+* 【2022-10-16】[JingShing / novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver) - You can use this version to experience how novelai works without a good gpu.
+* 【2022-10-16】[react-hook-form / react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋React Hooks for form state management and validation (Web + React Native)
 * 【2022-10-15】[holbertonschool / Betty](https://github.com/holbertonschool/Betty) - Holberton-style C code checker written in Perl
 * 【2022-10-15】[smallnest / concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
 * 【2022-10-15】[awesome-devblog / awesome-devblog](https://github.com/awesome-devblog/awesome-devblog) - 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).
@@ -125,6 +133,8 @@
 
 ## Java
 
+* 【2022-10-16】[wiremock / wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
+* 【2022-10-16】[dropwizard / metrics](https://github.com/dropwizard/metrics) - 📈Capturing JVM- and application-level metrics. So you know what's going on.
 * 【2022-10-15】[BleachDev / BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
 * 【2022-10-15】[ririv / QuickOutline](https://github.com/ririv/QuickOutline) - 给PDF添加大纲、目录。Add outline to PDF
 * 【2022-10-14】[googlesamples / mlkit](https://github.com/googlesamples/mlkit) - A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS
@@ -208,6 +218,10 @@
 
 ## Python
 
+* 【2022-10-16】[carlosevieira / CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684) - PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only)
+* 【2022-10-16】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
+* 【2022-10-16】[CYDXDianXian / AI_image_gen](https://github.com/CYDXDianXian/AI_image_gen) - NovelAI绘图HoshinoBot插件版
+* 【2022-10-16】[heucoder / dimensionality_reduction_alo_codes](https://github.com/heucoder/dimensionality_reduction_alo_codes) - 特征提取/数据降维:PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
 * 【2022-10-15】[sqlalchemy / sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 * 【2022-10-15】[JingShing / NovelAI-installation-tutorial](https://github.com/JingShing/NovelAI-installation-tutorial) - NovelAI installation tutorial
 * 【2022-10-15】[django / django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -319,6 +333,9 @@
 
 ## Javascript
 
+* 【2022-10-16】[K8sAcademy / Fundamentals-HandsOn](https://github.com/K8sAcademy/Fundamentals-HandsOn) - Files for the Docker and Kubernetes Fundamentals Hands-On labs
+* 【2022-10-16】[realyao / WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序开源项目：【专注时钟】（v1.2.1）；时间规划、效率工具类
+* 【2022-10-16】[robotchangzhang / nftqianggou](https://github.com/robotchangzhang/nftqianggou) - 
 * 【2022-10-15】[obsidianmd / obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 * 【2022-10-15】[jhipster / generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 * 【2022-10-15】[formio / formio.js](https://github.com/formio/formio.js) - JavaScript powered Forms with JSON Form Builder
@@ -410,6 +427,8 @@
 
 ## Go
 
+* 【2022-10-16】[tencentmusic / evhub](https://github.com/tencentmusic/evhub) - EvHub supports the distribution of delayed, transaction, real-time and cyclic events. It is used in scenarios such as system decoupling, asynchronous calling and distributed transactions.
+* 【2022-10-16】[concourse / concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 * 【2022-10-15】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩Monibuca is a Modularized, Extensible framework for building Streaming Server
 * 【2022-10-14】[nats-io / nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 * 【2022-10-14】[shirou / gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -479,6 +498,8 @@
 
 ## C
 
+* 【2022-10-16】[util-linux / util-linux](https://github.com/util-linux/util-linux) - 
+* 【2022-10-16】[pjsip / pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 * 【2022-10-15】[ORCx41 / AtomPePacker](https://github.com/ORCx41/AtomPePacker) - A Highly capable Pe Packer
 * 【2022-10-15】[lambertjamesd / portal64](https://github.com/lambertjamesd/portal64) - A demake of Portal for the Nintendo 64
 * 【2022-10-15】[echtdefault / Janus](https://github.com/echtdefault/Janus) - Janus is a pre-build event that performs string obfuscation during compile time. This project is based off the CIA's Marble Framework
@@ -538,6 +559,11 @@
 
 ## C++
 
+* 【2022-10-16】[mozilla / DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+* 【2022-10-16】[HazyResearch / flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
+* 【2022-10-16】[deepmind / open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* 【2022-10-16】[microsoft / react-native-windows](https://github.com/microsoft/react-native-windows) - A framework for building native Windows apps with React.
+* 【2022-10-16】[downdemo / Effective-Modern-Cpp](https://github.com/downdemo/Effective-Modern-Cpp) - C++11/14/17 best practices for getting started quickly with modern C++.
 * 【2022-10-15】[progschj / ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
 * 【2022-10-15】[google / oboe](https://github.com/google/oboe) - Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 * 【2022-10-15】[FiYHer / driver_callback_bypass_1909](https://github.com/FiYHer/driver_callback_bypass_1909) - 研究和移除各种内核回调,在anti anti cheat的路上越走越远
@@ -624,6 +650,9 @@
 
 ## C#
 
+* 【2022-10-16】[mattpannella / pocket_core_autoupdate_net](https://github.com/mattpannella/pocket_core_autoupdate_net) - Analogue Pocket Updater Utility
+* 【2022-10-16】[mafaca / UtinyRipper](https://github.com/mafaca/UtinyRipper) - GUI and API library to work with Engine assets, serialized and bundle files
+* 【2022-10-16】[Jin-Yuhan / MinecraftClone-Unity](https://github.com/Jin-Yuhan/MinecraftClone-Unity) - A Minecraft clone in Unity
 * 【2022-10-15】[HenJigg / wpf-uidesign](https://github.com/HenJigg/wpf-uidesign) - 使用WPF创建的一些UI设计案例
 * 【2022-10-14】[jfrog / project-examples](https://github.com/jfrog/project-examples) - Small projects in universal build ecosystems to configure CI and Artifactory
 * 【2022-10-14】[luzamm / PromptCombiner](https://github.com/luzamm/PromptCombiner) - novelai相关
@@ -683,6 +712,8 @@
 
 ## Html
 
+* 【2022-10-16】[merlinmann / wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
+* 【2022-10-16】[Uahh / AnimationList](https://github.com/Uahh/AnimationList) - 制作你的番剧推荐列表
 * 【2022-10-15】[Clueless-Community / web-ui-kit](https://github.com/Clueless-Community/web-ui-kit) - This is a Web UI Kit made with simple HTML and Tailwind CSS. You can use them in any of your projects, be it a simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app.
 * 【2022-10-15】[Lonewolf0502 / DeveloperCode](https://github.com/Lonewolf0502/DeveloperCode) - hacktoberfest 2022
 * 【2022-10-15】[Apoorv-cloud / 1_Hacktoberfest-22](https://github.com/Apoorv-cloud/1_Hacktoberfest-22) - A beginner-friendly repository to contribute for Hacktoberfest'22. Just add your favorite spotify playlist and get the PR merged
@@ -774,6 +805,11 @@
 
 ## Css
 
+* 【2022-10-16】[DFE-Digital / govuk_feature_flags](https://github.com/DFE-Digital/govuk_feature_flags) - 
+* 【2022-10-16】[iamakhileshmishra / Mini_Projects_JavaScript](https://github.com/iamakhileshmishra/Mini_Projects_JavaScript) - This is a Repository Open for all to contribute your best Mini JavaScript Projects
+* 【2022-10-16】[colineckert / obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
+* 【2022-10-16】[EvgeniiMal / HTML-builder](https://github.com/EvgeniiMal/HTML-builder) - 
+* 【2022-10-16】[Aarzoo75 / Iron-man](https://github.com/Aarzoo75/Iron-man) - Animated Iron-man Using Just HTML & CSS
 * 【2022-10-15】[anshrusia200 / css-only-loaders](https://github.com/anshrusia200/css-only-loaders) - A repository for cool css-only loaders
 * 【2022-10-15】[edwardhaddican / ContactListStarter](https://github.com/edwardhaddican/ContactListStarter) - 
 * 【2022-10-15】[Shivang10799 / Hactoberfest_2022](https://github.com/Shivang10799/Hactoberfest_2022) - 
@@ -838,6 +874,13 @@
 
 ## Unknown
 
+* 【2022-10-16】[vaib25vicky / awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
+* 【2022-10-16】[iNeuronai / interview-question-data-science-](https://github.com/iNeuronai/interview-question-data-science-) - 
+* 【2022-10-16】[deepanshu1422 / List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) - A curated list of all the open-source internships/Programs
+* 【2022-10-16】[itsnebulalol / deb-to-ipa](https://github.com/itsnebulalol/deb-to-ipa) - ▶️Convert an application from a deb to an IPA with a GitHub workflow.
+* 【2022-10-16】[UniversityOfNicosia / META511MC-Course-Materials](https://github.com/UniversityOfNicosia/META511MC-Course-Materials) - 
+* 【2022-10-16】[Xposed-Modules-Repo / com.fuck.android.rimet](https://github.com/Xposed-Modules-Repo/com.fuck.android.rimet) - 锤锤
+* 【2022-10-16】[opendigg / awesome-github-vue](https://github.com/opendigg/awesome-github-vue) - Vue相关开源项目库汇总
 * 【2022-10-15】[shreyaschavhan / oscp-pre-preparation-plan-and-notes](https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes) - My OSCP Pre-Preparation Phase. I'm not sure if I'll be able to afford the exam but what count's trying and learning things. I'm gonna give it a try. [Start Date: 21st March 2022]
 * 【2022-10-15】[paulgolter / blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
 * 【2022-10-15】[jeromedalbert / real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps) - Real world React apps and their open source codebases for developers to learn from
