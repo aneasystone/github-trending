@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-10-17】[dunglas / frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
+* 【2022-10-17】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 来打包网页 Mac App
+* 【2022-10-17】[cisagov / RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
+* 【2022-10-17】[starship / starship](https://github.com/starship/starship) - ☄🌌️The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* 【2022-10-17】[dani-garcia / vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* 【2022-10-17】[amotile / stable-diffusion-studio](https://github.com/amotile/stable-diffusion-studio) - An animation focused workflow frontend for Stable Diffusion
+* 【2022-10-17】[logseq / logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 * 【2022-10-16】[midudev / preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react) - Preguntas típicas sobre React para entrevistas de trabajo⚛️
 * 【2022-10-16】[rocketseat-education / ignite-lab-design-system](https://github.com/rocketseat-education/ignite-lab-design-system) - Projeto desenvolvido durante o Ignite Lab 03
 * 【2022-10-16】[horizon3ai / CVE-2022-40684](https://github.com/horizon3ai/CVE-2022-40684) - A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager
@@ -133,6 +140,8 @@
 
 ## Java
 
+* 【2022-10-17】[cuynu / ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG APK Download
+* 【2022-10-17】[alibaba / Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.
 * 【2022-10-16】[wiremock / wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
 * 【2022-10-16】[dropwizard / metrics](https://github.com/dropwizard/metrics) - 📈Capturing JVM- and application-level metrics. So you know what's going on.
 * 【2022-10-15】[BleachDev / BleachHack](https://github.com/BleachDev/BleachHack) - block game utility mod that makes you a cool kid
@@ -218,6 +227,14 @@
 
 ## Python
 
+* 【2022-10-17】[Lightning-AI / stable-diffusion-deploy](https://github.com/Lightning-AI/stable-diffusion-deploy) - Learn to serve Stable Diffusion models on cloud infrastructure at scale. This Lightning App shows load-balancing, orchestrating, pre-provisioning, dynamic batching, GPU-inference, micro-services working together via the Lightning Apps framework.
+* 【2022-10-17】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
+* 【2022-10-17】[waydroid / waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+* 【2022-10-17】[TeamYukki / YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
+* 【2022-10-17】[VinsonLaro / stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化版本
+* 【2022-10-17】[lucky-ecat / wechat_info_collect](https://github.com/lucky-ecat/wechat_info_collect) - 调查取证 | 针对微信客户端的信息收集工具, 自动化提取本地PC所有的微信信息, 包括微信号, 手机号等
+* 【2022-10-17】[king-yyf / CMeKG_tools](https://github.com/king-yyf/CMeKG_tools) - 
+* 【2022-10-17】[vpei / Free-Node-Merge](https://github.com/vpei/Free-Node-Merge) - 自动合并 ss ssr trojan vmess vless 等免费节点链接，科学上网，定阅免费机场。有资源网址，请加Telegram群：opmhth
 * 【2022-10-16】[carlosevieira / CVE-2022-40684](https://github.com/carlosevieira/CVE-2022-40684) - PoC for CVE-2022-40684 - Authentication bypass lead to Full device takeover (Read-only)
 * 【2022-10-16】[microsoft / Swin-Transformer](https://github.com/microsoft/Swin-Transformer) - This is an official implementation for "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows".
 * 【2022-10-16】[CYDXDianXian / AI_image_gen](https://github.com/CYDXDianXian/AI_image_gen) - NovelAI绘图HoshinoBot插件版
@@ -333,6 +350,14 @@
 
 ## Javascript
 
+* 【2022-10-17】[adrianhajdin / project_shareme_social_media](https://github.com/adrianhajdin/project_shareme_social_media) - Image Sharing Social Media App
+* 【2022-10-17】[adrianhajdin / ecommerce_sanity_stripe](https://github.com/adrianhajdin/ecommerce_sanity_stripe) - Modern Full Stack ECommerce Application with Stripe
+* 【2022-10-17】[DominikDoom / a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
+* 【2022-10-17】[spicetify / spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+* 【2022-10-17】[MesonFi / meson-to](https://github.com/MesonFi/meson-to) - 
+* 【2022-10-17】[VideoTogether / VideoTogether](https://github.com/VideoTogether/VideoTogether) - Watch video together on any platform / 一起看视频，兼容所有平台
+* 【2022-10-17】[kenmingwang / azusa-player](https://github.com/kenmingwang/azusa-player) - A 3rd party Bilibili audio player / 一个Bilibili第三方音频播放器
+* 【2022-10-17】[Xu22Web / tech-study-js](https://github.com/Xu22Web/tech-study-js) - 学习强国油猴插件 A flexible and light userscript for xuexiqiangguo based on tampermonkey plugin
 * 【2022-10-16】[K8sAcademy / Fundamentals-HandsOn](https://github.com/K8sAcademy/Fundamentals-HandsOn) - Files for the Docker and Kubernetes Fundamentals Hands-On labs
 * 【2022-10-16】[realyao / WXminiprogram-Focus-clock](https://github.com/realyao/WXminiprogram-Focus-clock) - 微信小程序开源项目：【专注时钟】（v1.2.1）；时间规划、效率工具类
 * 【2022-10-16】[robotchangzhang / nftqianggou](https://github.com/robotchangzhang/nftqianggou) - 
@@ -427,6 +452,14 @@
 
 ## Go
 
+* 【2022-10-17】[twpayne / chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+* 【2022-10-17】[Jeffail / tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
+* 【2022-10-17】[roadrunner-server / roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯High-performance PHP application server, process manager written in Go and powered with plugins
+* 【2022-10-17】[dagger / dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines
+* 【2022-10-17】[labring / sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
+* 【2022-10-17】[saeipi / lark](https://github.com/saeipi/lark) - Go语言IM服务端
+* 【2022-10-17】[bytedance / godlp](https://github.com/bytedance/godlp) - sensitive information protection toolkit
+* 【2022-10-17】[iDvel / rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置，全拼方案，及长期维护的简体词库。
 * 【2022-10-16】[tencentmusic / evhub](https://github.com/tencentmusic/evhub) - EvHub supports the distribution of delayed, transaction, real-time and cyclic events. It is used in scenarios such as system decoupling, asynchronous calling and distributed transactions.
 * 【2022-10-16】[concourse / concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
 * 【2022-10-15】[langhuihui / monibuca](https://github.com/langhuihui/monibuca) - 🧩Monibuca is a Modularized, Extensible framework for building Streaming Server
@@ -498,6 +531,11 @@
 
 ## C
 
+* 【2022-10-17】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
+* 【2022-10-17】[PurpleVsGreen / beacown](https://github.com/PurpleVsGreen/beacown) - 
+* 【2022-10-17】[akamai / akamai-security-research](https://github.com/akamai/akamai-security-research) - This repository includes code and IoCs that are the product of research done in Akamai's various security research teams.
+* 【2022-10-17】[AOMediaCodec / libavif](https://github.com/AOMediaCodec/libavif) - libavif - Library for encoding and decoding .avif files
+* 【2022-10-17】[LDrakura / Remote_ShellcodeLoader](https://github.com/LDrakura/Remote_ShellcodeLoader) - 远程shellcode加载&权限维持+小功能
 * 【2022-10-16】[util-linux / util-linux](https://github.com/util-linux/util-linux) - 
 * 【2022-10-16】[pjsip / pjproject](https://github.com/pjsip/pjproject) - PJSIP project
 * 【2022-10-15】[ORCx41 / AtomPePacker](https://github.com/ORCx41/AtomPePacker) - A Highly capable Pe Packer
@@ -559,6 +597,12 @@
 
 ## C++
 
+* 【2022-10-17】[aseprite / aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+* 【2022-10-17】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
+* 【2022-10-17】[dogecoin / dogecoin](https://github.com/dogecoin/dogecoin) - very currency
+* 【2022-10-17】[wxWidgets / wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
+* 【2022-10-17】[griddb / griddb](https://github.com/griddb/griddb) - GridDB is a next-generation open source database that makes time series IoT and big data fast,and easy.
+* 【2022-10-17】[fish-shell / fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 * 【2022-10-16】[mozilla / DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 * 【2022-10-16】[HazyResearch / flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 * 【2022-10-16】[deepmind / open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
@@ -650,6 +694,10 @@
 
 ## C#
 
+* 【2022-10-17】[tier4 / AWSIM](https://github.com/tier4/AWSIM) - 
+* 【2022-10-17】[bitwarden / mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
+* 【2022-10-17】[GMYXDS / MstscManager](https://github.com/GMYXDS/MstscManager) - 一个支持MSTSC，Putty，Xshell，Xftp，Radmin，VNC，Winscp，SecureCRT的远程管理器
+* 【2022-10-17】[evilC / AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver
 * 【2022-10-16】[mattpannella / pocket_core_autoupdate_net](https://github.com/mattpannella/pocket_core_autoupdate_net) - Analogue Pocket Updater Utility
 * 【2022-10-16】[mafaca / UtinyRipper](https://github.com/mafaca/UtinyRipper) - GUI and API library to work with Engine assets, serialized and bundle files
 * 【2022-10-16】[Jin-Yuhan / MinecraftClone-Unity](https://github.com/Jin-Yuhan/MinecraftClone-Unity) - A Minecraft clone in Unity
@@ -712,6 +760,9 @@
 
 ## Html
 
+* 【2022-10-17】[dunglas / frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
+* 【2022-10-17】[linshaoSec / csdroid](https://github.com/linshaoSec/csdroid) - cobaltstrike手机客户端,cobaltstrike手机版,cs手机版，cobaltstrike android
+* 【2022-10-17】[goodchai0 / day-planner](https://github.com/goodchai0/day-planner) - This is day-planner project using html, css and js.
 * 【2022-10-16】[merlinmann / wisdom](https://github.com/merlinmann/wisdom) - Merlin Mann attempts to capture the best advice he's heard and learned from.
 * 【2022-10-16】[Uahh / AnimationList](https://github.com/Uahh/AnimationList) - 制作你的番剧推荐列表
 * 【2022-10-15】[Clueless-Community / web-ui-kit](https://github.com/Clueless-Community/web-ui-kit) - This is a Web UI Kit made with simple HTML and Tailwind CSS. You can use them in any of your projects, be it a simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app.
@@ -805,6 +856,7 @@
 
 ## Css
 
+* 【2022-10-17】[varunKT001 / awesome-javascript-projects](https://github.com/varunKT001/awesome-javascript-projects) - A collection of awesome projects made using plain HTML, CSS, and JavaScript
 * 【2022-10-16】[DFE-Digital / govuk_feature_flags](https://github.com/DFE-Digital/govuk_feature_flags) - 
 * 【2022-10-16】[iamakhileshmishra / Mini_Projects_JavaScript](https://github.com/iamakhileshmishra/Mini_Projects_JavaScript) - This is a Repository Open for all to contribute your best Mini JavaScript Projects
 * 【2022-10-16】[colineckert / obsidian-things](https://github.com/colineckert/obsidian-things) - An Obsidian theme inspired by the beautifully-designed app, Things.
@@ -874,6 +926,12 @@
 
 ## Unknown
 
+* 【2022-10-17】[NagliNagli / BountyTricks](https://github.com/NagliNagli/BountyTricks) - 
+* 【2022-10-17】[yeahhub / Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
+* 【2022-10-17】[zhanghong863 / Feature-Extractors-for-Video-Steganalysis](https://github.com/zhanghong863/Feature-Extractors-for-Video-Steganalysis) - To provide the stego community with C/C++ implementations of selected feature extractors mainly targeted at H.264 steganography.
+* 【2022-10-17】[feiyangqingyun / qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！
+* 【2022-10-17】[shuosc / fly](https://github.com/shuosc/fly) - 上海大学溯源手册（SHU_Fly）
+* 【2022-10-17】[deezertidal / QuantumultX-Rewrite](https://github.com/deezertidal/QuantumultX-Rewrite) - QuantumultX重写
 * 【2022-10-16】[vaib25vicky / awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I'm just maintaining it.
 * 【2022-10-16】[iNeuronai / interview-question-data-science-](https://github.com/iNeuronai/interview-question-data-science-) - 
 * 【2022-10-16】[deepanshu1422 / List-Of-Open-Source-Internships-Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs) - A curated list of all the open-source internships/Programs
