@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-10-18】[fruiframework / frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust
+* 【2022-10-18】[LunarVim / Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
+* 【2022-10-18】[google / zerocopy](https://github.com/google/zerocopy) - 
+* 【2022-10-18】[starlite-api / starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework
+* 【2022-10-18】[lxhao61 / integrated-examples](https://github.com/lxhao61/integrated-examples) - 以Xray或v2ray（V4）、trojan或trojan-go、naiveproxy、hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的caddy（caddy2）程序，分享给大家食用及自己备份。
 * 【2022-10-17】[dunglas / frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server
 * 【2022-10-17】[tw93 / Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 来打包网页 Mac App
 * 【2022-10-17】[cisagov / RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
@@ -140,6 +145,13 @@
 
 ## Java
 
+* 【2022-10-18】[shopizer-ecommerce / shopizer](https://github.com/shopizer-ecommerce/shopizer) - Shopizer java e-commerce software
+* 【2022-10-18】[hyb1996 / Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+* 【2022-10-18】[AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+* 【2022-10-18】[awslabs / smithy](https://github.com/awslabs/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
+* 【2022-10-18】[arin2002 / Coding-questions](https://github.com/arin2002/Coding-questions) - For hacktoberfest do fork and star the repo to participate......You can follow me for more updates :)
+* 【2022-10-18】[hs-web / hsweb-framework](https://github.com/hs-web/hsweb-framework) - hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
+* 【2022-10-18】[cskefu / cskefu](https://github.com/cskefu/cskefu) - 🌲春松客服，开源，免费，智能客服系统，机器人客服
 * 【2022-10-17】[cuynu / ytvanced](https://github.com/cuynu/ytvanced) - YouTube Vanced & Vanced MicroG APK Download
 * 【2022-10-17】[alibaba / Alink](https://github.com/alibaba/Alink) - Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.
 * 【2022-10-16】[wiremock / wiremock](https://github.com/wiremock/wiremock) - A tool for mocking HTTP services
@@ -227,6 +239,13 @@
 
 ## Python
 
+* 【2022-10-18】[Fluepke / konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors
+* 【2022-10-18】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
+* 【2022-10-18】[imvast / Discord-Account-Creator](https://github.com/imvast/Discord-Account-Creator) - Discord Account/Token Creator + Automatic Server Joiner + Automatic Boosts
+* 【2022-10-18】[donnemartin / interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+* 【2022-10-18】[WAMAWAMA / wama_medic](https://github.com/WAMAWAMA/wama_medic) - A simple-to-use yet function-rich medical image processing toolbox
+* 【2022-10-18】[kelvinBen / AppInfoScanner](https://github.com/kelvinBen/AppInfoScanner) - 一款适用于以HW行动/红队/渗透测试团队为场景的移动端(Android、iOS、WEB、H5、静态网站)信息收集扫描工具，可以帮助渗透测试工程师、攻击队成员、红队成员快速收集到移动端或者静态WEB站点中关键的资产信息并提供基本的信息输出,如：Title、Domain、CDN、指纹信息、状态信息等。
+* 【2022-10-18】[A-kirami / nonebot-plugin-aidraw](https://github.com/A-kirami/nonebot-plugin-aidraw) - nonebot2 AI 绘图
 * 【2022-10-17】[Lightning-AI / stable-diffusion-deploy](https://github.com/Lightning-AI/stable-diffusion-deploy) - Learn to serve Stable Diffusion models on cloud infrastructure at scale. This Lightning App shows load-balancing, orchestrating, pre-provisioning, dynamic batching, GPU-inference, micro-services working together via the Lightning Apps framework.
 * 【2022-10-17】[lutris / lutris](https://github.com/lutris/lutris) - Lutris desktop client in Python / PyGObject
 * 【2022-10-17】[waydroid / waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -350,6 +369,14 @@
 
 ## Javascript
 
+* 【2022-10-18】[terra-rebels / classic](https://github.com/terra-rebels/classic) - This is Rebel Territory
+* 【2022-10-18】[antonioru / beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development🔥
+* 【2022-10-18】[mifi / lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+* 【2022-10-18】[beefproject / beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
+* 【2022-10-18】[ckalgos / FUT-Auto-Buyer](https://github.com/ckalgos/FUT-Auto-Buyer) - Fifa UT AutoBuyer / Snipping Bot for fifa ultimate team web app with captcha solver
+* 【2022-10-18】[AlreadyBored / basic-js](https://github.com/AlreadyBored/basic-js) - 
+* 【2022-10-18】[Leask / socratex](https://github.com/Leask/socratex) - A Secure Web Proxy. Which is fast, secure, and easy to use.
+* 【2022-10-18】[yisar / asta](https://github.com/yisar/asta) - 🐙Resumable SSR framework.
 * 【2022-10-17】[adrianhajdin / project_shareme_social_media](https://github.com/adrianhajdin/project_shareme_social_media) - Image Sharing Social Media App
 * 【2022-10-17】[adrianhajdin / ecommerce_sanity_stripe](https://github.com/adrianhajdin/ecommerce_sanity_stripe) - Modern Full Stack ECommerce Application with Stripe
 * 【2022-10-17】[DominikDoom / a1111-sd-webui-tagcomplete](https://github.com/DominikDoom/a1111-sd-webui-tagcomplete) - Booru style tag autocompletion for AUTOMATIC1111's Stable Diffusion web UI
@@ -452,6 +479,12 @@
 
 ## Go
 
+* 【2022-10-18】[dragonflyoss / Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.
+* 【2022-10-18】[flower-corp / rosedb](https://github.com/flower-corp/rosedb) - 🚀A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set.
+* 【2022-10-18】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
+* 【2022-10-18】[DiceDB / dice](https://github.com/DiceDB/dice) - An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
+* 【2022-10-18】[zapellass123 / Golang-Project](https://github.com/zapellass123/Golang-Project) - 
+* 【2022-10-18】[Adminisme / ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 * 【2022-10-17】[twpayne / chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 * 【2022-10-17】[Jeffail / tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 * 【2022-10-17】[roadrunner-server / roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯High-performance PHP application server, process manager written in Go and powered with plugins
@@ -531,6 +564,8 @@
 
 ## C
 
+* 【2022-10-18】[makermoekoe / Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3) - 
+* 【2022-10-18】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
 * 【2022-10-17】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
 * 【2022-10-17】[PurpleVsGreen / beacown](https://github.com/PurpleVsGreen/beacown) - 
 * 【2022-10-17】[akamai / akamai-security-research](https://github.com/akamai/akamai-security-research) - This repository includes code and IoCs that are the product of research done in Akamai's various security research teams.
@@ -597,6 +632,9 @@
 
 ## C++
 
+* 【2022-10-18】[scummvm / scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
+* 【2022-10-18】[PotatoOfDoom / CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) - FidelityFx Super Resolution 2.0 for Cyberpunk
+* 【2022-10-18】[shaoshengsong / DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
 * 【2022-10-17】[aseprite / aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 * 【2022-10-17】[uNetworking / uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 * 【2022-10-17】[dogecoin / dogecoin](https://github.com/dogecoin/dogecoin) - very currency
@@ -694,6 +732,12 @@
 
 ## C#
 
+* 【2022-10-18】[SubtitleEdit / subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+* 【2022-10-18】[Aeroluna / Heck](https://github.com/Aeroluna/Heck) - modhcart
+* 【2022-10-18】[Orbmu2k / nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
+* 【2022-10-18】[Tyrrrz / YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
+* 【2022-10-18】[lay295 / TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
+* 【2022-10-18】[dotnetcore / Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
 * 【2022-10-17】[tier4 / AWSIM](https://github.com/tier4/AWSIM) - 
 * 【2022-10-17】[bitwarden / mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 * 【2022-10-17】[GMYXDS / MstscManager](https://github.com/GMYXDS/MstscManager) - 一个支持MSTSC，Putty，Xshell，Xftp，Radmin，VNC，Winscp，SecureCRT的远程管理器
@@ -760,6 +804,11 @@
 
 ## Html
 
+* 【2022-10-18】[Erenzy / roneywtf](https://github.com/Erenzy/roneywtf) - roney.wtf
+* 【2022-10-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
+* 【2022-10-18】[minhaj-313 / Facts-Website](https://github.com/minhaj-313/Facts-Website) - 
+* 【2022-10-18】[pplulee / appleid_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
+* 【2022-10-18】[qwerttvv / Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV) - 最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.eu.org/
 * 【2022-10-17】[dunglas / frankenphp-demo](https://github.com/dunglas/frankenphp-demo) - Demo app for FrankenPHP
 * 【2022-10-17】[linshaoSec / csdroid](https://github.com/linshaoSec/csdroid) - cobaltstrike手机客户端,cobaltstrike手机版,cs手机版，cobaltstrike android
 * 【2022-10-17】[goodchai0 / day-planner](https://github.com/goodchai0/day-planner) - This is day-planner project using html, css and js.
@@ -856,6 +905,10 @@
 
 ## Css
 
+* 【2022-10-18】[Spyware007 / Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) - Explore Amazing Buttons animation for your next project.🤩An initiative by GDSC-DYPCOE for Hactoberfest.🚀
+* 【2022-10-18】[abel-otegbola / clock-app](https://github.com/abel-otegbola/clock-app) - A clock application built with html css and js
+* 【2022-10-18】[ddworken / hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+* 【2022-10-18】[avinash201199 / Free-courses-with-Certificates](https://github.com/avinash201199/Free-courses-with-Certificates) - Collection of free courses with certificates
 * 【2022-10-17】[varunKT001 / awesome-javascript-projects](https://github.com/varunKT001/awesome-javascript-projects) - A collection of awesome projects made using plain HTML, CSS, and JavaScript
 * 【2022-10-16】[DFE-Digital / govuk_feature_flags](https://github.com/DFE-Digital/govuk_feature_flags) - 
 * 【2022-10-16】[iamakhileshmishra / Mini_Projects_JavaScript](https://github.com/iamakhileshmishra/Mini_Projects_JavaScript) - This is a Repository Open for all to contribute your best Mini JavaScript Projects
@@ -926,6 +979,12 @@
 
 ## Unknown
 
+* 【2022-10-18】[Sam5440 / Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport) - Akebi-Group/Akebi-GC Auto Teleport Points Sort
+* 【2022-10-18】[nv-tlabs / LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
+* 【2022-10-18】[TheSpeedX / PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List that gets updated everyday
+* 【2022-10-18】[wahyd4 / work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
+* 【2022-10-18】[tangtangcoding / C-CppLearning](https://github.com/tangtangcoding/C-CppLearning) - C语言与C++学习
+* 【2022-10-18】[hideuvpn / android-google-play-store](https://github.com/hideuvpn/android-google-play-store) - 安装谷歌三件套：google服务框架 ; google play service ;google play store
 * 【2022-10-17】[NagliNagli / BountyTricks](https://github.com/NagliNagli/BountyTricks) - 
 * 【2022-10-17】[yeahhub / Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks) - Top 100 Hacking & Security E-Books (Free Download)
 * 【2022-10-17】[zhanghong863 / Feature-Extractors-for-Video-Steganalysis](https://github.com/zhanghong863/Feature-Extractors-for-Video-Steganalysis) - To provide the stego community with C/C++ implementations of selected feature extractors mainly targeted at H.264 steganography.
