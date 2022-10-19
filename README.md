@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-10-19】[google / prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
+* 【2022-10-19】[Eugeny / tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+* 【2022-10-19】[p8952 / bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
+* 【2022-10-19】[Wind4 / vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
+* 【2022-10-19】[Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+* 【2022-10-19】[paritytech / substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
+* 【2022-10-19】[appsmithorg / appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+* 【2022-10-19】[silverhack / monkey365](https://github.com/silverhack/monkey365) - Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.
+* 【2022-10-19】[madebyollin / maple-diffusion](https://github.com/madebyollin/maple-diffusion) - Stable Diffusion inference on iOS / macOS using MPSGraph
 * 【2022-10-18】[fruiframework / frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust
 * 【2022-10-18】[LunarVim / Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 * 【2022-10-18】[google / zerocopy](https://github.com/google/zerocopy) - 
@@ -145,6 +154,9 @@
 
 ## Java
 
+* 【2022-10-19】[apangin / nalim](https://github.com/apangin/nalim) - Fast Java native interface based on JVMCI
+* 【2022-10-19】[jhipster / jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite⚡is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step.
+* 【2022-10-19】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。 The mini-spring is a simplified version of the Spring framework that will help you quickly get familiar with the Spring source code and grasp the core principles of Spring. The core logic of Spring …
 * 【2022-10-18】[shopizer-ecommerce / shopizer](https://github.com/shopizer-ecommerce/shopizer) - Shopizer java e-commerce software
 * 【2022-10-18】[hyb1996 / Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 * 【2022-10-18】[AntennaPod / AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
@@ -239,6 +251,12 @@
 
 ## Python
 
+* 【2022-10-19】[JustAnotherArchivist / snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
+* 【2022-10-19】[benrugg / AI-Render](https://github.com/benrugg/AI-Render) - Stable Diffusion in Blender
+* 【2022-10-19】[SaumyajeetDas / GodGenesis](https://github.com/SaumyajeetDas/GodGenesis) - A Python3 based C2 server to make life of red teamer a bit easier. The payload is capable to bypass all the known antiviruses and endpoints.
+* 【2022-10-19】[rushout09 / AutoTrader](https://github.com/rushout09/AutoTrader) - 
+* 【2022-10-19】[unit8co / darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+* 【2022-10-19】[netbox-community / netbox](https://github.com/netbox-community/netbox) - The premiere source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
 * 【2022-10-18】[Fluepke / konnektor-patch](https://github.com/Fluepke/konnektor-patch) - Saving 400 million euro of public health care money from reckless vendors
 * 【2022-10-18】[r0oth3x49 / ghauri](https://github.com/r0oth3x49/ghauri) - An advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security flaws
 * 【2022-10-18】[imvast / Discord-Account-Creator](https://github.com/imvast/Discord-Account-Creator) - Discord Account/Token Creator + Automatic Server Joiner + Automatic Boosts
@@ -369,6 +387,14 @@
 
 ## Javascript
 
+* 【2022-10-19】[feathericons / feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+* 【2022-10-19】[reorx / sui2](https://github.com/reorx/sui2) - a startpage for your server and / or new tab page
+* 【2022-10-19】[hyperai / tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified (Unofficial) / TVM 中文文档（非官方）
+* 【2022-10-19】[aws-actions / amazon-ecr-login](https://github.com/aws-actions/amazon-ecr-login) - Logs into Amazon ECR with the local Docker client.
+* 【2022-10-19】[ajaxorg / ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+* 【2022-10-19】[single-spa / single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
+* 【2022-10-19】[moshowgame / SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator) - 又名大狼狗代码生成器，基于SpringBoot2+Freemarker的JAVA代码生成器，以释放双手为目的，支持mysql/oracle/pgsql三大数据库， 用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL等相关代码.
+* 【2022-10-19】[yylive / YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
 * 【2022-10-18】[terra-rebels / classic](https://github.com/terra-rebels/classic) - This is Rebel Territory
 * 【2022-10-18】[antonioru / beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development🔥
 * 【2022-10-18】[mifi / lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
@@ -479,6 +505,10 @@
 
 ## Go
 
+* 【2022-10-19】[googleapis / google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
+* 【2022-10-19】[mutagen-io / mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
+* 【2022-10-19】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
+* 【2022-10-19】[nivin-studio / go-zero-mall](https://github.com/nivin-studio/go-zero-mall) - go-zero实战：让微服务Go起来
 * 【2022-10-18】[dragonflyoss / Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an intelligent P2P based image and file distribution system, it also provides a variety of enterprise-level (efficiency, stability, safety, low-cost) product features.
 * 【2022-10-18】[flower-corp / rosedb](https://github.com/flower-corp/rosedb) - 🚀A high performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set.
 * 【2022-10-18】[cbeuw / Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries
@@ -564,6 +594,11 @@
 
 ## C
 
+* 【2022-10-19】[ORCx41 / NoRunPI](https://github.com/ORCx41/NoRunPI) - Run Your Payload Without Running Your Payload
+* 【2022-10-19】[rvaiya / warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
+* 【2022-10-19】[FDio / vpp](https://github.com/FDio/vpp) - 
+* 【2022-10-19】[DrTimothyAldenDavis / SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) - The official SuiteSparse library: a suite of sparse matrix algorithms authored or co-authored by Tim Davis, Texas A&M University. NOTE: PRs without signed CONTRIBUTOR AGREEMENT can't be accepted.
+* 【2022-10-19】[20000s / android_cve](https://github.com/20000s/android_cve) - 主要记入自己复现过的android cve
 * 【2022-10-18】[makermoekoe / Picoclick-C3](https://github.com/makermoekoe/Picoclick-C3) - 
 * 【2022-10-18】[gcc-mirror / gcc](https://github.com/gcc-mirror/gcc) - 
 * 【2022-10-17】[mgba-emu / mgba](https://github.com/mgba-emu/mgba) - mGBA Game Boy Advance Emulator
@@ -632,6 +667,9 @@
 
 ## C++
 
+* 【2022-10-19】[Wh04m1001 / IFaultrepElevatedDataCollectionUAC](https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC) - 
+* 【2022-10-19】[google / or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
+* 【2022-10-19】[YatSenOS / YatSenOS-Tutorial-Volume-1](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1) - A Simple 32-bit OS lab tutorial.
 * 【2022-10-18】[scummvm / scummvm](https://github.com/scummvm/scummvm) - ScummVM main repository
 * 【2022-10-18】[PotatoOfDoom / CyberFSR2](https://github.com/PotatoOfDoom/CyberFSR2) - FidelityFx Super Resolution 2.0 for Cyberpunk
 * 【2022-10-18】[shaoshengsong / DeepSORT](https://github.com/shaoshengsong/DeepSORT) - support deepsort and bytetrack MOT(Multi-object tracking) using yolov5 with C++
@@ -732,6 +770,10 @@
 
 ## C#
 
+* 【2022-10-19】[n00mkrad / text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
+* 【2022-10-19】[ThreeMammals / Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
+* 【2022-10-19】[NetDimension / NanUI](https://github.com/NetDimension/NanUI) - NanUI is an open source .NET project for .NET developers who want to build desktop applications with HTML, CSS and JavaScript.
+* 【2022-10-19】[CoreUnion / CoreShop](https://github.com/CoreUnion/CoreShop) - 基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。
 * 【2022-10-18】[SubtitleEdit / subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 * 【2022-10-18】[Aeroluna / Heck](https://github.com/Aeroluna/Heck) - modhcart
 * 【2022-10-18】[Orbmu2k / nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - 
@@ -804,6 +846,7 @@
 
 ## Html
 
+* 【2022-10-19】[OCA / sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
 * 【2022-10-18】[Erenzy / roneywtf](https://github.com/Erenzy/roneywtf) - roney.wtf
 * 【2022-10-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
 * 【2022-10-18】[minhaj-313 / Facts-Website](https://github.com/minhaj-313/Facts-Website) - 
@@ -905,6 +948,11 @@
 
 ## Css
 
+* 【2022-10-19】[TheGuyDangerous / FoodCoders](https://github.com/TheGuyDangerous/FoodCoders) - 
+* 【2022-10-19】[rkshawon / login-form.github.io](https://github.com/rkshawon/login-form.github.io) - 
+* 【2022-10-19】[ismeet010 / Magic-Of-CSS](https://github.com/ismeet010/Magic-Of-CSS) - lets play with CSS and learn
+* 【2022-10-19】[preeformance / siktheday](https://github.com/preeformance/siktheday) - Restaurant rating app
+* 【2022-10-19】[tkashkin / Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 * 【2022-10-18】[Spyware007 / Animating-Buttons](https://github.com/Spyware007/Animating-Buttons) - Explore Amazing Buttons animation for your next project.🤩An initiative by GDSC-DYPCOE for Hactoberfest.🚀
 * 【2022-10-18】[abel-otegbola / clock-app](https://github.com/abel-otegbola/clock-app) - A clock application built with html css and js
 * 【2022-10-18】[ddworken / hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
@@ -979,6 +1027,16 @@
 
 ## Unknown
 
+* 【2022-10-19】[AmbiML / sparrow-manifest](https://github.com/AmbiML/sparrow-manifest) - Project Sparrow: Repo Materials
+* 【2022-10-19】[CyberSecurityUP / OSCE-Complete-Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - OSWE, OSEP, OSED
+* 【2022-10-19】[ruitunion / open-letter-to-mishustin](https://github.com/ruitunion/open-letter-to-mishustin) - 
+* 【2022-10-19】[miladrahimi / v2ray-docker-compose](https://github.com/miladrahimi/v2ray-docker-compose) - V2Ray Docker Compose Sample (Bridge and Upstream Servers)
+* 【2022-10-19】[dbt-labs / jaffle_shop](https://github.com/dbt-labs/jaffle_shop) - A self-contained dbt project for testing purposes
+* 【2022-10-19】[sobotka / AgX](https://github.com/sobotka/AgX) - There Be Kraken and Dragons
+* 【2022-10-19】[dogadmin / windodws-logs-analysis](https://github.com/dogadmin/windodws-logs-analysis) - windows日志一键分析小工具
+* 【2022-10-19】[zonechen1994 / CV_Interview](https://github.com/zonechen1994/CV_Interview) - I hope this repo can help you a lot!
+* 【2022-10-19】[linhandev / dataset](https://github.com/linhandev/dataset) - 医学影像数据集列表 『An Index for Medical Imaging Datasets』
+* 【2022-10-19】[kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 * 【2022-10-18】[Sam5440 / Genshin_Impact_Teleport](https://github.com/Sam5440/Genshin_Impact_Teleport) - Akebi-Group/Akebi-GC Auto Teleport Points Sort
 * 【2022-10-18】[nv-tlabs / LION](https://github.com/nv-tlabs/LION) - Latent Point Diffusion Models for 3D Shape Generation
 * 【2022-10-18】[TheSpeedX / PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List that gets updated everyday
