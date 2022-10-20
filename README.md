@@ -6,6 +6,17 @@
 
 ## All language
 
+* 【2022-10-20】[rocketseat-education / explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) - 
+* 【2022-10-20】[fereidani / kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
+* 【2022-10-20】[javtube / javtube-sdk-go](https://github.com/javtube/javtube-sdk-go) - Just Another Video Tube SDK in Golang.
+* 【2022-10-20】[AmbiML / sparrow-kata](https://github.com/AmbiML/sparrow-kata) - Project Sparrow: KataOS
+* 【2022-10-20】[lucide-icons / lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+* 【2022-10-20】[itorr / china-ex](https://github.com/itorr/china-ex) - 🇨🇳「中国制霸生成器」中国三十四省份制霸标记工具
+* 【2022-10-20】[eugeneyan / ml-surveys](https://github.com/eugeneyan/ml-surveys) - 📋Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.
+* 【2022-10-20】[metabase / metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company😋
+* 【2022-10-20】[airbnb / lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
+* 【2022-10-20】[Blinue / Magpie](https://github.com/Blinue/Magpie) - 使游戏窗口全屏显示
+* 【2022-10-20】[datawhalechina / easy-rl](https://github.com/datawhalechina/easy-rl) - 强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/
 * 【2022-10-19】[google / prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 * 【2022-10-19】[Eugeny / tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 * 【2022-10-19】[p8952 / bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
@@ -154,6 +165,9 @@
 
 ## Java
 
+* 【2022-10-20】[projectlombok / lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
+* 【2022-10-20】[SonarSource / sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+* 【2022-10-20】[dromara / dante-cloud](https://github.com/dromara/dante-cloud) - 企业级技术中台微服务架构与服务能力开发平台。首个全面拥抱 Spring Authorization Server 版本，基于Spring Authorization Server 0.3.1、Spring Boot 2.7.4、Spring Cloud 2021.0.4、Spring Cloud Alibaba 2021.0.4.0、Nacos 2.1.1开发的多租户系统，高度模块化和可配置化，非常适合学习和企业作为基础框架使用。🔝🔝点个Star关注更新！
 * 【2022-10-19】[apangin / nalim](https://github.com/apangin/nalim) - Fast Java native interface based on JVMCI
 * 【2022-10-19】[jhipster / jhipster-lite](https://github.com/jhipster/jhipster-lite) - JHipster Lite⚡is a development platform to generate, develop & deploy modern web applications & microservices architecture, step by step.
 * 【2022-10-19】[DerekYRC / mini-spring](https://github.com/DerekYRC/mini-spring) - mini-spring是简化版的spring框架，能帮助你快速熟悉spring源码和掌握spring的核心原理。抽取了spring的核心逻辑，代码极度简化，保留spring的核心功能，如IoC和AOP、资源加载器、事件监听器、类型转换、容器扩展点、bean生命周期和作用域、应用上下文等核心功能。 The mini-spring is a simplified version of the Spring framework that will help you quickly get familiar with the Spring source code and grasp the core principles of Spring. The core logic of Spring …
@@ -251,6 +265,13 @@
 
 ## Python
 
+* 【2022-10-20】[WeAreMahsaAmini / FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet) - Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini
+* 【2022-10-20】[diego-vicente / som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
+* 【2022-10-20】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+* 【2022-10-20】[deforum-art / deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui) - Deforum extention script for AUTOMATIC1111's Stable Diffusion webui
+* 【2022-10-20】[its-arun / CVE-2022-39197](https://github.com/its-arun/CVE-2022-39197) - CobaltStrike <= 4.7.1 RCE
+* 【2022-10-20】[wkentaro / labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+* 【2022-10-20】[malaohu / MobaXterm-GenKey](https://github.com/malaohu/MobaXterm-GenKey) - 你懂的！
 * 【2022-10-19】[JustAnotherArchivist / snscrape](https://github.com/JustAnotherArchivist/snscrape) - A social networking service scraper in Python
 * 【2022-10-19】[benrugg / AI-Render](https://github.com/benrugg/AI-Render) - Stable Diffusion in Blender
 * 【2022-10-19】[SaumyajeetDas / GodGenesis](https://github.com/SaumyajeetDas/GodGenesis) - A Python3 based C2 server to make life of red teamer a bit easier. The payload is capable to bypass all the known antiviruses and endpoints.
@@ -387,6 +408,10 @@
 
 ## Javascript
 
+* 【2022-10-20】[ed-roh / react-admin-dashboard](https://github.com/ed-roh/react-admin-dashboard) - Complete React Admin Dashboard
+* 【2022-10-20】[cypress-io / github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests
+* 【2022-10-20】[cncf / landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+* 【2022-10-20】[itorr / nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 * 【2022-10-19】[feathericons / feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 * 【2022-10-19】[reorx / sui2](https://github.com/reorx/sui2) - a startpage for your server and / or new tab page
 * 【2022-10-19】[hyperai / tvm-cn](https://github.com/hyperai/tvm-cn) - TVM Documentation in Chinese Simplified (Unofficial) / TVM 中文文档（非官方）
@@ -505,6 +530,10 @@
 
 ## Go
 
+* 【2022-10-20】[niklas-heer / speed-comparison](https://github.com/niklas-heer/speed-comparison) - A repo which compares the speed of different programming languages.
+* 【2022-10-20】[grpc-ecosystem / go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+* 【2022-10-20】[helloxz / zdir](https://github.com/helloxz/zdir) - Golang + Vue3开发的目录列表程序。
+* 【2022-10-20】[LubyRuffy / rproxy](https://github.com/LubyRuffy/rproxy) - 自动化的代理服务器
 * 【2022-10-19】[googleapis / google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 * 【2022-10-19】[mutagen-io / mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
 * 【2022-10-19】[hashicorp / terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
@@ -594,6 +623,8 @@
 
 ## C
 
+* 【2022-10-20】[joeycastillo / Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - 
+* 【2022-10-20】[BohemiaInteractive / DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) - DayZ Central Economy configuration
 * 【2022-10-19】[ORCx41 / NoRunPI](https://github.com/ORCx41/NoRunPI) - Run Your Payload Without Running Your Payload
 * 【2022-10-19】[rvaiya / warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 * 【2022-10-19】[FDio / vpp](https://github.com/FDio/vpp) - 
@@ -667,6 +698,11 @@
 
 ## C++
 
+* 【2022-10-20】[cmderdev / cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+* 【2022-10-20】[PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
+* 【2022-10-20】[marcj / TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
+* 【2022-10-20】[e-dant / watcher](https://github.com/e-dant/watcher) - Filesystem watcher. Works anywhere. Simple, efficient and friendly.
+* 【2022-10-20】[openMVG / openMVG](https://github.com/openMVG/openMVG) - open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
 * 【2022-10-19】[Wh04m1001 / IFaultrepElevatedDataCollectionUAC](https://github.com/Wh04m1001/IFaultrepElevatedDataCollectionUAC) - 
 * 【2022-10-19】[google / or-tools](https://github.com/google/or-tools) - Google's Operations Research tools:
 * 【2022-10-19】[YatSenOS / YatSenOS-Tutorial-Volume-1](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1) - A Simple 32-bit OS lab tutorial.
@@ -770,6 +806,13 @@
 
 ## C#
 
+* 【2022-10-20】[iamtorsten / libfintx](https://github.com/iamtorsten/libfintx) - 🏦C# based client library for HBCI 2.2, FinTS 3.0, EBICS H004 and EBICS H005.
+* 【2022-10-20】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
+* 【2022-10-20】[bugch3ck / SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato) - Local privilege escalation from SeImpersonatePrivilege using EfsRpc.
+* 【2022-10-20】[FluentValidation / FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+* 【2022-10-20】[dotnet / crank](https://github.com/dotnet/crank) - Benchmarking infrastructure for applications
+* 【2022-10-20】[xljiulang / WindivertDotnet](https://github.com/xljiulang/WindivertDotnet) - 面向对象的WinDivert的dotnet异步封装
+* 【2022-10-20】[Wind-Coming / MultiUnitSameScreen](https://github.com/Wind-Coming/MultiUnitSameScreen) - 十万同屏，真机测试，slg，ecs
 * 【2022-10-19】[n00mkrad / text2image-gui](https://github.com/n00mkrad/text2image-gui) - Somewhat modular text2image GUI, initially just for Stable Diffusion
 * 【2022-10-19】[ThreeMammals / Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * 【2022-10-19】[NetDimension / NanUI](https://github.com/NetDimension/NanUI) - NanUI is an open source .NET project for .NET developers who want to build desktop applications with HTML, CSS and JavaScript.
@@ -846,6 +889,10 @@
 
 ## Html
 
+* 【2022-10-20】[iamehran / hacktoberfest2022](https://github.com/iamehran/hacktoberfest2022) - Quantity is fun, Quality is key, you can contribute your valuable code here. Don't forget to⭐this repo
+* 【2022-10-20】[hilmanski / freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
+* 【2022-10-20】[dharmanshu9930 / Website](https://github.com/dharmanshu9930/Website) - hacktoberfest2022 repo
+* 【2022-10-20】[VG-1 / PlaylistAdda](https://github.com/VG-1/PlaylistAdda) - A fun project for friends through which anyone can share their music playlists.
 * 【2022-10-19】[OCA / sale-workflow](https://github.com/OCA/sale-workflow) - Odoo Sales, Workflow and Organization
 * 【2022-10-18】[Erenzy / roneywtf](https://github.com/Erenzy/roneywtf) - roney.wtf
 * 【2022-10-18】[ShreyamMaity / student-offers](https://github.com/ShreyamMaity/student-offers) - A Collection Of All Free Student Offers & Discount while you are a student.
@@ -948,6 +995,14 @@
 
 ## Css
 
+* 【2022-10-20】[simeydotme / pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - 
+* 【2022-10-20】[dephraiim / minimal-youtube](https://github.com/dephraiim/minimal-youtube) - Minimal YouTube is an extension that replaces the YouTube UI with a minimal design containing no recommendations, shorts, or distractions.
+* 【2022-10-20】[pythoniclaver / Dent-Clack](https://github.com/pythoniclaver/Dent-Clack) - Dent Clack is a medical application that helps people get access to quick appointment for dental treatment at the comfort of their home.
+* 【2022-10-20】[TwoGenius / HacktoberFest2022](https://github.com/TwoGenius/HacktoberFest2022) - Make contribution and learn open-source
+* 【2022-10-20】[GDSC-IIIT-Kalyani / playground](https://github.com/GDSC-IIIT-Kalyani/playground) - Sample repository for working with GitHub API
+* 【2022-10-20】[oracle / microservices-datadriven](https://github.com/oracle/microservices-datadriven) - Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
+* 【2022-10-20】[FuzzySecurity / Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco.
+* 【2022-10-20】[Deepu3311 / WebDevLovers](https://github.com/Deepu3311/WebDevLovers) - Upload Working Mini Project
 * 【2022-10-19】[TheGuyDangerous / FoodCoders](https://github.com/TheGuyDangerous/FoodCoders) - 
 * 【2022-10-19】[rkshawon / login-form.github.io](https://github.com/rkshawon/login-form.github.io) - 
 * 【2022-10-19】[ismeet010 / Magic-Of-CSS](https://github.com/ismeet010/Magic-Of-CSS) - lets play with CSS and learn
@@ -1027,6 +1082,11 @@
 
 ## Unknown
 
+* 【2022-10-20】[Cryptocandy342 / Pancakeswap-Sniper-Bot](https://github.com/Cryptocandy342/Pancakeswap-Sniper-Bot) - 
+* 【2022-10-20】[EmicoEcommerce / Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches) - This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability
+* 【2022-10-20】[ChristianLempa / cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+* 【2022-10-20】[quozd / awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
+* 【2022-10-20】[qianguyihao / Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 * 【2022-10-19】[AmbiML / sparrow-manifest](https://github.com/AmbiML/sparrow-manifest) - Project Sparrow: Repo Materials
 * 【2022-10-19】[CyberSecurityUP / OSCE-Complete-Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - OSWE, OSEP, OSED
 * 【2022-10-19】[ruitunion / open-letter-to-mishustin](https://github.com/ruitunion/open-letter-to-mishustin) - 
