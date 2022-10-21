@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-10-21】[Kaustubh-Natuskar / moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups.
+* 【2022-10-21】[LearningOS / rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
+* 【2022-10-21】[hashicorp / vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+* 【2022-10-21】[fzyzcjy / flutter_smooth](https://github.com/fzyzcjy/flutter_smooth) - Achieve ~60 FPS, no matter how heavy the tree is to build/layout
+* 【2022-10-21】[AleoHQ / snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
+* 【2022-10-21】[paxifaer / genetic_algorithm](https://github.com/paxifaer/genetic_algorithm) - 
+* 【2022-10-21】[yichengchen / ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili Live Client Demo for Apple TV (tvOS)
+* 【2022-10-21】[nihaojob / vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) - 基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。
 * 【2022-10-20】[rocketseat-education / explorer-lab-01](https://github.com/rocketseat-education/explorer-lab-01) - 
 * 【2022-10-20】[fereidani / kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 * 【2022-10-20】[javtube / javtube-sdk-go](https://github.com/javtube/javtube-sdk-go) - Just Another Video Tube SDK in Golang.
@@ -165,6 +173,8 @@
 
 ## Java
 
+* 【2022-10-21】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
+* 【2022-10-21】[yangzongzhuan / RuoYi-Cloud](https://github.com/yangzongzhuan/RuoYi-Cloud) - 🎉(RuoYi)官方仓库 基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统
 * 【2022-10-20】[projectlombok / lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 * 【2022-10-20】[SonarSource / sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 * 【2022-10-20】[dromara / dante-cloud](https://github.com/dromara/dante-cloud) - 企业级技术中台微服务架构与服务能力开发平台。首个全面拥抱 Spring Authorization Server 版本，基于Spring Authorization Server 0.3.1、Spring Boot 2.7.4、Spring Cloud 2021.0.4、Spring Cloud Alibaba 2021.0.4.0、Nacos 2.1.1开发的多租户系统，高度模块化和可配置化，非常适合学习和企业作为基础框架使用。🔝🔝点个Star关注更新！
@@ -265,6 +275,15 @@
 
 ## Python
 
+* 【2022-10-21】[robotframework / robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
+* 【2022-10-21】[getsentry / sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+* 【2022-10-21】[NVIDIA / DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
+* 【2022-10-21】[hayabhay / whisper-ui](https://github.com/hayabhay/whisper-ui) - Streamlit UI for OpenAI's Whisper
+* 【2022-10-21】[tiangolo / full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+* 【2022-10-21】[goauthentik / authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+* 【2022-10-21】[lululxvi / deepxde](https://github.com/lululxvi/deepxde) - A library for scientific machine learning and physics-informed learning
+* 【2022-10-21】[JingShing / NovelAI-4chan-lowvram-ver](https://github.com/JingShing/NovelAI-4chan-lowvram-ver) - A low vram ver for installing novelai 4chan leaked ver.
+* 【2022-10-21】[s045pd / DarkNet_ChineseTrading](https://github.com/s045pd/DarkNet_ChineseTrading) - 🚇暗网中文网监控爬虫(DEEPMIX)
 * 【2022-10-20】[WeAreMahsaAmini / FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet) - Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini
 * 【2022-10-20】[diego-vicente / som-tsp](https://github.com/diego-vicente/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps
 * 【2022-10-20】[newren / git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
@@ -408,6 +427,11 @@
 
 ## Javascript
 
+* 【2022-10-21】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
+* 【2022-10-21】[noslate-project / noslate](https://github.com/noslate-project/noslate) - 💫Noslate is an elegant, modern and fully customizable serverless runtime.
+* 【2022-10-21】[3kh0 / ext-remover](https://github.com/3kh0/ext-remover) - Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!
+* 【2022-10-21】[meteor / meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+* 【2022-10-21】[erdongchanyo / Rules](https://github.com/erdongchanyo/Rules) - 收集整理觉得还行的一些规则
 * 【2022-10-20】[ed-roh / react-admin-dashboard](https://github.com/ed-roh/react-admin-dashboard) - Complete React Admin Dashboard
 * 【2022-10-20】[cypress-io / github-action](https://github.com/cypress-io/github-action) - GitHub Action for running Cypress end-to-end tests
 * 【2022-10-20】[cncf / landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
@@ -530,6 +554,9 @@
 
 ## Go
 
+* 【2022-10-21】[carl1l / f403](https://github.com/carl1l/f403) - 用于渗透测试中对40x页面进行bypass并发扫描,采用go编写
+* 【2022-10-21】[bilibili / SMGo](https://github.com/bilibili/SMGo) - SM cipher library. Constant-time implementation of SM2 and SM4.
+* 【2022-10-21】[llychao / m3u8-downloader](https://github.com/llychao/m3u8-downloader) - 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
 * 【2022-10-20】[niklas-heer / speed-comparison](https://github.com/niklas-heer/speed-comparison) - A repo which compares the speed of different programming languages.
 * 【2022-10-20】[grpc-ecosystem / go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 * 【2022-10-20】[helloxz / zdir](https://github.com/helloxz/zdir) - Golang + Vue3开发的目录列表程序。
@@ -623,6 +650,10 @@
 
 ## C
 
+* 【2022-10-21】[JuliaPoo / Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
+* 【2022-10-21】[Lienol / openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+* 【2022-10-21】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
+* 【2022-10-21】[BrightDaniel / alx-low_level_programming](https://github.com/BrightDaniel/alx-low_level_programming) - 
 * 【2022-10-20】[joeycastillo / Sensor-Watch](https://github.com/joeycastillo/Sensor-Watch) - 
 * 【2022-10-20】[BohemiaInteractive / DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) - DayZ Central Economy configuration
 * 【2022-10-19】[ORCx41 / NoRunPI](https://github.com/ORCx41/NoRunPI) - Run Your Payload Without Running Your Payload
@@ -698,6 +729,9 @@
 
 ## C++
 
+* 【2022-10-21】[Bl4ckM1rror / FUD-UUID-Shellcode](https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode) - 
+* 【2022-10-21】[PaddlePaddle / Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
+* 【2022-10-21】[Tencent / GameAISDK](https://github.com/Tencent/GameAISDK) - 基于图像的游戏AI自动化框架
 * 【2022-10-20】[cmderdev / cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 * 【2022-10-20】[PrismLauncher / PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)
 * 【2022-10-20】[marcj / TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
@@ -889,6 +923,11 @@
 
 ## Html
 
+* 【2022-10-21】[sanskarmalkhede / basic-programs](https://github.com/sanskarmalkhede/basic-programs) - Add your programs you made while learning new programming languages
+* 【2022-10-21】[OCA / server-ux](https://github.com/OCA/server-ux) - 
+* 【2022-10-21】[dark-kingA / superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - 聚合版空间资产测绘
+* 【2022-10-21】[cxman1 / vue-collect](https://github.com/cxman1/vue-collect) - 前端资源、知识汇总Technology sharing blog
+* 【2022-10-21】[CMoyuer / PicoAreaHelper](https://github.com/CMoyuer/PicoAreaHelper) - Pico4换区小助手
 * 【2022-10-20】[iamehran / hacktoberfest2022](https://github.com/iamehran/hacktoberfest2022) - Quantity is fun, Quality is key, you can contribute your valuable code here. Don't forget to⭐this repo
 * 【2022-10-20】[hilmanski / freeStuffDev](https://github.com/hilmanski/freeStuffDev) - list of free stuff for developer
 * 【2022-10-20】[dharmanshu9930 / Website](https://github.com/dharmanshu9930/Website) - hacktoberfest2022 repo
@@ -995,6 +1034,13 @@
 
 ## Css
 
+* 【2022-10-21】[PrismLauncher / prismlauncher.github.io](https://github.com/PrismLauncher/prismlauncher.github.io) - The Prism Launcher website.
+* 【2022-10-21】[cc4m1l0 / Clase-De-Software](https://github.com/cc4m1l0/Clase-De-Software) - 
+* 【2022-10-21】[Faraz1243 / OpenSourse-Static-Web-Templates](https://github.com/Faraz1243/OpenSourse-Static-Web-Templates) - An opensource repository consisting of static website templates for hacktoberfest 2022
+* 【2022-10-21】[udacity / course-collaboration-travel-plans](https://github.com/udacity/course-collaboration-travel-plans) - 
+* 【2022-10-21】[meme-libs / meme](https://github.com/meme-libs/meme) - （梗）Meme.
+* 【2022-10-21】[zcjunblog / google-access-helper2022](https://github.com/zcjunblog/google-access-helper2022) - google-access-helper谷歌访问助手2021全版本合集，访问谷歌商店，谷歌搜索，谷歌地图等...
+* 【2022-10-21】[workcheng / WeiYa](https://github.com/workcheng/WeiYa) - 尾牙小程序
 * 【2022-10-20】[simeydotme / pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - 
 * 【2022-10-20】[dephraiim / minimal-youtube](https://github.com/dephraiim/minimal-youtube) - Minimal YouTube is an extension that replaces the YouTube UI with a minimal design containing no recommendations, shorts, or distractions.
 * 【2022-10-20】[pythoniclaver / Dent-Clack](https://github.com/pythoniclaver/Dent-Clack) - Dent Clack is a medical application that helps people get access to quick appointment for dental treatment at the comfort of their home.
@@ -1082,6 +1128,12 @@
 
 ## Unknown
 
+* 【2022-10-21】[blockchain-etl / awesome-bigquery-views](https://github.com/blockchain-etl/awesome-bigquery-views) - Useful SQL queries for Blockchain ETL datasets in BigQuery.
+* 【2022-10-21】[google / material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+* 【2022-10-21】[MystenLabs / awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
+* 【2022-10-21】[purp0s3 / Tweaked-iOS-Apps](https://github.com/purp0s3/Tweaked-iOS-Apps) - Tweaks injected into iOS apps.
+* 【2022-10-21】[fouber / blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+* 【2022-10-21】[hzwer / shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 * 【2022-10-20】[Cryptocandy342 / Pancakeswap-Sniper-Bot](https://github.com/Cryptocandy342/Pancakeswap-Sniper-Bot) - 
 * 【2022-10-20】[EmicoEcommerce / Magento-APSB22-48-Security-Patches](https://github.com/EmicoEcommerce/Magento-APSB22-48-Security-Patches) - This repository contains potential security patches for the Magento APSB22-48 and CVE-2022-35698 security vulnerability
 * 【2022-10-20】[ChristianLempa / cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
