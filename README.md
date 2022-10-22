@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-10-22】[Automattic / pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android🎧
+* 【2022-10-22】[runwayml / stable-diffusion](https://github.com/runwayml/stable-diffusion) - Latent Text-to-Image Diffusion
+* 【2022-10-22】[codeedu / imersao10](https://github.com/codeedu/imersao10) - 
+* 【2022-10-22】[ethereum-lists / chains](https://github.com/ethereum-lists/chains) - provides metadata for networkIDs and chainIDs
+* 【2022-10-22】[t3-oss / create-t3-turbo](https://github.com/t3-oss/create-t3-turbo) - Clean and simple starter repo using the T3 Stack along with Expo React Native
+* 【2022-10-22】[nuxt / movies](https://github.com/nuxt/movies) - 🍿A TMDB client built with Nuxt 3
+* 【2022-10-22】[Visualize-ML / Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix) - 稿件基本稳定，欢迎提意见，会及时修改
+* 【2022-10-22】[Vanessa219 / vditor](https://github.com/Vanessa219/vditor) - ♏一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text), Instant Rendering (Typora-like) and Split View modes.
+* 【2022-10-22】[lzyAB / link-helper](https://github.com/lzyAB/link-helper) - 支持下载飞猫云、kufile等15+网赚网盘的油猴脚本！
 * 【2022-10-21】[Kaustubh-Natuskar / moreThanFAANGM](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups.
 * 【2022-10-21】[LearningOS / rust-based-os-comp2022](https://github.com/LearningOS/rust-based-os-comp2022) - [2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)
 * 【2022-10-21】[hashicorp / vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
@@ -173,6 +182,11 @@
 
 ## Java
 
+* 【2022-10-22】[killbill / killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
+* 【2022-10-22】[karthikuj / cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker) - Dockerized POC for CVE-2022-42889 Text4Shell
+* 【2022-10-22】[SeanWrightSec / CVE-2022-42889-PoC](https://github.com/SeanWrightSec/CVE-2022-42889-PoC) - Proof of Concept for the Apache commons-text vulnerability CVE-2022-42889.
+* 【2022-10-22】[liyupi / sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
+* 【2022-10-22】[youlaitech / youlai-mall](https://github.com/youlaitech/youlai-mall) - youlai-mall是基于Spring Boot 2.7、Spring Cloud & Alibaba 、vue3、element-plus、uni-app 构建的开源全栈微服务商城项目。
 * 【2022-10-21】[apache / avro](https://github.com/apache/avro) - Apache Avro is a data serialization system.
 * 【2022-10-21】[yangzongzhuan / RuoYi-Cloud](https://github.com/yangzongzhuan/RuoYi-Cloud) - 🎉(RuoYi)官方仓库 基于Spring Boot、Spring Cloud & Alibaba的分布式微服务架构权限管理系统
 * 【2022-10-20】[projectlombok / lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
@@ -275,6 +289,18 @@
 
 ## Python
 
+* 【2022-10-22】[SamirPaul1 / DSAlgo](https://github.com/SamirPaul1/DSAlgo) - 📚A repository that contains all the Data Structures and Algorithms concepts and solutions to various problems in Python3 stored in a structured manner.👨‍💻🎯
+* 【2022-10-22】[geerlingguy / ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
+* 【2022-10-22】[google / flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
+* 【2022-10-22】[Crypto-Cat / CTF](https://github.com/Crypto-Cat/CTF) - CTF chall write-ups, files, scripts etc (trying to be more organised LOL)
+* 【2022-10-22】[jacobgil / pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.
+* 【2022-10-22】[USTC3DV / NDR-code](https://github.com/USTC3DV/NDR-code) - [NeurIPS 2022] Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera
+* 【2022-10-22】[conan-io / conan](https://github.com/conan-io/conan) - Conan - The open-source C/C++ package manager
+* 【2022-10-22】[pymc-devs / pymc](https://github.com/pymc-devs/pymc) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Aesara
+* 【2022-10-22】[CoderWanFeng / python-office](https://github.com/CoderWanFeng/python-office) - pip install python-office
+* 【2022-10-22】[Zce1112zslx / ChID_baseline](https://github.com/Zce1112zslx/ChID_baseline) - 计算语言学22-23学年秋季学期 课程大作业baseline实现
+* 【2022-10-22】[Visualize-ML / Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics) - 稿件基本稳定，欢迎提意见，会及时修改
+* 【2022-10-22】[qigpig / changeTime](https://github.com/qigpig/changeTime) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
 * 【2022-10-21】[robotframework / robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 * 【2022-10-21】[getsentry / sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 * 【2022-10-21】[NVIDIA / DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
@@ -427,6 +453,10 @@
 
 ## Javascript
 
+* 【2022-10-22】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
+* 【2022-10-22】[artf / grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
+* 【2022-10-22】[itorr / world-ex](https://github.com/itorr/world-ex) - 🌏「全球制霸生成器」全球部分国家地区制霸标记生成工具
+* 【2022-10-22】[Thereisnospon / NovelAiTag](https://github.com/Thereisnospon/NovelAiTag) - 
 * 【2022-10-21】[pablokbs / peladonerd](https://github.com/pablokbs/peladonerd) - Repo con los archivos que uso para mi videos en youtube
 * 【2022-10-21】[noslate-project / noslate](https://github.com/noslate-project/noslate) - 💫Noslate is an elegant, modern and fully customizable serverless runtime.
 * 【2022-10-21】[3kh0 / ext-remover](https://github.com/3kh0/ext-remover) - Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!
@@ -554,6 +584,8 @@
 
 ## Go
 
+* 【2022-10-22】[caoyingjunz / go-learning](https://github.com/caoyingjunz/go-learning) - A learning and practise map for OpenStack, kubernetes, golang and the others.
+* 【2022-10-22】[orestonce / m3u8d](https://github.com/orestonce/m3u8d) - m3u8视频下载工具, 提供windows/macos图形界面, 下载后自动将ts文件合并、转换格式为mp4
 * 【2022-10-21】[carl1l / f403](https://github.com/carl1l/f403) - 用于渗透测试中对40x页面进行bypass并发扫描,采用go编写
 * 【2022-10-21】[bilibili / SMGo](https://github.com/bilibili/SMGo) - SM cipher library. Constant-time implementation of SM2 and SM4.
 * 【2022-10-21】[llychao / m3u8-downloader](https://github.com/llychao/m3u8-downloader) - 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。
@@ -650,6 +682,12 @@
 
 ## C
 
+* 【2022-10-22】[SecWiki / windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) - windows-kernel-exploits Windows平台提权漏洞集合
+* 【2022-10-22】[apache / httpd](https://github.com/apache/httpd) - Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+* 【2022-10-22】[google / boringssl](https://github.com/google/boringssl) - Mirror of BoringSSL
+* 【2022-10-22】[kristinpaget / fivewords](https://github.com/kristinpaget/fivewords) - Search algorithm to find sets of 5x 5-letter words using 25 different letters
+* 【2022-10-22】[Yetiowner / Increasing-code-complexity](https://github.com/Yetiowner/Increasing-code-complexity) - Every day, I commit a new and more complicated version of some simple code.
+* 【2022-10-22】[zfl9 / chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns next generation, refactoring with epoll and ipset
 * 【2022-10-21】[JuliaPoo / Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
 * 【2022-10-21】[Lienol / openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
 * 【2022-10-21】[eclipse / paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
@@ -729,6 +767,8 @@
 
 ## C++
 
+* 【2022-10-22】[oisyn / parkerwords](https://github.com/oisyn/parkerwords) - 
+* 【2022-10-22】[rapidsai / cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 * 【2022-10-21】[Bl4ckM1rror / FUD-UUID-Shellcode](https://github.com/Bl4ckM1rror/FUD-UUID-Shellcode) - 
 * 【2022-10-21】[PaddlePaddle / Paddle-Lite-Demo](https://github.com/PaddlePaddle/Paddle-Lite-Demo) - lib, demo, model, data
 * 【2022-10-21】[Tencent / GameAISDK](https://github.com/Tencent/GameAISDK) - 基于图像的游戏AI自动化框架
@@ -840,6 +880,9 @@
 
 ## C#
 
+* 【2022-10-22】[yupingyong / kite.gateway](https://github.com/yupingyong/kite.gateway) - 基于Yarp的Api网关
+* 【2022-10-22】[irontree2022 / 1msRenderVegetation](https://github.com/irontree2022/1msRenderVegetation) - 基于Unity，在1ms内渲染大规模植被
+* 【2022-10-22】[qian-o / Dimension](https://github.com/qian-o/Dimension) - 基于 .NET 6 的在线音视频聊天项目
 * 【2022-10-20】[iamtorsten / libfintx](https://github.com/iamtorsten/libfintx) - 🏦C# based client library for HBCI 2.2, FinTS 3.0, EBICS H004 and EBICS H005.
 * 【2022-10-20】[oskardudycz / EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 * 【2022-10-20】[bugch3ck / SharpEfsPotato](https://github.com/bugch3ck/SharpEfsPotato) - Local privilege escalation from SeImpersonatePrivilege using EfsRpc.
@@ -923,6 +966,11 @@
 
 ## Html
 
+* 【2022-10-22】[AayushBiswas / hacktoberfest_2022](https://github.com/AayushBiswas/hacktoberfest_2022) - Here you can find simple issues for hacktoberfest which you can work on. 4 pristine pull requests and win a T-shirt
+* 【2022-10-22】[tenpages / us-level](https://github.com/tenpages/us-level) - Travel marker created following「中国制霸生成器」by 卜卜口 (@itorr)
+* 【2022-10-22】[nathanreyes / v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+* 【2022-10-22】[bluelearn-open-source / blue-quotes](https://github.com/bluelearn-open-source/blue-quotes) - A beginner friendly repository for all of those who want to get start with open source.
+* 【2022-10-22】[helloflask / flask-tutorial](https://github.com/helloflask/flask-tutorial) - Flask 入门教程
 * 【2022-10-21】[sanskarmalkhede / basic-programs](https://github.com/sanskarmalkhede/basic-programs) - Add your programs you made while learning new programming languages
 * 【2022-10-21】[OCA / server-ux](https://github.com/OCA/server-ux) - 
 * 【2022-10-21】[dark-kingA / superSearchPlus](https://github.com/dark-kingA/superSearchPlus) - 聚合版空间资产测绘
@@ -1034,6 +1082,12 @@
 
 ## Css
 
+* 【2022-10-22】[devinekask / fake-door-starter](https://github.com/devinekask/fake-door-starter) - 
+* 【2022-10-22】[kansama / prologue-portfolio](https://github.com/kansama/prologue-portfolio) - web create using html , css and java. and this website using for portfolio purpose in both business and personal.
+* 【2022-10-22】[Quinncuatro / FantasyDraftChallenge](https://github.com/Quinncuatro/FantasyDraftChallenge) - I threw together a timed "Hot Ones" style wing eating challenge to decide draft picks for my fantasy football league.
+* 【2022-10-22】[isubit / suitcase_interim](https://github.com/isubit/suitcase_interim) - Drupal implementation of Iowa State University look and feel.
+* 【2022-10-22】[killerraj369 / hacktoberfest2022](https://github.com/killerraj369/hacktoberfest2022) - Add your valuable websites and JS Games for getting your free T-Shirt👕
+* 【2022-10-22】[bhardwajprashant1234 / The-Trip](https://github.com/bhardwajprashant1234/The-Trip) - 
 * 【2022-10-21】[PrismLauncher / prismlauncher.github.io](https://github.com/PrismLauncher/prismlauncher.github.io) - The Prism Launcher website.
 * 【2022-10-21】[cc4m1l0 / Clase-De-Software](https://github.com/cc4m1l0/Clase-De-Software) - 
 * 【2022-10-21】[Faraz1243 / OpenSourse-Static-Web-Templates](https://github.com/Faraz1243/OpenSourse-Static-Web-Templates) - An opensource repository consisting of static website templates for hacktoberfest 2022
@@ -1128,6 +1182,13 @@
 
 ## Unknown
 
+* 【2022-10-22】[microsoft / WSA](https://github.com/microsoft/WSA) - Developer-related issues and feature requests for Windows Subsystem for Android
+* 【2022-10-22】[alexpate / awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻⚒A collection of awesome design systems
+* 【2022-10-22】[MakeYourPet / hexapod](https://github.com/MakeYourPet/hexapod) - 
+* 【2022-10-22】[gaurangsaini / sipser-computation-3rd-solutions](https://github.com/gaurangsaini/sipser-computation-3rd-solutions) - Solutions to all questions of the book Introduction to the Theory of Computation, 3rd edition by Michael Sipser
+* 【2022-10-22】[dutymachine / news](https://github.com/dutymachine/news) - 
+* 【2022-10-22】[Moosphan / Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview) - 📌每工作日更新一道 Android 面试题，小聚成河，大聚成江，共勉之～
+* 【2022-10-22】[wy-luke / Unity-TextMeshPro-Chinese-Characters-Set](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set) - 用以创建 Unity TextMeshPro 中文字体。Used to create Unity TextMeshPro Chinese font.
 * 【2022-10-21】[blockchain-etl / awesome-bigquery-views](https://github.com/blockchain-etl/awesome-bigquery-views) - Useful SQL queries for Blockchain ETL datasets in BigQuery.
 * 【2022-10-21】[google / material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 * 【2022-10-21】[MystenLabs / awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
