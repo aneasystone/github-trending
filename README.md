@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-10-24】[starkscan / starkscan-verifier](https://github.com/starkscan/starkscan-verifier) - Verify Cairo contracts on Starkscan in 1 miute.
+* 【2022-10-24】[HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
+* 【2022-10-24】[chainguard-dev / osquery-defense-kit](https://github.com/chainguard-dev/osquery-defense-kit) - Production-ready detection & response queries for osquery
+* 【2022-10-24】[mouday / domain-admin](https://github.com/mouday/domain-admin) - 域名SSL证书监测平台
 * 【2022-10-23】[Automattic / pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app🎧
 * 【2022-10-23】[immunefi-team / Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library) - Information about web3 security and programming tutorials/tools
 * 【2022-10-23】[felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) - 💩🚀Windows 95 in Electron. Runs on macOS, Linux, and Windows.
@@ -192,6 +196,10 @@
 
 ## Java
 
+* 【2022-10-24】[triplea-game / triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
+* 【2022-10-24】[rajkumaar23 / notify-abroad](https://github.com/rajkumaar23/notify-abroad) - a simple app that lets you forward your text messages and/or call logs to your telegram chat.
+* 【2022-10-24】[awaitility / awaitility](https://github.com/awaitility/awaitility) - Awaitility is a small Java DSL for synchronizing asynchronous operations
+* 【2022-10-24】[freakchick / DBApi](https://github.com/freakchick/DBApi) - 零代码开发API，只需要写sql，自动生成http API。A no-code tool to build http API from sql. Only need to write sql , then http API generated automatically. Especially suitable for developing backend service for report.
 * 【2022-10-23】[flyway / flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 * 【2022-10-23】[isHarryh / Ark-Pets](https://github.com/isHarryh/Ark-Pets) - Arknights Desktop Pets | 明日方舟桌宠
 * 【2022-10-22】[killbill / killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
@@ -301,6 +309,11 @@
 
 ## Python
 
+* 【2022-10-24】[automl / TabPFN](https://github.com/automl/TabPFN) - Official implementation of the TabPFN and the tabpfn package.
+* 【2022-10-24】[google-research / t5x](https://github.com/google-research/t5x) - 
+* 【2022-10-24】[pwndbg / pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+* 【2022-10-24】[yaoching0 / CLCNet-Rethinking-of-Ensemble-Modeling](https://github.com/yaoching0/CLCNet-Rethinking-of-Ensemble-Modeling) - 
+* 【2022-10-24】[FTM-Labs / Aptos-NFT-Mint](https://github.com/FTM-Labs/Aptos-NFT-Mint) - 
 * 【2022-10-23】[chidiwilliams / buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 * 【2022-10-23】[MaartenGr / BERTopic](https://github.com/MaartenGr/BERTopic) - Leveraging BERT and c-TF-IDF to create easily interpretable topics.
 * 【2022-10-23】[MainSilent / DiscordAlwaysType](https://github.com/MainSilent/DiscordAlwaysType) - Shows Discord user is typing on a given text channel
@@ -469,6 +482,8 @@
 
 ## Javascript
 
+* 【2022-10-24】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+* 【2022-10-24】[angular / angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 * 【2022-10-23】[MainSilent / Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
 * 【2022-10-23】[RareSkills / gas-puzzles](https://github.com/RareSkills/gas-puzzles) - A sequence of smart contracts to practice gas optimization. These are used as practice assignments for RareSkills.io and the Udemy Gas Optimization Course
 * 【2022-10-22】[aframevr / aframe](https://github.com/aframevr/aframe) - 🅰️Web framework for building virtual reality experiences.
@@ -602,6 +617,11 @@
 
 ## Go
 
+* 【2022-10-24】[guacsec / guac](https://github.com/guacsec/guac) - 
+* 【2022-10-24】[JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
+* 【2022-10-24】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
+* 【2022-10-24】[sftfjugg / vAdmin](https://github.com/sftfjugg/vAdmin) - 
+* 【2022-10-24】[eyebluecn / tank](https://github.com/eyebluecn/tank) - 《蓝眼云盘》(Eyeblue Cloud Storage)
 * 【2022-10-23】[ko-build / ko](https://github.com/ko-build/ko) - Build and deploy Go applications on Kubernetes
 * 【2022-10-23】[nuxui / nuxui](https://github.com/nuxui/nuxui) - NuxUI is Golang GUI SDK for IOS, Android, macOS, Windows, Linux
 * 【2022-10-23】[hyper0x / Golang_Puzzlers](https://github.com/hyper0x/Golang_Puzzlers) - An example project, for my column named "Core Golang - 36 lessons"
@@ -703,6 +723,8 @@
 
 ## C
 
+* 【2022-10-24】[llsc12 / ballpa1n](https://github.com/llsc12/ballpa1n) - totally real jb
+* 【2022-10-24】[ZhuYanzhen1 / Geek_Appraisal](https://github.com/ZhuYanzhen1/Geek_Appraisal) - 本仓库为广东工业大学集电GEEK俱乐部考核仓库。下面将描述每个任务的要求以及相关的学习资料。请同学们认真阅读本文件并学习相关资料。有关信息的更新或更正将在本README文件中完成。
 * 【2022-10-23】[nbs-system / naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * 【2022-10-23】[Pericles001 / alx-low_level_programming](https://github.com/Pericles001/alx-low_level_programming) - Low-Level Programming - Data Structures, Algorithms, Linux/Unix System Programming
 * 【2022-10-23】[xia-chu / TcpProxy](https://github.com/xia-chu/TcpProxy) - 一个tcp代理工具；借助公网服务器中转，可以把NAT内的远端设备的tcp端口映射至localhost，访问localhost映射端口相当于访问远端设备端口。
@@ -791,6 +813,10 @@
 
 ## C++
 
+* 【2022-10-24】[opentrack / opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
+* 【2022-10-24】[praydog / REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
+* 【2022-10-24】[baldurk / renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
+* 【2022-10-24】[JuncoJet / unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win) - 无限流量灯，你懂的，我不解释
 * 【2022-10-23】[facontidavide / PlotJuggler](https://github.com/facontidavide/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 * 【2022-10-23】[zcash / zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
 * 【2022-10-23】[327135569 / ClickPic](https://github.com/327135569/ClickPic) - 按键精灵
@@ -907,6 +933,10 @@
 
 ## C#
 
+* 【2022-10-24】[SixLabors / ImageSharp](https://github.com/SixLabors/ImageSharp) - 📷A modern, cross-platform, 2D Graphics library for .NET
+* 【2022-10-24】[sebastienros / jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
+* 【2022-10-24】[huntandhackett / Antignis](https://github.com/huntandhackett/Antignis) - Source code and examples for Antignis
+* 【2022-10-24】[Tlaster / YourAV](https://github.com/Tlaster/YourAV) - 宇宙级最轻量杀毒软件
 * 【2022-10-23】[microsoft / WPF-Samples](https://github.com/microsoft/WPF-Samples) - Repository for WPF related samples
 * 【2022-10-23】[dotnetcore / osharp](https://github.com/dotnetcore/osharp) - OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。
 * 【2022-10-23】[SagaciousG / UnityPlugins](https://github.com/SagaciousG/UnityPlugins) - 插件集合
@@ -996,6 +1026,11 @@
 
 ## Html
 
+* 【2022-10-24】[LITTLESITE / BPXD](https://github.com/LITTLESITE/BPXD) - 免费 订阅 节点 clash订阅 v2ray订阅 翻墙~超级快,使用树莓派测速
+* 【2022-10-24】[roxsross / k8sonfire](https://github.com/roxsross/k8sonfire) - kubernetes fundamentals by roxsross
+* 【2022-10-24】[vishalkoc2016 / Hacktoberfest-2022](https://github.com/vishalkoc2016/Hacktoberfest-2022) - 🌱Contribute your favorite📚Web Development, App Development🎲Blockchain Projects.😊| Very Active Repository, Star and Share with your friends |
+* 【2022-10-24】[HFIProgramming / mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
+* 【2022-10-24】[LetMeFly666 / Count1024](https://github.com/LetMeFly666/Count1024) - 力扣2022-1024马尔科夫链活动，你的卡牌能合成1024吗
 * 【2022-10-23】[docker / docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
 * 【2022-10-23】[devforth / hothost](https://github.com/devforth/hothost) - Lightweight and minimalistic open-source Servers and HTTP monitor
 * 【2022-10-23】[dl2811 / loginform](https://github.com/dl2811/loginform) - 
@@ -1115,6 +1150,9 @@
 
 ## Css
 
+* 【2022-10-24】[codermert / spotifyextension](https://github.com/codermert/spotifyextension) - Spotify Control Extension
+* 【2022-10-24】[gndx / js-portfolio](https://github.com/gndx/js-portfolio) - 
+* 【2022-10-24】[royc01 / notion-theme](https://github.com/royc01/notion-theme) - notion复刻
 * 【2022-10-23】[Wamphyre / BSD-XFCE](https://github.com/Wamphyre/BSD-XFCE) - Turn your FreeBSD system in a complete and reliable workstation and creative studio with no hassle in minutes! Feel the daemon inside!
 * 【2022-10-23】[devvsakib / hackerboi](https://github.com/devvsakib/hackerboi) - Make your first PR on hacktoberfest 2022
 * 【2022-10-23】[elrumo / macOS_Big_Sur_icons_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
@@ -1219,6 +1257,13 @@
 
 ## Unknown
 
+* 【2022-10-24】[ahkarami / Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
+* 【2022-10-24】[CodingForCrypt0 / MagicEden-minting-bot](https://github.com/CodingForCrypt0/MagicEden-minting-bot) - Private Solana Minting Bot | MagicEden Mint Bot Monkelabs
+* 【2022-10-24】[yeyintminthuhtut / Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
+* 【2022-10-24】[austintgriffith / web2-to-web3-curriculum](https://github.com/austintgriffith/web2-to-web3-curriculum) - The journey from 0 to hero for any developer to learn web3 and building on Ethereum.
+* 【2022-10-24】[first20hours / google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+* 【2022-10-24】[Paxxs / BuildWSA](https://github.com/Paxxs/BuildWSA) - Windows Subsystem for Android™ with Play Store + Magisk + Xposed (Lsposed)
+* 【2022-10-24】[hcfyapp / crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
 * 【2022-10-23】[ayush714 / data-science-roadmap](https://github.com/ayush714/data-science-roadmap) - Roadmap for Data Science
 * 【2022-10-23】[lutzenfried / Methodology](https://github.com/lutzenfried/Methodology) - 
 * 【2022-10-23】[dypsilon / frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
