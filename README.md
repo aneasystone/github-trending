@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-10-25】[TelegramMessenger / telemint](https://github.com/TelegramMessenger/telemint) - Telegram Auction Platform smart contracts
+* 【2022-10-25】[recloudstream / cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
+* 【2022-10-25】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
+* 【2022-10-25】[FJ-OMS / oms-erp](https://github.com/FJ-OMS/oms-erp) - 一站式中台系统包括订单管理系统OMS/电商ERP、库存WMS统一管理系统和SAP财务管理系统等，实现快速部署，并帮助企业后续自主进行开发迭代，实现数字化转型，并有多个经典案例。中台系统包括：通用业务中台、强大的技术中台Springcloud/Istio、后续开发方案的设计，技术(K8S,SERVERLESS)及管理人员的培训等。
+* 【2022-10-25】[czj2369 / jd_tb_auto](https://github.com/czj2369/jd_tb_auto) - 基于AutoJsx编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币||炸年兽任务自动完成脚本
+* 【2022-10-25】[JDHelloWorld / jd_scripts](https://github.com/JDHelloWorld/jd_scripts) - 
 * 【2022-10-24】[starkscan / starkscan-verifier](https://github.com/starkscan/starkscan-verifier) - Verify Cairo contracts on Starkscan in 1 miute.
 * 【2022-10-24】[HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 * 【2022-10-24】[chainguard-dev / osquery-defense-kit](https://github.com/chainguard-dev/osquery-defense-kit) - Production-ready detection & response queries for osquery
@@ -196,6 +202,12 @@
 
 ## Java
 
+* 【2022-10-25】[omnilaboratory / OBAndroid](https://github.com/omnilaboratory/OBAndroid) - OBAndroid is an OmniBOLT Lightning wallet for android devices. It provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments
+* 【2022-10-25】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
+* 【2022-10-25】[Querz / mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
+* 【2022-10-25】[safe6Sec / MemoryShell](https://github.com/safe6Sec/MemoryShell) - 内存马学习
+* 【2022-10-25】[Qbian61 / forum-java](https://github.com/Qbian61/forum-java) - 一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java（spring boot）.
+* 【2022-10-25】[whwlsfb / SpringSpider](https://github.com/whwlsfb/SpringSpider) - Spring Actuator端点的BurpSuite被动扫描插件。
 * 【2022-10-24】[triplea-game / triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 * 【2022-10-24】[rajkumaar23 / notify-abroad](https://github.com/rajkumaar23/notify-abroad) - a simple app that lets you forward your text messages and/or call logs to your telegram chat.
 * 【2022-10-24】[awaitility / awaitility](https://github.com/awaitility/awaitility) - Awaitility is a small Java DSL for synchronizing asynchronous operations
@@ -309,6 +321,10 @@
 
 ## Python
 
+* 【2022-10-25】[some9000 / StylePile](https://github.com/some9000/StylePile) - A helper script for AUTOMATIC1111/stable-diffusion-webui Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
+* 【2022-10-25】[kitao / pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
+* 【2022-10-25】[adieyal / sd-dynamic-prompting](https://github.com/adieyal/sd-dynamic-prompting) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
+* 【2022-10-25】[h9-tect / Machine-learning-roadmap-and-projects](https://github.com/h9-tect/Machine-learning-roadmap-and-projects) - 
 * 【2022-10-24】[automl / TabPFN](https://github.com/automl/TabPFN) - Official implementation of the TabPFN and the tabpfn package.
 * 【2022-10-24】[google-research / t5x](https://github.com/google-research/t5x) - 
 * 【2022-10-24】[pwndbg / pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
@@ -482,6 +498,11 @@
 
 ## Javascript
 
+* 【2022-10-25】[Superalgos / Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
+* 【2022-10-25】[hugomd / parrot.live](https://github.com/hugomd/parrot.live) - 🐦Bringing animated parrots to terminals everywhere
+* 【2022-10-25】[timlrx / tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
+* 【2022-10-25】[tobspr-games / shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
+* 【2022-10-25】[wwqhy / jd_618](https://github.com/wwqhy/jd_618) - 京东，京东双十一，京东双十一脚本，脚本
 * 【2022-10-24】[typicode / lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
 * 【2022-10-24】[angular / angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 * 【2022-10-23】[MainSilent / Discord-Screenshare](https://github.com/MainSilent/Discord-Screenshare) - First ever discord video screenshare SELFBOT
@@ -617,6 +638,11 @@
 
 ## Go
 
+* 【2022-10-25】[tmrts / go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+* 【2022-10-25】[gotomicro / redis-lock](https://github.com/gotomicro/redis-lock) - 基于 Redis 实现的分布式锁
+* 【2022-10-25】[weblazy / easy](https://github.com/weblazy/easy) - golang工具包
+* 【2022-10-25】[Dliv3 / Venom](https://github.com/Dliv3/Venom) - Venom - A Multi-hop Proxy for Penetration Testers
+* 【2022-10-25】[nkeonkeo / MediaUnlockTest](https://github.com/nkeonkeo/MediaUnlockTest) - MediaUnlockTest in golang
 * 【2022-10-24】[guacsec / guac](https://github.com/guacsec/guac) - 
 * 【2022-10-24】[JanDeDobbeleer / oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 * 【2022-10-24】[DrDonk / unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
@@ -723,6 +749,8 @@
 
 ## C
 
+* 【2022-10-25】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
+* 【2022-10-25】[Dav1dde / glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 * 【2022-10-24】[llsc12 / ballpa1n](https://github.com/llsc12/ballpa1n) - totally real jb
 * 【2022-10-24】[ZhuYanzhen1 / Geek_Appraisal](https://github.com/ZhuYanzhen1/Geek_Appraisal) - 本仓库为广东工业大学集电GEEK俱乐部考核仓库。下面将描述每个任务的要求以及相关的学习资料。请同学们认真阅读本文件并学习相关资料。有关信息的更新或更正将在本README文件中完成。
 * 【2022-10-23】[nbs-system / naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
@@ -813,6 +841,10 @@
 
 ## C++
 
+* 【2022-10-25】[jdah / archimedes](https://github.com/jdah/archimedes) - C++20 reflection via code generation
+* 【2022-10-25】[frickelzeugs / FingerprintDoorbell](https://github.com/frickelzeugs/FingerprintDoorbell) - An MQTT enabled combined fingerprint reader and doorbell based on the ESP32 MCU and the R503 fingerprint sensor called "FingerprintDoorbell".
+* 【2022-10-25】[oatpp / oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+* 【2022-10-25】[USTC-Hackergame / hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups) - 中国科学技术大学第七届信息安全大赛的官方与非官方题解
 * 【2022-10-24】[opentrack / opentrack](https://github.com/opentrack/opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX
 * 【2022-10-24】[praydog / REFramework](https://github.com/praydog/REFramework) - Scripting platform, modding framework and VR support for all RE Engine games
 * 【2022-10-24】[baldurk / renderdoc](https://github.com/baldurk/renderdoc) - RenderDoc is a stand-alone graphics debugging tool.
@@ -933,6 +965,7 @@
 
 ## C#
 
+* 【2022-10-25】[xiaoye97 / VRoidChinese](https://github.com/xiaoye97/VRoidChinese) - VRoidStudio汉化插件
 * 【2022-10-24】[SixLabors / ImageSharp](https://github.com/SixLabors/ImageSharp) - 📷A modern, cross-platform, 2D Graphics library for .NET
 * 【2022-10-24】[sebastienros / jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
 * 【2022-10-24】[huntandhackett / Antignis](https://github.com/huntandhackett/Antignis) - Source code and examples for Antignis
@@ -1026,6 +1059,8 @@
 
 ## Html
 
+* 【2022-10-25】[kishandiemm / single-page-website](https://github.com/kishandiemm/single-page-website) - 
+* 【2022-10-25】[kishandiemm / potential-octo-waddle](https://github.com/kishandiemm/potential-octo-waddle) - 
 * 【2022-10-24】[LITTLESITE / BPXD](https://github.com/LITTLESITE/BPXD) - 免费 订阅 节点 clash订阅 v2ray订阅 翻墙~超级快,使用树莓派测速
 * 【2022-10-24】[roxsross / k8sonfire](https://github.com/roxsross/k8sonfire) - kubernetes fundamentals by roxsross
 * 【2022-10-24】[vishalkoc2016 / Hacktoberfest-2022](https://github.com/vishalkoc2016/Hacktoberfest-2022) - 🌱Contribute your favorite📚Web Development, App Development🎲Blockchain Projects.😊| Very Active Repository, Star and Share with your friends |
@@ -1150,6 +1185,8 @@
 
 ## Css
 
+* 【2022-10-25】[Aris-t2 / CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
+* 【2022-10-25】[xuqiang521 / nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - ✨高仿掘金，整合 vue + nuxt + axios + vuex + vue-router (nuxt 自带 vuex 和 vue-router)，一个基于 Nuxt 的服务器端渲染 Demo
 * 【2022-10-24】[codermert / spotifyextension](https://github.com/codermert/spotifyextension) - Spotify Control Extension
 * 【2022-10-24】[gndx / js-portfolio](https://github.com/gndx/js-portfolio) - 
 * 【2022-10-24】[royc01 / notion-theme](https://github.com/royc01/notion-theme) - notion复刻
@@ -1257,6 +1294,8 @@
 
 ## Unknown
 
+* 【2022-10-25】[Engagespot / heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
+* 【2022-10-25】[710765989 / my_textual_inversions](https://github.com/710765989/my_textual_inversions) - 个人训练的自用模型
 * 【2022-10-24】[ahkarami / Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 * 【2022-10-24】[CodingForCrypt0 / MagicEden-minting-bot](https://github.com/CodingForCrypt0/MagicEden-minting-bot) - Private Solana Minting Bot | MagicEden Mint Bot Monkelabs
 * 【2022-10-24】[yeyintminthuhtut / Awesome-Red-Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - List of Awesome Red Teaming Resources
