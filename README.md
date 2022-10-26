@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-10-26】[losvedir / transit-lang-cmp](https://github.com/losvedir/transit-lang-cmp) - Programming language comparison by reimplementing the same transit data app
+* 【2022-10-26】[mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
+* 【2022-10-26】[avitorio / outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+* 【2022-10-26】[tenable / terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+* 【2022-10-26】[CodeXTF2 / ScreenshotBOF](https://github.com/CodeXTF2/ScreenshotBOF) - An alternative screenshot capability for Cobalt Strike that uses WinAPI and does not perform a fork & run. Screenshot downloaded in memory.
+* 【2022-10-26】[ashuang360 / jd-tb](https://github.com/ashuang360/jd-tb) - 
+* 【2022-10-26】[graynjo / Heimdallr](https://github.com/graynjo/Heimdallr) - 一款完全被动监听的谷歌插件，用于高危指纹识别、蜜罐特征告警和拦截、机器特征对抗
+* 【2022-10-26】[forthespada / CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！
 * 【2022-10-25】[TelegramMessenger / telemint](https://github.com/TelegramMessenger/telemint) - Telegram Auction Platform smart contracts
 * 【2022-10-25】[recloudstream / cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading Movies, TV-Series and Anime.
 * 【2022-10-25】[anonystick / anonystick](https://github.com/anonystick/anonystick) - 
@@ -202,6 +210,7 @@
 
 ## Java
 
+* 【2022-10-26】[Warxim / CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852) - CVE-2022-41852 Proof of Concept (unofficial)
 * 【2022-10-25】[omnilaboratory / OBAndroid](https://github.com/omnilaboratory/OBAndroid) - OBAndroid is an OmniBOLT Lightning wallet for android devices. It provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments
 * 【2022-10-25】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 * 【2022-10-25】[Querz / mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
@@ -321,6 +330,16 @@
 
 ## Python
 
+* 【2022-10-26】[microsoft / DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
+* 【2022-10-26】[Fizzadar / pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
+* 【2022-10-26】[awslabs / aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
+* 【2022-10-26】[fin3ss3g0d / cypherhound](https://github.com/fin3ss3g0d/cypherhound) - Python3 terminal application that contains 200+ Neo4j cyphers for BloodHound data sets
+* 【2022-10-26】[AUTOMATIC1111 / stable-diffusion-webui-aesthetic-gradients](https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients) - Aesthetic gradients extension for web ui
+* 【2022-10-26】[HarryHe11 / Pretty-Pytorch-Text-Classification](https://github.com/HarryHe11/Pretty-Pytorch-Text-Classification) - A (very pretty) Pytorch based Framework for Text Classification
+* 【2022-10-26】[yihong0618 / blue](https://github.com/yihong0618/blue) - 新的 PR(Issue) 来了来了来了!
+* 【2022-10-26】[xoyi / jd_wbbny](https://github.com/xoyi/jd_wbbny) - 京东燃动夏季
+* 【2022-10-26】[guyuehome / guyueclass](https://github.com/guyuehome/guyueclass) - 古月学院课程代码
+* 【2022-10-26】[qiandao-today / qiandao](https://github.com/qiandao-today/qiandao) - [当前版本: 20220911] Qiandao —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 * 【2022-10-25】[some9000 / StylePile](https://github.com/some9000/StylePile) - A helper script for AUTOMATIC1111/stable-diffusion-webui Basically a mix and match to quickly get different results without wasting a lot of time writing prompts.
 * 【2022-10-25】[kitao / pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 * 【2022-10-25】[adieyal / sd-dynamic-prompting](https://github.com/adieyal/sd-dynamic-prompting) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
@@ -498,6 +517,9 @@
 
 ## Javascript
 
+* 【2022-10-26】[liabru / matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
+* 【2022-10-26】[USTC-Hackergame / hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups) - 中国科学技术大学第八届信息安全大赛的官方与非官方题解
+* 【2022-10-26】[fex-team / ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
 * 【2022-10-25】[Superalgos / Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots. Visually design your crypto trading bot, leveraging an integrated charting system, data-mining, backtesting, paper trading, and multi-server crypto bot deployments.
 * 【2022-10-25】[hugomd / parrot.live](https://github.com/hugomd/parrot.live) - 🐦Bringing animated parrots to terminals everywhere
 * 【2022-10-25】[timlrx / tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog) - This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.
@@ -638,6 +660,10 @@
 
 ## Go
 
+* 【2022-10-26】[avast / retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
+* 【2022-10-26】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
+* 【2022-10-26】[drud / ddev](https://github.com/drud/ddev) - DDEV: a local web development environment system for PHP
+* 【2022-10-26】[k0kubun / pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 * 【2022-10-25】[tmrts / go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 * 【2022-10-25】[gotomicro / redis-lock](https://github.com/gotomicro/redis-lock) - 基于 Redis 实现的分布式锁
 * 【2022-10-25】[weblazy / easy](https://github.com/weblazy/easy) - golang工具包
@@ -749,6 +775,9 @@
 
 ## C
 
+* 【2022-10-26】[SpikySabra / Kernel-Cactus](https://github.com/SpikySabra/Kernel-Cactus) - It's pointy and it hurts!
+* 【2022-10-26】[tsl0922 / ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+* 【2022-10-26】[figght / zBitsView](https://github.com/figght/zBitsView) - 
 * 【2022-10-25】[Provenance-Emu / Provenance](https://github.com/Provenance-Emu/Provenance) - iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |
 * 【2022-10-25】[Dav1dde / glad](https://github.com/Dav1dde/glad) - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 * 【2022-10-24】[llsc12 / ballpa1n](https://github.com/llsc12/ballpa1n) - totally real jb
@@ -841,6 +870,11 @@
 
 ## C++
 
+* 【2022-10-26】[i2Nav-WHU / KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
+* 【2022-10-26】[PowerDNS / pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
+* 【2022-10-26】[patriciogonzalezvivo / glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+* 【2022-10-26】[microsoft / cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+* 【2022-10-26】[Maplespe / explorerTool](https://github.com/Maplespe/explorerTool) - Custom Windows Explorer background image
 * 【2022-10-25】[jdah / archimedes](https://github.com/jdah/archimedes) - C++20 reflection via code generation
 * 【2022-10-25】[frickelzeugs / FingerprintDoorbell](https://github.com/frickelzeugs/FingerprintDoorbell) - An MQTT enabled combined fingerprint reader and doorbell based on the ESP32 MCU and the R503 fingerprint sensor called "FingerprintDoorbell".
 * 【2022-10-25】[oatpp / oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
@@ -965,6 +999,7 @@
 
 ## C#
 
+* 【2022-10-26】[edbmods / EdBPrepareCarefully](https://github.com/edbmods/EdBPrepareCarefully) - EdB Prepare Carefully, a RimWorld mod
 * 【2022-10-25】[xiaoye97 / VRoidChinese](https://github.com/xiaoye97/VRoidChinese) - VRoidStudio汉化插件
 * 【2022-10-24】[SixLabors / ImageSharp](https://github.com/SixLabors/ImageSharp) - 📷A modern, cross-platform, 2D Graphics library for .NET
 * 【2022-10-24】[sebastienros / jint](https://github.com/sebastienros/jint) - Javascript Interpreter for .NET
@@ -1059,6 +1094,10 @@
 
 ## Html
 
+* 【2022-10-26】[cristiantela / lula2turno](https://github.com/cristiantela/lula2turno) - Flyer Generator for Lula Runoff Election
+* 【2022-10-26】[stackup-dev / campaign_CSS](https://github.com/stackup-dev/campaign_CSS) - Repository for CSS Campaigns on StackUp
+* 【2022-10-26】[leizongmin / js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
+* 【2022-10-26】[danricho / where_the](https://github.com/danricho/where_the) - A simple Python Flask web application which helps keep track of your stored items.
 * 【2022-10-25】[kishandiemm / single-page-website](https://github.com/kishandiemm/single-page-website) - 
 * 【2022-10-25】[kishandiemm / potential-octo-waddle](https://github.com/kishandiemm/potential-octo-waddle) - 
 * 【2022-10-24】[LITTLESITE / BPXD](https://github.com/LITTLESITE/BPXD) - 免费 订阅 节点 clash订阅 v2ray订阅 翻墙~超级快,使用树莓派测速
@@ -1185,6 +1224,11 @@
 
 ## Css
 
+* 【2022-10-26】[mayank99 / reset.css](https://github.com/mayank99/reset.css) - a css reset for 2022 and beyond
+* 【2022-10-26】[primefaces / sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
+* 【2022-10-26】[indra0421 / navbar](https://github.com/indra0421/navbar) - 
+* 【2022-10-26】[digitalinnovationone / js-developer-pokedex](https://github.com/digitalinnovationone/js-developer-pokedex) - 
+* 【2022-10-26】[ZxBing0066 / pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 图片转像素风，可生成 box-shadow 像素风图片
 * 【2022-10-25】[Aris-t2 / CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox
 * 【2022-10-25】[xuqiang521 / nuxt-ssr-demo](https://github.com/xuqiang521/nuxt-ssr-demo) - ✨高仿掘金，整合 vue + nuxt + axios + vuex + vue-router (nuxt 自带 vuex 和 vue-router)，一个基于 Nuxt 的服务器端渲染 Demo
 * 【2022-10-24】[codermert / spotifyextension](https://github.com/codermert/spotifyextension) - Spotify Control Extension
@@ -1294,6 +1338,11 @@
 
 ## Unknown
 
+* 【2022-10-26】[dolevshor / azure-orphan-resources](https://github.com/dolevshor/azure-orphan-resources) - Centralize orphan resources in Azure environments
+* 【2022-10-26】[eth-protocol-fellows / cohort-three](https://github.com/eth-protocol-fellows/cohort-three) - Repository for the third EPF cohort
+* 【2022-10-26】[akullpp / awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+* 【2022-10-26】[uzh-rpg / event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources) - 
+* 【2022-10-26】[Qihoo360 / safe-rules](https://github.com/Qihoo360/safe-rules) - 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。
 * 【2022-10-25】[Engagespot / heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
 * 【2022-10-25】[710765989 / my_textual_inversions](https://github.com/710765989/my_textual_inversions) - 个人训练的自用模型
 * 【2022-10-24】[ahkarami / Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
