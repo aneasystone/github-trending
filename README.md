@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2022-10-27】[answerdev / answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+* 【2022-10-27】[valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) - 🦔Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+* 【2022-10-27】[JoePenna / Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.
+* 【2022-10-27】[vercel / turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+* 【2022-10-27】[komodorio / helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+* 【2022-10-27】[aheze / OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life. Now open-source!
+* 【2022-10-27】[pop-os / cosmic-text](https://github.com/pop-os/cosmic-text) - Pure Rust multi-line text handling
+* 【2022-10-27】[WalletConnect / web3modal](https://github.com/WalletConnect/web3modal) - A single Web3 provider solution for all Wallets
+* 【2022-10-27】[asdf-vm / asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+* 【2022-10-27】[fuzhengwei / RoadMap](https://github.com/fuzhengwei/RoadMap) - RoadMap —— Java后端开发技能路书
 * 【2022-10-26】[losvedir / transit-lang-cmp](https://github.com/losvedir/transit-lang-cmp) - Programming language comparison by reimplementing the same transit data app
 * 【2022-10-26】[mikeroyal / Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.
 * 【2022-10-26】[avitorio / outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
@@ -210,6 +220,10 @@
 
 ## Java
 
+* 【2022-10-27】[AbdurRKhalid / Design-Patterns](https://github.com/AbdurRKhalid/Design-Patterns) - Design Patterns play an important role in the writing of the re-usable object oriented code in the both desktop and web applications. This repository contains all information related to design patterns alongside with implementation in Java.
+* 【2022-10-27】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅The 5th major version of the programmer-friendly testing framework for Java and the JVM
+* 【2022-10-27】[alibaba / fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
+* 【2022-10-27】[apache / ambari](https://github.com/apache/ambari) - Apache Ambari simplifies provisioning, managing, and monitoring of Apache Hadoop clusters.
 * 【2022-10-26】[Warxim / CVE-2022-41852](https://github.com/Warxim/CVE-2022-41852) - CVE-2022-41852 Proof of Concept (unofficial)
 * 【2022-10-25】[omnilaboratory / OBAndroid](https://github.com/omnilaboratory/OBAndroid) - OBAndroid is an OmniBOLT Lightning wallet for android devices. It provides a platform for simple, instantaneous Bitcoin/Omnilayer asset payments
 * 【2022-10-25】[tchiotludo / akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
@@ -330,6 +344,17 @@
 
 ## Python
 
+* 【2022-10-27】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
+* 【2022-10-27】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
+* 【2022-10-27】[mesonbuild / meson](https://github.com/mesonbuild/meson) - The Meson Build System
+* 【2022-10-27】[corpnewt / gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
+* 【2022-10-27】[google-research / scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
+* 【2022-10-27】[zenml-io / zenml](https://github.com/zenml-io/zenml) - ZenML🙏: Build portable, production-ready MLOps pipelines. https://zenml.io.
+* 【2022-10-27】[derv82 / wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
+* 【2022-10-27】[snowflakedb / snowflake-connector-python](https://github.com/snowflakedb/snowflake-connector-python) - Snowflake Connector for Python
+* 【2022-10-27】[ifzhang / ByteTrack](https://github.com/ifzhang/ByteTrack) - [ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box
+* 【2022-10-27】[bubbliiiing / unet-pytorch](https://github.com/bubbliiiing/unet-pytorch) - 这是一个unet-pytorch的源码，可以训练自己的模型
+* 【2022-10-27】[biliup / biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
 * 【2022-10-26】[microsoft / DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) - MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 * 【2022-10-26】[Fizzadar / pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 * 【2022-10-26】[awslabs / aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) - A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
@@ -517,6 +542,14 @@
 
 ## Javascript
 
+* 【2022-10-27】[s3c-krd / s3cXSSer](https://github.com/s3c-krd/s3cXSSer) - This extension will help you to detect GET/POST based XSS vulnerability in any website easily
+* 【2022-10-27】[aws / aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
+* 【2022-10-27】[dimsemenov / PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+* 【2022-10-27】[vercel / next-learn](https://github.com/vercel/next-learn) - Learn Next.js Starter Code
+* 【2022-10-27】[hashicorp / setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
+* 【2022-10-27】[omxmo / xb](https://github.com/omxmo/xb) - 双11天猫喵果总动员/京东穿行寻宝任务。淘宝/淘特/天猫/京东/京喜/拼多多/唯品会/苏宁易购/考拉海购/抖音/快手内部优惠券。 饿了么/美团外卖红包，高德打车/花小猪/滴滴打车/滴滴货运/滴滴代驾/滴滴加油优惠券。肯德基/麦当劳/汉堡王/必胜客/星巴克/瑞幸咖啡/喜茶/奈雪的茶优惠券红包。 优酷/爱奇艺/腾讯视频/芒果TV/哔哩哔哩/QQ音乐/网易云音乐/喜马拉雅/京东PLUS/迅雷/知网/腾讯体育/百度文库/百度网盘超级SVIP会员半价/账号解析下载共享。秒杀软件/抢购软件/抢购助手项目集合。
+* 【2022-10-27】[ljt0515 / 618](https://github.com/ljt0515/618) - 京东淘宝618助手 可自动完成热爱奇旅app任务 autojs和青龙面板两款脚本
+* 【2022-10-27】[onblogs / BlogHelper](https://github.com/onblogs/BlogHelper) - 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）（欢迎Star，🚫禁止Fork）
 * 【2022-10-26】[liabru / matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web ▲● ■
 * 【2022-10-26】[USTC-Hackergame / hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups) - 中国科学技术大学第八届信息安全大赛的官方与非官方题解
 * 【2022-10-26】[fex-team / ueditor](https://github.com/fex-team/ueditor) - rich text 富文本编辑器
@@ -660,6 +693,9 @@
 
 ## Go
 
+* 【2022-10-27】[themsaid / hover](https://github.com/themsaid/hover) - CLI for deploying web applications to AWS Lambda
+* 【2022-10-27】[krakendio / krakend-ce](https://github.com/krakendio/krakend-ce) - High-performance, statless, declarative, API Gateway written in Go.
+* 【2022-10-27】[quay / clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
 * 【2022-10-26】[avast / retry-go](https://github.com/avast/retry-go) - Simple golang library for retry mechanism
 * 【2022-10-26】[aquasecurity / tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 * 【2022-10-26】[drud / ddev](https://github.com/drud/ddev) - DDEV: a local web development environment system for PHP
@@ -775,6 +811,14 @@
 
 ## C
 
+* 【2022-10-27】[open5gs / open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-16)
+* 【2022-10-27】[memtest86plus / memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+ v6.00 (based on pcmemtest)
+* 【2022-10-27】[ScarredMonk / SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator) - Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.
+* 【2022-10-27】[azure-rtos / threadx](https://github.com/azure-rtos/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
+* 【2022-10-27】[Amoiensis / Matrix_hub](https://github.com/Amoiensis/Matrix_hub) - A lib of Matrix operation for C language. (矩阵运算库--C语言)
+* 【2022-10-27】[XeiTongXueFlyMe / J1939](https://github.com/XeiTongXueFlyMe/J1939) - 基于SAE J1939协议，开源可移植的J1939驱动。技术支持群： 264864184 @使用说明书：
+* 【2022-10-27】[VMOS-XiaoSuan / open-vmos-aosp_5.1](https://github.com/VMOS-XiaoSuan/open-vmos-aosp_5.1) - 
+* 【2022-10-27】[imengyu / JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
 * 【2022-10-26】[SpikySabra / Kernel-Cactus](https://github.com/SpikySabra/Kernel-Cactus) - It's pointy and it hurts!
 * 【2022-10-26】[tsl0922 / ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 * 【2022-10-26】[figght / zBitsView](https://github.com/figght/zBitsView) - 
@@ -870,6 +914,8 @@
 
 ## C++
 
+* 【2022-10-27】[ReCryptLLC / CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045) - 
+* 【2022-10-27】[zhouyong1234 / SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述
 * 【2022-10-26】[i2Nav-WHU / KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
 * 【2022-10-26】[PowerDNS / pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 * 【2022-10-26】[patriciogonzalezvivo / glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
@@ -999,6 +1045,9 @@
 
 ## C#
 
+* 【2022-10-27】[StackExchange / StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
+* 【2022-10-27】[Sergio0694 / PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun!🚀
+* 【2022-10-27】[wlgys8 / SRPLearn](https://github.com/wlgys8/SRPLearn) - Unity可编程渲染管线造轮子项目
 * 【2022-10-26】[edbmods / EdBPrepareCarefully](https://github.com/edbmods/EdBPrepareCarefully) - EdB Prepare Carefully, a RimWorld mod
 * 【2022-10-25】[xiaoye97 / VRoidChinese](https://github.com/xiaoye97/VRoidChinese) - VRoidStudio汉化插件
 * 【2022-10-24】[SixLabors / ImageSharp](https://github.com/SixLabors/ImageSharp) - 📷A modern, cross-platform, 2D Graphics library for .NET
@@ -1094,6 +1143,12 @@
 
 ## Html
 
+* 【2022-10-27】[ondevirarvoto / ondevirarvoto.github.io](https://github.com/ondevirarvoto/ondevirarvoto.github.io) - onde virar voto
+* 【2022-10-27】[serenity-bdd / serenity-core](https://github.com/serenity-bdd/serenity-core) - Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.
+* 【2022-10-27】[AhmadIbrahiim / Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
+* 【2022-10-27】[kangtegong / collaboration](https://github.com/kangtegong/collaboration) - pull request 연습용 저장소
+* 【2022-10-27】[clearlovecn / watchlist](https://github.com/clearlovecn/watchlist) - a new project
+* 【2022-10-27】[niltok / magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins) - 十分钟魔法练习
 * 【2022-10-26】[cristiantela / lula2turno](https://github.com/cristiantela/lula2turno) - Flyer Generator for Lula Runoff Election
 * 【2022-10-26】[stackup-dev / campaign_CSS](https://github.com/stackup-dev/campaign_CSS) - Repository for CSS Campaigns on StackUp
 * 【2022-10-26】[leizongmin / js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
@@ -1224,6 +1279,10 @@
 
 ## Css
 
+* 【2022-10-27】[profmancusoa / profmancusoa.github.io](https://github.com/profmancusoa/profmancusoa.github.io) - profmancusoa blog site
+* 【2022-10-27】[GuiEnrik / edukio-site](https://github.com/GuiEnrik/edukio-site) - This is an open source landing page maintained by edukio.com employees.
+* 【2022-10-27】[denilsonbonatti / k8s-projeto1-app-base](https://github.com/denilsonbonatti/k8s-projeto1-app-base) - Aplicativo base para o projeto de deploy em cluster em nuvem utilizando o Kubernates
+* 【2022-10-27】[jorgelzpz / jorgelzpz.github.com](https://github.com/jorgelzpz/jorgelzpz.github.com) - 
 * 【2022-10-26】[mayank99 / reset.css](https://github.com/mayank99/reset.css) - a css reset for 2022 and beyond
 * 【2022-10-26】[primefaces / sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
 * 【2022-10-26】[indra0421 / navbar](https://github.com/indra0421/navbar) - 
@@ -1338,6 +1397,11 @@
 
 ## Unknown
 
+* 【2022-10-27】[faster-cpython / ideas](https://github.com/faster-cpython/ideas) - 
+* 【2022-10-27】[0xlittleboy / fuzz4bounty](https://github.com/0xlittleboy/fuzz4bounty) - Awesome wordlists for Bug Bounty Hunting
+* 【2022-10-27】[SixArm / unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - SixArm.com → Shell style guide
+* 【2022-10-27】[alebcay / awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* 【2022-10-27】[hslatman / awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources
 * 【2022-10-26】[dolevshor / azure-orphan-resources](https://github.com/dolevshor/azure-orphan-resources) - Centralize orphan resources in Azure environments
 * 【2022-10-26】[eth-protocol-fellows / cohort-three](https://github.com/eth-protocol-fellows/cohort-three) - Repository for the third EPF cohort
 * 【2022-10-26】[akullpp / awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
