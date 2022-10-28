@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-10-28】[bumble-tech / private-detector](https://github.com/bumble-tech/private-detector) - Bumble's Private Detector - a pretrained model for detecting lewd images
+* 【2022-10-28】[ageron / handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
+* 【2022-10-28】[open-telemetry / opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application
 * 【2022-10-27】[answerdev / answer](https://github.com/answerdev/answer) - An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
 * 【2022-10-27】[valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) - 🦔Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 * 【2022-10-27】[JoePenna / Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.
@@ -220,6 +223,10 @@
 
 ## Java
 
+* 【2022-10-28】[Alluxio / alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
+* 【2022-10-28】[apache / incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
+* 【2022-10-28】[1171736840 / spring-file-storage](https://github.com/1171736840/spring-file-storage) - 在 SpringBoot 中通过简单的方式将文件存储到 本地、FTP、SFTP、WebDAV、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 谷歌云存储、Samba、NFS
+* 【2022-10-28】[zfoo-project / zfoo](https://github.com/zfoo-project/zfoo) - 💡极致性能的Java服务器框架，RPC，游戏服务器框架，web应用服务器框架。（Extremely fast enterprise Java server framework, can be used in RPC, game server framework, web server framework.）
 * 【2022-10-27】[AbdurRKhalid / Design-Patterns](https://github.com/AbdurRKhalid/Design-Patterns) - Design Patterns play an important role in the writing of the re-usable object oriented code in the both desktop and web applications. This repository contains all information related to design patterns alongside with implementation in Java.
 * 【2022-10-27】[junit-team / junit5](https://github.com/junit-team/junit5) - ✅The 5th major version of the programmer-friendly testing framework for Java and the JVM
 * 【2022-10-27】[alibaba / fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
@@ -344,6 +351,10 @@
 
 ## Python
 
+* 【2022-10-28】[yfszzx / stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) - an images browse for stable-diffusion-webui
+* 【2022-10-28】[facebookresearch / encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
+* 【2022-10-28】[pyca / cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
+* 【2022-10-28】[ccc-f / PenKitGui](https://github.com/ccc-f/PenKitGui) - 渗透测试武器库
 * 【2022-10-27】[nerfstudio-project / nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 * 【2022-10-27】[gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 * 【2022-10-27】[mesonbuild / meson](https://github.com/mesonbuild/meson) - The Meson Build System
@@ -542,6 +553,10 @@
 
 ## Javascript
 
+* 【2022-10-28】[MasteringNuxt / mastering-nuxt-3](https://github.com/MasteringNuxt/mastering-nuxt-3) - 
+* 【2022-10-28】[travist / jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+* 【2022-10-28】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
+* 【2022-10-28】[WilliamXu96 / ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) - 基于abp微服务架构的低代码平台
 * 【2022-10-27】[s3c-krd / s3cXSSer](https://github.com/s3c-krd/s3cXSSer) - This extension will help you to detect GET/POST based XSS vulnerability in any website easily
 * 【2022-10-27】[aws / aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 * 【2022-10-27】[dimsemenov / PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
@@ -693,6 +708,10 @@
 
 ## Go
 
+* 【2022-10-28】[Lengso / iplookup](https://github.com/Lengso/iplookup) - IP反查域名
+* 【2022-10-28】[younglifestyle / seg-server](https://github.com/younglifestyle/seg-server) - golang leaf，REF. Meituan-Dianping Leaf，ID发号器
+* 【2022-10-28】[hhandhuan / ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
+* 【2022-10-28】[lee501 / go-patterns](https://github.com/lee501/go-patterns) - Golang 设计模式
 * 【2022-10-27】[themsaid / hover](https://github.com/themsaid/hover) - CLI for deploying web applications to AWS Lambda
 * 【2022-10-27】[krakendio / krakend-ce](https://github.com/krakendio/krakend-ce) - High-performance, statless, declarative, API Gateway written in Go.
 * 【2022-10-27】[quay / clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers
@@ -811,6 +830,11 @@
 
 ## C
 
+* 【2022-10-28】[mackstann / tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
+* 【2022-10-28】[sqlite / sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
+* 【2022-10-28】[Cyan4973 / xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
+* 【2022-10-28】[shm0214 / 2022NKUCS-Compilers-Lab](https://github.com/shm0214/2022NKUCS-Compilers-Lab) - 
+* 【2022-10-28】[Mr-xn / ShellcodeLoader](https://github.com/Mr-xn/ShellcodeLoader) - 该项目为Shellocde加载器，详细介绍了我们如何绕过防病毒软件，以及该工具如何使用
 * 【2022-10-27】[open5gs / open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-16)
 * 【2022-10-27】[memtest86plus / memtest86plus](https://github.com/memtest86plus/memtest86plus) - Official repo for Memtest86+ v6.00 (based on pcmemtest)
 * 【2022-10-27】[ScarredMonk / SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator) - Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.
@@ -914,6 +938,12 @@
 
 ## C++
 
+* 【2022-10-28】[simulationcraft / simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
+* 【2022-10-28】[google / orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
+* 【2022-10-28】[YimMenu / YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.
+* 【2022-10-28】[sonic-pi-net / sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
+* 【2022-10-28】[byrnexu / betterquant](https://github.com/byrnexu/betterquant) - 📈Better Quant
+* 【2022-10-28】[downdemo / Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed) - C++11/14/17/20 templates and generic programming, the most complex and difficult technical details of C++, indispensable in building infrastructure libraries.
 * 【2022-10-27】[ReCryptLLC / CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045) - 
 * 【2022-10-27】[zhouyong1234 / SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One) - SLAM汇总，包括多传感器融合建图、定位、VIO系列、常用工具包、开源代码注释和公式推导、文章综述
 * 【2022-10-26】[i2Nav-WHU / KF-GINS](https://github.com/i2Nav-WHU/KF-GINS) - An EKF-Based GNSS/INS Integrated Navigation System
@@ -1045,6 +1075,8 @@
 
 ## C#
 
+* 【2022-10-28】[dathlin / HslCommunication](https://github.com/dathlin/HslCommunication) - A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs.
+* 【2022-10-28】[ststeiger / PdfSharpCore](https://github.com/ststeiger/PdfSharpCore) - Port of the PdfSharp library to .NET Core - largely removed GDI+ (only missing GetFontData - which can be replaced with freetype2)
 * 【2022-10-27】[StackExchange / StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 * 【2022-10-27】[Sergio0694 / PolySharp](https://github.com/Sergio0694/PolySharp) - PolySharp provides generated, source-only polyfills for C# language features, to easily use all runtime-agnostic features downlevel. Add a reference, set your C# version to latest and have fun!🚀
 * 【2022-10-27】[wlgys8 / SRPLearn](https://github.com/wlgys8/SRPLearn) - Unity可编程渲染管线造轮子项目
@@ -1143,6 +1175,9 @@
 
 ## Html
 
+* 【2022-10-28】[tc39 / ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
+* 【2022-10-28】[cmx-im / unblock-cmx](https://github.com/cmx-im/unblock-cmx) - 长毛象中文站免翻墙镜像 - Unblock CMX
+* 【2022-10-28】[yangkun19921001 / Blog](https://github.com/yangkun19921001/Blog) - Android 面试宝典、数据结构和算法、音视频 (FFmpeg、AAC、x264、MediaCodec)、 C/C++ 、OpenCV、跨平台等学习记录。【0基础音视频进阶学习路线】
 * 【2022-10-27】[ondevirarvoto / ondevirarvoto.github.io](https://github.com/ondevirarvoto/ondevirarvoto.github.io) - onde virar voto
 * 【2022-10-27】[serenity-bdd / serenity-core](https://github.com/serenity-bdd/serenity-core) - Serenity BDD is a test automation library designed to make writing automated acceptance tests easier, and more fun.
 * 【2022-10-27】[AhmadIbrahiim / Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js
@@ -1279,6 +1314,13 @@
 
 ## Css
 
+* 【2022-10-28】[Amovane / aptos-NFT-marketplace](https://github.com/Amovane/aptos-NFT-marketplace) - A full stack demo NFT marketplace based on aptos devnet.
+* 【2022-10-28】[HermanMartinus / bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
+* 【2022-10-28】[Zack-Dx / Mini-TODO](https://github.com/Zack-Dx/Mini-TODO) - A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star🌟. Have a great day!
+* 【2022-10-28】[An0nUD4Y / Evilginx2-Phishlets](https://github.com/An0nUD4Y/Evilginx2-Phishlets) - Evilginx2 Phishlets version (0.2.3) Only For Testing/Learning Purposes
+* 【2022-10-28】[ironhack-labs / lab-dom-pizza-builder](https://github.com/ironhack-labs/lab-dom-pizza-builder) - 
+* 【2022-10-28】[creativetimofficial / argon-dashboard-react-nodejs](https://github.com/creativetimofficial/argon-dashboard-react-nodejs) - Argon Dashboard React Nodejs
+* 【2022-10-28】[kycdao / solanapaysecure.xyz](https://github.com/kycdao/solanapaysecure.xyz) - 
 * 【2022-10-27】[profmancusoa / profmancusoa.github.io](https://github.com/profmancusoa/profmancusoa.github.io) - profmancusoa blog site
 * 【2022-10-27】[GuiEnrik / edukio-site](https://github.com/GuiEnrik/edukio-site) - This is an open source landing page maintained by edukio.com employees.
 * 【2022-10-27】[denilsonbonatti / k8s-projeto1-app-base](https://github.com/denilsonbonatti/k8s-projeto1-app-base) - Aplicativo base para o projeto de deploy em cluster em nuvem utilizando o Kubernates
@@ -1397,6 +1439,15 @@
 
 ## Unknown
 
+* 【2022-10-28】[woowacourse / woowacourse-docs](https://github.com/woowacourse/woowacourse-docs) - 우아한테크코스 문서를 관리하는 저장소
+* 【2022-10-28】[anil-yelken / cyber-security-tools](https://github.com/anil-yelken/cyber-security-tools) - My cyber security tools
+* 【2022-10-28】[runvnc / dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
+* 【2022-10-28】[Ignitetechnologies / BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester) - 
+* 【2022-10-28】[ProgrammingHero1 / B610-Learning-Platform-Assignment](https://github.com/ProgrammingHero1/B610-Learning-Platform-Assignment) - 
+* 【2022-10-28】[Warrenren / inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library) - 本书主要对RUST的标准库代码进行分析，并试图给出RUST标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
+* 【2022-10-28】[rmlzy / my-ebook](https://github.com/rmlzy/my-ebook) - 我收集的电子书, 主要是软件开发方向
+* 【2022-10-28】[datawhalechina / leeml-notes](https://github.com/datawhalechina/leeml-notes) - 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes
+* 【2022-10-28】[MintCN / linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 * 【2022-10-27】[faster-cpython / ideas](https://github.com/faster-cpython/ideas) - 
 * 【2022-10-27】[0xlittleboy / fuzz4bounty](https://github.com/0xlittleboy/fuzz4bounty) - Awesome wordlists for Bug Bounty Hunting
 * 【2022-10-27】[SixArm / unix-shell-script-tactics](https://github.com/SixArm/unix-shell-script-tactics) - SixArm.com → Shell style guide
