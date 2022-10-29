@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-10-29】[shadcn / taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
+* 【2022-10-29】[bregman-arie / devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+* 【2022-10-29】[numencyber / VulnerabilityPoC](https://github.com/numencyber/VulnerabilityPoC) - 
+* 【2022-10-29】[garmeeh / next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 * 【2022-10-28】[bumble-tech / private-detector](https://github.com/bumble-tech/private-detector) - Bumble's Private Detector - a pretrained model for detecting lewd images
 * 【2022-10-28】[ageron / handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 * 【2022-10-28】[open-telemetry / opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - OpenTelemetry Community Demo Application
@@ -223,6 +227,9 @@
 
 ## Java
 
+* 【2022-10-29】[bytedance / bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
+* 【2022-10-29】[apple / batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
+* 【2022-10-29】[woowacourse-precourse / java-onboarding](https://github.com/woowacourse-precourse/java-onboarding) - 온보딩 미션을 진행하는 저장소
 * 【2022-10-28】[Alluxio / alluxio](https://github.com/Alluxio/alluxio) - Alluxio, data orchestration for analytics and machine learning in the cloud
 * 【2022-10-28】[apache / incubator-eventmesh](https://github.com/apache/incubator-eventmesh) - EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
 * 【2022-10-28】[1171736840 / spring-file-storage](https://github.com/1171736840/spring-file-storage) - 在 SpringBoot 中通过简单的方式将文件存储到 本地、FTP、SFTP、WebDAV、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 谷歌云存储、Samba、NFS
@@ -351,6 +358,9 @@
 
 ## Python
 
+* 【2022-10-29】[cookiecutter / cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+* 【2022-10-29】[Kozea / WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+* 【2022-10-29】[zhouhaoyi / Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
 * 【2022-10-28】[yfszzx / stable-diffusion-webui-images-browser](https://github.com/yfszzx/stable-diffusion-webui-images-browser) - an images browse for stable-diffusion-webui
 * 【2022-10-28】[facebookresearch / encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 * 【2022-10-28】[pyca / cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
@@ -553,6 +563,12 @@
 
 ## Javascript
 
+* 【2022-10-29】[woowacourse-precourse / javascript-onboarding](https://github.com/woowacourse-precourse/javascript-onboarding) - 온보딩 미션을 진행하는 저장소
+* 【2022-10-29】[GoogleChrome / web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+* 【2022-10-29】[3kh0 / 3kh0.github.io](https://github.com/3kh0/3kh0.github.io) - This is 3kh0.github.io v3 the better unblocked games website! There are tons of features to enjoy while gaming, make this your go-to site at school! If you fork this repo please give me a star to support me.
+* 【2022-10-29】[highlightjs / highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+* 【2022-10-29】[vuejs / vue-cli](https://github.com/vuejs/vue-cli) - 🛠️webpack-based tooling for Vue.js Development
+* 【2022-10-29】[gaotianliuyun / gao](https://github.com/gaotianliuyun/gao) - tvbox & diyp 配置文件，如果喜欢，请复刻自用，切勿传播。谢谢！
 * 【2022-10-28】[MasteringNuxt / mastering-nuxt-3](https://github.com/MasteringNuxt/mastering-nuxt-3) - 
 * 【2022-10-28】[travist / jsencrypt](https://github.com/travist/jsencrypt) - A zero-dependency Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 * 【2022-10-28】[mishoo / UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
@@ -708,6 +724,8 @@
 
 ## Go
 
+* 【2022-10-29】[kcp-dev / kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
+* 【2022-10-29】[bobohume / gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 * 【2022-10-28】[Lengso / iplookup](https://github.com/Lengso/iplookup) - IP反查域名
 * 【2022-10-28】[younglifestyle / seg-server](https://github.com/younglifestyle/seg-server) - golang leaf，REF. Meituan-Dianping Leaf，ID发号器
 * 【2022-10-28】[hhandhuan / ku-bbs](https://github.com/hhandhuan/ku-bbs) - 酷社区
@@ -830,6 +848,10 @@
 
 ## C
 
+* 【2022-10-29】[mirror / busybox](https://github.com/mirror/busybox) - BusyBox mirror
+* 【2022-10-29】[htop-dev / htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+* 【2022-10-29】[Threekiii / Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit) - 一个漏洞利用工具仓库
+* 【2022-10-29】[XDSEC / MoeCTF_2022](https://github.com/XDSEC/MoeCTF_2022) - MoeCTF 2022 Challenges and Writeups
 * 【2022-10-28】[mackstann / tinywm](https://github.com/mackstann/tinywm) - The tiniest window manager.
 * 【2022-10-28】[sqlite / sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 * 【2022-10-28】[Cyan4973 / xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
@@ -938,6 +960,12 @@
 
 ## C++
 
+* 【2022-10-29】[7thSamurai / steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding.
+* 【2022-10-29】[intel / linux-sgx](https://github.com/intel/linux-sgx) - Intel SGX for Linux*
+* 【2022-10-29】[NVIDIAGameWorks / PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
+* 【2022-10-29】[cxasm / notepad--](https://github.com/cxasm/notepad--) - 一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。
+* 【2022-10-29】[GoSSIP-SJTU / Armariris](https://github.com/GoSSIP-SJTU/Armariris) - 孤挺花（Armariris） -- 由上海交通大学密码与计算机安全实验室维护的LLVM混淆框架
+* 【2022-10-29】[chengyangkj / Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App) - ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)
 * 【2022-10-28】[simulationcraft / simc](https://github.com/simulationcraft/simc) - Simulationcraft engine/GUI
 * 【2022-10-28】[google / orbit](https://github.com/google/orbit) - C/C++ Performance Profiler
 * 【2022-10-28】[YimMenu / YimMenu](https://github.com/YimMenu/YimMenu) - YimMenu, a GTA V menu oriented at protecting from crashes (not all currently) and improving the overall experience.
@@ -1075,6 +1103,11 @@
 
 ## C#
 
+* 【2022-10-29】[JoshClose / CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
+* 【2022-10-29】[SebLague / Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
+* 【2022-10-29】[TheOtherRolesAU / TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
+* 【2022-10-29】[goichot / CVE-2020-3433](https://github.com/goichot/CVE-2020-3433) - PoCs and technical analysis of three vulnerabilities found on Cisco AnyConnect for Windows: CVE-2020-3433, CVE-2020-3434 and CVE-2020-3435
+* 【2022-10-29】[gabrielxvx / zh-fiddler](https://github.com/gabrielxvx/zh-fiddler) - Fiddler Web Debugger 中文版
 * 【2022-10-28】[dathlin / HslCommunication](https://github.com/dathlin/HslCommunication) - A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redis, mqtt, websocket, etc., which can let your data on the network Free transmission, reducing enterprise development costs.
 * 【2022-10-28】[ststeiger / PdfSharpCore](https://github.com/ststeiger/PdfSharpCore) - Port of the PdfSharp library to .NET Core - largely removed GDI+ (only missing GetFontData - which can be replaced with freetype2)
 * 【2022-10-27】[StackExchange / StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
@@ -1175,6 +1208,11 @@
 
 ## Html
 
+* 【2022-10-29】[alvaroreis / bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) - Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira
+* 【2022-10-29】[RenanJPaula / acompanhamento-realtime-copa-mundo-2022](https://github.com/RenanJPaula/acompanhamento-realtime-copa-mundo-2022) - 
+* 【2022-10-29】[Azure-Samples / msdocs-flask-postgresql-sample-app](https://github.com/Azure-Samples/msdocs-flask-postgresql-sample-app) - 
+* 【2022-10-29】[tanjiti / sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
+* 【2022-10-29】[Yunyifu / SpiderForZhaiNanFuLi](https://github.com/Yunyifu/SpiderForZhaiNanFuLi) - 宅男福利资源爬取
 * 【2022-10-28】[tc39 / ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 * 【2022-10-28】[cmx-im / unblock-cmx](https://github.com/cmx-im/unblock-cmx) - 长毛象中文站免翻墙镜像 - Unblock CMX
 * 【2022-10-28】[yangkun19921001 / Blog](https://github.com/yangkun19921001/Blog) - Android 面试宝典、数据结构和算法、音视频 (FFmpeg、AAC、x264、MediaCodec)、 C/C++ 、OpenCV、跨平台等学习记录。【0基础音视频进阶学习路线】
@@ -1314,6 +1352,10 @@
 
 ## Css
 
+* 【2022-10-29】[maykbrito / nlw-copa-card](https://github.com/maykbrito/nlw-copa-card) - Aprenda a desenvolver esse código pelo vídeo
+* 【2022-10-29】[turkyden / lizhi-app](https://github.com/turkyden/lizhi-app) - 🎸李志 (B 仔) 音乐作品在线播放器
+* 【2022-10-29】[wpsec / CISP-PTE](https://github.com/wpsec/CISP-PTE) - CISP-PTE 考试环境源码
+* 【2022-10-29】[Shellbye / Shellbye.github.io](https://github.com/Shellbye/Shellbye.github.io) - my blog --> see https://github.com/Shellbye/Shellbye.github.io/issues for recent update
 * 【2022-10-28】[Amovane / aptos-NFT-marketplace](https://github.com/Amovane/aptos-NFT-marketplace) - A full stack demo NFT marketplace based on aptos devnet.
 * 【2022-10-28】[HermanMartinus / bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 * 【2022-10-28】[Zack-Dx / Mini-TODO](https://github.com/Zack-Dx/Mini-TODO) - A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star🌟. Have a great day!
@@ -1439,6 +1481,9 @@
 
 ## Unknown
 
+* 【2022-10-29】[wasabeef / awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+* 【2022-10-29】[fduran / sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
+* 【2022-10-29】[xuncv / WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
 * 【2022-10-28】[woowacourse / woowacourse-docs](https://github.com/woowacourse/woowacourse-docs) - 우아한테크코스 문서를 관리하는 저장소
 * 【2022-10-28】[anil-yelken / cyber-security-tools](https://github.com/anil-yelken/cyber-security-tools) - My cyber security tools
 * 【2022-10-28】[runvnc / dadsresume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980
