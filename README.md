@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-10-30】[charmbracelet / vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder📼
+* 【2022-10-30】[vercel / app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
+* 【2022-10-30】[sismo-core / sismo-protocol](https://github.com/sismo-core/sismo-protocol) - Contracts of the Sismo Attestation Protocol
+* 【2022-10-30】[mastodon / mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+* 【2022-10-30】[minbrowser / min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 * 【2022-10-29】[shadcn / taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 * 【2022-10-29】[bregman-arie / devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 * 【2022-10-29】[numencyber / VulnerabilityPoC](https://github.com/numencyber/VulnerabilityPoC) - 
@@ -358,6 +363,10 @@
 
 ## Python
 
+* 【2022-10-30】[darkoperator / dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
+* 【2022-10-30】[acl-org / aclpubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions
+* 【2022-10-30】[WeixiangYAN / WhyGen](https://github.com/WeixiangYAN/WhyGen) - Explaining ML-powered Code Generation byReferring to Training Examples.
+* 【2022-10-30】[poloclub / diffusiondb](https://github.com/poloclub/diffusiondb) - A large-scale text-to-image prompt gallery dataset based on Stable Diffusion
 * 【2022-10-29】[cookiecutter / cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 * 【2022-10-29】[Kozea / WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 * 【2022-10-29】[zhouhaoyi / Informer2020](https://github.com/zhouhaoyi/Informer2020) - The GitHub repository for the paper "Informer" accepted by AAAI 2021.
@@ -563,6 +572,11 @@
 
 ## Javascript
 
+* 【2022-10-30】[nodejs / nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js website.
+* 【2022-10-30】[Turfjs / turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
+* 【2022-10-30】[fomo4056 / Smart-Contract-Opening-Script](https://github.com/fomo4056/Smart-Contract-Opening-Script) - 智能合约抢开盘脚本（科学家）特别适用于FOMO资金盘
+* 【2022-10-30】[lefex / FE](https://github.com/lefex/FE) - 前端 100 天，帮助 10W 人入门并进阶前端。
+* 【2022-10-30】[jin-yufeng / mp-html](https://github.com/jin-yufeng/mp-html) - 小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用
 * 【2022-10-29】[woowacourse-precourse / javascript-onboarding](https://github.com/woowacourse-precourse/javascript-onboarding) - 온보딩 미션을 진행하는 저장소
 * 【2022-10-29】[GoogleChrome / web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 * 【2022-10-29】[3kh0 / 3kh0.github.io](https://github.com/3kh0/3kh0.github.io) - This is 3kh0.github.io v3 the better unblocked games website! There are tons of features to enjoy while gaming, make this your go-to site at school! If you fork this repo please give me a star to support me.
@@ -724,6 +738,10 @@
 
 ## Go
 
+* 【2022-10-30】[heroiclabs / nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+* 【2022-10-30】[charmbracelet / glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+* 【2022-10-30】[actiontech / sqle](https://github.com/actiontech/sqle) - SQLE is a SQL audit platform | SQLE 是一个支持多场景，原生支持 MySQL 审核且数据库类型可扩展的 SQL 审核工具
+* 【2022-10-30】[tmnhs / crony](https://github.com/tmnhs/crony) - Distributed scheduled task management platform Go语言实现的分布式定时任务管理平台，支持多节点部署，支持节点任务自动分配和故障转移
 * 【2022-10-29】[kcp-dev / kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters
 * 【2022-10-29】[bobohume / gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 * 【2022-10-28】[Lengso / iplookup](https://github.com/Lengso/iplookup) - IP反查域名
@@ -848,6 +866,8 @@
 
 ## C
 
+* 【2022-10-30】[stacksmashing / tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
+* 【2022-10-30】[apple / darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 * 【2022-10-29】[mirror / busybox](https://github.com/mirror/busybox) - BusyBox mirror
 * 【2022-10-29】[htop-dev / htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 * 【2022-10-29】[Threekiii / Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit) - 一个漏洞利用工具仓库
@@ -960,6 +980,11 @@
 
 ## C++
 
+* 【2022-10-30】[alibaba / yalantinglibs](https://github.com/alibaba/yalantinglibs) - A collection of C++20 libraries, include async_simple, coro_rpc and struct_pack
+* 【2022-10-30】[okcashpro / okcash](https://github.com/okcashpro/okcash) - Okcash Core integration/staging tree.
+* 【2022-10-30】[nodejs / node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
+* 【2022-10-30】[nextcloud / desktop](https://github.com/nextcloud/desktop) - 💻Desktop sync client for Nextcloud
+* 【2022-10-30】[microsoft / Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
 * 【2022-10-29】[7thSamurai / steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files insde images using Least-Significant-Bit encoding.
 * 【2022-10-29】[intel / linux-sgx](https://github.com/intel/linux-sgx) - Intel SGX for Linux*
 * 【2022-10-29】[NVIDIAGameWorks / PhysX](https://github.com/NVIDIAGameWorks/PhysX) - NVIDIA PhysX SDK
@@ -1103,6 +1128,8 @@
 
 ## C#
 
+* 【2022-10-30】[uknowsec / SharpEventLog](https://github.com/uknowsec/SharpEventLog) - c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员。
+* 【2022-10-30】[genshin-matrix / genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtain | 原神自動伐採君)
 * 【2022-10-29】[JoshClose / CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
 * 【2022-10-29】[SebLague / Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 * 【2022-10-29】[TheOtherRolesAU / TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - The Other Roles, is a mod for Among Us which adds many new roles, new Settings and new Custom Hats to the game.
@@ -1208,6 +1235,8 @@
 
 ## Html
 
+* 【2022-10-30】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
+* 【2022-10-30】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 * 【2022-10-29】[alvaroreis / bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) - Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira
 * 【2022-10-29】[RenanJPaula / acompanhamento-realtime-copa-mundo-2022](https://github.com/RenanJPaula/acompanhamento-realtime-copa-mundo-2022) - 
 * 【2022-10-29】[Azure-Samples / msdocs-flask-postgresql-sample-app](https://github.com/Azure-Samples/msdocs-flask-postgresql-sample-app) - 
@@ -1352,6 +1381,7 @@
 
 ## Css
 
+* 【2022-10-30】[xcwill / CMeKG_labelingPlatform](https://github.com/xcwill/CMeKG_labelingPlatform) - 
 * 【2022-10-29】[maykbrito / nlw-copa-card](https://github.com/maykbrito/nlw-copa-card) - Aprenda a desenvolver esse código pelo vídeo
 * 【2022-10-29】[turkyden / lizhi-app](https://github.com/turkyden/lizhi-app) - 🎸李志 (B 仔) 音乐作品在线播放器
 * 【2022-10-29】[wpsec / CISP-PTE](https://github.com/wpsec/CISP-PTE) - CISP-PTE 考试环境源码
@@ -1481,6 +1511,10 @@
 
 ## Unknown
 
+* 【2022-10-30】[eclipse / sumo](https://github.com/eclipse/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+* 【2022-10-30】[cosmos / chain-registry](https://github.com/cosmos/chain-registry) - 
+* 【2022-10-30】[enaqx / awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
+* 【2022-10-30】[chromium / chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 * 【2022-10-29】[wasabeef / awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 * 【2022-10-29】[fduran / sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 * 【2022-10-29】[xuncv / WechatVideoSniffer](https://github.com/xuncv/WechatVideoSniffer) - 微信视频号PC版、微信看一看、微信公众号视频地址嗅探器
