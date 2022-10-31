@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-10-31】[dudykr / stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
+* 【2022-10-31】[acmesh-official / acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+* 【2022-10-31】[mattermost / focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+* 【2022-10-31】[bluesky-social / atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
+* 【2022-10-31】[yyx990803 / vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next + turbopack HMR performance
+* 【2022-10-31】[neovim / nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
+* 【2022-10-31】[yeahwu / v2ray-wss](https://github.com/yeahwu/v2ray-wss) - 
+* 【2022-10-31】[Hunlongyu / ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值.🎞
 * 【2022-10-30】[charmbracelet / vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder📼
 * 【2022-10-30】[vercel / app-playground](https://github.com/vercel/app-playground) - https://app-dir.vercel.app/
 * 【2022-10-30】[sismo-core / sismo-protocol](https://github.com/sismo-core/sismo-protocol) - Contracts of the Sismo Attestation Protocol
@@ -232,6 +240,13 @@
 
 ## Java
 
+* 【2022-10-31】[java-decompiler / jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
+* 【2022-10-31】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+* 【2022-10-31】[lilongweidev / GoodWeather](https://github.com/lilongweidev/GoodWeather) - 好天气APP（天气预报、空气质量、生活建议、灾害预警、出行建议、城市切换、城市搜索、天气信息语音播报、语音搜索城市天气、世界国家/地区的城市、常用城市、地图天气、地图搜索定位、手动点击定位、壁纸切换、应用自动更新）
+* 【2022-10-31】[kbjay / KJ_Method_Monitor](https://github.com/kbjay/KJ_Method_Monitor) - 卡顿优化 - 辅助工具
+* 【2022-10-31】[SonicCloudOrg / sonic-server](https://github.com/SonicCloudOrg/sonic-server) - 🎉Back end of Sonic cloud real machine platform. Sonic云真机平台后端服务。
+* 【2022-10-31】[zhaojianbo2 / GameAoi](https://github.com/zhaojianbo2/GameAoi) - MMO中AOI实现
+* 【2022-10-31】[SonicCloudOrg / sonic-agent](https://github.com/SonicCloudOrg/sonic-agent) - 🎉Agent of Sonic cloud real machine platform. Sonic云真机平台Agent端。
 * 【2022-10-29】[bytedance / bitsail](https://github.com/bytedance/bitsail) - BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.
 * 【2022-10-29】[apple / batch-processing-gateway](https://github.com/apple/batch-processing-gateway) - The gateway component to make Spark on K8s much easier for Spark users.
 * 【2022-10-29】[woowacourse-precourse / java-onboarding](https://github.com/woowacourse-precourse/java-onboarding) - 온보딩 미션을 진행하는 저장소
@@ -363,6 +378,10 @@
 
 ## Python
 
+* 【2022-10-31】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
+* 【2022-10-31】[weebzone / WZML](https://github.com/weebzone/WZML) - A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching
+* 【2022-10-31】[AndrewEllis93 / Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - 
+* 【2022-10-31】[matplotlib / cheatsheets](https://github.com/matplotlib/cheatsheets) - Official Matplotlib cheat sheets
 * 【2022-10-30】[darkoperator / dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 * 【2022-10-30】[acl-org / aclpubcheck](https://github.com/acl-org/aclpubcheck) - Tools for checking ACL paper submissions
 * 【2022-10-30】[WeixiangYAN / WhyGen](https://github.com/WeixiangYAN/WhyGen) - Explaining ML-powered Code Generation byReferring to Training Examples.
@@ -572,6 +591,11 @@
 
 ## Javascript
 
+* 【2022-10-31】[mashiAl / AIpredictionBot](https://github.com/mashiAl/AIpredictionBot) - Pancakeswap prediction bot ai powered
+* 【2022-10-31】[ViktoryiaYatskova / clean-code-s1e1](https://github.com/ViktoryiaYatskova/clean-code-s1e1) - 
+* 【2022-10-31】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
+* 【2022-10-31】[bchiang7 / v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
+* 【2022-10-31】[2hacc / TVBox](https://github.com/2hacc/TVBox) - TVBox 网络接口
 * 【2022-10-30】[nodejs / nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js website.
 * 【2022-10-30】[Turfjs / turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 * 【2022-10-30】[fomo4056 / Smart-Contract-Opening-Script](https://github.com/fomo4056/Smart-Contract-Opening-Script) - 智能合约抢开盘脚本（科学家）特别适用于FOMO资金盘
@@ -738,6 +762,10 @@
 
 ## Go
 
+* 【2022-10-31】[binwiederhier / ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+* 【2022-10-31】[H4de5-7 / geacon_pro](https://github.com/H4de5-7/geacon_pro) - 跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.
+* 【2022-10-31】[golang-module / carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
+* 【2022-10-31】[bangumi / server](https://github.com/bangumi/server) - The next-generation backend server for bgm.tv
 * 【2022-10-30】[heroiclabs / nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 * 【2022-10-30】[charmbracelet / glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 * 【2022-10-30】[actiontech / sqle](https://github.com/actiontech/sqle) - SQLE is a SQL audit platform | SQLE 是一个支持多场景，原生支持 MySQL 审核且数据库类型可扩展的 SQL 审核工具
@@ -866,6 +894,9 @@
 
 ## C
 
+* 【2022-10-31】[bigrando420 / thomas](https://github.com/bigrando420/thomas) - 
+* 【2022-10-31】[maoabc / nmmp](https://github.com/maoabc/nmmp) - dex-vm used to protect the android classes.dex file
+* 【2022-10-31】[0671 / RedisModules-ExecuteCommand-for-Windows](https://github.com/0671/RedisModules-ExecuteCommand-for-Windows) - 可在Windows下执行系统命令的Redis模块，可用于Redis主从复制攻击。
 * 【2022-10-30】[stacksmashing / tamarin-firmware](https://github.com/stacksmashing/tamarin-firmware) - 
 * 【2022-10-30】[apple / darwin-xnu](https://github.com/apple/darwin-xnu) - The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 * 【2022-10-29】[mirror / busybox](https://github.com/mirror/busybox) - BusyBox mirror
@@ -980,6 +1011,11 @@
 
 ## C++
 
+* 【2022-10-31】[binji / smolnes](https://github.com/binji/smolnes) - NES emulator in <5000 bytes of C++
+* 【2022-10-31】[D1rkMtr / IORI_Loader](https://github.com/D1rkMtr/IORI_Loader) - UUID shellcode Loader with dynamic indirect syscall implementation, syscall number/instruction get resolved dynamicaly at runtime, and the syscall number/instruction get unhooked using Halosgate technique. Function address get resolved from the PEB by offsets and comparaison by hashes
+* 【2022-10-31】[intel / intel-extension-for-tensorflow](https://github.com/intel/intel-extension-for-tensorflow) - Intel® Extension for TensorFlow*
+* 【2022-10-31】[LizardByte / Sunshine](https://github.com/LizardByte/Sunshine) - Sunshine is a Gamestream host for Moonlight.
+* 【2022-10-31】[MegEngine / MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 * 【2022-10-30】[alibaba / yalantinglibs](https://github.com/alibaba/yalantinglibs) - A collection of C++20 libraries, include async_simple, coro_rpc and struct_pack
 * 【2022-10-30】[okcashpro / okcash](https://github.com/okcashpro/okcash) - Okcash Core integration/staging tree.
 * 【2022-10-30】[nodejs / node-addon-api](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++
@@ -1128,6 +1164,10 @@
 
 ## C#
 
+* 【2022-10-31】[1Remote / PRemoteM](https://github.com/1Remote/PRemoteM) - Personal Remote Manager
+* 【2022-10-31】[Accenture / Spartacus](https://github.com/Accenture/Spartacus) - Spartacus DLL Hijacking Discovery Tool
+* 【2022-10-31】[SitronX / UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
+* 【2022-10-31】[redteamsocietegenerale / DLLirant](https://github.com/redteamsocietegenerale/DLLirant) - DLLirant is a tool to automatize the DLL Hijacking researches on a specified binary.
 * 【2022-10-30】[uknowsec / SharpEventLog](https://github.com/uknowsec/SharpEventLog) - c# 读取登录过本机的登录失败或登录成功（4624，4625）的所有计算机信息，在内网渗透中快速定位运维管理人员。
 * 【2022-10-30】[genshin-matrix / genshin-woodmen](https://github.com/genshin-matrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtain | 原神自動伐採君)
 * 【2022-10-29】[JoshClose / CsvHelper](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files
@@ -1235,6 +1275,7 @@
 
 ## Html
 
+* 【2022-10-31】[joyeusenoelle / GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 * 【2022-10-30】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
 * 【2022-10-30】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
 * 【2022-10-29】[alvaroreis / bolsonaro2turno](https://github.com/alvaroreis/bolsonaro2turno) - Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira
@@ -1511,6 +1552,13 @@
 
 ## Unknown
 
+* 【2022-10-31】[chieund / golang_learning](https://github.com/chieund/golang_learning) - Awesome source Golang Learning
+* 【2022-10-31】[pluja / awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+* 【2022-10-31】[questianon / sdupdates](https://github.com/questianon/sdupdates) - A mega collection of all resources and news related to Stable Diffusion. Focused around AUTOMATIC1111's webui (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* 【2022-10-31】[payloadbox / command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) - 🎯Command Injection Payload List
+* 【2022-10-31】[tuyafeng / Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
+* 【2022-10-31】[28413761 / QuantumultX](https://github.com/28413761/QuantumultX) - 
+* 【2022-10-31】[QianMo / Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - ⚓我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 * 【2022-10-30】[eclipse / sumo](https://github.com/eclipse/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 * 【2022-10-30】[cosmos / chain-registry](https://github.com/cosmos/chain-registry) - 
 * 【2022-10-30】[enaqx / awesome-pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things
