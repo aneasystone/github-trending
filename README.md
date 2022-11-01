@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-11-01】[josean-dev / dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
+* 【2022-11-01】[jupyter-naas / awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes.😎published by the Naas community.
+* 【2022-11-01】[USTC-Hackergame / hackergame2022-writeups](https://github.com/USTC-Hackergame/hackergame2022-writeups) - 中国科学技术大学第九届信息安全大赛的官方与非官方题解
 * 【2022-10-31】[dudykr / stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 * 【2022-10-31】[acmesh-official / acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 * 【2022-10-31】[mattermost / focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -240,6 +243,10 @@
 
 ## Java
 
+* 【2022-11-01】[mastodon / mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
+* 【2022-11-01】[TDuckCloud / tduck-platform](https://github.com/TDuckCloud/tduck-platform) - 填鸭表单问卷系统（tduck-survey-form），开源问卷调查系统、表单系统
+* 【2022-11-01】[zhangchuangiie / SimpleMybatis](https://github.com/zhangchuangiie/SimpleMybatis) - 一个基于Mybatis封装的类JdbcTemplate风格的ORM工具
+* 【2022-11-01】[i-tracy / patterns-for-me](https://github.com/i-tracy/patterns-for-me) - 结合真实案例场景对常见的设计模式展开论述，列举特点和适用场景，总结使用技巧，以及分析在开源框架源码中的应用。截止目前，项目已有 13w+ 字...
 * 【2022-10-31】[java-decompiler / jd-gui](https://github.com/java-decompiler/jd-gui) - A standalone Java Decompiler GUI
 * 【2022-10-31】[EnterpriseQualityCoding / FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 * 【2022-10-31】[lilongweidev / GoodWeather](https://github.com/lilongweidev/GoodWeather) - 好天气APP（天气预报、空气质量、生活建议、灾害预警、出行建议、城市切换、城市搜索、天气信息语音播报、语音搜索城市天气、世界国家/地区的城市、常用城市、地图天气、地图搜索定位、手动点击定位、壁纸切换、应用自动更新）
@@ -378,6 +385,14 @@
 
 ## Python
 
+* 【2022-11-01】[deepfakes / faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+* 【2022-11-01】[mitmproxy / mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* 【2022-11-01】[volatilityfoundation / volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
+* 【2022-11-01】[h2oai / wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
+* 【2022-11-01】[TinyDataML / Tiny3D](https://github.com/TinyDataML/Tiny3D) - Tiny3D is a next generation of 3D AI service production system.
+* 【2022-11-01】[PyJun / Mooc_Downloader](https://github.com/PyJun/Mooc_Downloader) - 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，超星学习通，学银在线，学堂在线，爱课程，B站下载；支持视频，课件同时下载
+* 【2022-11-01】[nghuyong / WeiboSpider](https://github.com/nghuyong/WeiboSpider) - 持续维护的新浪微博采集工具🚀🚀🚀
+* 【2022-11-01】[Ulov888 / ReturnVisitRobot](https://github.com/Ulov888/ReturnVisitRobot) - 
 * 【2022-10-31】[bkerler / mtkclient](https://github.com/bkerler/mtkclient) - MTK reverse engineering and flash tool
 * 【2022-10-31】[weebzone / WZML](https://github.com/weebzone/WZML) - A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching
 * 【2022-10-31】[AndrewEllis93 / Print-Tuning-Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - 
@@ -591,6 +606,10 @@
 
 ## Javascript
 
+* 【2022-11-01】[adrianhajdin / project_web3_battle_game](https://github.com/adrianhajdin/project_web3_battle_game) - With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time, AvaxGods is the best and the only Web3 battle-style online multiplayer card game that you can currently find on YouTube.
+* 【2022-11-01】[dortania / OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
+* 【2022-11-01】[expressjs / express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+* 【2022-11-01】[zt6 / github_ddgksf2013_Cuttlefish](https://github.com/zt6/github_ddgksf2013_Cuttlefish) - 
 * 【2022-10-31】[mashiAl / AIpredictionBot](https://github.com/mashiAl/AIpredictionBot) - Pancakeswap prediction bot ai powered
 * 【2022-10-31】[ViktoryiaYatskova / clean-code-s1e1](https://github.com/ViktoryiaYatskova/clean-code-s1e1) - 
 * 【2022-10-31】[codesandbox / codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -762,6 +781,9 @@
 
 ## Go
 
+* 【2022-11-01】[Orginone / orginone](https://github.com/Orginone/orginone) - 奥集能后端
+* 【2022-11-01】[wangzhongyang007 / goframe-shop](https://github.com/wangzhongyang007/goframe-shop) - 基于goframe搭建的电商前后台API系统
+* 【2022-11-01】[go-rod / go-rod-chinese](https://github.com/go-rod/go-rod-chinese) - go-rod API 中文文档
 * 【2022-10-31】[binwiederhier / ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 * 【2022-10-31】[H4de5-7 / geacon_pro](https://github.com/H4de5-7/geacon_pro) - 跨平台重构了Cobaltstrike Beacon，适配了大部分Beacon的功能，行为对国内主流杀软免杀，支持4.1以上的版本。 A cobaltstrike Beacon bypass anti-virus, supports 4.1+ version.
 * 【2022-10-31】[golang-module / carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
@@ -894,6 +916,11 @@
 
 ## C
 
+* 【2022-11-01】[ORCx41 / TerraLdr](https://github.com/ORCx41/TerraLdr) - A Payload Loader Designed With Advanced Evasion Features
+* 【2022-11-01】[JohnEarnest / Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
+* 【2022-11-01】[sagemathinc / cowasm](https://github.com/sagemathinc/cowasm) - CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
+* 【2022-11-01】[StevenBaby / onix](https://github.com/StevenBaby/onix) - Onix - 操作系统实现
+* 【2022-11-01】[vrolife / modern_laptop](https://github.com/vrolife/modern_laptop) - Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver
 * 【2022-10-31】[bigrando420 / thomas](https://github.com/bigrando420/thomas) - 
 * 【2022-10-31】[maoabc / nmmp](https://github.com/maoabc/nmmp) - dex-vm used to protect the android classes.dex file
 * 【2022-10-31】[0671 / RedisModules-ExecuteCommand-for-Windows](https://github.com/0671/RedisModules-ExecuteCommand-for-Windows) - 可在Windows下执行系统命令的Redis模块，可用于Redis主从复制攻击。
@@ -1011,6 +1038,9 @@
 
 ## C++
 
+* 【2022-11-01】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+* 【2022-11-01】[vxunderground / VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
+* 【2022-11-01】[ChunelFeng / CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无任何三方依赖的、跨平台的、基于流图的并行计算框架。欢迎star & fork
 * 【2022-10-31】[binji / smolnes](https://github.com/binji/smolnes) - NES emulator in <5000 bytes of C++
 * 【2022-10-31】[D1rkMtr / IORI_Loader](https://github.com/D1rkMtr/IORI_Loader) - UUID shellcode Loader with dynamic indirect syscall implementation, syscall number/instruction get resolved dynamicaly at runtime, and the syscall number/instruction get unhooked using Halosgate technique. Function address get resolved from the PEB by offsets and comparaison by hashes
 * 【2022-10-31】[intel / intel-extension-for-tensorflow](https://github.com/intel/intel-extension-for-tensorflow) - Intel® Extension for TensorFlow*
@@ -1164,6 +1194,10 @@
 
 ## C#
 
+* 【2022-11-01】[Processus-Thief / ETWMonitor](https://github.com/Processus-Thief/ETWMonitor) - Windows notifier tool that detects RDP, SMB and RPC connections by monitoring ETW event logs
+* 【2022-11-01】[justcoding121 / advanced-algorithms](https://github.com/justcoding121/advanced-algorithms) - 100+ algorithms & data structures generically implemented in C#.
+* 【2022-11-01】[aalhour / C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - 📚📈Plug-and-play class-library project of standard Data Structures and Algorithms in C#
+* 【2022-11-01】[UnigramDev / Unigram](https://github.com/UnigramDev/Unigram) - Telegram for Windows
 * 【2022-10-31】[1Remote / PRemoteM](https://github.com/1Remote/PRemoteM) - Personal Remote Manager
 * 【2022-10-31】[Accenture / Spartacus](https://github.com/Accenture/Spartacus) - Spartacus DLL Hijacking Discovery Tool
 * 【2022-10-31】[SitronX / UnityTimeRewinder](https://github.com/SitronX/UnityTimeRewinder) - Unity time rewind solution, that is easily customizable for any project.
@@ -1275,6 +1309,11 @@
 
 ## Html
 
+* 【2022-11-01】[Ja7ad / W3Schools](https://github.com/Ja7ad/W3Schools) - W3Schools Full Offline Version
+* 【2022-11-01】[WebDevSimplified / Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
+* 【2022-11-01】[ephtracy / ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
+* 【2022-11-01】[onebirdrocks / geektime-ELK](https://github.com/onebirdrocks/geektime-ELK) - ELK Training
+* 【2022-11-01】[LZUOSS / oss-examinations2022](https://github.com/LZUOSS/oss-examinations2022) - Lanzhou University OSS Community 2022 Autumn recruitment.
 * 【2022-10-31】[joyeusenoelle / GuideToMastodon](https://github.com/joyeusenoelle/GuideToMastodon) - An increasingly less-brief guide to Mastodon
 * 【2022-10-30】[HarborLibrary / Political-Science](https://github.com/HarborLibrary/Political-Science) - 政治
 * 【2022-10-30】[rust-lang / this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) - Data for this-week-in-rust.org
@@ -1422,6 +1461,10 @@
 
 ## Css
 
+* 【2022-11-01】[twitter / birdwatch](https://github.com/twitter/birdwatch) - 
+* 【2022-11-01】[MeiK2333 / github-style](https://github.com/MeiK2333/github-style) - 
+* 【2022-11-01】[kevin-powell / learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way) - 
+* 【2022-11-01】[SaptarshiSarkar12 / Drifty](https://github.com/SaptarshiSarkar12/Drifty) - Drifty is an open-source interactive File Downloader system built with java. It is currently available in CLI mode and has the GUI version under active development.
 * 【2022-10-30】[xcwill / CMeKG_labelingPlatform](https://github.com/xcwill/CMeKG_labelingPlatform) - 
 * 【2022-10-29】[maykbrito / nlw-copa-card](https://github.com/maykbrito/nlw-copa-card) - Aprenda a desenvolver esse código pelo vídeo
 * 【2022-10-29】[turkyden / lizhi-app](https://github.com/turkyden/lizhi-app) - 🎸李志 (B 仔) 音乐作品在线播放器
@@ -1552,6 +1595,12 @@
 
 ## Unknown
 
+* 【2022-11-01】[getsurfboard / surfboard](https://github.com/getsurfboard/surfboard) - 
+* 【2022-11-01】[GoldHEN / GoldHEN](https://github.com/GoldHEN/GoldHEN) - PS4 Homebrew Enabler
+* 【2022-11-01】[hmaverickadams / Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
+* 【2022-11-01】[abhisheknaiidu / awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎A curated list of awesome GitHub Profile READMEs📝
+* 【2022-11-01】[tv-player / apks](https://github.com/tv-player/apks) - 一影视，TV影视，安卓
+* 【2022-11-01】[Heroic-Studio / Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2022最新 新增各种镜像站
 * 【2022-10-31】[chieund / golang_learning](https://github.com/chieund/golang_learning) - Awesome source Golang Learning
 * 【2022-10-31】[pluja / awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 * 【2022-10-31】[questianon / sdupdates](https://github.com/questianon/sdupdates) - A mega collection of all resources and news related to Stable Diffusion. Focused around AUTOMATIC1111's webui (https://github.com/AUTOMATIC1111/stable-diffusion-webui)
