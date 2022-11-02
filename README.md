@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-11-02】[milanm / DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources
+* 【2022-11-02】[Anof-cyber / APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System
+* 【2022-11-02】[Eilonh / s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
+* 【2022-11-02】[carefree0910 / carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
+* 【2022-11-02】[conventional-changelog / commitlint](https://github.com/conventional-changelog/commitlint) - 📓Lint commit messages
+* 【2022-11-02】[pipipi-pikachu / PPTist](https://github.com/pipipi-pikachu/PPTist) - 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 * 【2022-11-01】[josean-dev / dev-environment-files](https://github.com/josean-dev/dev-environment-files) - 
 * 【2022-11-01】[jupyter-naas / awesome-notebooks](https://github.com/jupyter-naas/awesome-notebooks) - Ready to use data science templates, organized by tools to jumpstart your projects and data products in minutes.😎published by the Naas community.
 * 【2022-11-01】[USTC-Hackergame / hackergame2022-writeups](https://github.com/USTC-Hackergame/hackergame2022-writeups) - 中国科学技术大学第九届信息安全大赛的官方与非官方题解
@@ -243,6 +249,9 @@
 
 ## Java
 
+* 【2022-11-02】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
+* 【2022-11-02】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+* 【2022-11-02】[real-logic / aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2022-11-01】[mastodon / mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 * 【2022-11-01】[TDuckCloud / tduck-platform](https://github.com/TDuckCloud/tduck-platform) - 填鸭表单问卷系统（tduck-survey-form），开源问卷调查系统、表单系统
 * 【2022-11-01】[zhangchuangiie / SimpleMybatis](https://github.com/zhangchuangiie/SimpleMybatis) - 一个基于Mybatis封装的类JdbcTemplate风格的ORM工具
@@ -385,6 +394,13 @@
 
 ## Python
 
+* 【2022-11-02】[yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
+* 【2022-11-02】[remzi-arpacidusseau / ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
+* 【2022-11-02】[andyzys / jd_seckill](https://github.com/andyzys/jd_seckill) - 京东秒杀商品抢购
+* 【2022-11-02】[PaddlePaddle / PaddleClas](https://github.com/PaddlePaddle/PaddleClas) - A treasure chest for visual classification and recognition powered by PaddlePaddle
+* 【2022-11-02】[DeepLabCut / DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) - Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans
+* 【2022-11-02】[jindongwang / transferlearning](https://github.com/jindongwang/transferlearning) - Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习
+* 【2022-11-02】[tychxn / jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 * 【2022-11-01】[deepfakes / faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 * 【2022-11-01】[mitmproxy / mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * 【2022-11-01】[volatilityfoundation / volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
@@ -606,6 +622,8 @@
 
 ## Javascript
 
+* 【2022-11-02】[thevahidal / soul](https://github.com/thevahidal/soul) - A SQLite RESTful server
+* 【2022-11-02】[rust-lang-cn / rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 * 【2022-11-01】[adrianhajdin / project_web3_battle_game](https://github.com/adrianhajdin/project_web3_battle_game) - With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time, AvaxGods is the best and the only Web3 battle-style online multiplayer card game that you can currently find on YouTube.
 * 【2022-11-01】[dortania / OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 * 【2022-11-01】[expressjs / express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -781,6 +799,11 @@
 
 ## Go
 
+* 【2022-11-02】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+* 【2022-11-02】[chaosblade-io / chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
+* 【2022-11-02】[facebookincubator / dns](https://github.com/facebookincubator/dns) - Collection of Meta's DNS Libraries
+* 【2022-11-02】[flycash / toy-web](https://github.com/flycash/toy-web) - 用于极客时间go基础课程
+* 【2022-11-02】[axiaoxin-com / investool](https://github.com/axiaoxin-com/investool) - Golang实现财报分析、个股基本面检测、基本面选股、4433法则基金筛选与检测、基金持仓相似度、股票选基、基金经理筛选
 * 【2022-11-01】[Orginone / orginone](https://github.com/Orginone/orginone) - 奥集能后端
 * 【2022-11-01】[wangzhongyang007 / goframe-shop](https://github.com/wangzhongyang007/goframe-shop) - 基于goframe搭建的电商前后台API系统
 * 【2022-11-01】[go-rod / go-rod-chinese](https://github.com/go-rod/go-rod-chinese) - go-rod API 中文文档
@@ -916,6 +939,9 @@
 
 ## C
 
+* 【2022-11-02】[cstack / db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
+* 【2022-11-02】[Yaxser / Backstab](https://github.com/Yaxser/Backstab) - A tool to kill antimalware protected processes
+* 【2022-11-02】[bsauce / kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
 * 【2022-11-01】[ORCx41 / TerraLdr](https://github.com/ORCx41/TerraLdr) - A Payload Loader Designed With Advanced Evasion Features
 * 【2022-11-01】[JohnEarnest / Decker](https://github.com/JohnEarnest/Decker) - A multimedia sketchpad
 * 【2022-11-01】[sagemathinc / cowasm](https://github.com/sagemathinc/cowasm) - CoWasm: Collaborative WebAssembly for Servers and Browsers. Built using Zig. Supports Python with extension modules, including numpy.
@@ -1038,6 +1064,8 @@
 
 ## C++
 
+* 【2022-11-02】[opencurve / curve](https://github.com/opencurve/curve) - Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kubernetes; 2) high-performance storage for cloud-native databases; 3) cloud storage middleware using S3-compatible object storage as a data storage.
+* 【2022-11-02】[scylladb / seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 * 【2022-11-01】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 * 【2022-11-01】[vxunderground / VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
 * 【2022-11-01】[ChunelFeng / CGraph](https://github.com/ChunelFeng/CGraph) - 【A simple C++ DAG framework】 一个简单好用的、无任何三方依赖的、跨平台的、基于流图的并行计算框架。欢迎star & fork
@@ -1194,6 +1222,9 @@
 
 ## C#
 
+* 【2022-11-02】[vignetteapp / SeeShark](https://github.com/vignetteapp/SeeShark) - Simple C# camera library.
+* 【2022-11-02】[Harlan-H / M3u8Downloader_H](https://github.com/Harlan-H/M3u8Downloader_H) - [.net6]M3u8Downloader_H是一款操作简单，功能强大且高速下载的m3u8下载器
+* 【2022-11-02】[CatImmortal / CatAsset](https://github.com/CatImmortal/CatAsset) - Unity资源管理框架
 * 【2022-11-01】[Processus-Thief / ETWMonitor](https://github.com/Processus-Thief/ETWMonitor) - Windows notifier tool that detects RDP, SMB and RPC connections by monitoring ETW event logs
 * 【2022-11-01】[justcoding121 / advanced-algorithms](https://github.com/justcoding121/advanced-algorithms) - 100+ algorithms & data structures generically implemented in C#.
 * 【2022-11-01】[aalhour / C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - 📚📈Plug-and-play class-library project of standard Data Structures and Algorithms in C#
@@ -1309,6 +1340,10 @@
 
 ## Html
 
+* 【2022-11-02】[ChartsCSS / charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+* 【2022-11-02】[orpatashnik / StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
+* 【2022-11-02】[kishandiemm / html-portfolio-site](https://github.com/kishandiemm/html-portfolio-site) - 
+* 【2022-11-02】[QianJianTech / LaTeXLive](https://github.com/QianJianTech/LaTeXLive) - LateX公式编辑器-妈叔出品
 * 【2022-11-01】[Ja7ad / W3Schools](https://github.com/Ja7ad/W3Schools) - W3Schools Full Offline Version
 * 【2022-11-01】[WebDevSimplified / Introduction-to-Web-Development](https://github.com/WebDevSimplified/Introduction-to-Web-Development) - 
 * 【2022-11-01】[ephtracy / ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
@@ -1461,6 +1496,12 @@
 
 ## Css
 
+* 【2022-11-02】[codeguy / php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+* 【2022-11-02】[naaji-navas / drumkit](https://github.com/naaji-navas/drumkit) - 
+* 【2022-11-02】[Cyb3rG0dzilla / Docker-Web](https://github.com/Cyb3rG0dzilla/Docker-Web) - 
+* 【2022-11-02】[bhavana070 / Selfer-Portfolio](https://github.com/bhavana070/Selfer-Portfolio) - 
+* 【2022-11-02】[eclecticiq / eiq-er-ce](https://github.com/eclecticiq/eiq-er-ce) - Community Edition of the EclecticIQ Endpoint Security Platform; An open source and extensible platform to manage and monitor endpoints, based on osqery agent
+* 【2022-11-02】[YoshithaRathnayake / NEW-YOSHITHA-WEBSITE](https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE) - This is My New Official Website
 * 【2022-11-01】[twitter / birdwatch](https://github.com/twitter/birdwatch) - 
 * 【2022-11-01】[MeiK2333 / github-style](https://github.com/MeiK2333/github-style) - 
 * 【2022-11-01】[kevin-powell / learn-grid-the-easy-way](https://github.com/kevin-powell/learn-grid-the-easy-way) - 
@@ -1595,6 +1636,14 @@
 
 ## Unknown
 
+* 【2022-11-02】[dair-ai / ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓Sharing course notes on all topics related to machine learning, NLP, and AI.
+* 【2022-11-02】[nahamsec / Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
+* 【2022-11-02】[ilovexjp / ykm-simulator](https://github.com/ilovexjp/ykm-simulator) - 基于 Web 的粤康码模拟
+* 【2022-11-02】[anyabc / something](https://github.com/anyabc/something) - 
+* 【2022-11-02】[ilovexjp / jkb-simulator](https://github.com/ilovexjp/jkb-simulator) - 基于 Web 的北京健康宝模拟
+* 【2022-11-02】[MLNLP-World / Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips) - Paper Writing Tips
+* 【2022-11-02】[Yuer-QAQ / Awesome-Grasscutter](https://github.com/Yuer-QAQ/Awesome-Grasscutter) - Grasscutter-资源统计
+* 【2022-11-02】[lonePatient / awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) - Awesome Pretrained Chinese NLP Models，高质量中文预训练模型集合
 * 【2022-11-01】[getsurfboard / surfboard](https://github.com/getsurfboard/surfboard) - 
 * 【2022-11-01】[GoldHEN / GoldHEN](https://github.com/GoldHEN/GoldHEN) - PS4 Homebrew Enabler
 * 【2022-11-01】[hmaverickadams / Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) - Notes for Beginner Network Pentesting Course
