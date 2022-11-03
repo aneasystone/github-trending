@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-11-03】[hellof2e / quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
+* 【2022-11-03】[remix-run / remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+* 【2022-11-03】[NCSC-NL / OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022) - Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3
+* 【2022-11-03】[bharathsudharsan / TinyML-CAM](https://github.com/bharathsudharsan/TinyML-CAM) - Code for MobiCom'22 paper 'TinyML-CAM: 80 FPS Image Recognition in 1 Kb RAM'
+* 【2022-11-03】[vuetifyjs / vuetify](https://github.com/vuetifyjs/vuetify) - 🐉Material Component Framework for Vue
+* 【2022-11-03】[SnapKit / SnapKit](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X
+* 【2022-11-03】[nushell / nushell](https://github.com/nushell/nushell) - A new type of shell
+* 【2022-11-03】[linhaojun857 / aurora-public](https://github.com/linhaojun857/aurora-public) - 基于SpringBoot+Vue开发的个人博客系统
+* 【2022-11-03】[didi / LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 * 【2022-11-02】[milanm / DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources
 * 【2022-11-02】[Anof-cyber / APTRS](https://github.com/Anof-cyber/APTRS) - Automated Penetration Testing Reporting System
 * 【2022-11-02】[Eilonh / s3crets_scanner](https://github.com/Eilonh/s3crets_scanner) - 
@@ -394,6 +403,10 @@
 
 ## Python
 
+* 【2022-11-03】[magicleap / SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork) - SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)
+* 【2022-11-03】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+* 【2022-11-03】[QIN2DIM / hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution.
+* 【2022-11-03】[ShawnZhang31 / cmit_faceswap](https://github.com/ShawnZhang31/cmit_faceswap) - Face Swap for CMIT
 * 【2022-11-02】[yunjey / pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers
 * 【2022-11-02】[remzi-arpacidusseau / ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework) - 
 * 【2022-11-02】[andyzys / jd_seckill](https://github.com/andyzys/jd_seckill) - 京东秒杀商品抢购
@@ -622,6 +635,8 @@
 
 ## Javascript
 
+* 【2022-11-03】[Koenkk / zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
+* 【2022-11-03】[MetaMask / eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Ethereum users
 * 【2022-11-02】[thevahidal / soul](https://github.com/thevahidal/soul) - A SQLite RESTful server
 * 【2022-11-02】[rust-lang-cn / rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 * 【2022-11-01】[adrianhajdin / project_web3_battle_game](https://github.com/adrianhajdin/project_web3_battle_game) - With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time, AvaxGods is the best and the only Web3 battle-style online multiplayer card game that you can currently find on YouTube.
@@ -799,6 +814,8 @@
 
 ## Go
 
+* 【2022-11-03】[vmware-tanzu / community-edition](https://github.com/vmware-tanzu/community-edition) - VMware Tanzu Community Edition is no longer an actively maintained project. Code is available for historical purposes only.
+* 【2022-11-03】[cockroachdb / pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 * 【2022-11-02】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 * 【2022-11-02】[chaosblade-io / chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 * 【2022-11-02】[facebookincubator / dns](https://github.com/facebookincubator/dns) - Collection of Meta's DNS Libraries
@@ -939,6 +956,10 @@
 
 ## C
 
+* 【2022-11-03】[pinauten / Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
+* 【2022-11-03】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+* 【2022-11-03】[kokke / tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
+* 【2022-11-03】[alifcommunity / webui](https://github.com/alifcommunity/webui) - Use any web browser as GUI, with your preferred language in the backend, and HTML/JS/TS/CSS in the frontend.
 * 【2022-11-02】[cstack / db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
 * 【2022-11-02】[Yaxser / Backstab](https://github.com/Yaxser/Backstab) - A tool to kill antimalware protected processes
 * 【2022-11-02】[bsauce / kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory) - Linux kernel CVE exploit analysis report and relative debug environment. You don't need to compile Linux kernel and configure your environment anymore.
@@ -1064,6 +1085,11 @@
 
 ## C++
 
+* 【2022-11-03】[hku-mars / FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
+* 【2022-11-03】[supertuxkart / stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
+* 【2022-11-03】[ORCx41 / DeleteShadowCopies](https://github.com/ORCx41/DeleteShadowCopies) - Deleting Shadow Copies In Pure C++
+* 【2022-11-03】[open-obfuscator / o-mvll](https://github.com/open-obfuscator/o-mvll) - O-MVLL is a LLVM-based obfuscator for native code (Android & iOS)
+* 【2022-11-03】[lyshark / LyMemory](https://github.com/lyshark/LyMemory) - 一款内核级读写工具，可强制读写任意应用层进程内存数据，用于突破游戏驱动保护强行读写对端内存。
 * 【2022-11-02】[opencurve / curve](https://github.com/opencurve/curve) - Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kubernetes; 2) high-performance storage for cloud-native databases; 3) cloud storage middleware using S3-compatible object storage as a data storage.
 * 【2022-11-02】[scylladb / seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 * 【2022-11-01】[upx / upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -1222,6 +1248,11 @@
 
 ## C#
 
+* 【2022-11-03】[H4de5-7 / powershell-bypass](https://github.com/H4de5-7/powershell-bypass) - powershell命令免杀的小工具，可过Defender、360等，可执行上线cobaltstrike、添加计划任务等
+* 【2022-11-03】[daem0nc0re / AtomicSyscall](https://github.com/daem0nc0re/AtomicSyscall) - Tools and PoCs for Windows syscall investigation.
+* 【2022-11-03】[ardalis / Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
+* 【2022-11-03】[d2phap / ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞A lightweight, versatile image viewer
+* 【2022-11-03】[cxfksword / jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
 * 【2022-11-02】[vignetteapp / SeeShark](https://github.com/vignetteapp/SeeShark) - Simple C# camera library.
 * 【2022-11-02】[Harlan-H / M3u8Downloader_H](https://github.com/Harlan-H/M3u8Downloader_H) - [.net6]M3u8Downloader_H是一款操作简单，功能强大且高速下载的m3u8下载器
 * 【2022-11-02】[CatImmortal / CatAsset](https://github.com/CatImmortal/CatAsset) - Unity资源管理框架
@@ -1340,6 +1371,13 @@
 
 ## Html
 
+* 【2022-11-03】[ilovexjp / health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
+* 【2022-11-03】[suljot / shellphish](https://github.com/suljot/shellphish) - Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github
+* 【2022-11-03】[SeleniumHQ / seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) - Official Selenium website and documentation
+* 【2022-11-03】[plotly / datasets](https://github.com/plotly/datasets) - Datasets used in Plotly examples and documentation
+* 【2022-11-03】[missuo / Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting) - Build a free image hosting with Telegraph
+* 【2022-11-03】[cf-pages / Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Free Image Hosting solution, Flickr/imgur alternative. Using Cloudflare Pages and Telegraph.
+* 【2022-11-03】[Fanyuansheng / PHP-Background-management-system](https://github.com/Fanyuansheng/PHP-Background-management-system) - 用PHP和layui搭建的学生后台管理系统
 * 【2022-11-02】[ChartsCSS / charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
 * 【2022-11-02】[orpatashnik / StyleCLIP](https://github.com/orpatashnik/StyleCLIP) - Official Implementation for "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery" (ICCV 2021 Oral)
 * 【2022-11-02】[kishandiemm / html-portfolio-site](https://github.com/kishandiemm/html-portfolio-site) - 
@@ -1496,6 +1534,10 @@
 
 ## Css
 
+* 【2022-11-03】[codingphasedotcom / codingphase-style-vs-code](https://github.com/codingphasedotcom/codingphase-style-vs-code) - 
+* 【2022-11-03】[bigskysoftware / missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
+* 【2022-11-03】[Technigo / shopping-cart-codealong](https://github.com/Technigo/shopping-cart-codealong) - 
+* 【2022-11-03】[turkyden / lizhi](https://github.com/turkyden/lizhi) - 🎸李志 (B 仔) 音乐作品在线播放器
 * 【2022-11-02】[codeguy / php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 * 【2022-11-02】[naaji-navas / drumkit](https://github.com/naaji-navas/drumkit) - 
 * 【2022-11-02】[Cyb3rG0dzilla / Docker-Web](https://github.com/Cyb3rG0dzilla/Docker-Web) - 
@@ -1636,6 +1678,10 @@
 
 ## Unknown
 
+* 【2022-11-03】[v2-dev / awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
+* 【2022-11-03】[windows-powertool / Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
+* 【2022-11-03】[tc39 / proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+* 【2022-11-03】[nitrosocke / dreambooth-training-guide](https://github.com/nitrosocke/dreambooth-training-guide) - 
 * 【2022-11-02】[dair-ai / ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓Sharing course notes on all topics related to machine learning, NLP, and AI.
 * 【2022-11-02】[nahamsec / Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - A list of resources for those interested in getting started in bug bounties
 * 【2022-11-02】[ilovexjp / ykm-simulator](https://github.com/ilovexjp/ykm-simulator) - 基于 Web 的粤康码模拟
