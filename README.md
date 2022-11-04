@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-11-04】[refinedev / refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+* 【2022-11-04】[alirezadir / machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+* 【2022-11-04】[jamealg / KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app
+* 【2022-11-04】[colmmacc / CVE-2022-3602](https://github.com/colmmacc/CVE-2022-3602) - 
+* 【2022-11-04】[SheerSt / pokewilds](https://github.com/SheerSt/pokewilds) - PokeWilds - A Gen 2 Game/Engine using libGDX
+* 【2022-11-04】[grafana / grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+* 【2022-11-04】[puppeteer / puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
+* 【2022-11-04】[jeecgboot / jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp) - JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！实现了与JeecgBoot平台完美对接的移动解决方案！目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。
 * 【2022-11-03】[hellof2e / quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)
 * 【2022-11-03】[remix-run / remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 * 【2022-11-03】[NCSC-NL / OpenSSL-2022](https://github.com/NCSC-NL/OpenSSL-2022) - Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3
@@ -258,6 +266,8 @@
 
 ## Java
 
+* 【2022-11-04】[apache / flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator
+* 【2022-11-04】[yangzongzhuan / RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) - 🎉(RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统
 * 【2022-11-02】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
 * 【2022-11-02】[Netflix / zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 * 【2022-11-02】[real-logic / aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
@@ -403,6 +413,7 @@
 
 ## Python
 
+* 【2022-11-04】[espnet / espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 * 【2022-11-03】[magicleap / SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork) - SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)
 * 【2022-11-03】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 * 【2022-11-03】[QIN2DIM / hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution.
@@ -635,6 +646,11 @@
 
 ## Javascript
 
+* 【2022-11-04】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+* 【2022-11-04】[hapijs / joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
+* 【2022-11-04】[triwinds / ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
+* 【2022-11-04】[miyuesc / bpmn-process-designer](https://github.com/miyuesc/bpmn-process-designer) - Base on Vue 2.x and ElementUI，基于 Bpmn.js、Vue 2.x 和 ElementUI 的流程编辑器（前端部分），支持监听器，扩展属性，表单等配置，可自由扩展
+* 【2022-11-04】[adlered / CSDNGreener](https://github.com/adlered/CSDNGreener) - 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 |🐵油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本
 * 【2022-11-03】[Koenkk / zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman
 * 【2022-11-03】[MetaMask / eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) - Utility for detecting phishing domains targeting Ethereum users
 * 【2022-11-02】[thevahidal / soul](https://github.com/thevahidal/soul) - A SQLite RESTful server
@@ -814,6 +830,9 @@
 
 ## Go
 
+* 【2022-11-04】[opencontainers / image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
+* 【2022-11-04】[okteto / okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
+* 【2022-11-04】[XmirrorSecurity / OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli) - OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.
 * 【2022-11-03】[vmware-tanzu / community-edition](https://github.com/vmware-tanzu/community-edition) - VMware Tanzu Community Edition is no longer an actively maintained project. Code is available for historical purposes only.
 * 【2022-11-03】[cockroachdb / pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
 * 【2022-11-02】[FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -956,6 +975,8 @@
 
 ## C
 
+* 【2022-11-04】[dillongoostudios / goo-blender](https://github.com/dillongoostudios/goo-blender) - Custom build of blender with some extra NPR features.
+* 【2022-11-04】[seventeenman / noELF](https://github.com/seventeenman/noELF) - Linux下用于远程加载可执行文件以达到内存加载的目的
 * 【2022-11-03】[pinauten / Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
 * 【2022-11-03】[espeak-ng / espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 * 【2022-11-03】[kokke / tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
@@ -1085,6 +1106,10 @@
 
 ## C++
 
+* 【2022-11-04】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+* 【2022-11-04】[ANYbotics / grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
+* 【2022-11-04】[smilefacehh / LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
+* 【2022-11-04】[crisprss / BypassUserAdd](https://github.com/crisprss/BypassUserAdd) - 通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化
 * 【2022-11-03】[hku-mars / FAST_LIO](https://github.com/hku-mars/FAST_LIO) - A computationally efficient and robust LiDAR-inertial odometry (LIO) package
 * 【2022-11-03】[supertuxkart / stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 * 【2022-11-03】[ORCx41 / DeleteShadowCopies](https://github.com/ORCx41/DeleteShadowCopies) - Deleting Shadow Copies In Pure C++
@@ -1248,6 +1273,8 @@
 
 ## C#
 
+* 【2022-11-04】[miroslavpejic85 / p2p](https://github.com/miroslavpejic85/p2p) - 🖥️P2P Remote Desktop - Portable, No Configuration or Installation Needed.
+* 【2022-11-04】[zhaopeiym / quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
 * 【2022-11-03】[H4de5-7 / powershell-bypass](https://github.com/H4de5-7/powershell-bypass) - powershell命令免杀的小工具，可过Defender、360等，可执行上线cobaltstrike、添加计划任务等
 * 【2022-11-03】[daem0nc0re / AtomicSyscall](https://github.com/daem0nc0re/AtomicSyscall) - Tools and PoCs for Windows syscall investigation.
 * 【2022-11-03】[ardalis / Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
@@ -1371,6 +1398,10 @@
 
 ## Html
 
+* 【2022-11-04】[LingDong- / shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
+* 【2022-11-04】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
+* 【2022-11-04】[daweedkob / daweedkob.github.io](https://github.com/daweedkob/daweedkob.github.io) - Private Webpage
+* 【2022-11-04】[tc39 / proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 * 【2022-11-03】[ilovexjp / health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
 * 【2022-11-03】[suljot / shellphish](https://github.com/suljot/shellphish) - Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github
 * 【2022-11-03】[SeleniumHQ / seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) - Official Selenium website and documentation
@@ -1534,6 +1565,10 @@
 
 ## Css
 
+* 【2022-11-04】[fireship-io / next13-pocketbase-demo](https://github.com/fireship-io/next13-pocketbase-demo) - Demo for the new Next.js 13 features with Pocketbase.
+* 【2022-11-04】[dhg / Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+* 【2022-11-04】[apache / incubator](https://github.com/apache/incubator) - Apache Incubator Website
+* 【2022-11-04】[Aaronliu2016 / css-tricks](https://github.com/Aaronliu2016/css-tricks) - CSS tricks example for everyday.
 * 【2022-11-03】[codingphasedotcom / codingphase-style-vs-code](https://github.com/codingphasedotcom/codingphase-style-vs-code) - 
 * 【2022-11-03】[bigskysoftware / missing](https://github.com/bigskysoftware/missing) - The classless-ish CSS library you've been missing
 * 【2022-11-03】[Technigo / shopping-cart-codealong](https://github.com/Technigo/shopping-cart-codealong) - 
@@ -1678,6 +1713,15 @@
 
 ## Unknown
 
+* 【2022-11-04】[superphiz / dashboards](https://github.com/superphiz/dashboards) - A collection of dashboards related to Ethereum
+* 【2022-11-04】[bitcoinfullnode / rokos-ok-bitcoin-fullnode](https://github.com/bitcoinfullnode/rokos-ok-bitcoin-fullnode) - OK Bitcoin Fullnode OS - Crypto Operating System for Raspberry PI, Pine64+ and IoT Devices
+* 【2022-11-04】[xicilion / BitcoinWhitePaper](https://github.com/xicilion/BitcoinWhitePaper) - 
+* 【2022-11-04】[TalEliyahu / awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) - Watch the latest awesome security talks around the globe
+* 【2022-11-04】[mehdihadeli / awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
+* 【2022-11-04】[nestjs / awesome-nestjs](https://github.com/nestjs/awesome-nestjs) - A curated list of awesome things related to NestJS😎
+* 【2022-11-04】[linshaoSec / SeeyonExploit-GUI](https://github.com/linshaoSec/SeeyonExploit-GUI) - 致远OA综合利用工具
+* 【2022-11-04】[zangcc / Aazhen-RexHa](https://github.com/zangcc/Aazhen-RexHa) - 自研JavaFX图形化漏洞扫描工具，支持扫描的漏洞分别是： ThinkPHP-2.x-RCE， ThinkPHP-5.0.23-RCE， ThinkPHP5.0.x-5.0.23通杀RCE， ThinkPHP5-SQL注入&敏感信息泄露， ThinkPHP 3.x 日志泄露NO.1， ThinkPHP 3.x 日志泄露NO.2， ThinkPHP 5.x 数据库信息泄露的漏洞检测，以及批量检测的功能。漏洞POC基本适用ThinkPHP全版本漏洞。
+* 【2022-11-04】[chashaomanhua / chashaomanhua](https://github.com/chashaomanhua/chashaomanhua) - 叉烧漫画叉燒漫畫漫源
 * 【2022-11-03】[v2-dev / awesome-social-engineering](https://github.com/v2-dev/awesome-social-engineering) - A curated list of awesome social engineering resources.
 * 【2022-11-03】[windows-powertool / Powertool](https://github.com/windows-powertool/Powertool) - Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.
 * 【2022-11-03】[tc39 / proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
