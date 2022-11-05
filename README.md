@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-11-05】[grafana / phlare](https://github.com/grafana/phlare) - 🔥horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+* 【2022-11-05】[Olde-Skuul / doom3do](https://github.com/Olde-Skuul/doom3do) - The complete archive for DOOM for the 3DO
+* 【2022-11-05】[foundry-rs / forge-std](https://github.com/foundry-rs/forge-std) - Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.
+* 【2022-11-05】[SoftwareBrothers / adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+* 【2022-11-05】[aardio / Ghips](https://github.com/aardio/Ghips) - GitHub 网速优化与修复工具
 * 【2022-11-04】[refinedev / refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 * 【2022-11-04】[alirezadir / machine-learning-interview-enlightener](https://github.com/alirezadir/machine-learning-interview-enlightener) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
 * 【2022-11-04】[jamealg / KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app
@@ -266,6 +271,7 @@
 
 ## Java
 
+* 【2022-11-05】[springdoc / springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
 * 【2022-11-04】[apache / flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator
 * 【2022-11-04】[yangzongzhuan / RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) - 🎉(RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统
 * 【2022-11-02】[pmd / pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
@@ -413,6 +419,10 @@
 
 ## Python
 
+* 【2022-11-05】[ucarno / ow-league-tokens](https://github.com/ucarno/ow-league-tokens) - Bot that farms Overwatch League tokens and Contenders skins by pretending you watch league streams
+* 【2022-11-05】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+* 【2022-11-05】[tyIceStream / GLaDOS_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
+* 【2022-11-05】[hbstarjason / glados-checkin](https://github.com/hbstarjason/glados-checkin) - 
 * 【2022-11-04】[espnet / espnet](https://github.com/espnet/espnet) - End-to-End Speech Processing Toolkit
 * 【2022-11-03】[magicleap / SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork) - SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)
 * 【2022-11-03】[pytorch / examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
@@ -646,6 +656,16 @@
 
 ## Javascript
 
+* 【2022-11-05】[kristerkari / react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files in your React Native project the same way that you would in a Web application.
+* 【2022-11-05】[node-red / node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+* 【2022-11-05】[GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - 📝Modern documentation format and toolchain using Git and Markdown
+* 【2022-11-05】[prettier / prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+* 【2022-11-05】[verdaccio / verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight Node.js private proxy registry
+* 【2022-11-05】[appium / appium-desktop](https://github.com/appium/appium-desktop) - Appium Server in Desktop GUIs for Mac, Windows, and Linux
+* 【2022-11-05】[zb188 / blog](https://github.com/zb188/blog) - 日常收集学习积累，方便复习查看
+* 【2022-11-05】[Mapaler / EhTagTranslator](https://github.com/Mapaler/EhTagTranslator) - 将e绅士页面TAG换成中文，最全数据库。
+* 【2022-11-05】[niucnet / niuc](https://github.com/niucnet/niuc) - 牛C网(NiuC.Net)最新地址
+* 【2022-11-05】[helloworld-Co / html2md](https://github.com/helloworld-Co/html2md) - helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
 * 【2022-11-04】[moment / moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 * 【2022-11-04】[hapijs / joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 * 【2022-11-04】[triwinds / ns-emu-tools](https://github.com/triwinds/ns-emu-tools) - 一个用于安装/更新 NS 模拟器的工具
@@ -830,6 +850,11 @@
 
 ## Go
 
+* 【2022-11-05】[ory / hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
+* 【2022-11-05】[ory / keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+* 【2022-11-05】[harvester / harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
+* 【2022-11-05】[sea-team / gofound](https://github.com/sea-team/gofound) - GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。
+* 【2022-11-05】[learnerLj / geth-analyze](https://github.com/learnerLj/geth-analyze) - go-ethereum source code analyzation under the perspective of smart contract security
 * 【2022-11-04】[opencontainers / image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 * 【2022-11-04】[okteto / okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 * 【2022-11-04】[XmirrorSecurity / OpenSCA-cli](https://github.com/XmirrorSecurity/OpenSCA-cli) - OpenSCA is a Software Composition Analysis (SCA) solution that supports detection of open source component dependencies and vulnerabilities.
@@ -975,6 +1000,11 @@
 
 ## C
 
+* 【2022-11-05】[FreeRADIUS / freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
+* 【2022-11-05】[dillongoostudios / goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
+* 【2022-11-05】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
+* 【2022-11-05】[NVIDIA / cuda-samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit
+* 【2022-11-05】[Chen-Jihang / Mini-Monitor](https://github.com/Chen-Jihang/Mini-Monitor) - 自制一个迷你电流表
 * 【2022-11-04】[dillongoostudios / goo-blender](https://github.com/dillongoostudios/goo-blender) - Custom build of blender with some extra NPR features.
 * 【2022-11-04】[seventeenman / noELF](https://github.com/seventeenman/noELF) - Linux下用于远程加载可执行文件以达到内存加载的目的
 * 【2022-11-03】[pinauten / Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15
@@ -1106,6 +1136,13 @@
 
 ## C++
 
+* 【2022-11-05】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
+* 【2022-11-05】[hackerhouse-opensource / iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11
+* 【2022-11-05】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
+* 【2022-11-05】[alibaba / havenask](https://github.com/alibaba/havenask) - 
+* 【2022-11-05】[ArosyW / JVM](https://github.com/ArosyW/JVM) - 手写实现JVM巨tm详细笔记，看了你也会，不会我吃s.h.i
+* 【2022-11-05】[WindXaa / Android-reverse](https://github.com/WindXaa/Android-reverse) - Android逆向的相关脚本文件
+* 【2022-11-05】[LitLeo / TensorRT_Tutorial](https://github.com/LitLeo/TensorRT_Tutorial) - 
 * 【2022-11-04】[google / sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 * 【2022-11-04】[ANYbotics / grid_map](https://github.com/ANYbotics/grid_map) - Universal grid map library for mobile robotic mapping
 * 【2022-11-04】[smilefacehh / LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote) - LIO-SAM源码详细注释，3D SLAM融合激光、IMU、GPS
@@ -1273,6 +1310,11 @@
 
 ## C#
 
+* 【2022-11-05】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
+* 【2022-11-05】[OPCFoundation / UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
+* 【2022-11-05】[gerardog / gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
+* 【2022-11-05】[duplicati / duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
+* 【2022-11-05】[mattpannella / pocket-updater-utility](https://github.com/mattpannella/pocket-updater-utility) - Analogue Pocket Updater Utility
 * 【2022-11-04】[miroslavpejic85 / p2p](https://github.com/miroslavpejic85/p2p) - 🖥️P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 * 【2022-11-04】[zhaopeiym / quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置
 * 【2022-11-03】[H4de5-7 / powershell-bypass](https://github.com/H4de5-7/powershell-bypass) - powershell命令免杀的小工具，可过Defender、360等，可执行上线cobaltstrike、添加计划任务等
@@ -1565,6 +1607,8 @@
 
 ## Css
 
+* 【2022-11-05】[Ehviewer-Overhauled / fdroid-repo](https://github.com/Ehviewer-Overhauled/fdroid-repo) - Fdroid repo for Ehviewer-Overhauled Project
+* 【2022-11-05】[NilPointer-Software / bdfd-wiki](https://github.com/NilPointer-Software/bdfd-wiki) - Wiki page for Bot Designer for Discord
 * 【2022-11-04】[fireship-io / next13-pocketbase-demo](https://github.com/fireship-io/next13-pocketbase-demo) - Demo for the new Next.js 13 features with Pocketbase.
 * 【2022-11-04】[dhg / Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 * 【2022-11-04】[apache / incubator](https://github.com/apache/incubator) - Apache Incubator Website
@@ -1713,6 +1757,11 @@
 
 ## Unknown
 
+* 【2022-11-05】[JingShing / ImageAI-colab-ver](https://github.com/JingShing/ImageAI-colab-ver) - It has no matter with novel.
+* 【2022-11-05】[leereilly / list-of-english-cliches](https://github.com/leereilly/list-of-english-cliches) - A list of cliches commonly used in the English language
+* 【2022-11-05】[isovalent / cilium-grafana-observability-demo](https://github.com/isovalent/cilium-grafana-observability-demo) - 
+* 【2022-11-05】[Tas9er / ByPassGodzilla](https://github.com/Tas9er/ByPassGodzilla) - 哥斯拉WebShell免杀生成 / Code By:Tas9er
+* 【2022-11-05】[XHM-2 / app](https://github.com/XHM-2/app) - XHM-app
 * 【2022-11-04】[superphiz / dashboards](https://github.com/superphiz/dashboards) - A collection of dashboards related to Ethereum
 * 【2022-11-04】[bitcoinfullnode / rokos-ok-bitcoin-fullnode](https://github.com/bitcoinfullnode/rokos-ok-bitcoin-fullnode) - OK Bitcoin Fullnode OS - Crypto Operating System for Raspberry PI, Pine64+ and IoT Devices
 * 【2022-11-04】[xicilion / BitcoinWhitePaper](https://github.com/xicilion/BitcoinWhitePaper) - 
