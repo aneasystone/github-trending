@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-11-06】[Bdenneu / CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679) - One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html
+* 【2022-11-06】[rodrigorgtic / nlwcopa-mobile-components](https://github.com/rodrigorgtic/nlwcopa-mobile-components) - ⚽NLW Copa - Componentes do App Mobile.
+* 【2022-11-06】[ssnhd / googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
 * 【2022-11-05】[grafana / phlare](https://github.com/grafana/phlare) - 🔥horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 * 【2022-11-05】[Olde-Skuul / doom3do](https://github.com/Olde-Skuul/doom3do) - The complete archive for DOOM for the 3DO
 * 【2022-11-05】[foundry-rs / forge-std](https://github.com/foundry-rs/forge-std) - Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.
@@ -271,6 +274,10 @@
 
 ## Java
 
+* 【2022-11-06】[casbin / jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java
+* 【2022-11-06】[bytedeco / javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
+* 【2022-11-06】[mc1arke / sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+* 【2022-11-06】[doublechaintech / scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理, 财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
 * 【2022-11-05】[springdoc / springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
 * 【2022-11-04】[apache / flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) - Apache Flink Kubernetes Operator
 * 【2022-11-04】[yangzongzhuan / RuoYi-Vue-fast](https://github.com/yangzongzhuan/RuoYi-Vue-fast) - 🎉(RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统
@@ -419,6 +426,12 @@
 
 ## Python
 
+* 【2022-11-06】[DataSystemsLab / GeoTorch](https://github.com/DataSystemsLab/GeoTorch) - GeoTorch: A Spatiotemporal Deep Learning Framework
+* 【2022-11-06】[kellyjonbrazil / jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+* 【2022-11-06】[NVIDIA / warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
+* 【2022-11-06】[sonic-net / sonic-utilities](https://github.com/sonic-net/sonic-utilities) - Command line utilities for the SONiC project
+* 【2022-11-06】[jantic / DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+* 【2022-11-06】[JingShing / Encryptor-Decryptor](https://github.com/JingShing/Encryptor-Decryptor) - A tool for encrypt and decrypt.
 * 【2022-11-05】[ucarno / ow-league-tokens](https://github.com/ucarno/ow-league-tokens) - Bot that farms Overwatch League tokens and Contenders skins by pretending you watch league streams
 * 【2022-11-05】[matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 * 【2022-11-05】[tyIceStream / GLaDOS_Checkin](https://github.com/tyIceStream/GLaDOS_Checkin) - GLaDOS automatic check-in bypassing CloudFlare using github action
@@ -656,6 +669,10 @@
 
 ## Javascript
 
+* 【2022-11-06】[hackclub / sprig](https://github.com/hackclub/sprig) - 🍃Learn to code by making games in a JavaScript web-based game editor.
+* 【2022-11-06】[creativetimofficial / material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
+* 【2022-11-06】[itheima1 / BlockChain](https://github.com/itheima1/BlockChain) - 黑马程序员 120天全栈区块链开发 开源教程
+* 【2022-11-06】[Peng-YM / QuanX](https://github.com/Peng-YM/QuanX) - Scripts for QX, Loon, Surge
 * 【2022-11-05】[kristerkari / react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer) - Import SVG files in your React Native project the same way that you would in a Web application.
 * 【2022-11-05】[node-red / node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 * 【2022-11-05】[GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - 📝Modern documentation format and toolchain using Git and Markdown
@@ -850,6 +867,11 @@
 
 ## Go
 
+* 【2022-11-06】[grafana / agent](https://github.com/grafana/agent) - Telemetry agent for the LGTM stack.
+* 【2022-11-06】[envoyproxy / gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
+* 【2022-11-06】[earthly / earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+* 【2022-11-06】[tsenart / vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
+* 【2022-11-06】[master-coder-ll / v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager) - v2ray-web-manager 是一个v2ray的面板，也是一个集群的解决方案；同时增加了流量控制/账号管理/限速等功能。key: admin , panel ,web,cluster,集群,proxy
 * 【2022-11-05】[ory / hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 * 【2022-11-05】[ory / keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 * 【2022-11-05】[harvester / harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
@@ -1000,6 +1022,8 @@
 
 ## C
 
+* 【2022-11-06】[melonDS-emu / melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
+* 【2022-11-06】[naver / lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 * 【2022-11-05】[FreeRADIUS / freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
 * 【2022-11-05】[dillongoostudios / goo-engine](https://github.com/dillongoostudios/goo-engine) - Custom build of blender with some extra NPR features.
 * 【2022-11-05】[webserver-llc / angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
@@ -1136,6 +1160,7 @@
 
 ## C++
 
+* 【2022-11-06】[alibaba / higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
 * 【2022-11-05】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
 * 【2022-11-05】[hackerhouse-opensource / iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11
 * 【2022-11-05】[root-project / root](https://github.com/root-project/root) - The official repository for ROOT: analyzing, storing and visualizing big data, scientifically
@@ -1310,6 +1335,10 @@
 
 ## C#
 
+* 【2022-11-06】[microsoft / PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
+* 【2022-11-06】[jbogard / Respawn](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
+* 【2022-11-06】[NicolasConstant / BirdsiteLive](https://github.com/NicolasConstant/BirdsiteLive) - An ethical bridge from Twitter
+* 【2022-11-06】[GardenHamster / Theresa3rd-Bot](https://github.com/GardenHamster/Theresa3rd-Bot) - 一个QQ群聊机器人，基于mirai，包括色图推送、原神模拟抽卡、定时提醒、复读机等功能
 * 【2022-11-05】[EsotericSoftware / spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) - 2D skeletal animation runtimes for Spine.
 * 【2022-11-05】[OPCFoundation / UA-.NETStandard](https://github.com/OPCFoundation/UA-.NETStandard) - OPC Unified Architecture .NET Standard
 * 【2022-11-05】[gerardog / gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows
@@ -1440,6 +1469,10 @@
 
 ## Html
 
+* 【2022-11-06】[OWASP / NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+* 【2022-11-06】[OWASP / Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
+* 【2022-11-06】[Listenbourg / ListenPASS](https://github.com/Listenbourg/ListenPASS) - Générateur de carte d'identité "officiel" du Listenbourg
+* 【2022-11-06】[WolfChen1996 / NovelAI-tag-generator](https://github.com/WolfChen1996/NovelAI-tag-generator) - 
 * 【2022-11-04】[LingDong- / shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 * 【2022-11-04】[rustdesk / doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com) - Document of RustDesk
 * 【2022-11-04】[daweedkob / daweedkob.github.io](https://github.com/daweedkob/daweedkob.github.io) - Private Webpage
@@ -1757,6 +1790,10 @@
 
 ## Unknown
 
+* 【2022-11-06】[TalEliyahu / Threat_Model_Examples](https://github.com/TalEliyahu/Threat_Model_Examples) - Collection of Threat Models
+* 【2022-11-06】[duytq94 / cross-platform-how-it-works](https://github.com/duytq94/cross-platform-how-it-works) - The article about mobile app cross-platform, behind the scenes, and how it works
+* 【2022-11-06】[JingShing / Sorry-NovelAI](https://github.com/JingShing/Sorry-NovelAI) - It is sorry to offend NovelAI developers.
+* 【2022-11-06】[daweedkob / daweedkob](https://github.com/daweedkob/daweedkob) - 
 * 【2022-11-05】[JingShing / ImageAI-colab-ver](https://github.com/JingShing/ImageAI-colab-ver) - It has no matter with novel.
 * 【2022-11-05】[leereilly / list-of-english-cliches](https://github.com/leereilly/list-of-english-cliches) - A list of cliches commonly used in the English language
 * 【2022-11-05】[isovalent / cilium-grafana-observability-demo](https://github.com/isovalent/cilium-grafana-observability-demo) - 
