@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2022-11-07】[huggingface / diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
+* 【2022-11-07】[tiangolo / typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+* 【2022-11-07】[rocketseat-education / nlw-copa-ignite](https://github.com/rocketseat-education/nlw-copa-ignite) - Projeto desenvolvido durante a Next Level Week Copa, na trilha Ignite.
+* 【2022-11-07】[pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+* 【2022-11-07】[lidangzzz / how-to-run-Q-and-A](https://github.com/lidangzzz/how-to-run-Q-and-A) - 立党润学笔记问答
+* 【2022-11-07】[linyiLYi / pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
+* 【2022-11-07】[xb2016 / EhViewer-NekoInverter](https://github.com/xb2016/EhViewer-NekoInverter) - 🥥EhViewer-NekoInverter [白E] [DEPRECATED]
+* 【2022-11-07】[Uahh / Reborn](https://github.com/Uahh/Reborn) - 投胎模拟器
+* 【2022-11-07】[Art0white / FastBeeIM](https://github.com/Art0white/FastBeeIM) - 🐝极蜜IM, 快速尝到甜头!
+* 【2022-11-07】[Ben-love-zy / web-editor-markdown](https://github.com/Ben-love-zy/web-editor-markdown) - A Markdown editor in browser with collaborative editing
 * 【2022-11-06】[Bdenneu / CVE-2022-33679](https://github.com/Bdenneu/CVE-2022-33679) - One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html
 * 【2022-11-06】[rodrigorgtic / nlwcopa-mobile-components](https://github.com/rodrigorgtic/nlwcopa-mobile-components) - ⚽NLW Copa - Componentes do App Mobile.
 * 【2022-11-06】[ssnhd / googlevoice](https://github.com/ssnhd/googlevoice) - 注册 Google Voice 号码详细步骤
@@ -274,6 +284,11 @@
 
 ## Java
 
+* 【2022-11-07】[clojure / clojure](https://github.com/clojure/clojure) - The Clojure programming language
+* 【2022-11-07】[MaximilianAnzinger / pgdp2223-tests](https://github.com/MaximilianAnzinger/pgdp2223-tests) - Collection of JUnit Tests for PGdP exercises at TUM in WS22/23
+* 【2022-11-07】[newbee-ltd / newbee-mall-api](https://github.com/newbee-ltd/newbee-mall-api) - 🔥🎉新蜂商城前后端分离版本-后端API源码
+* 【2022-11-07】[670848654 / SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘛哩嘛哩(MaliMali)部分内容编写的第三方Android客户端。
+* 【2022-11-07】[he2121 / MyRPCFromZero](https://github.com/he2121/MyRPCFromZero) - 从零开始，手写一个RPC，任何人都能看懂
 * 【2022-11-06】[casbin / jcasbin](https://github.com/casbin/jcasbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Java
 * 【2022-11-06】[bytedeco / javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 * 【2022-11-06】[mc1arke / sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
@@ -426,6 +441,15 @@
 
 ## Python
 
+* 【2022-11-07】[mininet / mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
+* 【2022-11-07】[Serhiodev / Aptos_Bluemove_mint_bot](https://github.com/Serhiodev/Aptos_Bluemove_mint_bot) - Private Aptos Minting Bot | Bluemove Lounchpad
+* 【2022-11-07】[tssovi / grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) - 
+* 【2022-11-07】[microsoft / pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+* 【2022-11-07】[NPCat / bad-apple-bot](https://github.com/NPCat/bad-apple-bot) - the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y
+* 【2022-11-07】[drivendata / cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+* 【2022-11-07】[otto-de / recsys-dataset](https://github.com/otto-de/recsys-dataset) - 🛍A real-world e-commerce dataset for multi-objective recommender systems research.
+* 【2022-11-07】[sqlmapproject / sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+* 【2022-11-07】[bhattsameer / Bombers](https://github.com/bhattsameer/Bombers) - SMS/Email/Whatsapp/Twitter/Instagram bombers Collection💣💣💣💥Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 * 【2022-11-06】[DataSystemsLab / GeoTorch](https://github.com/DataSystemsLab/GeoTorch) - GeoTorch: A Spatiotemporal Deep Learning Framework
 * 【2022-11-06】[kellyjonbrazil / jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 * 【2022-11-06】[NVIDIA / warp](https://github.com/NVIDIA/warp) - A Python framework for high performance GPU simulation and graphics
@@ -669,6 +693,10 @@
 
 ## Javascript
 
+* 【2022-11-07】[twitterdev / Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
+* 【2022-11-07】[Kindelia / HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
+* 【2022-11-07】[saadpasta / developerFolio](https://github.com/saadpasta/developerFolio) - 🚀Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
+* 【2022-11-07】[mdn / dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 * 【2022-11-06】[hackclub / sprig](https://github.com/hackclub/sprig) - 🍃Learn to code by making games in a JavaScript web-based game editor.
 * 【2022-11-06】[creativetimofficial / material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 * 【2022-11-06】[itheima1 / BlockChain](https://github.com/itheima1/BlockChain) - 黑马程序员 120天全栈区块链开发 开源教程
@@ -867,6 +895,12 @@
 
 ## Go
 
+* 【2022-11-07】[superseriousbusiness / gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
+* 【2022-11-07】[safing / portmaster](https://github.com/safing/portmaster) - 🏔Love Freedom -❌Block Mass Surveillance
+* 【2022-11-07】[abhimanyu003 / sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
+* 【2022-11-07】[gokcehan / lf](https://github.com/gokcehan/lf) - Terminal file manager
+* 【2022-11-07】[googollee / go-socket.io](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
+* 【2022-11-07】[Wsine / feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 * 【2022-11-06】[grafana / agent](https://github.com/grafana/agent) - Telemetry agent for the LGTM stack.
 * 【2022-11-06】[envoyproxy / gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 * 【2022-11-06】[earthly / earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
@@ -1160,6 +1194,7 @@
 
 ## C++
 
+* 【2022-11-07】[Chatterino / chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 * 【2022-11-06】[alibaba / higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
 * 【2022-11-05】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
 * 【2022-11-05】[hackerhouse-opensource / iscsicpl_bypassUAC](https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC) - UAC bypass for x64 Windows 7 - 11
@@ -1335,6 +1370,9 @@
 
 ## C#
 
+* 【2022-11-07】[dotnet / razor](https://github.com/dotnet/razor) - Compiler and tooling experience for Razor ASP.NET Core apps in Visual Studio, Visual Studio for Mac, and VS Code.
+* 【2022-11-07】[MathewSachin / Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
+* 【2022-11-07】[QL-Win / QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 * 【2022-11-06】[microsoft / PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
 * 【2022-11-06】[jbogard / Respawn](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
 * 【2022-11-06】[NicolasConstant / BirdsiteLive](https://github.com/NicolasConstant/BirdsiteLive) - An ethical bridge from Twitter
@@ -1469,6 +1507,10 @@
 
 ## Html
 
+* 【2022-11-07】[geohot / tinyxxx](https://github.com/geohot/tinyxxx) - tiny corporation website
+* 【2022-11-07】[upenn-cis5520 / 10-parsers](https://github.com/upenn-cis5520/10-parsers) - 
+* 【2022-11-07】[JordanSchuetz / LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
+* 【2022-11-07】[kxion / 91pron-](https://github.com/kxion/91pron-) - 91pron视频解析真实地址
 * 【2022-11-06】[OWASP / NodeGoat](https://github.com/OWASP/NodeGoat) - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 * 【2022-11-06】[OWASP / Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 * 【2022-11-06】[Listenbourg / ListenPASS](https://github.com/Listenbourg/ListenPASS) - Générateur de carte d'identité "officiel" du Listenbourg
@@ -1790,6 +1832,10 @@
 
 ## Unknown
 
+* 【2022-11-07】[nathanlesage / academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
+* 【2022-11-07】[antariksh17 / Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Resources to Learn Data Structures and Algorithms, ace competitive programming, Get a Job in Tech/CS
+* 【2022-11-07】[kennethleungty / Failed-ML](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects
+* 【2022-11-07】[arthurspk / guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificações e demais outras coisas.
 * 【2022-11-06】[TalEliyahu / Threat_Model_Examples](https://github.com/TalEliyahu/Threat_Model_Examples) - Collection of Threat Models
 * 【2022-11-06】[duytq94 / cross-platform-how-it-works](https://github.com/duytq94/cross-platform-how-it-works) - The article about mobile app cross-platform, behind the scenes, and how it works
 * 【2022-11-06】[JingShing / Sorry-NovelAI](https://github.com/JingShing/Sorry-NovelAI) - It is sorry to offend NovelAI developers.
