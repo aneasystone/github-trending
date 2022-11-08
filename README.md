@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-11-08】[MubertAI / Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API
+* 【2022-11-08】[diracdeltas / tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
+* 【2022-11-08】[trinib / Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - Ultimate list of Linux bash commands
+* 【2022-11-08】[idanya / algo-trader](https://github.com/idanya/algo-trader) - Trading bot with support for realtime trading, backtesting, custom strategies and much more.
+* 【2022-11-08】[CryoByte33 / steam-deck-utilities](https://github.com/CryoByte33/steam-deck-utilities) - Scripts to help make the Steam Deck the best it can be.
+* 【2022-11-08】[lensterxyz / lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized, and permissionless social media app built with Lens Protocol🌿
 * 【2022-11-07】[huggingface / diffusion-models-class](https://github.com/huggingface/diffusion-models-class) - Materials for the Hugging Face Diffusion Models Course
 * 【2022-11-07】[tiangolo / typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 * 【2022-11-07】[rocketseat-education / nlw-copa-ignite](https://github.com/rocketseat-education/nlw-copa-ignite) - Projeto desenvolvido durante a Next Level Week Copa, na trilha Ignite.
@@ -284,6 +290,7 @@
 
 ## Java
 
+* 【2022-11-08】[amigoscode / spring-data-jpa-course](https://github.com/amigoscode/spring-data-jpa-course) - 
 * 【2022-11-07】[clojure / clojure](https://github.com/clojure/clojure) - The Clojure programming language
 * 【2022-11-07】[MaximilianAnzinger / pgdp2223-tests](https://github.com/MaximilianAnzinger/pgdp2223-tests) - Collection of JUnit Tests for PGdP exercises at TUM in WS22/23
 * 【2022-11-07】[newbee-ltd / newbee-mall-api](https://github.com/newbee-ltd/newbee-mall-api) - 🔥🎉新蜂商城前后端分离版本-后端API源码
@@ -441,6 +448,11 @@
 
 ## Python
 
+* 【2022-11-08】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙A modern replacement for Airflow.
+* 【2022-11-08】[Cog-Creators / Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
+* 【2022-11-08】[qu3vipon / python-ddd](https://github.com/qu3vipon/python-ddd) - Python DDD pattern example using FastAPI
+* 【2022-11-08】[hcfyapp / google-translate-cn-ip](https://github.com/hcfyapp/google-translate-cn-ip) - 收集国内可用的谷歌翻译 IP 地址。
+* 【2022-11-08】[lining0806 / PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) - Python入门网络爬虫之精华版
 * 【2022-11-07】[mininet / mininet](https://github.com/mininet/mininet) - Emulator for rapid prototyping of Software Defined Networks
 * 【2022-11-07】[Serhiodev / Aptos_Bluemove_mint_bot](https://github.com/Serhiodev/Aptos_Bluemove_mint_bot) - Private Aptos Minting Bot | Bluemove Lounchpad
 * 【2022-11-07】[tssovi / grokking-the-object-oriented-design-interview](https://github.com/tssovi/grokking-the-object-oriented-design-interview) - 
@@ -895,6 +907,9 @@
 
 ## Go
 
+* 【2022-11-08】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤Cross-platform, unofficial CLI for Cloudflare Warp
+* 【2022-11-08】[containrrr / watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+* 【2022-11-08】[devtron-labs / devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
 * 【2022-11-07】[superseriousbusiness / gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 * 【2022-11-07】[safing / portmaster](https://github.com/safing/portmaster) - 🏔Love Freedom -❌Block Mass Surveillance
 * 【2022-11-07】[abhimanyu003 / sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string
@@ -1056,6 +1071,9 @@
 
 ## C
 
+* 【2022-11-08】[4g3nt47 / Striker](https://github.com/4g3nt47/Striker) - A Command and Control (C2)
+* 【2022-11-08】[GNOME / gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+* 【2022-11-08】[alanzjl / AlkaidMount](https://github.com/alanzjl/AlkaidMount) - HarmonicDrive equatorial mount
 * 【2022-11-06】[melonDS-emu / melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 * 【2022-11-06】[naver / lispe](https://github.com/naver/lispe) - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell.
 * 【2022-11-05】[FreeRADIUS / freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
@@ -1194,6 +1212,9 @@
 
 ## C++
 
+* 【2022-11-08】[apache / mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+* 【2022-11-08】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
+* 【2022-11-08】[iiicp / lcc](https://github.com/iiicp/lcc) - llvm-based c compiler
 * 【2022-11-07】[Chatterino / chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv
 * 【2022-11-06】[alibaba / higress](https://github.com/alibaba/higress) - Next-generation Cloud Native Gateway
 * 【2022-11-05】[electronicarts / EASTL](https://github.com/electronicarts/EASTL) - EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
@@ -1370,6 +1391,9 @@
 
 ## C#
 
+* 【2022-11-08】[d3lb3 / KeeFarceReborn](https://github.com/d3lb3/KeeFarceReborn) - A standalone DLL that exports databases in cleartext once injected in the KeePass process.
+* 【2022-11-08】[winsecurity / Offensive-C-Sharp](https://github.com/winsecurity/Offensive-C-Sharp) - 
+* 【2022-11-08】[Ponderfly / GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 
 * 【2022-11-07】[dotnet / razor](https://github.com/dotnet/razor) - Compiler and tooling experience for Razor ASP.NET Core apps in Visual Studio, Visual Studio for Mac, and VS Code.
 * 【2022-11-07】[MathewSachin / Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 * 【2022-11-07】[QL-Win / QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -1507,6 +1531,8 @@
 
 ## Html
 
+* 【2022-11-08】[Cassianosch / programador.cs-reels](https://github.com/Cassianosch/programador.cs-reels) - 
+* 【2022-11-08】[thomasms / glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 * 【2022-11-07】[geohot / tinyxxx](https://github.com/geohot/tinyxxx) - tiny corporation website
 * 【2022-11-07】[upenn-cis5520 / 10-parsers](https://github.com/upenn-cis5520/10-parsers) - 
 * 【2022-11-07】[JordanSchuetz / LearnCS8-Resume](https://github.com/JordanSchuetz/LearnCS8-Resume) - Resume template website for the LearnCS8 Lab 3
@@ -1832,6 +1858,11 @@
 
 ## Unknown
 
+* 【2022-11-08】[6mile / DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
+* 【2022-11-08】[cjbt / Free-Algorithm-Books](https://github.com/cjbt/Free-Algorithm-Books) - 
+* 【2022-11-08】[kleiton0x00 / Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
+* 【2022-11-08】[RehanSaeed / Bash-Cheat-Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet) - A cheat sheet for bash commands.
+* 【2022-11-08】[leerumor / nlp_tutorial](https://github.com/leerumor/nlp_tutorial) - NLP超强入门指南，包括各任务sota模型汇总（文本分类、文本匹配、序列标注、文本生成、语言模型），以及代码、技巧
 * 【2022-11-07】[nathanlesage / academics-on-mastodon](https://github.com/nathanlesage/academics-on-mastodon) - A list of various lists consisting of academics on Mastodon
 * 【2022-11-07】[antariksh17 / Reddit-wiki-programming](https://github.com/antariksh17/Reddit-wiki-programming) - Resources to Learn Data Structures and Algorithms, ace competitive programming, Get a Job in Tech/CS
 * 【2022-11-07】[kennethleungty / Failed-ML](https://github.com/kennethleungty/Failed-ML) - Compilation of high-profile real-world examples of failed machine learning projects
