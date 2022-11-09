@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-11-09】[ProjectOpenSea / operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) - 
+* 【2022-11-09】[RustScan / RustScan](https://github.com/RustScan/RustScan) - 🤖The Modern Port Scanner🤖
+* 【2022-11-09】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆Use Ant Design like a Pro!
+* 【2022-11-09】[mlogclub / bbs-go](https://github.com/mlogclub/bbs-go) - 基于Golang的开源社区系统。
 * 【2022-11-08】[MubertAI / Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API
 * 【2022-11-08】[diracdeltas / tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement.
 * 【2022-11-08】[trinib / Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - Ultimate list of Linux bash commands
@@ -290,6 +294,9 @@
 
 ## Java
 
+* 【2022-11-09】[widdix / aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
+* 【2022-11-09】[android / testing-samples](https://github.com/android/testing-samples) - A collection of samples demonstrating different frameworks and techniques for automated testing
+* 【2022-11-09】[TangBean / OnlineExecutor](https://github.com/TangBean/OnlineExecutor) - 基于 Spring Boot 的在线 Java IDE
 * 【2022-11-08】[amigoscode / spring-data-jpa-course](https://github.com/amigoscode/spring-data-jpa-course) - 
 * 【2022-11-07】[clojure / clojure](https://github.com/clojure/clojure) - The Clojure programming language
 * 【2022-11-07】[MaximilianAnzinger / pgdp2223-tests](https://github.com/MaximilianAnzinger/pgdp2223-tests) - Collection of JUnit Tests for PGdP exercises at TUM in WS22/23
@@ -448,6 +455,9 @@
 
 ## Python
 
+* 【2022-11-09】[modelscope / modelscope](https://github.com/modelscope/modelscope) - ModelScope is committed to empowering a wide-spectrum of developers to leverage AI models from various domains. (致力于通过开放的社区合作，开源AI模型以及相关创新技术，推动基于模型即服务的生态繁荣发展。)
+* 【2022-11-09】[LetusDevops / LearnPython](https://github.com/LetusDevops/LearnPython) - Learn Python with LetUsDevOps
+* 【2022-11-09】[heartexlabs / labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
 * 【2022-11-08】[mage-ai / mage-ai](https://github.com/mage-ai/mage-ai) - 🧙A modern replacement for Airflow.
 * 【2022-11-08】[Cog-Creators / Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 * 【2022-11-08】[qu3vipon / python-ddd](https://github.com/qu3vipon/python-ddd) - Python DDD pattern example using FastAPI
@@ -705,6 +715,13 @@
 
 ## Javascript
 
+* 【2022-11-09】[Stuk / jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+* 【2022-11-09】[elsewhencode / project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+* 【2022-11-09】[plasma-umass / scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
+* 【2022-11-09】[daweedkob / sorting_algos](https://github.com/daweedkob/sorting_algos) - Various sorting algorithms visualizer
+* 【2022-11-09】[Sunny-117 / js-challenges](https://github.com/Sunny-117/js-challenges) - 集锦大厂面试常考的 前端手写题和leetcode算法题
+* 【2022-11-09】[xiangyuecn / AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov) - 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2022年09月07日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据
+* 【2022-11-09】[jxhczhl / JsRpc](https://github.com/jxhczhl/JsRpc) - jsrpc,在浏览器开启一个ws和服务连接，以请求http接口的形式来和浏览器通信 ,浏览器端收到调用通信执行原先设置好的js代码并获得返回值。
 * 【2022-11-07】[twitterdev / Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API v2 endpoints
 * 【2022-11-07】[Kindelia / HVM](https://github.com/Kindelia/HVM) - A massively parallel, optimal functional runtime in Rust
 * 【2022-11-07】[saadpasta / developerFolio](https://github.com/saadpasta/developerFolio) - 🚀Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
@@ -907,6 +924,11 @@
 
 ## Go
 
+* 【2022-11-09】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
+* 【2022-11-09】[hyperledger / fabric-samples](https://github.com/hyperledger/fabric-samples) - 
+* 【2022-11-09】[peterq / pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
+* 【2022-11-09】[noovertime7 / kubemanage](https://github.com/noovertime7/kubemanage) - An easy-to-use kubernetes management system, perfect for newbies to practice, done with client-go
+* 【2022-11-09】[Monibuca / plugin-webrtc](https://github.com/Monibuca/plugin-webrtc) - webrtc plugin for monibuca
 * 【2022-11-08】[ViRb3 / wgcf](https://github.com/ViRb3/wgcf) - 🚤Cross-platform, unofficial CLI for Cloudflare Warp
 * 【2022-11-08】[containrrr / watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 * 【2022-11-08】[devtron-labs / devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes
@@ -1071,6 +1093,11 @@
 
 ## C
 
+* 【2022-11-09】[uber / h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
+* 【2022-11-09】[open-mpi / ompi](https://github.com/open-mpi/ompi) - Open MPI main development repository
+* 【2022-11-09】[johannyren / PowerDisplayHomeAssistant](https://github.com/johannyren/PowerDisplayHomeAssistant) - A small display for Home Assistant to retrieve the current house consumption and energy price via a sensor in HA. Uses a Wemos D1 Mini and an ILI9341display.
+* 【2022-11-09】[henrypp / simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+* 【2022-11-09】[ufrisk / pcileech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software
 * 【2022-11-08】[4g3nt47 / Striker](https://github.com/4g3nt47/Striker) - A Command and Control (C2)
 * 【2022-11-08】[GNOME / gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
 * 【2022-11-08】[alanzjl / AlkaidMount](https://github.com/alanzjl/AlkaidMount) - HarmonicDrive equatorial mount
@@ -1212,6 +1239,9 @@
 
 ## C++
 
+* 【2022-11-09】[oct0xor / mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
+* 【2022-11-09】[H4de5-7 / schtask-bypass](https://github.com/H4de5-7/schtask-bypass) - 免杀计划任务进行权限维持，过主流杀软。 A schtask tool bypass anti-virus
+* 【2022-11-09】[H4de5-7 / Bundler-bypass](https://github.com/H4de5-7/Bundler-bypass) - 免杀捆绑器，过主流杀软。A Bundler bypass anti-virus
 * 【2022-11-08】[apache / mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 * 【2022-11-08】[STEllAR-GROUP / hpx](https://github.com/STEllAR-GROUP/hpx) - The C++ Standard Library for Parallelism and Concurrency
 * 【2022-11-08】[iiicp / lcc](https://github.com/iiicp/lcc) - llvm-based c compiler
@@ -1391,6 +1421,8 @@
 
 ## C#
 
+* 【2022-11-09】[AkiKurisu / Time-Control](https://github.com/AkiKurisu/Time-Control) - Unity时间回溯系统
+* 【2022-11-09】[whx-prog / The-Seed-Link-Future](https://github.com/whx-prog/The-Seed-Link-Future) - 基于Unity，硬件Quest2旨在帮助开发者快速构造VR游戏原型以及初学者快速入门。同时也是刀剑神域项目的功能原型模板。
 * 【2022-11-08】[d3lb3 / KeeFarceReborn](https://github.com/d3lb3/KeeFarceReborn) - A standalone DLL that exports databases in cleartext once injected in the KeePass process.
 * 【2022-11-08】[winsecurity / Offensive-C-Sharp](https://github.com/winsecurity/Offensive-C-Sharp) - 
 * 【2022-11-08】[Ponderfly / GoogleTranslateIpCheck](https://github.com/Ponderfly/GoogleTranslateIpCheck) - 
@@ -1531,6 +1563,11 @@
 
 ## Html
 
+* 【2022-11-09】[chaossocial / about](https://github.com/chaossocial/about) - 
+* 【2022-11-09】[netology-code / guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
+* 【2022-11-09】[petersem / posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
+* 【2022-11-09】[ionides / 810f22](https://github.com/ionides/810f22) - Course materials for STATS 810 Fall 2022
+* 【2022-11-09】[ZutJoe / Koala_hacker_news](https://github.com/ZutJoe/Koala_hacker_news) - Koala hacker news 周报内容 每周二0点左右自动更新
 * 【2022-11-08】[Cassianosch / programador.cs-reels](https://github.com/Cassianosch/programador.cs-reels) - 
 * 【2022-11-08】[thomasms / glastoselenium](https://github.com/thomasms/glastoselenium) - A bot for booking Glastonbury tickets using selenium
 * 【2022-11-07】[geohot / tinyxxx](https://github.com/geohot/tinyxxx) - tiny corporation website
@@ -1708,6 +1745,8 @@
 
 ## Css
 
+* 【2022-11-09】[maykbrito / nlw-10-copa](https://github.com/maykbrito/nlw-10-copa) - Calendário pessoal de jogos da Copa 2022
+* 【2022-11-09】[bedimcode / responsive-sushi-website](https://github.com/bedimcode/responsive-sushi-website) - Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
 * 【2022-11-05】[Ehviewer-Overhauled / fdroid-repo](https://github.com/Ehviewer-Overhauled/fdroid-repo) - Fdroid repo for Ehviewer-Overhauled Project
 * 【2022-11-05】[NilPointer-Software / bdfd-wiki](https://github.com/NilPointer-Software/bdfd-wiki) - Wiki page for Bot Designer for Discord
 * 【2022-11-04】[fireship-io / next13-pocketbase-demo](https://github.com/fireship-io/next13-pocketbase-demo) - Demo for the new Next.js 13 features with Pocketbase.
@@ -1858,6 +1897,8 @@
 
 ## Unknown
 
+* 【2022-11-09】[chashaomanhua / manhuadaquan](https://github.com/chashaomanhua/manhuadaquan) - 漫画大全漫画源
+* 【2022-11-09】[ilovexjp / skm-simulator](https://github.com/ilovexjp/skm-simulator) - 基于 Web 的苏康码模拟
 * 【2022-11-08】[6mile / DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
 * 【2022-11-08】[cjbt / Free-Algorithm-Books](https://github.com/cjbt/Free-Algorithm-Books) - 
 * 【2022-11-08】[kleiton0x00 / Advanced-SQL-Injection-Cheatsheet](https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet) - A cheat sheet that contains advanced queries for SQL Injection of all types.
