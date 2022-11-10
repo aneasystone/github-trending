@@ -6,6 +6,19 @@
 
 ## All language
 
+* 【2022-11-10】[projectdiscovery / katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+* 【2022-11-10】[memphisdev / memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
+* 【2022-11-10】[martinothamar / Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
+* 【2022-11-10】[Kaiser-DMr / -3D](https://github.com/Kaiser-DMr/-3D) - 李洵爱心跳动代码
+* 【2022-11-10】[fr0gger / Awesome_Malware_Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques) - This is a repository of resource about Malware techniques
+* 【2022-11-10】[monkeyWie / gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
+* 【2022-11-10】[nicoburns / blessed-rs](https://github.com/nicoburns/blessed-rs) - A community guide to the Rust ecosystem
+* 【2022-11-10】[alura-challenges / aluratube](https://github.com/alura-challenges/aluratube) - 
+* 【2022-11-10】[OdysseusYuan / LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+* 【2022-11-10】[ZhuriLab / Joker](https://github.com/ZhuriLab/Joker) - 一款基于Http.sys的利用工具
+* 【2022-11-10】[maotoumao / MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
+* 【2022-11-10】[toly1994328 / FlutterUnit](https://github.com/toly1994328/FlutterUnit) - 【Flutter 集录指南 App】The unity of flutter, The unity of coder.
+* 【2022-11-10】[aliyun / surftrace](https://github.com/aliyun/surftrace) - surftrace is a tool that allows you to surf the linux kernel
 * 【2022-11-09】[ProjectOpenSea / operator-filter-registry](https://github.com/ProjectOpenSea/operator-filter-registry) - 
 * 【2022-11-09】[RustScan / RustScan](https://github.com/RustScan/RustScan) - 🤖The Modern Port Scanner🤖
 * 【2022-11-09】[ant-design / pro-components](https://github.com/ant-design/pro-components) - 🏆Use Ant Design like a Pro!
@@ -294,6 +307,13 @@
 
 ## Java
 
+* 【2022-11-10】[reactor / reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
+* 【2022-11-10】[DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) - Datadog APM client for Java
+* 【2022-11-10】[SpindleSec / cve-2022-31692](https://github.com/SpindleSec/cve-2022-31692) - A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692
+* 【2022-11-10】[spring-cloud / spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes) - Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...
+* 【2022-11-10】[cyrildiagne / ar-cptext](https://github.com/cyrildiagne/ar-cptext) - AR Copy Paste - Text Proto
+* 【2022-11-10】[DTStack / Taier](https://github.com/DTStack/Taier) - Taier is a big data development platform for submission, scheduling, operation and maintenance, and indicator information display
+* 【2022-11-10】[wechatpay-apiv3 / wechatpay-java](https://github.com/wechatpay-apiv3/wechatpay-java) - 微信支付 APIv3 的 Java Library
 * 【2022-11-09】[widdix / aws-cf-templates](https://github.com/widdix/aws-cf-templates) - Free Templates for AWS CloudFormation
 * 【2022-11-09】[android / testing-samples](https://github.com/android/testing-samples) - A collection of samples demonstrating different frameworks and techniques for automated testing
 * 【2022-11-09】[TangBean / OnlineExecutor](https://github.com/TangBean/OnlineExecutor) - 基于 Spring Boot 的在线 Java IDE
@@ -455,6 +475,19 @@
 
 ## Python
 
+* 【2022-11-10】[cloneofsimo / paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiffi that let you generate image from text-labeled segmentation map.
+* 【2022-11-10】[caronc / apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+* 【2022-11-10】[joweich / chat-miner](https://github.com/joweich/chat-miner) - Lean parsers and visualizations for chat data
+* 【2022-11-10】[PaddlePaddle / PaddleTS](https://github.com/PaddlePaddle/PaddleTS) - Awesome Easy-to-Use Deep Time Series Modeling based on PaddlePaddle, including comprehensive functionality modules like TSDataset, Analysis, Transform, Models, AutoTS, and Ensemble, etc., supporting versatile tasks like time series forecasting, representation learning, and anomaly detection, etc., featured with quick tracking of SOTA deep models.
+* 【2022-11-10】[mli / autocut](https://github.com/mli/autocut) - 
+* 【2022-11-10】[augmentedstartups / AS-One](https://github.com/augmentedstartups/AS-One) - Easy & Modular Computer Vision Detectors and Trackers - Run YOLOv7,v6,v5,R,X in under 20 lines of code.
+* 【2022-11-10】[loTus04 / W4SP-Stealer](https://github.com/loTus04/W4SP-Stealer) - w4sp Stealer official source code, one of the best python stealer on the web
+* 【2022-11-10】[getredash / redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+* 【2022-11-10】[d8ahazard / sd_dreambooth_extension](https://github.com/d8ahazard/sd_dreambooth_extension) - 
+* 【2022-11-10】[openai / improved-diffusion](https://github.com/openai/improved-diffusion) - Release for Improved Denoising Diffusion Probabilistic Models
+* 【2022-11-10】[ghtwf01 / excavator](https://github.com/ghtwf01/excavator) - Passive DAST Scanner（被动式黑盒漏洞扫描器）
+* 【2022-11-10】[we0091234 / Chinese_license_plate_detection_recognition](https://github.com/we0091234/Chinese_license_plate_detection_recognition) - lpr 车牌识别 车牌检测 中文车牌识别 检测 支持12种中文车牌
+* 【2022-11-10】[CoderWanFeng / PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot) - pip install PyOfficeRobot，微信/钉钉/QQ/企业，各种应用的机器人
 * 【2022-11-09】[modelscope / modelscope](https://github.com/modelscope/modelscope) - ModelScope is committed to empowering a wide-spectrum of developers to leverage AI models from various domains. (致力于通过开放的社区合作，开源AI模型以及相关创新技术，推动基于模型即服务的生态繁荣发展。)
 * 【2022-11-09】[LetusDevops / LearnPython](https://github.com/LetusDevops/LearnPython) - Learn Python with LetUsDevOps
 * 【2022-11-09】[heartexlabs / labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.
@@ -715,6 +748,13 @@
 
 ## Javascript
 
+* 【2022-11-10】[cube-root / directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
+* 【2022-11-10】[tc39 / proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
+* 【2022-11-10】[ldurans / izing.io](https://github.com/ldurans/izing.io) - Chats Whatsapp multisessões
+* 【2022-11-10】[Kong / insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+* 【2022-11-10】[ixinzhi / male-wakeup-wiki](https://github.com/ixinzhi/male-wakeup-wiki) - 📚男性觉醒知识库
+* 【2022-11-10】[xfbxfbxfb / love](https://github.com/xfbxfbxfb/love) - 对爱心树进行修改的表白网页!
+* 【2022-11-10】[enfangzhong / loveSource](https://github.com/enfangzhong/loveSource) - 程序员的浪漫爱心表白源码 演示地址1：https://enfangzhong.github.io/love/ 演示地址2：https://enfangzhong.github.io/loveshow/
 * 【2022-11-09】[Stuk / jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 * 【2022-11-09】[elsewhencode / project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 * 【2022-11-09】[plasma-umass / scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
@@ -924,6 +964,8 @@
 
 ## Go
 
+* 【2022-11-10】[json-iterator / go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
+* 【2022-11-10】[projectdiscovery / httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 * 【2022-11-09】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
 * 【2022-11-09】[hyperledger / fabric-samples](https://github.com/hyperledger/fabric-samples) - 
 * 【2022-11-09】[peterq / pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
@@ -1093,6 +1135,9 @@
 
 ## C
 
+* 【2022-11-10】[Nicolai-Electronics / rp2040-i2c-interface](https://github.com/Nicolai-Electronics/rp2040-i2c-interface) - 
+* 【2022-11-10】[Meituan-Dianping / Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
+* 【2022-11-10】[destan19 / openfros](https://github.com/destan19/openfros) - 
 * 【2022-11-09】[uber / h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 * 【2022-11-09】[open-mpi / ompi](https://github.com/open-mpi/ompi) - Open MPI main development repository
 * 【2022-11-09】[johannyren / PowerDisplayHomeAssistant](https://github.com/johannyren/PowerDisplayHomeAssistant) - A small display for Home Assistant to retrieve the current house consumption and energy price via a sensor in HA. Uses a Wemos D1 Mini and an ILI9341display.
@@ -1421,6 +1466,9 @@
 
 ## C#
 
+* 【2022-11-10】[isdaviddong / HackMD.API](https://github.com/isdaviddong/HackMD.API) - HackMD.API
+* 【2022-11-10】[HenJigg / my-todoapp](https://github.com/HenJigg/my-todoapp) - 该项目为2022年WPF项目实战合集源代码
+* 【2022-11-10】[xasset / xasset](https://github.com/xasset/xasset) - 让Unity资源管理更轻松
 * 【2022-11-09】[AkiKurisu / Time-Control](https://github.com/AkiKurisu/Time-Control) - Unity时间回溯系统
 * 【2022-11-09】[whx-prog / The-Seed-Link-Future](https://github.com/whx-prog/The-Seed-Link-Future) - 基于Unity，硬件Quest2旨在帮助开发者快速构造VR游戏原型以及初学者快速入门。同时也是刀剑神域项目的功能原型模板。
 * 【2022-11-08】[d3lb3 / KeeFarceReborn](https://github.com/d3lb3/KeeFarceReborn) - A standalone DLL that exports databases in cleartext once injected in the KeePass process.
@@ -1563,6 +1611,12 @@
 
 ## Html
 
+* 【2022-11-10】[ductham08 / yeu_hoa](https://github.com/ductham08/yeu_hoa) - 
+* 【2022-11-10】[tuanfat2k4 / Trend-Trai-Tim](https://github.com/tuanfat2k4/Trend-Trai-Tim) - 
+* 【2022-11-10】[h-enk / doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
+* 【2022-11-10】[matheusbattisti / frontweek_1](https://github.com/matheusbattisti/frontweek_1) - Repositório dos arquivos da Front Week #1
+* 【2022-11-10】[18730097242 / love](https://github.com/18730097242/love) - 动态爱心
+* 【2022-11-10】[openwhu / OpenWHU](https://github.com/openwhu/OpenWHU) - 武汉大学课程资料整理-WHU课代表计划
 * 【2022-11-09】[chaossocial / about](https://github.com/chaossocial/about) - 
 * 【2022-11-09】[netology-code / guides](https://github.com/netology-code/guides) - Сборник шпаргалок и инструкций для упрощения жизни студента Нетологии
 * 【2022-11-09】[petersem / posterr](https://github.com/petersem/posterr) - A digital poster app for Plex, Sonarr, Radarr, and Readarr
@@ -1745,6 +1799,8 @@
 
 ## Css
 
+* 【2022-11-10】[octaviovillegas / CursoIngresoJS](https://github.com/octaviovillegas/CursoIngresoJS) - Curso de ingreso con JavaScript
+* 【2022-11-10】[JordanHatch / civictech.club](https://github.com/JordanHatch/civictech.club) - A directory of Fediverse users working to make government and democracy better.
 * 【2022-11-09】[maykbrito / nlw-10-copa](https://github.com/maykbrito/nlw-10-copa) - Calendário pessoal de jogos da Copa 2022
 * 【2022-11-09】[bedimcode / responsive-sushi-website](https://github.com/bedimcode/responsive-sushi-website) - Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
 * 【2022-11-05】[Ehviewer-Overhauled / fdroid-repo](https://github.com/Ehviewer-Overhauled/fdroid-repo) - Fdroid repo for Ehviewer-Overhauled Project
@@ -1897,6 +1953,12 @@
 
 ## Unknown
 
+* 【2022-11-10】[ilovexjp / ssm-simulator](https://github.com/ilovexjp/ssm-simulator) - 基于 Web 的上海随申码模拟
+* 【2022-11-10】[TalEliyahu / awesome-CISO-maturity-models](https://github.com/TalEliyahu/awesome-CISO-maturity-models) - Maturity models help integrate traditionally separate organizational functions, set process improvement goals and priorities, provide guidance for quality processes, and provide benchmark for appraising current processes outcomes.
+* 【2022-11-10】[datastacktv / data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
+* 【2022-11-10】[weaiken / ebook](https://github.com/weaiken/ebook) - classic books of computer science!
+* 【2022-11-10】[StarCrossPortal / scalpel](https://github.com/StarCrossPortal/scalpel) - scalpel是一款命令行扫描器，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog
+* 【2022-11-10】[Blockchain-zju / blockchainer-roadmap](https://github.com/Blockchain-zju/blockchainer-roadmap) - Roadmap of learning blockchain technology and business knowledge summarized by ZJUBCA（浙大区块链协会总结的区块链知识学习路线）. Welcome to contribute!!!
 * 【2022-11-09】[chashaomanhua / manhuadaquan](https://github.com/chashaomanhua/manhuadaquan) - 漫画大全漫画源
 * 【2022-11-09】[ilovexjp / skm-simulator](https://github.com/ilovexjp/skm-simulator) - 基于 Web 的苏康码模拟
 * 【2022-11-08】[6mile / DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook) - This is a step-by-step guide to implementing a DevSecOps program for any size organization
