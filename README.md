@@ -6,6 +6,18 @@
 
 ## All language
 
+* 【2022-11-11】[YanG-1989 / m3u](https://github.com/YanG-1989/m3u) - 
+* 【2022-11-11】[NVIDIA-Omniverse / PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
+* 【2022-11-11】[cozodb / cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+* 【2022-11-11】[TanStack / router](https://github.com/TanStack/router) - 🤖Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
+* 【2022-11-11】[zurichat / zc_main](https://github.com/zurichat/zc_main) - A Workspace Web App powered by React and Node Js.
+* 【2022-11-11】[leduyminhcn20b / duyminhbio](https://github.com/leduyminhcn20b/duyminhbio) - 
+* 【2022-11-11】[rome / tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+* 【2022-11-11】[Zeal8bit / Zeal-8-bit-OS](https://github.com/Zeal8bit/Zeal-8-bit-OS) - An Operating System for Z80 computers, written in assembly
+* 【2022-11-11】[medplum / medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
+* 【2022-11-11】[aws / amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples) - Example📓Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using🧠Amazon SageMaker.
+* 【2022-11-11】[a16z / helios](https://github.com/a16z/helios) - A fast, secure, and portable light client for Ethereum
+* 【2022-11-11】[LokerL / tts-vue](https://github.com/LokerL/tts-vue) - 🎤微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 * 【2022-11-10】[projectdiscovery / katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 * 【2022-11-10】[memphisdev / memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
 * 【2022-11-10】[martinothamar / Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
@@ -307,6 +319,9 @@
 
 ## Java
 
+* 【2022-11-11】[apache / cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+* 【2022-11-11】[OWASP / crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
+* 【2022-11-11】[Raray-chuan / xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java与大数据相关知识，会不定期的更新；包括：jvm、juc、spring、springCloud、redis、ES、zookeeper、kettle、zabbix、hadoop、hive、hbase、kafka、spark、flink、ariflow、elk等📚
 * 【2022-11-10】[reactor / reactor-core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM
 * 【2022-11-10】[DataDog / dd-trace-java](https://github.com/DataDog/dd-trace-java) - Datadog APM client for Java
 * 【2022-11-10】[SpindleSec / cve-2022-31692](https://github.com/SpindleSec/cve-2022-31692) - A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692
@@ -475,6 +490,12 @@
 
 ## Python
 
+* 【2022-11-11】[SpyGuard / SpyGuard](https://github.com/SpyGuard/SpyGuard) - SpyGuard is a forked and enhanced version of TinyCheck. SpyGuard's main objective is to detect signs of compromise by monitoring network flows transmitted by a device.
+* 【2022-11-11】[GerryDazoo / Slinger](https://github.com/GerryDazoo/Slinger) - Reuse SlingBox hardware without SlingBox Servers
+* 【2022-11-11】[ihabunek / toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
+* 【2022-11-11】[max32002 / tixcraft_bot](https://github.com/max32002/tixcraft_bot) - Max搶票機器人(maxbot) help you quickly buy your tickets
+* 【2022-11-11】[TheRamU / Fay](https://github.com/TheRamU/Fay) - 语音互动，直播自动带货 虚拟数字人
+* 【2022-11-11】[c1y2m3 / ATAttack](https://github.com/c1y2m3/ATAttack) - 敌后侦察
 * 【2022-11-10】[cloneofsimo / paint-with-words-sd](https://github.com/cloneofsimo/paint-with-words-sd) - Implementation of Paint-with-words with Stable Diffusion : method from eDiffi that let you generate image from text-labeled segmentation map.
 * 【2022-11-10】[caronc / apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 * 【2022-11-10】[joweich / chat-miner](https://github.com/joweich/chat-miner) - Lean parsers and visualizations for chat data
@@ -748,6 +769,12 @@
 
 ## Javascript
 
+* 【2022-11-11】[parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web.📦🚀
+* 【2022-11-11】[select2 / select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+* 【2022-11-11】[cure53 / DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+* 【2022-11-11】[swagger-api / swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
+* 【2022-11-11】[likeyun / liKeYun_Huoma](https://github.com/likeyun/liKeYun_Huoma) - 这是一套开源、免费、可上线运营的活码系统，便于协助自己、他人进行微信私域流量资源获取，更大化地进行营销推广活动！降低运营成本，提高工作效率，获取更多资源。
+* 【2022-11-11】[953950350 / love](https://github.com/953950350/love) - 网页动画爱心表白
 * 【2022-11-10】[cube-root / directory-serve](https://github.com/cube-root/directory-serve) - CLI tool to send and receive file on a network to a server
 * 【2022-11-10】[tc39 / proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 * 【2022-11-10】[ldurans / izing.io](https://github.com/ldurans/izing.io) - Chats Whatsapp multisessões
@@ -964,6 +991,8 @@
 
 ## Go
 
+* 【2022-11-11】[maciejwalkowiak / yolo](https://github.com/maciejwalkowiak/yolo) - Life's too short for running tests
+* 【2022-11-11】[Azure / azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.
 * 【2022-11-10】[json-iterator / go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 * 【2022-11-10】[projectdiscovery / httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 * 【2022-11-09】[libp2p / go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go
@@ -1135,6 +1164,9 @@
 
 ## C
 
+* 【2022-11-11】[eclipse-cyclonedds / cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS project
+* 【2022-11-11】[uhhhci / immersive-ngp](https://github.com/uhhhci/immersive-ngp) - We present the first open-source VR NERF Unity package that brings high resolution, low-latency, 6-DOF NERF rendering to VR. This work is based on Nvidia's ground breaking instant-ngp technique.
+* 【2022-11-11】[GengGode / GenshinImpact_TianLi](https://github.com/GengGode/GenshinImpact_TianLi) - 原神 · 天理，原神最好的外置终端
 * 【2022-11-10】[Nicolai-Electronics / rp2040-i2c-interface](https://github.com/Nicolai-Electronics/rp2040-i2c-interface) - 
 * 【2022-11-10】[Meituan-Dianping / Logan](https://github.com/Meituan-Dianping/Logan) - Logan is a lightweight case logging system based on mobile platform.
 * 【2022-11-10】[destan19 / openfros](https://github.com/destan19/openfros) - 
@@ -1284,6 +1316,9 @@
 
 ## C++
 
+* 【2022-11-11】[dev-cafe / cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
+* 【2022-11-11】[LabyrinthCore / Labyrinth](https://github.com/LabyrinthCore/Labyrinth) - The official Labyrinth Core repository
+* 【2022-11-11】[assume-breach / Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team) - 
 * 【2022-11-09】[oct0xor / mgs2sos](https://github.com/oct0xor/mgs2sos) - This mod lets you play MGS2: Substance with the 3rd person camera (and game controls) from MGS3: Subsistence
 * 【2022-11-09】[H4de5-7 / schtask-bypass](https://github.com/H4de5-7/schtask-bypass) - 免杀计划任务进行权限维持，过主流杀软。 A schtask tool bypass anti-virus
 * 【2022-11-09】[H4de5-7 / Bundler-bypass](https://github.com/H4de5-7/Bundler-bypass) - 免杀捆绑器，过主流杀软。A Bundler bypass anti-virus
@@ -1466,6 +1501,7 @@
 
 ## C#
 
+* 【2022-11-11】[xiaoyaocz / biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
 * 【2022-11-10】[isdaviddong / HackMD.API](https://github.com/isdaviddong/HackMD.API) - HackMD.API
 * 【2022-11-10】[HenJigg / my-todoapp](https://github.com/HenJigg/my-todoapp) - 该项目为2022年WPF项目实战合集源代码
 * 【2022-11-10】[xasset / xasset](https://github.com/xasset/xasset) - 让Unity资源管理更轻松
@@ -1611,6 +1647,15 @@
 
 ## Html
 
+* 【2022-11-11】[aarneranta / chalmers-advanced-python](https://github.com/aarneranta/chalmers-advanced-python) - Public repository for Chalmers Advanced Python course material.
+* 【2022-11-11】[HMC2910 / loveVanHa](https://github.com/HMC2910/loveVanHa) - 
+* 【2022-11-11】[namlhhe153396 / ZUI](https://github.com/namlhhe153396/ZUI) - 
+* 【2022-11-11】[IfcOpenShell / wasm-preview](https://github.com/IfcOpenShell/wasm-preview) - 
+* 【2022-11-11】[ngoctienTNT / LyTuan](https://github.com/ngoctienTNT/LyTuan) - 
+* 【2022-11-11】[ellyx13 / Heart-Love](https://github.com/ellyx13/Heart-Love) - 
+* 【2022-11-11】[qimengke / html5-canvas](https://github.com/qimengke/html5-canvas) - html5 canvas飘动的爱心心形动画特效
+* 【2022-11-11】[bianchengIT / 3Dheart](https://github.com/bianchengIT/3Dheart) - 纯代码实现的3d爱心
+* 【2022-11-11】[gamelife1314 / gamelife1314.github.io](https://github.com/gamelife1314/gamelife1314.github.io) - https://blog.fudenglong.site
 * 【2022-11-10】[ductham08 / yeu_hoa](https://github.com/ductham08/yeu_hoa) - 
 * 【2022-11-10】[tuanfat2k4 / Trend-Trai-Tim](https://github.com/tuanfat2k4/Trend-Trai-Tim) - 
 * 【2022-11-10】[h-enk / doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
@@ -1799,6 +1844,10 @@
 
 ## Css
 
+* 【2022-11-11】[ngoctienTNT / WarningMyCrush](https://github.com/ngoctienTNT/WarningMyCrush) - 
+* 【2022-11-11】[Justice-Through-Code / simple-frontend](https://github.com/Justice-Through-Code/simple-frontend) - A barebones vanilla JavaScript/HTML/CSS frontend
+* 【2022-11-11】[estevam5s / pedacinho-do-ceu-website](https://github.com/estevam5s/pedacinho-do-ceu-website) - 
+* 【2022-11-11】[YangMr / edu-app](https://github.com/YangMr/edu-app) - 积云在线教育APP
 * 【2022-11-10】[octaviovillegas / CursoIngresoJS](https://github.com/octaviovillegas/CursoIngresoJS) - Curso de ingreso con JavaScript
 * 【2022-11-10】[JordanHatch / civictech.club](https://github.com/JordanHatch/civictech.club) - A directory of Fediverse users working to make government and democracy better.
 * 【2022-11-09】[maykbrito / nlw-10-copa](https://github.com/maykbrito/nlw-10-copa) - Calendário pessoal de jogos da Copa 2022
@@ -1953,6 +2002,10 @@
 
 ## Unknown
 
+* 【2022-11-11】[dangkhoasdc / awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) - List of AI Residency Programs
+* 【2022-11-11】[sharanyaa / grok_sdi_educative](https://github.com/sharanyaa/grok_sdi_educative) - Grokking the System Design Interview Course
+* 【2022-11-11】[ilovexjp / tfjkt-simulator](https://github.com/ilovexjp/tfjkt-simulator) - 基于 Web 的四川天府健康通模拟
+* 【2022-11-11】[skywind3000 / preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 * 【2022-11-10】[ilovexjp / ssm-simulator](https://github.com/ilovexjp/ssm-simulator) - 基于 Web 的上海随申码模拟
 * 【2022-11-10】[TalEliyahu / awesome-CISO-maturity-models](https://github.com/TalEliyahu/awesome-CISO-maturity-models) - Maturity models help integrate traditionally separate organizational functions, set process improvement goals and priorities, provide guidance for quality processes, and provide benchmark for appraising current processes outcomes.
 * 【2022-11-10】[datastacktv / data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021
