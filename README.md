@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-11-12】[solidjs / solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
+* 【2022-11-12】[infosecB / awesome-detection-engineering](https://github.com/infosecB/awesome-detection-engineering) - A list of useful Detection Engineering-related resources.
+* 【2022-11-12】[woolen-sheep / md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。
+* 【2022-11-12】[dddddd1 / loveMove](https://github.com/dddddd1/loveMove) - 李峋爱心代码 https://dddddd1.github.io/loveMove/input.html
 * 【2022-11-11】[YanG-1989 / m3u](https://github.com/YanG-1989/m3u) - 
 * 【2022-11-11】[NVIDIA-Omniverse / PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
 * 【2022-11-11】[cozodb / cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
@@ -88,6 +92,7 @@
 
 ## Java
 
+* 【2022-11-12】[menglong521 / Protobuf](https://github.com/menglong521/Protobuf) - Springboot集成websocket+protobuf基本Demo，可实现后端与前端数据实时发送与接收，protobuf进行序列化与反序列化
 * 【2022-11-11】[apache / cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
 * 【2022-11-11】[OWASP / crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 * 【2022-11-11】[Raray-chuan / xichuan_note](https://github.com/Raray-chuan/xichuan_note) - xichuan的学习总结笔记,覆盖了java与大数据相关知识，会不定期的更新；包括：jvm、juc、spring、springCloud、redis、ES、zookeeper、kettle、zabbix、hadoop、hive、hbase、kafka、spark、flink、ariflow、elk等📚
@@ -124,6 +129,15 @@
 
 ## Python
 
+* 【2022-11-12】[reddelexc / hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
+* 【2022-11-12】[zabbix / community-templates](https://github.com/zabbix/community-templates) - Zabbix Community Templates repository
+* 【2022-11-12】[microsoft / playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+* 【2022-11-12】[microsoft / FocalNet](https://github.com/microsoft/FocalNet) - [NeurIPS 2022] Official code for "Focal Modulation Networks"
+* 【2022-11-12】[DingXiaoH / RepVGG](https://github.com/DingXiaoH/RepVGG) - RepVGG: Making VGG-style ConvNets Great Again
+* 【2022-11-12】[warpdotdev / themes](https://github.com/warpdotdev/themes) - Custom themes repository for Warp, a blazingly fast modern terminal built in Rust.
+* 【2022-11-12】[PaddlePaddle / PaddleRS](https://github.com/PaddlePaddle/PaddleRS) - Awesome Remote Sensing Toolkit based on PaddlePaddle.
+* 【2022-11-12】[CrazyBoyM / dreambooth-for-diffusion](https://github.com/CrazyBoyM/dreambooth-for-diffusion) - 完整封装、一体化训练stable diffusion dreambooth的镜像环境，可训练定制自己的独特大模型风格、人物，开箱即用，内含详细教程。
+* 【2022-11-12】[RenrenBit / ProofOfReserves](https://github.com/RenrenBit/ProofOfReserves) - 100%准备金证明
 * 【2022-11-11】[SpyGuard / SpyGuard](https://github.com/SpyGuard/SpyGuard) - SpyGuard is a forked and enhanced version of TinyCheck. SpyGuard's main objective is to detect signs of compromise by monitoring network flows transmitted by a device.
 * 【2022-11-11】[GerryDazoo / Slinger](https://github.com/GerryDazoo/Slinger) - Reuse SlingBox hardware without SlingBox Servers
 * 【2022-11-11】[ihabunek / toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
@@ -193,6 +207,9 @@
 
 ## Javascript
 
+* 【2022-11-12】[wojtekmaj / react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+* 【2022-11-12】[devcontainers / images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
+* 【2022-11-12】[anji-plus / report](https://github.com/anji-plus/report) - AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。
 * 【2022-11-11】[parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web.📦🚀
 * 【2022-11-11】[select2 / select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 * 【2022-11-11】[cure53 / DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
@@ -247,6 +264,9 @@
 
 ## Go
 
+* 【2022-11-12】[TwiN / gatus](https://github.com/TwiN/gatus) - ⛑Automated service health dashboard
+* 【2022-11-12】[GoogleCloudPlatform / terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+* 【2022-11-12】[SeeFlowerX / stackplz](https://github.com/SeeFlowerX/stackplz) - 基于eBPF的堆栈追踪工具
 * 【2022-11-11】[maciejwalkowiak / yolo](https://github.com/maciejwalkowiak/yolo) - Life's too short for running tests
 * 【2022-11-11】[Azure / azure-dev](https://github.com/Azure/azure-dev) - A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.
 * 【2022-11-10】[json-iterator / go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -291,6 +311,8 @@
 
 ## C
 
+* 【2022-11-12】[LillieH001 / YouTube-Reborn](https://github.com/LillieH001/YouTube-Reborn) - 
+* 【2022-11-12】[Jackadminx / KVM-Card](https://github.com/Jackadminx/KVM-Card) - 🖥️Simple KVM Console to USB
 * 【2022-11-11】[eclipse-cyclonedds / cyclonedds](https://github.com/eclipse-cyclonedds/cyclonedds) - Eclipse Cyclone DDS project
 * 【2022-11-11】[uhhhci / immersive-ngp](https://github.com/uhhhci/immersive-ngp) - We present the first open-source VR NERF Unity package that brings high resolution, low-latency, 6-DOF NERF rendering to VR. This work is based on Nvidia's ground breaking instant-ngp technique.
 * 【2022-11-11】[GengGode / GenshinImpact_TianLi](https://github.com/GengGode/GenshinImpact_TianLi) - 原神 · 天理，原神最好的外置终端
@@ -329,6 +351,9 @@
 
 ## C++
 
+* 【2022-11-12】[alfarom256 / CVE-2022-3699](https://github.com/alfarom256/CVE-2022-3699) - Lenovo Diagnostics Driver EoP - Arbitrary R/W
+* 【2022-11-12】[ccdescipline / CInject](https://github.com/ccdescipline/CInject) - Windows Kernel inject (no module no thread)
+* 【2022-11-12】[HarleysZhang / cv_note](https://github.com/HarleysZhang/cv_note) - Record the growth path of cv algorithm engineers, share computer vision and model compression deployment technology stack notes.
 * 【2022-11-11】[dev-cafe / cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook) - CMake Cookbook recipes.
 * 【2022-11-11】[LabyrinthCore / Labyrinth](https://github.com/LabyrinthCore/Labyrinth) - The official Labyrinth Core repository
 * 【2022-11-11】[assume-breach / Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team) - 
@@ -364,6 +389,10 @@
 
 ## C#
 
+* 【2022-11-12】[CCob / Volumiser](https://github.com/CCob/Volumiser) - 
+* 【2022-11-12】[xunit / xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for .NET.
+* 【2022-11-12】[ArchiDog1998 / XIVAutoAttack](https://github.com/ArchiDog1998/XIVAutoAttack) - Teach you how to perform better in combat! -- gamous
+* 【2022-11-12】[liuhll / silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 * 【2022-11-11】[xiaoyaocz / biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
 * 【2022-11-10】[isdaviddong / HackMD.API](https://github.com/isdaviddong/HackMD.API) - HackMD.API
 * 【2022-11-10】[HenJigg / my-todoapp](https://github.com/HenJigg/my-todoapp) - 该项目为2022年WPF项目实战合集源代码
@@ -402,6 +431,11 @@
 
 ## Html
 
+* 【2022-11-12】[boy1champtulen / Heart](https://github.com/boy1champtulen/Heart) - 
+* 【2022-11-12】[Wink196 / Tym-TQ](https://github.com/Wink196/Tym-TQ) - CODE TRÁI TIM THỦ KHOA LÝ VIẾT BẰNG HTML VS PYTHON
+* 【2022-11-12】[fromann / heart](https://github.com/fromann/heart) - 点燃我温暖你李洵同款爱心代码，爱心跳动代码，爱心代码
+* 【2022-11-12】[TranQuangBun / heart](https://github.com/TranQuangBun/heart) - 
+* 【2022-11-12】[itorr / buhuibaidu.me](https://github.com/itorr/buhuibaidu.me) - 🔍「不会百度么？」可以发给某个朋友的简明易懂搜索教程
 * 【2022-11-11】[aarneranta / chalmers-advanced-python](https://github.com/aarneranta/chalmers-advanced-python) - Public repository for Chalmers Advanced Python course material.
 * 【2022-11-11】[HMC2910 / loveVanHa](https://github.com/HMC2910/loveVanHa) - 
 * 【2022-11-11】[namlhhe153396 / ZUI](https://github.com/namlhhe153396/ZUI) - 
@@ -455,6 +489,10 @@
 
 ## Css
 
+* 【2022-11-12】[creativetimofficial / argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
+* 【2022-11-12】[andyngojs / crush-love](https://github.com/andyngojs/crush-love) - a gift for your crush on valentine's day , 8/3 day or 1/4
+* 【2022-11-12】[asims / lrdnug-lrtechfest](https://github.com/asims/lrdnug-lrtechfest) - 
+* 【2022-11-12】[buildspace / solana-pay-starter](https://github.com/buildspace/solana-pay-starter) - Build an online store with Solana Pay!
 * 【2022-11-11】[ngoctienTNT / WarningMyCrush](https://github.com/ngoctienTNT/WarningMyCrush) - 
 * 【2022-11-11】[Justice-Through-Code / simple-frontend](https://github.com/Justice-Through-Code/simple-frontend) - A barebones vanilla JavaScript/HTML/CSS frontend
 * 【2022-11-11】[estevam5s / pedacinho-do-ceu-website](https://github.com/estevam5s/pedacinho-do-ceu-website) - 
@@ -486,6 +524,11 @@
 
 ## Unknown
 
+* 【2022-11-12】[valeman / awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) - A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.
+* 【2022-11-12】[0x90n / InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
+* 【2022-11-12】[ExpLangcn / NucleiTP](https://github.com/ExpLangcn/NucleiTP) - 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！
+* 【2022-11-12】[sulab999 / AppMessenger](https://github.com/sulab999/AppMessenger) - 一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具
+* 【2022-11-12】[wish1776 / NCE](https://github.com/wish1776/NCE) - Yingshi New Concept English
 * 【2022-11-11】[dangkhoasdc / awesome-ai-residency](https://github.com/dangkhoasdc/awesome-ai-residency) - List of AI Residency Programs
 * 【2022-11-11】[sharanyaa / grok_sdi_educative](https://github.com/sharanyaa/grok_sdi_educative) - Grokking the System Design Interview Course
 * 【2022-11-11】[ilovexjp / tfjkt-simulator](https://github.com/ilovexjp/tfjkt-simulator) - 基于 Web 的四川天府健康通模拟
