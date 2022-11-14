@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-11-14】[bevyengine / bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+* 【2022-11-14】[tokio-rs / axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+* 【2022-11-14】[github / hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
+* 【2022-11-14】[User9684 / stupid-discord-badge](https://github.com/User9684/stupid-discord-badge) - Port this repo into https://replit.com and read the readme file for instructions on how to SHIT on discord
+* 【2022-11-14】[danielmiessler / SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* 【2022-11-14】[zgzhengSEU / HWStatusCodeAutoQuery](https://github.com/zgzhengSEU/HWStatusCodeAutoQuery) - 华为招聘状态码全天候在线自动查询工具
+* 【2022-11-14】[fuzhengwei / book-small-spring](https://github.com/fuzhengwei/book-small-spring) - 《手写Spring：渐进式源码实践》 —— 作者：付政委(小傅哥)
 * 【2022-11-13】[timhutton / twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways
 * 【2022-11-13】[wseagar / eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users
 * 【2022-11-13】[go-sonic / sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
@@ -101,6 +108,8 @@
 
 ## Java
 
+* 【2022-11-14】[zaboople / klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
+* 【2022-11-14】[Mahmud0808 / Iconify](https://github.com/Mahmud0808/Iconify) - An android application to customize your boring Android UI
 * 【2022-11-13】[alibaba / dragonwell8](https://github.com/alibaba/dragonwell8) - Alibaba Dragonwell8 JDK
 * 【2022-11-13】[woowacourse-precourse / java-lotto](https://github.com/woowacourse-precourse/java-lotto) - 로또 미션을 진행하는 저장소
 * 【2022-11-13】[corener / JavaPassDump](https://github.com/corener/JavaPassDump) - JavaPassDump
@@ -141,6 +150,8 @@
 
 ## Python
 
+* 【2022-11-14】[Sygil-Dev / sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
+* 【2022-11-14】[shashank-ineuron / Python-Class](https://github.com/shashank-ineuron/Python-Class) - 
 * 【2022-11-13】[DaCoolOne / DumbIdeas](https://github.com/DaCoolOne/DumbIdeas) - 
 * 【2022-11-13】[cupy / cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 * 【2022-11-13】[facebookresearch / moco](https://github.com/facebookresearch/moco) - PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
@@ -222,6 +233,9 @@
 
 ## Javascript
 
+* 【2022-11-14】[adrianhajdin / portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
+* 【2022-11-14】[hackermondev / discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
+* 【2022-11-14】[nextcloud / recognize](https://github.com/nextcloud/recognize) - 👁👂Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
 * 【2022-11-13】[developer-job-simulation / vanilla-login-form](https://github.com/developer-job-simulation/vanilla-login-form) - 
 * 【2022-11-13】[wesbos / who-blue](https://github.com/wesbos/who-blue) - A browser extension to separate lords from peasants
 * 【2022-11-13】[studio-freight / lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
@@ -285,6 +299,8 @@
 
 ## Go
 
+* 【2022-11-14】[nikoksr / notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
+* 【2022-11-14】[alecthomas / chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 * 【2022-11-13】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 * 【2022-11-13】[writefreely / writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 * 【2022-11-13】[gone-io / gone](https://github.com/gone-io/gone) - A dependency injection framework which java spring programmers can quickly get started with.
@@ -335,6 +351,10 @@
 
 ## C
 
+* 【2022-11-14】[vanhauser-thc / thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
+* 【2022-11-14】[albfan / miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
+* 【2022-11-14】[Mange / rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
+* 【2022-11-14】[swoole / swoole-cli](https://github.com/swoole/swoole-cli) - SWOOLE-CLI is a php binary distribution composed swoole & php-core & cli & php-fpm and mostly of common extensions.
 * 【2022-11-13】[Xilinx / Vitis-Tutorials](https://github.com/Xilinx/Vitis-Tutorials) - Vitis In-Depth Tutorials
 * 【2022-11-13】[winsiderss / systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com
 * 【2022-11-13】[ggreer / the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -380,6 +400,13 @@
 
 ## C++
 
+* 【2022-11-14】[SnapDragon64 / ACMFinalsSolutions](https://github.com/SnapDragon64/ACMFinalsSolutions) - SnapDragon's solutions for the ACM ICPC World Finals problems.
+* 【2022-11-14】[me-no-dev / ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
+* 【2022-11-14】[EdVince / Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++
+* 【2022-11-14】[Apricity001 / Rewrite-muduo](https://github.com/Apricity001/Rewrite-muduo) - 
+* 【2022-11-14】[Dir-A / GalTextAll_CN](https://github.com/Dir-A/GalTextAll_CN) - 提取所有某些恶心人参与过的汉化项目文本
+* 【2022-11-14】[tensafe / LegendOfMir3_Src](https://github.com/tensafe/LegendOfMir3_Src) - 传奇2客户端和服务器端源码
+* 【2022-11-14】[iyzyi / Mua-Remote-Control-Trojan](https://github.com/iyzyi/Mua-Remote-Control-Trojan) - MUA远控木马
 * 【2022-11-13】[Serial-Studio / Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) - Multi-purpose serial data visualization & processing program
 * 【2022-11-13】[TixiaoShan / LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping
 * 【2022-11-13】[qt / qtbase](https://github.com/qt/qtbase) - Qt Base (Core, Gui, Widgets, Network, ...)
@@ -422,6 +449,10 @@
 
 ## C#
 
+* 【2022-11-14】[Unity-Technologies / com.unity.demoteam.mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf) - A light and fast real-time SDF generator, primarily for animated characters. The dynamic SDF can be used for all sorts of VFX. Also enables hair-to-character collisions in the new hair package.
+* 【2022-11-14】[kwsch / PKHeX.Mobile](https://github.com/kwsch/PKHeX.Mobile) - Pokémon save editor for Android and iOS!
+* 【2022-11-14】[DDWSdwqdq / VNREX](https://github.com/DDWSdwqdq/VNREX) - GAL翻译器、离线OCR、离线TTS
+* 【2022-11-14】[zeroruka / GI-Mods](https://github.com/zeroruka/GI-Mods) - Archive for anime game mods
 * 【2022-11-13】[Tyrrrz / CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command line processes
 * 【2022-11-13】[dotnet / dotnet-monitor](https://github.com/dotnet/dotnet-monitor) - This repository contains the source code for .NET Monitor - a tool that allows you to gather diagnostic data from running applications using HTTP endpoints
 * 【2022-11-13】[aelassas / wexflow](https://github.com/aelassas/wexflow) - Open Source .NET Workflow Engine and Automation Platform
@@ -471,6 +502,8 @@
 
 ## Html
 
+* 【2022-11-14】[education / PR-Patches-Campus-Party](https://github.com/education/PR-Patches-Campus-Party) - PR-Patches-Campus-Party
+* 【2022-11-14】[PurpleI2P / i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 * 【2022-11-13】[elixir-europe / biohackathon-projects-2022](https://github.com/elixir-europe/biohackathon-projects-2022) - Project code for BioHackathon Europe 2022.
 * 【2022-11-13】[jareer12 / Tailwind-Css-UI-Components](https://github.com/jareer12/Tailwind-Css-UI-Components) - 🚀Source code of all the components of TailwindsUI.
 * 【2022-11-13】[stisla / stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
@@ -534,6 +567,7 @@
 
 ## Css
 
+* 【2022-11-14】[tailscale / golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 * 【2022-11-13】[s0 / leaf-browser](https://github.com/s0/leaf-browser) - An Experimental Browser UI
 * 【2022-11-13】[shurcooL / gofontwoff](https://github.com/shurcooL/gofontwoff) - Package gofontwoff provides the Go font family in Web Open Font Format.
 * 【2022-11-13】[Mr-majifu / Animated-Profile-Card](https://github.com/Mr-majifu/Animated-Profile-Card) - Animated Profile Card（动画资料卡片） CSS + JavaScript
@@ -572,6 +606,11 @@
 
 ## Unknown
 
+* 【2022-11-14】[sehno / Bug-bounty](https://github.com/sehno/Bug-bounty) - Ressources for bug bounty hunting
+* 【2022-11-14】[ruesandora / ExordeLabs](https://github.com/ruesandora/ExordeLabs) - 
+* 【2022-11-14】[VoronDesign / Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
+* 【2022-11-14】[fabacab / awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+* 【2022-11-14】[dotnet / dotnet](https://github.com/dotnet/dotnet) - Home of .NET's Virtual Monolithic Repository. Includes all the code needed to build the .NET SDK from source.
 * 【2022-11-13】[4ndersonLin / awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️Awesome Cloud Security Resources⚔️
 * 【2022-11-13】[w4123 / GenshinVoice](https://github.com/w4123/GenshinVoice) - Voice dataset of Genshin Impact 原神语音数据集
 * 【2022-11-13】[Jacqueline712 / vue3-api](https://github.com/Jacqueline712/vue3-api) - 整理vue3API相关思维导图~
