@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-11-15】[ChristianLempa / dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
+* 【2022-11-15】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
+* 【2022-11-15】[AlexFlipnote / GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
 * 【2022-11-14】[bevyengine / bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 * 【2022-11-14】[tokio-rs / axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 * 【2022-11-14】[github / hubot-sans](https://github.com/github/hubot-sans) - Hubot Sans, a variable font from GitHub
@@ -108,6 +111,8 @@
 
 ## Java
 
+* 【2022-11-15】[stacksimplify / aws-eks-kubernetes-masterclass](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass) - AWS EKS Kubernetes - Masterclass | DevOps, Microservices
+* 【2022-11-15】[gaodayu168 / datasophon](https://github.com/gaodayu168/datasophon) - 
 * 【2022-11-14】[zaboople / klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
 * 【2022-11-14】[Mahmud0808 / Iconify](https://github.com/Mahmud0808/Iconify) - An android application to customize your boring Android UI
 * 【2022-11-13】[alibaba / dragonwell8](https://github.com/alibaba/dragonwell8) - Alibaba Dragonwell8 JDK
@@ -150,6 +155,11 @@
 
 ## Python
 
+* 【2022-11-15】[jasonstrimpel / volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
+* 【2022-11-15】[thewhiteh4t / nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
+* 【2022-11-15】[jessevig / bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
+* 【2022-11-15】[lmcinnes / umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
+* 【2022-11-15】[Zpipishrimp / EU](https://github.com/Zpipishrimp/EU) - 续签德鸡
 * 【2022-11-14】[Sygil-Dev / sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 * 【2022-11-14】[shashank-ineuron / Python-Class](https://github.com/shashank-ineuron/Python-Class) - 
 * 【2022-11-13】[DaCoolOne / DumbIdeas](https://github.com/DaCoolOne/DumbIdeas) - 
@@ -233,6 +243,11 @@
 
 ## Javascript
 
+* 【2022-11-15】[actualbudget / actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+* 【2022-11-15】[discordjs / guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
+* 【2022-11-15】[SamPandey001 / Secktor-Md](https://github.com/SamPandey001/Secktor-Md) - Secktor,A Multi-functional multi device whatsapp bot with 10+ Anime themes whatsapp bot md.
+* 【2022-11-15】[electerm / electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win)
+* 【2022-11-15】[liangfenxiaodao / snapshot-voting](https://github.com/liangfenxiaodao/snapshot-voting) - 
 * 【2022-11-14】[adrianhajdin / portfolio_website](https://github.com/adrianhajdin/portfolio_website) - Tutorial created by Enyel Sequeira, taught by JavaScript Mastery
 * 【2022-11-14】[hackermondev / discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 * 【2022-11-14】[nextcloud / recognize](https://github.com/nextcloud/recognize) - 👁👂Smart media tagging for Nextcloud: recognizes faces, objects, landscapes, music genres
@@ -299,6 +314,12 @@
 
 ## Go
 
+* 【2022-11-15】[alpkeskin / mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
+* 【2022-11-15】[create-go-app / cli](https://github.com/create-go-app/cli) - ✨Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
+* 【2022-11-15】[crawlab-team / crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+* 【2022-11-15】[beego / beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language.
+* 【2022-11-15】[bitepeng / b0pass](https://github.com/bitepeng/b0pass) - 百灵快传：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
+* 【2022-11-15】[Ehco1996 / ehco](https://github.com/Ehco1996/ehco) - ehco is a network ʚrelayɞ tool and a typo :)
 * 【2022-11-14】[nikoksr / notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 * 【2022-11-14】[alecthomas / chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 * 【2022-11-13】[hashicorp / hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -400,6 +421,8 @@
 
 ## C++
 
+* 【2022-11-15】[ugpu / libcore](https://github.com/ugpu/libcore) - base lib for linux
+* 【2022-11-15】[cs1ime / sehcall](https://github.com/cs1ime/sehcall) - Windows X64 mode use seh in manual mapped dll or manual mapped sys
 * 【2022-11-14】[SnapDragon64 / ACMFinalsSolutions](https://github.com/SnapDragon64/ACMFinalsSolutions) - SnapDragon's solutions for the ACM ICPC World Finals problems.
 * 【2022-11-14】[me-no-dev / ESPAsyncWebServer](https://github.com/me-no-dev/ESPAsyncWebServer) - Async Web Server for ESP8266 and ESP32
 * 【2022-11-14】[EdVince / Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++
@@ -449,6 +472,10 @@
 
 ## C#
 
+* 【2022-11-15】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - ASP.NET Core API with JWT authentication and authorization
+* 【2022-11-15】[TelegramBots / Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
+* 【2022-11-15】[brminnick / AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
+* 【2022-11-15】[mgth / LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
 * 【2022-11-14】[Unity-Technologies / com.unity.demoteam.mesh-to-sdf](https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf) - A light and fast real-time SDF generator, primarily for animated characters. The dynamic SDF can be used for all sorts of VFX. Also enables hair-to-character collisions in the new hair package.
 * 【2022-11-14】[kwsch / PKHeX.Mobile](https://github.com/kwsch/PKHeX.Mobile) - Pokémon save editor for Android and iOS!
 * 【2022-11-14】[DDWSdwqdq / VNREX](https://github.com/DDWSdwqdq/VNREX) - GAL翻译器、离线OCR、离线TTS
@@ -502,6 +529,8 @@
 
 ## Html
 
+* 【2022-11-15】[XuanRanDev / LoveCode](https://github.com/XuanRanDev/LoveCode) - 李峋的爱心代码，附演示站。http://love.wjl.xuanran.cc http://love2.wjl.xuanran.cc
+* 【2022-11-15】[NueXini / NueXini_Packages](https://github.com/NueXini/NueXini_Packages) - Packages for OpenWrt【每日更新luci-app OpenWrt Packages】
 * 【2022-11-14】[education / PR-Patches-Campus-Party](https://github.com/education/PR-Patches-Campus-Party) - PR-Patches-Campus-Party
 * 【2022-11-14】[PurpleI2P / i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle
 * 【2022-11-13】[elixir-europe / biohackathon-projects-2022](https://github.com/elixir-europe/biohackathon-projects-2022) - Project code for BioHackathon Europe 2022.
@@ -567,6 +596,9 @@
 
 ## Css
 
+* 【2022-11-15】[ayusharma / birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
+* 【2022-11-15】[rayashi / simple-login](https://github.com/rayashi/simple-login) - Simple tela de login
+* 【2022-11-15】[maxchehab / CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 * 【2022-11-14】[tailscale / golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets
 * 【2022-11-13】[s0 / leaf-browser](https://github.com/s0/leaf-browser) - An Experimental Browser UI
 * 【2022-11-13】[shurcooL / gofontwoff](https://github.com/shurcooL/gofontwoff) - Package gofontwoff provides the Go font family in Web Open Font Format.
@@ -606,6 +638,9 @@
 
 ## Unknown
 
+* 【2022-11-15】[Fechin / reference](https://github.com/Fechin/reference) - Share quick reference cheat sheet for developers.
+* 【2022-11-15】[kongruksiamza / programmer-class-room](https://github.com/kongruksiamza/programmer-class-room) - เอกสารประกอบการสอนทุกเนื้อหาในช่องยูทูป KongRuksiam Official
+* 【2022-11-15】[CyberSecurityUP / Guide-CEH-Practical-Master](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master) - 
 * 【2022-11-14】[sehno / Bug-bounty](https://github.com/sehno/Bug-bounty) - Ressources for bug bounty hunting
 * 【2022-11-14】[ruesandora / ExordeLabs](https://github.com/ruesandora/ExordeLabs) - 
 * 【2022-11-14】[VoronDesign / Voron-2](https://github.com/VoronDesign/Voron-2) - Voron 2 CoreXY 3D Printer design
