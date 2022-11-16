@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2022-11-16】[godot-rust / gdextension](https://github.com/godot-rust/gdextension) - 
 * 【2022-11-15】[ChristianLempa / dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 * 【2022-11-15】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
 * 【2022-11-15】[AlexFlipnote / GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge) - Pretty simple Discord bot to get the active developer badge
@@ -155,6 +156,15 @@
 
 ## Python
 
+* 【2022-11-16】[7eu7d7 / DreamArtist-stable-diffusion](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
+* 【2022-11-16】[7eu7d7 / DreamArtist-sd-webui-extension](https://github.com/7eu7d7/DreamArtist-sd-webui-extension) - DreamArtist for Stable-Diffusion-webui extension
+* 【2022-11-16】[andrewgodwin / takahe](https://github.com/andrewgodwin/takahe) - An ActivityPub/Fediverse server
+* 【2022-11-16】[autonomousvision / unimatch](https://github.com/autonomousvision/unimatch) - Unifying Flow, Stereo and Depth Estimation
+* 【2022-11-16】[clovaai / donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
+* 【2022-11-16】[datawhalechina / vced](https://github.com/datawhalechina/vced) - VCED 可以通过你的文字描述来自动识别视频中相符合的片段进行视频剪辑。该项目基于跨模态搜索与向量检索技术搭建，通过前后端分离的模式，帮助你快速的接触新一代搜索技术。
+* 【2022-11-16】[princewen / tensorflow_practice](https://github.com/princewen/tensorflow_practice) - tensorflow实战练习，包括强化学习、推荐系统、nlp等
+* 【2022-11-16】[OFA-Sys / Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
+* 【2022-11-16】[xzajyjs / ThunderSearch](https://github.com/xzajyjs/ThunderSearch) - 【支持Fofa、Zoomeye、Quake等网络空间搜索引擎】闪电搜索器；GUI图形化渗透测试信息搜集工具；资产搜集引擎
 * 【2022-11-15】[jasonstrimpel / volatility-trading](https://github.com/jasonstrimpel/volatility-trading) - A complete set of volatility estimators based on Euan Sinclair's Volatility Trading
 * 【2022-11-15】[thewhiteh4t / nexfil](https://github.com/thewhiteh4t/nexfil) - OSINT tool for finding profiles by username
 * 【2022-11-15】[jessevig / bertviz](https://github.com/jessevig/bertviz) - BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.)
@@ -243,6 +253,7 @@
 
 ## Javascript
 
+* 【2022-11-16】[isaacs / minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 * 【2022-11-15】[actualbudget / actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 * 【2022-11-15】[discordjs / guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
 * 【2022-11-15】[SamPandey001 / Secktor-Md](https://github.com/SamPandey001/Secktor-Md) - Secktor,A Multi-functional multi device whatsapp bot with 10+ Anime themes whatsapp bot md.
@@ -314,6 +325,9 @@
 
 ## Go
 
+* 【2022-11-16】[mikefarah / yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+* 【2022-11-16】[alibaba / RedisShake](https://github.com/alibaba/RedisShake) - redis-shake is a tool for Redis data migration and data filtering. redis-shake 是一个用于 Redis 数据迁移与过滤的工具。
+* 【2022-11-16】[smartwalle / alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
 * 【2022-11-15】[alpkeskin / mosint](https://github.com/alpkeskin/mosint) - An automated e-mail OSINT tool
 * 【2022-11-15】[create-go-app / cli](https://github.com/create-go-app/cli) - ✨Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
 * 【2022-11-15】[crawlab-team / crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
@@ -372,6 +386,10 @@
 
 ## C
 
+* 【2022-11-16】[FelixKratz / SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
+* 【2022-11-16】[GoldHEN / GoldHEN_Cheat_Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager) - GoldHEN Cheats Manager
+* 【2022-11-16】[Jaysmito101 / cgl](https://github.com/Jaysmito101/cgl) - CGL (C Game Library) is a multipurpose library mainly for recreational coding / demo scenes / prototyping / small games / experimentation.
+* 【2022-11-16】[Richard-Tang / CrossC2-C2Profile](https://github.com/Richard-Tang/CrossC2-C2Profile) - CrossC2通信协议API实现
 * 【2022-11-14】[vanhauser-thc / thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra
 * 【2022-11-14】[albfan / miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 * 【2022-11-14】[Mange / rtl8192eu-linux-driver](https://github.com/Mange/rtl8192eu-linux-driver) - Drivers for the rtl8192eu chipset for wireless adapters (D-Link DWA-131 rev E1 included!)
@@ -421,6 +439,11 @@
 
 ## C++
 
+* 【2022-11-16】[NVIDIA-ISAAC-ROS / isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) - Visual odometry package based on hardware-accelerated NVIDIA Elbrus library with world class quality and performance.
+* 【2022-11-16】[lumapu / ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters
+* 【2022-11-16】[Apricity001 / High-Level-Data-Structure](https://github.com/Apricity001/High-Level-Data-Structure) - 
+* 【2022-11-16】[Apricity001 / SkipList_server_client](https://github.com/Apricity001/SkipList_server_client) - 
+* 【2022-11-16】[Youlor / unpacker](https://github.com/Youlor/unpacker) - 基于ART主动调用的脱壳机
 * 【2022-11-15】[ugpu / libcore](https://github.com/ugpu/libcore) - base lib for linux
 * 【2022-11-15】[cs1ime / sehcall](https://github.com/cs1ime/sehcall) - Windows X64 mode use seh in manual mapped dll or manual mapped sys
 * 【2022-11-14】[SnapDragon64 / ACMFinalsSolutions](https://github.com/SnapDragon64/ACMFinalsSolutions) - SnapDragon's solutions for the ACM ICPC World Finals problems.
@@ -472,6 +495,8 @@
 
 ## C#
 
+* 【2022-11-16】[reveng007 / SharpGmailC2](https://github.com/reveng007/SharpGmailC2) - Our Friendly Gmail will act as Server and implant will exfiltrate data via smtp and will read commands from C2 (Gmail) via imap protocol
+* 【2022-11-16】[UnityTechnologies / open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 * 【2022-11-15】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - ASP.NET Core API with JWT authentication and authorization
 * 【2022-11-15】[TelegramBots / Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) - .NET Client for Telegram Bot API
 * 【2022-11-15】[brminnick / AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
@@ -529,6 +554,10 @@
 
 ## Html
 
+* 【2022-11-16】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
+* 【2022-11-16】[NebulaServices / Nebula](https://github.com/NebulaServices/Nebula) - Nebula Web is a stunning and sleek web proxy with support for hundreds of popular sites.
+* 【2022-11-16】[hanktom18 / ichigua](https://github.com/hanktom18/ichigua) - 吃瓜视频
+* 【2022-11-16】[wfya / wfya.github.io](https://github.com/wfya/wfya.github.io) - this is my product
 * 【2022-11-15】[XuanRanDev / LoveCode](https://github.com/XuanRanDev/LoveCode) - 李峋的爱心代码，附演示站。http://love.wjl.xuanran.cc http://love2.wjl.xuanran.cc
 * 【2022-11-15】[NueXini / NueXini_Packages](https://github.com/NueXini/NueXini_Packages) - Packages for OpenWrt【每日更新luci-app OpenWrt Packages】
 * 【2022-11-14】[education / PR-Patches-Campus-Party](https://github.com/education/PR-Patches-Campus-Party) - PR-Patches-Campus-Party
@@ -596,6 +625,9 @@
 
 ## Css
 
+* 【2022-11-16】[tobiasahlin / SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+* 【2022-11-16】[evildmp / diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
+* 【2022-11-16】[codeminton / purple-login-page](https://github.com/codeminton/purple-login-page) - YouTube Video
 * 【2022-11-15】[ayusharma / birthday](https://github.com/ayusharma/birthday) - A Happy Birthday animation design in CSS3, HTML5
 * 【2022-11-15】[rayashi / simple-login](https://github.com/rayashi/simple-login) - Simple tela de login
 * 【2022-11-15】[maxchehab / CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
@@ -638,6 +670,10 @@
 
 ## Unknown
 
+* 【2022-11-16】[rolohaun / Rook](https://github.com/rolohaun/Rook) - 
+* 【2022-11-16】[ruesandora / gitopia](https://github.com/ruesandora/gitopia) - 
+* 【2022-11-16】[servo / servo](https://github.com/servo/servo) - The Servo Browser Engine
+* 【2022-11-16】[zihan987 / wsl2-config](https://github.com/zihan987/wsl2-config) - About WSL2 config.
 * 【2022-11-15】[Fechin / reference](https://github.com/Fechin/reference) - Share quick reference cheat sheet for developers.
 * 【2022-11-15】[kongruksiamza / programmer-class-room](https://github.com/kongruksiamza/programmer-class-room) - เอกสารประกอบการสอนทุกเนื้อหาในช่องยูทูป KongRuksiam Official
 * 【2022-11-15】[CyberSecurityUP / Guide-CEH-Practical-Master](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master) - 
