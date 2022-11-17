@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-11-17】[openblocks-dev / openblocks](https://github.com/openblocks-dev/openblocks) - ✨The open-source Retool alternative
+* 【2022-11-17】[jackluson / fund-morning-star-crawler](https://github.com/jackluson/fund-morning-star-crawler) - 中国场外基金数据爬取&汇总分析
+* 【2022-11-17】[131250208 / FunnyToys](https://github.com/131250208/FunnyToys) - 放一些有趣的code
+* 【2022-11-17】[alibaba / lowcode-demo](https://github.com/alibaba/lowcode-demo) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 * 【2022-11-16】[godot-rust / gdextension](https://github.com/godot-rust/gdextension) - 
 * 【2022-11-15】[ChristianLempa / dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.
 * 【2022-11-15】[aleixrodriala / wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
@@ -112,6 +116,9 @@
 
 ## Java
 
+* 【2022-11-17】[dhslrl321 / cqrs-journey-guide-korean](https://github.com/dhslrl321/cqrs-journey-guide-korean) - 🚘CQRS Journey 의 한글 번역본 (Korean version translation of Microsoft's CQRS Journey)
+* 【2022-11-17】[sanshengshui / netty-learning-example](https://github.com/sanshengshui/netty-learning-example) - 🥚Netty实践学习案例，见微知著！带着你的心，跟着教程。我相信你行欧。
+* 【2022-11-17】[kongzue / DialogX](https://github.com/kongzue/DialogX) - 💬DialogX对话框组件库，更加方便易用，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有Material You、iOS、MIUI等主题扩展可选
 * 【2022-11-15】[stacksimplify / aws-eks-kubernetes-masterclass](https://github.com/stacksimplify/aws-eks-kubernetes-masterclass) - AWS EKS Kubernetes - Masterclass | DevOps, Microservices
 * 【2022-11-15】[gaodayu168 / datasophon](https://github.com/gaodayu168/datasophon) - 
 * 【2022-11-14】[zaboople / klonk](https://github.com/zaboople/klonk) - A text editor with an sort-of-unusual undo/redo algorithm
@@ -156,6 +163,12 @@
 
 ## Python
 
+* 【2022-11-17】[vwxyzjn / cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
+* 【2022-11-17】[sktime / sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
+* 【2022-11-17】[PyCQA / flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+* 【2022-11-17】[lucidrains / audiolm-pytorch](https://github.com/lucidrains/audiolm-pytorch) - Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch
+* 【2022-11-17】[Yelp / detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+* 【2022-11-17】[limoruirui / misaka](https://github.com/limoruirui/misaka) - 开源的一些乱七八糟的东西
 * 【2022-11-16】[7eu7d7 / DreamArtist-stable-diffusion](https://github.com/7eu7d7/DreamArtist-stable-diffusion) - stable diffusion webui with contrastive prompt tuning
 * 【2022-11-16】[7eu7d7 / DreamArtist-sd-webui-extension](https://github.com/7eu7d7/DreamArtist-sd-webui-extension) - DreamArtist for Stable-Diffusion-webui extension
 * 【2022-11-16】[andrewgodwin / takahe](https://github.com/andrewgodwin/takahe) - An ActivityPub/Fediverse server
@@ -253,6 +266,10 @@
 
 ## Javascript
 
+* 【2022-11-17】[sweetalert2 / sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+* 【2022-11-17】[yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️Front End interview preparation materials for busy engineers
+* 【2022-11-17】[invertase / react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
+* 【2022-11-17】[VideoData / DY-Data](https://github.com/VideoData/DY-Data) - 抖音搜索、抖音Api、抖音直播Api、抖音评论采集、抖音弹幕、抖音采集、抖音爬虫、抖音去水印、抖音下载、抖音解析抖音爬虫源码、抖音去水印源码、抖音解析源码、抖音桌面批量去水印工具源码、抖音快手视频剪辑去重工具源码、直播间送礼、粉丝团
 * 【2022-11-16】[isaacs / minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 * 【2022-11-15】[actualbudget / actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 * 【2022-11-15】[discordjs / guide](https://github.com/discordjs/guide) - The official guide for discord.js, created and maintained by core members of its community
@@ -325,6 +342,12 @@
 
 ## Go
 
+* 【2022-11-17】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
+* 【2022-11-17】[sibprogrammer / xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
+* 【2022-11-17】[google / uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+* 【2022-11-17】[pingc0y / go_proxy_pool](https://github.com/pingc0y/go_proxy_pool) - 无环境依赖开箱即用的代理IP池
+* 【2022-11-17】[djhons / ssSocks5](https://github.com/djhons/ssSocks5) - 魔改shadowsocks，实现socks5内网穿透。
+* 【2022-11-17】[r00tSe7en / ShadowlessFeet](https://github.com/r00tSe7en/ShadowlessFeet) - 无影脚 - 命令行下的日志文件处理工具
 * 【2022-11-16】[mikefarah / yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 * 【2022-11-16】[alibaba / RedisShake](https://github.com/alibaba/RedisShake) - redis-shake is a tool for Redis data migration and data filtering. redis-shake 是一个用于 Redis 数据迁移与过滤的工具。
 * 【2022-11-16】[smartwalle / alipay](https://github.com/smartwalle/alipay) - 支付宝 AliPay SDK for Go, 集成简单，功能完善，持续更新，支持公钥证书和普通公钥进行签名和验签。
@@ -386,6 +409,8 @@
 
 ## C
 
+* 【2022-11-17】[kimmobrunfeldt / eink-weather-display](https://github.com/kimmobrunfeldt/eink-weather-display) - Battery-powered E-Ink weather display for our home.
+* 【2022-11-17】[rxi / log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99
 * 【2022-11-16】[FelixKratz / SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
 * 【2022-11-16】[GoldHEN / GoldHEN_Cheat_Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager) - GoldHEN Cheats Manager
 * 【2022-11-16】[Jaysmito101 / cgl](https://github.com/Jaysmito101/cgl) - CGL (C Game Library) is a multipurpose library mainly for recreational coding / demo scenes / prototyping / small games / experimentation.
@@ -439,6 +464,8 @@
 
 ## C++
 
+* 【2022-11-17】[google / snappy](https://github.com/google/snappy) - A fast compressor/decompressor
+* 【2022-11-17】[zhongyang219 / SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
 * 【2022-11-16】[NVIDIA-ISAAC-ROS / isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) - Visual odometry package based on hardware-accelerated NVIDIA Elbrus library with world class quality and performance.
 * 【2022-11-16】[lumapu / ahoy](https://github.com/lumapu/ahoy) - Various tools, examples, and documentation for communicating with Hoymiles microinverters
 * 【2022-11-16】[Apricity001 / High-Level-Data-Structure](https://github.com/Apricity001/High-Level-Data-Structure) - 
@@ -495,6 +522,10 @@
 
 ## C#
 
+* 【2022-11-17】[heathbm / BatchPool](https://github.com/heathbm/BatchPool) - The one-stop generic task batching and management library
+* 【2022-11-17】[dvf / blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
+* 【2022-11-17】[lele8 / SharpUserIP](https://github.com/lele8/SharpUserIP) - 在域控或远程提取登录日志，快速获取域用户对应的IP地址
+* 【2022-11-17】[CHKZL / DDTV](https://github.com/CHKZL/DDTV) - 可进行B站(bilibili live)直播多窗口观看、开播提醒、自动录制、合并、转码的跨平台工具
 * 【2022-11-16】[reveng007 / SharpGmailC2](https://github.com/reveng007/SharpGmailC2) - Our Friendly Gmail will act as Server and implant will exfiltrate data via smtp and will read commands from C2 (Gmail) via imap protocol
 * 【2022-11-16】[UnityTechnologies / open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 * 【2022-11-15】[davidfowl / TodoApi](https://github.com/davidfowl/TodoApi) - ASP.NET Core API with JWT authentication and authorization
@@ -554,6 +585,12 @@
 
 ## Html
 
+* 【2022-11-17】[OWASP / www-project-vulnerable-flask-app](https://github.com/OWASP/www-project-vulnerable-flask-app) - OWASP Foundation Web Respository
+* 【2022-11-17】[titaniumnetwork-dev / Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
+* 【2022-11-17】[Mr-Wang-Y-P / lesson_my](https://github.com/Mr-Wang-Y-P/lesson_my) - 全栈学习
+* 【2022-11-17】[huawuque404 / Love-code](https://github.com/huawuque404/Love-code) - ❤️爱心代码集合
+* 【2022-11-17】[lijianglong0506 / lesson_my](https://github.com/lijianglong0506/lesson_my) - 全栈学习
+* 【2022-11-17】[cubxxw / cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚菜鸟成长手册🚀CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰
 * 【2022-11-16】[nunocoracao / blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 * 【2022-11-16】[NebulaServices / Nebula](https://github.com/NebulaServices/Nebula) - Nebula Web is a stunning and sleek web proxy with support for hundreds of popular sites.
 * 【2022-11-16】[hanktom18 / ichigua](https://github.com/hanktom18/ichigua) - 吃瓜视频
@@ -625,6 +662,10 @@
 
 ## Css
 
+* 【2022-11-17】[BuckyMaler / global](https://github.com/BuckyMaler/global) - HTML5 website template
+* 【2022-11-17】[hogeschoolnovi / frontend-react-fruit-perfection](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection) - EdHub material
+* 【2022-11-17】[ricpelo / tienda2223](https://github.com/ricpelo/tienda2223) - 
+* 【2022-11-17】[AntonVanke / Typora-Cement-Theme](https://github.com/AntonVanke/Typora-Cement-Theme) - Typora theme: Cement.
 * 【2022-11-16】[tobiasahlin / SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 * 【2022-11-16】[evildmp / diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
 * 【2022-11-16】[codeminton / purple-login-page](https://github.com/codeminton/purple-login-page) - YouTube Video
@@ -670,6 +711,11 @@
 
 ## Unknown
 
+* 【2022-11-17】[sathishvj / awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
+* 【2022-11-17】[ninakali / chip_scavenger](https://github.com/ninakali/chip_scavenger) - 
+* 【2022-11-17】[Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
+* 【2022-11-17】[OpenGVLab / InternImage](https://github.com/OpenGVLab/InternImage) - 
+* 【2022-11-17】[mahavivo / english-wordlists](https://github.com/mahavivo/english-wordlists) - 常用英语词汇表
 * 【2022-11-16】[rolohaun / Rook](https://github.com/rolohaun/Rook) - 
 * 【2022-11-16】[ruesandora / gitopia](https://github.com/ruesandora/gitopia) - 
 * 【2022-11-16】[servo / servo](https://github.com/servo/servo) - The Servo Browser Engine
