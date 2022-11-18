@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-11-18】[GreptimeTeam / greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database.
+* 【2022-11-18】[facebook / sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
+* 【2022-11-18】[maateusilva / o-poder-do-js-recursos](https://github.com/maateusilva/o-poder-do-js-recursos) - 
+* 【2022-11-18】[paperswithcode / galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
+* 【2022-11-18】[atelier-anchor / smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+* 【2022-11-18】[SHI-Labs / OneFormer](https://github.com/SHI-Labs/OneFormer) - [Preprint] OneFormer: One Transformer to Rule Universal Image Segmentation, 2022
 * 【2022-11-17】[openblocks-dev / openblocks](https://github.com/openblocks-dev/openblocks) - ✨The open-source Retool alternative
 * 【2022-11-17】[jackluson / fund-morning-star-crawler](https://github.com/jackluson/fund-morning-star-crawler) - 中国场外基金数据爬取&汇总分析
 * 【2022-11-17】[131250208 / FunnyToys](https://github.com/131250208/FunnyToys) - 放一些有趣的code
@@ -116,6 +122,9 @@
 
 ## Java
 
+* 【2022-11-18】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥EhViewer-NekoInverter [白E] [DEPRECATED]
+* 【2022-11-18】[WhiteHSBG / JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit) - 对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
+* 【2022-11-18】[MoshiCoCo / Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - 一个用 Java 实现的 Apple 商店库存监控,支持bark,dingtalk，微信等方式推送实时库存信息。目前支持中国和日本地区。An Apple store inventory monitoring implemented in Java, supports bark, dingtalk, WeChat and other methods to push real-time inventory information. Currently supports China and Japan regions.
 * 【2022-11-17】[dhslrl321 / cqrs-journey-guide-korean](https://github.com/dhslrl321/cqrs-journey-guide-korean) - 🚘CQRS Journey 의 한글 번역본 (Korean version translation of Microsoft's CQRS Journey)
 * 【2022-11-17】[sanshengshui / netty-learning-example](https://github.com/sanshengshui/netty-learning-example) - 🥚Netty实践学习案例，见微知著！带着你的心，跟着教程。我相信你行欧。
 * 【2022-11-17】[kongzue / DialogX](https://github.com/kongzue/DialogX) - 💬DialogX对话框组件库，更加方便易用，可自定义程度更高，扩展性更强，轻松实现各种对话框、菜单和提示效果，更有Material You、iOS、MIUI等主题扩展可选
@@ -163,6 +172,11 @@
 
 ## Python
 
+* 【2022-11-18】[t3l3machus / Villain](https://github.com/t3l3machus/Villain) - Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
+* 【2022-11-18】[django-cms / django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+* 【2022-11-18】[dongrixinyu / JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
+* 【2022-11-18】[HFrost0 / bilix](https://github.com/HFrost0/bilix) - ⚡️快如闪电的bilibili下载工具，基于Python现代Async特性，高速批量下载整部动漫，电视剧，up投稿等。现已支持抖音等更多站点
+* 【2022-11-18】[XuanRanDev / Auto-GongXueYun](https://github.com/XuanRanDev/Auto-GongXueYun) - 😴蘑菇丁 & 工学云每日自动打卡、支持多用户、自定义地区与时间、免服务器部署。
 * 【2022-11-17】[vwxyzjn / cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG)
 * 【2022-11-17】[sktime / sktime](https://github.com/sktime/sktime) - A unified framework for machine learning with time series
 * 【2022-11-17】[PyCQA / flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
@@ -266,6 +280,11 @@
 
 ## Javascript
 
+* 【2022-11-18】[SuperIlu / DOStodon](https://github.com/SuperIlu/DOStodon) - MS-DOS Mastodon client
+* 【2022-11-18】[Animationking11 / unblockedgames](https://github.com/Animationking11/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ PacMan ~ Tetris ~ Sans ~ Pong
+* 【2022-11-18】[YoYoGames / GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5) - GameMaker HTML5 runtime
+* 【2022-11-18】[jiangqizheng / BlueSea](https://github.com/jiangqizheng/BlueSea) - BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...
+* 【2022-11-18】[wuchangming / spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 * 【2022-11-17】[sweetalert2 / sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 * 【2022-11-17】[yangshun / front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - ⚡️Front End interview preparation materials for busy engineers
 * 【2022-11-17】[invertase / react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
@@ -342,6 +361,8 @@
 
 ## Go
 
+* 【2022-11-18】[chainreactors / gogo](https://github.com/chainreactors/gogo) - 
+* 【2022-11-18】[gdy666 / lucky](https://github.com/gdy666/lucky) - ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒...
 * 【2022-11-17】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 * 【2022-11-17】[sibprogrammer / xq](https://github.com/sibprogrammer/xq) - Command-line XML and HTML beautifier and content extractor
 * 【2022-11-17】[google / uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
@@ -409,6 +430,11 @@
 
 ## C
 
+* 【2022-11-18】[libfuse / libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
+* 【2022-11-18】[vlcn-io / cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
+* 【2022-11-18】[tomasz-lisowski / swsim](https://github.com/tomasz-lisowski/swsim) - A software-only SIM card.
+* 【2022-11-18】[krenx1983 / openctp](https://github.com/krenx1983/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
+* 【2022-11-18】[Liutos / LiutCL](https://github.com/Liutos/LiutCL) - 主动挖坑并打算努力填坑的一个简陋的Lisp解释器
 * 【2022-11-17】[kimmobrunfeldt / eink-weather-display](https://github.com/kimmobrunfeldt/eink-weather-display) - Battery-powered E-Ink weather display for our home.
 * 【2022-11-17】[rxi / log.c](https://github.com/rxi/log.c) - A simple logging library implemented in C99
 * 【2022-11-16】[FelixKratz / SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement
@@ -464,6 +490,7 @@
 
 ## C++
 
+* 【2022-11-18】[MariaDB / server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
 * 【2022-11-17】[google / snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 * 【2022-11-17】[zhongyang219 / SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
 * 【2022-11-16】[NVIDIA-ISAAC-ROS / isaac_ros_visual_slam](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_visual_slam) - Visual odometry package based on hardware-accelerated NVIDIA Elbrus library with world class quality and performance.
@@ -522,6 +549,10 @@
 
 ## C#
 
+* 【2022-11-18】[microsoft / sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
+* 【2022-11-18】[dotnet / reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
+* 【2022-11-18】[AzureAD / microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
+* 【2022-11-18】[ThatCoders / BILIBILI-AI](https://github.com/ThatCoders/BILIBILI-AI) - 哔哩哔哩(b站B站)自动签到
 * 【2022-11-17】[heathbm / BatchPool](https://github.com/heathbm/BatchPool) - The one-stop generic task batching and management library
 * 【2022-11-17】[dvf / blockchain](https://github.com/dvf/blockchain) - A simple Blockchain in Python
 * 【2022-11-17】[lele8 / SharpUserIP](https://github.com/lele8/SharpUserIP) - 在域控或远程提取登录日志，快速获取域用户对应的IP地址
@@ -585,6 +616,9 @@
 
 ## Html
 
+* 【2022-11-18】[ispacekid / ispacekid.github.io](https://github.com/ispacekid/ispacekid.github.io) - 本站点仅用于展示健康码模拟页面，并非本 Github 用户的个人网站。健康码模拟页面来源：https://github.com/ilovexjp/health-code-index
+* 【2022-11-18】[IBM-EPBL / IBM-Project-40862-1660636795](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795) - Smart Fashion Recommender Application
+* 【2022-11-18】[novice2194 / jgsu_wlcxsys](https://github.com/novice2194/jgsu_wlcxsys) - 井冈山大学--网络创新实验室（GitHub学习
 * 【2022-11-17】[OWASP / www-project-vulnerable-flask-app](https://github.com/OWASP/www-project-vulnerable-flask-app) - OWASP Foundation Web Respository
 * 【2022-11-17】[titaniumnetwork-dev / Incognito-old](https://github.com/titaniumnetwork-dev/Incognito-old) - Access the world wide web with Incognito, a fast and rather fancy proxy service. Enjoy a more private internet session without ads.
 * 【2022-11-17】[Mr-Wang-Y-P / lesson_my](https://github.com/Mr-Wang-Y-P/lesson_my) - 全栈学习
@@ -662,6 +696,8 @@
 
 ## Css
 
+* 【2022-11-18】[dharmikumbhani / buidl.so-frontend-test](https://github.com/dharmikumbhani/buidl.so-frontend-test) - 
+* 【2022-11-18】[nighthawkcoders / spring_portfolio](https://github.com/nighthawkcoders/spring_portfolio) - Tri 1: Java and Spring Intro
 * 【2022-11-17】[BuckyMaler / global](https://github.com/BuckyMaler/global) - HTML5 website template
 * 【2022-11-17】[hogeschoolnovi / frontend-react-fruit-perfection](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection) - EdHub material
 * 【2022-11-17】[ricpelo / tienda2223](https://github.com/ricpelo/tienda2223) - 
@@ -711,6 +747,16 @@
 
 ## Unknown
 
+* 【2022-11-18】[cheatsnake / backend-cheats](https://github.com/cheatsnake/backend-cheats) - 🔰Шпаргалка по бэкенду с картинками и не только
+* 【2022-11-18】[greko6 / xfb2xfb](https://github.com/greko6/xfb2xfb) - by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech & services
+* 【2022-11-18】[eladrich / latent-nerf](https://github.com/eladrich/latent-nerf) - Official Implementation for "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures"
+* 【2022-11-18】[iranxray / hope](https://github.com/iranxray/hope) - 
+* 【2022-11-18】[kuchin / awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+* 【2022-11-18】[Taeyoung96 / Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration) - 😎A current list of LiDAR-IMU calibration method
+* 【2022-11-18】[nusr / hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+* 【2022-11-18】[521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) - Git的奇技淫巧
+* 【2022-11-18】[yonghen / chimi-](https://github.com/yonghen/chimi-) - MIUI13 增强扩展模块 (LSPosed/Xposed) MIUI13 MIUI enhancement extension module
+* 【2022-11-18】[Nasller / LicenseServer](https://github.com/Nasller/LicenseServer) - Intellij plugin
 * 【2022-11-17】[sathishvj / awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources.
 * 【2022-11-17】[ninakali / chip_scavenger](https://github.com/ninakali/chip_scavenger) - 
 * 【2022-11-17】[Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
