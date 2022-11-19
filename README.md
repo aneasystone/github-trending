@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-11-19】[techiescamp / kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
+* 【2022-11-19】[SHI-Labs / Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
+* 【2022-11-19】[Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+* 【2022-11-19】[raminmh / CfC](https://github.com/raminmh/CfC) - Closed-form Continuous-time Neural Networks
+* 【2022-11-19】[herozhou / vue-framework-wz](https://github.com/herozhou/vue-framework-wz) - 👏vue后台管理框架👏
+* 【2022-11-19】[open-mmlab / OpenMMLabCourse](https://github.com/open-mmlab/OpenMMLabCourse) - OpenMMLab course index and materials
 * 【2022-11-18】[GreptimeTeam / greptimedb](https://github.com/GreptimeTeam/greptimedb) - GreptimeDB, an open-source, cloud-native, distributed time-series database.
 * 【2022-11-18】[facebook / sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 * 【2022-11-18】[maateusilva / o-poder-do-js-recursos](https://github.com/maateusilva/o-poder-do-js-recursos) - 
@@ -122,6 +128,7 @@
 
 ## Java
 
+* 【2022-11-19】[woowacourse-precourse / java-bridge](https://github.com/woowacourse-precourse/java-bridge) - 
 * 【2022-11-18】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥EhViewer-NekoInverter [白E] [DEPRECATED]
 * 【2022-11-18】[WhiteHSBG / JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit) - 对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
 * 【2022-11-18】[MoshiCoCo / Apple-Monitor](https://github.com/MoshiCoCo/Apple-Monitor) - 一个用 Java 实现的 Apple 商店库存监控,支持bark,dingtalk，微信等方式推送实时库存信息。目前支持中国和日本地区。An Apple store inventory monitoring implemented in Java, supports bark, dingtalk, WeChat and other methods to push real-time inventory information. Currently supports China and Japan regions.
@@ -172,6 +179,12 @@
 
 ## Python
 
+* 【2022-11-19】[awslabs / autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
+* 【2022-11-19】[zjc062 / mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
+* 【2022-11-19】[salesforce / CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+* 【2022-11-19】[ludwig-ai / ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
+* 【2022-11-19】[thunil / TecoGAN](https://github.com/thunil/TecoGAN) - This repo contains source code and materials for the TEmporally COherent GAN SIGGRAPH project.
+* 【2022-11-19】[LittleBear4 / OA-EXPTOOL](https://github.com/LittleBear4/OA-EXPTOOL) - OA综合利用工具，集合将近20款OA漏洞批量扫描
 * 【2022-11-18】[t3l3machus / Villain](https://github.com/t3l3machus/Villain) - Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.
 * 【2022-11-18】[django-cms / django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 * 【2022-11-18】[dongrixinyu / JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
@@ -280,6 +293,9 @@
 
 ## Javascript
 
+* 【2022-11-19】[cleanlock / VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+* 【2022-11-19】[eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+* 【2022-11-19】[star7th / showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
 * 【2022-11-18】[SuperIlu / DOStodon](https://github.com/SuperIlu/DOStodon) - MS-DOS Mastodon client
 * 【2022-11-18】[Animationking11 / unblockedgames](https://github.com/Animationking11/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ PacMan ~ Tetris ~ Sans ~ Pong
 * 【2022-11-18】[YoYoGames / GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5) - GameMaker HTML5 runtime
@@ -361,6 +377,8 @@
 
 ## Go
 
+* 【2022-11-19】[loft-sh / vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+* 【2022-11-19】[m0ngo0se / HiDll](https://github.com/m0ngo0se/HiDll) - 
 * 【2022-11-18】[chainreactors / gogo](https://github.com/chainreactors/gogo) - 
 * 【2022-11-18】[gdy666 / lucky](https://github.com/gdy666/lucky) - ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒...
 * 【2022-11-17】[hashicorp / golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
@@ -430,6 +448,11 @@
 
 ## C
 
+* 【2022-11-19】[osqzss / gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
+* 【2022-11-19】[teslamotors / liblithium](https://github.com/teslamotors/liblithium) - A lightweight and portable cryptography library.
+* 【2022-11-19】[RedTeamOperations / VEH-PoC](https://github.com/RedTeamOperations/VEH-PoC) - 
+* 【2022-11-19】[ptitSeb / box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+* 【2022-11-19】[tomasz-lisowski / swicc](https://github.com/tomasz-lisowski/swicc) - A framework for creating smart cards (ICC-based cards with contacts).
 * 【2022-11-18】[libfuse / libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 * 【2022-11-18】[vlcn-io / cr-sqlite](https://github.com/vlcn-io/cr-sqlite) - Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite
 * 【2022-11-18】[tomasz-lisowski / swsim](https://github.com/tomasz-lisowski/swsim) - A software-only SIM card.
@@ -490,6 +513,9 @@
 
 ## C++
 
+* 【2022-11-19】[pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src) - yuzu Early Access source code
+* 【2022-11-19】[VictorGordan / opengl-tutorials](https://github.com/VictorGordan/opengl-tutorials) - Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-
+* 【2022-11-19】[airockchip / rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
 * 【2022-11-18】[MariaDB / server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
 * 【2022-11-17】[google / snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 * 【2022-11-17】[zhongyang219 / SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
@@ -549,6 +575,10 @@
 
 ## C#
 
+* 【2022-11-19】[dotnet / format](https://github.com/dotnet/format) - Home for the dotnet-format command
+* 【2022-11-19】[cocoa-mhlw / cocoa](https://github.com/cocoa-mhlw/cocoa) - 
+* 【2022-11-19】[stevencohn / OneMore](https://github.com/stevencohn/OneMore) - A OneNote add-in with simple, yet powerful and useful features
+* 【2022-11-19】[nissl-lab / npoi](https://github.com/nissl-lab/npoi) - a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 * 【2022-11-18】[microsoft / sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 * 【2022-11-18】[dotnet / reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 * 【2022-11-18】[AzureAD / microsoft-identity-web](https://github.com/AzureAD/microsoft-identity-web) - Helps creating protected web apps and web APIs with Microsoft identity platform and Azure AD B2C
@@ -616,6 +646,8 @@
 
 ## Html
 
+* 【2022-11-19】[badtuxx / DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro.
+* 【2022-11-19】[department-of-veterans-affairs / va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) - Public resources for building on and in support of VA.gov. Visit complete Knowledge Hub:
 * 【2022-11-18】[ispacekid / ispacekid.github.io](https://github.com/ispacekid/ispacekid.github.io) - 本站点仅用于展示健康码模拟页面，并非本 Github 用户的个人网站。健康码模拟页面来源：https://github.com/ilovexjp/health-code-index
 * 【2022-11-18】[IBM-EPBL / IBM-Project-40862-1660636795](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795) - Smart Fashion Recommender Application
 * 【2022-11-18】[novice2194 / jgsu_wlcxsys](https://github.com/novice2194/jgsu_wlcxsys) - 井冈山大学--网络创新实验室（GitHub学习
@@ -696,6 +728,11 @@
 
 ## Css
 
+* 【2022-11-19】[frontend-joe / css-navbars](https://github.com/frontend-joe/css-navbars) - Collection of responsive navbars built using HTML, CSS and JavaScript
+* 【2022-11-19】[gitdagray / js_acme_blogs](https://github.com/gitdagray/js_acme_blogs) - 
+* 【2022-11-19】[saucelabs / the-internet](https://github.com/saucelabs/the-internet) - An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.
+* 【2022-11-19】[understrap / understrap](https://github.com/understrap/understrap) - Underscores + Bootstrap = Understrap, the renowned open-source WordPress starter theme.
+* 【2022-11-19】[FilipJirsak-Czechitas / j2w-ukol06](https://github.com/FilipJirsak-Czechitas/j2w-ukol06) - Zadání úkolu č. 7.
 * 【2022-11-18】[dharmikumbhani / buidl.so-frontend-test](https://github.com/dharmikumbhani/buidl.so-frontend-test) - 
 * 【2022-11-18】[nighthawkcoders / spring_portfolio](https://github.com/nighthawkcoders/spring_portfolio) - Tri 1: Java and Spring Intro
 * 【2022-11-17】[BuckyMaler / global](https://github.com/BuckyMaler/global) - HTML5 website template
@@ -747,6 +784,13 @@
 
 ## Unknown
 
+* 【2022-11-19】[matter-labs / awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
+* 【2022-11-19】[raminmr / free-api-worldcup2022](https://github.com/raminmr/free-api-worldcup2022) - Grab your football API data for FIFA World Cup 2022 competition!
+* 【2022-11-19】[OfficeDev / Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
+* 【2022-11-19】[ayaka14732 / awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata | Rime 輸入法方案列表
+* 【2022-11-19】[jobbole / awesome-nodejs-cn](https://github.com/jobbole/awesome-nodejs-cn) - Node.js 资源大全中文版，内容包括：命令行工具、日志、调试、HTTP、构建工具、文件系统、模板、Web 框架、流程控制、文本、图片和数据校验等。由「开源前哨」和「前端大全」微信公号团队维护更新。
+* 【2022-11-19】[lxgw / yozai-font](https://github.com/lxgw/yozai-font) - A Chinese handwriting font derived from YozFont. 一款衍生于 YozFont 的中文手写字型。
+* 【2022-11-19】[rustlang-cn / Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家🌟订阅。
 * 【2022-11-18】[cheatsnake / backend-cheats](https://github.com/cheatsnake/backend-cheats) - 🔰Шпаргалка по бэкенду с картинками и не только
 * 【2022-11-18】[greko6 / xfb2xfb](https://github.com/greko6/xfb2xfb) - by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech & services
 * 【2022-11-18】[eladrich / latent-nerf](https://github.com/eladrich/latent-nerf) - Official Implementation for "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures"
