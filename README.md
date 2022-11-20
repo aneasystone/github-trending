@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-11-20】[ant-design / ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+* 【2022-11-20】[xuxiaodong / usingcli-book](https://github.com/xuxiaodong/usingcli-book) - 像黑客一样使用命令行
+* 【2022-11-20】[Lakr233 / SafariYYDS](https://github.com/Lakr233/SafariYYDS) - 
+* 【2022-11-20】[linhaojun857 / aurora](https://github.com/linhaojun857/aurora) - 基于SpringBoot+Vue开发的个人博客系统
 * 【2022-11-19】[techiescamp / kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 * 【2022-11-19】[SHI-Labs / Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion) - Versatile Diffusion: Text, Images and Variations All in One Diffusion Model, 2022
 * 【2022-11-19】[Kr328 / ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
@@ -179,6 +183,13 @@
 
 ## Python
 
+* 【2022-11-20】[FlagAI-Open / FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
+* 【2022-11-20】[testanull / ProxyNotShell-PoC](https://github.com/testanull/ProxyNotShell-PoC) - 
+* 【2022-11-20】[Gioman101 / FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
+* 【2022-11-20】[adamian98 / pulse](https://github.com/adamian98/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
+* 【2022-11-20】[thebaselab / codeapp](https://github.com/thebaselab/codeapp) - Building a full-fledged code editor for iPad
+* 【2022-11-20】[aws / aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+* 【2022-11-20】[Taonn / EmailAll](https://github.com/Taonn/EmailAll) - EmailAll is a powerful Email Collect tool — 一款强大的邮箱收集工具
 * 【2022-11-19】[awslabs / autogluon](https://github.com/awslabs/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
 * 【2022-11-19】[zjc062 / mind-vis](https://github.com/zjc062/mind-vis) - Code base for MinD-Vis
 * 【2022-11-19】[salesforce / CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
@@ -293,6 +304,7 @@
 
 ## Javascript
 
+* 【2022-11-20】[baiyuwubing / cocos-creator-examples](https://github.com/baiyuwubing/cocos-creator-examples) - cocos creator 一些使用实例
 * 【2022-11-19】[cleanlock / VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 * 【2022-11-19】[eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 * 【2022-11-19】[star7th / showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
@@ -377,6 +389,10 @@
 
 ## Go
 
+* 【2022-11-20】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
+* 【2022-11-20】[kudrykv / latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine🇺🇦https://www.comebackalive.in.ua/
+* 【2022-11-20】[ExpLangcn / EPScan](https://github.com/ExpLangcn/EPScan) - 被动收集资产并自动进行SQL注入检测（插件化 自动Bypass）、XSS检测、RCE检测、敏感信息检测
+* 【2022-11-20】[Goqi / Erfrp](https://github.com/Goqi/Erfrp) - Erfrp-frp二开-免杀与隐藏
 * 【2022-11-19】[loft-sh / vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
 * 【2022-11-19】[m0ngo0se / HiDll](https://github.com/m0ngo0se/HiDll) - 
 * 【2022-11-18】[chainreactors / gogo](https://github.com/chainreactors/gogo) - 
@@ -448,6 +464,11 @@
 
 ## C
 
+* 【2022-11-20】[Xinyuan-LilyGO / T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) - 
+* 【2022-11-20】[SuperIlu / DOjS](https://github.com/SuperIlu/DOjS) - A DOS JavaScript Canvas with sound
+* 【2022-11-20】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+* 【2022-11-20】[yylive / YYEVA-Android](https://github.com/yylive/YYEVA-Android) - 
+* 【2022-11-20】[openLuat / luatos-soc-ec618](https://github.com/openLuat/luatos-soc-ec618) - CSDK for EC618 (Air780E)
 * 【2022-11-19】[osqzss / gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) - Software-Defined GPS Signal Simulator
 * 【2022-11-19】[teslamotors / liblithium](https://github.com/teslamotors/liblithium) - A lightweight and portable cryptography library.
 * 【2022-11-19】[RedTeamOperations / VEH-PoC](https://github.com/RedTeamOperations/VEH-PoC) - 
@@ -575,6 +596,11 @@
 
 ## C#
 
+* 【2022-11-20】[meysamhadeli / awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
+* 【2022-11-20】[0xe7 / WonkaVision](https://github.com/0xe7/WonkaVision) - 
+* 【2022-11-20】[leeveel / GeekServer](https://github.com/leeveel/GeekServer) - 基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器。Best for your unity game server!
+* 【2022-11-20】[sass00n1 / Cable](https://github.com/sass00n1/Cable) - 在Unity中使用Verlet积分模拟绳索
+* 【2022-11-20】[marlkiller / KeyBoardHook](https://github.com/marlkiller/KeyBoardHook) - c# 全局/指定进程HOOK 键盘记录 窗口监听
 * 【2022-11-19】[dotnet / format](https://github.com/dotnet/format) - Home for the dotnet-format command
 * 【2022-11-19】[cocoa-mhlw / cocoa](https://github.com/cocoa-mhlw/cocoa) - 
 * 【2022-11-19】[stevencohn / OneMore](https://github.com/stevencohn/OneMore) - A OneNote add-in with simple, yet powerful and useful features
@@ -646,6 +672,9 @@
 
 ## Html
 
+* 【2022-11-20】[IBM-EPBL / IBM-Project-43162-1660713674](https://github.com/IBM-EPBL/IBM-Project-43162-1660713674) - Personal Expense Tracker Application
+* 【2022-11-20】[mathgames66 / mathgames66.github.io](https://github.com/mathgames66/mathgames66.github.io) - An ad-free, private unblocked games site with daily updates
+* 【2022-11-20】[abshare / abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN
 * 【2022-11-19】[badtuxx / DescomplicandoDocker](https://github.com/badtuxx/DescomplicandoDocker) - Descomplicando o Docker, o livro.
 * 【2022-11-19】[department-of-veterans-affairs / va.gov-team](https://github.com/department-of-veterans-affairs/va.gov-team) - Public resources for building on and in support of VA.gov. Visit complete Knowledge Hub:
 * 【2022-11-18】[ispacekid / ispacekid.github.io](https://github.com/ispacekid/ispacekid.github.io) - 本站点仅用于展示健康码模拟页面，并非本 Github 用户的个人网站。健康码模拟页面来源：https://github.com/ilovexjp/health-code-index
@@ -728,6 +757,7 @@
 
 ## Css
 
+* 【2022-11-20】[Mr-majifu / Animated-Login-Form](https://github.com/Mr-majifu/Animated-Login-Form) - Animated Login Form（动画登录表单）Html CSS JS
 * 【2022-11-19】[frontend-joe / css-navbars](https://github.com/frontend-joe/css-navbars) - Collection of responsive navbars built using HTML, CSS and JavaScript
 * 【2022-11-19】[gitdagray / js_acme_blogs](https://github.com/gitdagray/js_acme_blogs) - 
 * 【2022-11-19】[saucelabs / the-internet](https://github.com/saucelabs/the-internet) - An example application that captures prominent and ugly functionality found on the web. Perfect for writing automated acceptance tests against.
@@ -784,6 +814,14 @@
 
 ## Unknown
 
+* 【2022-11-20】[jellydn / typescript-tips](https://github.com/jellydn/typescript-tips) - A curated list of awesome🔥TypeScript Tips🔥
+* 【2022-11-20】[cryptoc0ding / pancakeswap-sniper-bot](https://github.com/cryptoc0ding/pancakeswap-sniper-bot) - Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star.
+* 【2022-11-20】[zhiwehu / Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
+* 【2022-11-20】[ruesandora / dusk-network](https://github.com/ruesandora/dusk-network) - 
+* 【2022-11-20】[wbkd / awesome-node-based-uis](https://github.com/wbkd/awesome-node-based-uis) - A curated list with resources about node-based UIs
+* 【2022-11-20】[idontlovexjp / health-code-index.bak](https://github.com/idontlovexjp/health-code-index.bak) - 健康码模拟；变态清零，祸国殃民。（备份自 https://github.com/ilovexjp/health-code-index ）新家在此：👇
+* 【2022-11-20】[JdaieLin / health-code-url-scheme](https://github.com/JdaieLin/health-code-url-scheme) - 微信/支付宝健康码小程序 url scheme收集
+* 【2022-11-20】[mayunyi / -](https://github.com/mayunyi/-) - 暗网
 * 【2022-11-19】[matter-labs / awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 * 【2022-11-19】[raminmr / free-api-worldcup2022](https://github.com/raminmr/free-api-worldcup2022) - Grab your football API data for FIFA World Cup 2022 competition!
 * 【2022-11-19】[OfficeDev / Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
