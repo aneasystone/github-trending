@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-11-21】[usememos / memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration.
+* 【2022-11-21】[ShoufaChen / DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
+* 【2022-11-21】[Purp1eW0lf / Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) - You didn't think I'd go and leave the blue team out, right?
+* 【2022-11-21】[mRs- / Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
+* 【2022-11-21】[mastodon / mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
+* 【2022-11-21】[fbelavenuto / arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader
+* 【2022-11-21】[Uniswap / permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑next generation token approvals mechanism
 * 【2022-11-20】[ant-design / ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 * 【2022-11-20】[xuxiaodong / usingcli-book](https://github.com/xuxiaodong/usingcli-book) - 像黑客一样使用命令行
 * 【2022-11-20】[Lakr233 / SafariYYDS](https://github.com/Lakr233/SafariYYDS) - 
@@ -132,6 +139,11 @@
 
 ## Java
 
+* 【2022-11-21】[sky-map-team / stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
+* 【2022-11-21】[nandorojo / burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native.🍞
+* 【2022-11-21】[LMAX-Exchange / disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
+* 【2022-11-21】[krahets / hello-algo](https://github.com/krahets/hello-algo) - 
+* 【2022-11-21】[bit4woo / domain_hunter_pro](https://github.com/bit4woo/domain_hunter_pro) - domain_hunter的高级版本，SRC挖洞、HW打点之必备！自动化资产收集；快速Title获取；外部工具联动；等等
 * 【2022-11-19】[woowacourse-precourse / java-bridge](https://github.com/woowacourse-precourse/java-bridge) - 
 * 【2022-11-18】[EhViewer-NekoInverter / EhViewer](https://github.com/EhViewer-NekoInverter/EhViewer) - 🥥EhViewer-NekoInverter [白E] [DEPRECATED]
 * 【2022-11-18】[WhiteHSBG / JNDIExploit](https://github.com/WhiteHSBG/JNDIExploit) - 对原版https://github.com/feihong-cs/JNDIExploit 进行了实用化修改
@@ -183,6 +195,10 @@
 
 ## Python
 
+* 【2022-11-21】[dabeaz-course / practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
+* 【2022-11-21】[bottlesdevs / Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
+* 【2022-11-21】[420World69 / Tiktok-Unfilter-Api](https://github.com/420World69/Tiktok-Unfilter-Api) - Simple tiktok filter remover and unfiltre
+* 【2022-11-21】[lyghgx / tv](https://github.com/lyghgx/tv) - 
 * 【2022-11-20】[FlagAI-Open / FlagAI](https://github.com/FlagAI-Open/FlagAI) - FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.
 * 【2022-11-20】[testanull / ProxyNotShell-PoC](https://github.com/testanull/ProxyNotShell-PoC) - 
 * 【2022-11-20】[Gioman101 / FlipperAmiibo](https://github.com/Gioman101/FlipperAmiibo) - Made to be used with Flipper just drag the folder into NFC
@@ -304,6 +320,9 @@
 
 ## Javascript
 
+* 【2022-11-21】[arkenfox / user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+* 【2022-11-21】[NEST-Protocol / NEST-Oracle-V4.0](https://github.com/NEST-Protocol/NEST-Oracle-V4.0) - The NEST Oracle Smart Contract 4.0 is a solidity smart contract implementation of NEST Protocol which provide a unique on-chain Price Oracle through a decentralized mechanism. And it's opening for Everyone to open a PriceChannel.
+* 【2022-11-21】[leoxiaoping / pbottleRPA](https://github.com/leoxiaoping/pbottleRPA) - 小瓶RPA 永久免费（含商用）RPA软件系统。 像挂QQ一样使用简单的RPA软件。 显著降本增效 & 工作100%准确 & 非侵入式集成。
 * 【2022-11-20】[baiyuwubing / cocos-creator-examples](https://github.com/baiyuwubing/cocos-creator-examples) - cocos creator 一些使用实例
 * 【2022-11-19】[cleanlock / VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 * 【2022-11-19】[eligrey / FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
@@ -389,6 +408,11 @@
 
 ## Go
 
+* 【2022-11-21】[flashbots / builder](https://github.com/flashbots/builder) - Flashbots mev-boost block builder
+* 【2022-11-21】[j3ssie / osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
+* 【2022-11-21】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+* 【2022-11-21】[xi-mad / colourful](https://github.com/xi-mad/colourful) - 百度网盘自动补档：自动检测百度网盘分享是否过期，并自动新建分享
+* 【2022-11-21】[Ar39 / ipInfo](https://github.com/Ar39/ipInfo) - 通过OXID解析器获取Windows远程主机上网卡地址
 * 【2022-11-20】[minio / minio-go](https://github.com/minio/minio-go) - MinIO Go client SDK for S3 compatible object storage
 * 【2022-11-20】[kudrykv / latex-yearly-planner](https://github.com/kudrykv/latex-yearly-planner) - Digital planner for Supernote and ReMarkable // Support Ukraine🇺🇦https://www.comebackalive.in.ua/
 * 【2022-11-20】[ExpLangcn / EPScan](https://github.com/ExpLangcn/EPScan) - 被动收集资产并自动进行SQL注入检测（插件化 自动Bypass）、XSS检测、RCE检测、敏感信息检测
@@ -464,6 +488,8 @@
 
 ## C
 
+* 【2022-11-21】[liudf0716 / xfrpc](https://github.com/liudf0716/xfrpc) - c 语言实现的内网穿透客户端，配合frp服务端使用。主要用于基于openwrt的路由器上，对路由器的硬件配置要求极低。
+* 【2022-11-21】[havenow / AndroidGameModify](https://github.com/havenow/AndroidGameModify) - 
 * 【2022-11-20】[Xinyuan-LilyGO / T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) - 
 * 【2022-11-20】[SuperIlu / DOjS](https://github.com/SuperIlu/DOjS) - A DOS JavaScript Canvas with sound
 * 【2022-11-20】[coreutils / coreutils](https://github.com/coreutils/coreutils) - upstream mirror
@@ -534,6 +560,13 @@
 
 ## C++
 
+* 【2022-11-21】[Kryptuq / Yuzu-Early-Access-files](https://github.com/Kryptuq/Yuzu-Early-Access-files) - Yuzu EA's here
+* 【2022-11-21】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
+* 【2022-11-21】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+* 【2022-11-21】[Thehone629 / One](https://github.com/Thehone629/One) - 上传个人网站代码展示
+* 【2022-11-21】[kungfu-origin / kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
+* 【2022-11-21】[c1y2m3 / FileSearch](https://github.com/c1y2m3/FileSearch) - C++枚举磁盘列表、遍历指定盘搜索特定类型文件/微信导出密钥,文件回传等功能
+* 【2022-11-21】[richardchien / modern-cmake-by-example](https://github.com/richardchien/modern-cmake-by-example) - IPADS 实验室新人培训第二讲：CMake（2021.11.3）
 * 【2022-11-19】[pineappleEA / pineapple-src](https://github.com/pineappleEA/pineapple-src) - yuzu Early Access source code
 * 【2022-11-19】[VictorGordan / opengl-tutorials](https://github.com/VictorGordan/opengl-tutorials) - Tutorials from the following playlist: https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-
 * 【2022-11-19】[airockchip / rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) - 
@@ -672,6 +705,9 @@
 
 ## Html
 
+* 【2022-11-21】[iaolo / iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
+* 【2022-11-21】[lucthienphong1120 / universe](https://github.com/lucthienphong1120/universe) - code a universe with js
+* 【2022-11-21】[lucifersun / China-Telecom-ShangHai-IPTV-list](https://github.com/lucifersun/China-Telecom-ShangHai-IPTV-list) - 上海电信IPTV播放地址列表
 * 【2022-11-20】[IBM-EPBL / IBM-Project-43162-1660713674](https://github.com/IBM-EPBL/IBM-Project-43162-1660713674) - Personal Expense Tracker Application
 * 【2022-11-20】[mathgames66 / mathgames66.github.io](https://github.com/mathgames66/mathgames66.github.io) - An ad-free, private unblocked games site with daily updates
 * 【2022-11-20】[abshare / abshare.github.io](https://github.com/abshare/abshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN
@@ -757,6 +793,9 @@
 
 ## Css
 
+* 【2022-11-21】[jaenfigueroa / JaenCraft](https://github.com/jaenfigueroa/JaenCraft) - Minecraft Game made with pure css and javascript
+* 【2022-11-21】[uu6 / llxhq](https://github.com/uu6/llxhq) - 流量消耗器,流量消失器,多线程消耗流量,消耗定向流量,流量杀手
+* 【2022-11-21】[meterscao / Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
 * 【2022-11-20】[Mr-majifu / Animated-Login-Form](https://github.com/Mr-majifu/Animated-Login-Form) - Animated Login Form（动画登录表单）Html CSS JS
 * 【2022-11-19】[frontend-joe / css-navbars](https://github.com/frontend-joe/css-navbars) - Collection of responsive navbars built using HTML, CSS and JavaScript
 * 【2022-11-19】[gitdagray / js_acme_blogs](https://github.com/gitdagray/js_acme_blogs) - 
@@ -814,6 +853,11 @@
 
 ## Unknown
 
+* 【2022-11-21】[hachyderm / community](https://github.com/hachyderm/community) - Hachyderm Community Resources
+* 【2022-11-21】[Web-n-Composite / crypto-hacks-list](https://github.com/Web-n-Composite/crypto-hacks-list) - Cryptocurrency hacks list
+* 【2022-11-21】[Web-n-Composite / crypto-theft-reporting](https://github.com/Web-n-Composite/crypto-theft-reporting) - Cryptocurrency theft, scam and fraud reporting list
+* 【2022-11-21】[Web-n-Composite / crypto-risk-scoring](https://github.com/Web-n-Composite/crypto-risk-scoring) - Cryptocurrency risk scoring services list
+* 【2022-11-21】[netbiosX / Checklists](https://github.com/netbiosX/Checklists) - Red Teaming & Pentesting checklists for various engagements
 * 【2022-11-20】[jellydn / typescript-tips](https://github.com/jellydn/typescript-tips) - A curated list of awesome🔥TypeScript Tips🔥
 * 【2022-11-20】[cryptoc0ding / pancakeswap-sniper-bot](https://github.com/cryptoc0ding/pancakeswap-sniper-bot) - Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs & etc. You can enjoy this by clicking star.
 * 【2022-11-20】[zhiwehu / Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
