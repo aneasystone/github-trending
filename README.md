@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-11-22】[metabolist / metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
+* 【2022-11-22】[cachix / devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
+* 【2022-11-22】[yeswehack / vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets) - Twitter vulnerable snippets
+* 【2022-11-22】[Hex-Dragon / PCL2](https://github.com/Hex-Dragon/PCL2) - Plain Craft Launcher 2（我的世界启动器 PCL2）的源代码库。
+* 【2022-11-22】[scriptscat / scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情!
 * 【2022-11-21】[usememos / memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and collaboration.
 * 【2022-11-21】[ShoufaChen / DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)
 * 【2022-11-21】[Purp1eW0lf / Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes) - You didn't think I'd go and leave the blue team out, right?
@@ -139,6 +144,9 @@
 
 ## Java
 
+* 【2022-11-22】[tpt11fb / AttackTomcat](https://github.com/tpt11fb/AttackTomcat) - Tomcat漏洞利用工具
+* 【2022-11-22】[Peakmain / AsmActualCombat](https://github.com/Peakmain/AsmActualCombat) - ASM实战——隐私问题彻底解决
+* 【2022-11-22】[hansonwang99 / Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
 * 【2022-11-21】[sky-map-team / stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 * 【2022-11-21】[nandorojo / burnt](https://github.com/nandorojo/burnt) - Crunchy toasts for React Native.🍞
 * 【2022-11-21】[LMAX-Exchange / disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
@@ -195,6 +203,14 @@
 
 ## Python
 
+* 【2022-11-22】[Chia-Network / chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
+* 【2022-11-22】[Free-TV / IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+* 【2022-11-22】[fr4nc1stein / osint-framework](https://github.com/fr4nc1stein/osint-framework) - OSINT Framework : A python based Open Source Intelligence CLI framework similar to Metasploit.
+* 【2022-11-22】[deepchem / deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+* 【2022-11-22】[yihong0618 / GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
+* 【2022-11-22】[sml2h3 / ocr_api_server](https://github.com/sml2h3/ocr_api_server) - 使用ddddocr的最简api搭建项目，支持docker
+* 【2022-11-22】[GoodCoder666 / GoogleTranslate_IPFinder](https://github.com/GoodCoder666/GoogleTranslate_IPFinder) - 谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。
+* 【2022-11-22】[hgalytoby / MyselfAnimeDownloader](https://github.com/hgalytoby/MyselfAnimeDownloader) - MyselfAnimeDownloader / Myself動漫下載 / Myself動畫下載
 * 【2022-11-21】[dabeaz-course / practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 * 【2022-11-21】[bottlesdevs / Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 * 【2022-11-21】[420World69 / Tiktok-Unfilter-Api](https://github.com/420World69/Tiktok-Unfilter-Api) - Simple tiktok filter remover and unfiltre
@@ -320,6 +336,9 @@
 
 ## Javascript
 
+* 【2022-11-22】[nolanlawson / pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+* 【2022-11-22】[ed-roh / mern-social-media](https://github.com/ed-roh/mern-social-media) - Complete React MERN Full Stack Social Media App
+* 【2022-11-22】[amejiarosario / dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
 * 【2022-11-21】[arkenfox / user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 * 【2022-11-21】[NEST-Protocol / NEST-Oracle-V4.0](https://github.com/NEST-Protocol/NEST-Oracle-V4.0) - The NEST Oracle Smart Contract 4.0 is a solidity smart contract implementation of NEST Protocol which provide a unique on-chain Price Oracle through a decentralized mechanism. And it's opening for Everyone to open a PriceChannel.
 * 【2022-11-21】[leoxiaoping / pbottleRPA](https://github.com/leoxiaoping/pbottleRPA) - 小瓶RPA 永久免费（含商用）RPA软件系统。 像挂QQ一样使用简单的RPA软件。 显著降本增效 & 工作100%准确 & 非侵入式集成。
@@ -408,6 +427,9 @@
 
 ## Go
 
+* 【2022-11-22】[jafarlihi / rssnix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
+* 【2022-11-22】[dengjiawen8955 / du](https://github.com/dengjiawen8955/du) - du 一键下载 markdown 中图片, 并上传图片到图床并替换链接
+* 【2022-11-22】[cool-team-official / cool-admin-go](https://github.com/cool-team-official/cool-admin-go) - 
 * 【2022-11-21】[flashbots / builder](https://github.com/flashbots/builder) - Flashbots mev-boost block builder
 * 【2022-11-21】[j3ssie / osmedeus](https://github.com/j3ssie/osmedeus) - A Workflow Engine for Offensive Security
 * 【2022-11-21】[miniflux / v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -488,6 +510,7 @@
 
 ## C
 
+* 【2022-11-22】[GoldHEN / GoldHEN_Cheat_Repository](https://github.com/GoldHEN/GoldHEN_Cheat_Repository) - 
 * 【2022-11-21】[liudf0716 / xfrpc](https://github.com/liudf0716/xfrpc) - c 语言实现的内网穿透客户端，配合frp服务端使用。主要用于基于openwrt的路由器上，对路由器的硬件配置要求极低。
 * 【2022-11-21】[havenow / AndroidGameModify](https://github.com/havenow/AndroidGameModify) - 
 * 【2022-11-20】[Xinyuan-LilyGO / T-Display-S3](https://github.com/Xinyuan-LilyGO/T-Display-S3) - 
@@ -560,6 +583,8 @@
 
 ## C++
 
+* 【2022-11-22】[FastLED / FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
+* 【2022-11-22】[mandliya / algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 * 【2022-11-21】[Kryptuq / Yuzu-Early-Access-files](https://github.com/Kryptuq/Yuzu-Early-Access-files) - Yuzu EA's here
 * 【2022-11-21】[yuzu-emu / yuzu-mainline](https://github.com/yuzu-emu/yuzu-mainline) - 
 * 【2022-11-21】[Warzone2100 / warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
@@ -705,6 +730,8 @@
 
 ## Html
 
+* 【2022-11-22】[learn-co-curriculum / phase-0-the-dom-query-selector-methods](https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods) - 
+* 【2022-11-22】[Pradumnasaraf / DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning realted to DevOps tools like Kubernetes, Docker, etc.
 * 【2022-11-21】[iaolo / iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
 * 【2022-11-21】[lucthienphong1120 / universe](https://github.com/lucthienphong1120/universe) - code a universe with js
 * 【2022-11-21】[lucifersun / China-Telecom-ShangHai-IPTV-list](https://github.com/lucifersun/China-Telecom-ShangHai-IPTV-list) - 上海电信IPTV播放地址列表
@@ -793,6 +820,7 @@
 
 ## Css
 
+* 【2022-11-22】[nemo0 / nextjs-chakra-tailwind-template](https://github.com/nemo0/nextjs-chakra-tailwind-template) - 
 * 【2022-11-21】[jaenfigueroa / JaenCraft](https://github.com/jaenfigueroa/JaenCraft) - Minecraft Game made with pure css and javascript
 * 【2022-11-21】[uu6 / llxhq](https://github.com/uu6/llxhq) - 流量消耗器,流量消失器,多线程消耗流量,消耗定向流量,流量杀手
 * 【2022-11-21】[meterscao / Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
@@ -853,6 +881,8 @@
 
 ## Unknown
 
+* 【2022-11-22】[kimcrowing / IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
+* 【2022-11-22】[duyongan / nlp-is-so-easy](https://github.com/duyongan/nlp-is-so-easy) - 自然语言处理、深度学习、机器学习的一些个人博客
 * 【2022-11-21】[hachyderm / community](https://github.com/hachyderm/community) - Hachyderm Community Resources
 * 【2022-11-21】[Web-n-Composite / crypto-hacks-list](https://github.com/Web-n-Composite/crypto-hacks-list) - Cryptocurrency hacks list
 * 【2022-11-21】[Web-n-Composite / crypto-theft-reporting](https://github.com/Web-n-Composite/crypto-theft-reporting) - Cryptocurrency theft, scam and fraud reporting list
