@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-11-23】[AndroidDev-social / MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose) - 🐘Mastodon client for Android, iOS and Desktop (JVM)
+* 【2022-11-23】[chronicle / GCTI](https://github.com/chronicle/GCTI) - 
+* 【2022-11-23】[jart / blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
+* 【2022-11-23】[corkami / pics](https://github.com/corkami/pics) - Posters, drawings...
+* 【2022-11-23】[actix / examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
+* 【2022-11-23】[opencv / cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+* 【2022-11-23】[TonnyL / Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) - A collection of APIs
+* 【2022-11-23】[4ra1n / super-xray](https://github.com/4ra1n/super-xray) - xray GUI 启动器
 * 【2022-11-22】[metabolist / metatext](https://github.com/metabolist/metatext) - A free, open-source iOS Mastodon client.
 * 【2022-11-22】[cachix / devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 * 【2022-11-22】[yeswehack / vulnerable-code-snippets](https://github.com/yeswehack/vulnerable-code-snippets) - Twitter vulnerable snippets
@@ -144,6 +152,7 @@
 
 ## Java
 
+* 【2022-11-23】[brianfrankcooper / YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 * 【2022-11-22】[tpt11fb / AttackTomcat](https://github.com/tpt11fb/AttackTomcat) - Tomcat漏洞利用工具
 * 【2022-11-22】[Peakmain / AsmActualCombat](https://github.com/Peakmain/AsmActualCombat) - ASM实战——隐私问题彻底解决
 * 【2022-11-22】[hansonwang99 / Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) - Spring Boot 系列实战合集
@@ -203,6 +212,13 @@
 
 ## Python
 
+* 【2022-11-23】[JaidedAI / EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+* 【2022-11-23】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
+* 【2022-11-23】[bookwyrm-social / bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+* 【2022-11-23】[cookiecutter / cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+* 【2022-11-23】[NVIDIA-Merlin / dataloader](https://github.com/NVIDIA-Merlin/dataloader) - The merlin dataloader lets you rapidly load tabular data for training deep leaning models with TensorFlow, PyTorch or JAX
+* 【2022-11-23】[comet-ml / kangas](https://github.com/comet-ml/kangas) - Explore multimedia datasets at scale
+* 【2022-11-23】[jointakahe / takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 * 【2022-11-22】[Chia-Network / chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 * 【2022-11-22】[Free-TV / IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 * 【2022-11-22】[fr4nc1stein / osint-framework](https://github.com/fr4nc1stein/osint-framework) - OSINT Framework : A python based Open Source Intelligence CLI framework similar to Metasploit.
@@ -336,6 +352,10 @@
 
 ## Javascript
 
+* 【2022-11-23】[atom / atom](https://github.com/atom/atom) - The hackable text editor
+* 【2022-11-23】[ashuang360 / rjss](https://github.com/ashuang360/rjss) - https://rjss.pages.dev
+* 【2022-11-23】[Joyrocky / DormitoryManager](https://github.com/Joyrocky/DormitoryManager) - 学生宿舍管理系统（SSM/Layui框架；毕业设计）
+* 【2022-11-23】[maotoumao / MusicFreePlugins](https://github.com/maotoumao/MusicFreePlugins) - MusicFree播放插件
 * 【2022-11-22】[nolanlawson / pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
 * 【2022-11-22】[ed-roh / mern-social-media](https://github.com/ed-roh/mern-social-media) - Complete React MERN Full Stack Social Media App
 * 【2022-11-22】[amejiarosario / dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - 🥞Data Structures and Algorithms explained and implemented in JavaScript + eBook
@@ -427,6 +447,11 @@
 
 ## Go
 
+* 【2022-11-23】[google / go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+* 【2022-11-23】[shijiaoliang / go-sensitive](https://github.com/shijiaoliang/go-sensitive) - 高性能Go敏感词服务
+* 【2022-11-23】[slack-go / slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
+* 【2022-11-23】[opencontainers / runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+* 【2022-11-23】[elliotchance / pie](https://github.com/elliotchance/pie) - 🍕Enjoy a slice! A utility library for dealing with slices and maps that focuses on type safety and performance.
 * 【2022-11-22】[jafarlihi / rssnix](https://github.com/jafarlihi/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader
 * 【2022-11-22】[dengjiawen8955 / du](https://github.com/dengjiawen8955/du) - du 一键下载 markdown 中图片, 并上传图片到图床并替换链接
 * 【2022-11-22】[cool-team-official / cool-admin-go](https://github.com/cool-team-official/cool-admin-go) - 
@@ -510,6 +535,8 @@
 
 ## C
 
+* 【2022-11-23】[analogdevicesinc / no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
+* 【2022-11-23】[justjake / quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.
 * 【2022-11-22】[GoldHEN / GoldHEN_Cheat_Repository](https://github.com/GoldHEN/GoldHEN_Cheat_Repository) - 
 * 【2022-11-21】[liudf0716 / xfrpc](https://github.com/liudf0716/xfrpc) - c 语言实现的内网穿透客户端，配合frp服务端使用。主要用于基于openwrt的路由器上，对路由器的硬件配置要求极低。
 * 【2022-11-21】[havenow / AndroidGameModify](https://github.com/havenow/AndroidGameModify) - 
@@ -583,6 +610,8 @@
 
 ## C++
 
+* 【2022-11-23】[GPUOpen-Tools / radeon_raytracing_analyzer](https://github.com/GPUOpen-Tools/radeon_raytracing_analyzer) - The Radeon Raytracing Analyzer (RRA) is a tool to visualize and inspect Bounding Volume Hierarchies (BVH) for ray tracing applications.
+* 【2022-11-23】[GDUT-Kyle / gicp_slam](https://github.com/GDUT-Kyle/gicp_slam) - GICP点云配准算法复现
 * 【2022-11-22】[FastLED / FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
 * 【2022-11-22】[mandliya / algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
 * 【2022-11-21】[Kryptuq / Yuzu-Early-Access-files](https://github.com/Kryptuq/Yuzu-Early-Access-files) - Yuzu EA's here
@@ -654,6 +683,10 @@
 
 ## C#
 
+* 【2022-11-23】[chocolatey / choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+* 【2022-11-23】[AmperSoftware / TF-Source-2](https://github.com/AmperSoftware/TF-Source-2) - Team Fortress 2 on Source 2 — A gamemode for s&box
+* 【2022-11-23】[MicrosoftLearning / eShopOnWeb](https://github.com/MicrosoftLearning/eShopOnWeb) - Repository maintained by AZ-400 course and Learn content community. Project used for AZ-400 Labs. Forked from: https://github.com/dotnet-architecture/eShopOnWeb Sample - ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model.
+* 【2022-11-23】[lukencode / FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 * 【2022-11-20】[meysamhadeli / awesome-dotnet-tips](https://github.com/meysamhadeli/awesome-dotnet-tips) - A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native
 * 【2022-11-20】[0xe7 / WonkaVision](https://github.com/0xe7/WonkaVision) - 
 * 【2022-11-20】[leeveel / GeekServer](https://github.com/leeveel/GeekServer) - 基于.Netcore的开发效率高，性能强，跨平台，持久化层透明，支持不停服热更新的游戏服务器。Best for your unity game server!
@@ -730,6 +763,11 @@
 
 ## Html
 
+* 【2022-11-23】[Yarob50 / World-Cup-2022-Website](https://github.com/Yarob50/World-Cup-2022-Website) - 
+* 【2022-11-23】[mozilla / bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
+* 【2022-11-23】[shlyren / m3u8](https://github.com/shlyren/m3u8) - 
+* 【2022-11-23】[wardseptember / notes](https://github.com/wardseptember/notes) - 算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。
+* 【2022-11-23】[fanmingming / live](https://github.com/fanmingming/live) - 一个国内可直连的直播源分享项目。
 * 【2022-11-22】[learn-co-curriculum / phase-0-the-dom-query-selector-methods](https://github.com/learn-co-curriculum/phase-0-the-dom-query-selector-methods) - 
 * 【2022-11-22】[Pradumnasaraf / DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning realted to DevOps tools like Kubernetes, Docker, etc.
 * 【2022-11-21】[iaolo / iA-Fonts](https://github.com/iaolo/iA-Fonts) - Free variable writing fonts from iA
@@ -820,6 +858,10 @@
 
 ## Css
 
+* 【2022-11-23】[kurmachu / retro-docs-site](https://github.com/kurmachu/retro-docs-site) - Viewer for the Retro Gadgets community documentation (https://github.com/NexTre-dev/retro-gadgets-docs)
+* 【2022-11-23】[andrewnicols / moodle-atto_htmlplus](https://github.com/andrewnicols/moodle-atto_htmlplus) - HTMLPlus plugin for Atto
+* 【2022-11-23】[Kalvium-Program / lab-brrgrr](https://github.com/Kalvium-Program/lab-brrgrr) - 
+* 【2022-11-23】[LazyCreeper / LuoTianyi](https://github.com/LazyCreeper/LuoTianyi) - 宝塔面板洛天依主题
 * 【2022-11-22】[nemo0 / nextjs-chakra-tailwind-template](https://github.com/nemo0/nextjs-chakra-tailwind-template) - 
 * 【2022-11-21】[jaenfigueroa / JaenCraft](https://github.com/jaenfigueroa/JaenCraft) - Minecraft Game made with pure css and javascript
 * 【2022-11-21】[uu6 / llxhq](https://github.com/uu6/llxhq) - 流量消耗器,流量消失器,多线程消耗流量,消耗定向流量,流量杀手
@@ -881,6 +923,14 @@
 
 ## Unknown
 
+* 【2022-11-23】[alvarop / usb_c_cable_tester](https://github.com/alvarop/usb_c_cable_tester) - 
+* 【2022-11-23】[AnkitCuriosity / Write-Ups](https://github.com/AnkitCuriosity/Write-Ups) - Write-ups of my findings.
+* 【2022-11-23】[tjnull / TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations. This Notebook has helped me in many situations to learn more about OSINT and how to analyze the data that is out there on the internet.
+* 【2022-11-23】[PKUFlyingPig / Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) - the resources I use to learn computer science in my spare time
+* 【2022-11-23】[awesome-css-group / awesome-css](https://github.com/awesome-css-group/awesome-css) - 🎨A curated contents of amazing CSS :)
+* 【2022-11-23】[helenahartmann / awesome-PhD](https://github.com/helenahartmann/awesome-PhD) - All the resources I wish I knew when starting my PhD. This repository is aimed to be a living, constantly developing resource where everybody can contribute with new resources!
+* 【2022-11-23】[HackingCost / AD_Pentest](https://github.com/HackingCost/AD_Pentest) - 红队|域渗透重要漏洞汇总(持续更新)
+* 【2022-11-23】[plantegg / programmer_case](https://github.com/plantegg/programmer_case) - 程序员案例集锦
 * 【2022-11-22】[kimcrowing / IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源
 * 【2022-11-22】[duyongan / nlp-is-so-easy](https://github.com/duyongan/nlp-is-so-easy) - 自然语言处理、深度学习、机器学习的一些个人博客
 * 【2022-11-21】[hachyderm / community](https://github.com/hachyderm/community) - Hachyderm Community Resources
