@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-11-24】[filipedeschamps / tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos de valor concreto para quem vive de programação e tecnologia.
+* 【2022-11-24】[roboflow-ai / notebooks](https://github.com/roboflow-ai/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
+* 【2022-11-24】[bdebon / choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
+* 【2022-11-24】[osintbrazuca / osint-brazuca-regex](https://github.com/osintbrazuca/osint-brazuca-regex) - Repositório criado com intuito de reunir expressões regulares dentro do contexto Brasil
+* 【2022-11-24】[tesseract-ocr / tessdata](https://github.com/tesseract-ocr/tessdata) - Trained models with support for legacy and LSTM OCR engine
+* 【2022-11-24】[realm / realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
+* 【2022-11-24】[youshandefeiyang / IPTV](https://github.com/youshandefeiyang/IPTV) - 肥羊的IPTV直播源搜集仓库
+* 【2022-11-24】[RealCorebb / bbLaser](https://github.com/RealCorebb/bbLaser) - Maybe the best ESP32 RGB laser galvo projector.
+* 【2022-11-24】[xugaoyi / vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 * 【2022-11-23】[AndroidDev-social / MastodonCompose](https://github.com/AndroidDev-social/MastodonCompose) - 🐘Mastodon client for Android, iOS and Desktop (JVM)
 * 【2022-11-23】[chronicle / GCTI](https://github.com/chronicle/GCTI) - 
 * 【2022-11-23】[jart / blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -152,6 +161,8 @@
 
 ## Java
 
+* 【2022-11-24】[mariofusco / from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda) - 
+* 【2022-11-24】[kestra-io / kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 * 【2022-11-23】[brianfrankcooper / YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
 * 【2022-11-22】[tpt11fb / AttackTomcat](https://github.com/tpt11fb/AttackTomcat) - Tomcat漏洞利用工具
 * 【2022-11-22】[Peakmain / AsmActualCombat](https://github.com/Peakmain/AsmActualCombat) - ASM实战——隐私问题彻底解决
@@ -212,6 +223,10 @@
 
 ## Python
 
+* 【2022-11-24】[0xacb / recollapse](https://github.com/0xacb/recollapse) - REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
+* 【2022-11-24】[0xAX / linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
+* 【2022-11-24】[elastic / helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
+* 【2022-11-24】[shenweichen / DeepCTR](https://github.com/shenweichen/DeepCTR) - Easy-to-use,Modular and Extendible package of deep-learning based CTR models .
 * 【2022-11-23】[JaidedAI / EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 * 【2022-11-23】[Project-MONAI / MONAI](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging
 * 【2022-11-23】[bookwyrm-social / bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
@@ -352,6 +367,16 @@
 
 ## Javascript
 
+* 【2022-11-24】[tweetback / tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
+* 【2022-11-24】[Zer0-bit / gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
+* 【2022-11-24】[dapr / quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+* 【2022-11-24】[caidukai / mp-muyu](https://github.com/caidukai/mp-muyu) - 电子木鱼功德念经
+* 【2022-11-24】[gaowei-space / markdown-blog](https://github.com/gaowei-space/markdown-blog) - 🍭Markdown-Blog 是一款小而美的Markdown静态博客程序
+* 【2022-11-24】[yisainan / web-interview](https://github.com/yisainan/web-interview) - 我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
+* 【2022-11-24】[ouyangsuo / mongo-expresser](https://github.com/ouyangsuo/mongo-expresser) - quick server with express+mongodb without coding
+* 【2022-11-24】[ttglad / learning](https://github.com/ttglad/learning) - 学习强国浏览器插件，自动阅读、观看视频、每日答题、每周答题、专项答题，每日45分！
+* 【2022-11-24】[Coldvvater / Mononoke](https://github.com/Coldvvater/Mononoke) - Surge、QuantumultX、Loon、Stash、Clash、Shadowrocket、Egern自用配置，引用的规则、脚本，等。
+* 【2022-11-24】[dongwei1125 / juejin-helper](https://github.com/dongwei1125/juejin-helper) - 🎠依赖 GitHub Actions 的自动化工具，用于稀土掘金每日签到、沾一沾、免费抽奖、BugFix。🍋
 * 【2022-11-23】[atom / atom](https://github.com/atom/atom) - The hackable text editor
 * 【2022-11-23】[ashuang360 / rjss](https://github.com/ashuang360/rjss) - https://rjss.pages.dev
 * 【2022-11-23】[Joyrocky / DormitoryManager](https://github.com/Joyrocky/DormitoryManager) - 学生宿舍管理系统（SSM/Layui框架；毕业设计）
@@ -447,6 +472,10 @@
 
 ## Go
 
+* 【2022-11-24】[maaslalani / nap](https://github.com/maaslalani/nap) - Code snippets in your terminal🛌
+* 【2022-11-24】[kiteco / kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
+* 【2022-11-24】[docker / cli](https://github.com/docker/cli) - The Docker CLI
+* 【2022-11-24】[Yihsiwei / GoFileBinder](https://github.com/Yihsiwei/GoFileBinder) - golang免杀捆绑器
 * 【2022-11-23】[google / go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 * 【2022-11-23】[shijiaoliang / go-sensitive](https://github.com/shijiaoliang/go-sensitive) - 高性能Go敏感词服务
 * 【2022-11-23】[slack-go / slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes
@@ -535,6 +564,11 @@
 
 ## C
 
+* 【2022-11-24】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+* 【2022-11-24】[ph1p / ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp
+* 【2022-11-24】[brutal-org / brutal](https://github.com/brutal-org/brutal) - 🏢An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
+* 【2022-11-24】[koekeishiya / skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
+* 【2022-11-24】[contiki-ng / contiki-ng](https://github.com/contiki-ng/contiki-ng) - Contiki-NG: The OS for Next Generation IoT Devices
 * 【2022-11-23】[analogdevicesinc / no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers in C for systems without an operating system
 * 【2022-11-23】[justjake / quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard.
 * 【2022-11-22】[GoldHEN / GoldHEN_Cheat_Repository](https://github.com/GoldHEN/GoldHEN_Cheat_Repository) - 
@@ -610,6 +644,12 @@
 
 ## C++
 
+* 【2022-11-24】[capt-meelo / laZzzy](https://github.com/capt-meelo/laZzzy) - laZzzy is a shellcode loader, developed using different open-source libraries, that demonstrates different execution techniques.
+* 【2022-11-24】[raulmur / ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
+* 【2022-11-24】[CedricGuillemet / ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
+* 【2022-11-24】[greg7mdp / parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) - A family of header-only, very fast and memory-friendly hashmap and btree containers.
+* 【2022-11-24】[lich0821 / WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信逆向。Hook WeChat, passing message between agent and WeChat.
+* 【2022-11-24】[yjmthu / Neobox](https://github.com/yjmthu/Neobox) - Qt写的一个网速显示工具，兼具壁纸切换和美化桌面功能。
 * 【2022-11-23】[GPUOpen-Tools / radeon_raytracing_analyzer](https://github.com/GPUOpen-Tools/radeon_raytracing_analyzer) - The Radeon Raytracing Analyzer (RRA) is a tool to visualize and inspect Bounding Volume Hierarchies (BVH) for ray tracing applications.
 * 【2022-11-23】[GDUT-Kyle / gicp_slam](https://github.com/GDUT-Kyle/gicp_slam) - GICP点云配准算法复现
 * 【2022-11-22】[FastLED / FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r We'd like to use github "issues" just for tracking library bugs / enhancements.
@@ -683,6 +723,8 @@
 
 ## C#
 
+* 【2022-11-24】[NethermindEth / nethermind](https://github.com/NethermindEth/nethermind) - Our flagship Ethereum client for Linux, Windows, and macOS—full and actively developed.
+* 【2022-11-24】[Jumbo-WJB / SharpSniper-Modify](https://github.com/Jumbo-WJB/SharpSniper-Modify) - query specific user and login IP from remote machine
 * 【2022-11-23】[chocolatey / choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 * 【2022-11-23】[AmperSoftware / TF-Source-2](https://github.com/AmperSoftware/TF-Source-2) - Team Fortress 2 on Source 2 — A gamemode for s&box
 * 【2022-11-23】[MicrosoftLearning / eShopOnWeb](https://github.com/MicrosoftLearning/eShopOnWeb) - Repository maintained by AZ-400 course and Learn content community. Project used for AZ-400 Labs. Forked from: https://github.com/dotnet-architecture/eShopOnWeb Sample - ASP.NET Core 6.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model.
@@ -763,6 +805,9 @@
 
 ## Html
 
+* 【2022-11-24】[jfjelstul / worldcup](https://github.com/jfjelstul/worldcup) - A Comprehensive Database on the FIFA World Cup
+* 【2022-11-24】[kaityo256 / github](https://github.com/kaityo256/github) - GitHub演習
+* 【2022-11-24】[google / docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
 * 【2022-11-23】[Yarob50 / World-Cup-2022-Website](https://github.com/Yarob50/World-Cup-2022-Website) - 
 * 【2022-11-23】[mozilla / bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 * 【2022-11-23】[shlyren / m3u8](https://github.com/shlyren/m3u8) - 
@@ -858,6 +903,8 @@
 
 ## Css
 
+* 【2022-11-24】[Charca / astro-view-transitions](https://github.com/Charca/astro-view-transitions) - Demo of Astro MPA using the View Transitions API
+* 【2022-11-24】[iamverysimp1e / dots](https://github.com/iamverysimp1e/dots) - My customization + configuration with Linux🐧
 * 【2022-11-23】[kurmachu / retro-docs-site](https://github.com/kurmachu/retro-docs-site) - Viewer for the Retro Gadgets community documentation (https://github.com/NexTre-dev/retro-gadgets-docs)
 * 【2022-11-23】[andrewnicols / moodle-atto_htmlplus](https://github.com/andrewnicols/moodle-atto_htmlplus) - HTMLPlus plugin for Atto
 * 【2022-11-23】[Kalvium-Program / lab-brrgrr](https://github.com/Kalvium-Program/lab-brrgrr) - 
@@ -923,6 +970,11 @@
 
 ## Unknown
 
+* 【2022-11-24】[S1ckB0y1337 / Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+* 【2022-11-24】[terrytangyuan / awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
+* 【2022-11-24】[ruesandora / Ziesha-Network](https://github.com/ruesandora/Ziesha-Network) - 
+* 【2022-11-24】[widdix / mastodon-on-aws](https://github.com/widdix/mastodon-on-aws) - Host your own Mastodon instance on AWS
+* 【2022-11-24】[zbefine / iptv](https://github.com/zbefine/iptv) - IPTV 频道 影视 电视 直播 源
 * 【2022-11-23】[alvarop / usb_c_cable_tester](https://github.com/alvarop/usb_c_cable_tester) - 
 * 【2022-11-23】[AnkitCuriosity / Write-Ups](https://github.com/AnkitCuriosity/Write-Ups) - Write-ups of my findings.
 * 【2022-11-23】[tjnull / TJ-OSINT-Notebook](https://github.com/tjnull/TJ-OSINT-Notebook) - This OSINT Notebook provides an overview of the tools, techniques, and resources that I use for a variety of situations when it comes to performing reconaissance and OSINT operations. This Notebook has helped me in many situations to learn more about OSINT and how to analyze the data that is out there on the internet.
