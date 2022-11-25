@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-11-25】[terrastruct / d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+* 【2022-11-25】[facebookresearch / diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.
+* 【2022-11-25】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+* 【2022-11-25】[gbj / leptos](https://github.com/gbj/leptos) - Build fast web applications with Rust.
+* 【2022-11-25】[illacloud / illa-builder](https://github.com/illacloud/illa-builder) - An open-source low-code Platform for Developers.
+* 【2022-11-25】[apernet / hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+* 【2022-11-25】[GyulyVGC / sniffnet](https://github.com/GyulyVGC/sniffnet) - Cross-platform application to monitor your network traffic with ease
+* 【2022-11-25】[GoogleCloudPlatform / cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric) - End-to-end modular samples for Terraform on GCP.
+* 【2022-11-25】[baaivision / EVA](https://github.com/baaivision/EVA) - Exploring the Limits of Masked Visual Representation Learning at Scale (https://arxiv.org/abs/2211.07636)
 * 【2022-11-24】[filipedeschamps / tabnews.com.br](https://github.com/filipedeschamps/tabnews.com.br) - Conteúdos de valor concreto para quem vive de programação e tecnologia.
 * 【2022-11-24】[roboflow-ai / notebooks](https://github.com/roboflow-ai/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
 * 【2022-11-24】[bdebon / choiceof.dev](https://github.com/bdebon/choiceof.dev) - Developers have to cope with pretty hard choices every day. This is a collection of the most complex and funny choices. What will be yours?
@@ -161,6 +170,8 @@
 
 ## Java
 
+* 【2022-11-25】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+* 【2022-11-25】[code4craft / tiny-spring](https://github.com/code4craft/tiny-spring) - A tiny IoC container refer to Spring.
 * 【2022-11-24】[mariofusco / from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda) - 
 * 【2022-11-24】[kestra-io / kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 * 【2022-11-23】[brianfrankcooper / YCSB](https://github.com/brianfrankcooper/YCSB) - Yahoo! Cloud Serving Benchmark
@@ -223,6 +234,8 @@
 
 ## Python
 
+* 【2022-11-25】[0xJs / RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
+* 【2022-11-25】[databricks-academy / apache-spark-programming-with-databricks](https://github.com/databricks-academy/apache-spark-programming-with-databricks) - 
 * 【2022-11-24】[0xacb / recollapse](https://github.com/0xacb/recollapse) - REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
 * 【2022-11-24】[0xAX / linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 * 【2022-11-24】[elastic / helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
@@ -367,6 +380,9 @@
 
 ## Javascript
 
+* 【2022-11-25】[Infisical / infisical](https://github.com/Infisical/infisical) - ♾Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
+* 【2022-11-25】[kiteco / vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
+* 【2022-11-25】[bupticybee / XQPy](https://github.com/bupticybee/XQPy) - 象棋巫师（非官方）python实现
 * 【2022-11-24】[tweetback / tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 * 【2022-11-24】[Zer0-bit / gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
 * 【2022-11-24】[dapr / quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
@@ -472,6 +488,15 @@
 
 ## Go
 
+* 【2022-11-25】[antonmedv / llama](https://github.com/antonmedv/llama) - Terminal file manager
+* 【2022-11-25】[loft-sh / devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes⚡Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
+* 【2022-11-25】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
+* 【2022-11-25】[runfinch / finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
+* 【2022-11-25】[google / gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
+* 【2022-11-25】[SeeFlowerX / estrace](https://github.com/SeeFlowerX/estrace) - 基于eBPF的syscall追踪工具，适用于安卓平台
+* 【2022-11-25】[iyear / pure-live-core](https://github.com/iyear/pure-live-core) - ✨Make Live Pure Again
+* 【2022-11-25】[Mrs4s / MiraiGo](https://github.com/Mrs4s/MiraiGo) - qq协议的golang实现, 移植于mirai
+* 【2022-11-25】[wangzhongyang007 / goframe-shop-v2](https://github.com/wangzhongyang007/goframe-shop-v2) - 基于goframev2最新版本开发
 * 【2022-11-24】[maaslalani / nap](https://github.com/maaslalani/nap) - Code snippets in your terminal🛌
 * 【2022-11-24】[kiteco / kiteco-public](https://github.com/kiteco/kiteco-public) - Primary Kite repo — private bits replaced with XXXXXXX
 * 【2022-11-24】[docker / cli](https://github.com/docker/cli) - The Docker CLI
@@ -564,6 +589,8 @@
 
 ## C
 
+* 【2022-11-25】[hse-project / hse](https://github.com/hse-project/hse) - HSE: Heterogeneous-memory storage engine
+* 【2022-11-25】[tmux / tmux](https://github.com/tmux/tmux) - tmux source code
 * 【2022-11-24】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 * 【2022-11-24】[ph1p / ikea-led-obegraensad](https://github.com/ph1p/ikea-led-obegraensad) - ESP32/Arduino hack for the ikea OBEGRÄNSAD led wall lamp
 * 【2022-11-24】[brutal-org / brutal](https://github.com/brutal-org/brutal) - 🏢An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
@@ -644,6 +671,10 @@
 
 ## C++
 
+* 【2022-11-25】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
+* 【2022-11-25】[urho3d / Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
+* 【2022-11-25】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
+* 【2022-11-25】[WenmuZhou / PytorchOCR](https://github.com/WenmuZhou/PytorchOCR) - 基于Pytorch的OCR工具库，支持常用的文字检测和识别算法
 * 【2022-11-24】[capt-meelo / laZzzy](https://github.com/capt-meelo/laZzzy) - laZzzy is a shellcode loader, developed using different open-source libraries, that demonstrates different execution techniques.
 * 【2022-11-24】[raulmur / ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2) - Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities
 * 【2022-11-24】[CedricGuillemet / ImGuizmo](https://github.com/CedricGuillemet/ImGuizmo) - Immediate mode 3D gizmo for scene editing and other controls based on Dear Imgui
@@ -723,6 +754,9 @@
 
 ## C#
 
+* 【2022-11-25】[GhostPack / Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
+* 【2022-11-25】[InCerryGit / FasterKvCache](https://github.com/InCerryGit/FasterKvCache) - FasterKv.Cache is an in-process hybrid cache library (memory+disk) based on the Microsoft FasterKv.
+* 【2022-11-25】[michael811125 / OxGFrame](https://github.com/michael811125/OxGFrame) - The OxGFrame is a lightweight framework based on Unity for accelerating game development. Supports multi-platform Win, OSX, Android, iOS, WebGL.
 * 【2022-11-24】[NethermindEth / nethermind](https://github.com/NethermindEth/nethermind) - Our flagship Ethereum client for Linux, Windows, and macOS—full and actively developed.
 * 【2022-11-24】[Jumbo-WJB / SharpSniper-Modify](https://github.com/Jumbo-WJB/SharpSniper-Modify) - query specific user and login IP from remote machine
 * 【2022-11-23】[chocolatey / choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -805,6 +839,10 @@
 
 ## Html
 
+* 【2022-11-25】[design-tokens / community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens specification.
+* 【2022-11-25】[ddd-crew / bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts
+* 【2022-11-25】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
+* 【2022-11-25】[KonghaYao / chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage) - 这是一个放置中文免费 web 字体的库，可以通过 css 载入。This is a library for placing Chinese free Web fonts, which can be loaded with CSS.
 * 【2022-11-24】[jfjelstul / worldcup](https://github.com/jfjelstul/worldcup) - A Comprehensive Database on the FIFA World Cup
 * 【2022-11-24】[kaityo256 / github](https://github.com/kaityo256/github) - GitHub演習
 * 【2022-11-24】[google / docsy-example](https://github.com/google/docsy-example) - An example documentation site using the Docsy Hugo theme
@@ -903,6 +941,9 @@
 
 ## Css
 
+* 【2022-11-25】[hosseinnabi-ir / Responsive-Glass-Sidebar-using-CSS-and-JavaScript](https://github.com/hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript) - 
+* 【2022-11-25】[AnubisNekhet / AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Sanitized theme for Obsidian
+* 【2022-11-25】[RocGames / developer-docs-portal](https://github.com/RocGames/developer-docs-portal) - 开发者文档中心
 * 【2022-11-24】[Charca / astro-view-transitions](https://github.com/Charca/astro-view-transitions) - Demo of Astro MPA using the View Transitions API
 * 【2022-11-24】[iamverysimp1e / dots](https://github.com/iamverysimp1e/dots) - My customization + configuration with Linux🐧
 * 【2022-11-23】[kurmachu / retro-docs-site](https://github.com/kurmachu/retro-docs-site) - Viewer for the Retro Gadgets community documentation (https://github.com/NexTre-dev/retro-gadgets-docs)
@@ -970,6 +1011,10 @@
 
 ## Unknown
 
+* 【2022-11-25】[academind / 100-days-of-web-development](https://github.com/academind/100-days-of-web-development) - Supplementary resources for our complete web development course (https://acad.link/web-dev).
+* 【2022-11-25】[n0shake / Public-APIs](https://github.com/n0shake/Public-APIs) - 📚A public list of APIs from round the web.
+* 【2022-11-25】[PlexVPN / plex](https://github.com/PlexVPN/plex) - 最新版本下載 best VPN 2021
+* 【2022-11-25】[wuwentao / bj-unicom-iptv](https://github.com/wuwentao/bj-unicom-iptv) - 北京联通IPTV播放列表 Beijing Unicom IPTV playlist bj-unicom-iptv.m3u
 * 【2022-11-24】[S1ckB0y1337 / Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 * 【2022-11-24】[terrytangyuan / awesome-argo](https://github.com/terrytangyuan/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF hosted project)
 * 【2022-11-24】[ruesandora / Ziesha-Network](https://github.com/ruesandora/Ziesha-Network) - 
