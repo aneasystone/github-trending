@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-11-26】[gulihua10010 / playPiano](https://github.com/gulihua10010/playPiano) - Java弹奏钢琴乐曲
+* 【2022-11-26】[tree-sitter / tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+* 【2022-11-26】[apache / superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+* 【2022-11-26】[laravel / framework](https://github.com/laravel/framework) - The Laravel Framework.
+* 【2022-11-26】[vitkarpov / coding-interviews-blog-archive](https://github.com/vitkarpov/coding-interviews-blog-archive) - vitkarpov.me blog archive
+* 【2022-11-26】[chaitin / xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 * 【2022-11-25】[terrastruct / d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 * 【2022-11-25】[facebookresearch / diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) - Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.
 * 【2022-11-25】[trungdq88 / Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
@@ -170,6 +176,8 @@
 
 ## Java
 
+* 【2022-11-26】[hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
+* 【2022-11-26】[amitshekhariitbhu / android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 * 【2022-11-25】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 * 【2022-11-25】[code4craft / tiny-spring](https://github.com/code4craft/tiny-spring) - A tiny IoC container refer to Spring.
 * 【2022-11-24】[mariofusco / from-gof-to-lambda](https://github.com/mariofusco/from-gof-to-lambda) - 
@@ -234,6 +242,11 @@
 
 ## Python
 
+* 【2022-11-26】[luong-komorebi / Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+* 【2022-11-26】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
+* 【2022-11-26】[sshuttle / sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+* 【2022-11-26】[huawei-noah / Efficient-AI-Backbones](https://github.com/huawei-noah/Efficient-AI-Backbones) - Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.
+* 【2022-11-26】[emeryberger / CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas.
 * 【2022-11-25】[0xJs / RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
 * 【2022-11-25】[databricks-academy / apache-spark-programming-with-databricks](https://github.com/databricks-academy/apache-spark-programming-with-databricks) - 
 * 【2022-11-24】[0xacb / recollapse](https://github.com/0xacb/recollapse) - REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
@@ -380,6 +393,9 @@
 
 ## Javascript
 
+* 【2022-11-26】[minimal-ui-kit / material-kit-react](https://github.com/minimal-ui-kit/material-kit-react) - Minimal Dashboard - build with React Material UI components.
+* 【2022-11-26】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+* 【2022-11-26】[zclzone / vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
 * 【2022-11-25】[Infisical / infisical](https://github.com/Infisical/infisical) - ♾Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
 * 【2022-11-25】[kiteco / vscode-plugin](https://github.com/kiteco/vscode-plugin) - Kite Autocomplete Plugin for Visual Studio Code
 * 【2022-11-25】[bupticybee / XQPy](https://github.com/bupticybee/XQPy) - 象棋巫师（非官方）python实现
@@ -488,6 +504,7 @@
 
 ## Go
 
+* 【2022-11-26】[aler9 / rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 * 【2022-11-25】[antonmedv / llama](https://github.com/antonmedv/llama) - Terminal file manager
 * 【2022-11-25】[loft-sh / devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes⚡Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
 * 【2022-11-25】[go-resty / resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
@@ -589,6 +606,13 @@
 
 ## C
 
+* 【2022-11-26】[alibaba / tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
+* 【2022-11-26】[NVIDIA / MAXINE-AR-SDK](https://github.com/NVIDIA/MAXINE-AR-SDK) - NVIDIA AR SDK - API headers and sample applications
+* 【2022-11-26】[allinurl / goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+* 【2022-11-26】[apache / nuttx](https://github.com/apache/nuttx) - Apache NuttX is a mature, real-time embedded operating system (RTOS)
+* 【2022-11-26】[aixed / WeChat-Hook](https://github.com/aixed/WeChat-Hook) - PC wechat robot interface [wechat Hook] / PC微信3.8.0.41接口 微信Hook 微信机器人 微信Hook源码 PC微信协议算法
+* 【2022-11-26】[Y-way / xencrypt](https://github.com/Y-way/xencrypt) - A simple enrypt/decrypt data library for custom file formate.
+* 【2022-11-26】[ZCXu1 / HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments) - 华中科技大学网络空间安全学院课程设计及课程实验合集
 * 【2022-11-25】[hse-project / hse](https://github.com/hse-project/hse) - HSE: Heterogeneous-memory storage engine
 * 【2022-11-25】[tmux / tmux](https://github.com/tmux/tmux) - tmux source code
 * 【2022-11-24】[kubeshark / kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
@@ -671,6 +695,12 @@
 
 ## C++
 
+* 【2022-11-26】[luajit-remake / luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
+* 【2022-11-26】[lava / matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
+* 【2022-11-26】[MTK911 / Attiny85](https://github.com/MTK911/Attiny85) - RubberDucky like payloads for DigiSpark Attiny85
+* 【2022-11-26】[lottie-react-native / lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
+* 【2022-11-26】[kth-competitive-programming / kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
+* 【2022-11-26】[balloonwj / TeamTalk](https://github.com/balloonwj/TeamTalk) - 这是我维护的蘑菇街TeamTalk源码版本。
 * 【2022-11-25】[ValveSoftware / openvr](https://github.com/ValveSoftware/openvr) - OpenVR SDK
 * 【2022-11-25】[urho3d / Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine
 * 【2022-11-25】[CLIUtils / CLI11](https://github.com/CLIUtils/CLI11) - CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
@@ -754,6 +784,8 @@
 
 ## C#
 
+* 【2022-11-26】[stnkl / EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
+* 【2022-11-26】[0x727 / SchTask_0x727](https://github.com/0x727/SchTask_0x727) - 创建隐藏计划任务，权限维持，Bypass AV
 * 【2022-11-25】[GhostPack / Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
 * 【2022-11-25】[InCerryGit / FasterKvCache](https://github.com/InCerryGit/FasterKvCache) - FasterKv.Cache is an in-process hybrid cache library (memory+disk) based on the Microsoft FasterKv.
 * 【2022-11-25】[michael811125 / OxGFrame](https://github.com/michael811125/OxGFrame) - The OxGFrame is a lightweight framework based on Unity for accelerating game development. Supports multi-platform Win, OSX, Android, iOS, WebGL.
@@ -839,6 +871,9 @@
 
 ## Html
 
+* 【2022-11-26】[symfony / symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
+* 【2022-11-26】[OCA / server-env](https://github.com/OCA/server-env) - Tools to manage environment-dependent configuration
+* 【2022-11-26】[onlyGuo / nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
 * 【2022-11-25】[design-tokens / community-group](https://github.com/design-tokens/community-group) - This is the official DTCG repository for the design tokens specification.
 * 【2022-11-25】[ddd-crew / bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts
 * 【2022-11-25】[collabnix / kubetools](https://github.com/collabnix/kubetools) - Kubetools - Curated List of Kubernetes Tools
@@ -941,6 +976,8 @@
 
 ## Css
 
+* 【2022-11-26】[maivudhsp / pay1193](https://github.com/maivudhsp/pay1193) - 
+* 【2022-11-26】[tecg-dcc / js-tp-aria-tabs](https://github.com/tecg-dcc/js-tp-aria-tabs) - 
 * 【2022-11-25】[hosseinnabi-ir / Responsive-Glass-Sidebar-using-CSS-and-JavaScript](https://github.com/hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript) - 
 * 【2022-11-25】[AnubisNekhet / AnuPpuccin](https://github.com/AnubisNekhet/AnuPpuccin) - Sanitized theme for Obsidian
 * 【2022-11-25】[RocGames / developer-docs-portal](https://github.com/RocGames/developer-docs-portal) - 开发者文档中心
@@ -1011,6 +1048,12 @@
 
 ## Unknown
 
+* 【2022-11-26】[tiimgreen / github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+* 【2022-11-26】[prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses) - 📚List of awesome university courses for learning Computer Science!
+* 【2022-11-26】[bespoyasov / refactor-like-a-superhero](https://github.com/bespoyasov/refactor-like-a-superhero) - How to refactor code efficiently and without pain •🧑‍💻➡️🦸
+* 【2022-11-26】[ziesha-network / rewards](https://github.com/ziesha-network/rewards) - 
+* 【2022-11-26】[ZtesoftCS / go-ethereum-code-analysis](https://github.com/ZtesoftCS/go-ethereum-code-analysis) - 
+* 【2022-11-26】[longlifedahan / NovelAI-Embeddings](https://github.com/longlifedahan/NovelAI-Embeddings) - 
 * 【2022-11-25】[academind / 100-days-of-web-development](https://github.com/academind/100-days-of-web-development) - Supplementary resources for our complete web development course (https://acad.link/web-dev).
 * 【2022-11-25】[n0shake / Public-APIs](https://github.com/n0shake/Public-APIs) - 📚A public list of APIs from round the web.
 * 【2022-11-25】[PlexVPN / plex](https://github.com/PlexVPN/plex) - 最新版本下載 best VPN 2021
