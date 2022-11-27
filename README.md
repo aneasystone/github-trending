@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-11-27】[Stability-AI / stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+* 【2022-11-27】[starkware-libs / cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
+* 【2022-11-27】[microsoft / torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
+* 【2022-11-27】[SmallRuralDog / vue3-music](https://github.com/SmallRuralDog/vue3-music) - VUE3+TS 开发的音乐播放器，界面模仿QQ音乐mac客户端，支持黑夜模式
+* 【2022-11-27】[Atlas-OS / Atlas](https://github.com/Atlas-OS/Atlas) - An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.
+* 【2022-11-27】[lyt-Top / vue-next-admin](https://github.com/lyt-Top/vue-next-admin) - 🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）
+* 【2022-11-27】[biubiubiu01 / vue3-bigData](https://github.com/biubiubiu01/vue3-bigData) - 一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API
 * 【2022-11-26】[gulihua10010 / playPiano](https://github.com/gulihua10010/playPiano) - Java弹奏钢琴乐曲
 * 【2022-11-26】[tree-sitter / tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 * 【2022-11-26】[apache / superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -176,6 +183,7 @@
 
 ## Java
 
+* 【2022-11-27】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
 * 【2022-11-26】[hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
 * 【2022-11-26】[amitshekhariitbhu / android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
 * 【2022-11-25】[nayuki / QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -242,6 +250,11 @@
 
 ## Python
 
+* 【2022-11-27】[StackStorm / st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
+* 【2022-11-27】[Extraltodeus / multi-subject-render](https://github.com/Extraltodeus/multi-subject-render) - Generate multiple complex subjects all at once!
+* 【2022-11-27】[channy / korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
+* 【2022-11-27】[jerry-git / learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
+* 【2022-11-27】[pyscript / pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net Examples: https://pyscript.net/examples
 * 【2022-11-26】[luong-komorebi / Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 * 【2022-11-26】[yzhao062 / pyod](https://github.com/yzhao062/pyod) - A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)
 * 【2022-11-26】[sshuttle / sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
@@ -393,6 +406,11 @@
 
 ## Javascript
 
+* 【2022-11-27】[T-Ev / TwitterSearchTokenTest](https://github.com/T-Ev/TwitterSearchTokenTest) - Comma AI guy made a Tweet ;)
+* 【2022-11-27】[stjude / learngenomics.dev](https://github.com/stjude/learngenomics.dev) - A guided, intuitive introduction to genomics for software engineers. Curated by the community.
+* 【2022-11-27】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+* 【2022-11-27】[zloirock / core-js](https://github.com/zloirock/core-js) - Standard Library
+* 【2022-11-27】[JDWXX / jd_job](https://github.com/JDWXX/jd_job) - 
 * 【2022-11-26】[minimal-ui-kit / material-kit-react](https://github.com/minimal-ui-kit/material-kit-react) - Minimal Dashboard - build with React Material UI components.
 * 【2022-11-26】[overleaf / overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 * 【2022-11-26】[zclzone / vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - ⚡️基于 Vue3 + Vite3 + Pinia + Unocss + Naive UI 的轻量级后台管理模板。
@@ -504,6 +522,7 @@
 
 ## Go
 
+* 【2022-11-27】[MichaelMure / git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 * 【2022-11-26】[aler9 / rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 * 【2022-11-25】[antonmedv / llama](https://github.com/antonmedv/llama) - Terminal file manager
 * 【2022-11-25】[loft-sh / devspace](https://github.com/loft-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes⚡Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -606,6 +625,7 @@
 
 ## C
 
+* 【2022-11-27】[heptagonhust / bicubic-image-resize](https://github.com/heptagonhust/bicubic-image-resize) - Codebase for recruitment of 2022 autumn.
 * 【2022-11-26】[alibaba / tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 * 【2022-11-26】[NVIDIA / MAXINE-AR-SDK](https://github.com/NVIDIA/MAXINE-AR-SDK) - NVIDIA AR SDK - API headers and sample applications
 * 【2022-11-26】[allinurl / goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -695,6 +715,8 @@
 
 ## C++
 
+* 【2022-11-27】[Klafyvel / AVR-FFT](https://github.com/Klafyvel/AVR-FFT) - 3 implementations of the FFT for Arduino AVR platforms!
+* 【2022-11-27】[lesliefish / Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 * 【2022-11-26】[luajit-remake / luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
 * 【2022-11-26】[lava / matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 * 【2022-11-26】[MTK911 / Attiny85](https://github.com/MTK911/Attiny85) - RubberDucky like payloads for DigiSpark Attiny85
@@ -784,6 +806,8 @@
 
 ## C#
 
+* 【2022-11-27】[LegoFigure11 / RaidCrawler](https://github.com/LegoFigure11/RaidCrawler) - Raid Viewer for Pokémon Scarlet and Violet
+* 【2022-11-27】[WowLegacyCore / HermesProxy](https://github.com/WowLegacyCore/HermesProxy) - A World of Warcraft connection Proxy for VMaNGOS & CMaNGOS.
 * 【2022-11-26】[stnkl / EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 * 【2022-11-26】[0x727 / SchTask_0x727](https://github.com/0x727/SchTask_0x727) - 创建隐藏计划任务，权限维持，Bypass AV
 * 【2022-11-25】[GhostPack / Certify](https://github.com/GhostPack/Certify) - Active Directory certificate abuse.
@@ -871,6 +895,9 @@
 
 ## Html
 
+* 【2022-11-27】[omerbsezer / Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
+* 【2022-11-27】[css-for-js / huckleberry](https://github.com/css-for-js/huckleberry) - 
+* 【2022-11-27】[SANYIMOE / VPN-free](https://github.com/SANYIMOE/VPN-free) - 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
 * 【2022-11-26】[symfony / symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation
 * 【2022-11-26】[OCA / server-env](https://github.com/OCA/server-env) - Tools to manage environment-dependent configuration
 * 【2022-11-26】[onlyGuo / nginx-gui](https://github.com/onlyGuo/nginx-gui) - Nginx GUI Manager
@@ -976,6 +1003,10 @@
 
 ## Css
 
+* 【2022-11-27】[erikflowers / weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+* 【2022-11-27】[next-step / js-racingcar](https://github.com/next-step/js-racingcar) - 자바스크립트와 Cypress로 구현 하는 자동차 경주 게임
+* 【2022-11-27】[kaeyleo / jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O) - 🎉A clean and delicate Jekyll theme. Jekyll博客主题
+* 【2022-11-27】[solstice23 / refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - BetterNCM 插件 - 沉浸式播放界面 网易云音乐美化
 * 【2022-11-26】[maivudhsp / pay1193](https://github.com/maivudhsp/pay1193) - 
 * 【2022-11-26】[tecg-dcc / js-tp-aria-tabs](https://github.com/tecg-dcc/js-tp-aria-tabs) - 
 * 【2022-11-25】[hosseinnabi-ir / Responsive-Glass-Sidebar-using-CSS-and-JavaScript](https://github.com/hosseinnabi-ir/Responsive-Glass-Sidebar-using-CSS-and-JavaScript) - 
@@ -1048,6 +1079,9 @@
 
 ## Unknown
 
+* 【2022-11-27】[seebye / ueberzug](https://github.com/seebye/ueberzug) - 
+* 【2022-11-27】[Helpsoftware / fanqiang](https://github.com/Helpsoftware/fanqiang) - SS & SSR & V2ray & Clash & Surge 等免费节点及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。
+* 【2022-11-27】[hackstoic / golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
 * 【2022-11-26】[tiimgreen / github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 * 【2022-11-26】[prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses) - 📚List of awesome university courses for learning Computer Science!
 * 【2022-11-26】[bespoyasov / refactor-like-a-superhero](https://github.com/bespoyasov/refactor-like-a-superhero) - How to refactor code efficiently and without pain •🧑‍💻➡️🦸
