@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-11-28】[MirrorX-Desktop / MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.
+* 【2022-11-28】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+* 【2022-11-28】[zhaoolee / ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
+* 【2022-11-28】[badafans / better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
 * 【2022-11-27】[Stability-AI / stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * 【2022-11-27】[starkware-libs / cairo](https://github.com/starkware-libs/cairo) - Cairo is the first Turing-complete language for creating provable programs for general computation.
 * 【2022-11-27】[microsoft / torchscale](https://github.com/microsoft/torchscale) - Transformers at any scale
@@ -183,6 +187,10 @@
 
 ## Java
 
+* 【2022-11-28】[apache / incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
+* 【2022-11-28】[spring-projects-experimental / spring-modulith](https://github.com/spring-projects-experimental/spring-modulith) - 
+* 【2022-11-28】[PraktikumJava / m1-t6-jar](https://github.com/PraktikumJava/m1-t6-jar) - 
+* 【2022-11-28】[inlym / life-helper-server](https://github.com/inlym/life-helper-server) - 🎉「小鸣助手」项目服务端代码，使用 Spring Boot 框架
 * 【2022-11-27】[xiaonuobase / Snowy](https://github.com/xiaonuobase/Snowy) - 💖Snowy是一款国内首个国密前后分离快速开发平台，采用Vue3+AntDesignVue3 + Vite+SpringBoot+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，真正做到：前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。
 * 【2022-11-26】[hibernate / hibernate-orm](https://github.com/hibernate/hibernate-orm) - Hibernate's core Object/Relational Mapping functionality
 * 【2022-11-26】[amitshekhariitbhu / android-interview-questions](https://github.com/amitshekhariitbhu/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions
@@ -250,6 +258,8 @@
 
 ## Python
 
+* 【2022-11-28】[hwchase17 / langchain](https://github.com/hwchase17/langchain) - ⚡Building applications with LLMs through composability⚡
+* 【2022-11-28】[MrMimic / data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 * 【2022-11-27】[StackStorm / st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
 * 【2022-11-27】[Extraltodeus / multi-subject-render](https://github.com/Extraltodeus/multi-subject-render) - Generate multiple complex subjects all at once!
 * 【2022-11-27】[channy / korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
@@ -406,6 +416,9 @@
 
 ## Javascript
 
+* 【2022-11-28】[adrianhajdin / project_metaverse](https://github.com/adrianhajdin/project_metaverse) - Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
+* 【2022-11-28】[Airmole / ShellBox](https://github.com/Airmole/ShellBox) - 贝壳小盒子Wechat微信小程序，高校微信小程序，集课表查询、成绩查询、电费查询、图书查询等功能于一体。
+* 【2022-11-28】[chengjunchao / xuexitongScript](https://github.com/chengjunchao/xuexitongScript) - 学习通自动刷课脚本
 * 【2022-11-27】[T-Ev / TwitterSearchTokenTest](https://github.com/T-Ev/TwitterSearchTokenTest) - Comma AI guy made a Tweet ;)
 * 【2022-11-27】[stjude / learngenomics.dev](https://github.com/stjude/learngenomics.dev) - A guided, intuitive introduction to genomics for software engineers. Curated by the community.
 * 【2022-11-27】[liriliri / eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
@@ -522,6 +535,7 @@
 
 ## Go
 
+* 【2022-11-28】[wenerme / go-wecom](https://github.com/wenerme/go-wecom) - Wechat Work/Wecom/企业微信 Golang SDK
 * 【2022-11-27】[MichaelMure / git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 * 【2022-11-26】[aler9 / rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
 * 【2022-11-25】[antonmedv / llama](https://github.com/antonmedv/llama) - Terminal file manager
@@ -625,6 +639,7 @@
 
 ## C
 
+* 【2022-11-28】[ponylang / ponyc](https://github.com/ponylang/ponyc) - 🐴Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 * 【2022-11-27】[heptagonhust / bicubic-image-resize](https://github.com/heptagonhust/bicubic-image-resize) - Codebase for recruitment of 2022 autumn.
 * 【2022-11-26】[alibaba / tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 * 【2022-11-26】[NVIDIA / MAXINE-AR-SDK](https://github.com/NVIDIA/MAXINE-AR-SDK) - NVIDIA AR SDK - API headers and sample applications
@@ -715,6 +730,9 @@
 
 ## C++
 
+* 【2022-11-28】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+* 【2022-11-28】[neutralinojs / neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
+* 【2022-11-28】[RealCorebb / bbPOV-P](https://github.com/RealCorebb/bbPOV-P) - Maybe the Best ESP32 POV Display
 * 【2022-11-27】[Klafyvel / AVR-FFT](https://github.com/Klafyvel/AVR-FFT) - 3 implementations of the FFT for Arduino AVR platforms!
 * 【2022-11-27】[lesliefish / Qt](https://github.com/lesliefish/Qt) - Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。
 * 【2022-11-26】[luajit-remake / luajit-remake](https://github.com/luajit-remake/luajit-remake) - An ongoing attempt to re-engineer LuaJIT from scratch
@@ -806,6 +824,10 @@
 
 ## C#
 
+* 【2022-11-28】[torchgm / RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+* 【2022-11-28】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
+* 【2022-11-28】[architdate / PKHeX-Plugins](https://github.com/architdate/PKHeX-Plugins) - Plugins for PKHeX
+* 【2022-11-28】[Davidobot / BetterJoy](https://github.com/Davidobot/BetterJoy) - Allows the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, Yuzu and as generic XInput
 * 【2022-11-27】[LegoFigure11 / RaidCrawler](https://github.com/LegoFigure11/RaidCrawler) - Raid Viewer for Pokémon Scarlet and Violet
 * 【2022-11-27】[WowLegacyCore / HermesProxy](https://github.com/WowLegacyCore/HermesProxy) - A World of Warcraft connection Proxy for VMaNGOS & CMaNGOS.
 * 【2022-11-26】[stnkl / EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -895,6 +917,8 @@
 
 ## Html
 
+* 【2022-11-28】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode🦉⬛️!
+* 【2022-11-28】[p-moon / develop-reference-data](https://github.com/p-moon/develop-reference-data) - 一些常用的开发文档
 * 【2022-11-27】[omerbsezer / Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
 * 【2022-11-27】[css-for-js / huckleberry](https://github.com/css-for-js/huckleberry) - 
 * 【2022-11-27】[SANYIMOE / VPN-free](https://github.com/SANYIMOE/VPN-free) - 玉桂家园免费VPN-科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily
@@ -1003,6 +1027,8 @@
 
 ## Css
 
+* 【2022-11-28】[linuxkerneltravel / website](https://github.com/linuxkerneltravel/website) - Linux内核之旅开源社区网站
+* 【2022-11-28】[thinktip / luci-theme-neobird](https://github.com/thinktip/luci-theme-neobird) - 一个专门针对移动端优化的OpenWRT主题，基于luci-theme-material，全新的登录界面，沉浸式Webapp体验。
 * 【2022-11-27】[erikflowers / weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 * 【2022-11-27】[next-step / js-racingcar](https://github.com/next-step/js-racingcar) - 자바스크립트와 Cypress로 구현 하는 자동차 경주 게임
 * 【2022-11-27】[kaeyleo / jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O) - 🎉A clean and delicate Jekyll theme. Jekyll博客主题
@@ -1079,6 +1105,8 @@
 
 ## Unknown
 
+* 【2022-11-28】[0xsyr0 / Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
+* 【2022-11-28】[Delcos / Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 * 【2022-11-27】[seebye / ueberzug](https://github.com/seebye/ueberzug) - 
 * 【2022-11-27】[Helpsoftware / fanqiang](https://github.com/Helpsoftware/fanqiang) - SS & SSR & V2ray & Clash & Surge 等免费节点及订阅地址分享和推荐，各种实用网站和软件分享。 此页面仅作学习交流用，请用于查找资料，不要做任何违法行为。所有资源均来自互联网，非盈利目的，仅供大家交流学习使用，出现一切问题概不负责。
 * 【2022-11-27】[hackstoic / golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) - 为互联网IT人打造的中文版awesome-go
