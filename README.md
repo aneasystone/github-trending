@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2022-11-29】[colinhacks / zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+* 【2022-11-29】[prophesier / diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model
 * 【2022-11-28】[MirrorX-Desktop / MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.
 * 【2022-11-28】[ChrisTitusTech / winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 * 【2022-11-28】[zhaoolee / ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
@@ -187,6 +189,11 @@
 
 ## Java
 
+* 【2022-11-29】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
+* 【2022-11-29】[spring-projects / spring-data-examples](https://github.com/spring-projects/spring-data-examples) - Spring Data Example Projects
+* 【2022-11-29】[Suwayomi / Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
+* 【2022-11-29】[Shangda-Zhao / Android-Rocker](https://github.com/Shangda-Zhao/Android-Rocker) - 
+* 【2022-11-29】[qqxx6661 / log-record](https://github.com/qqxx6661/log-record) - 使用注解优雅的记录系统日志，操作日志等，支持SpEL表达式，自定义上下文，自定义函数，实体类DIFF。并支持将日志消息传递至消息队列。
 * 【2022-11-28】[apache / incubator-celeborn](https://github.com/apache/incubator-celeborn) - Apache Celeborn is an elastic and high-performance service for shuffle and spilled data.
 * 【2022-11-28】[spring-projects-experimental / spring-modulith](https://github.com/spring-projects-experimental/spring-modulith) - 
 * 【2022-11-28】[PraktikumJava / m1-t6-jar](https://github.com/PraktikumJava/m1-t6-jar) - 
@@ -258,6 +265,11 @@
 
 ## Python
 
+* 【2022-11-29】[jiggy-ai / hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
+* 【2022-11-29】[hay-kot / mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+* 【2022-11-29】[CodeXBotz / File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
+* 【2022-11-29】[caj2pdf / caj2pdf](https://github.com/caj2pdf/caj2pdf) - Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。
+* 【2022-11-29】[muziing / PySide6-Code-Tutorial](https://github.com/muziing/PySide6-Code-Tutorial) - 可能是最好的PySide6中文教程！用代码实例讲解PySide6，附优质Demos、图标库、QSS皮肤、相关文章等分享！
 * 【2022-11-28】[hwchase17 / langchain](https://github.com/hwchase17/langchain) - ⚡Building applications with LLMs through composability⚡
 * 【2022-11-28】[MrMimic / data-scientist-roadmap](https://github.com/MrMimic/data-scientist-roadmap) - Toturials coming with the "data science roadmap" picture.
 * 【2022-11-27】[StackStorm / st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 integration packs with 6000+ actions (see https://exchange.stackstorm.org) and ChatOps. Installer at https://docs.stackstorm.com/install/index.html
@@ -416,6 +428,10 @@
 
 ## Javascript
 
+* 【2022-11-29】[Bogdan-Lyashenko / Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS) - Entire React code base explanation by visual block schemes (Stack version)
+* 【2022-11-29】[adam-golab / react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer
+* 【2022-11-29】[sadanandpai / frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges) - Collection of frontend challenges for learning and machine coding round interviews
+* 【2022-11-29】[zhimin-dev / iptv-checker](https://github.com/zhimin-dev/iptv-checker) - a iptv-checker tool for chrome extension, check your playlist is available
 * 【2022-11-28】[adrianhajdin / project_metaverse](https://github.com/adrianhajdin/project_metaverse) - Build and Deploy a Modern Next 13 Website With Framer Motion & Tailwind CSS
 * 【2022-11-28】[Airmole / ShellBox](https://github.com/Airmole/ShellBox) - 贝壳小盒子Wechat微信小程序，高校微信小程序，集课表查询、成绩查询、电费查询、图书查询等功能于一体。
 * 【2022-11-28】[chengjunchao / xuexitongScript](https://github.com/chengjunchao/xuexitongScript) - 学习通自动刷课脚本
@@ -535,6 +551,13 @@
 
 ## Go
 
+* 【2022-11-29】[jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+* 【2022-11-29】[bitfield / script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
+* 【2022-11-29】[google / mangle](https://github.com/google/mangle) - 
+* 【2022-11-29】[xm1k3 / cent](https://github.com/xm1k3/cent) - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
+* 【2022-11-29】[9bie / oss-stinger](https://github.com/9bie/oss-stinger) - 利用oss实现http转发/cobalt strike上线
+* 【2022-11-29】[hsyodyssey / Understanding-Ethereum-Go-version](https://github.com/hsyodyssey/Understanding-Ethereum-Go-version) - Understanding Ethereum(Go version)｜理解以太坊: Go-Ethereum 源码剖析
+* 【2022-11-29】[Monibuca / plugin-rtmp](https://github.com/Monibuca/plugin-rtmp) - RTMP协议插件，提供RTMP协议的server功能：接收rtmp推流和rtmp的播放功能
 * 【2022-11-28】[wenerme / go-wecom](https://github.com/wenerme/go-wecom) - Wechat Work/Wecom/企业微信 Golang SDK
 * 【2022-11-27】[MichaelMure / git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
 * 【2022-11-26】[aler9 / rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
@@ -639,6 +662,10 @@
 
 ## C
 
+* 【2022-11-29】[DarkFlippers / unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+* 【2022-11-29】[Coldzer0 / ReverseSock5Proxy](https://github.com/Coldzer0/ReverseSock5Proxy) - A tiny Reverse Sock5 Proxy written in C :V
+* 【2022-11-29】[sultim-t / vkquake-rt](https://github.com/sultim-t/vkquake-rt) - 
+* 【2022-11-29】[0x1abin / MultiTimer](https://github.com/0x1abin/MultiTimer) - Software timers extend module for embedded
 * 【2022-11-28】[ponylang / ponyc](https://github.com/ponylang/ponyc) - 🐴Pony is an open-source, actor-model, capabilities-secure, high performance programming language
 * 【2022-11-27】[heptagonhust / bicubic-image-resize](https://github.com/heptagonhust/bicubic-image-resize) - Codebase for recruitment of 2022 autumn.
 * 【2022-11-26】[alibaba / tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
@@ -730,6 +757,11 @@
 
 ## C++
 
+* 【2022-11-29】[osquery / osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
+* 【2022-11-29】[tildearrow / furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
+* 【2022-11-29】[zrax / pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
+* 【2022-11-29】[Shangda-Zhao / Tetris](https://github.com/Shangda-Zhao/Tetris) - 
+* 【2022-11-29】[FiYHer / InfinityHookPro](https://github.com/FiYHer/InfinityHookPro) - InfinityHookPro Win7 -> Win11 latest
 * 【2022-11-28】[TranslucentTB / TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 * 【2022-11-28】[neutralinojs / neutralinojs](https://github.com/neutralinojs/neutralinojs) - Portable and lightweight cross-platform desktop application development framework
 * 【2022-11-28】[RealCorebb / bbPOV-P](https://github.com/RealCorebb/bbPOV-P) - Maybe the Best ESP32 POV Display
@@ -824,6 +856,10 @@
 
 ## C#
 
+* 【2022-11-29】[ironmansoftware / psedit](https://github.com/ironmansoftware/psedit) - A terminal-based editor for PowerShell
+* 【2022-11-29】[ayufan / steam-deck-tools](https://github.com/ayufan/steam-deck-tools) - Steam Deck Fan, Overlay and Power Control for Windows
+* 【2022-11-29】[XIU2 / UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃UAC 白名单小工具！
+* 【2022-11-29】[cuiliang / ClickShow](https://github.com/cuiliang/ClickShow) - 鼠标点击特效
 * 【2022-11-28】[torchgm / RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 * 【2022-11-28】[FastEndpoints / FastEndpoints](https://github.com/FastEndpoints/FastEndpoints) - A light-weight REST API development framework for ASP.Net 6 and newer.
 * 【2022-11-28】[architdate / PKHeX-Plugins](https://github.com/architdate/PKHeX-Plugins) - Plugins for PKHeX
@@ -917,6 +953,8 @@
 
 ## Html
 
+* 【2022-11-29】[clappr / clappr](https://github.com/clappr/clappr) - 🎬An extensible media player for the web.
+* 【2022-11-29】[insolitum / insolitum.github.io](https://github.com/insolitum/insolitum.github.io) - Private Webpage
 * 【2022-11-28】[janraasch / hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode🦉⬛️!
 * 【2022-11-28】[p-moon / develop-reference-data](https://github.com/p-moon/develop-reference-data) - 一些常用的开发文档
 * 【2022-11-27】[omerbsezer / Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - This repo covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Kubeadm, Helm, etc.
@@ -1027,6 +1065,9 @@
 
 ## Css
 
+* 【2022-11-29】[moelzanaty3 / react-18-workshop](https://github.com/moelzanaty3/react-18-workshop) - 
+* 【2022-11-29】[vinceliuice / Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops
+* 【2022-11-29】[no5ix / no5ix.github.io](https://github.com/no5ix/no5ix.github.io) - A optimized hexo-theme-next.一个优化过的NexT主题.
 * 【2022-11-28】[linuxkerneltravel / website](https://github.com/linuxkerneltravel/website) - Linux内核之旅开源社区网站
 * 【2022-11-28】[thinktip / luci-theme-neobird](https://github.com/thinktip/luci-theme-neobird) - 一个专门针对移动端优化的OpenWRT主题，基于luci-theme-material，全新的登录界面，沉浸式Webapp体验。
 * 【2022-11-27】[erikflowers / weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
@@ -1105,6 +1146,10 @@
 
 ## Unknown
 
+* 【2022-11-29】[Abd-007 / Switch-Emulators-Guide](https://github.com/Abd-007/Switch-Emulators-Guide) - A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.
+* 【2022-11-29】[YaS5in3 / Bug-Bounty-Wordlists](https://github.com/YaS5in3/Bug-Bounty-Wordlists) - 
+* 【2022-11-29】[karan / Projects](https://github.com/karan/Projects) - 📃A list of practical projects that anyone can solve in any programming language.
+* 【2022-11-29】[waydabber / BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 * 【2022-11-28】[0xsyr0 / Awesome-Cybersecurity-Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks) - A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.
 * 【2022-11-28】[Delcos / Hentai-Diffusion](https://github.com/Delcos/Hentai-Diffusion) - The official place for the best A.I.
 * 【2022-11-27】[seebye / ueberzug](https://github.com/seebye/ueberzug) - 
