@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-01】[Privoce / vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
+* 【2022-12-01】[MuiseDestiny / ZoteroStyle](https://github.com/MuiseDestiny/ZoteroStyle) - 一个随便写写的Zotero插件
+* 【2022-12-01】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
+* 【2022-12-01】[ShirasawaSama / CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+* 【2022-12-01】[Anthem-whisper / YApi-Exploit](https://github.com/Anthem-whisper/YApi-Exploit) - YApi boolean-based injection exploit.
+* 【2022-12-01】[fuckxmz / LoveGreenCode](https://github.com/fuckxmz/LoveGreenCode) - 
+* 【2022-12-01】[winezer0 / passive-scan-client-plus](https://github.com/winezer0/passive-scan-client-plus) - passive-scan-client 维护分支
+* 【2022-12-01】[haiibo / OpenWrt](https://github.com/haiibo/OpenWrt) - 基于 Lean 源码编译的 OpenWrt 固件——适配X86、R2C、R2S、R4S、R4SE、R5S、香橙派 R1 Plus、树莓派3B/B+、树莓派4B、R66S、R68S、H66K、H68K、H88K、Rock5b、M68S、E25、N1、S905x3、S922x、HK1、X96max、微加云、贝壳云、我家云、章鱼星球等
+* 【2022-12-01】[567haofeiji / yingyuan](https://github.com/567haofeiji/yingyuan) - 
 * 【2022-11-30】[google / rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 * 【2022-11-30】[VoronDesign / Voron-Tap](https://github.com/VoronDesign/Voron-Tap) - 
 * 【2022-11-30】[alan2207 / bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️⚛️A simple, scalable, and powerful architecture for building production ready React applications.
@@ -197,6 +206,8 @@
 
 ## Java
 
+* 【2022-12-01】[smallrye / smallrye-mutiny](https://github.com/smallrye/smallrye-mutiny) - An Intuitive Event-Driven Reactive Programming Library for Java
+* 【2022-12-01】[firebase / quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * 【2022-11-30】[youtube / api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 * 【2022-11-30】[dromara / lamp-cloud](https://github.com/dromara/lamp-cloud) - lamp-cloud 基于Jdk11 + SpringCloud + SpringBoot 开发的微服务中后台快速开发平台，专注于多租户(SaaS架构)解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现插拔式数据库隔离、SCHEMA隔离、字段隔离 等租户隔离方案。
 * 【2022-11-29】[apache / netbeans](https://github.com/apache/netbeans) - Apache NetBeans
@@ -275,6 +286,17 @@
 
 ## Python
 
+* 【2022-12-01】[Tanmoy741127 / lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
+* 【2022-12-01】[xfangfang / Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
+* 【2022-12-01】[ccie18643 / PyTCP](https://github.com/ccie18643/PyTCP) - PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It also supports IPv6/ICMPv6 protocols with SLAAC address configuration. It operates as a user space program attached to the Linux TAP interface.
+* 【2022-12-01】[PyGithub / PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+* 【2022-12-01】[PyCQA / pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
+* 【2022-12-01】[veebch / photon](https://github.com/veebch/photon) - A DIY incident light meter
+* 【2022-12-01】[founder-yu / Healthy-Punch-Card](https://github.com/founder-yu/Healthy-Punch-Card) - 中南大学健康打卡（2022年新版）
+* 【2022-12-01】[Gaoyongxian666 / OpenSearcher](https://github.com/Gaoyongxian666/OpenSearcher) - 一个基于PyQT5开源的、本地的、安全的、支持全文检索的搜索器。
+* 【2022-12-01】[innnky / FreeSVC](https://github.com/innnky/FreeSVC) - 基于FreeVC的歌声转换
+* 【2022-12-01】[guanguans / favorite-link](https://github.com/guanguans/favorite-link) - ❤️每天收集喜欢的开源项目 | RSS 订阅 | 快知 app 订阅
+* 【2022-12-01】[Zakkoree / woiden_extend](https://github.com/Zakkoree/woiden_extend) - woiden.id and hax.co.id auto extend
 * 【2022-11-30】[platformio / platformio-core](https://github.com/platformio/platformio-core) - A professional collaborative platform for embedded development👽
 * 【2022-11-30】[ubisoft / ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) - All about ZeroEggs publication ( https://arxiv.org/abs/2209.07556 )
 * 【2022-11-30】[kangvcar / InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
@@ -444,6 +466,10 @@
 
 ## Javascript
 
+* 【2022-12-01】[apo-bozdag / sahibinden-pro-extension](https://github.com/apo-bozdag/sahibinden-pro-extension) - Daha iyi bir sahibinden.com deneyimi için geliştirilmiş bir eklenti.
+* 【2022-12-01】[olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
+* 【2022-12-01】[airbnb / lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+* 【2022-12-01】[HoangTran0410 / useful-script](https://github.com/HoangTran0410/useful-script) - Chrome extension that provides some useful scripts
 * 【2022-11-30】[bilibili / flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 * 【2022-11-30】[quarkape / free_logo](https://github.com/quarkape/free_logo) - 【一个】插件帮你快速、免费下载【两个】网站的无水印、高清LOGO！
 * 【2022-11-30】[feeddd / feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
@@ -571,6 +597,9 @@
 
 ## Go
 
+* 【2022-12-01】[hazcod / ransomwhere](https://github.com/hazcod/ransomwhere) - A PoC ransomware sample to test out your ransomware response strategy.
+* 【2022-12-01】[cloudquery / cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
+* 【2022-12-01】[dominikh / go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
 * 【2022-11-30】[beringresearch / macpine](https://github.com/beringresearch/macpine) - Lightweight Linux VMs on MacOS
 * 【2022-11-30】[wader / fq](https://github.com/wader/fq) - jq for binary formats
 * 【2022-11-30】[helmfile / helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
@@ -691,6 +720,9 @@
 
 ## C
 
+* 【2022-12-01】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
+* 【2022-12-01】[polygraphene / DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android) - Dirty Pipe root exploit for Android (Pixel 6)
+* 【2022-12-01】[antirez / sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
 * 【2022-11-30】[cockpit-project / cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 * 【2022-11-30】[phpredis / phpredis](https://github.com/phpredis/phpredis) - A PHP extension for Redis
 * 【2022-11-30】[DualCoder / vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
@@ -790,6 +822,8 @@
 
 ## C++
 
+* 【2022-12-01】[danmar / cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* 【2022-12-01】[BrunoLevy / learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 * 【2022-11-30】[nzbget / nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
 * 【2022-11-30】[microsoft / wil](https://github.com/microsoft/wil) - Windows Implementation Library
 * 【2022-11-30】[xournalpp / xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.
@@ -1001,6 +1035,12 @@
 
 ## Html
 
+* 【2022-12-01】[Adamnite / Adamnite.github.io](https://github.com/Adamnite/Adamnite.github.io) - Adamnite Website
+* 【2022-12-01】[csev / py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
+* 【2022-12-01】[wesbos / wesboss](https://github.com/wesbos/wesboss) - too many s
+* 【2022-12-01】[zlib-download / zlib-download](https://github.com/zlib-download/zlib-download) - zlib.download project
+* 【2022-12-01】[arantius / web-color-wheel](https://github.com/arantius/web-color-wheel) - 
+* 【2022-12-01】[mksshare / mksshare.github.io](https://github.com/mksshare/mksshare.github.io) - 每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN
 * 【2022-11-30】[jstrosch / malware-samples](https://github.com/jstrosch/malware-samples) - Malware samples, analysis exercises and other interesting resources.
 * 【2022-11-30】[arcanis / secretsanta](https://github.com/arcanis/secretsanta) - Host secret santa without leaking your guests' informations🎄
 * 【2022-11-30】[shashirajraja / onlinebookstore](https://github.com/shashirajraja/onlinebookstore) - The Online Book Shopping Store to manage, buy, add, remove and sell books. Book name and Quantity selection, auto receipt generated and payment options. Login and logout security for both user and admin. Seperate Profile for all.
@@ -1117,6 +1157,9 @@
 
 ## Css
 
+* 【2022-12-01】[Aayushi-web / bubble](https://github.com/Aayushi-web/bubble) - 
+* 【2022-12-01】[azerothcore / wiki](https://github.com/azerothcore/wiki) - AzerothCore wiki based on Drassil Git-Wiki
+* 【2022-12-01】[itorr / blank-font](https://github.com/itorr/blank-font) - 😶「防回退空白字体」a prevent fallback blank font
 * 【2022-11-30】[rupin / PiZeroMagicMirror](https://github.com/rupin/PiZeroMagicMirror) - A Pi Zero Magic Mirror Application
 * 【2022-11-30】[buildspace / gpt3-writer-starter](https://github.com/buildspace/gpt3-writer-starter) - 
 * 【2022-11-30】[NoName3915 / api](https://github.com/NoName3915/api) - 4E API DTS
@@ -1205,6 +1248,16 @@
 
 ## Unknown
 
+* 【2022-12-01】[cugu / awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
+* 【2022-12-01】[Bogdanp / awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
+* 【2022-12-01】[ahmetb / kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
+* 【2022-12-01】[aws / aws-sdk-java](https://github.com/aws/aws-sdk-java) - The official AWS SDK for Java.
+* 【2022-12-01】[buildspace / gpt3-writer-extension-starter](https://github.com/buildspace/gpt3-writer-extension-starter) - 
+* 【2022-12-01】[linjunc / react-study](https://github.com/linjunc/react-study) - 🎉Here are all the high-quality React articles, a React repository worth learning
+* 【2022-12-01】[qiandao-today / templates](https://github.com/qiandao-today/templates) - 基于开源新版签到框架站发布的公共har模板库，仅供示例
+* 【2022-12-01】[1n7erface / RequestTemplate](https://github.com/1n7erface/RequestTemplate) - 双语双端内网扫描以及验证工具
+* 【2022-12-01】[mzzsfy / Actions-buildUtils](https://github.com/mzzsfy/Actions-buildUtils) - 一些通用的白嫖git Actions的构建工具
+* 【2022-12-01】[1c7 / Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🤖字幕组机翻小助手 - 【功能1：翻译字幕文件】 .srt .ass .vtt 【功能2：语音转文字】（拖入视频或音频识别出字幕） (最新版 v4.1.0 更新时间2021年2月23号) 可配置12家翻译服务商，如谷歌,百度,腾讯,彩云,IBM,Azure,Amazon等（可配置6家语音服务商：阿里云，讯飞，腾讯云，IBM，Azure，Amazon ）优点：1. 可以用多家服务商，2. 自己配 API Key 用自己账户的免费额度，比如腾讯每月有500万字符的免费翻译额度，IBM 500分钟的语音转文字免费额度(tern.best 那个域名过期了我不想续费了）Azure 语音转文字和 DeepL 免费版出了问题，用不了是正常的，请等待下个版本修复。
 * 【2022-11-30】[ashemery / LinuxForensics](https://github.com/ashemery/LinuxForensics) - Everything related to Linux Forensics
 * 【2022-11-30】[Voorivex / pentest-guide](https://github.com/Voorivex/pentest-guide) - Penetration tests guide based on OWASP including test cases, resources and examples.
 * 【2022-11-30】[zy-dsj-sm / Protest-2022-11](https://github.com/zy-dsj-sm/Protest-2022-11) - 整理记录2022年11月左右发生在中国的大规模抗议活动
