@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-12-02】[zu1k / zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+* 【2022-12-02】[midudev / libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis) - 📚Lista de libros sobre programación en Español y gratis
+* 【2022-12-02】[siyuan-note / siyuan](https://github.com/siyuan-note/siyuan) - Build Your Eternal Digital Garden 构建你永恒的数字花园
+* 【2022-12-02】[opendilab / PPOxFamily](https://github.com/opendilab/PPOxFamily) - PPO x Family DRL Tutorial Course
+* 【2022-12-02】[evilbutcher / QuantumultX](https://github.com/evilbutcher/QuantumultX) - 瞎写的QuantumultX的代码
 * 【2022-12-01】[Privoce / vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 * 【2022-12-01】[MuiseDestiny / ZoteroStyle](https://github.com/MuiseDestiny/ZoteroStyle) - 一个随便写写的Zotero插件
 * 【2022-12-01】[Mereithhh / vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的高性能个人博客系统
@@ -206,6 +211,9 @@
 
 ## Java
 
+* 【2022-12-02】[lets-mica / mica](https://github.com/lets-mica/mica) - Spring Cloud 微服务开发核心工具集。工具类、验证码、http、redis、ip2region、xss 等，开箱即用。🔝🔝记得右上角点个star 关注更新！
+* 【2022-12-02】[admin4j / common-http](https://github.com/admin4j/common-http) - HTTP request library packaged specifically for JAVA
+* 【2022-12-02】[Hiro-art / Enterprise-Forum-System](https://github.com/Hiro-art/Enterprise-Forum-System) - 西北工业大学Web开发大作业
 * 【2022-12-01】[smallrye / smallrye-mutiny](https://github.com/smallrye/smallrye-mutiny) - An Intuitive Event-Driven Reactive Programming Library for Java
 * 【2022-12-01】[firebase / quickstart-android](https://github.com/firebase/quickstart-android) - Firebase Quickstart Samples for Android
 * 【2022-11-30】[youtube / api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
@@ -286,6 +294,11 @@
 
 ## Python
 
+* 【2022-12-02】[openai / openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+* 【2022-12-02】[elceef / subzuf](https://github.com/elceef/subzuf) - a smart DNS response-guided subdomain fuzzer
+* 【2022-12-02】[0-8-4 / miui-auto-tasks](https://github.com/0-8-4/miui-auto-tasks) - 一个自动化完成小米社区任务的脚本
+* 【2022-12-02】[founder-yu / V2free-Checkin](https://github.com/founder-yu/V2free-Checkin) - V2free自动签到
+* 【2022-12-02】[BNDou / World_Cup](https://github.com/BNDou/World_Cup) - 2022世界杯预测
 * 【2022-12-01】[Tanmoy741127 / lumi](https://github.com/Tanmoy741127/lumi) - Lumi is an nano framework to convert your python functions into a REST API without any extra headache.
 * 【2022-12-01】[xfangfang / Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 * 【2022-12-01】[ccie18643 / PyTCP](https://github.com/ccie18643/PyTCP) - PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It also supports IPv6/ICMPv6 protocols with SLAAC address configuration. It operates as a user space program attached to the Linux TAP interface.
@@ -466,6 +479,11 @@
 
 ## Javascript
 
+* 【2022-12-02】[servetgulnaroglu / pacman-js](https://github.com/servetgulnaroglu/pacman-js) - 
+* 【2022-12-02】[OneBitCodeBlog / onebitlife](https://github.com/OneBitCodeBlog/onebitlife) - Aplicativo desenvolvido na Semana Mobile do OneBitCode
+* 【2022-12-02】[microsoft / Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
+* 【2022-12-02】[deezertidal / private](https://github.com/deezertidal/private) - Loon配置脚本插件
+* 【2022-12-02】[zltl / sguala](https://github.com/zltl/sguala) - Linux system monitor without agent and server.
 * 【2022-12-01】[apo-bozdag / sahibinden-pro-extension](https://github.com/apo-bozdag/sahibinden-pro-extension) - Daha iyi bir sahibinden.com deneyimi için geliştirilmiş bir eklenti.
 * 【2022-12-01】[olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript
 * 【2022-12-01】[airbnb / lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
@@ -597,6 +615,11 @@
 
 ## Go
 
+* 【2022-12-02】[github / gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
+* 【2022-12-02】[cedricblondeau / world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal.⚽🏆
+* 【2022-12-02】[gocrane / crane](https://github.com/gocrane/crane) - Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications. https://gocrane.io/
+* 【2022-12-02】[cue-lang / cue](https://github.com/cue-lang/cue) - The new home of the CUE language! Validate and define text-based and dynamic configuration
+* 【2022-12-02】[thank243 / v2rayS](https://github.com/thank243/v2rayS) - A v2ray backend framework that can easily support many panels. 一个基于v2ray的后端框架，支持V2ay，Trojan协议，极易扩展，支持多面板对接。
 * 【2022-12-01】[hazcod / ransomwhere](https://github.com/hazcod/ransomwhere) - A PoC ransomware sample to test out your ransomware response strategy.
 * 【2022-12-01】[cloudquery / cloudquery](https://github.com/cloudquery/cloudquery) - The open-source data integration platform for security and infrastructure teams
 * 【2022-12-01】[dominikh / go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
@@ -720,6 +743,8 @@
 
 ## C
 
+* 【2022-12-02】[cnlohr / mini-rv32ima](https://github.com/cnlohr/mini-rv32ima) - A tiny C header-only risc-v emulator.
+* 【2022-12-02】[tsoding / olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C
 * 【2022-12-01】[DoctorWkt / acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 * 【2022-12-01】[polygraphene / DirtyPipe-Android](https://github.com/polygraphene/DirtyPipe-Android) - Dirty Pipe root exploit for Android (Pixel 6)
 * 【2022-12-01】[antirez / sds](https://github.com/antirez/sds) - Simple Dynamic Strings library for C
@@ -822,6 +847,8 @@
 
 ## C++
 
+* 【2022-12-02】[ArthurSonzogni / FTXUI](https://github.com/ArthurSonzogni/FTXUI) - 💻C++ Functional Terminal User Interface.❤️
+* 【2022-12-02】[hxhb / HotPatcher](https://github.com/hxhb/HotPatcher) - Unreal Engine hot update manage and package plugin.
 * 【2022-12-01】[danmar / cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 * 【2022-12-01】[BrunoLevy / learn-fpga](https://github.com/BrunoLevy/learn-fpga) - Learning FPGA, yosys, nextpnr, and RISC-V
 * 【2022-11-30】[nzbget / nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader
@@ -929,6 +956,10 @@
 
 ## C#
 
+* 【2022-12-02】[kwsch / pkNX](https://github.com/kwsch/pkNX) - Pokémon (Nintendo Switch) ROM Editor & Randomizer
+* 【2022-12-02】[5cover / WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
+* 【2022-12-02】[a935368322 / Kogel.Subscribe](https://github.com/a935368322/Kogel.Subscribe) - 数据库增量订阅
+* 【2022-12-02】[BruceQiu1996 / EFCoreDemo](https://github.com/BruceQiu1996/EFCoreDemo) - 一个优雅使用EFCore的示例代码
 * 【2022-11-30】[ironmansoftware / psmsi](https://github.com/ironmansoftware/psmsi) - Create MSIs using PowerShell.
 * 【2022-11-30】[Azure / durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 * 【2022-11-30】[mob-sakai / SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI) - UI Soft Mask is a smooth masking component for Unity UI (uGUI) elements.
@@ -1035,6 +1066,7 @@
 
 ## Html
 
+* 【2022-12-02】[iksergey / OhMyGit](https://github.com/iksergey/OhMyGit) - 
 * 【2022-12-01】[Adamnite / Adamnite.github.io](https://github.com/Adamnite/Adamnite.github.io) - Adamnite Website
 * 【2022-12-01】[csev / py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 * 【2022-12-01】[wesbos / wesboss](https://github.com/wesbos/wesboss) - too many s
@@ -1157,6 +1189,8 @@
 
 ## Css
 
+* 【2022-12-02】[WilliamStaudenmeier / Kodama](https://github.com/WilliamStaudenmeier/Kodama) - Simple CSS and JS animation of the Japanese tree-spirit, Kodama: https://codepen.io/WilliamStaudenmeier
+* 【2022-12-02】[NicklasVraa / Obsidian-academic-export](https://github.com/NicklasVraa/Obsidian-academic-export) - Turn your obsidian notes into academic papers.
 * 【2022-12-01】[Aayushi-web / bubble](https://github.com/Aayushi-web/bubble) - 
 * 【2022-12-01】[azerothcore / wiki](https://github.com/azerothcore/wiki) - AzerothCore wiki based on Drassil Git-Wiki
 * 【2022-12-01】[itorr / blank-font](https://github.com/itorr/blank-font) - 😶「防回退空白字体」a prevent fallback blank font
@@ -1248,6 +1282,9 @@
 
 ## Unknown
 
+* 【2022-12-02】[sunym1993 / computer-all](https://github.com/sunym1993/computer-all) - 
+* 【2022-12-02】[insolitum / insolitum](https://github.com/insolitum/insolitum) - 
+* 【2022-12-02】[yinggaozhen / awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 * 【2022-12-01】[cugu / awesome-forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources
 * 【2022-12-01】[Bogdanp / awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 * 【2022-12-01】[ahmetb / kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes) - Example recipes for Kubernetes Network Policies that you can just copy paste
