@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-04】[apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
+* 【2022-12-04】[invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
+* 【2022-12-04】[charlax / engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
+* 【2022-12-04】[bobby-didcoding / drf_course](https://github.com/bobby-didcoding/drf_course) - Django Rest Framework Course
+* 【2022-12-04】[Nixtla / statsforecast](https://github.com/Nixtla/statsforecast) - Lightning⚡️fast forecasting with statistical and econometric models.
+* 【2022-12-04】[google / security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+* 【2022-12-04】[excalidraw / excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+* 【2022-12-04】[kotlin-hands-on / advent-of-code-kotlin-template](https://github.com/kotlin-hands-on/advent-of-code-kotlin-template) - The Advent of Code template project for Kotlin
+* 【2022-12-04】[Xposed-Modules-Repo / io.github.tehcneko.satback](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.satback) - 颜色回来
 * 【2022-12-03】[thangchung / go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
 * 【2022-12-03】[google / accompanist](https://github.com/google/accompanist) - A collection of extension libraries for Jetpack Compose
 * 【2022-12-03】[maplecool / easytrojan](https://github.com/maplecool/easytrojan) - 世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器
@@ -219,6 +228,8 @@
 
 ## Java
 
+* 【2022-12-04】[gaucho-matrero / altoclef](https://github.com/gaucho-matrero/altoclef) - Plays block game
+* 【2022-12-04】[firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 * 【2022-12-03】[yidongnan / grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
 * 【2022-12-03】[signalapp / Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 * 【2022-12-03】[anons-org / opencar](https://github.com/anons-org/opencar) - OpenCar riscv emulator written in java openCar 主要完成一款仿真Riscv指令集的软件，目标是提供基础的Rv指令模拟环境，同时支持各芯片方基于openCar扩展指令以实现趋近于芯片功能的仿真环境，为异构的软件生态提供方便的调试观察功能。
@@ -308,6 +319,17 @@
 
 ## Python
 
+* 【2022-12-04】[openai / openai-python](https://github.com/openai/openai-python) - 
+* 【2022-12-04】[wimglenn / advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
+* 【2022-12-04】[extreme-bert / extreme-bert](https://github.com/extreme-bert/extreme-bert) - ExtremeBERT is a toolkit that accelerates the pretraining of customized language models on customized datasets, described in the paper “ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT”.
+* 【2022-12-04】[tinyvision / DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) - DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.
+* 【2022-12-04】[openai / gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+* 【2022-12-04】[kernc / backtesting.py](https://github.com/kernc/backtesting.py) - 🔎📈🐍💰Backtest trading strategies in Python.
+* 【2022-12-04】[NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
+* 【2022-12-04】[ScottSloan / Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader) - 下载 Bilibili 视频/番剧/电影/纪录片 等资源
+* 【2022-12-04】[InsaneLife / ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus) - 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
+* 【2022-12-04】[Hala2Madrid / dbt-footprint](https://github.com/Hala2Madrid/dbt-footprint) - This project wants to help SQL analysts to use Footprint easily with the power of dbt.
+* 【2022-12-04】[Visualize-ML / Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics) - Book_5_《统计至简》 | 鸢尾花书：从加减乘除到机器学习；陆续上传25章草稿。草稿还会经过至少两轮修改，大家注意下载最新版本。请多提意见，谢谢
 * 【2022-12-03】[AlgoHunt / VQRF](https://github.com/AlgoHunt/VQRF) - Official implementation of our arxiv paper "Compressing Volumetric Radiance Fields to 1 MB"
 * 【2022-12-03】[paulonteri / play-game-with-computer-vision](https://github.com/paulonteri/play-game-with-computer-vision) - A simple python bot (powered by computer vision) used to play City Island. The bot is able to play the game without any human intervention.
 * 【2022-12-03】[voxel51 / fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
@@ -504,6 +526,19 @@
 
 ## Javascript
 
+* 【2022-12-04】[openai / openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
+* 【2022-12-04】[sindresorhus / query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
+* 【2022-12-04】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
+* 【2022-12-04】[blueedgetechno / win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React💻🌈⚡
+* 【2022-12-04】[Rob--W / cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+* 【2022-12-04】[nasa / openmct](https://github.com/nasa/openmct) - A web based mission control framework.
+* 【2022-12-04】[plotly / plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
+* 【2022-12-04】[DevHaoZi / Panel](https://github.com/DevHaoZi/Panel) - （镜像）耗子Linux面板
+* 【2022-12-04】[miantj / jd_Scripts](https://github.com/miantj/jd_Scripts) - 京东自动签到，浇水等薅羊毛脚本
+* 【2022-12-04】[dtlnor / stable-diffusion-webui-localization-zh_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN) - Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
+* 【2022-12-04】[zizifn / edgetunnel](https://github.com/zizifn/edgetunnel) - 一个无比简单安全，基于 edge 的 tunnel
+* 【2022-12-04】[killall-love / app_scripts](https://github.com/killall-love/app_scripts) - 
+* 【2022-12-04】[XiTianGame / xitian-plugin](https://github.com/XiTianGame/xitian-plugin) - 一个Yunzai-Bot（V3）的插件管理器
 * 【2022-12-03】[OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 * 【2022-12-03】[AlreadyBored / node-nodejs-basics](https://github.com/AlreadyBored/node-nodejs-basics) - 
 * 【2022-12-03】[serverless / examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
@@ -649,6 +684,8 @@
 
 ## Go
 
+* 【2022-12-04】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+* 【2022-12-04】[owncloud / ocis](https://github.com/owncloud/ocis) - ⚛️ownCloud Infinite Scale Stack
 * 【2022-12-03】[golang / protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 * 【2022-12-03】[influxdata / influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * 【2022-12-03】[open-telemetry / opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -782,6 +819,10 @@
 
 ## C
 
+* 【2022-12-04】[giltene / wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
+* 【2022-12-04】[SPuerBRead / shovel](https://github.com/SPuerBRead/shovel) - Docker容器逃逸工具（Docker Escape Tools）
+* 【2022-12-04】[CodeXTF2 / WindowSpy](https://github.com/CodeXTF2/WindowSpy) - 
+* 【2022-12-04】[Xinyuan-LilyGO / TTGO-T-Display](https://github.com/Xinyuan-LilyGO/TTGO-T-Display) - 
 * 【2022-12-03】[hepingood / htu21d](https://github.com/hepingood/htu21d) - htu21d full function driver
 * 【2022-12-03】[dvorka / hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
 * 【2022-12-03】[equipter / mfkey32v2](https://github.com/equipter/mfkey32v2) - Mifare Classic Key Calculator v2
@@ -889,6 +930,8 @@
 
 ## C++
 
+* 【2022-12-04】[Autodesk / Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
+* 【2022-12-04】[verilator / verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
 * 【2022-12-03】[storm-devs / captain-blood](https://github.com/storm-devs/captain-blood) - 
 * 【2022-12-02】[ArthurSonzogni / FTXUI](https://github.com/ArthurSonzogni/FTXUI) - 💻C++ Functional Terminal User Interface.❤️
 * 【2022-12-02】[hxhb / HotPatcher](https://github.com/hxhb/HotPatcher) - Unreal Engine hot update manage and package plugin.
@@ -999,6 +1042,10 @@
 
 ## C#
 
+* 【2022-12-04】[encse / adventofcode](https://github.com/encse/adventofcode) - 🎄Advent of Code (2015-2022) in C#
+* 【2022-12-04】[EasyNetQ / EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
+* 【2022-12-04】[0x7c13 / Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+* 【2022-12-04】[chr233 / ASFEnhance](https://github.com/chr233/ASFEnhance) - ASF增强插件 / External commands for ASF
 * 【2022-12-03】[jgosar / mine-city-2000](https://github.com/jgosar/mine-city-2000) - A program that converts SimCity 2000 cities into Minecraft worlds
 * 【2022-12-03】[featbit / featbit](https://github.com/featbit/featbit) - A scalable, high-performance feature management and progressive experimentation platform
 * 【2022-12-02】[kwsch / pkNX](https://github.com/kwsch/pkNX) - Pokémon (Nintendo Switch) ROM Editor & Randomizer
@@ -1111,6 +1158,13 @@
 
 ## Html
 
+* 【2022-12-04】[alura-cursos / logica_progamacion_parte1](https://github.com/alura-cursos/logica_progamacion_parte1) - Repositorio de los archivos del curso de Lógica de Programación - Parte 1
+* 【2022-12-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
+* 【2022-12-04】[Advent-Of-Vue / 2022-gift-search-bar](https://github.com/Advent-Of-Vue/2022-gift-search-bar) - Advent Of Vue 2022's Gift Search Bar Puzzle Starter + Solution
+* 【2022-12-04】[tc39 / proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
+* 【2022-12-04】[tc39 / proposal-set-methods](https://github.com/tc39/proposal-set-methods) - Proposal for new Set methods in JS
+* 【2022-12-04】[fake-useragent / fake-useragent](https://github.com/fake-useragent/fake-useragent) - Up-to-date simple useragent faker with real world database
+* 【2022-12-04】[microsoft / WhatTheHack](https://github.com/microsoft/WhatTheHack) - A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates. Please visit the What The Hack website at: https://aka.ms/wth
 * 【2022-12-03】[ericchiang / pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 * 【2022-12-03】[darwinanddavis / worldmaps](https://github.com/darwinanddavis/worldmaps) - 
 * 【2022-12-02】[iksergey / OhMyGit](https://github.com/iksergey/OhMyGit) - 
@@ -1236,6 +1290,12 @@
 
 ## Css
 
+* 【2022-12-04】[Overimagine1 / old-discord-font](https://github.com/Overimagine1/old-discord-font) - CSS to revert Discord's font change.
+* 【2022-12-04】[fourkitchens / sous-drupal-distro](https://github.com/fourkitchens/sous-drupal-distro) - A base Drupal distribution profile with a theme based on Emulsify Design System
+* 【2022-12-04】[lighthouse-labs / album-search](https://github.com/lighthouse-labs/album-search) - 
+* 【2022-12-04】[tocttou / hacker-blog](https://github.com/tocttou/hacker-blog) - Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. https://ashishchaudhary.in/hacker-blog
+* 【2022-12-04】[williamckha / spicetify-fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design
+* 【2022-12-04】[Princerey / Pokemon](https://github.com/Princerey/Pokemon) - Full-fledged Pokémon website
 * 【2022-12-03】[openai / openai-quickstart-python](https://github.com/openai/openai-quickstart-python) - Python example app from the OpenAI API quickstart tutorial
 * 【2022-12-03】[joelsondiasti / card-profissional](https://github.com/joelsondiasti/card-profissional) - card-profissional
 * 【2022-12-03】[otizgit / CapacityBay-Final-CSS-Project](https://github.com/otizgit/CapacityBay-Final-CSS-Project) - 
@@ -1333,6 +1393,15 @@
 
 ## Unknown
 
+* 【2022-12-04】[certsocietegenerale / IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies 2022
+* 【2022-12-04】[aptos-foundation / ecosystem-projects](https://github.com/aptos-foundation/ecosystem-projects) - A collection of live projects within the Aptos ecosystem.
+* 【2022-12-04】[TodePond / DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+* 【2022-12-04】[intel / llvm](https://github.com/intel/llvm) - Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.
+* 【2022-12-04】[kiirsti / ggplot_adventcalendaR](https://github.com/kiirsti/ggplot_adventcalendaR) - A 25-day advent calendaR providing an introduction to ggplot2!
+* 【2022-12-04】[pop-os / cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
+* 【2022-12-04】[hwanz / SSR-V2ray-Trojan-vpn](https://github.com/hwanz/SSR-V2ray-Trojan-vpn) - 免费机场公益机场收集/免费vpn-定时更新
+* 【2022-12-04】[ddgksf2013 / WebSite](https://github.com/ddgksf2013/WebSite) - 
+* 【2022-12-04】[shengyp / doing_the_PhD](https://github.com/shengyp/doing_the_PhD) - 
 * 【2022-12-03】[markerikson / react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 * 【2022-12-03】[theboy181 / switch-ptchtxt-mods](https://github.com/theboy181/switch-ptchtxt-mods) - 
 * 【2022-12-03】[score-spec / spec](https://github.com/score-spec/spec) - The score specification file
