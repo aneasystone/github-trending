@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-12-05】[misskey-dev / misskey](https://github.com/misskey-dev/misskey) - 🌎An interplanetary microblogging platform🚀
+* 【2022-12-05】[danielgross / whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
+* 【2022-12-05】[monicahq / monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
+* 【2022-12-05】[fspoettel / advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
+* 【2022-12-05】[linebender / xilem](https://github.com/linebender/xilem) - An experimental Rust native UI framework
+* 【2022-12-05】[reeceyng / v2ray-agent](https://github.com/reeceyng/v2ray-agent) - 【纯净版】原八合一共存脚本，去除广告等推广信息，支持xtls-rprx-vision
+* 【2022-12-05】[DiF1202 / EveryDayCoding](https://github.com/DiF1202/EveryDayCoding) - 校招结束啦，决定将之前整理的前端手写题算法题开源出来给需要帮助的同学！希望能帮助到各位前端er！如果能来个star更好了
+* 【2022-12-05】[zdz / ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨Rust 版 ServerStatus 探针、威力加强版
 * 【2022-12-04】[apple / ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 * 【2022-12-04】[invoke-ai / InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.
 * 【2022-12-04】[charlax / engineering-management](https://github.com/charlax/engineering-management) - A collection of inspiring resources related to engineering management and tech leadership
@@ -228,6 +236,7 @@
 
 ## Java
 
+* 【2022-12-05】[valterc / ki2](https://github.com/valterc/ki2) - Karoo companion app for Japanese electronic shifting groupsets. Display gear/battery information and control Karoo ride screen.
 * 【2022-12-04】[gaucho-matrero / altoclef](https://github.com/gaucho-matrero/altoclef) - Plays block game
 * 【2022-12-04】[firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
 * 【2022-12-03】[yidongnan / grpc-spring-boot-starter](https://github.com/yidongnan/grpc-spring-boot-starter) - Spring Boot starter module for gRPC framework.
@@ -319,6 +328,17 @@
 
 ## Python
 
+* 【2022-12-05】[taranjeet / chatgpt-api](https://github.com/taranjeet/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
+* 【2022-12-05】[VoltaML / voltaML](https://github.com/VoltaML/voltaML) - ⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
+* 【2022-12-05】[oliver-ni / advent-of-code](https://github.com/oliver-ni/advent-of-code) - hi
+* 【2022-12-05】[ungoogled-software / ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+* 【2022-12-05】[p0dalirius / Coercer](https://github.com/p0dalirius/Coercer) - A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.
+* 【2022-12-05】[Farama-Foundation / Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - A standard API for reinforcement learning and a diverse set of reference environments (formerly Gym)
+* 【2022-12-05】[golergka / advent-of-code-2022-with-chat-gpt](https://github.com/golergka/advent-of-code-2022-with-chat-gpt) - Solving Advent of Code 2022 with ChatGPT
+* 【2022-12-05】[XuanRanDev / Auto-ShiXiBeiAn](https://github.com/XuanRanDev/Auto-ShiXiBeiAn) - 🎨实习备案（职校家园）自动打卡，支持多用户、自定义位置与时间、微信消息推送。
+* 【2022-12-05】[wbchief / 2022_GAIIC_Task2_5st](https://github.com/wbchief/2022_GAIIC_Task2_5st) - 
+* 【2022-12-05】[yeyupiaoling / PPASR](https://github.com/yeyupiaoling/PPASR) - 基于PaddlePaddle2实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。支持当前最流行的DeepSpeech2、Conformer、Squeezeformer模型
+* 【2022-12-05】[78778443 / QingScan](https://github.com/78778443/QingScan) - 一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。
 * 【2022-12-04】[openai / openai-python](https://github.com/openai/openai-python) - 
 * 【2022-12-04】[wimglenn / advent-of-code-data](https://github.com/wimglenn/advent-of-code-data) - Get your Advent of Code data with a single import statement
 * 【2022-12-04】[extreme-bert / extreme-bert](https://github.com/extreme-bert/extreme-bert) - ExtremeBERT is a toolkit that accelerates the pretraining of customized language models on customized datasets, described in the paper “ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT”.
@@ -526,6 +546,15 @@
 
 ## Javascript
 
+* 【2022-12-05】[hiteshchoudhary / batchone](https://github.com/hiteshchoudhary/batchone) - A full stack project for e-comm - this is backend part
+* 【2022-12-05】[aatishb / patterncollider](https://github.com/aatishb/patterncollider) - A web interactive for generating and exploring quasiperiodic tiling patterns
+* 【2022-12-05】[iancoleman / bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
+* 【2022-12-05】[BlackAmda / QueenAmdi](https://github.com/BlackAmda/QueenAmdi) - A WhatsApp based third party application that provide many services with a real-time automated conversational experience. 💃🏻❤️
+* 【2022-12-05】[IvanHanloth / Easy-Send](https://github.com/IvanHanloth/Easy-Send) - 一个简单易用的跨设备、跨平台文件文本传输程序。
+* 【2022-12-05】[xy-sea / web-see](https://github.com/xy-sea/web-see) - 一款自研的前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据
+* 【2022-12-05】[qweryuiop12321 / suishenma_jiankangma](https://github.com/qweryuiop12321/suishenma_jiankangma) - 上海随申码(健康码/安康码)高仿
+* 【2022-12-05】[cyao2q / files](https://github.com/cyao2q/files) - TVBox开源版,盒子软件分享
+* 【2022-12-05】[volatile-static / Chartero](https://github.com/volatile-static/Chartero) - A good-looking Zotero add-on.
 * 【2022-12-04】[openai / openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 * 【2022-12-04】[sindresorhus / query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 * 【2022-12-04】[electron / electron-quick-start](https://github.com/electron/electron-quick-start) - Clone to try a simple Electron app
@@ -819,6 +848,8 @@
 
 ## C
 
+* 【2022-12-05】[infraredCoding / cerveur](https://github.com/infraredCoding/cerveur) - A HTTP Web Server Framework Written In C (Just For Fun)
+* 【2022-12-05】[vermaseren / form](https://github.com/vermaseren/form) - The FORM project for symbolic manipulation of very big expressions
 * 【2022-12-04】[giltene / wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
 * 【2022-12-04】[SPuerBRead / shovel](https://github.com/SPuerBRead/shovel) - Docker容器逃逸工具（Docker Escape Tools）
 * 【2022-12-04】[CodeXTF2 / WindowSpy](https://github.com/CodeXTF2/WindowSpy) - 
@@ -930,6 +961,7 @@
 
 ## C++
 
+* 【2022-12-05】[AirenSoft / OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 * 【2022-12-04】[Autodesk / Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
 * 【2022-12-04】[verilator / verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
 * 【2022-12-03】[storm-devs / captain-blood](https://github.com/storm-devs/captain-blood) - 
@@ -1042,6 +1074,11 @@
 
 ## C#
 
+* 【2022-12-05】[Unity-Technologies / Megacity-Sample](https://github.com/Unity-Technologies/Megacity-Sample) - ECS sample
+* 【2022-12-05】[markjprice / cs11dotnet7](https://github.com/markjprice/cs11dotnet7) - Repository for the Packt Publishing book titled "C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
+* 【2022-12-05】[BeichenDream / PrintNotifyPotato](https://github.com/BeichenDream/PrintNotifyPotato) - PrintNotifyPotato
+* 【2022-12-05】[KLab / wsnet2](https://github.com/KLab/wsnet2) - モバイルオンラインゲーム向けのリアルタイム通信システム
+* 【2022-12-05】[xh321 / CefDetector.Net](https://github.com/xh321/CefDetector.Net) - 检查你的系统里有多少个 Chromium 内核的程序~
 * 【2022-12-04】[encse / adventofcode](https://github.com/encse/adventofcode) - 🎄Advent of Code (2015-2022) in C#
 * 【2022-12-04】[EasyNetQ / EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 * 【2022-12-04】[0x7c13 / Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
@@ -1158,6 +1195,7 @@
 
 ## Html
 
+* 【2022-12-05】[CyberSecurityUP / Python-for-Security](https://github.com/CyberSecurityUP/Python-for-Security) - 
 * 【2022-12-04】[alura-cursos / logica_progamacion_parte1](https://github.com/alura-cursos/logica_progamacion_parte1) - Repositorio de los archivos del curso de Lógica de Programación - Parte 1
 * 【2022-12-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 * 【2022-12-04】[Advent-Of-Vue / 2022-gift-search-bar](https://github.com/Advent-Of-Vue/2022-gift-search-bar) - Advent Of Vue 2022's Gift Search Bar Puzzle Starter + Solution
@@ -1393,6 +1431,12 @@
 
 ## Unknown
 
+* 【2022-12-05】[kyleisah / Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
+* 【2022-12-05】[TheUsefulLists / UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
+* 【2022-12-05】[dracula / dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
+* 【2022-12-05】[Bcinema / ptv](https://github.com/Bcinema/ptv) - 
+* 【2022-12-05】[deezertidal / Surge_Module](https://github.com/deezertidal/Surge_Module) - Surge模块
+* 【2022-12-05】[aqdx / latest](https://github.com/aqdx/latest) - 
 * 【2022-12-04】[certsocietegenerale / IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies 2022
 * 【2022-12-04】[aptos-foundation / ecosystem-projects](https://github.com/aptos-foundation/ecosystem-projects) - A collection of live projects within the Aptos ecosystem.
 * 【2022-12-04】[TodePond / DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
