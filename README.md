@@ -6,6 +6,19 @@
 
 ## All language
 
+* 【2022-12-06】[transitive-bullshit / chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
+* 【2022-12-06】[vincelwt / chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
+* 【2022-12-06】[sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+* 【2022-12-06】[acheong08 / ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+* 【2022-12-06】[altryne / chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
+* 【2022-12-06】[muhammadthm / SantaGiftShop](https://github.com/muhammadthm/SantaGiftShop) - Source code of santagift.shop website.
+* 【2022-12-06】[towfiqi / serpbear](https://github.com/towfiqi/serpbear) - Search Engine Position Rank Tracking App
+* 【2022-12-06】[facebookincubator / buck2](https://github.com/facebookincubator/buck2) - Build system, successor to Buck
+* 【2022-12-06】[ddgksf2013 / M3U8LIST](https://github.com/ddgksf2013/M3U8LIST) - 
+* 【2022-12-06】[H4de5-7 / powershell-obfuscation](https://github.com/H4de5-7/powershell-obfuscation) - powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus
+* 【2022-12-06】[Anankke / SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) - SSPanel V3 魔改再次修改版
+* 【2022-12-06】[ZGQ-inc / overthefirewall](https://github.com/ZGQ-inc/overthefirewall) - 覆盖全平台完全免费节点订阅机场推荐破解VPN软件分享
+* 【2022-12-06】[toddliu1 / kiwix-v1.0.7](https://github.com/toddliu1/kiwix-v1.0.7) - 
 * 【2022-12-05】[misskey-dev / misskey](https://github.com/misskey-dev/misskey) - 🌎An interplanetary microblogging platform🚀
 * 【2022-12-05】[danielgross / whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 
 * 【2022-12-05】[monicahq / monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -236,6 +249,12 @@
 
 ## Java
 
+* 【2022-12-06】[tr7zw / ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweeks to the inventory system based on Xisumavoid's video.
+* 【2022-12-06】[mission-peace / interview](https://github.com/mission-peace/interview) - Interview questions
+* 【2022-12-06】[amitshekhariitbhu / android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
+* 【2022-12-06】[twoyi / twoyi](https://github.com/twoyi/twoyi) - A lightweight Android container on Android
+* 【2022-12-06】[shiyindaxiaojie / eden-architect](https://github.com/shiyindaxiaojie/eden-architect) - 自研应用框架，开箱即用，零侵入性接入，完全遵循 Spring 官方的模块化管理，保证业务依赖可选项。
+* 【2022-12-06】[mqttsnet / thinglinks](https://github.com/mqttsnet/thinglinks) - 开源ThingLinks物联网一体化平台，高性能、高吞吐量、高扩展性的物联网平台！单机可以支持百万链接，同时支持自定义扩展功能，功能非常强大，采用netty作为通信层组件，支持插件化开发集成！
 * 【2022-12-05】[valterc / ki2](https://github.com/valterc/ki2) - Karoo companion app for Japanese electronic shifting groupsets. Display gear/battery information and control Karoo ride screen.
 * 【2022-12-04】[gaucho-matrero / altoclef](https://github.com/gaucho-matrero/altoclef) - Plays block game
 * 【2022-12-04】[firebase / firebase-android-sdk](https://github.com/firebase/firebase-android-sdk) - Firebase Android SDK
@@ -328,6 +347,14 @@
 
 ## Python
 
+* 【2022-12-06】[openai / baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+* 【2022-12-06】[opsdisk / pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
+* 【2022-12-06】[bramstroker / homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+* 【2022-12-06】[hyper-neutrino / advent-of-code](https://github.com/hyper-neutrino/advent-of-code) - My Advent of Code submissions. For 2021 and before, these are the original code I used, without any modifications after-the-fact. As such, they are probably not as efficient or short as they should be, because I want a working solution faster, not a better solution. For 2022 and after, these are the solutions uploaded to my YouTube channel.
+* 【2022-12-06】[RimoChan / raspberry-pi-bedroom-monitor](https://github.com/RimoChan/raspberry-pi-bedroom-monitor) - 基于树莓派的多功能寝室监控系统
+* 【2022-12-06】[SocialSisterYi / CxKitty](https://github.com/SocialSisterYi/CxKitty) - 超星学习通答题姬（自动播放视频并完成课后习题，基于协议模拟和响应解析）
+* 【2022-12-06】[DueDine / DLP-Cado](https://github.com/DueDine/DLP-Cado) - 
+* 【2022-12-06】[shibing624 / text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 * 【2022-12-05】[taranjeet / chatgpt-api](https://github.com/taranjeet/chatgpt-api) - This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 * 【2022-12-05】[VoltaML / voltaML](https://github.com/VoltaML/voltaML) - ⚡VoltaML is a lightweight library to convert and run your ML/DL deep learning models in high performance inference runtimes like TensorRT, TorchScript, ONNX and TVM.
 * 【2022-12-05】[oliver-ni / advent-of-code](https://github.com/oliver-ni/advent-of-code) - hi
@@ -546,6 +573,13 @@
 
 ## Javascript
 
+* 【2022-12-06】[pdparchitect / ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
+* 【2022-12-06】[cryptoseeker54 / Pancakeprediction-AIevolved](https://github.com/cryptoseeker54/Pancakeprediction-AIevolved) - Pancakeswap prediction bot, evolved with artificial intelligence to have a 70% earn rate.
+* 【2022-12-06】[JannisX11 / blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
+* 【2022-12-06】[qikenao / xxqg-auto](https://github.com/qikenao/xxqg-auto) - 自动学习支持强国2.43 答题、挑战答题、本地OCR双人四人太空三人、多账户切换、批量导入导出账号。
+* 【2022-12-06】[lfb / nodejs-koa-blog](https://github.com/lfb/nodejs-koa-blog) - 基于 Node.js Koa2 实战开发的一套完整的博客项目网站
+* 【2022-12-06】[quarkape / free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载高清无水印海报或LOGO，支持自动裁剪
+* 【2022-12-06】[XiaokangLei / ColorUI-GA](https://github.com/XiaokangLei/ColorUI-GA) - 🚀该项目是基于ColorUI 2.0开发的小程序组件库。在原组件库的基础上会增加部分样式和模板，长期更新，如果您有好的想法请提交Issues。页面模板努力开发中，每周更新。
 * 【2022-12-05】[hiteshchoudhary / batchone](https://github.com/hiteshchoudhary/batchone) - A full stack project for e-comm - this is backend part
 * 【2022-12-05】[aatishb / patterncollider](https://github.com/aatishb/patterncollider) - A web interactive for generating and exploring quasiperiodic tiling patterns
 * 【2022-12-05】[iancoleman / bip39](https://github.com/iancoleman/bip39) - A web tool for converting BIP39 mnemonic codes
@@ -713,6 +747,8 @@
 
 ## Go
 
+* 【2022-12-06】[OffchainLabs / arbitrum](https://github.com/OffchainLabs/arbitrum) - Powers fast, private, decentralized applications
+* 【2022-12-06】[kitabisa / teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 * 【2022-12-04】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 * 【2022-12-04】[owncloud / ocis](https://github.com/owncloud/ocis) - ⚛️ownCloud Infinite Scale Stack
 * 【2022-12-03】[golang / protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
@@ -848,6 +884,11 @@
 
 ## C
 
+* 【2022-12-06】[samyk / magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
+* 【2022-12-06】[bvschaik / julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
+* 【2022-12-06】[troydhanson / uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more
+* 【2022-12-06】[iNavFlight / inav](https://github.com/iNavFlight/inav) - INAV: Navigation-enabled flight control software
+* 【2022-12-06】[impact-eintr / LinuxC](https://github.com/impact-eintr/LinuxC) - 听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识
 * 【2022-12-05】[infraredCoding / cerveur](https://github.com/infraredCoding/cerveur) - A HTTP Web Server Framework Written In C (Just For Fun)
 * 【2022-12-05】[vermaseren / form](https://github.com/vermaseren/form) - The FORM project for symbolic manipulation of very big expressions
 * 【2022-12-04】[giltene / wrk2](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk
@@ -961,6 +1002,8 @@
 
 ## C++
 
+* 【2022-12-06】[OneLoneCoder / Javidx9](https://github.com/OneLoneCoder/Javidx9) - The official distribution of Javidx9's YouTube videos and projects
+* 【2022-12-06】[deepmind / mujoco_mpc](https://github.com/deepmind/mujoco_mpc) - Model-Predictive Control for realtime synthesis of agile motor control using MuJoCo.
 * 【2022-12-05】[AirenSoft / OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
 * 【2022-12-04】[Autodesk / Aurora](https://github.com/Autodesk/Aurora) - Real-time GPU path tracing with a USD Hydra render delegate
 * 【2022-12-04】[verilator / verilator](https://github.com/verilator/verilator) - Verilator open-source SystemVerilog simulator and lint system
@@ -1074,6 +1117,8 @@
 
 ## C#
 
+* 【2022-12-06】[Tyrrrz / YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
+* 【2022-12-06】[qmk / qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 * 【2022-12-05】[Unity-Technologies / Megacity-Sample](https://github.com/Unity-Technologies/Megacity-Sample) - ECS sample
 * 【2022-12-05】[markjprice / cs11dotnet7](https://github.com/markjprice/cs11dotnet7) - Repository for the Packt Publishing book titled "C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 * 【2022-12-05】[BeichenDream / PrintNotifyPotato](https://github.com/BeichenDream/PrintNotifyPotato) - PrintNotifyPotato
@@ -1195,6 +1240,8 @@
 
 ## Html
 
+* 【2022-12-06】[ColauttiLab / RCrashCourse_Book](https://github.com/ColauttiLab/RCrashCourse_Book) - A GitBook version of the R Crash Course self-tutorials: https://colauttilab.github.io/RCrashCourse
+* 【2022-12-06】[davidfowl / CommandAndControl](https://github.com/davidfowl/CommandAndControl) - A sample showing command and control using client results
 * 【2022-12-05】[CyberSecurityUP / Python-for-Security](https://github.com/CyberSecurityUP/Python-for-Security) - 
 * 【2022-12-04】[alura-cursos / logica_progamacion_parte1](https://github.com/alura-cursos/logica_progamacion_parte1) - Repositorio de los archivos del curso de Lógica de Programación - Parte 1
 * 【2022-12-04】[projectcontour / contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
@@ -1328,6 +1375,7 @@
 
 ## Css
 
+* 【2022-12-06】[Septhev / Fix-Discord-Font](https://github.com/Septhev/Fix-Discord-Font) - This is to revert back to a nicer discord font, why? CUZ GG SANS LOOK TERRIBLE.
 * 【2022-12-04】[Overimagine1 / old-discord-font](https://github.com/Overimagine1/old-discord-font) - CSS to revert Discord's font change.
 * 【2022-12-04】[fourkitchens / sous-drupal-distro](https://github.com/fourkitchens/sous-drupal-distro) - A base Drupal distribution profile with a theme based on Emulsify Design System
 * 【2022-12-04】[lighthouse-labs / album-search](https://github.com/lighthouse-labs/album-search) - 
@@ -1431,6 +1479,13 @@
 
 ## Unknown
 
+* 【2022-12-06】[APTIRAN / CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661) - The first poc video presenting the sql injection test from ( WordPress Core 5.8.2-'WP_Query' / CVE-2022-21661)
+* 【2022-12-06】[sw-yx / ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
+* 【2022-12-06】[sadanandpai / frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
+* 【2022-12-06】[sebanc / brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
+* 【2022-12-06】[wangshusen / DRL](https://github.com/wangshusen/DRL) - Deep Reinforcement Learning
+* 【2022-12-06】[youssefHosni / Data-Science-Interview-Preperation-Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) - Resoruce to help you to prepare for your comming data science interviews
+* 【2022-12-06】[AlreadyBored / nodejs-assignments](https://github.com/AlreadyBored/nodejs-assignments) - 
 * 【2022-12-05】[kyleisah / Klipper-Adaptive-Meshing-Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) - A unique leveling solution for Klipper-enabled 3D printers!
 * 【2022-12-05】[TheUsefulLists / UsefulMods](https://github.com/TheUsefulLists/UsefulMods) - Just a list of useful mods
 * 【2022-12-05】[dracula / dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
