@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-07】[wong2 / chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
+* 【2022-12-07】[mpociot / chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
+* 【2022-12-07】[max-sixty / aoc-gpt](https://github.com/max-sixty/aoc-gpt) - Solve Advent of Code puzzles with GPT-3
+* 【2022-12-07】[m1guelpf / chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
+* 【2022-12-07】[hodgesmr / mastodon_digest](https://github.com/hodgesmr/mastodon_digest) - A Python script that aggregates recent popular tweets from your Mastodon timeline
+* 【2022-12-07】[jerryjliu / gpt_index](https://github.com/jerryjliu/gpt_index) - An index created by GPT to organize external information and answer queries!
+* 【2022-12-07】[mmabrouk / chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT using Python and from Shell.
+* 【2022-12-07】[MariaLetta / free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
+* 【2022-12-07】[Erensu / cors](https://github.com/Erensu/cors) - 
 * 【2022-12-06】[transitive-bullshit / chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API.
 * 【2022-12-06】[vincelwt / chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 * 【2022-12-06】[sickcodes / Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -249,6 +258,8 @@
 
 ## Java
 
+* 【2022-12-07】[jjenkov / java-examples](https://github.com/jjenkov/java-examples) - A set of Java examples - of Java SE features (core Java) and techniques.
+* 【2022-12-07】[geektcp / Namjagbarwa-wow](https://github.com/geektcp/Namjagbarwa-wow) - wow game server
 * 【2022-12-06】[tr7zw / ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweeks to the inventory system based on Xisumavoid's video.
 * 【2022-12-06】[mission-peace / interview](https://github.com/mission-peace/interview) - Interview questions
 * 【2022-12-06】[amitshekhariitbhu / android-developer-roadmap](https://github.com/amitshekhariitbhu/android-developer-roadmap) - Android Developer Roadmap - A complete roadmap to learn Android App Development
@@ -347,6 +358,19 @@
 
 ## Python
 
+* 【2022-12-07】[speechbrain / speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
+* 【2022-12-07】[JusticeRage / Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
+* 【2022-12-07】[EleutherAI / gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
+* 【2022-12-07】[jonathanpaulson / AdventOfCode](https://github.com/jonathanpaulson/AdventOfCode) - My Advent of Code solutions. I also upload videos of my solves: https://www.youtube.com/channel/UCuWLIm0l4sDpEe28t41WITA
+* 【2022-12-07】[takito1812 / web-hacking-playground](https://github.com/takito1812/web-hacking-playground) - Web application with vulnerabilities found in real cases, both in pentests and in Bug Bounty programs.
+* 【2022-12-07】[akfamily / akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
+* 【2022-12-07】[root-tanishq / userefuzz](https://github.com/root-tanishq/userefuzz) - User-Agent , X-Forwarded-For and Referer SQLI Fuzzer
+* 【2022-12-07】[yangjianxin1 / GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
+* 【2022-12-07】[xunonxyz / xy_dingtalk](https://github.com/xunonxyz/xy_dingtalk) - dingtalk for odoo
+* 【2022-12-07】[radiantwf / esp32-circuitpython-switch-joystick](https://github.com/radiantwf/esp32-circuitpython-switch-joystick) - A virtual HID USB joystick created using ESP32S2/S3
+* 【2022-12-07】[jinmu333 / python_PlateRecogntion](https://github.com/jinmu333/python_PlateRecogntion) - python opencv 车牌识别 PlateRecogntion
+* 【2022-12-07】[PaddlePaddle / PaddleSports](https://github.com/PaddlePaddle/PaddleSports) - 
+* 【2022-12-07】[EricZhu-42 / SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com and youpin898.com.
 * 【2022-12-06】[openai / baselines](https://github.com/openai/baselines) - OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 * 【2022-12-06】[opsdisk / pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 * 【2022-12-06】[bramstroker / homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
@@ -573,6 +597,13 @@
 
 ## Javascript
 
+* 【2022-12-07】[lorenSchmidt / fractal_cell_noise](https://github.com/lorenSchmidt/fractal_cell_noise) - a fractal noise algorithm most closely related to cellular noise algorithms such as worley noise
+* 【2022-12-07】[ZohaibAhmed / ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
+* 【2022-12-07】[vjeux / video-editor](https://github.com/vjeux/video-editor) - Created with CodeSandbox
+* 【2022-12-07】[showdownjs / showdown](https://github.com/showdownjs/showdown) - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+* 【2022-12-07】[smallfawn / QLScriptPublic](https://github.com/smallfawn/QLScriptPublic) - 青龙面板脚本公共仓库
+* 【2022-12-07】[zqzess / rule_for_quantumultX](https://github.com/zqzess/rule_for_quantumultX) - 自用QuantumultX,Loon,Surge,Clash,AdGuardHome规则与配置文件,每周自动更新规则
+* 【2022-12-07】[TonyJiangWJ / Ant-Forest](https://github.com/TonyJiangWJ/Ant-Forest) - 基于AutoJS的蚂蚁森林收能量脚本
 * 【2022-12-06】[pdparchitect / ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
 * 【2022-12-06】[cryptoseeker54 / Pancakeprediction-AIevolved](https://github.com/cryptoseeker54/Pancakeprediction-AIevolved) - Pancakeswap prediction bot, evolved with artificial intelligence to have a 70% earn rate.
 * 【2022-12-06】[JannisX11 / blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
@@ -747,6 +778,10 @@
 
 ## Go
 
+* 【2022-12-07】[johnkerl / miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+* 【2022-12-07】[doitintl / kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
+* 【2022-12-07】[DaYuanzhang / akawaka](https://github.com/DaYuanzhang/akawaka) - 一个简单的文件内容搜索工具
+* 【2022-12-07】[cherry-game / cherry](https://github.com/cherry-game/cherry) - golang game server
 * 【2022-12-06】[OffchainLabs / arbitrum](https://github.com/OffchainLabs/arbitrum) - Powers fast, private, decentralized applications
 * 【2022-12-06】[kitabisa / teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection
 * 【2022-12-04】[knadh / listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
@@ -884,6 +919,10 @@
 
 ## C
 
+* 【2022-12-07】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
+* 【2022-12-07】[Wh04m1001 / SysmonEoP](https://github.com/Wh04m1001/SysmonEoP) - 
+* 【2022-12-07】[TheWover / donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
+* 【2022-12-07】[antirez / adventofcode2022](https://github.com/antirez/adventofcode2022) - A few Advent of Code puzzles (2022 edition) in C
 * 【2022-12-06】[samyk / magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy.
 * 【2022-12-06】[bvschaik / julius](https://github.com/bvschaik/julius) - An open source re-implementation of Caesar III
 * 【2022-12-06】[troydhanson / uthash](https://github.com/troydhanson/uthash) - C macros for hash tables and more
@@ -1002,6 +1041,10 @@
 
 ## C++
 
+* 【2022-12-07】[klezVirus / SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a TRUE call stack spoofer
+* 【2022-12-07】[rathena / rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
+* 【2022-12-07】[DX39061 / git-learning](https://github.com/DX39061/git-learning) - 
+* 【2022-12-07】[Neway13 / fingerGo](https://github.com/Neway13/fingerGo) - 帮你将按键与程序绑定，按下按键时快速切换到该程序。（Help you bind the shortcut keys to the program so that you can quickly switch to the program when you press the key.）
 * 【2022-12-06】[OneLoneCoder / Javidx9](https://github.com/OneLoneCoder/Javidx9) - The official distribution of Javidx9's YouTube videos and projects
 * 【2022-12-06】[deepmind / mujoco_mpc](https://github.com/deepmind/mujoco_mpc) - Model-Predictive Control for realtime synthesis of agile motor control using MuJoCo.
 * 【2022-12-05】[AirenSoft / OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine) - OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS
@@ -1117,6 +1160,10 @@
 
 ## C#
 
+* 【2022-12-07】[stefanprodan / AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
+* 【2022-12-07】[uxmal / reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
+* 【2022-12-07】[elvirbrk / NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
+* 【2022-12-07】[xljiulang / KestrelApp](https://github.com/xljiulang/KestrelApp) - 基于Kestrel的网络编程应用示例
 * 【2022-12-06】[Tyrrrz / YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - Library for exploiting YouTube's internal API
 * 【2022-12-06】[qmk / qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware
 * 【2022-12-05】[Unity-Technologies / Megacity-Sample](https://github.com/Unity-Technologies/Megacity-Sample) - ECS sample
@@ -1240,6 +1287,9 @@
 
 ## Html
 
+* 【2022-12-07】[payloadartist / offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - Offensive security use cases of ChatGPT
+* 【2022-12-07】[kazuki-sf / ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
+* 【2022-12-07】[chenglou / chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
 * 【2022-12-06】[ColauttiLab / RCrashCourse_Book](https://github.com/ColauttiLab/RCrashCourse_Book) - A GitBook version of the R Crash Course self-tutorials: https://colauttilab.github.io/RCrashCourse
 * 【2022-12-06】[davidfowl / CommandAndControl](https://github.com/davidfowl/CommandAndControl) - A sample showing command and control using client results
 * 【2022-12-05】[CyberSecurityUP / Python-for-Security](https://github.com/CyberSecurityUP/Python-for-Security) - 
@@ -1375,6 +1425,7 @@
 
 ## Css
 
+* 【2022-12-07】[Godiesc / opera-gx](https://github.com/Godiesc/opera-gx) - Firefox Theme CSS to Opera GX Lovers
 * 【2022-12-06】[Septhev / Fix-Discord-Font](https://github.com/Septhev/Fix-Discord-Font) - This is to revert back to a nicer discord font, why? CUZ GG SANS LOOK TERRIBLE.
 * 【2022-12-04】[Overimagine1 / old-discord-font](https://github.com/Overimagine1/old-discord-font) - CSS to revert Discord's font change.
 * 【2022-12-04】[fourkitchens / sous-drupal-distro](https://github.com/fourkitchens/sous-drupal-distro) - A base Drupal distribution profile with a theme based on Emulsify Design System
@@ -1479,6 +1530,15 @@
 
 ## Unknown
 
+* 【2022-12-07】[anitsh / til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
+* 【2022-12-07】[AyselAydin / Python-MachineLearning-DeepLearning-Resources](https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources) - In this repository, you can find links that I find useful in the fields of python, machine learning and deep learning that you can access for free. I will update regularly, feel free to contribute too.
+* 【2022-12-07】[Lxtharia / minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
+* 【2022-12-07】[openai / following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) - 
+* 【2022-12-07】[lydlid / estrogel-diy-guide-zh_CN](https://github.com/lydlid/estrogel-diy-guide-zh_CN) - 自制雌二醇凝胶教程
+* 【2022-12-07】[WeiYun0912 / WeiYun0912](https://github.com/WeiYun0912/WeiYun0912) - 
+* 【2022-12-07】[cutethotw / ClashRule](https://github.com/cutethotw/ClashRule) - clash自用分流规则
+* 【2022-12-07】[fangzesheng / free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
+* 【2022-12-07】[githubXiaowangzi / NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存、去除签名校验、对话框取消、去除VPN/代理检测； Res资源混淆； Dex、AXML、ARSC文件编辑；字符串加密(Apk、dex)； 一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG注入，一键去除所有弹窗(Toast)； 一键注入字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
 * 【2022-12-06】[APTIRAN / CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661) - The first poc video presenting the sql injection test from ( WordPress Core 5.8.2-'WP_Query' / CVE-2022-21661)
 * 【2022-12-06】[sw-yx / ai-notes](https://github.com/sw-yx/ai-notes) - notes for prompt engineering
 * 【2022-12-06】[sadanandpai / frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit) - Frontend tech guide and curated collection of frontend materials
