@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-08】[rawandahmad698 / PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+* 【2022-12-08】[gragland / chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
+* 【2022-12-08】[bupticybee / ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
+* 【2022-12-08】[android / architecture-templates](https://github.com/android/architecture-templates) - 
+* 【2022-12-08】[PowerJob / PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
+* 【2022-12-08】[f / awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - 
+* 【2022-12-08】[yuimoi / mousdt](https://github.com/yuimoi/mousdt) - 一个使用Flask开发的USDT收款平台
+* 【2022-12-08】[QYGFFS / the-Screenshot-Movement](https://github.com/QYGFFS/the-Screenshot-Movement) - 大截图运动，预防岁月史书，记录恶臭历史
+* 【2022-12-08】[jing332 / tts-server-android](https://github.com/jing332/tts-server-android) - 在安卓本地搭建服务器以转发微软TTS，用于在阅读APP中网络朗读。(现已支持系统TTS 可被其他APP调用)
 * 【2022-12-07】[wong2 / chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results
 * 【2022-12-07】[mpociot / chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 * 【2022-12-07】[max-sixty / aoc-gpt](https://github.com/max-sixty/aoc-gpt) - Solve Advent of Code puzzles with GPT-3
@@ -258,6 +267,9 @@
 
 ## Java
 
+* 【2022-12-08】[apache / inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop integration framework for massive data
+* 【2022-12-08】[TheoKanning / openai-java](https://github.com/TheoKanning/openai-java) - OpenAI GPT-3 Api Client in Java
+* 【2022-12-08】[bosspen1 / stock](https://github.com/bosspen1/stock) - 股票行情数据 股票交易接口 自动交易
 * 【2022-12-07】[jjenkov / java-examples](https://github.com/jjenkov/java-examples) - A set of Java examples - of Java SE features (core Java) and techniques.
 * 【2022-12-07】[geektcp / Namjagbarwa-wow](https://github.com/geektcp/Namjagbarwa-wow) - wow game server
 * 【2022-12-06】[tr7zw / ItemSwapper](https://github.com/tr7zw/ItemSwapper) - Tweeks to the inventory system based on Xisumavoid's video.
@@ -358,6 +370,15 @@
 
 ## Python
 
+* 【2022-12-08】[shankarpandala / lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
+* 【2022-12-08】[pytorch / torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
+* 【2022-12-08】[EleutherAI / gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+* 【2022-12-08】[EverythingSuckz / TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
+* 【2022-12-08】[sudoskys / Openaibot](https://github.com/sudoskys/Openaibot) - Using OpenAi's Api on Telegram to achieve chatGPT func | 在 Telegram 上使用 openai *API* 对话/续写 机器人| 支持上下文对话 |异步 | 一键部署
+* 【2022-12-08】[A-kirami / nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt) - 
+* 【2022-12-08】[yangjianxin1 / CLIP-Chinese](https://github.com/yangjianxin1/CLIP-Chinese) - 中文CLIP预训练模型
+* 【2022-12-08】[wzpan / wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。
+* 【2022-12-08】[FDUCSLG / pafd-automated](https://github.com/FDUCSLG/pafd-automated) - 
 * 【2022-12-07】[speechbrain / speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 * 【2022-12-07】[JusticeRage / Gepetto](https://github.com/JusticeRage/Gepetto) - IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering
 * 【2022-12-07】[EleutherAI / gpt-neo](https://github.com/EleutherAI/gpt-neo) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
@@ -597,6 +618,16 @@
 
 ## Javascript
 
+* 【2022-12-08】[liady / ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
+* 【2022-12-08】[cecilbowen / pokemon-sandwich-simulator](https://github.com/cecilbowen/pokemon-sandwich-simulator) - 
+* 【2022-12-08】[ine-labs / GCPGoat](https://github.com/ine-labs/GCPGoat) - GCPGoat : A Damn Vulnerable GCP Infrastructure
+* 【2022-12-08】[pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
+* 【2022-12-08】[netlify / netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators
+* 【2022-12-08】[modstart-lib / ueditor-plus](https://github.com/modstart-lib/ueditor-plus) - 基于 UEditor 二次开发的富文本编辑器
+* 【2022-12-08】[hzbnb / wx-push](https://github.com/hzbnb/wx-push) - 关于公众号推送
+* 【2022-12-08】[tiandizhiguai / dhorse](https://github.com/tiandizhiguai/dhorse) - DHorse是一个基于Springboot实现的DevOps发布系统，支持k8s发布，私有云、公有云发布。主要特点：部署简单、操作简洁、功能快速。
+* 【2022-12-08】[kasuganosoras / NoGrey](https://github.com/kasuganosoras/NoGrey) - 移除网易云音乐全屏灰色（需配合 BetterNCM 使用）
+* 【2022-12-08】[LuckyPuppy514 / Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV) - 使用 MPV 播放网页中的视频
 * 【2022-12-07】[lorenSchmidt / fractal_cell_noise](https://github.com/lorenSchmidt/fractal_cell_noise) - a fractal noise algorithm most closely related to cellular noise algorithms such as worley noise
 * 【2022-12-07】[ZohaibAhmed / ChatGPT-Google](https://github.com/ZohaibAhmed/ChatGPT-Google) - Chrome Extension that Integrates ChatGPT (Unofficial) into Google Search
 * 【2022-12-07】[vjeux / video-editor](https://github.com/vjeux/video-editor) - Created with CodeSandbox
@@ -778,6 +809,8 @@
 
 ## Go
 
+* 【2022-12-08】[devfullcycle / imersao11](https://github.com/devfullcycle/imersao11) - 
+* 【2022-12-08】[maticnetwork / bor](https://github.com/maticnetwork/bor) - Official repository for the Matic Blockchain
 * 【2022-12-07】[johnkerl / miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 * 【2022-12-07】[doitintl / kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
 * 【2022-12-07】[DaYuanzhang / akawaka](https://github.com/DaYuanzhang/akawaka) - 一个简单的文件内容搜索工具
@@ -919,6 +952,9 @@
 
 ## C
 
+* 【2022-12-08】[themanoftalent / c_languageBanu](https://github.com/themanoftalent/c_languageBanu) - Banu_c_language
+* 【2022-12-08】[flutter / codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
+* 【2022-12-08】[Seneca-144100 / IPC-Project](https://github.com/Seneca-144100/IPC-Project) - 
 * 【2022-12-07】[apache / age](https://github.com/apache/age) - Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL.
 * 【2022-12-07】[Wh04m1001 / SysmonEoP](https://github.com/Wh04m1001/SysmonEoP) - 
 * 【2022-12-07】[TheWover / donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
@@ -1041,6 +1077,11 @@
 
 ## C++
 
+* 【2022-12-08】[bytedance / sonic-cpp](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD.
+* 【2022-12-08】[cvxpy / cvxpy](https://github.com/cvxpy/cvxpy) - A Python-embedded modeling language for convex optimization problems.
+* 【2022-12-08】[onnx / onnx-tensorrt](https://github.com/onnx/onnx-tensorrt) - ONNX-TensorRT: TensorRT backend for ONNX
+* 【2022-12-08】[ethz-asl / maplab](https://github.com/ethz-asl/maplab) - An open visual-inertial mapping framework.
+* 【2022-12-08】[Shangyizhou / A-Tiny-Network-Library](https://github.com/Shangyizhou/A-Tiny-Network-Library) - 参考陈硕的 muduo 库，使用 C++ 11 编写的高性能网络库，内部实现有 HTTP 服务器，可支持 GET 请求。
 * 【2022-12-07】[klezVirus / SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk) - PoC Implementation of a TRUE call stack spoofer
 * 【2022-12-07】[rathena / rathena](https://github.com/rathena/rathena) - rAthena is an open-source cross-platform MMORPG server.
 * 【2022-12-07】[DX39061 / git-learning](https://github.com/DX39061/git-learning) - 
@@ -1160,6 +1201,8 @@
 
 ## C#
 
+* 【2022-12-08】[valheimPlus / ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
+* 【2022-12-08】[isdaviddong / chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) - 
 * 【2022-12-07】[stefanprodan / AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 * 【2022-12-07】[uxmal / reko](https://github.com/uxmal/reko) - Reko is a binary decompiler.
 * 【2022-12-07】[elvirbrk / NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016) - Source code syntax highlighting for OneNote 2016 and OneNote for O365 . NoteHighlight 2013 port for OneNote 2016 (32-bit and 64-bit)
@@ -1287,6 +1330,7 @@
 
 ## Html
 
+* 【2022-12-08】[Masterminds / html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 * 【2022-12-07】[payloadartist / offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - Offensive security use cases of ChatGPT
 * 【2022-12-07】[kazuki-sf / ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 * 【2022-12-07】[chenglou / chenglou.github.io](https://github.com/chenglou/chenglou.github.io) - 
@@ -1425,6 +1469,9 @@
 
 ## Css
 
+* 【2022-12-08】[snappycreeper / OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
+* 【2022-12-08】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Minimal Dynamic Portfolio
+* 【2022-12-08】[050310Y / freeapi](https://github.com/050310Y/freeapi) - 
 * 【2022-12-07】[Godiesc / opera-gx](https://github.com/Godiesc/opera-gx) - Firefox Theme CSS to Opera GX Lovers
 * 【2022-12-06】[Septhev / Fix-Discord-Font](https://github.com/Septhev/Fix-Discord-Font) - This is to revert back to a nicer discord font, why? CUZ GG SANS LOOK TERRIBLE.
 * 【2022-12-04】[Overimagine1 / old-discord-font](https://github.com/Overimagine1/old-discord-font) - CSS to revert Discord's font change.
@@ -1530,6 +1577,10 @@
 
 ## Unknown
 
+* 【2022-12-08】[mscststs / gua-area](https://github.com/mscststs/gua-area) - famous PDF
+* 【2022-12-08】[romainthomas / reverse-engineering-workshop](https://github.com/romainthomas/reverse-engineering-workshop) - Slides & Hands-on for the reverse engineering workshop
+* 【2022-12-08】[aws / aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
+* 【2022-12-08】[lucksec / magicReform_cobaltstrike](https://github.com/lucksec/magicReform_cobaltstrike) - magicReform_cobaltstrike
 * 【2022-12-07】[anitsh / til](https://github.com/anitsh/til) - Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.
 * 【2022-12-07】[AyselAydin / Python-MachineLearning-DeepLearning-Resources](https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources) - In this repository, you can find links that I find useful in the fields of python, machine learning and deep learning that you can access for free. I will update regularly, feel free to contribute too.
 * 【2022-12-07】[Lxtharia / minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft!
