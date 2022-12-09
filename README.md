@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-12-09】[fuergaosi233 / wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+* 【2022-12-09】[cpq / bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide) - A bare metal programming guide on STM32 microcontroller
+* 【2022-12-09】[qunash / chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
+* 【2022-12-09】[humanloop / awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+* 【2022-12-09】[labteral / chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
+* 【2022-12-09】[AutumnWhj / ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) - ChatGPT for wechat
 * 【2022-12-08】[rawandahmad698 / PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
 * 【2022-12-08】[gragland / chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.
 * 【2022-12-08】[bupticybee / ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
@@ -267,6 +273,10 @@
 
 ## Java
 
+* 【2022-12-09】[elastic / logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data
+* 【2022-12-09】[dromara / Jpom](https://github.com/dromara/Jpom) - 简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件
+* 【2022-12-09】[killall-love / carryCoffin](https://github.com/killall-love/carryCoffin) - 安卓基于Xposed实现全局 灰色（比如清明节 或者伟人去世 所有app灰色）
+* 【2022-12-09】[xiaojinzi123 / Component](https://github.com/xiaojinzi123/Component) - 🔥🔥🔥A powerful componentized framework.一个强大、100% 兼容、支持 AndroidX、支持 Kotlin并且灵活的组件化框架
 * 【2022-12-08】[apache / inlong](https://github.com/apache/inlong) - Apache InLong - a one-stop integration framework for massive data
 * 【2022-12-08】[TheoKanning / openai-java](https://github.com/TheoKanning/openai-java) - OpenAI GPT-3 Api Client in Java
 * 【2022-12-08】[bosspen1 / stock](https://github.com/bosspen1/stock) - 股票行情数据 股票交易接口 自动交易
@@ -370,6 +380,14 @@
 
 ## Python
 
+* 【2022-12-09】[Zero6992 / chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) - Integrate chatGPT into your own discord bot
+* 【2022-12-09】[ashemery / exploitation-course](https://github.com/ashemery/exploitation-course) - Offensive Software Exploitation Course
+* 【2022-12-09】[openai / spinningup](https://github.com/openai/spinningup) - An educational resource to help anyone learn deep reinforcement learning.
+* 【2022-12-09】[OFA-Sys / OFA](https://github.com/OFA-Sys/OFA) - Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
+* 【2022-12-09】[lss233 / chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - OpenAI ChatGPT for Mirai QQ Bot，每个群组/好友单独一个 Conversation，文字转图片发送， Docker 快速部署
+* 【2022-12-09】[Byaidu / QChatBot-GPT](https://github.com/Byaidu/QChatBot-GPT) - 基于 OpenAI GPT-3 和 Mirai 的 QQ Bot 聊天机器人，提供公用测试 Bot，支持自定义人格以及各种参数，长文自动转图片发送，可持久化配置，多个群聊之间上下文隔离，异步响应，可扩展功能
+* 【2022-12-09】[HK-SHAO / RayTracingPBR](https://github.com/HK-SHAO/RayTracingPBR) - Ray Tracing PBR for Taichi Hackathon 2022
+* 【2022-12-09】[yang-0201 / YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro) - Make it easier for yolov6 to change the network structure
 * 【2022-12-08】[shankarpandala / lazypredict](https://github.com/shankarpandala/lazypredict) - Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 * 【2022-12-08】[pytorch / torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
 * 【2022-12-08】[EleutherAI / gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
@@ -618,6 +636,10 @@
 
 ## Javascript
 
+* 【2022-12-09】[koajs / koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+* 【2022-12-09】[micro-zoe / micro-app](https://github.com/micro-zoe/micro-app) - A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架
+* 【2022-12-09】[axa-group / nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+* 【2022-12-09】[hejialianghe / Senior-FrontEnd](https://github.com/hejialianghe/Senior-FrontEnd) - 🔥🔥🔥🔥🔥高级开发工程师必备，打通全栈任督二脉，文档地址gitee版（Senior development engineers must understand the web body of knowledge, document addresses）：https://js.youliaowu.com
 * 【2022-12-08】[liady / ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
 * 【2022-12-08】[cecilbowen / pokemon-sandwich-simulator](https://github.com/cecilbowen/pokemon-sandwich-simulator) - 
 * 【2022-12-08】[ine-labs / GCPGoat](https://github.com/ine-labs/GCPGoat) - GCPGoat : A Damn Vulnerable GCP Infrastructure
@@ -809,6 +831,10 @@
 
 ## Go
 
+* 【2022-12-09】[containernetworking / cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
+* 【2022-12-09】[kubernetes-sigs / descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
+* 【2022-12-09】[mao888 / golang-guide](https://github.com/mao888/golang-guide) - 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
+* 【2022-12-09】[Goqi / AvHunt](https://github.com/Goqi/AvHunt) - AvHunt-杀毒软件识别
 * 【2022-12-08】[devfullcycle / imersao11](https://github.com/devfullcycle/imersao11) - 
 * 【2022-12-08】[maticnetwork / bor](https://github.com/maticnetwork/bor) - Official repository for the Matic Blockchain
 * 【2022-12-07】[johnkerl / miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -952,6 +978,8 @@
 
 ## C
 
+* 【2022-12-09】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
+* 【2022-12-09】[smallzhong / KernelHook](https://github.com/smallzhong/KernelHook) - 一个用来做windows内核hook的框架
 * 【2022-12-08】[themanoftalent / c_languageBanu](https://github.com/themanoftalent/c_languageBanu) - Banu_c_language
 * 【2022-12-08】[flutter / codelabs](https://github.com/flutter/codelabs) - Flutter codelab examples
 * 【2022-12-08】[Seneca-144100 / IPC-Project](https://github.com/Seneca-144100/IPC-Project) - 
@@ -1201,6 +1229,9 @@
 
 ## C#
 
+* 【2022-12-09】[OkGoDoIt / OpenAI-API-dotnet](https://github.com/OkGoDoIt/OpenAI-API-dotnet) - A C#/.NET SDK for accessing the OpenAI GPT-3 API
+* 【2022-12-09】[ceramicskate0 / SharpExchange](https://github.com/ceramicskate0/SharpExchange) - C# Tool to interact with MS Exchange based on MS docs
+* 【2022-12-09】[gc-toolkit / Launcher](https://github.com/gc-toolkit/Launcher) - 有谁不喜欢轻巧便捷的launcher呢
 * 【2022-12-08】[valheimPlus / ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 * 【2022-12-08】[isdaviddong / chatGPTLineBot](https://github.com/isdaviddong/chatGPTLineBot) - 
 * 【2022-12-07】[stefanprodan / AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
@@ -1330,6 +1361,9 @@
 
 ## Html
 
+* 【2022-12-09】[alura-cursos / logica_programacion_parte2](https://github.com/alura-cursos/logica_programacion_parte2) - archivos del curso de lógica de programación (españoll) de la parte 2
+* 【2022-12-09】[w3c / aria-practices](https://github.com/w3c/aria-practices) - WAI-ARIA Authoring Practices Guide (APG)
+* 【2022-12-09】[krzemienski / awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 * 【2022-12-08】[Masterminds / html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 * 【2022-12-07】[payloadartist / offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - Offensive security use cases of ChatGPT
 * 【2022-12-07】[kazuki-sf / ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
@@ -1469,6 +1503,14 @@
 
 ## Css
 
+* 【2022-12-09】[mutuajoseph / MR-MORINGA](https://github.com/mutuajoseph/MR-MORINGA) - This is a simple todo application that helps a user manage his/her tasks on a daily
+* 【2022-12-09】[boradesanket13 / Blaze](https://github.com/boradesanket13/Blaze) - Weather application with geolocation using OpenWeatherAPI
+* 【2022-12-09】[Sk05062003 / APClubIITP](https://github.com/Sk05062003/APClubIITP) - 
+* 【2022-12-09】[Screenly / Anthias](https://github.com/Screenly/Anthias) - The world's most popular open source digital signage project.
+* 【2022-12-09】[netology-code / ra16-homeworks](https://github.com/netology-code/ra16-homeworks) - 
+* 【2022-12-09】[emetdas / Youtube-code](https://github.com/emetdas/Youtube-code) - web design master project for beginner to advanced
+* 【2022-12-09】[XYZenix / XYZenixThemes](https://github.com/XYZenix/XYZenixThemes) - Most of my themes
+* 【2022-12-09】[liuzhihang / halo-theme-hao](https://github.com/liuzhihang/halo-theme-hao) - 
 * 【2022-12-08】[snappycreeper / OldDiscordFont](https://github.com/snappycreeper/OldDiscordFont) - OldDiscordFont theme for betterdiscord.
 * 【2022-12-08】[shelcia / dynamic-portfolio](https://github.com/shelcia/dynamic-portfolio) - Minimal Dynamic Portfolio
 * 【2022-12-08】[050310Y / freeapi](https://github.com/050310Y/freeapi) - 
@@ -1577,6 +1619,14 @@
 
 ## Unknown
 
+* 【2022-12-09】[AndratVA / Mario-Kart-64-HD](https://github.com/AndratVA/Mario-Kart-64-HD) - MK64HD :)
+* 【2022-12-09】[Peldom / papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) - List of papers about Proteins Design using Deep Learning
+* 【2022-12-09】[Aacle / xss_payload](https://github.com/Aacle/xss_payload) - 
+* 【2022-12-09】[DebianArch64 / DebProvision](https://github.com/DebianArch64/DebProvision) - An alternative to Cydia Impactor and AltServer for ALL computers.
+* 【2022-12-09】[DataTalksClub / project-of-the-week](https://github.com/DataTalksClub/project-of-the-week) - Learn by doing: DIY project groups at DataTalks.Club
+* 【2022-12-09】[elyase / awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
+* 【2022-12-09】[xhm26 / 2](https://github.com/xhm26/2) - 小妲己（现改名为：小狐狸、小红帽）最新下载地址（2022年12月08日更新） 注意：小妲己要改名为小狐狸、小红帽了 扫描二维码下载小狐狸小红帽（破解版）
+* 【2022-12-09】[wms521125 / freevpn](https://github.com/wms521125/freevpn) - 免费VPN、免费翻墙、免费订阅链接、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 * 【2022-12-08】[mscststs / gua-area](https://github.com/mscststs/gua-area) - famous PDF
 * 【2022-12-08】[romainthomas / reverse-engineering-workshop](https://github.com/romainthomas/reverse-engineering-workshop) - Slides & Hands-on for the reverse engineering workshop
 * 【2022-12-08】[aws / aws-sdk-net](https://github.com/aws/aws-sdk-net) - The official AWS SDK for .NET. For more information on the AWS SDK for .NET, see our web site:
