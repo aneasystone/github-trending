@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-12-11】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+* 【2022-12-11】[cloneofsimo / lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+* 【2022-12-11】[mohammadpz / pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward) - Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
+* 【2022-12-11】[pulsar-edit / pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
+* 【2022-12-11】[icepie / jojo-live](https://github.com/icepie/jojo-live) - 利用旧手机远程观测鹦鹉, 甚至与它交互~
+* 【2022-12-11】[PlexPt / chatgpt-java](https://github.com/PlexPt/chatgpt-java) - ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.
+* 【2022-12-11】[wuchangming / chatgpt-prompt-engineer-handbook](https://github.com/wuchangming/chatgpt-prompt-engineer-handbook) - 🤖️ChatGPT 提问工程师开发指南
 * 【2022-12-10】[paradigmxyz / reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 * 【2022-12-10】[869413421 / wechatbot](https://github.com/869413421/wechatbot) - 为个人微信接入ChatGPT
 * 【2022-12-10】[rmcelreath / stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023) - Statistical Rethinking Course for Jan-Mar 2023
@@ -279,6 +286,10 @@
 
 ## Java
 
+* 【2022-12-11】[pentaho / pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
+* 【2022-12-11】[rumeysakdogan / AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) - 
+* 【2022-12-11】[alldatacenter / alldata](https://github.com/alldatacenter/alldata) - 🔥🔥BigData💥大数据💥大数据AllData平台，通过二开大数据BigData生态组件，以及大数据BigData采集、大数据BigData存储、大数据BigData计算、大数据BigData开发来建设开源社区大数据BigData平台。联系作者: https://docs.qq.com/doc/DVFVMYUp6cFhSRVJs
+* 【2022-12-11】[crazyqiang / AndroidStudy](https://github.com/crazyqiang/AndroidStudy) - 🔥Android学习知识点总结 Jetpack、MVVM、MVI、Kotlin、ViewPager2、JUC多线程等，欢迎star！
 * 【2022-12-10】[spring-io / initializr](https://github.com/spring-io/initializr) - A quickstart generator for Spring projects
 * 【2022-12-10】[darryrzhong / Android-MvvmComponent-App](https://github.com/darryrzhong/Android-MvvmComponent-App) - Android 组件化开源app -开眼短视频(OpenEyes)
 * 【2022-12-10】[maliangnansheng / bbs-springboot](https://github.com/maliangnansheng/bbs-springboot) - 仿掘金之【南生论坛】基于SpringBoot+Vue框架实现前后端分离（大厂微服务架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善，性能高效。官方地址：http://bbs.nanshengbbs.top
@@ -391,6 +402,15 @@
 
 ## Python
 
+* 【2022-12-11】[Fantasy-Studio / Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models
+* 【2022-12-11】[humbertogontijo / homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock) - 
+* 【2022-12-11】[microsoft / Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
+* 【2022-12-11】[PySimpleGUI / PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with a full set of widgets. Multi-Window applications are also simple. 3.4 to 3.11 supported. 325+ Demo programs & Cookbook for rapid start. Extensive d…
+* 【2022-12-11】[opendilab / DI-engine](https://github.com/opendilab/DI-engine) - OpenDILab Decision AI Engine
+* 【2022-12-11】[kleiton0x00 / RedditC2](https://github.com/kleiton0x00/RedditC2) - Abusing Reddit API to host the C2 traffic, since most of the blue-team members use Reddit, it might be a great way to make the traffic look legit.
+* 【2022-12-11】[terry3041 / pyChatGPT](https://github.com/terry3041/pyChatGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
+* 【2022-12-11】[RockChinQ / QChatGPT](https://github.com/RockChinQ/QChatGPT) - 基于OpenAI ChatGPT 开发的QQ对话机器人，调用Completion API，支持QQ私聊和群聊，mirai+ChatGPT+MySQL实现
+* 【2022-12-11】[burpheart / Gepetto-ChatGPT](https://github.com/burpheart/Gepetto-ChatGPT) - IDA plugin which queries OpenAI's ChatGPT model to speed up reverse-engineering
 * 【2022-12-10】[qwj / python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
 * 【2022-12-10】[datafold / data-diff](https://github.com/datafold/data-diff) - Efficiently diff data in or across relational databases
 * 【2022-12-10】[zero-to-mastery / start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) - Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes.
@@ -653,6 +673,14 @@
 
 ## Javascript
 
+* 【2022-12-11】[oceanlvr / ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️A GPTChat based GitHub robot. dialogue/CR/etc..
+* 【2022-12-11】[seznam / homepage-legacy](https://github.com/seznam/homepage-legacy) - Historické verze zdrojového kódu různých komponent hlavní stránky Seznam.cz
+* 【2022-12-11】[bbc / simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.
+* 【2022-12-11】[ed-roh / fullstack-admin](https://github.com/ed-roh/fullstack-admin) - 
+* 【2022-12-11】[testjavascript / nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
+* 【2022-12-11】[aunefyren / wrapperr](https://github.com/aunefyren/wrapperr) - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
+* 【2022-12-11】[wkylin / pro-react-admin](https://github.com/wkylin/pro-react-admin) - 基于React: v18.x.x/Webpack: v5.x.x/React Router v6.x.x/ Antd: v5..x.x/Fetch api/ Typescript: v4.x.x 等前端技术最新版本构建的企业级中台研发项目脚手架....
+* 【2022-12-11】[sunshanpeng / wechaty-chatgpt](https://github.com/sunshanpeng/wechaty-chatgpt) - 基于wechaty创建一个自己的ChatGPT微信机器人
 * 【2022-12-10】[ljharb / qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
 * 【2022-12-10】[titaniumnetwork-dev / Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet) - A highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers. Works by intercepting HTTP requests with a service worker script that follows the TompHTTP specifications.
 * 【2022-12-10】[ReactTooltip / react-tooltip](https://github.com/ReactTooltip/react-tooltip) - react tooltip component
@@ -862,6 +890,12 @@
 
 ## Go
 
+* 【2022-12-11】[gwuhaolin / livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
+* 【2022-12-11】[kubernetes-sigs / gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+* 【2022-12-11】[farseer-go / webapi](https://github.com/farseer-go/webapi) - 用于快速构建api服务，带来极简、优雅的开发体验。编写api服务时，不需要使用httpRequest、httpResponse等数据结构。
+* 【2022-12-11】[farseer-go / collections](https://github.com/farseer-go/collections) - Support for List collections and linq syntax
+* 【2022-12-11】[gtoxlili / wechat-chatGPT](https://github.com/gtoxlili/wechat-chatGPT) - 实现微信公众号被动返回接口的ChatGPT
+* 【2022-12-11】[wolf-joe / ts-dns](https://github.com/wolf-joe/ts-dns) - Telescope DNS，简单易用的DNS分组/转发器
 * 【2022-12-10】[emicklei / go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 * 【2022-12-10】[ilanyu / ReverseProxy](https://github.com/ilanyu/ReverseProxy) - ReverseProxy in golang
 * 【2022-12-10】[farseer-go / fs](https://github.com/farseer-go/fs) - farseer-go所有组件的基础模块，模块启动器，框架初始化程序
@@ -1013,6 +1047,7 @@
 
 ## C
 
+* 【2022-12-11】[fogleman / Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 * 【2022-12-10】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF developer tutorials to build CO-RE libbpf tools: generated by ChatGPT and teach ChatGPT to write eBPF programs! ( eBPF 工具开发实践教程: 通过例子学习 eBPF）
 * 【2022-12-10】[Candinya / NyaTrace](https://github.com/Candinya/NyaTrace) - 一个可视化路由追踪工具（ Windows 平台）
 * 【2022-12-09】[Syllo / nvtop](https://github.com/Syllo/nvtop) - GPUs process monitoring for AMD, Intel and NVIDIA
@@ -1142,6 +1177,7 @@
 
 ## C++
 
+* 【2022-12-11】[34736384 / RSAPatch](https://github.com/34736384/RSAPatch) - dynamic runtime patching to circumvent vmp
 * 【2022-12-10】[pichenettes / eurorack](https://github.com/pichenettes/eurorack) - Eurorack modules
 * 【2022-12-10】[mpromonet / webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
 * 【2022-12-08】[bytedance / sonic-cpp](https://github.com/bytedance/sonic-cpp) - A fast JSON serializing & deserializing library, accelerated by SIMD.
@@ -1268,6 +1304,10 @@
 
 ## C#
 
+* 【2022-12-11】[borisdj / EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
+* 【2022-12-11】[digitaltwinconsortium / ManufacturingOntologies](https://github.com/digitaltwinconsortium/ManufacturingOntologies) - A reference solution for leveraging manufacturing ontologies.
+* 【2022-12-11】[Prowlarr / Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+* 【2022-12-11】[Misaka-Mikoto-Tech / UnityScriptHotReload](https://github.com/Misaka-Mikoto-Tech/UnityScriptHotReload) - HotReload Unity C# script without exit play mode and keep the running context unchanged
 * 【2022-12-10】[ktisis-tools / Ktisis](https://github.com/ktisis-tools/Ktisis) - A robust posing tool for creating screenshots in FFXIV's GPose mode.
 * 【2022-12-10】[dotnet / AspNetCore.Docs.Samples](https://github.com/dotnet/AspNetCore.Docs.Samples) - 
 * 【2022-12-10】[PITR-DEV / ukbutt-mod](https://github.com/PITR-DEV/ukbutt-mod) - An Official ULTRAKILL Mod that adds buttplug.io support.
@@ -1403,6 +1443,8 @@
 
 ## Html
 
+* 【2022-12-11】[linkedin / school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+* 【2022-12-11】[Davy-Zhou / zip2pdf](https://github.com/Davy-Zhou/zip2pdf) - 基于Python自动化解压压缩包成PDG，PDG合成PDF
 * 【2022-12-10】[mengmeng1009 / shengdanshu](https://github.com/mengmeng1009/shengdanshu) - 一颗圣诞树
 * 【2022-12-10】[Holdi601 / JoystickProfiler](https://github.com/Holdi601/JoystickProfiler) - Joystick Profiler Utility
 * 【2022-12-09】[alura-cursos / logica_programacion_parte2](https://github.com/alura-cursos/logica_programacion_parte2) - archivos del curso de lógica de programación (españoll) de la parte 2
@@ -1547,6 +1589,10 @@
 
 ## Css
 
+* 【2022-12-11】[ohnogaurav / HtmlProject](https://github.com/ohnogaurav/HtmlProject) - 
+* 【2022-12-11】[p3wv / iac-labs](https://github.com/p3wv/iac-labs) - Infrastructure as Code exercises
+* 【2022-12-11】[Nishantkumar1905 / CAR-BOOKING-WEBSITE-](https://github.com/Nishantkumar1905/CAR-BOOKING-WEBSITE-) - with the help of HTML, CSS , JAVASCRIPT
+* 【2022-12-11】[betawins / sabear_simplecutomerapp](https://github.com/betawins/sabear_simplecutomerapp) - 
 * 【2022-12-10】[bradtraversy / nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
 * 【2022-12-10】[microsoft / powercat-creator-kit](https://github.com/microsoft/powercat-creator-kit) - This toolkit helps create well-designed Power App experiences on the web & mobile. It contains a component library; PCF controls and other utilities that increase developer productivity.
 * 【2022-12-09】[mutuajoseph / MR-MORINGA](https://github.com/mutuajoseph/MR-MORINGA) - This is a simple todo application that helps a user manage his/her tasks on a daily
@@ -1665,6 +1711,17 @@
 
 ## Unknown
 
+* 【2022-12-11】[madd86 / awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
+* 【2022-12-11】[damomine / aleominer](https://github.com/damomine/aleominer) - 
+* 【2022-12-11】[cyberspacedk / Git-commands](https://github.com/cyberspacedk/Git-commands) - Шпаргалка по консольным командам Git
+* 【2022-12-11】[github / dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at
+* 【2022-12-11】[Kamigami55 / awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt) - Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。
+* 【2022-12-11】[saharmor / awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more✨
+* 【2022-12-11】[Finalboss77 / Best-foss-apps-for-privacy-security-](https://github.com/Finalboss77/Best-foss-apps-for-privacy-security-) - 
+* 【2022-12-11】[halo-sigs / awesome-halo](https://github.com/halo-sigs/awesome-halo) - 与 Halo 相关的周边生态资源列表
+* 【2022-12-11】[wuxingsanren / wildcat-vip-account](https://github.com/wuxingsanren/wildcat-vip-account) - 野猫 - 每天分享最新的百度网盘SVIP、迅雷超级会员、手机话费折扣充值、霸王餐免费吃VIP（美团、饿了么、大众点评、肯德基、麦当劳、星巴克）、饿了么超级会员、美团外卖会员&红包券、爱奇艺VIP会员、腾讯视频VIP、优酷VIP会员、哔哩哔哩大会员、百度文库VIP、QQ音乐VIP、网易云黑胶VIP、喜马拉雅VIP、樊登读书会VIP、千图网VIP、包图网VIP、摄图网VIP、CSDN下载VIP、天眼查VIP、苹果ID等等各类VIP帐号，随取随用，完全免费，绝无套路，同时提供：百度文库VIP下载、图库素材VIP下载、学术文献VIP下载（知网维普万方读秀龙源超星、英文数据库、法律数据库、医学数据库、金融数据库）、全网视频VIP解析、全网音乐MP3免费听及下载、微信域名拦截检测API ，欢迎推荐分享给
+* 【2022-12-11】[del-xiong / awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt) - chatgpt中文提问魔法指令
+* 【2022-12-11】[forthespada / Awsome-Courses](https://github.com/forthespada/Awsome-Courses) - 😏国内外计算机的优秀课程，包含MIT、CMU等世界CS名校，🔥🔥其中包含计算机基础学科（操作系统、计算机网络、编译器、数据库、数据结构与算法等）以及人工智能&AI等高级科目，欢迎通过PR形式贡献！
 * 【2022-12-10】[ImpishCheats / Impishware](https://github.com/ImpishCheats/Impishware) - Highly advanced external ARK evolved cheat. Self code by Impish.
 * 【2022-12-10】[jacksight / xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak) - This is the official download website for xina520's jailbreak (temporary)
 * 【2022-12-10】[projectdiscovery / fuzzing-templates](https://github.com/projectdiscovery/fuzzing-templates) - Community curated list of nuclei templates for finding unknown security vulnerabilities.
