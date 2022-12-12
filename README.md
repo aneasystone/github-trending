@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-12-12】[shinework / photoshot](https://github.com/shinework/photoshot) - 
+* 【2022-12-12】[deepmind / dramatron](https://github.com/deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
+* 【2022-12-12】[revanced / revanced-patches](https://github.com/revanced/revanced-patches) - 🧩Patches for ReVanced
+* 【2022-12-12】[tiann / KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android GKI
+* 【2022-12-12】[wechaty / wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
+* 【2022-12-12】[Turing-Project / AntiFraudChatBot](https://github.com/Turing-Project/AntiFraudChatBot) - A simple prompt-chatting AI based on wechaty and fintuned NLP model
+* 【2022-12-12】[yym68686 / ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - a AI chat Telegram Bot with ChatGPT in fly.io
+* 【2022-12-12】[vastsa / FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 * 【2022-12-11】[exaloop / codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 * 【2022-12-11】[cloneofsimo / lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 * 【2022-12-11】[mohammadpz / pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward) - Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
@@ -98,6 +106,11 @@
 
 ## Java
 
+* 【2022-12-12】[M66B / NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
+* 【2022-12-12】[JFormDesigner / FlatLaf](https://github.com/JFormDesigner/FlatLaf) - FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
+* 【2022-12-12】[PraktikumJava / m1-t12-debug](https://github.com/PraktikumJava/m1-t12-debug) - 
+* 【2022-12-12】[FokersBoolean / AliceBot](https://github.com/FokersBoolean/AliceBot) - 
+* 【2022-12-12】[ikaros-dev / ikaros](https://github.com/ikaros-dev/ikaros) - 专注于ACGMN的内容管家(CMS)，——伊卡洛斯。
 * 【2022-12-11】[pentaho / pentaho-kettle](https://github.com/pentaho/pentaho-kettle) - Pentaho Data Integration ( ETL ) a.k.a Kettle
 * 【2022-12-11】[rumeysakdogan / AWS_DevOps_Projects](https://github.com/rumeysakdogan/AWS_DevOps_Projects) - 
 * 【2022-12-11】[alldatacenter / alldata](https://github.com/alldatacenter/alldata) - 🔥🔥BigData💥大数据💥大数据AllData平台，通过二开大数据BigData生态组件，以及大数据BigData采集、大数据BigData存储、大数据BigData计算、大数据BigData开发来建设开源社区大数据BigData平台。联系作者: https://docs.qq.com/doc/DVFVMYUp6cFhSRVJs
@@ -139,6 +152,13 @@
 
 ## Python
 
+* 【2022-12-12】[VoltaML / voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Lightweight library to accelerate Stable-Diffusion, Dreambooth into fastest inference models with single line of code🔥🔥
+* 【2022-12-12】[davidbombal / ssh_bruteforcing](https://github.com/davidbombal/ssh_bruteforcing) - Simple Python SSH Brute Forcing (Credential Stuffing)
+* 【2022-12-12】[ActiveState / OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
+* 【2022-12-12】[flet-dev / flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+* 【2022-12-12】[yongjiu8 / mengniu-get-milk](https://github.com/yongjiu8/mengniu-get-milk) - 蒙牛世界杯每天抢牛奶脚本（原创脚本，仅供学习交流使用，每日更新，关注忒星不迷路）
+* 【2022-12-12】[zcxey2911 / Python_ChatGPT_ForDingding_OpenAi](https://github.com/zcxey2911/Python_ChatGPT_ForDingding_OpenAi) - 基于Python3.10的OpenAI聊天机器人ChatGPT模型接入钉钉Dingding机器人单聊/群聊功能
+* 【2022-12-12】[bupticybee / ChineseAiDungeon](https://github.com/bupticybee/ChineseAiDungeon) - 中文版ai地牢,基于清源CPM fineutne
 * 【2022-12-11】[Fantasy-Studio / Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models
 * 【2022-12-11】[humbertogontijo / homeassistant-roborock](https://github.com/humbertogontijo/homeassistant-roborock) - 
 * 【2022-12-11】[microsoft / Codex-CLI](https://github.com/microsoft/Codex-CLI) - CLI tool that uses Codex to turn natural language commands into their Bash/ZShell/PowerShell equivalents
@@ -244,6 +264,14 @@
 
 ## Javascript
 
+* 【2022-12-12】[mattboldt / typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+* 【2022-12-12】[ZerioDev / Music-bot](https://github.com/ZerioDev/Music-bot) - A complete code to download for a cool Discord music bot !
+* 【2022-12-12】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
+* 【2022-12-12】[manga-download / hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
+* 【2022-12-12】[chenmy1903 / LunarClient-CN](https://github.com/chenmy1903/LunarClient-CN) - LunarClient for China
+* 【2022-12-12】[linonetwo / ChatGPT-Magic-Chat](https://github.com/linonetwo/ChatGPT-Magic-Chat) - 使唤 AI 使魔必备魔咒，一些验证可用的操作 ChatGPT 的咒语。
+* 【2022-12-12】[meetqy / eagle-web](https://github.com/meetqy/eagle-web) - eagle图片管理工具的web版本
+* 【2022-12-12】[doggy8088 / TampermonkeyUserscripts](https://github.com/doggy8088/TampermonkeyUserscripts) - 
 * 【2022-12-11】[oceanlvr / ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) - 🤖️A GPTChat based GitHub robot. dialogue/CR/etc..
 * 【2022-12-11】[seznam / homepage-legacy](https://github.com/seznam/homepage-legacy) - Historické verze zdrojového kódu různých komponent hlavní stránky Seznam.cz
 * 【2022-12-11】[bbc / simorgh](https://github.com/bbc/simorgh) - The BBC's Open Source Single Page Application. Contributions welcome! Used on some of our biggest websites, e.g.
@@ -337,6 +365,12 @@
 
 ## Go
 
+* 【2022-12-12】[cloudentity / oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly CLI for OAuth2
+* 【2022-12-12】[awslabs / eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer
+* 【2022-12-12】[gobuffalo / buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+* 【2022-12-12】[eryajf / chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) - ChatGPT机器人在钉钉群聊中交互
+* 【2022-12-12】[mtgnorton / cp-v2](https://github.com/mtgnorton/cp-v2) - 模拟v2ex的论坛系统
+* 【2022-12-12】[houko / wechatgpt](https://github.com/houko/wechatgpt) - golang版 微信chatgpt机器人
 * 【2022-12-11】[gwuhaolin / livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 * 【2022-12-11】[kubernetes-sigs / gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 * 【2022-12-11】[farseer-go / webapi](https://github.com/farseer-go/webapi) - 用于快速构建api服务，带来极简、优雅的开发体验。编写api服务时，不需要使用httpRequest、httpResponse等数据结构。
@@ -377,6 +411,8 @@
 
 ## C
 
+* 【2022-12-12】[tvheadend / tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
+* 【2022-12-12】[Rythorndoran / PageTableHook](https://github.com/Rythorndoran/PageTableHook) - 
 * 【2022-12-11】[fogleman / Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
 * 【2022-12-10】[eunomia-bpf / bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF developer tutorials to build CO-RE libbpf tools: generated by ChatGPT and teach ChatGPT to write eBPF programs! ( eBPF 工具开发实践教程: 通过例子学习 eBPF）
 * 【2022-12-10】[Candinya / NyaTrace](https://github.com/Candinya/NyaTrace) - 一个可视化路由追踪工具（ Windows 平台）
@@ -411,6 +447,10 @@
 
 ## C++
 
+* 【2022-12-12】[frkngksl / Shoggoth](https://github.com/frkngksl/Shoggoth) - Shoggoth: Asmjit Based Polymorphic Encryptor
+* 【2022-12-12】[vectozavr / submem_surf](https://github.com/vectozavr/submem_surf) - 
+* 【2022-12-12】[PixlOne / logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
+* 【2022-12-12】[mahuifa / QMDemo](https://github.com/mahuifa/QMDemo) - Qt日常开发的一些功能模块或者Qt库、三方库的使用Demo，例如FFmpeg、OpenCV、QGraphicsView、OpenGL、网络编程、数据库、QSS样式表、QtChart图表绘制等。
 * 【2022-12-11】[34736384 / RSAPatch](https://github.com/34736384/RSAPatch) - dynamic runtime patching to circumvent vmp
 * 【2022-12-10】[pichenettes / eurorack](https://github.com/pichenettes/eurorack) - Eurorack modules
 * 【2022-12-10】[mpromonet / webrtc-streamer](https://github.com/mpromonet/webrtc-streamer) - WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture
@@ -436,6 +476,10 @@
 
 ## C#
 
+* 【2022-12-12】[SebLague / Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
+* 【2022-12-12】[zcgonvh / DCOMPotato](https://github.com/zcgonvh/DCOMPotato) - Some Service DCOM Object and SeImpersonatePrivilege abuse.
+* 【2022-12-12】[immense / Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 6, Blazor, SignalR Core, and WebRTC.
+* 【2022-12-12】[DeJhon-Huang / FernNPR](https://github.com/DeJhon-Huang/FernNPR) - NPR rendering Library in Unity
 * 【2022-12-11】[borisdj / EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite
 * 【2022-12-11】[digitaltwinconsortium / ManufacturingOntologies](https://github.com/digitaltwinconsortium/ManufacturingOntologies) - A reference solution for leveraging manufacturing ontologies.
 * 【2022-12-11】[Prowlarr / Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
@@ -472,6 +516,10 @@
 
 ## Html
 
+* 【2022-12-12】[spyboy-productions / r4ven](https://github.com/spyboy-productions/r4ven) - Track ip and gps Location.
+* 【2022-12-12】[hadley / r4ds](https://github.com/hadley/r4ds) - R for data science: a book
+* 【2022-12-12】[jadijadi / gittutorial](https://github.com/jadijadi/gittutorial) - 
+* 【2022-12-12】[91popnyfabu / 91popnyfabu.github.io](https://github.com/91popnyfabu/91popnyfabu.github.io) - 九色视频|91PORNY|最新地址|最新可用地址
 * 【2022-12-11】[linkedin / school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
 * 【2022-12-11】[Davy-Zhou / zip2pdf](https://github.com/Davy-Zhou/zip2pdf) - 基于Python自动化解压压缩包成PDG，PDG合成PDF
 * 【2022-12-10】[mengmeng1009 / shengdanshu](https://github.com/mengmeng1009/shengdanshu) - 一颗圣诞树
@@ -505,6 +553,8 @@
 
 ## Css
 
+* 【2022-12-12】[jadijadi / linuxandlife](https://github.com/jadijadi/linuxandlife) - کتاب راهنمای لینوکس و زندگی
+* 【2022-12-12】[Mdboniamin / Outlaws_Assignment_3.2](https://github.com/Mdboniamin/Outlaws_Assignment_3.2) - 
 * 【2022-12-11】[ohnogaurav / HtmlProject](https://github.com/ohnogaurav/HtmlProject) - 
 * 【2022-12-11】[p3wv / iac-labs](https://github.com/p3wv/iac-labs) - Infrastructure as Code exercises
 * 【2022-12-11】[Nishantkumar1905 / CAR-BOOKING-WEBSITE-](https://github.com/Nishantkumar1905/CAR-BOOKING-WEBSITE-) - with the help of HTML, CSS , JAVASCRIPT
@@ -542,6 +592,11 @@
 
 ## Unknown
 
+* 【2022-12-12】[Mojang / bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
+* 【2022-12-12】[glados-network / GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
+* 【2022-12-12】[hemanth / functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
+* 【2022-12-12】[Hank-Chrome / free-clash-node](https://github.com/Hank-Chrome/free-clash-node) - 免费clash节点！亲测可用！高速！
+* 【2022-12-12】[catvod / CatVodApp](https://github.com/catvod/CatVodApp) - A cross-platform video application with custom source support.
 * 【2022-12-11】[madd86 / awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources.
 * 【2022-12-11】[damomine / aleominer](https://github.com/damomine/aleominer) - 
 * 【2022-12-11】[cyberspacedk / Git-commands](https://github.com/cyberspacedk/Git-commands) - Шпаргалка по консольным командам Git
