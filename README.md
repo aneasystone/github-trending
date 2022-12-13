@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-12-13】[calistus-igwilo / nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship) - Course materials for the NITDA Blockchain Scholarship
+* 【2022-12-13】[skydoves / chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
+* 【2022-12-13】[atigger / COC-Helper](https://github.com/atigger/COC-Helper) - COC阵型复制工具
 * 【2022-12-12】[shinework / photoshot](https://github.com/shinework/photoshot) - 
 * 【2022-12-12】[deepmind / dramatron](https://github.com/deepmind/dramatron) - Dramatron uses large language models to generate coherent scripts and screenplays.
 * 【2022-12-12】[revanced / revanced-patches](https://github.com/revanced/revanced-patches) - 🧩Patches for ReVanced
@@ -106,6 +109,12 @@
 
 ## Java
 
+* 【2022-12-13】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
+* 【2022-12-13】[xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
+* 【2022-12-13】[obiscr / ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
+* 【2022-12-13】[yangchong211 / YCToolLib](https://github.com/yangchong211/YCToolLib) - App综合防抓包实践，关闭代理，设置配置文件；设置单向认证或双向认证；对数据加密和解密；sign签名参数；防止xposed，root，va挂载等操作。 比较通用全面的防抓包技术方案！
+* 【2022-12-13】[jenly1314 / MLKit](https://github.com/jenly1314/MLKit) - 🌝MLKit是一个强大易用的工具包。通过ML Kit您可以很轻松的实现文字识别、条码识别、图像标记、人脸检测、对象检测等功能。
+* 【2022-12-13】[getActivity / EasyHttp](https://github.com/getActivity/EasyHttp) - Android 网络请求框架，简单易用，so easy
 * 【2022-12-12】[M66B / NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 * 【2022-12-12】[JFormDesigner / FlatLaf](https://github.com/JFormDesigner/FlatLaf) - FlatLaf - Swing Look and Feel (with Darcula/IntelliJ themes support)
 * 【2022-12-12】[PraktikumJava / m1-t12-debug](https://github.com/PraktikumJava/m1-t12-debug) - 
@@ -152,6 +161,9 @@
 
 ## Python
 
+* 【2022-12-13】[fr0gger / IATelligence](https://github.com/fr0gger/IATelligence) - IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
+* 【2022-12-13】[Shawn-Inspur / Yuan-1.0](https://github.com/Shawn-Inspur/Yuan-1.0) - Yuan 1.0 Large pretrained LM
+* 【2022-12-13】[bigbrother666sh / shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
 * 【2022-12-12】[VoltaML / voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Lightweight library to accelerate Stable-Diffusion, Dreambooth into fastest inference models with single line of code🔥🔥
 * 【2022-12-12】[davidbombal / ssh_bruteforcing](https://github.com/davidbombal/ssh_bruteforcing) - Simple Python SSH Brute Forcing (Credential Stuffing)
 * 【2022-12-12】[ActiveState / OpenKomodoIDE](https://github.com/ActiveState/OpenKomodoIDE) - Open Komodo IDE is a fast and free multi-language code editor. Written in JS, Python, C++ and based on the Mozilla platform.
@@ -264,6 +276,12 @@
 
 ## Javascript
 
+* 【2022-12-13】[wechaty / getting-started](https://github.com/wechaty/getting-started) - A Starter Project Template for Wechaty works out-of-the-box
+* 【2022-12-13】[kxxt / chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
+* 【2022-12-13】[zhennann / cabloy](https://github.com/zhennann/cabloy) - 一款自带工作流引擎的Node.js全栈框架，最快捷的企业级全栈开发框架。实现了真正意义的“一次开发，到处运行”的跨端跨平台理念。只需一套代码，即可同时实现B端中后台管理系统和C端前台应用。只需一套代码，即可同时跨端PC和Mobile，并且Mobile端是接近原生体验。A Node.js full-stack framework with workflow engine, based on koa + egg + vue + framework7
+* 【2022-12-13】[yi-ge / chatgpt-web](https://github.com/yi-ge/chatgpt-web) - Multi-user h5 version, 3rd party ChatGPT web page. Uses OpenAPI official web API.
+* 【2022-12-13】[HCLonely / awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【每周末更新】
+* 【2022-12-13】[xrkffgg / xrkffgg](https://github.com/xrkffgg/xrkffgg) - 🎉A quote a day, welcome PR to add your quotations.
 * 【2022-12-12】[mattboldt / typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 * 【2022-12-12】[ZerioDev / Music-bot](https://github.com/ZerioDev/Music-bot) - A complete code to download for a cool Discord music bot !
 * 【2022-12-12】[pt-plugins / PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus) - PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。
@@ -365,6 +383,10 @@
 
 ## Go
 
+* 【2022-12-13】[m1guelpf / chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
+* 【2022-12-13】[529124368 / go_Diablo2](https://github.com/529124368/go_Diablo2) - golang开发的暗黑破坏神2_DEMO (Diablo2_Demo)
+* 【2022-12-13】[sh1yan / Lscan](https://github.com/sh1yan/Lscan) - 一款内网快速打点的辅助性扫描工具，方便红队人员在内网横向移动前期的信息搜集、漏洞探测利用环节的工作开展。其工具特性主要为支持一键化三个档位的便捷式信息与漏洞扫描或每个功能模块单独式扫描探测功能。
+* 【2022-12-13】[fangkehou-team / v2hk-refresh](https://github.com/fangkehou-team/v2hk-refresh) - 一个在heroku部署v2ray的库（你懂的~~~）（重新修改支持 VLess + ws 和 VMess + ws）
 * 【2022-12-12】[cloudentity / oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly CLI for OAuth2
 * 【2022-12-12】[awslabs / eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer
 * 【2022-12-12】[gobuffalo / buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
@@ -411,6 +433,8 @@
 
 ## C
 
+* 【2022-12-13】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
+* 【2022-12-13】[fumiama / base16384](https://github.com/fumiama/base16384) - Encode binary files to printable utf16be.
 * 【2022-12-12】[tvheadend / tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
 * 【2022-12-12】[Rythorndoran / PageTableHook](https://github.com/Rythorndoran/PageTableHook) - 
 * 【2022-12-11】[fogleman / Craft](https://github.com/fogleman/Craft) - A simple Minecraft clone written in C using modern OpenGL (shaders).
@@ -447,6 +471,11 @@
 
 ## C++
 
+* 【2022-12-13】[deepmind / code_contests](https://github.com/deepmind/code_contests) - 
+* 【2022-12-13】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
+* 【2022-12-13】[google / omaha](https://github.com/google/omaha) - Google Update for Windows
+* 【2022-12-13】[Mapshiny / CampusRecruit](https://github.com/Mapshiny/CampusRecruit) - ✨23⌈秋招⌋⌈校招⌋面试笔记，C/C++/Java/Go/Python/前端/后端面经合集(含答案)，从秋招一直到春招补录，陪你找到满意工作，欢迎提交pr补充信息，每天持续更新...
+* 【2022-12-13】[hahayuxiang / LL1_grammar_analysis](https://github.com/hahayuxiang/LL1_grammar_analysis) - 南京邮电大学编译原理实验，支持分析包含直接左递归的LL(1)文法！
 * 【2022-12-12】[frkngksl / Shoggoth](https://github.com/frkngksl/Shoggoth) - Shoggoth: Asmjit Based Polymorphic Encryptor
 * 【2022-12-12】[vectozavr / submem_surf](https://github.com/vectozavr/submem_surf) - 
 * 【2022-12-12】[PixlOne / logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -476,6 +505,9 @@
 
 ## C#
 
+* 【2022-12-13】[RupertAvery / DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit) - Stable Diffusion Image and prompt database
+* 【2022-12-13】[LibreQuest / OculusKiller](https://github.com/LibreQuest/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
+* 【2022-12-13】[Z1029-oRangeSumMer / O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector) - 一个集成化的Unity IL2CPP&MONO安全方案
 * 【2022-12-12】[SebLague / Digital-Logic-Sim](https://github.com/SebLague/Digital-Logic-Sim) - 
 * 【2022-12-12】[zcgonvh / DCOMPotato](https://github.com/zcgonvh/DCOMPotato) - Some Service DCOM Object and SeImpersonatePrivilege abuse.
 * 【2022-12-12】[immense / Remotely](https://github.com/immense/Remotely) - A remote control and remote scripting solution, built with .NET 6, Blazor, SignalR Core, and WebRTC.
@@ -516,6 +548,9 @@
 
 ## Html
 
+* 【2022-12-13】[skolo-online / ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai) - Create an AI blog writing toll with Open AI API
+* 【2022-12-13】[anuragtiwarime / fsjs2](https://github.com/anuragtiwarime/fsjs2) - 
+* 【2022-12-13】[1234567Yang / Eweb](https://github.com/1234567Yang/Eweb) - 中文可视化HTML开发
 * 【2022-12-12】[spyboy-productions / r4ven](https://github.com/spyboy-productions/r4ven) - Track ip and gps Location.
 * 【2022-12-12】[hadley / r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 * 【2022-12-12】[jadijadi / gittutorial](https://github.com/jadijadi/gittutorial) - 
@@ -553,6 +588,7 @@
 
 ## Css
 
+* 【2022-12-13】[next-step / js-vending-machine](https://github.com/next-step/js-vending-machine) - 자바스크립트와 Cypress로 구현하는 자판기
 * 【2022-12-12】[jadijadi / linuxandlife](https://github.com/jadijadi/linuxandlife) - کتاب راهنمای لینوکس و زندگی
 * 【2022-12-12】[Mdboniamin / Outlaws_Assignment_3.2](https://github.com/Mdboniamin/Outlaws_Assignment_3.2) - 
 * 【2022-12-11】[ohnogaurav / HtmlProject](https://github.com/ohnogaurav/HtmlProject) - 
@@ -592,6 +628,14 @@
 
 ## Unknown
 
+* 【2022-12-13】[yuriisanin / CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025) - [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)
+* 【2022-12-13】[llSourcell / LearnML](https://github.com/llSourcell/LearnML) - This is the Study Guide for Learn Machine Learning in 3 Months (PyTorch Curriculum) by Siraj Raval on Youtube
+* 【2022-12-13】[aaronryank / fork-bomb](https://github.com/aaronryank/fork-bomb) - Fork bombs in lots of languages
+* 【2022-12-13】[shivaya-dav / DogeRat](https://github.com/shivaya-dav/DogeRat) - A multifunctional Telegram based Android RAT without port forwarding.
+* 【2022-12-13】[iptv-org / awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
+* 【2022-12-13】[992tvshipin / dizhifabu](https://github.com/992tvshipin/dizhifabu) - 
+* 【2022-12-13】[xiaoss2022 / xssvip](https://github.com/xiaoss2022/xssvip) - 
+* 【2022-12-13】[lanceliao / china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
 * 【2022-12-12】[Mojang / bedrock-samples](https://github.com/Mojang/bedrock-samples) - Samples and assets for building Minecraft: Bedrock Edition add-ons
 * 【2022-12-12】[glados-network / GLaDOS](https://github.com/glados-network/GLaDOS) - status of GLaDOS
 * 【2022-12-12】[hemanth / functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
