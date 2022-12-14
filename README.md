@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2022-12-14】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE = GPT AI Assistant
+* 【2022-12-14】[Lanznx / HealthLineBot](https://github.com/Lanznx/HealthLineBot) - 
 * 【2022-12-13】[calistus-igwilo / nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship) - Course materials for the NITDA Blockchain Scholarship
 * 【2022-12-13】[skydoves / chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📱ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 * 【2022-12-13】[atigger / COC-Helper](https://github.com/atigger/COC-Helper) - COC阵型复制工具
@@ -109,6 +111,8 @@
 
 ## Java
 
+* 【2022-12-14】[hyunel / CraftAMap](https://github.com/hyunel/CraftAMap) - 将高德地图一键导入到 Minecraft，支持 3D 建筑，多个图层，定制区域方块类型
+* 【2022-12-14】[jenly1314 / ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
 * 【2022-12-13】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
 * 【2022-12-13】[xCollateral / VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 * 【2022-12-13】[obiscr / ChatGPT](https://github.com/obiscr/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
@@ -161,6 +165,9 @@
 
 ## Python
 
+* 【2022-12-14】[shobrook / stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
+* 【2022-12-14】[vaexio / vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second🚀
+* 【2022-12-14】[mne-tools / mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
 * 【2022-12-13】[fr0gger / IATelligence](https://github.com/fr0gger/IATelligence) - IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
 * 【2022-12-13】[Shawn-Inspur / Yuan-1.0](https://github.com/Shawn-Inspur/Yuan-1.0) - Yuan 1.0 Large pretrained LM
 * 【2022-12-13】[bigbrother666sh / shezhangbujianle](https://github.com/bigbrother666sh/shezhangbujianle) - 借助世界上最大的单体中文NLP大模型，我们做出了一个可以跟人类玩“剧本杀”的AI……
@@ -276,6 +283,11 @@
 
 ## Javascript
 
+* 【2022-12-14】[vitejs / vite-plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Speed up your Vite dev server with SWC
+* 【2022-12-14】[gencay / vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
+* 【2022-12-14】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library🖥️🖱️
+* 【2022-12-14】[nmsdss / jsvmp-repository](https://github.com/nmsdss/jsvmp-repository) - 国内部分网站的jsvmp算法
+* 【2022-12-14】[Bleu404 / PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 * 【2022-12-13】[wechaty / getting-started](https://github.com/wechaty/getting-started) - A Starter Project Template for Wechaty works out-of-the-box
 * 【2022-12-13】[kxxt / chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
 * 【2022-12-13】[zhennann / cabloy](https://github.com/zhennann/cabloy) - 一款自带工作流引擎的Node.js全栈框架，最快捷的企业级全栈开发框架。实现了真正意义的“一次开发，到处运行”的跨端跨平台理念。只需一套代码，即可同时实现B端中后台管理系统和C端前台应用。只需一套代码，即可同时跨端PC和Mobile，并且Mobile端是接近原生体验。A Node.js full-stack framework with workflow engine, based on koa + egg + vue + framework7
@@ -383,6 +395,9 @@
 
 ## Go
 
+* 【2022-12-14】[mongodb / mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
+* 【2022-12-14】[liaoran123 / research](https://github.com/liaoran123/research) - ReSearch--考据级搜索引擎微服务系统
+* 【2022-12-14】[xiaobinqt / go-wxbot](https://github.com/xiaobinqt/go-wxbot) - Go 微信机器人，微信机器人定时提醒。Go WeChat bot and regular reminder.
 * 【2022-12-13】[m1guelpf / chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
 * 【2022-12-13】[529124368 / go_Diablo2](https://github.com/529124368/go_Diablo2) - golang开发的暗黑破坏神2_DEMO (Diablo2_Demo)
 * 【2022-12-13】[sh1yan / Lscan](https://github.com/sh1yan/Lscan) - 一款内网快速打点的辅助性扫描工具，方便红队人员在内网横向移动前期的信息搜集、漏洞探测利用环节的工作开展。其工具特性主要为支持一键化三个档位的便捷式信息与漏洞扫描或每个功能模块单独式扫描探测功能。
@@ -433,6 +448,9 @@
 
 ## C
 
+* 【2022-12-14】[SRombauts / SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
+* 【2022-12-14】[libffi / libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
+* 【2022-12-14】[nalgeon / sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
 * 【2022-12-13】[fairyglade / ly](https://github.com/fairyglade/ly) - display manager with console UI
 * 【2022-12-13】[fumiama / base16384](https://github.com/fumiama/base16384) - Encode binary files to printable utf16be.
 * 【2022-12-12】[tvheadend / tvheadend](https://github.com/tvheadend/tvheadend) - Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT>IP and other formats through the unix pipe as input sources.
@@ -471,6 +489,7 @@
 
 ## C++
 
+* 【2022-12-14】[shilicon / kr260_robotic_arm](https://github.com/shilicon/kr260_robotic_arm) - A robotic arm controller design based on AMD/Xilinx KR260 FPGA dev-kit.
 * 【2022-12-13】[deepmind / code_contests](https://github.com/deepmind/code_contests) - 
 * 【2022-12-13】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
 * 【2022-12-13】[google / omaha](https://github.com/google/omaha) - Google Update for Windows
@@ -505,6 +524,8 @@
 
 ## C#
 
+* 【2022-12-14】[dotnet / arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
+* 【2022-12-14】[Wilson403 / Html2UnityRich](https://github.com/Wilson403/Html2UnityRich) - 能够将Html标签转化为Unity支持的富文本标签（UGUI or TextPro）
 * 【2022-12-13】[RupertAvery / DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit) - Stable Diffusion Image and prompt database
 * 【2022-12-13】[LibreQuest / OculusKiller](https://github.com/LibreQuest/OculusKiller) - Completely kill the Oculus Dash and auto-launch SteamVR.
 * 【2022-12-13】[Z1029-oRangeSumMer / O-Z-Unity-Protector](https://github.com/Z1029-oRangeSumMer/O-Z-Unity-Protector) - 一个集成化的Unity IL2CPP&MONO安全方案
@@ -548,6 +569,8 @@
 
 ## Html
 
+* 【2022-12-14】[naveenanimation20 / PageObjectModel](https://github.com/naveenanimation20/PageObjectModel) - Page Object Model with - Selenium + Java + TestNG
+* 【2022-12-14】[OCA / purchase-workflow](https://github.com/OCA/purchase-workflow) - Odoo Purchases, Workflow and Organization
 * 【2022-12-13】[skolo-online / ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai) - Create an AI blog writing toll with Open AI API
 * 【2022-12-13】[anuragtiwarime / fsjs2](https://github.com/anuragtiwarime/fsjs2) - 
 * 【2022-12-13】[1234567Yang / Eweb](https://github.com/1234567Yang/Eweb) - 中文可视化HTML开发
@@ -588,6 +611,10 @@
 
 ## Css
 
+* 【2022-12-14】[Septiandwica / kado](https://github.com/Septiandwica/kado) - flower
+* 【2022-12-14】[fdnd-task / fix-the-flow-ui-events](https://github.com/fdnd-task/fix-the-flow-ui-events) - Verschillende User Interface events uitproberen
+* 【2022-12-14】[Remedy-Entertainment / USDBook](https://github.com/Remedy-Entertainment/USDBook) - Book of USD source repository.
+* 【2022-12-14】[Riya14-dangra / RealEstate-Web](https://github.com/Riya14-dangra/RealEstate-Web) - 
 * 【2022-12-13】[next-step / js-vending-machine](https://github.com/next-step/js-vending-machine) - 자바스크립트와 Cypress로 구현하는 자판기
 * 【2022-12-12】[jadijadi / linuxandlife](https://github.com/jadijadi/linuxandlife) - کتاب راهنمای لینوکس و زندگی
 * 【2022-12-12】[Mdboniamin / Outlaws_Assignment_3.2](https://github.com/Mdboniamin/Outlaws_Assignment_3.2) - 
@@ -628,6 +655,11 @@
 
 ## Unknown
 
+* 【2022-12-14】[Mmira2 / https-github.com-calistus-igwilo-nitda-blockchain-scholarship](https://github.com/Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship) - 
+* 【2022-12-14】[russellventura / HomeAssistant](https://github.com/russellventura/HomeAssistant) - Home Assistant Dashboard Project
+* 【2022-12-14】[itgoyo / awesome-docker](https://github.com/itgoyo/awesome-docker) - 整理搜集全网有趣好玩的docker项目
+* 【2022-12-14】[whatis-geb / operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
+* 【2022-12-14】[v2ba / v2ba](https://github.com/v2ba/v2ba) - v2ba最新地址
 * 【2022-12-13】[yuriisanin / CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025) - [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)
 * 【2022-12-13】[llSourcell / LearnML](https://github.com/llSourcell/LearnML) - This is the Study Guide for Learn Machine Learning in 3 Months (PyTorch Curriculum) by Siraj Raval on Youtube
 * 【2022-12-13】[aaronryank / fork-bomb](https://github.com/aaronryank/fork-bomb) - Fork bombs in lots of languages
