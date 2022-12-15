@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2022-12-15】[directus / directus](https://github.com/directus/directus) - The Modern Data Stack🐰— Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+* 【2022-12-15】[norvig / pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
+* 【2022-12-15】[lencx / ChatGPT](https://github.com/lencx/ChatGPT) - 🤖ChatGPT Desktop Application (Mac, Windows and Linux)
+* 【2022-12-15】[home-assistant / frontend](https://github.com/home-assistant/frontend) - 🍭Frontend for Home Assistant
+* 【2022-12-15】[wesbos / pommade](https://github.com/wesbos/pommade) - A menu bar app to check your hair
+* 【2022-12-15】[vuejs / core](https://github.com/vuejs/core) - 🖖Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* 【2022-12-15】[binary-husky / unreal-hmp](https://github.com/binary-husky/unreal-hmp) - Multiagent research environment toolbox based on Unreal Engine
+* 【2022-12-15】[chrisyy2003 / lingyin-bot](https://github.com/chrisyy2003/lingyin-bot) - 
 * 【2022-12-14】[memochou1993 / gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE = GPT AI Assistant
 * 【2022-12-14】[Lanznx / HealthLineBot](https://github.com/Lanznx/HealthLineBot) - 
 * 【2022-12-13】[calistus-igwilo / nitda-blockchain-scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship) - Course materials for the NITDA Blockchain Scholarship
@@ -111,6 +119,12 @@
 
 ## Java
 
+* 【2022-12-15】[provectus / kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
+* 【2022-12-15】[spring-projects / spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing offline and batch applications using Spring and Java
+* 【2022-12-15】[alipay / alipay-sdk-java-all](https://github.com/alipay/alipay-sdk-java-all) - 支付宝开放平台 Alipay SDK for Java
+* 【2022-12-15】[bobo667 / mybatis-plus-join](https://github.com/bobo667/mybatis-plus-join) - mybatis-plus-join 多表插件 完全按照mp的用法来做，你只要会mp，那你就会用mpj，无感引入，不会对之前的业务产生一点点影响，采用扩展方式来集成mp,更容易适配版本，后期mp版本升级，您不用更改东西，只需要更新版本就行，自定义返回Vo，自定义表别名，自定义查询字段，骚操作爽到爆，让你在喝有时间喝下午茶的时间，还能再吃点心（目前支持大部分主流版本 ）
+* 【2022-12-15】[yanglikai0806 / testool](https://github.com/yanglikai0806/testool) - 一款用于Android端 ui自动化测试的工具（基于Android实现）
+* 【2022-12-15】[hidou7 / tolog-appender](https://github.com/hidou7/tolog-appender) - A logback log plug-in output to the database.
 * 【2022-12-14】[hyunel / CraftAMap](https://github.com/hyunel/CraftAMap) - 将高德地图一键导入到 Minecraft，支持 3D 建筑，多个图层，定制区域方块类型
 * 【2022-12-14】[jenly1314 / ZXingLite](https://github.com/jenly1314/ZXingLite) - 🔥ZXing的精简极速版，优化扫码和生成二维码/条形码，内置闪光灯等功能。扫描风格支持：微信的线条样式，支付宝的网格样式。几句代码轻松拥有扫码功能 ，ZXingLite让集成更简单。（扫码识别速度快如微信）
 * 【2022-12-13】[FabricMC / fabric](https://github.com/FabricMC/fabric) - Essential hooks for modding with Fabric.
@@ -165,6 +179,14 @@
 
 ## Python
 
+* 【2022-12-15】[allenai / RL4LMs](https://github.com/allenai/RL4LMs) - A modular RL library to fine-tune language models to human preferences
+* 【2022-12-15】[openai / glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
+* 【2022-12-15】[De3vil / KLogger](https://github.com/De3vil/KLogger) - Remote persistent🔑Logger for Windows and Linux
+* 【2022-12-15】[Methexis-Inc / terminal-copilot](https://github.com/Methexis-Inc/terminal-copilot) - A smart terminal assistant that helps you find the right command.
+* 【2022-12-15】[lucidrains / imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
+* 【2022-12-15】[Rongjiehuang / GenerSpeech](https://github.com/Rongjiehuang/GenerSpeech) - PyTorch Implementation of GenerSpeech (NeurIPS'22): a text-to-speech model towards zero-shot style transfer of OOD custom voice.
+* 【2022-12-15】[Oneflow-Inc / one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) - A more efficient yolov5 with oneflow backend🎉🎉🎉
+* 【2022-12-15】[Soulter / QQChannelChatGPT](https://github.com/Soulter/QQChannelChatGPT) - 基于OpenAI ChatGPT 的QQ频道聊天机器人 | QQ channel chatbot
 * 【2022-12-14】[shobrook / stackexplain](https://github.com/shobrook/stackexplain) - Explain your error message with ChatGPT
 * 【2022-12-14】[vaexio / vaex](https://github.com/vaexio/vaex) - Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second🚀
 * 【2022-12-14】[mne-tools / mne-python](https://github.com/mne-tools/mne-python) - MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
@@ -283,6 +305,12 @@
 
 ## Javascript
 
+* 【2022-12-15】[medusajs / medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative⚡️
+* 【2022-12-15】[VincentGarreau / particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+* 【2022-12-15】[qingcheng2022 / dx](https://github.com/qingcheng2022/dx) - 
+* 【2022-12-15】[totravel / shadowsocks-ws](https://github.com/totravel/shadowsocks-ws) - 基于 WebSocket 的 Shadowsocks，可以部署在 Heroku 和 Railway。
+* 【2022-12-15】[kesixin / QuestionWechatApp](https://github.com/kesixin/QuestionWechatApp) - 微信小程序，考试小程序，答题小程序，刷题小程序。毕业设计小程序，有前后端完整源码和数据库，易于二次开发。还可用于考试活动，企业内部考核，内部培训等职业考试刷题。
+* 【2022-12-15】[AutMan7 / AM](https://github.com/AutMan7/AM) - 个人自用 乌拉乌拉干
 * 【2022-12-14】[vitejs / vite-plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) - Speed up your Vite dev server with SWC
 * 【2022-12-14】[gencay / vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - A Visual Studio Code extension to support ChatGPT. The extension is pair-programmed with ChatGPT.
 * 【2022-12-14】[jerosoler / Drawflow](https://github.com/jerosoler/Drawflow) - Simple flow library🖥️🖱️
@@ -395,6 +423,11 @@
 
 ## Go
 
+* 【2022-12-15】[actions / actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
+* 【2022-12-15】[gookit / goutil](https://github.com/gookit/goutil) - 💪Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+* 【2022-12-15】[bitnami-labs / sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
+* 【2022-12-15】[mongodb / mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator
+* 【2022-12-15】[golang-minibear2333 / golang](https://github.com/golang-minibear2333/golang) - 扫清go语言一切障碍，go语言实战、go语言从入门到精通,持续更新，欢迎star
 * 【2022-12-14】[mongodb / mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 * 【2022-12-14】[liaoran123 / research](https://github.com/liaoran123/research) - ReSearch--考据级搜索引擎微服务系统
 * 【2022-12-14】[xiaobinqt / go-wxbot](https://github.com/xiaobinqt/go-wxbot) - Go 微信机器人，微信机器人定时提醒。Go WeChat bot and regular reminder.
@@ -448,6 +481,8 @@
 
 ## C
 
+* 【2022-12-15】[blasty / printer-cracktro](https://github.com/blasty/printer-cracktro) - 
+* 【2022-12-15】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 * 【2022-12-14】[SRombauts / SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 * 【2022-12-14】[libffi / libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library.
 * 【2022-12-14】[nalgeon / sqlean](https://github.com/nalgeon/sqlean) - The ultimate set of SQLite extensions
@@ -489,6 +524,9 @@
 
 ## C++
 
+* 【2022-12-15】[wilicc / gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
+* 【2022-12-15】[huifeng-kooboo / DT](https://github.com/huifeng-kooboo/DT) - 基于QT开发的组件式框架DT
+* 【2022-12-15】[pcbcos / FilterDesigner](https://github.com/pcbcos/FilterDesigner) - 
 * 【2022-12-14】[shilicon / kr260_robotic_arm](https://github.com/shilicon/kr260_robotic_arm) - A robotic arm controller design based on AMD/Xilinx KR260 FPGA dev-kit.
 * 【2022-12-13】[deepmind / code_contests](https://github.com/deepmind/code_contests) - 
 * 【2022-12-13】[justcallmekoko / ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32
@@ -524,6 +562,10 @@
 
 ## C#
 
+* 【2022-12-15】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 6
+* 【2022-12-15】[dotnet / installer](https://github.com/dotnet/installer) - .NET SDK Installer
+* 【2022-12-15】[HeyM1ke / Assist](https://github.com/HeyM1ke/Assist) - C# Valorant Thirdparty Launcher
+* 【2022-12-15】[Mimetis / Dotmim.Sync](https://github.com/Mimetis/Dotmim.Sync) - A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. https://dotmimsync.readthedocs.io/
 * 【2022-12-14】[dotnet / arcade](https://github.com/dotnet/arcade) - Tools that provide common build infrastructure for multiple .NET Foundation projects.
 * 【2022-12-14】[Wilson403 / Html2UnityRich](https://github.com/Wilson403/Html2UnityRich) - 能够将Html标签转化为Unity支持的富文本标签（UGUI or TextPro）
 * 【2022-12-13】[RupertAvery / DiffusionToolkit](https://github.com/RupertAvery/DiffusionToolkit) - Stable Diffusion Image and prompt database
@@ -569,6 +611,12 @@
 
 ## Html
 
+* 【2022-12-15】[Alygnt / Clifty](https://github.com/Alygnt/Clifty) - World's most powerful phishing tool
+* 【2022-12-15】[tokotype / PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans) - +Jakarta Sans is a open-source fonts. Designed for Jakarta "City of collaboration" program in 2020.
+* 【2022-12-15】[ginny100 / Meta-Front-End-Developer](https://github.com/ginny100/Meta-Front-End-Developer) - All assignments, demos, and cheat sheets from the 9 courses in the "Meta Front-End Developer Professional Certificate" on Coursera.
+* 【2022-12-15】[hsinyuwang / X-Boy](https://github.com/hsinyuwang/X-Boy) - 基于全志V3s自制GBA开源游戏掌机
+* 【2022-12-15】[91mm / 9](https://github.com/91mm/9) - 
+* 【2022-12-15】[shidahuilang / openwrt](https://github.com/shidahuilang/openwrt) - openwrt编译更新库X86-R2C-R2S-R4S-R5S-N1-小米MI系列等多机型全部适配OTA自动升级
 * 【2022-12-14】[naveenanimation20 / PageObjectModel](https://github.com/naveenanimation20/PageObjectModel) - Page Object Model with - Selenium + Java + TestNG
 * 【2022-12-14】[OCA / purchase-workflow](https://github.com/OCA/purchase-workflow) - Odoo Purchases, Workflow and Organization
 * 【2022-12-13】[skolo-online / ai-blog-writer-openai](https://github.com/skolo-online/ai-blog-writer-openai) - Create an AI blog writing toll with Open AI API
@@ -611,6 +659,10 @@
 
 ## Css
 
+* 【2022-12-15】[learn-co-students / SENG-LIVE-112122-Phase-2](https://github.com/learn-co-students/SENG-LIVE-112122-Phase-2) - 
+* 【2022-12-15】[rullpqh / Autoscript-vps](https://github.com/rullpqh/Autoscript-vps) - Autoscriptvps multi port xray only(free installer)
+* 【2022-12-15】[openai / signup-forms](https://github.com/openai/signup-forms) - Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
+* 【2022-12-15】[shen-yu / hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer) - 一个干净优雅的hexo主题 A clean and elegant theme for Hexo.🐋
 * 【2022-12-14】[Septiandwica / kado](https://github.com/Septiandwica/kado) - flower
 * 【2022-12-14】[fdnd-task / fix-the-flow-ui-events](https://github.com/fdnd-task/fix-the-flow-ui-events) - Verschillende User Interface events uitproberen
 * 【2022-12-14】[Remedy-Entertainment / USDBook](https://github.com/Remedy-Entertainment/USDBook) - Book of USD source repository.
@@ -655,6 +707,15 @@
 
 ## Unknown
 
+* 【2022-12-15】[VSFe / Tech-Interview](https://github.com/VSFe/Tech-Interview) - 
+* 【2022-12-15】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
+* 【2022-12-15】[mauran / API-Danmark](https://github.com/mauran/API-Danmark) - 🇩🇰Liste over danske API'er
+* 【2022-12-15】[GlixzzyBlooketHacks / Glixzzy.github.io.](https://github.com/GlixzzyBlooketHacks/Glixzzy.github.io.) - Blooket Hacks glixzzy
+* 【2022-12-15】[golfzert / chatgpt-chinese-prompt-hack](https://github.com/golfzert/chatgpt-chinese-prompt-hack) - 利用prompt hack绕开OpenAI的内容政策限制
+* 【2022-12-15】[tingyour / tingyour](https://github.com/tingyour/tingyour) - Tingyour是一个无需科学上网即可让你畅游YouTube油管，且可听/可看/可下载的视听体验，帮助发掘自己独特的兴趣所在的网站！
+* 【2022-12-15】[WilliamColton / ChatGPT-Training](https://github.com/WilliamColton/ChatGPT-Training) - 通过训练让你的ChatGPT更会讲故事 mua~~~
+* 【2022-12-15】[StarRocks / docs.zh-cn](https://github.com/StarRocks/docs.zh-cn) - 
+* 【2022-12-15】[sun0225SUN / sun0225SUN](https://github.com/sun0225SUN/sun0225SUN) - sun0225SUN's readme profile with 54 stars and 134 forks🎉
 * 【2022-12-14】[Mmira2 / https-github.com-calistus-igwilo-nitda-blockchain-scholarship](https://github.com/Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship) - 
 * 【2022-12-14】[russellventura / HomeAssistant](https://github.com/russellventura/HomeAssistant) - Home Assistant Dashboard Project
 * 【2022-12-14】[itgoyo / awesome-docker](https://github.com/itgoyo/awesome-docker) - 整理搜集全网有趣好玩的docker项目
