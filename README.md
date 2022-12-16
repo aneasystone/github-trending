@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-16】[betaveros / noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
+* 【2022-12-16】[skypilot-org / skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
+* 【2022-12-16】[rails / docked](https://github.com/rails/docked) - Running Rails from Docker for easy start to development
+* 【2022-12-16】[f5 / unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
+* 【2022-12-16】[wang-edward / t-juno-copy-v2](https://github.com/wang-edward/t-juno-copy-v2) - A Teensy 3.x/4.x based polyphonic synthesizer, modelled after the Juno-106
+* 【2022-12-16】[rocketseat-education / ignite-lab-nodejs](https://github.com/rocketseat-education/ignite-lab-nodejs) - Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js
+* 【2022-12-16】[chinashiyu / gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
+* 【2022-12-16】[xiaoyaocz / flutter_cnblogs](https://github.com/xiaoyaocz/flutter_cnblogs) - 博客园Flutter客户端
+* 【2022-12-16】[easydu2002 / chat_gpt_oicq](https://github.com/easydu2002/chat_gpt_oicq) - ChatGPT qq机器人 谁不想拥有一只可爱的猫娘呢~
 * 【2022-12-15】[directus / directus](https://github.com/directus/directus) - The Modern Data Stack🐰— Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 * 【2022-12-15】[norvig / pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 * 【2022-12-15】[lencx / ChatGPT](https://github.com/lencx/ChatGPT) - 🤖ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -119,6 +128,11 @@
 
 ## Java
 
+* 【2022-12-16】[alibaba / AGEIPort](https://github.com/alibaba/AGEIPort) - 
+* 【2022-12-16】[Nalen98 / GhidraEmu](https://github.com/Nalen98/GhidraEmu) - Native Pcode emulator
+* 【2022-12-16】[GrimAnticheat / Grim](https://github.com/GrimAnticheat/Grim) - Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "unbypassable" 1.8-1.18 anticheat.
+* 【2022-12-16】[iohao / iogame](https://github.com/iohao/iogame) - 无锁异步化、事件驱动的架构设计的 java 网络游戏服务器框架； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、分步式、自带服务注册的网络游戏服务器！A high performance Online game server framework
+* 【2022-12-16】[molihuan / mlhfileselectorlib](https://github.com/molihuan/mlhfileselectorlib) - 🔥🔥🔥Android文件选择器 路径选择器，自动申请存储权限，支持安卓4.4 ~ 13,支持Android/data和Android/obb目录访问，支持自定义UI，支持SD卡.(Provide file or path selection, automatically apply for storage permission, support Android 4.4 to 13, support Android/data and Android/obb directory access, support custom UI,Support SD card.
 * 【2022-12-15】[provectus / kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 * 【2022-12-15】[spring-projects / spring-batch](https://github.com/spring-projects/spring-batch) - Spring Batch is a framework for writing offline and batch applications using Spring and Java
 * 【2022-12-15】[alipay / alipay-sdk-java-all](https://github.com/alipay/alipay-sdk-java-all) - 支付宝开放平台 Alipay SDK for Java
@@ -179,6 +193,11 @@
 
 ## Python
 
+* 【2022-12-16】[aws-samples / hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
+* 【2022-12-16】[jamesmawm / High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
+* 【2022-12-16】[Cosmos01 / aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT) - HoshinoBot aichat插件魔改chatGPT版本
+* 【2022-12-16】[Ukenn2112 / ChatGPTelegramBot](https://github.com/Ukenn2112/ChatGPTelegramBot) - ChatGPTelegramBot 支持私聊群组单会话
+* 【2022-12-16】[sngyai / Sequoia](https://github.com/sngyai/Sequoia) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 * 【2022-12-15】[allenai / RL4LMs](https://github.com/allenai/RL4LMs) - A modular RL library to fine-tune language models to human preferences
 * 【2022-12-15】[openai / glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 * 【2022-12-15】[De3vil / KLogger](https://github.com/De3vil/KLogger) - Remote persistent🔑Logger for Windows and Linux
@@ -305,6 +324,10 @@
 
 ## Javascript
 
+* 【2022-12-16】[serverless-stack / open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
+* 【2022-12-16】[OCA / web](https://github.com/OCA/web) - Odoo web client UI related addons
+* 【2022-12-16】[YunzhiYike / kuaishou-live](https://github.com/YunzhiYike/kuaishou-live) - 快手直播协议、快手弹幕协议、快手爬虫分析、抖音直播协议、抖音弹幕协议、抖音爬虫分析
+* 【2022-12-16】[ldqk / Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs) - 基于C#/.NET7的 masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。
 * 【2022-12-15】[medusajs / medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative⚡️
 * 【2022-12-15】[VincentGarreau / particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
 * 【2022-12-15】[qingcheng2022 / dx](https://github.com/qingcheng2022/dx) - 
@@ -423,6 +446,12 @@
 
 ## Go
 
+* 【2022-12-16】[hahwul / DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe😎
+* 【2022-12-16】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+* 【2022-12-16】[gofireflyio / aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
+* 【2022-12-16】[RockChinQ / qcg-installer](https://github.com/RockChinQ/qcg-installer) - ChatGPT for QQ机器人的自动安装器，自动化部署，适用于QChatGPT项目
+* 【2022-12-16】[zhan3333 / chatgpt-go](https://github.com/zhan3333/chatgpt-go) - Unofficial golang client for ChatGPT. Reverse Engineered from chat.openai.com / Golang 客户端访问 ChatGPT
+* 【2022-12-16】[team-ide / teamide](https://github.com/team-ide/teamide) - Team IDE 工具 集成MySql、Oracle、金仓、达梦、神通等数据库、SSH、FTP、Redis、Zookeeper、Kafka、Elasticsearch等管理工具
 * 【2022-12-15】[actions / actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
 * 【2022-12-15】[gookit / goutil](https://github.com/gookit/goutil) - 💪Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
 * 【2022-12-15】[bitnami-labs / sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
@@ -481,6 +510,9 @@
 
 ## C
 
+* 【2022-12-16】[deepinstinct / Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity) - A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html#dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417
+* 【2022-12-16】[HansKristian-Work / vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
+* 【2022-12-16】[apple-oss-distributions / xnu](https://github.com/apple-oss-distributions/xnu) - 
 * 【2022-12-15】[blasty / printer-cracktro](https://github.com/blasty/printer-cracktro) - 
 * 【2022-12-15】[citusdata / pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL
 * 【2022-12-14】[SRombauts / SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
@@ -524,6 +556,8 @@
 
 ## C++
 
+* 【2022-12-16】[facebook / ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners
+* 【2022-12-16】[include-what-you-use / include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 * 【2022-12-15】[wilicc / gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
 * 【2022-12-15】[huifeng-kooboo / DT](https://github.com/huifeng-kooboo/DT) - 基于QT开发的组件式框架DT
 * 【2022-12-15】[pcbcos / FilterDesigner](https://github.com/pcbcos/FilterDesigner) - 
@@ -562,6 +596,7 @@
 
 ## C#
 
+* 【2022-12-16】[Tualin14 / baPlayer](https://github.com/Tualin14/baPlayer) - 用来自制碧蓝档案二创剧情的工具
 * 【2022-12-15】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 6
 * 【2022-12-15】[dotnet / installer](https://github.com/dotnet/installer) - .NET SDK Installer
 * 【2022-12-15】[HeyM1ke / Assist](https://github.com/HeyM1ke/Assist) - C# Valorant Thirdparty Launcher
@@ -611,6 +646,10 @@
 
 ## Html
 
+* 【2022-12-16】[gexijin / RTutor](https://github.com/gexijin/RTutor) - Chat with your data via AI. http://RTutor.ai
+* 【2022-12-16】[2factorauth / twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
+* 【2022-12-16】[OCA / account-analytic](https://github.com/OCA/account-analytic) - Odoo Account Analytic Related Addons
+* 【2022-12-16】[szluyu99 / gin-vue-blog](https://github.com/szluyu99/gin-vue-blog) - Golang 全栈博客项目，基于最新的前后端技术栈 Vue3、TS、Unocs 、Redis、Casbin 等。前端包含博文展示前台、博客后台管理系统。后端功能齐全，包含 JWT 鉴权、RBAC 权限控制等。代码质量高注释全接口文档完善，适合前后端开发者学习。
 * 【2022-12-15】[Alygnt / Clifty](https://github.com/Alygnt/Clifty) - World's most powerful phishing tool
 * 【2022-12-15】[tokotype / PlusJakartaSans](https://github.com/tokotype/PlusJakartaSans) - +Jakarta Sans is a open-source fonts. Designed for Jakarta "City of collaboration" program in 2020.
 * 【2022-12-15】[ginny100 / Meta-Front-End-Developer](https://github.com/ginny100/Meta-Front-End-Developer) - All assignments, demos, and cheat sheets from the 9 courses in the "Meta Front-End Developer Professional Certificate" on Coursera.
@@ -659,6 +698,12 @@
 
 ## Css
 
+* 【2022-12-16】[justdeleteme / justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
+* 【2022-12-16】[psu-epl / psu-epl.github.com](https://github.com/psu-epl/psu-epl.github.com) - Homepage for Portland State University's Electronics Prototyping Lab
+* 【2022-12-16】[koko1912 / CameraShop](https://github.com/koko1912/CameraShop) - 
+* 【2022-12-16】[patrickloeber / chatbot-deployment](https://github.com/patrickloeber/chatbot-deployment) - Deployment of PyTorch chatbot with Flask
+* 【2022-12-16】[FreeCodeCampChina / freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
+* 【2022-12-16】[withastro / houston-vscode](https://github.com/withastro/houston-vscode) - Visual Studio Code theme featuring cool blues, minty greens, and soft purples
 * 【2022-12-15】[learn-co-students / SENG-LIVE-112122-Phase-2](https://github.com/learn-co-students/SENG-LIVE-112122-Phase-2) - 
 * 【2022-12-15】[rullpqh / Autoscript-vps](https://github.com/rullpqh/Autoscript-vps) - Autoscriptvps multi port xray only(free installer)
 * 【2022-12-15】[openai / signup-forms](https://github.com/openai/signup-forms) - Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
@@ -707,6 +752,12 @@
 
 ## Unknown
 
+* 【2022-12-16】[Samsar4 / Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs🗡🛡
+* 【2022-12-16】[Pradeep-Pandey13 / CheatSheets-HTML-CSS-JavaScript](https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript) - In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.
+* 【2022-12-16】[chinesehuazhou / python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
+* 【2022-12-16】[yq979292 / HomeWork-reinforce](https://github.com/yq979292/HomeWork-reinforce) - 加强训练的作业
+* 【2022-12-16】[ExpLangcn / InfoSearchAll](https://github.com/ExpLangcn/InfoSearchAll) - 为了方便安全从业人员在使用网络测绘平台进行信息搜集时的效率，本程序集合了多个网络测绘平台，可以快速在多个网络测绘平台搜索信息并且合并展示及导出。
+* 【2022-12-16】[cbamls / AI_Tutorial](https://github.com/cbamls/AI_Tutorial) - 精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，搜索，推荐，广告系统架构及算法技术资料整理
 * 【2022-12-15】[VSFe / Tech-Interview](https://github.com/VSFe/Tech-Interview) - 
 * 【2022-12-15】[PlexPt / awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。怎么让它听你的话。
 * 【2022-12-15】[mauran / API-Danmark](https://github.com/mauran/API-Danmark) - 🇩🇰Liste over danske API'er
