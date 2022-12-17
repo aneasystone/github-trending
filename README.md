@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-12-17】[Jxck-S / plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
+* 【2022-12-17】[coinspect / learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn & Contribute on previously exploited vulnerabilities across several EVM projects.
+* 【2022-12-17】[nostr-protocol / nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+* 【2022-12-17】[howarder3 / GPT-Linebot-python-flask-on-vercel](https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 * 【2022-12-16】[betaveros / noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it
 * 【2022-12-16】[skypilot-org / skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
 * 【2022-12-16】[rails / docked](https://github.com/rails/docked) - Running Rails from Docker for easy start to development
@@ -128,6 +132,9 @@
 
 ## Java
 
+* 【2022-12-17】[aosp-mirror / platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base) - 
+* 【2022-12-17】[topiam / eiam](https://github.com/topiam/eiam) - EIAM（Employee Identity and Access Management Program）企业级开源IAM平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能！
+* 【2022-12-17】[zhugezifang / dataCompare](https://github.com/zhugezifang/dataCompare) - Database comparison platform: Hive table data comparison, MySQL data comparison, automatic configuration for data comparison, avoid frequent write SQL processing
 * 【2022-12-16】[alibaba / AGEIPort](https://github.com/alibaba/AGEIPort) - 
 * 【2022-12-16】[Nalen98 / GhidraEmu](https://github.com/Nalen98/GhidraEmu) - Native Pcode emulator
 * 【2022-12-16】[GrimAnticheat / Grim](https://github.com/GrimAnticheat/Grim) - Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, "unbypassable" 1.8-1.18 anticheat.
@@ -193,6 +200,13 @@
 
 ## Python
 
+* 【2022-12-17】[google-research / robotics_transformer](https://github.com/google-research/robotics_transformer) - 
+* 【2022-12-17】[google / osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
+* 【2022-12-17】[microsoft / torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
+* 【2022-12-17】[AIGCT / EASYChatGPT](https://github.com/AIGCT/EASYChatGPT) - 
+* 【2022-12-17】[Bywalks / DarkAngel](https://github.com/Bywalks/DarkAngel) - DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、企业微信通知。
+* 【2022-12-17】[tyB-or / FreeGui](https://github.com/tyB-or/FreeGui) - freeGui：基于ttkbootstrap开发的一款跨平台渗透测试工具管理框架。你可以用来动态管理自己的工具，框架内部提供了笔记备忘，一键启动，直达目录等实用功能。 后期会往里面增加工具和笔记--15.6屏幕使用体验最好
+* 【2022-12-17】[geeeeeeeek / jd-seckill-2022](https://github.com/geeeeeeeek/jd-seckill-2022) - 京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析
 * 【2022-12-16】[aws-samples / hardeneks](https://github.com/aws-samples/hardeneks) - Runs checks to see if an EKS cluster follows EKS Best Practices.
 * 【2022-12-16】[jamesmawm / High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB) - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python
 * 【2022-12-16】[Cosmos01 / aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT) - HoshinoBot aichat插件魔改chatGPT版本
@@ -324,6 +338,9 @@
 
 ## Javascript
 
+* 【2022-12-17】[jquery / jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+* 【2022-12-17】[CorwinDev / Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
+* 【2022-12-17】[x-dr / wechaty-bot](https://github.com/x-dr/wechaty-bot) - 一个基于wechaty和openai智能回复、AI绘画的微信机器人
 * 【2022-12-16】[serverless-stack / open-next](https://github.com/serverless-stack/open-next) - Open source Next.js serverless adapter
 * 【2022-12-16】[OCA / web](https://github.com/OCA/web) - Odoo web client UI related addons
 * 【2022-12-16】[YunzhiYike / kuaishou-live](https://github.com/YunzhiYike/kuaishou-live) - 快手直播协议、快手弹幕协议、快手爬虫分析、抖音直播协议、抖音弹幕协议、抖音爬虫分析
@@ -446,6 +463,7 @@
 
 ## Go
 
+* 【2022-12-17】[AvicennaJr / Nuru](https://github.com/AvicennaJr/Nuru) - A Swahili Programming Language built from the ground up
 * 【2022-12-16】[hahwul / DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe😎
 * 【2022-12-16】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 * 【2022-12-16】[gofireflyio / aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
@@ -510,6 +528,8 @@
 
 ## C
 
+* 【2022-12-17】[Fishwaldo / esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
+* 【2022-12-17】[HydrasDB / hydra](https://github.com/HydrasDB/hydra) - The open source Snowflake alternative. OLAP Postgres
 * 【2022-12-16】[deepinstinct / Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity) - A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html#dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417
 * 【2022-12-16】[HansKristian-Work / vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 * 【2022-12-16】[apple-oss-distributions / xnu](https://github.com/apple-oss-distributions/xnu) - 
@@ -556,6 +576,8 @@
 
 ## C++
 
+* 【2022-12-17】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 一个推理库的实现, A DIY deep learning inference framework.
+* 【2022-12-17】[zouhuidong / HiEasyX](https://github.com/zouhuidong/HiEasyX) - HiEasyX 基于 EasyX 实现了在窗口、绘图、UI 等诸多方面的全面升级。HiEasyX 只有一个目的——让 EasyX 更易用。
 * 【2022-12-16】[facebook / ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners
 * 【2022-12-16】[include-what-you-use / include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 * 【2022-12-15】[wilicc / gpu-burn](https://github.com/wilicc/gpu-burn) - Multi-GPU CUDA stress test
@@ -596,6 +618,12 @@
 
 ## C#
 
+* 【2022-12-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
+* 【2022-12-17】[AutoMapper / AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
+* 【2022-12-17】[BruceQiu1996 / NChatGPTRev](https://github.com/BruceQiu1996/NChatGPTRev) - ChatGPT C# SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 .net 版. 开箱即用.
+* 【2022-12-17】[994935108 / Unity-RuntimeEditorWindow](https://github.com/994935108/Unity-RuntimeEditorWindow) - Unity 编写通用的窗口编辑器，包括最大化、最小化、窗口拖动、缩放、叠加处理、停靠处理、根据标签自动加载界面等功能
+* 【2022-12-17】[netease-im / NeRTC-CSharp-SDK](https://github.com/netease-im/NeRTC-CSharp-SDK) - 适用于Windows x86平台的实时音视频SDK
+* 【2022-12-17】[Kengxxiao / Himari.ChatGPT](https://github.com/Kengxxiao/Himari.ChatGPT) - 使用ChatGPT的QQ机器人的简单实现
 * 【2022-12-16】[Tualin14 / baPlayer](https://github.com/Tualin14/baPlayer) - 用来自制碧蓝档案二创剧情的工具
 * 【2022-12-15】[smartstore / Smartstore](https://github.com/smartstore/Smartstore) - A modular, scalable and ultra-fast open-source all-in-one eCommerce platform built on ASP.NET Core 6
 * 【2022-12-15】[dotnet / installer](https://github.com/dotnet/installer) - .NET SDK Installer
@@ -646,6 +674,7 @@
 
 ## Html
 
+* 【2022-12-17】[iyuyoung / html_daliy](https://github.com/iyuyoung/html_daliy) - 视频分享项目
 * 【2022-12-16】[gexijin / RTutor](https://github.com/gexijin/RTutor) - Chat with your data via AI. http://RTutor.ai
 * 【2022-12-16】[2factorauth / twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
 * 【2022-12-16】[OCA / account-analytic](https://github.com/OCA/account-analytic) - Odoo Account Analytic Related Addons
@@ -698,6 +727,7 @@
 
 ## Css
 
+* 【2022-12-17】[homematic-community / hm-print](https://github.com/homematic-community/hm-print) - A fork of the HomeMatic CCU Addon "ProgrammeDrucken" from http://homematic-forum.de/forum/viewtopic.php?f=41&t=19296
 * 【2022-12-16】[justdeleteme / justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 * 【2022-12-16】[psu-epl / psu-epl.github.com](https://github.com/psu-epl/psu-epl.github.com) - Homepage for Portland State University's Electronics Prototyping Lab
 * 【2022-12-16】[koko1912 / CameraShop](https://github.com/koko1912/CameraShop) - 
@@ -752,6 +782,14 @@
 
 ## Unknown
 
+* 【2022-12-17】[f4llenz / tse-dados-abertos](https://github.com/f4llenz/tse-dados-abertos) - Mirror dos arquivos disponíveis no Portal de Dados Abertos do TSE do segundo turno de 2022.
+* 【2022-12-17】[aljazceru / awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
+* 【2022-12-17】[LafiAlmutairi / Pentest-Handbook](https://github.com/LafiAlmutairi/Pentest-Handbook) - This a notes/handbook i made and gathered from a great resources on the internet. It consist of a very detailed cheat sheets and useful commands that every pentester use on a daily basis.
+* 【2022-12-17】[engineerapart / TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) - Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!
+* 【2022-12-17】[metagrover / ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
+* 【2022-12-17】[rebase-network / 2022Q4-hackathon](https://github.com/rebase-network/2022Q4-hackathon) - 2022Q4-hackathon
+* 【2022-12-17】[04192202 / AI-recommended-words](https://github.com/04192202/AI-recommended-words) - 基于爬虫、基于内容的推荐系统和SM-2间隔重复算法的单词助记
+* 【2022-12-17】[xfhy / Android-Notes](https://github.com/xfhy/Android-Notes) - ✍🏻 关注基础知识，打造优质Android博客
 * 【2022-12-16】[Samsar4 / Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs) - Practical Ethical Hacking Labs🗡🛡
 * 【2022-12-16】[Pradeep-Pandey13 / CheatSheets-HTML-CSS-JavaScript](https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript) - In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.
 * 【2022-12-16】[chinesehuazhou / python-whydo](https://github.com/chinesehuazhou/python-whydo) - Explore Python's charms by asking WHY questions
