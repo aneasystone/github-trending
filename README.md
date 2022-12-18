@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-12-18】[jackMort / ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+* 【2022-12-18】[hmartiro / riffusion-app](https://github.com/hmartiro/riffusion-app) - Stable diffusion for real-time music generation
+* 【2022-12-18】[ThePrimeagen / init.lua](https://github.com/ThePrimeagen/init.lua) - 
+* 【2022-12-18】[hmartiro / riffusion-inference](https://github.com/hmartiro/riffusion-inference) - Stable diffusion for real-time music generation
+* 【2022-12-18】[m1guelpf / plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
+* 【2022-12-18】[aaa1115910 / bv](https://github.com/aaa1115910/bv) - 哔哩哔哩 的第三方 Android TV 应用
 * 【2022-12-17】[Jxck-S / plane-notify](https://github.com/Jxck-S/plane-notify) - Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet
 * 【2022-12-17】[coinspect / learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn & Contribute on previously exploited vulnerabilities across several EVM projects.
 * 【2022-12-17】[nostr-protocol / nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -132,6 +138,9 @@
 
 ## Java
 
+* 【2022-12-18】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
+* 【2022-12-18】[Nesb01t / PowerItemCraft](https://github.com/Nesb01t/PowerItemCraft) - 📦为你的 MineCraft 带来强大且可成长的武器工具。A powerful and scalable toolkit for your minecraft.
+* 【2022-12-18】[limbo-world / flowjob](https://github.com/limbo-world/flowjob) - FlowJob任务调度框架，支持延时、定时、corn任务；任务分发支持随机、轮训、一致性哈希、广播、故障转移、MapReduce等模式；支持任务编排，DAG工作流，支持在工作流程中进行规则判断。
 * 【2022-12-17】[aosp-mirror / platform_frameworks_base](https://github.com/aosp-mirror/platform_frameworks_base) - 
 * 【2022-12-17】[topiam / eiam](https://github.com/topiam/eiam) - EIAM（Employee Identity and Access Management Program）企业级开源IAM平台，实现用户全生命周期的管理、统一认证和单点登录、为数字身份安全赋能！
 * 【2022-12-17】[zhugezifang / dataCompare](https://github.com/zhugezifang/dataCompare) - Database comparison platform: Hive table data comparison, MySQL data comparison, automatic configuration for data comparison, avoid frequent write SQL processing
@@ -200,6 +209,11 @@
 
 ## Python
 
+* 【2022-12-18】[devilismyfriend / StableTuner](https://github.com/devilismyfriend/StableTuner) - Finetuning SD in style.
+* 【2022-12-18】[nthistle / advent-of-code](https://github.com/nthistle/advent-of-code) - My solutions for Advent of Code 2018
+* 【2022-12-18】[amrrs / chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio
+* 【2022-12-18】[beurtschipper / Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+* 【2022-12-18】[MrHacker-X / DevilX](https://github.com/MrHacker-X/DevilX) - A very dangerous tool for termux.
 * 【2022-12-17】[google-research / robotics_transformer](https://github.com/google-research/robotics_transformer) - 
 * 【2022-12-17】[google / osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 * 【2022-12-17】[microsoft / torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
@@ -338,6 +352,9 @@
 
 ## Javascript
 
+* 【2022-12-18】[Sansekai / Wa-OpenAI](https://github.com/Sansekai/Wa-OpenAI) - WhatsApp Bot OpenAI NodeJS Using Library Baileys
+* 【2022-12-18】[aa342138039 / JD-SHOPPER](https://github.com/aa342138039/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
+* 【2022-12-18】[GavinLonDigital / HuntTheAceJSGame](https://github.com/GavinLonDigital/HuntTheAceJSGame) - 
 * 【2022-12-17】[jquery / jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 * 【2022-12-17】[CorwinDev / Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot with over 400 commands and made for large servers
 * 【2022-12-17】[x-dr / wechaty-bot](https://github.com/x-dr/wechaty-bot) - 一个基于wechaty和openai智能回复、AI绘画的微信机器人
@@ -463,6 +480,9 @@
 
 ## Go
 
+* 【2022-12-18】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+* 【2022-12-18】[tomatocuke / chatgpt](https://github.com/tomatocuke/chatgpt) - ChatGPT二次开发，微信公众号自动回复
+* 【2022-12-18】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
 * 【2022-12-17】[AvicennaJr / Nuru](https://github.com/AvicennaJr/Nuru) - A Swahili Programming Language built from the ground up
 * 【2022-12-16】[hahwul / DevSecOps](https://github.com/hahwul/DevSecOps) - 🔱Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe😎
 * 【2022-12-16】[google / osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
@@ -528,6 +548,9 @@
 
 ## C
 
+* 【2022-12-18】[joe-scotto / keyboards](https://github.com/joe-scotto/keyboards) - All of my custom keyboards, keymaps, and case files.
+* 【2022-12-18】[Eanya-Tonic / SmartKnob_Plus](https://github.com/Eanya-Tonic/SmartKnob_Plus) - 基于原始SmartKnob固件开发的增强版固件，采用LVGL显示框架、启用蓝牙HID支持、兼容Surface Dial模式
+* 【2022-12-18】[teasiu / hi-op](https://github.com/teasiu/hi-op) - histb openwrt
 * 【2022-12-17】[Fishwaldo / esp_ghota](https://github.com/Fishwaldo/esp_ghota) - esp32 OTA Component to update firmware from Github Releases
 * 【2022-12-17】[HydrasDB / hydra](https://github.com/HydrasDB/hydra) - The open source Snowflake alternative. OLAP Postgres
 * 【2022-12-16】[deepinstinct / Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity) - A POC for the new injection technique, abusing windows fork API to evade EDRs. https://www.blackhat.com/eu-22/briefings/schedule/index.html#dirty-vanity-a-new-approach-to-code-injection--edr-bypass-28417
@@ -576,6 +599,9 @@
 
 ## C++
 
+* 【2022-12-18】[binderlabs / DirCreate2System](https://github.com/binderlabs/DirCreate2System) - Weaponizing to get NT SYSTEM for Privileged Directory Creation Bugs with Windows Error Reporting
+* 【2022-12-18】[OccamsXor / Dragnmove](https://github.com/OccamsXor/Dragnmove) - Infect Shared Files In Memory for Lateral Movement
+* 【2022-12-18】[ccagml / bricks](https://github.com/ccagml/bricks) - 
 * 【2022-12-17】[zjhellofss / KuiperInfer](https://github.com/zjhellofss/KuiperInfer) - 一个推理库的实现, A DIY deep learning inference framework.
 * 【2022-12-17】[zouhuidong / HiEasyX](https://github.com/zouhuidong/HiEasyX) - HiEasyX 基于 EasyX 实现了在窗口、绘图、UI 等诸多方面的全面升级。HiEasyX 只有一个目的——让 EasyX 更易用。
 * 【2022-12-16】[facebook / ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners
@@ -674,6 +700,9 @@
 
 ## Html
 
+* 【2022-12-18】[coder-xiaomo / travel-card](https://github.com/coder-xiaomo/travel-card) - 通信行程卡纪念版
+* 【2022-12-18】[saurabhdaware / text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
+* 【2022-12-18】[sqlsec / MobileSecurity](https://github.com/sqlsec/MobileSecurity) - 国光的移动安全学习记录
 * 【2022-12-17】[iyuyoung / html_daliy](https://github.com/iyuyoung/html_daliy) - 视频分享项目
 * 【2022-12-16】[gexijin / RTutor](https://github.com/gexijin/RTutor) - Chat with your data via AI. http://RTutor.ai
 * 【2022-12-16】[2factorauth / twofactorauth](https://github.com/2factorauth/twofactorauth) - List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.
@@ -727,6 +756,8 @@
 
 ## Css
 
+* 【2022-12-18】[lugh-tuatha / yes-or-yes](https://github.com/lugh-tuatha/yes-or-yes) - 
+* 【2022-12-18】[DarkFalc0n / calcu.te](https://github.com/DarkFalc0n/calcu.te) - 
 * 【2022-12-17】[homematic-community / hm-print](https://github.com/homematic-community/hm-print) - A fork of the HomeMatic CCU Addon "ProgrammeDrucken" from http://homematic-forum.de/forum/viewtopic.php?f=41&t=19296
 * 【2022-12-16】[justdeleteme / justdelete.me](https://github.com/justdeleteme/justdelete.me) - A directory of direct links to delete your account from web services.
 * 【2022-12-16】[psu-epl / psu-epl.github.com](https://github.com/psu-epl/psu-epl.github.com) - Homepage for Portland State University's Electronics Prototyping Lab
@@ -782,6 +813,15 @@
 
 ## Unknown
 
+* 【2022-12-18】[planet-cx330 / v2board-Data](https://github.com/planet-cx330/v2board-Data) - 
+* 【2022-12-18】[Azure / jp-techdocs](https://github.com/Azure/jp-techdocs) - A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.
+* 【2022-12-18】[WeMakeDevs / events](https://github.com/WeMakeDevs/events) - 
+* 【2022-12-18】[riti2409 / Dynamic-Programming-Notes](https://github.com/riti2409/Dynamic-Programming-Notes) - Dynamic Programming Notes
+* 【2022-12-18】[github / gov-takedowns](https://github.com/github/gov-takedowns) - Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
+* 【2022-12-18】[baisege / www](https://github.com/baisege/www) - 
+* 【2022-12-18】[chengyuan98 / news](https://github.com/chengyuan98/news) - 墙外新闻
+* 【2022-12-18】[Spray0 / SP_DEVKIT_ZYNQ7010-20](https://github.com/Spray0/SP_DEVKIT_ZYNQ7010-20) - ZYNQ7010-20 开源开发板，经济实惠好吃不贵
+* 【2022-12-18】[puxiao / react-hook-tutorial](https://github.com/puxiao/react-hook-tutorial) - React Hook 系列教程，学习和探索Hooks世界。
 * 【2022-12-17】[f4llenz / tse-dados-abertos](https://github.com/f4llenz/tse-dados-abertos) - Mirror dos arquivos disponíveis no Portal de Dados Abertos do TSE do segundo turno de 2022.
 * 【2022-12-17】[aljazceru / awesome-nostr](https://github.com/aljazceru/awesome-nostr) - A curated list of nostr projects and resources
 * 【2022-12-17】[LafiAlmutairi / Pentest-Handbook](https://github.com/LafiAlmutairi/Pentest-Handbook) - This a notes/handbook i made and gathered from a great resources on the internet. It consist of a very detailed cheat sheets and useful commands that every pentester use on a daily basis.
