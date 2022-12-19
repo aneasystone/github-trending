@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-12-19】[nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
+* 【2022-12-19】[google / forma](https://github.com/google/forma) - An efficient vector-graphics renderer
+* 【2022-12-19】[vishalxl / nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
+* 【2022-12-19】[williamboman / mason.nvim](https://github.com/williamboman/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
+* 【2022-12-19】[neovim / neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+* 【2022-12-19】[wbthomason / packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+* 【2022-12-19】[wy580477 / replit-trojan](https://github.com/wy580477/replit-trojan) - 在 Replit 免费服务上部署 Trojan Websocket 协议
 * 【2022-12-18】[jackMort / ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
 * 【2022-12-18】[hmartiro / riffusion-app](https://github.com/hmartiro/riffusion-app) - Stable diffusion for real-time music generation
 * 【2022-12-18】[ThePrimeagen / init.lua](https://github.com/ThePrimeagen/init.lua) - 
@@ -138,6 +145,10 @@
 
 ## Java
 
+* 【2022-12-19】[Aliucord / Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+* 【2022-12-19】[SimonBaars / AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) - adventOfCode(Language.JAVA);
+* 【2022-12-19】[HamaWhiteGG / flink-sql-security](https://github.com/HamaWhiteGG/flink-sql-security) - FlinkSQL的行级权限解决方案及源码，支持面向用户级别的行级数据访问控制，即特定用户只能访问授权过的行，隐藏未授权的行数据。此方案是实时领域Flink的解决方案，类似离线数仓Hive中Ranger Row-level Filter方案。
+* 【2022-12-19】[dromara / MaxKey](https://github.com/dromara/MaxKey) - MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product.
 * 【2022-12-18】[neo4j / neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 * 【2022-12-18】[Nesb01t / PowerItemCraft](https://github.com/Nesb01t/PowerItemCraft) - 📦为你的 MineCraft 带来强大且可成长的武器工具。A powerful and scalable toolkit for your minecraft.
 * 【2022-12-18】[limbo-world / flowjob](https://github.com/limbo-world/flowjob) - FlowJob任务调度框架，支持延时、定时、corn任务；任务分发支持随机、轮训、一致性哈希、广播、故障转移、MapReduce等模式；支持任务编排，DAG工作流，支持在工作流程中进行规则判断。
@@ -209,6 +220,15 @@
 
 ## Python
 
+* 【2022-12-19】[chaiNNer-org / chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
+* 【2022-12-19】[Priler / aimlabbot](https://github.com/Priler/aimlabbot) - Aim Lab computer vision bot made as an experiment (using OpenCV masks)
+* 【2022-12-19】[neubig / nlp-from-scratch-assignment-2022](https://github.com/neubig/nlp-from-scratch-assignment-2022) - An assignment for CMU CS11-711 Advanced NLP, building NLP systems from scratch
+* 【2022-12-19】[BlackWatch0 / JDspyder](https://github.com/BlackWatch0/JDspyder) - 京东预约&抢购脚本，可以自定义商品链接
+* 【2022-12-19】[openai / tiktoken](https://github.com/openai/tiktoken) - 
+* 【2022-12-19】[paperless-ngx / paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+* 【2022-12-19】[eysp / AutoApiSecret](https://github.com/eysp/AutoApiSecret) - office E5自动续订
+* 【2022-12-19】[aoaostar / legado](https://github.com/aoaostar/legado) - 阅读APP书源
+* 【2022-12-19】[trustyboy / xxqg-helper](https://github.com/trustyboy/xxqg-helper) - 学习强国助手，每天稳定45分。适配最新网页版。
 * 【2022-12-18】[devilismyfriend / StableTuner](https://github.com/devilismyfriend/StableTuner) - Finetuning SD in style.
 * 【2022-12-18】[nthistle / advent-of-code](https://github.com/nthistle/advent-of-code) - My solutions for Advent of Code 2018
 * 【2022-12-18】[amrrs / chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio
@@ -352,6 +372,12 @@
 
 ## Javascript
 
+* 【2022-12-19】[eimg / rockstar-2022](https://github.com/eimg/rockstar-2022) - 
+* 【2022-12-19】[tailwindlabs / tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
+* 【2022-12-19】[facebook / lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+* 【2022-12-19】[cruip / tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template) - Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. Made by
+* 【2022-12-19】[sheldonxxd / obsidian_vault_template_for_researcher](https://github.com/sheldonxxd/obsidian_vault_template_for_researcher) - This is an vault template for researchers using obsidian.
+* 【2022-12-19】[YCYTeam / YCY-TrainingCamp-S2](https://github.com/YCYTeam/YCY-TrainingCamp-S2) - 猿创营摸金群第 2 届全员实训——Three.js元宇宙实战特训
 * 【2022-12-18】[Sansekai / Wa-OpenAI](https://github.com/Sansekai/Wa-OpenAI) - WhatsApp Bot OpenAI NodeJS Using Library Baileys
 * 【2022-12-18】[aa342138039 / JD-SHOPPER](https://github.com/aa342138039/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 * 【2022-12-18】[GavinLonDigital / HuntTheAceJSGame](https://github.com/GavinLonDigital/HuntTheAceJSGame) - 
@@ -480,6 +506,8 @@
 
 ## Go
 
+* 【2022-12-19】[optiv / Mangle](https://github.com/optiv/Mangle) - Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs
+* 【2022-12-19】[lixh00 / web-wechat](https://github.com/lixh00/web-wechat) - 基于`Golang`语言和`Gin`框架的个人微信系统
 * 【2022-12-18】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 * 【2022-12-18】[tomatocuke / chatgpt](https://github.com/tomatocuke/chatgpt) - ChatGPT二次开发，微信公众号自动回复
 * 【2022-12-18】[nntaoli-project / goex](https://github.com/nntaoli-project/goex) - Exchange Rest And WebSocket API For Golang Wrapper support okcoin,okex,huobi,hbdm,bitmex,coinex,poloniex,bitfinex,bitstamp,binance,kraken,bithumb,zb,hitbtc,fcoin, coinbene
@@ -548,6 +576,7 @@
 
 ## C
 
+* 【2022-12-19】[dnstzzx / usb-hid-bler](https://github.com/dnstzzx/usb-hid-bler) - make usb wired hid device wireless
 * 【2022-12-18】[joe-scotto / keyboards](https://github.com/joe-scotto/keyboards) - All of my custom keyboards, keymaps, and case files.
 * 【2022-12-18】[Eanya-Tonic / SmartKnob_Plus](https://github.com/Eanya-Tonic/SmartKnob_Plus) - 基于原始SmartKnob固件开发的增强版固件，采用LVGL显示框架、启用蓝牙HID支持、兼容Surface Dial模式
 * 【2022-12-18】[teasiu / hi-op](https://github.com/teasiu/hi-op) - histb openwrt
@@ -599,6 +628,8 @@
 
 ## C++
 
+* 【2022-12-19】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
+* 【2022-12-19】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
 * 【2022-12-18】[binderlabs / DirCreate2System](https://github.com/binderlabs/DirCreate2System) - Weaponizing to get NT SYSTEM for Privileged Directory Creation Bugs with Windows Error Reporting
 * 【2022-12-18】[OccamsXor / Dragnmove](https://github.com/OccamsXor/Dragnmove) - Infect Shared Files In Memory for Lateral Movement
 * 【2022-12-18】[ccagml / bricks](https://github.com/ccagml/bricks) - 
@@ -644,6 +675,8 @@
 
 ## C#
 
+* 【2022-12-19】[SkyWorkAIGC / SkyChat](https://github.com/SkyWorkAIGC/SkyChat) - SkyChat是一款基于中文GPT-3 API做的聊天机器人项目
+* 【2022-12-19】[HenJigg / wpf-abp](https://github.com/HenJigg/wpf-abp) - Cross-platform mobile project and WPF client based on ABP framework Xamarin.Forms
 * 【2022-12-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
 * 【2022-12-17】[AutoMapper / AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
 * 【2022-12-17】[BruceQiu1996 / NChatGPTRev](https://github.com/BruceQiu1996/NChatGPTRev) - ChatGPT C# SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 .net 版. 开箱即用.
@@ -700,6 +733,10 @@
 
 ## Html
 
+* 【2022-12-19】[fatih-yavuz / links.dev](https://github.com/fatih-yavuz/links.dev) - Simplify your online presence
+* 【2022-12-19】[dorneanu / gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
+* 【2022-12-19】[Xqh233 / DiyibanzhuSpider](https://github.com/Xqh233/DiyibanzhuSpider) - 爬取第一版主小说，三回啊三回
+* 【2022-12-19】[kurotanshi / vue-quiz-202212-01](https://github.com/kurotanshi/vue-quiz-202212-01) - 
 * 【2022-12-18】[coder-xiaomo / travel-card](https://github.com/coder-xiaomo/travel-card) - 通信行程卡纪念版
 * 【2022-12-18】[saurabhdaware / text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
 * 【2022-12-18】[sqlsec / MobileSecurity](https://github.com/sqlsec/MobileSecurity) - 国光的移动安全学习记录
@@ -756,6 +793,7 @@
 
 ## Css
 
+* 【2022-12-19】[sbaliyun / chatgpt-html](https://github.com/sbaliyun/chatgpt-html) - chatgpt html online
 * 【2022-12-18】[lugh-tuatha / yes-or-yes](https://github.com/lugh-tuatha/yes-or-yes) - 
 * 【2022-12-18】[DarkFalc0n / calcu.te](https://github.com/DarkFalc0n/calcu.te) - 
 * 【2022-12-17】[homematic-community / hm-print](https://github.com/homematic-community/hm-print) - A fork of the HomeMatic CCU Addon "ProgrammeDrucken" from http://homematic-forum.de/forum/viewtopic.php?f=41&t=19296
@@ -813,6 +851,11 @@
 
 ## Unknown
 
+* 【2022-12-19】[jassics / security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
+* 【2022-12-19】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
+* 【2022-12-19】[rafamadriz / friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
+* 【2022-12-19】[tondrejk / tondrejk](https://github.com/tondrejk/tondrejk) - 
+* 【2022-12-19】[lindelof / awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects
 * 【2022-12-18】[planet-cx330 / v2board-Data](https://github.com/planet-cx330/v2board-Data) - 
 * 【2022-12-18】[Azure / jp-techdocs](https://github.com/Azure/jp-techdocs) - A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.
 * 【2022-12-18】[WeMakeDevs / events](https://github.com/WeMakeDevs/events) - 
