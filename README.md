@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-12-20】[ax / apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+* 【2022-12-20】[bigemon / ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT负责编写的ChatGPT工具箱。当前版本提供以下功能： 1.关闭数据监管 2.存档管理器 3.会话存档导入导出
+* 【2022-12-20】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+* 【2022-12-20】[KasukuSakura / mirai-login-solver-sakura](https://github.com/KasukuSakura/mirai-login-solver-sakura) - 
 * 【2022-12-19】[nvim-lua / kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 * 【2022-12-19】[google / forma](https://github.com/google/forma) - An efficient vector-graphics renderer
 * 【2022-12-19】[vishalxl / nostr_console](https://github.com/vishalxl/nostr_console) - Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.
@@ -145,6 +149,11 @@
 
 ## Java
 
+* 【2022-12-20】[google / gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+* 【2022-12-20】[PacktPublishing / Build-Your-Own-Programming-Language](https://github.com/PacktPublishing/Build-Your-Own-Programming-Language) - Build Your Own Programming Language, published by Packt
+* 【2022-12-20】[SaiUpadhyayula / spring-boot-microservices-new](https://github.com/SaiUpadhyayula/spring-boot-microservices-new) - This repository contains the latest source code of th spring-boot-microservices tutorial
+* 【2022-12-20】[zhao458114067 / Jd-Pruchase-Kill](https://github.com/zhao458114067/Jd-Pruchase-Kill) - java版京东抢购茅台秒杀程序
+* 【2022-12-20】[ashinnotfound / ChatGPT-QQRobot](https://github.com/ashinnotfound/ChatGPT-QQRobot) - ❤开箱即用❤an unofficial Java implement of ChatGPT in Tencent QQ.一个非官方的ChatGPT腾讯qq实现版
 * 【2022-12-19】[Aliucord / Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 * 【2022-12-19】[SimonBaars / AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) - adventOfCode(Language.JAVA);
 * 【2022-12-19】[HamaWhiteGG / flink-sql-security](https://github.com/HamaWhiteGG/flink-sql-security) - FlinkSQL的行级权限解决方案及源码，支持面向用户级别的行级数据访问控制，即特定用户只能访问授权过的行，隐藏未授权的行数据。此方案是实时领域Flink的解决方案，类似离线数仓Hive中Ranger Row-level Filter方案。
@@ -220,6 +229,11 @@
 
 ## Python
 
+* 【2022-12-20】[riffusion / riffusion-inference](https://github.com/riffusion/riffusion-inference) - Stable diffusion for real-time music generation
+* 【2022-12-20】[openai / jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
+* 【2022-12-20】[al-one / hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices.
+* 【2022-12-20】[zsyOAOA / DifFace](https://github.com/zsyOAOA/DifFace) - DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)
+* 【2022-12-20】[7coinSec / ThinkPhp6LangRceTools](https://github.com/7coinSec/ThinkPhp6LangRceTools) - 
 * 【2022-12-19】[chaiNNer-org / chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 * 【2022-12-19】[Priler / aimlabbot](https://github.com/Priler/aimlabbot) - Aim Lab computer vision bot made as an experiment (using OpenCV masks)
 * 【2022-12-19】[neubig / nlp-from-scratch-assignment-2022](https://github.com/neubig/nlp-from-scratch-assignment-2022) - An assignment for CMU CS11-711 Advanced NLP, building NLP systems from scratch
@@ -372,6 +386,9 @@
 
 ## Javascript
 
+* 【2022-12-20】[WebKit / Speedometer](https://github.com/WebKit/Speedometer) - An open source repository for the Speedometer benchmark
+* 【2022-12-20】[btholt / citr-v8-project](https://github.com/btholt/citr-v8-project) - Steps for the project for the Complete Intro to React v8 and Intermediate React v5
+* 【2022-12-20】[AdguardTeam / AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 * 【2022-12-19】[eimg / rockstar-2022](https://github.com/eimg/rockstar-2022) - 
 * 【2022-12-19】[tailwindlabs / tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - 
 * 【2022-12-19】[facebook / lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -506,6 +523,12 @@
 
 ## Go
 
+* 【2022-12-20】[crowdsecurity / crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
+* 【2022-12-20】[rivo / tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
+* 【2022-12-20】[txthinking / brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
+* 【2022-12-20】[cosmtrek / air](https://github.com/cosmtrek/air) - ☁️Live reload for Go apps
+* 【2022-12-20】[zouyx / agollo_demo](https://github.com/zouyx/agollo_demo) - 👾Demo For Agollo
+* 【2022-12-20】[mritd / tpclash](https://github.com/mritd/tpclash) - Transparent proxy tool for Clash
 * 【2022-12-19】[optiv / Mangle](https://github.com/optiv/Mangle) - Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs
 * 【2022-12-19】[lixh00 / web-wechat](https://github.com/lixh00/web-wechat) - 基于`Golang`语言和`Gin`框架的个人微信系统
 * 【2022-12-18】[fluxcd / flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
@@ -628,6 +651,8 @@
 
 ## C++
 
+* 【2022-12-20】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
+* 【2022-12-20】[Slackadays / Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything in your terminal.
 * 【2022-12-19】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 * 【2022-12-19】[bambulab / BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab's 3D printers
 * 【2022-12-18】[binderlabs / DirCreate2System](https://github.com/binderlabs/DirCreate2System) - Weaponizing to get NT SYSTEM for Privileged Directory Creation Bugs with Windows Error Reporting
@@ -675,6 +700,9 @@
 
 ## C#
 
+* 【2022-12-20】[pardeike / Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
+* 【2022-12-20】[wiz0u / WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Telegram Client API (MTProto) library written 100% in C# and .NET Standard
+* 【2022-12-20】[metatube-community / jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - Metadata Tube Plugin for Jellyfin/Emby.
 * 【2022-12-19】[SkyWorkAIGC / SkyChat](https://github.com/SkyWorkAIGC/SkyChat) - SkyChat是一款基于中文GPT-3 API做的聊天机器人项目
 * 【2022-12-19】[HenJigg / wpf-abp](https://github.com/HenJigg/wpf-abp) - Cross-platform mobile project and WPF client based on ABP framework Xamarin.Forms
 * 【2022-12-17】[fluentassertions / fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.
@@ -733,6 +761,9 @@
 
 ## Html
 
+* 【2022-12-20】[ojg / thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
+* 【2022-12-20】[tarampampam / free-domains](https://github.com/tarampampam/free-domains) - 🌐Grab your own subdomain (for personal sites, open-source projects, and more) for free
+* 【2022-12-20】[huawuque404 / love-code](https://github.com/huawuque404/love-code) - ❤️爱心代码集合 by🌸花无缺
 * 【2022-12-19】[fatih-yavuz / links.dev](https://github.com/fatih-yavuz/links.dev) - Simplify your online presence
 * 【2022-12-19】[dorneanu / gocial](https://github.com/dorneanu/gocial) - Social media interactions - The Gopher way
 * 【2022-12-19】[Xqh233 / DiyibanzhuSpider](https://github.com/Xqh233/DiyibanzhuSpider) - 爬取第一版主小说，三回啊三回
@@ -793,6 +824,10 @@
 
 ## Css
 
+* 【2022-12-20】[AmadeusWM / dotfiles-hyprland](https://github.com/AmadeusWM/dotfiles-hyprland) - 
+* 【2022-12-20】[hilmanski / koding](https://github.com/hilmanski/koding) - Programming reference in Indonesian language
+* 【2022-12-20】[directus / examples](https://github.com/directus/examples) - Integration Examples with Directus
+* 【2022-12-20】[Vectopus / Atlas-icons-font](https://github.com/Vectopus/Atlas-icons-font) - 
 * 【2022-12-19】[sbaliyun / chatgpt-html](https://github.com/sbaliyun/chatgpt-html) - chatgpt html online
 * 【2022-12-18】[lugh-tuatha / yes-or-yes](https://github.com/lugh-tuatha/yes-or-yes) - 
 * 【2022-12-18】[DarkFalc0n / calcu.te](https://github.com/DarkFalc0n/calcu.te) - 
@@ -851,6 +886,9 @@
 
 ## Unknown
 
+* 【2022-12-20】[dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering
+* 【2022-12-20】[dastergon / awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
+* 【2022-12-20】[xiaye13579 / BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
 * 【2022-12-19】[jassics / security-study-plan](https://github.com/jassics/security-study-plan) - Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...
 * 【2022-12-19】[nostr-protocol / nips](https://github.com/nostr-protocol/nips) - Nostr Implementation Possibilities
 * 【2022-12-19】[rafamadriz / friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
