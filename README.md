@@ -149,6 +149,9 @@
 
 ## Java
 
+* 【2022-12-21】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+* 【2022-12-21】[spring-cloud / spring-cloud-release](https://github.com/spring-cloud/spring-cloud-release) - Spring Cloud Release Train - dependency management across a wide range of Spring Cloud projects.
+* 【2022-12-21】[dota-st / JavaSec](https://github.com/dota-st/JavaSec) - 个人学习Java安全的笔记
 * 【2022-12-20】[google / gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 * 【2022-12-20】[PacktPublishing / Build-Your-Own-Programming-Language](https://github.com/PacktPublishing/Build-Your-Own-Programming-Language) - Build Your Own Programming Language, published by Packt
 * 【2022-12-20】[SaiUpadhyayula / spring-boot-microservices-new](https://github.com/SaiUpadhyayula/spring-boot-microservices-new) - This repository contains the latest source code of th spring-boot-microservices tutorial
@@ -229,6 +232,12 @@
 
 ## Python
 
+* 【2022-12-21】[Anjok07 / ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
+* 【2022-12-21】[m-bain / whisperX](https://github.com/m-bain/whisperX) - WhisperX: Timestamp-Accurate Automatic Speech Recognition.
+* 【2022-12-21】[axinc-ai / ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
+* 【2022-12-21】[lixi5338619 / lxSpider](https://github.com/lixi5338619/lxSpider) - 爬虫案例合集。包括但不限于《淘宝、京东、天猫、豆瓣、抖音、快手、微博、微信、阿里、头条、pdd、优酷、爱奇艺、携程、12306、58、搜狐、各种指数、维普万方、Zlibraty、Oalib、小说、招标网、采购网、小红书、大众点评、推特、脉脉、知乎》
+* 【2022-12-21】[yxdnr / weakpass_exploit](https://github.com/yxdnr/weakpass_exploit) - 网站弱口令爆破小脚本，支持绕过图形验证码、绕过前端数据加密
+* 【2022-12-21】[zhengjim / camille](https://github.com/zhengjim/camille) - 基于Frida的Android App隐私合规检测辅助工具
 * 【2022-12-20】[riffusion / riffusion-inference](https://github.com/riffusion/riffusion-inference) - Stable diffusion for real-time music generation
 * 【2022-12-20】[openai / jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 * 【2022-12-20】[al-one / hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices.
@@ -386,6 +395,12 @@
 
 ## Javascript
 
+* 【2022-12-21】[bramses / bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
+* 【2022-12-21】[Lartsch / FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
+* 【2022-12-21】[DevC-Casa / awesome-morocco](https://github.com/DevC-Casa/awesome-morocco) - 👩‍💻🇲🇦List of awesome Moroccan things for developers🇲🇦👨🏻‍💻
+* 【2022-12-21】[tngoman / Store-POS](https://github.com/tngoman/Store-POS) - Point of Sale Desktop App built with Electron
+* 【2022-12-21】[abpframework / abp-samples](https://github.com/abpframework/abp-samples) - Sample solutions built with the ABP Framework
+* 【2022-12-21】[PencilNavigator / freenom-workers](https://github.com/PencilNavigator/freenom-workers) - 通过Cloudflare Workers自动续期Freenom域名(.cf .ga .gq .ml .tk)。Renew your Freenom domain (.cf .ga .gq .ml .tk) automaticly with Cloudflare Workers.
 * 【2022-12-20】[WebKit / Speedometer](https://github.com/WebKit/Speedometer) - An open source repository for the Speedometer benchmark
 * 【2022-12-20】[btholt / citr-v8-project](https://github.com/btholt/citr-v8-project) - Steps for the project for the Complete Intro to React v8 and Intermediate React v5
 * 【2022-12-20】[AdguardTeam / AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -523,6 +538,7 @@
 
 ## Go
 
+* 【2022-12-21】[antonmedv / fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 * 【2022-12-20】[crowdsecurity / crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 * 【2022-12-20】[rivo / tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 * 【2022-12-20】[txthinking / brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
@@ -599,6 +615,10 @@
 
 ## C
 
+* 【2022-12-21】[zhuowei / MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
+* 【2022-12-21】[Kr328 / clash-multiplatform-compat](https://github.com/Kr328/clash-multiplatform-compat) - 
+* 【2022-12-21】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
+* 【2022-12-21】[openshwprojects / OpenBK7231T_App](https://github.com/openshwprojects/OpenBK7231T_App) - Open source firmware (Tasmota/Esphome replacement) for BK7231T, BK7231N, BL2028N, T34, XR809, W800/W801, W600/W601 and BL602
 * 【2022-12-19】[dnstzzx / usb-hid-bler](https://github.com/dnstzzx/usb-hid-bler) - make usb wired hid device wireless
 * 【2022-12-18】[joe-scotto / keyboards](https://github.com/joe-scotto/keyboards) - All of my custom keyboards, keymaps, and case files.
 * 【2022-12-18】[Eanya-Tonic / SmartKnob_Plus](https://github.com/Eanya-Tonic/SmartKnob_Plus) - 基于原始SmartKnob固件开发的增强版固件，采用LVGL显示框架、启用蓝牙HID支持、兼容Surface Dial模式
@@ -651,6 +671,9 @@
 
 ## C++
 
+* 【2022-12-21】[Idov31 / Venom](https://github.com/Idov31/Venom) - Venom is a library that meant to perform evasive communication using stolen browser socket
+* 【2022-12-21】[namazso / linux_injector](https://github.com/namazso/linux_injector) - A simple ptrace-less shared library injector for x64 Linux
+* 【2022-12-21】[snowie2000 / mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 * 【2022-12-20】[ton-blockchain / ton](https://github.com/ton-blockchain/ton) - Main TON monorepo
 * 【2022-12-20】[Slackadays / Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything in your terminal.
 * 【2022-12-19】[erincatto / box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -700,6 +723,8 @@
 
 ## C#
 
+* 【2022-12-21】[planetarium / libplanet](https://github.com/planetarium/libplanet) - Blockchain toolkit in C#/.NET for decentralized game
+* 【2022-12-21】[gh0x0st / wanderer](https://github.com/gh0x0st/wanderer) - An open-source process injection enumeration tool written in C#
 * 【2022-12-20】[pardeike / Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
 * 【2022-12-20】[wiz0u / WTelegramClient](https://github.com/wiz0u/WTelegramClient) - Telegram Client API (MTProto) library written 100% in C# and .NET Standard
 * 【2022-12-20】[metatube-community / jellyfin-plugin-metatube](https://github.com/metatube-community/jellyfin-plugin-metatube) - Metadata Tube Plugin for Jellyfin/Emby.
@@ -761,6 +786,8 @@
 
 ## Html
 
+* 【2022-12-21】[brilliancebitcoin / nostrgram](https://github.com/brilliancebitcoin/nostrgram) - A clone of telegram built on nostr
+* 【2022-12-21】[spotify / web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 * 【2022-12-20】[ojg / thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 * 【2022-12-20】[tarampampam / free-domains](https://github.com/tarampampam/free-domains) - 🌐Grab your own subdomain (for personal sites, open-source projects, and more) for free
 * 【2022-12-20】[huawuque404 / love-code](https://github.com/huawuque404/love-code) - ❤️爱心代码集合 by🌸花无缺
@@ -824,6 +851,9 @@
 
 ## Css
 
+* 【2022-12-21】[hippies67 / bootcamp-git](https://github.com/hippies67/bootcamp-git) - 
+* 【2022-12-21】[bagzcode / ClassActivity_Assignment_HCI_1](https://github.com/bagzcode/ClassActivity_Assignment_HCI_1) - 
+* 【2022-12-21】[LIlGG / halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 * 【2022-12-20】[AmadeusWM / dotfiles-hyprland](https://github.com/AmadeusWM/dotfiles-hyprland) - 
 * 【2022-12-20】[hilmanski / koding](https://github.com/hilmanski/koding) - Programming reference in Indonesian language
 * 【2022-12-20】[directus / examples](https://github.com/directus/examples) - Integration Examples with Directus
@@ -886,6 +916,10 @@
 
 ## Unknown
 
+* 【2022-12-21】[aleixmorgadas / awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉How to design and execute engineering strategies for tech leadership.
+* 【2022-12-21】[L1Xu4n / -ChatGPT-](https://github.com/L1Xu4n/-ChatGPT-) - 如何将ChatGPT调教成一只猫娘
+* 【2022-12-21】[qianguyihao / blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
+* 【2022-12-21】[ParityAsia / hackathon-2022-winter](https://github.com/ParityAsia/hackathon-2022-winter) - 
 * 【2022-12-20】[dair-ai / Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guide and resources for prompt engineering
 * 【2022-12-20】[dastergon / awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 * 【2022-12-20】[xiaye13579 / BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
