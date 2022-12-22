@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-12-22】[adobe-research / custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
+* 【2022-12-22】[spantaleev / matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+* 【2022-12-22】[LG-leige / open_cloud](https://github.com/LG-leige/open_cloud) - 
 * 【2022-12-20】[ax / apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 * 【2022-12-20】[bigemon / ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT负责编写的ChatGPT工具箱。当前版本提供以下功能： 1.关闭数据监管 2.存档管理器 3.会话存档导入导出
 * 【2022-12-20】[stupidloud / nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
@@ -149,6 +152,10 @@
 
 ## Java
 
+* 【2022-12-22】[open-pdf-sign / open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
+* 【2022-12-22】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
+* 【2022-12-22】[springfox / springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
+* 【2022-12-22】[SherlockGougou / BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。
 * 【2022-12-21】[frohoff / ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * 【2022-12-21】[spring-cloud / spring-cloud-release](https://github.com/spring-cloud/spring-cloud-release) - Spring Cloud Release Train - dependency management across a wide range of Spring Cloud projects.
 * 【2022-12-21】[dota-st / JavaSec](https://github.com/dota-st/JavaSec) - 个人学习Java安全的笔记
@@ -232,6 +239,12 @@
 
 ## Python
 
+* 【2022-12-22】[lucidrains / PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
+* 【2022-12-22】[autonomousvision / sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
+* 【2022-12-22】[giswqs / aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo) - A list of open geospatial datasets on AWS
+* 【2022-12-22】[google-research / frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
+* 【2022-12-22】[ReFirmLabs / binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+* 【2022-12-22】[zhayujie / chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.
 * 【2022-12-21】[Anjok07 / ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 * 【2022-12-21】[m-bain / whisperX](https://github.com/m-bain/whisperX) - WhisperX: Timestamp-Accurate Automatic Speech Recognition.
 * 【2022-12-21】[axinc-ai / ailia-models](https://github.com/axinc-ai/ailia-models) - The collection of pre-trained, state-of-the-art AI models for ailia SDK
@@ -395,6 +408,9 @@
 
 ## Javascript
 
+* 【2022-12-22】[dariusk / twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
+* 【2022-12-22】[egonSchiele / grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
+* 【2022-12-22】[OfficeDev / Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
 * 【2022-12-21】[bramses / bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 * 【2022-12-21】[Lartsch / FediAct](https://github.com/Lartsch/FediAct) - Chrome/Firefox extension that simplifies interactions on other Mastodon instances than your own.
 * 【2022-12-21】[DevC-Casa / awesome-morocco](https://github.com/DevC-Casa/awesome-morocco) - 👩‍💻🇲🇦List of awesome Moroccan things for developers🇲🇦👨🏻‍💻
@@ -538,6 +554,8 @@
 
 ## Go
 
+* 【2022-12-22】[icyphox / legit](https://github.com/icyphox/legit) - web frontend for git, written in go
+* 【2022-12-22】[gardener / gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 * 【2022-12-21】[antonmedv / fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 * 【2022-12-20】[crowdsecurity / crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 * 【2022-12-20】[rivo / tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
@@ -615,6 +633,8 @@
 
 ## C
 
+* 【2022-12-22】[containers / crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
+* 【2022-12-22】[confluentinc / librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 * 【2022-12-21】[zhuowei / MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
 * 【2022-12-21】[Kr328 / clash-multiplatform-compat](https://github.com/Kr328/clash-multiplatform-compat) - 
 * 【2022-12-21】[streetpea / chiaki4deck](https://github.com/streetpea/chiaki4deck) - Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use
@@ -671,6 +691,10 @@
 
 ## C++
 
+* 【2022-12-22】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+* 【2022-12-22】[facebookexperimental / object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
+* 【2022-12-22】[electronicarts / EAStdC](https://github.com/electronicarts/EAStdC) - EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
+* 【2022-12-22】[electronicarts / CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) - 
 * 【2022-12-21】[Idov31 / Venom](https://github.com/Idov31/Venom) - Venom is a library that meant to perform evasive communication using stolen browser socket
 * 【2022-12-21】[namazso / linux_injector](https://github.com/namazso/linux_injector) - A simple ptrace-less shared library injector for x64 Linux
 * 【2022-12-21】[snowie2000 / mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
@@ -723,6 +747,9 @@
 
 ## C#
 
+* 【2022-12-22】[bp2008 / BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
+* 【2022-12-22】[Synesthesias / PLATEAU-SDK-for-Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity) - PLATEAUのUnity向けSDK本体です。
+* 【2022-12-22】[SkyWorkAIGC / SkyChat-CN-Chatbot-GPT3](https://github.com/SkyWorkAIGC/SkyChat-CN-Chatbot-GPT3) - SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing. / SkyChat是一款基于中文GPT-3 API做的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。
 * 【2022-12-21】[planetarium / libplanet](https://github.com/planetarium/libplanet) - Blockchain toolkit in C#/.NET for decentralized game
 * 【2022-12-21】[gh0x0st / wanderer](https://github.com/gh0x0st/wanderer) - An open-source process injection enumeration tool written in C#
 * 【2022-12-20】[pardeike / Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing and decorating .NET and Mono methods during runtime
@@ -786,6 +813,7 @@
 
 ## Html
 
+* 【2022-12-22】[BUGTeas / nugget_speens_h5](https://github.com/BUGTeas/nugget_speens_h5) - 
 * 【2022-12-21】[brilliancebitcoin / nostrgram](https://github.com/brilliancebitcoin/nostrgram) - A clone of telegram built on nostr
 * 【2022-12-21】[spotify / web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 * 【2022-12-20】[ojg / thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
@@ -851,6 +879,8 @@
 
 ## Css
 
+* 【2022-12-22】[MLNLP-World / MyArxiv](https://github.com/MLNLP-World/MyArxiv) - 
+* 【2022-12-22】[adamschwartz / magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 * 【2022-12-21】[hippies67 / bootcamp-git](https://github.com/hippies67/bootcamp-git) - 
 * 【2022-12-21】[bagzcode / ClassActivity_Assignment_HCI_1](https://github.com/bagzcode/ClassActivity_Assignment_HCI_1) - 
 * 【2022-12-21】[LIlGG / halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
@@ -916,6 +946,9 @@
 
 ## Unknown
 
+* 【2022-12-22】[seongkyu-lim / TechBlogs](https://github.com/seongkyu-lim/TechBlogs) - 👔💼국내외 기업 기술 개발 블로그들
+* 【2022-12-22】[obsidianmd / obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
+* 【2022-12-22】[HuSiNi / HSN-Loop-Call-Attack-](https://github.com/HuSiNi/HSN-Loop-Call-Attack-) - Loop-Phone-Attack
 * 【2022-12-21】[aleixmorgadas / awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - 🎉How to design and execute engineering strategies for tech leadership.
 * 【2022-12-21】[L1Xu4n / -ChatGPT-](https://github.com/L1Xu4n/-ChatGPT-) - 如何将ChatGPT调教成一只猫娘
 * 【2022-12-21】[qianguyihao / blog-list](https://github.com/qianguyihao/blog-list) - 中文博客琅琊榜，只收录精品独立博客
