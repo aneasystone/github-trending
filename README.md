@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-23】[openai / point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
+* 【2022-12-23】[0xmaximus / Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
+* 【2022-12-23】[folke / lazy.nvim](https://github.com/folke/lazy.nvim) - 💤A modern plugin manager for Neovim
+* 【2022-12-23】[melonjs / melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
+* 【2022-12-23】[nocobase / nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.
+* 【2022-12-23】[yaroslav-n / tweetGPT](https://github.com/yaroslav-n/tweetGPT) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+* 【2022-12-23】[open-telemetry / opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
+* 【2022-12-23】[songquanpeng / message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
+* 【2022-12-23】[liuyulet / lana-web](https://github.com/liuyulet/lana-web) - 
 * 【2022-12-22】[adobe-research / custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion
 * 【2022-12-22】[spantaleev / matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 * 【2022-12-22】[LG-leige / open_cloud](https://github.com/LG-leige/open_cloud) - 
@@ -152,6 +161,8 @@
 
 ## Java
 
+* 【2022-12-23】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
+* 【2022-12-23】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
 * 【2022-12-22】[open-pdf-sign / open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 * 【2022-12-22】[apache / maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 * 【2022-12-22】[springfox / springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
@@ -239,6 +250,13 @@
 
 ## Python
 
+* 【2022-12-23】[loganmarchione / homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
+* 【2022-12-23】[danielgross / teleprompter](https://github.com/danielgross/teleprompter) - 
+* 【2022-12-23】[pydata / pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
+* 【2022-12-23】[ldkong1205 / PointCloud-C](https://github.com/ldkong1205/PointCloud-C) - Benchmarking and Analyzing Point Cloud Perception Robustness under Corruptions
+* 【2022-12-23】[ldkong1205 / RoboDepth](https://github.com/ldkong1205/RoboDepth) - RoboDepth: Robust Out-of-Distribution Depth Estimation under Common Corruptions
+* 【2022-12-23】[Igang-Fan-Jing / HDIP-YOLO](https://github.com/Igang-Fan-Jing/HDIP-YOLO) - 
+* 【2022-12-23】[lllk140 / BilibiliSuitBuy](https://github.com/lllk140/BilibiliSuitBuy) - b站抢装扮脚本（GUI）
 * 【2022-12-22】[lucidrains / PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 * 【2022-12-22】[autonomousvision / sdfstudio](https://github.com/autonomousvision/sdfstudio) - A Unified Framework for Surface Reconstruction
 * 【2022-12-22】[giswqs / aws-open-data-geo](https://github.com/giswqs/aws-open-data-geo) - A list of open geospatial datasets on AWS
@@ -408,6 +426,10 @@
 
 ## Javascript
 
+* 【2022-12-23】[release-it / release-it](https://github.com/release-it/release-it) - 🚀Automate versioning and package publishing
+* 【2022-12-23】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮Turns GLTFs into JSX components
+* 【2022-12-23】[commitizen / cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+* 【2022-12-23】[smxl / 500](https://github.com/smxl/500) - Quantumult X / Clash 预配置文件: Apple News 解锁, 去广告, 分流规则, TikTok 解锁 Rewrite, VIP 视频解析
 * 【2022-12-22】[dariusk / twitter-archiver](https://github.com/dariusk/twitter-archiver) - Make your own simple, public, searchable Twitter archive
 * 【2022-12-22】[egonSchiele / grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)
 * 【2022-12-22】[OfficeDev / Office-Add-in-samples](https://github.com/OfficeDev/Office-Add-in-samples) - Code samples for Office Add-in development on the Microsoft 365 platform.
@@ -554,6 +576,8 @@
 
 ## Go
 
+* 【2022-12-23】[ipinfo / cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+* 【2022-12-23】[zitadel / zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 * 【2022-12-22】[icyphox / legit](https://github.com/icyphox/legit) - web frontend for git, written in go
 * 【2022-12-22】[gardener / gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
 * 【2022-12-21】[antonmedv / fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
@@ -633,6 +657,14 @@
 
 ## C
 
+* 【2022-12-23】[pasqualerossi / 42-School-Exam-Rank-02](https://github.com/pasqualerossi/42-School-Exam-Rank-02) - First 42 School Exam
+* 【2022-12-23】[LMP88959 / NTSC-CRT](https://github.com/LMP88959/NTSC-CRT) - NTSC encoding/decoding in C89 using only integers and fixed point math. Can be used as an image filter for games or real-time applications.
+* 【2022-12-23】[RavenSystem / esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Project to add native Apple HomeKit support to any device with an ESP8266 chip
+* 【2022-12-23】[bernhardstrobl / Pico3D](https://github.com/bernhardstrobl/Pico3D) - Pico3D Engine source code for the PicoSystem
+* 【2022-12-23】[openai / retro](https://github.com/openai/retro) - Retro Games in Gym
+* 【2022-12-23】[skeeto / endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+* 【2022-12-23】[skylersaleh / SkyEmu](https://github.com/skylersaleh/SkyEmu) - Game Boy, Game Boy Color, and Game Boy Advanced Emulator
+* 【2022-12-23】[intel / libva](https://github.com/intel/libva) - Libva is an implementation for VA-API (Video Acceleration API)
 * 【2022-12-22】[containers / crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 * 【2022-12-22】[confluentinc / librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C++ library
 * 【2022-12-21】[zhuowei / MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo) - Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple's XNU source.
@@ -691,6 +723,8 @@
 
 ## C++
 
+* 【2022-12-23】[luciusDXL / TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws.
+* 【2022-12-23】[odriverobotics / ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 * 【2022-12-22】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 * 【2022-12-22】[facebookexperimental / object-introspection](https://github.com/facebookexperimental/object-introspection) - Object Introspection (OI) enables on-demand, hierarchical profiling of objects in arbitrary C/C++ programs with no recompilation.
 * 【2022-12-22】[electronicarts / EAStdC](https://github.com/electronicarts/EAStdC) - EAStdC is a package which implements basic library facilities that are similar to those in the standard C library.
@@ -747,6 +781,7 @@
 
 ## C#
 
+* 【2022-12-23】[betalgo / openai](https://github.com/betalgo/openai) - Open AI GPT-3 and DALL-E dotnet SDK
 * 【2022-12-22】[bp2008 / BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
 * 【2022-12-22】[Synesthesias / PLATEAU-SDK-for-Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity) - PLATEAUのUnity向けSDK本体です。
 * 【2022-12-22】[SkyWorkAIGC / SkyChat-CN-Chatbot-GPT3](https://github.com/SkyWorkAIGC/SkyChat-CN-Chatbot-GPT3) - SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing. / SkyChat是一款基于中文GPT-3 API做的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。
@@ -813,6 +848,8 @@
 
 ## Html
 
+* 【2022-12-23】[EverythingSmartHome / everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor!
+* 【2022-12-23】[sgtdede / oscp](https://github.com/sgtdede/oscp) - OSCP preparation tools, scripts and cheatsheets
 * 【2022-12-22】[BUGTeas / nugget_speens_h5](https://github.com/BUGTeas/nugget_speens_h5) - 
 * 【2022-12-21】[brilliancebitcoin / nostrgram](https://github.com/brilliancebitcoin/nostrgram) - A clone of telegram built on nostr
 * 【2022-12-21】[spotify / web-api-auth-examples](https://github.com/spotify/web-api-auth-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -879,6 +916,10 @@
 
 ## Css
 
+* 【2022-12-23】[SalengNotLittleMeng / YundingFullStack](https://github.com/SalengNotLittleMeng/YundingFullStack) - 大家好，我们进入云顶新的世界，这是云顶书院全栈方向的知识分享社区。无论你是哪个专业，你都可以在这里学习如何进入“全栈”领域。我们将注重于前端基础知识和后台语言node.js相关领域。希望在此学习的各位可以掌握自己心仪的知识。
+* 【2022-12-23】[creativetimofficial / black-dashboard](https://github.com/creativetimofficial/black-dashboard) - 
+* 【2022-12-23】[seulbinim / RWD](https://github.com/seulbinim/RWD) - 반응형 웹 학습을 위한 저장소
+* 【2022-12-23】[appsecco / dvna](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 * 【2022-12-22】[MLNLP-World / MyArxiv](https://github.com/MLNLP-World/MyArxiv) - 
 * 【2022-12-22】[adamschwartz / magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 * 【2022-12-21】[hippies67 / bootcamp-git](https://github.com/hippies67/bootcamp-git) - 
@@ -946,6 +987,7 @@
 
 ## Unknown
 
+* 【2022-12-23】[WeMakeDevs / roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 * 【2022-12-22】[seongkyu-lim / TechBlogs](https://github.com/seongkyu-lim/TechBlogs) - 👔💼국내외 기업 기술 개발 블로그들
 * 【2022-12-22】[obsidianmd / obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 * 【2022-12-22】[HuSiNi / HSN-Loop-Call-Attack-](https://github.com/HuSiNi/HSN-Loop-Call-Attack-) - Loop-Phone-Attack
