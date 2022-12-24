@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2022-12-24】[mprimi / portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
+* 【2022-12-24】[CVCUDA / CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
+* 【2022-12-24】[AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
+* 【2022-12-24】[DataDog / go-profiler-notes](https://github.com/DataDog/go-profiler-notes) - felixge's notes on the various go profiling methods that are available.
+* 【2022-12-24】[intel / neural-compressor](https://github.com/intel/neural-compressor) - Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.
+* 【2022-12-24】[JhumanJ / OpnForm](https://github.com/JhumanJ/OpnForm) - Simple and open-source form builder
 * 【2022-12-23】[openai / point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 * 【2022-12-23】[0xmaximus / Galaxy-Bugbounty-Checklist](https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist) - Tips and Tutorials for Bug Bounty and also Penetration Tests.
 * 【2022-12-23】[folke / lazy.nvim](https://github.com/folke/lazy.nvim) - 💤A modern plugin manager for Neovim
@@ -161,6 +167,8 @@
 
 ## Java
 
+* 【2022-12-24】[barteksc / AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
+* 【2022-12-24】[BixinTech / sona-server](https://github.com/BixinTech/sona-server) - Sona 平台是一个搭建语音房产品的全端解决方案，包含了房间管理、实时音视频、房间IM、长连接网关等能力。
 * 【2022-12-23】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 * 【2022-12-23】[crmeb / crmeb_java](https://github.com/crmeb/crmeb_java) - Java商城 免费 开源 CRMEB商城JAVA版，SpringBoot + Maven + Swagger + Mybatis Plus + Redis + Uniapp +Vue+elementUI 包含移动端、小程序、PC后台、Api接口；有产品、用户、购物车、订单、积分、优惠券、营销、余额、权限、角色、系统设置、组合数据、可拖拉拽的form表单等模块，大量的减少了二开的成本。
 * 【2022-12-22】[open-pdf-sign / open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
@@ -250,6 +258,14 @@
 
 ## Python
 
+* 【2022-12-24】[facebookresearch / DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+* 【2022-12-24】[home-assistant / intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
+* 【2022-12-24】[kakaobrain / karlo](https://github.com/kakaobrain/karlo) - 
+* 【2022-12-24】[ThioJoe / Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+* 【2022-12-24】[mrh0wl / Cloudmare](https://github.com/mrh0wl/Cloudmare) - Cloudflare, Sucuri, Incapsula real IP tracker.
+* 【2022-12-24】[microsoft / LMOps](https://github.com/microsoft/LMOps) - General technology for enabling AI capabilities w/ LLMs and Generative AI models
+* 【2022-12-24】[bzsome / idcard_generator](https://github.com/bzsome/idcard_generator) - 身份证图片生成工具-仅供学习交流。已打包Maocs app和Windows exe，可直接下载使用
+* 【2022-12-24】[twopirllc / pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 * 【2022-12-23】[loganmarchione / homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets) - Full-color SVG icons of homelab-related software, products, and brands
 * 【2022-12-23】[danielgross / teleprompter](https://github.com/danielgross/teleprompter) - 
 * 【2022-12-23】[pydata / pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
@@ -426,6 +442,10 @@
 
 ## Javascript
 
+* 【2022-12-24】[NidukaAkalanka / x-ui-english](https://github.com/NidukaAkalanka/x-ui-english) - English Version of X-UI, A Multi-protocol & Multi-user Xray Panel with a Web UI and a TG Bot
+* 【2022-12-24】[WeMakeDevs / wemakedevs](https://github.com/WeMakeDevs/wemakedevs) - Inspire. Educate. Empower.
+* 【2022-12-24】[supermarkt / checkjebon](https://github.com/supermarkt/checkjebon) - Dutch supermarket prices and comparison tool
+* 【2022-12-24】[GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 * 【2022-12-23】[release-it / release-it](https://github.com/release-it/release-it) - 🚀Automate versioning and package publishing
 * 【2022-12-23】[pmndrs / gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮Turns GLTFs into JSX components
 * 【2022-12-23】[commitizen / cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -657,6 +677,12 @@
 
 ## C
 
+* 【2022-12-24】[Staacks / gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.
+* 【2022-12-24】[Shopify / yarp](https://github.com/Shopify/yarp) - Yet Another Ruby Parser
+* 【2022-12-24】[kiks7 / CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit) - 
+* 【2022-12-24】[microsoft / checkedc](https://github.com/microsoft/checkedc) - Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, a…
+* 【2022-12-24】[trzy / ChatARKit](https://github.com/trzy/ChatARKit) - Using ChatGPT to create AR experiences with natural language.
+* 【2022-12-24】[realoriginal / angryorchard](https://github.com/realoriginal/angryorchard) - A kernel vulnerability used to achieve arbitrary read-write on Windows prior to July 2022
 * 【2022-12-23】[pasqualerossi / 42-School-Exam-Rank-02](https://github.com/pasqualerossi/42-School-Exam-Rank-02) - First 42 School Exam
 * 【2022-12-23】[LMP88959 / NTSC-CRT](https://github.com/LMP88959/NTSC-CRT) - NTSC encoding/decoding in C89 using only integers and fixed point math. Can be used as an image filter for games or real-time applications.
 * 【2022-12-23】[RavenSystem / esp-homekit-devices](https://github.com/RavenSystem/esp-homekit-devices) - Project to add native Apple HomeKit support to any device with an ESP8266 chip
@@ -723,6 +749,9 @@
 
 ## C++
 
+* 【2022-12-24】[cinit / WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
+* 【2022-12-24】[lightvector / KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
+* 【2022-12-24】[UNeedCryDear / yolov5-seg-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp) - yolov5 segmentation with onnxruntime and opencv
 * 【2022-12-23】[luciusDXL / TheForceEngine](https://github.com/luciusDXL/TheForceEngine) - Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future Outlaws.
 * 【2022-12-23】[odriverobotics / ODrive](https://github.com/odriverobotics/ODrive) - High performance motor control
 * 【2022-12-22】[AutoHotkey / AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -781,6 +810,8 @@
 
 ## C#
 
+* 【2022-12-24】[Unity-Technologies / ECS-Network-Racing-Sample](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample) - ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices
+* 【2022-12-24】[xoofx / markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 * 【2022-12-23】[betalgo / openai](https://github.com/betalgo/openai) - Open AI GPT-3 and DALL-E dotnet SDK
 * 【2022-12-22】[bp2008 / BetterClearTypeTuner](https://github.com/bp2008/BetterClearTypeTuner) - A better way to configure ClearType font smoothing on Windows 10.
 * 【2022-12-22】[Synesthesias / PLATEAU-SDK-for-Unity](https://github.com/Synesthesias/PLATEAU-SDK-for-Unity) - PLATEAUのUnity向けSDK本体です。
@@ -848,6 +879,8 @@
 
 ## Html
 
+* 【2022-12-24】[jonatan-ivanov / local-services](https://github.com/jonatan-ivanov/local-services) - A collection of docker-compose files
+* 【2022-12-24】[NotFound403 / payment-spring-boot](https://github.com/NotFound403/payment-spring-boot) - 微信支付V3，微信优惠券，代金券、公众号支付、微信小程序支付、分账、支付分、商家券
 * 【2022-12-23】[EverythingSmartHome / everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor!
 * 【2022-12-23】[sgtdede / oscp](https://github.com/sgtdede/oscp) - OSCP preparation tools, scripts and cheatsheets
 * 【2022-12-22】[BUGTeas / nugget_speens_h5](https://github.com/BUGTeas/nugget_speens_h5) - 
@@ -916,6 +949,13 @@
 
 ## Css
 
+* 【2022-12-24】[hideckies / exploit-notes](https://github.com/hideckies/exploit-notes) - A sticky notes for pentesting.
+* 【2022-12-24】[WilliamStaudenmeier / WilliamStaudenmeier.github.io](https://github.com/WilliamStaudenmeier/WilliamStaudenmeier.github.io) - Studio Ghibli inspired GitHub Pages: https://williamstaudenmeier.github.io/
+* 【2022-12-24】[spring-petclinic / spring-framework-petclinic](https://github.com/spring-petclinic/spring-framework-petclinic) - A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC
+* 【2022-12-24】[turingschool-examples / receipt-comp](https://github.com/turingschool-examples/receipt-comp) - 
+* 【2022-12-24】[OpenClassrooms-Student-Center / GameOn-website-FR](https://github.com/OpenClassrooms-Student-Center/GameOn-website-FR) - Code du projet 4 de développeur front-end V2
+* 【2022-12-24】[devcows / hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) - Universal theme for Hugo, it stands out with its clean design and elegant typography.
+* 【2022-12-24】[blackcoffee-study / moonbucks-menu](https://github.com/blackcoffee-study/moonbucks-menu) - 
 * 【2022-12-23】[SalengNotLittleMeng / YundingFullStack](https://github.com/SalengNotLittleMeng/YundingFullStack) - 大家好，我们进入云顶新的世界，这是云顶书院全栈方向的知识分享社区。无论你是哪个专业，你都可以在这里学习如何进入“全栈”领域。我们将注重于前端基础知识和后台语言node.js相关领域。希望在此学习的各位可以掌握自己心仪的知识。
 * 【2022-12-23】[creativetimofficial / black-dashboard](https://github.com/creativetimofficial/black-dashboard) - 
 * 【2022-12-23】[seulbinim / RWD](https://github.com/seulbinim/RWD) - 반응형 웹 학습을 위한 저장소
@@ -987,6 +1027,10 @@
 
 ## Unknown
 
+* 【2022-12-24】[TapXWorld / Math](https://github.com/TapXWorld/Math) - 人教版小学到大学数学
+* 【2022-12-24】[moonlight-stream / moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
+* 【2022-12-24】[international-explore / awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese) - [WIP]国内隐私合规技术交流
+* 【2022-12-24】[nencao666 / dizhifabu](https://github.com/nencao666/dizhifabu) - 
 * 【2022-12-23】[WeMakeDevs / roadmaps](https://github.com/WeMakeDevs/roadmaps) - This repository contains the list of communities and job portals you can join and apply to.
 * 【2022-12-22】[seongkyu-lim / TechBlogs](https://github.com/seongkyu-lim/TechBlogs) - 👔💼국내외 기업 기술 개발 블로그들
 * 【2022-12-22】[obsidianmd / obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
