@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-12-25】[google / comprehensive-rust](https://github.com/google/comprehensive-rust) - 
+* 【2022-12-25】[microsoft / X-Decoder](https://github.com/microsoft/X-Decoder) - Official Implementation of X-Decoder for generalized decoding for pixel, image and language
+* 【2022-12-25】[kentcdodds / react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop
+* 【2022-12-25】[owlman / study_note](https://github.com/owlman/study_note) - 个人的计算机技术研究笔记
+* 【2022-12-25】[liuyulet / lana](https://github.com/liuyulet/lana) - 
 * 【2022-12-24】[mprimi / portable-secret](https://github.com/mprimi/portable-secret) - Better privacy without special software
 * 【2022-12-24】[CVCUDA / CV-CUDA](https://github.com/CVCUDA/CV-CUDA) - CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.
 * 【2022-12-24】[AbdullahAlfaraj / Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.
@@ -167,6 +172,8 @@
 
 ## Java
 
+* 【2022-12-25】[JanDoeTian / ThunderExchange](https://github.com/JanDoeTian/ThunderExchange) - ThunderExchange is my open source stock exchange system featuring distributed gateway for order collection and ring buffer for high performance order matching. Beware this is my university project and is to be used at your own risk!
+* 【2022-12-25】[dromara / RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 可轻松管理Redis缓存数据.
 * 【2022-12-24】[barteksc / AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2022-12-24】[BixinTech / sona-server](https://github.com/BixinTech/sona-server) - Sona 平台是一个搭建语音房产品的全端解决方案，包含了房间管理、实时音视频、房间IM、长连接网关等能力。
 * 【2022-12-23】[oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
@@ -258,6 +265,9 @@
 
 ## Python
 
+* 【2022-12-25】[openai / gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
+* 【2022-12-25】[dievus / lnkbomb](https://github.com/dievus/lnkbomb) - Malicious shortcut generator for collecting NTLM hashes from insecure file shares.
+* 【2022-12-25】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 * 【2022-12-24】[facebookresearch / DiT](https://github.com/facebookresearch/DiT) - Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 * 【2022-12-24】[home-assistant / intents](https://github.com/home-assistant/intents) - Intents to be used with Home Assistant
 * 【2022-12-24】[kakaobrain / karlo](https://github.com/kakaobrain/karlo) - 
@@ -442,6 +452,7 @@
 
 ## Javascript
 
+* 【2022-12-25】[be5invis / Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 * 【2022-12-24】[NidukaAkalanka / x-ui-english](https://github.com/NidukaAkalanka/x-ui-english) - English Version of X-UI, A Multi-protocol & Multi-user Xray Panel with a Web UI and a TG Bot
 * 【2022-12-24】[WeMakeDevs / wemakedevs](https://github.com/WeMakeDevs/wemakedevs) - Inspire. Educate. Empower.
 * 【2022-12-24】[supermarkt / checkjebon](https://github.com/supermarkt/checkjebon) - Dutch supermarket prices and comparison tool
@@ -596,6 +607,8 @@
 
 ## Go
 
+* 【2022-12-25】[bitindi / blockchain-core](https://github.com/bitindi/blockchain-core) - Complete source of Bitindi Blockhain
+* 【2022-12-25】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
 * 【2022-12-23】[ipinfo / cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 * 【2022-12-23】[zitadel / zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 * 【2022-12-22】[icyphox / legit](https://github.com/icyphox/legit) - web frontend for git, written in go
@@ -677,6 +690,8 @@
 
 ## C
 
+* 【2022-12-25】[atc1441 / ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
+* 【2022-12-25】[AncientJames / uGrey](https://github.com/AncientJames/uGrey) - Micropython native module to display greyscale on a monochrome oled.
 * 【2022-12-24】[Staacks / gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.
 * 【2022-12-24】[Shopify / yarp](https://github.com/Shopify/yarp) - Yet Another Ruby Parser
 * 【2022-12-24】[kiks7 / CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit) - 
@@ -749,6 +764,7 @@
 
 ## C++
 
+* 【2022-12-25】[google / magritte](https://github.com/google/magritte) - Mediapipe-based library to redact faces from videos and images
 * 【2022-12-24】[cinit / WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 * 【2022-12-24】[lightvector / KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
 * 【2022-12-24】[UNeedCryDear / yolov5-seg-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp) - yolov5 segmentation with onnxruntime and opencv
@@ -810,6 +826,9 @@
 
 ## C#
 
+* 【2022-12-25】[Jessecar96 / SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+* 【2022-12-25】[naudio / NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
+* 【2022-12-25】[shaked6540 / YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 * 【2022-12-24】[Unity-Technologies / ECS-Network-Racing-Sample](https://github.com/Unity-Technologies/ECS-Network-Racing-Sample) - ECS multiplayer racing sample to showcase using Unity Entities and netcode with best practices
 * 【2022-12-24】[xoofx / markdig](https://github.com/xoofx/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET
 * 【2022-12-23】[betalgo / openai](https://github.com/betalgo/openai) - Open AI GPT-3 and DALL-E dotnet SDK
@@ -879,6 +898,8 @@
 
 ## Html
 
+* 【2022-12-25】[RustMagazine / rustmagazine.github.io](https://github.com/RustMagazine/rustmagazine.github.io) - A publication dedicated to the Rust programming language
+* 【2022-12-25】[eryajf / eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 10 stars and 17 forks🌟
 * 【2022-12-24】[jonatan-ivanov / local-services](https://github.com/jonatan-ivanov/local-services) - A collection of docker-compose files
 * 【2022-12-24】[NotFound403 / payment-spring-boot](https://github.com/NotFound403/payment-spring-boot) - 微信支付V3，微信优惠券，代金券、公众号支付、微信小程序支付、分账、支付分、商家券
 * 【2022-12-23】[EverythingSmartHome / everything-presence-one](https://github.com/EverythingSmartHome/everything-presence-one) - Official Repo for the Everything Presence One sensor!
@@ -949,6 +970,14 @@
 
 ## Css
 
+* 【2022-12-25】[edwardshturman / arc-boosts](https://github.com/edwardshturman/arc-boosts) - Fun stylistic Boosts (extensions) for the Arc Browser
+* 【2022-12-25】[minhtien11 / noel](https://github.com/minhtien11/noel) - 
+* 【2022-12-25】[Siumauricio / rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
+* 【2022-12-25】[maykbrito / devlinks](https://github.com/maykbrito/devlinks) - Com 5 módulos em 5h de aula, construa esse projeto e inicie na programação em 5 dias.⭐️
+* 【2022-12-25】[BuidlGuidl / abi.ninja](https://github.com/BuidlGuidl/abi.ninja) - Interact with any contract on Ethereum.
+* 【2022-12-25】[m-odern / focus-theme-for-ida-pro-7.6](https://github.com/m-odern/focus-theme-for-ida-pro-7.6) - 
+* 【2022-12-25】[secure-77 / Perlite](https://github.com/secure-77/Perlite) - A web-based markdown viewer optimized for Obsidian
+* 【2022-12-25】[angular / bower-angular](https://github.com/angular/bower-angular) - Bower package for AngularJS
 * 【2022-12-24】[hideckies / exploit-notes](https://github.com/hideckies/exploit-notes) - A sticky notes for pentesting.
 * 【2022-12-24】[WilliamStaudenmeier / WilliamStaudenmeier.github.io](https://github.com/WilliamStaudenmeier/WilliamStaudenmeier.github.io) - Studio Ghibli inspired GitHub Pages: https://williamstaudenmeier.github.io/
 * 【2022-12-24】[spring-petclinic / spring-framework-petclinic](https://github.com/spring-petclinic/spring-framework-petclinic) - A Spring Framework application based on JSP, Spring MVC, Spring Data JPA, Hibernate and JDBC
@@ -1027,6 +1056,10 @@
 
 ## Unknown
 
+* 【2022-12-25】[jitpack / jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
+* 【2022-12-25】[kejar31 / VoronMods](https://github.com/kejar31/VoronMods) - Mods I have created for my Voron printer
+* 【2022-12-25】[mozilla / geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+* 【2022-12-25】[YauhenKavalchuk / useful](https://github.com/YauhenKavalchuk/useful) - Код и ресурсы из выпусков видеокастов “Просто О” и “Frontreview” на YouTube-канале webDev
 * 【2022-12-24】[TapXWorld / Math](https://github.com/TapXWorld/Math) - 人教版小学到大学数学
 * 【2022-12-24】[moonlight-stream / moonlight-docs](https://github.com/moonlight-stream/moonlight-docs) - Moonlight Documentation
 * 【2022-12-24】[international-explore / awesome-privacy-chinese](https://github.com/international-explore/awesome-privacy-chinese) - [WIP]国内隐私合规技术交流
