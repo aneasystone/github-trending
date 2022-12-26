@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2022-12-26】[pkivolowitz / asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
+* 【2022-12-26】[adrianhajdin / project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) - 
+* 【2022-12-26】[louisfb01 / best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
+* 【2022-12-26】[dreamncn / ParallelsDesktopCrack](https://github.com/dreamncn/ParallelsDesktopCrack) - 
+* 【2022-12-26】[rust-lang / book](https://github.com/rust-lang/book) - The Rust Programming Language
+* 【2022-12-26】[bvaughn / react-resizable-panels](https://github.com/bvaughn/react-resizable-panels) - 
+* 【2022-12-26】[TanStack / query](https://github.com/TanStack/query) - 🤖Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+* 【2022-12-26】[8838 / btpanel-v7.7.0](https://github.com/8838/btpanel-v7.7.0) - 宝塔v7.7.0官方原版备份
+* 【2022-12-26】[any86 / any-rule](https://github.com/any86/any-rule) - 🦕常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
 * 【2022-12-25】[google / comprehensive-rust](https://github.com/google/comprehensive-rust) - 
 * 【2022-12-25】[microsoft / X-Decoder](https://github.com/microsoft/X-Decoder) - Official Implementation of X-Decoder for generalized decoding for pixel, image and language
 * 【2022-12-25】[kentcdodds / react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop
@@ -172,6 +181,12 @@
 
 ## Java
 
+* 【2022-12-26】[PlutoSolutions / Future](https://github.com/PlutoSolutions/Future) - from russia with love - https://crystalpvp.ru/future
+* 【2022-12-26】[gaganode / gaga_android](https://github.com/gaganode/gaga_android) - gaga_android
+* 【2022-12-26】[PlutoSolutions / AbyssOSS](https://github.com/PlutoSolutions/AbyssOSS) - deobfuscated abyss (who?) client source code (not buildable)
+* 【2022-12-26】[Dituon / petpet](https://github.com/Dituon/petpet) - Mirai插件 生成各种奇怪的图片
+* 【2022-12-26】[Nepxion / DiscoveryGuide](https://github.com/Nepxion/DiscoveryGuide) - ☀️Nepxion Discovery Guide is an guide example of Nepxion Discovery 蓝绿、灰度、路由、限流、熔断、降级、隔离、追踪、流量染色、故障转移、多活的指南示例
+* 【2022-12-26】[APIJSON / APIJSON-Demo](https://github.com/APIJSON/APIJSON-Demo) - 腾讯 APIJSON 各种语言、各种框架 的 使用示例项目、上手文档、测试数据 SQL 文件 等。Demo projects with document and SQL files for Tencent APIJSON with different programming languages and different frameworks.
 * 【2022-12-25】[JanDoeTian / ThunderExchange](https://github.com/JanDoeTian/ThunderExchange) - ThunderExchange is my open source stock exchange system featuring distributed gateway for order collection and ring buffer for high performance order matching. Beware this is my university project and is to be used at your own risk!
 * 【2022-12-25】[dromara / RedisFront](https://github.com/dromara/RedisFront) - RedisFront 是一款开源免费的跨平台 Redis 桌面客户端工具, 支持单机模式, 集群模式, 哨兵模式以及 SSH 隧道连接, 可轻松管理Redis缓存数据.
 * 【2022-12-24】[barteksc / AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
@@ -265,6 +280,8 @@
 
 ## Python
 
+* 【2022-12-26】[mosaicml / composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
+* 【2022-12-26】[w1770946466 / Auto_proxy](https://github.com/w1770946466/Auto_proxy) - 自动获取TG频道代理信息
 * 【2022-12-25】[openai / gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
 * 【2022-12-25】[dievus / lnkbomb](https://github.com/dievus/lnkbomb) - Malicious shortcut generator for collecting NTLM hashes from insecure file shares.
 * 【2022-12-25】[s0md3v / Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
@@ -452,6 +469,13 @@
 
 ## Javascript
 
+* 【2022-12-26】[pcscoder / PCS_Prediction_AI](https://github.com/pcscoder/PCS_Prediction_AI) - 
+* 【2022-12-26】[vasanthv / talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+* 【2022-12-26】[Ninjas-Code-official / Enatega-Restaurant-Solution](https://github.com/Ninjas-Code-official/Enatega-Restaurant-Solution) - A fully functional white label Restaurant/Grocery App built using React Native with Customer, Rider App and Dashboard.
+* 【2022-12-26】[riimuru / gogoanime-api](https://github.com/riimuru/gogoanime-api) - Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime
+* 【2022-12-26】[JedWatson / classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
+* 【2022-12-26】[anvaka / atree](https://github.com/anvaka/atree) - Just a simple Christmas tree, based on reddit story
+* 【2022-12-26】[lucienyida / yida](https://github.com/lucienyida/yida) - 收集全网薅羊毛脚本
 * 【2022-12-25】[be5invis / Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 * 【2022-12-24】[NidukaAkalanka / x-ui-english](https://github.com/NidukaAkalanka/x-ui-english) - English Version of X-UI, A Multi-protocol & Multi-user Xray Panel with a Web UI and a TG Bot
 * 【2022-12-24】[WeMakeDevs / wemakedevs](https://github.com/WeMakeDevs/wemakedevs) - Inspire. Educate. Empower.
@@ -607,6 +631,8 @@
 
 ## Go
 
+* 【2022-12-26】[ChatGPT-Hackers / ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
+* 【2022-12-26】[pdfcpu / pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 * 【2022-12-25】[bitindi / blockchain-core](https://github.com/bitindi/blockchain-core) - Complete source of Bitindi Blockhain
 * 【2022-12-25】[testcontainers / testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
 * 【2022-12-23】[ipinfo / cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -690,6 +716,8 @@
 
 ## C
 
+* 【2022-12-26】[LukeGix / CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602) - CVE-2022-2602
+* 【2022-12-26】[sumatrapdfreader / sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 * 【2022-12-25】[atc1441 / ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
 * 【2022-12-25】[AncientJames / uGrey](https://github.com/AncientJames/uGrey) - Micropython native module to display greyscale on a monochrome oled.
 * 【2022-12-24】[Staacks / gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy.
@@ -826,6 +854,8 @@
 
 ## C#
 
+* 【2022-12-26】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
+* 【2022-12-26】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Check for NVIDIA GPU driver updates!
 * 【2022-12-25】[Jessecar96 / SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 * 【2022-12-25】[naudio / NAudio](https://github.com/naudio/NAudio) - Audio and MIDI library for .NET
 * 【2022-12-25】[shaked6540 / YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
@@ -898,6 +928,7 @@
 
 ## Html
 
+* 【2022-12-26】[ftbgj4k / -](https://github.com/ftbgj4k/-) - 圣诞树html
 * 【2022-12-25】[RustMagazine / rustmagazine.github.io](https://github.com/RustMagazine/rustmagazine.github.io) - A publication dedicated to the Rust programming language
 * 【2022-12-25】[eryajf / eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 10 stars and 17 forks🌟
 * 【2022-12-24】[jonatan-ivanov / local-services](https://github.com/jonatan-ivanov/local-services) - A collection of docker-compose files
@@ -970,6 +1001,9 @@
 
 ## Css
 
+* 【2022-12-26】[aalmiray / java-champions](https://github.com/aalmiray/java-champions) - A list of Java Champions
+* 【2022-12-26】[TechShreyash / AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
+* 【2022-12-26】[1031918012 / MerryChristmas](https://github.com/1031918012/MerryChristmas) - 可爱圣诞树。 预览：https://1031918012.github.io/MerryChristmas/index
 * 【2022-12-25】[edwardshturman / arc-boosts](https://github.com/edwardshturman/arc-boosts) - Fun stylistic Boosts (extensions) for the Arc Browser
 * 【2022-12-25】[minhtien11 / noel](https://github.com/minhtien11/noel) - 
 * 【2022-12-25】[Siumauricio / rippleui](https://github.com/Siumauricio/rippleui) - Cleanest, modern and beatifull Tailwind CSS components.
@@ -1056,6 +1090,8 @@
 
 ## Unknown
 
+* 【2022-12-26】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
+* 【2022-12-26】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * 【2022-12-25】[jitpack / jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
 * 【2022-12-25】[kejar31 / VoronMods](https://github.com/kejar31/VoronMods) - Mods I have created for my Voron printer
 * 【2022-12-25】[mozilla / geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
