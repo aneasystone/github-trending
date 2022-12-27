@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2022-12-27】[skyzh / mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP)
+* 【2022-12-27】[khuyentran1401 / Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
+* 【2022-12-27】[Anugrahsr / Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 * 【2022-12-26】[pkivolowitz / asm_book](https://github.com/pkivolowitz/asm_book) - A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.
 * 【2022-12-26】[adrianhajdin / project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) - 
 * 【2022-12-26】[louisfb01 / best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
@@ -181,6 +184,9 @@
 
 ## Java
 
+* 【2022-12-27】[AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
+* 【2022-12-27】[openboard-team / openboard](https://github.com/openboard-team/openboard) - 
+* 【2022-12-27】[Minecraft-AMS / Carpet-AMS-Addition](https://github.com/Minecraft-AMS/Carpet-AMS-Addition) - 一个简易的基于Carpet mod的拓展
 * 【2022-12-26】[PlutoSolutions / Future](https://github.com/PlutoSolutions/Future) - from russia with love - https://crystalpvp.ru/future
 * 【2022-12-26】[gaganode / gaga_android](https://github.com/gaganode/gaga_android) - gaga_android
 * 【2022-12-26】[PlutoSolutions / AbyssOSS](https://github.com/PlutoSolutions/AbyssOSS) - deobfuscated abyss (who?) client source code (not buildable)
@@ -280,6 +286,12 @@
 
 ## Python
 
+* 【2022-12-27】[cjyaddone / ChatWaifu](https://github.com/cjyaddone/ChatWaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
+* 【2022-12-27】[LAION-AI / Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - 
+* 【2022-12-27】[hoochanlon / w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+* 【2022-12-27】[vveg26 / chporn](https://github.com/vveg26/chporn) - 筛选一下神一样的代码
+* 【2022-12-27】[YuetianW / HUST_EIC_Intro](https://github.com/YuetianW/HUST_EIC_Intro) - 🏷️华中科技大学电信学院-电信专业 的课程分享与攻略
+* 【2022-12-27】[ccc-f / FCDN](https://github.com/ccc-f/FCDN) - 通过域名批量查找没有使用 cdn、云waf、dmzweb的站点。
 * 【2022-12-26】[mosaicml / composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 * 【2022-12-26】[w1770946466 / Auto_proxy](https://github.com/w1770946466/Auto_proxy) - 自动获取TG频道代理信息
 * 【2022-12-25】[openai / gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
@@ -469,6 +481,9 @@
 
 ## Javascript
 
+* 【2022-12-27】[Revadike / epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
+* 【2022-12-27】[paulmillr / noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
+* 【2022-12-27】[jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
 * 【2022-12-26】[pcscoder / PCS_Prediction_AI](https://github.com/pcscoder/PCS_Prediction_AI) - 
 * 【2022-12-26】[vasanthv / talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 * 【2022-12-26】[Ninjas-Code-official / Enatega-Restaurant-Solution](https://github.com/Ninjas-Code-official/Enatega-Restaurant-Solution) - A fully functional white label Restaurant/Grocery App built using React Native with Customer, Rider App and Dashboard.
@@ -716,6 +731,7 @@
 
 ## C
 
+* 【2022-12-27】[cyring / CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 * 【2022-12-26】[LukeGix / CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602) - CVE-2022-2602
 * 【2022-12-26】[sumatrapdfreader / sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 * 【2022-12-25】[atc1441 / ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer) - Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter
@@ -792,6 +808,9 @@
 
 ## C++
 
+* 【2022-12-27】[Arduino-IRremote / Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
+* 【2022-12-27】[PabloMK7 / ENLBufferPwn](https://github.com/PabloMK7/ENLBufferPwn) - Information and PoC about the ENLBufferPwn vulnerability
+* 【2022-12-27】[google / fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 * 【2022-12-25】[google / magritte](https://github.com/google/magritte) - Mediapipe-based library to redact faces from videos and images
 * 【2022-12-24】[cinit / WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
 * 【2022-12-24】[lightvector / KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go
@@ -854,6 +873,8 @@
 
 ## C#
 
+* 【2022-12-27】[FreyaHolmer / Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
+* 【2022-12-27】[AssetRipper / AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 * 【2022-12-26】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
 * 【2022-12-26】[ElPumpo / TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Check for NVIDIA GPU driver updates!
 * 【2022-12-25】[Jessecar96 / SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
@@ -928,6 +949,9 @@
 
 ## Html
 
+* 【2022-12-27】[jcubic / chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
+* 【2022-12-27】[AlfieJones / theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where needed. Works great utility CSS frameworks such as Tailwindcss.
+* 【2022-12-27】[The-Japan-DataScientist-Society / 100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
 * 【2022-12-26】[ftbgj4k / -](https://github.com/ftbgj4k/-) - 圣诞树html
 * 【2022-12-25】[RustMagazine / rustmagazine.github.io](https://github.com/RustMagazine/rustmagazine.github.io) - A publication dedicated to the Rust programming language
 * 【2022-12-25】[eryajf / eryajf](https://github.com/eryajf/eryajf) - eryajf readme profile with 10 stars and 17 forks🌟
@@ -1001,6 +1025,13 @@
 
 ## Css
 
+* 【2022-12-27】[gherrada22 / Encriptador_de_texto](https://github.com/gherrada22/Encriptador_de_texto) - Encriptador de texto desarrollado con JavaScript, HTML y CSS para el primer challenge del Proyecto ONE de Oracle+Alura LATAM
+* 【2022-12-27】[NDS-Schmitz / FCTC](https://github.com/NDS-Schmitz/FCTC) - From Cops To Coders Website Project
+* 【2022-12-27】[fatih-yavuz / my-links](https://github.com/fatih-yavuz/my-links) - 
+* 【2022-12-27】[enoki-inc / aither](https://github.com/enoki-inc/aither) - Browser-Based Multiplayer Desktop Environment
+* 【2022-12-27】[creativetimofficial / now-ui-kit-react](https://github.com/creativetimofficial/now-ui-kit-react) - React version of Now UI Kit by Creative Tim
+* 【2022-12-27】[zchengsite / hexo-theme-oranges](https://github.com/zchengsite/hexo-theme-oranges) - 🍊A simple hexo theme of minimalism
+* 【2022-12-27】[jpanther / lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS.
 * 【2022-12-26】[aalmiray / java-champions](https://github.com/aalmiray/java-champions) - A list of Java Champions
 * 【2022-12-26】[TechShreyash / AnimeDex](https://github.com/TechShreyash/AnimeDex) - Watch Animes Online For Free animedex.live
 * 【2022-12-26】[1031918012 / MerryChristmas](https://github.com/1031918012/MerryChristmas) - 可爱圣诞树。 预览：https://1031918012.github.io/MerryChristmas/index
@@ -1090,6 +1121,8 @@
 
 ## Unknown
 
+* 【2022-12-27】[shuaibiyy / awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
+* 【2022-12-27】[ugvf2009 / Miles](https://github.com/ugvf2009/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^_^
 * 【2022-12-26】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
 * 【2022-12-26】[brannondorsey / wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 * 【2022-12-25】[jitpack / jitpack.io](https://github.com/jitpack/jitpack.io) - Documentation and issues of https://jitpack.io
