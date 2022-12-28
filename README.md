@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2022-12-28】[iamtrask / Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
+* 【2022-12-28】[apitable / apitable](https://github.com/apitable/apitable) - 🚀🎉📚APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
+* 【2022-12-28】[below / HelloSilicon](https://github.com/below/HelloSilicon) - An introduction to ARM64 assembly on Apple Silicon Macs
+* 【2022-12-28】[I-Am-Jakoby / Flipper-Zero-BadUSB](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB) - Repository for my flipper zero badUSB payloads
+* 【2022-12-28】[RustPython / RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 * 【2022-12-27】[skyzh / mini-lsm](https://github.com/skyzh/mini-lsm) - A tutorial of building an LSM-Tree storage engine in a week! (WIP)
 * 【2022-12-27】[khuyentran1401 / Data-science](https://github.com/khuyentran1401/Data-science) - Collection of useful data science topics along with code and articles
 * 【2022-12-27】[Anugrahsr / Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
@@ -184,6 +189,10 @@
 
 ## Java
 
+* 【2022-12-28】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
+* 【2022-12-28】[API-Security / APIKit](https://github.com/API-Security/APIKit) - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
+* 【2022-12-28】[LinShunKang / MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
+* 【2022-12-28】[ant-media / Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server is a streaming engine software that provides adaptive, ultra low latency streaming by using WebRTC technology with ~0.5 seconds latency. Ant Media Server is highly scalable both horizontally and vertically. It can run on-premise or on-cloud.
 * 【2022-12-27】[AndroidIDEOfficial / AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - AndroidIDE is an IDE for Android to develop full featured Android apps on Android smartphones.
 * 【2022-12-27】[openboard-team / openboard](https://github.com/openboard-team/openboard) - 
 * 【2022-12-27】[Minecraft-AMS / Carpet-AMS-Addition](https://github.com/Minecraft-AMS/Carpet-AMS-Addition) - 一个简易的基于Carpet mod的拓展
@@ -286,6 +295,7 @@
 
 ## Python
 
+* 【2022-12-28】[canonical / cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 * 【2022-12-27】[cjyaddone / ChatWaifu](https://github.com/cjyaddone/ChatWaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
 * 【2022-12-27】[LAION-AI / Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - 
 * 【2022-12-27】[hoochanlon / w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
@@ -481,6 +491,8 @@
 
 ## Javascript
 
+* 【2022-12-28】[BigJk / snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility
+* 【2022-12-28】[learning-zone / website-templates](https://github.com/learning-zone/website-templates) - 150+ HTML5 Website Templates
 * 【2022-12-27】[Revadike / epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 * 【2022-12-27】[paulmillr / noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
 * 【2022-12-27】[jellyfin / jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin
@@ -646,6 +658,8 @@
 
 ## Go
 
+* 【2022-12-28】[Edgenesis / shifu](https://github.com/Edgenesis/shifu) - Open-source alternative to Google IoT.
+* 【2022-12-28】[miekg / dns](https://github.com/miekg/dns) - DNS library in Go
 * 【2022-12-26】[ChatGPT-Hackers / ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 * 【2022-12-26】[pdfcpu / pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
 * 【2022-12-25】[bitindi / blockchain-core](https://github.com/bitindi/blockchain-core) - Complete source of Bitindi Blockhain
@@ -731,6 +745,10 @@
 
 ## C
 
+* 【2022-12-28】[LightningMods / Itemzflow](https://github.com/LightningMods/Itemzflow) - PS4 Game manager and Home menu alternative made using Open Source tools
+* 【2022-12-28】[GoldHEN / GoldHEN_Plugins_Repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) - 
+* 【2022-12-28】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
+* 【2022-12-28】[csBlueChip / FlipperZero_plugin_howto](https://github.com/csBlueChip/FlipperZero_plugin_howto) - A simple plugin for the FlipperZero written as a tutorial example [ie. excessive documentation & error handling]
 * 【2022-12-27】[cyring / CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 * 【2022-12-26】[LukeGix / CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602) - CVE-2022-2602
 * 【2022-12-26】[sumatrapdfreader / sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -808,6 +826,7 @@
 
 ## C++
 
+* 【2022-12-28】[kkent030315 / CVE-2022-42046](https://github.com/kkent030315/CVE-2022-42046) - CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM
 * 【2022-12-27】[Arduino-IRremote / Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * 【2022-12-27】[PabloMK7 / ENLBufferPwn](https://github.com/PabloMK7/ENLBufferPwn) - Information and PoC about the ENLBufferPwn vulnerability
 * 【2022-12-27】[google / fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
@@ -873,6 +892,7 @@
 
 ## C#
 
+* 【2022-12-28】[TcNobo / TcNo-Acc-Switcher](https://github.com/TcNobo/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 * 【2022-12-27】[FreyaHolmer / Mathfs](https://github.com/FreyaHolmer/Mathfs) - Expanded Math Functionality for Unity
 * 【2022-12-27】[AssetRipper / AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 * 【2022-12-26】[jaquadro / NBTExplorer](https://github.com/jaquadro/NBTExplorer) - A graphical NBT editor for all Minecraft NBT data sources
@@ -949,6 +969,7 @@
 
 ## Html
 
+* 【2022-12-28】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 * 【2022-12-27】[jcubic / chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 * 【2022-12-27】[AlfieJones / theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where needed. Works great utility CSS frameworks such as Tailwindcss.
 * 【2022-12-27】[The-Japan-DataScientist-Society / 100knocks-preprocess](https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess) - データサイエンス100本ノック（構造化データ加工編）
@@ -1025,6 +1046,8 @@
 
 ## Css
 
+* 【2022-12-28】[maaa101 / burgertunes](https://github.com/maaa101/burgertunes) - Privacy-respecting YouTube Music frontend with no ads or telemetry!
+* 【2022-12-28】[creativetimofficial / argon-dashboard-asp-net](https://github.com/creativetimofficial/argon-dashboard-asp-net) - Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies.
 * 【2022-12-27】[gherrada22 / Encriptador_de_texto](https://github.com/gherrada22/Encriptador_de_texto) - Encriptador de texto desarrollado con JavaScript, HTML y CSS para el primer challenge del Proyecto ONE de Oracle+Alura LATAM
 * 【2022-12-27】[NDS-Schmitz / FCTC](https://github.com/NDS-Schmitz/FCTC) - From Cops To Coders Website Project
 * 【2022-12-27】[fatih-yavuz / my-links](https://github.com/fatih-yavuz/my-links) - 
@@ -1121,6 +1144,10 @@
 
 ## Unknown
 
+* 【2022-12-28】[youssefHosni / Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) - 
+* 【2022-12-28】[atakankizilyuce / makine-ogrenmesi-turkce](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce) - Makine öğrenmesi ve Derin öğrenme hakkında bulduğum Türkçe kaynaklar.
+* 【2022-12-28】[riramar / Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet) - Web Attack Cheat Sheet
+* 【2022-12-28】[WebDevSimplified / js-weather-app](https://github.com/WebDevSimplified/js-weather-app) - 
 * 【2022-12-27】[shuaibiyy / awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) - Curated list of resources on HashiCorp's Terraform
 * 【2022-12-27】[ugvf2009 / Miles](https://github.com/ugvf2009/Miles) - 二爷翻墙，专注免费翻墙30年，但没有掌握核心科技，一切已经开始！^_^
 * 【2022-12-26】[gaganode / gaga_android_sdk](https://github.com/gaganode/gaga_android_sdk) - gaga_android_sdk
