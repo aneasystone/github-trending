@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2022-12-30】[AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+* 【2022-12-30】[microfeed / microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+* 【2022-12-30】[TheOfficialFloW / HENlo](https://github.com/TheOfficialFloW/HENlo) - WebKit+Kernel exploit chain for all PS Vita firmwares
+* 【2022-12-30】[zhuowei / WDBFontOverwrite](https://github.com/zhuowei/WDBFontOverwrite) - Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
+* 【2022-12-30】[gabiduarte / awesome-techleads](https://github.com/gabiduarte/awesome-techleads) - Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português
+* 【2022-12-30】[microsoft / RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery
+* 【2022-12-30】[openai-php / laravel](https://github.com/openai-php/laravel) - ⚡️OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
 * 【2022-12-29】[mouredev / retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023) - Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.
 * 【2022-12-28】[iamtrask / Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - this repository accompanies the book "Grokking Deep Learning"
 * 【2022-12-28】[apitable / apitable](https://github.com/apitable/apitable) - 🚀🎉📚APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. [WIP]
@@ -298,6 +305,9 @@
 
 ## Python
 
+* 【2022-12-30】[nebuly-ai / nebullvm](https://github.com/nebuly-ai/nebullvm) - Accelerate AI models leveraging best-of-breed optimization techniques🚀
+* 【2022-12-30】[ToniRV / NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM https://arxiv.org/abs/2210.01276
+* 【2022-12-30】[mindee / doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 * 【2022-12-29】[malkemit / namizun](https://github.com/malkemit/namizun) - Asymmetric upload and download
 * 【2022-12-29】[gwen001 / cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip) - Try to find the origin IP of a webapp protected by Cloudflare.
 * 【2022-12-29】[cov-lineages / pango-designation](https://github.com/cov-lineages/pango-designation) - Repository for suggesting new lineages that should be added to the current scheme
@@ -498,6 +508,8 @@
 
 ## Javascript
 
+* 【2022-12-30】[salman0ansari / whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs) - RESTful WhatsApp API with Multiple Device Support
+* 【2022-12-30】[evershopcommerce / evershop](https://github.com/evershopcommerce/evershop) - Node E-commerce Platform
 * 【2022-12-29】[jklepatch / eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
 * 【2022-12-29】[ColorlibHQ / AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 * 【2022-12-29】[Nwflower / flower-plugin](https://github.com/Nwflower/flower-plugin) - Yunzai-Bot V3 的插件包，主要提供拓展抽卡功能
@@ -668,6 +680,7 @@
 
 ## Go
 
+* 【2022-12-30】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 * 【2022-12-29】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * 【2022-12-29】[yannh / kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 * 【2022-12-29】[ZeStream / zestream-server](https://github.com/ZeStream/zestream-server) - An adaptive video streaming self-deployable service
@@ -758,6 +771,8 @@
 
 ## C
 
+* 【2022-12-30】[straight-tamago / NoCameraSound](https://github.com/straight-tamago/NoCameraSound) - 
+* 【2022-12-30】[ly4k / PassTheChallenge](https://github.com/ly4k/PassTheChallenge) - Recovering NTLM hashes from Credential Guard
 * 【2022-12-28】[LightningMods / Itemzflow](https://github.com/LightningMods/Itemzflow) - PS4 Game manager and Home menu alternative made using Open Source tools
 * 【2022-12-28】[GoldHEN / GoldHEN_Plugins_Repository](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) - 
 * 【2022-12-28】[veracrypt / VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -839,6 +854,9 @@
 
 ## C++
 
+* 【2022-12-30】[wuspy / portal_calendar](https://github.com/wuspy/portal_calendar) - A Portal themed e-ink calendar based on the ESP32 platform
+* 【2022-12-30】[RedisInsight / RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 🔧Cross-platform Developer GUI for Redis
+* 【2022-12-30】[kripken / ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 * 【2022-12-28】[kkent030315 / CVE-2022-42046](https://github.com/kkent030315/CVE-2022-42046) - CVE-2022-42046 Proof of Concept of wfshbr64.sys local privilege escalation via DKOM
 * 【2022-12-27】[Arduino-IRremote / Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols
 * 【2022-12-27】[PabloMK7 / ENLBufferPwn](https://github.com/PabloMK7/ENLBufferPwn) - Information and PoC about the ENLBufferPwn vulnerability
@@ -905,6 +923,8 @@
 
 ## C#
 
+* 【2022-12-30】[geniuskai / serialporttools](https://github.com/geniuskai/serialporttools) - 跨平台串口调试助手，可运行在Linux 及 window平台下，方便在ubuntu等Linux系统下进行模拟串口通讯
+* 【2022-12-30】[ArchiDog1998 / XIVAutoAction](https://github.com/ArchiDog1998/XIVAutoAction) - Teach you how to perform better in combat! -- gamous
 * 【2022-12-29】[egbakou / RESTCountries.NET](https://github.com/egbakou/RESTCountries.NET) - ⚡Offline dotnet standard library to get information about countries
 * 【2022-12-29】[jwallet / spy-spotify](https://github.com/jwallet/spy-spotify) - 🎤Records Spotify to mp3 without ads and adds media tags to the files🎵
 * 【2022-12-29】[sinai-dev / UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
@@ -986,6 +1006,8 @@
 
 ## Html
 
+* 【2022-12-30】[salaboy / from-monolith-to-k8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes
+* 【2022-12-30】[williamfzc / chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - use ChatGPT to generate PPT automatically
 * 【2022-12-28】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
 * 【2022-12-27】[jcubic / chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT conversation saving bookmark
 * 【2022-12-27】[AlfieJones / theme-toggles](https://github.com/AlfieJones/theme-toggles) - Theme toggles is a collection of awesome, easy to use, animated toggles; designed for switching between light and dark modes. It's a modular library which aims to provide an ample customization where needed. Works great utility CSS frameworks such as Tailwindcss.
@@ -1063,6 +1085,8 @@
 
 ## Css
 
+* 【2022-12-30】[ejjoo / jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) - Simple and Lightweight Theme for Jekyll
+* 【2022-12-30】[kevin-powell / fancy-mask-image-animation](https://github.com/kevin-powell/fancy-mask-image-animation) - 
 * 【2022-12-29】[lvwzhen / ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
 * 【2022-12-29】[scraly / developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences's date and CFP in order to help conferences organizers, speakers & attendees
 * 【2022-12-29】[john-smilga / react-course-v3](https://github.com/john-smilga/react-course-v3) - 
@@ -1164,6 +1188,8 @@
 
 ## Unknown
 
+* 【2022-12-30】[rfyiamcool / notes](https://github.com/rfyiamcool/notes) - kubernetes, golang 源码分析
+* 【2022-12-30】[osurf / jzdy](https://github.com/osurf/jzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2022-12-29】[pnp / powerapps-designtoolkit](https://github.com/pnp/powerapps-designtoolkit) - This toolkit is a curated repo of Power Apps UI Guidance and Components that you can plug and play into your apps to transform your design.
 * 【2022-12-28】[youssefHosni / Data-Science-Interview-Questions-Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) - 
 * 【2022-12-28】[atakankizilyuce / makine-ogrenmesi-turkce](https://github.com/atakankizilyuce/makine-ogrenmesi-turkce) - Makine öğrenmesi ve Derin öğrenme hakkında bulduğum Türkçe kaynaklar.
