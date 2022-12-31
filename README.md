@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2022-12-31】[Cameri / nostream](https://github.com/Cameri/nostream) - A Nostr Relay written in TypeScript
+* 【2022-12-31】[serverless-stack / sst](https://github.com/serverless-stack/sst) - 💥SST makes it easy to build full-stack serverless apps.
+* 【2022-12-31】[tamagui / tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler🚄
+* 【2022-12-31】[symfony / symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 * 【2022-12-30】[AmruthPillai / Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 * 【2022-12-30】[microfeed / microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 * 【2022-12-30】[TheOfficialFloW / HENlo](https://github.com/TheOfficialFloW/HENlo) - WebKit+Kernel exploit chain for all PS Vita firmwares
@@ -197,6 +201,7 @@
 
 ## Java
 
+* 【2022-12-31】[tizu69 / ntl-redone](https://github.com/tizu69/ntl-redone) - Create NTL (No Train Limits [almost]), but redone. More coming soon
 * 【2022-12-29】[Yandex-Practicum / algorithms-templates](https://github.com/Yandex-Practicum/algorithms-templates) - Шаблоны задач с вводом-выводом для вводной части и первого спринта курса Алгоритмы для разработчиков.
 * 【2022-12-29】[in28minutes / master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot) - Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud
 * 【2022-12-28】[tronprotocol / java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
@@ -305,6 +310,11 @@
 
 ## Python
 
+* 【2022-12-31】[HMS-CardiacMR / MyoMapNet](https://github.com/HMS-CardiacMR/MyoMapNet) - We implemented a FC that uses pixel-wise T1-weighted signals and corresponding inversion time to estimate T1 values from a limited number of T1-weighted images. we studied how training the model using native, post-contrast T1 and a combination of both could impact performance of the MyoMapNet. We also explored two choices of number of T1 weighte…
+* 【2022-12-31】[facebookresearch / ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
+* 【2022-12-31】[1in9e / icp-domains](https://github.com/1in9e/icp-domains) - 输入一个域名，输出ICP备案所有关联域名
+* 【2022-12-31】[xiangxingxing / v2free_auto_sign](https://github.com/xiangxingxing/v2free_auto_sign) - 
+* 【2022-12-31】[why2lyj / youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
 * 【2022-12-30】[nebuly-ai / nebullvm](https://github.com/nebuly-ai/nebullvm) - Accelerate AI models leveraging best-of-breed optimization techniques🚀
 * 【2022-12-30】[ToniRV / NeRF-SLAM](https://github.com/ToniRV/NeRF-SLAM) - Real-Time Dense Monocular SLAM with Neural Radiance Fields. https://arxiv.org/abs/2210.13641 + Sigma-Fusion: Probabilistic Volumetric Fusion for Dense Monocular SLAM https://arxiv.org/abs/2210.01276
 * 【2022-12-30】[mindee / doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
@@ -508,6 +518,9 @@
 
 ## Javascript
 
+* 【2022-12-31】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+* 【2022-12-31】[mumuy / relationship](https://github.com/mumuy/relationship) - Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機
+* 【2022-12-31】[qiuweikangdev / taro-react-echarts](https://github.com/qiuweikangdev/taro-react-echarts) - 🎉基于Taro3、React的H5和微信小程序多端图表组件
 * 【2022-12-30】[salman0ansari / whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs) - RESTful WhatsApp API with Multiple Device Support
 * 【2022-12-30】[evershopcommerce / evershop](https://github.com/evershopcommerce/evershop) - Node E-commerce Platform
 * 【2022-12-29】[jklepatch / eattheblocks](https://github.com/jklepatch/eattheblocks) - Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers
@@ -680,6 +693,10 @@
 
 ## Go
 
+* 【2022-12-31】[google / btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
+* 【2022-12-31】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+* 【2022-12-31】[ZQCard / kratos-base-project](https://github.com/ZQCard/kratos-base-project) - 基于go-kratos框架，基础开发服务
+* 【2022-12-31】[ThingsPanel / ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go) - The plug-in IoT platform developed by Go language has high performance, low entry and easy expansion. Support MQTT, Modbus multi protocol, multi type device access and visualization, automation, alarm, rule engine and other functions.
 * 【2022-12-30】[kopia / kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 * 【2022-12-29】[valyala / fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * 【2022-12-29】[yannh / kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
@@ -771,6 +788,7 @@
 
 ## C
 
+* 【2022-12-31】[SalahAssana / Lethe](https://github.com/SalahAssana/Lethe) - Project Lethe is a privacy-preserving indoor localization system designed to allow for room-level localization of individuals in a home or building.
 * 【2022-12-30】[straight-tamago / NoCameraSound](https://github.com/straight-tamago/NoCameraSound) - 
 * 【2022-12-30】[ly4k / PassTheChallenge](https://github.com/ly4k/PassTheChallenge) - Recovering NTLM hashes from Credential Guard
 * 【2022-12-28】[LightningMods / Itemzflow](https://github.com/LightningMods/Itemzflow) - PS4 Game manager and Home menu alternative made using Open Source tools
@@ -854,6 +872,7 @@
 
 ## C++
 
+* 【2022-12-31】[SalahAssana / 5G-SCG](https://github.com/SalahAssana/5G-SCG) - Cardiovascular Activity Monitoring Using mmWaves
 * 【2022-12-30】[wuspy / portal_calendar](https://github.com/wuspy/portal_calendar) - A Portal themed e-ink calendar based on the ESP32 platform
 * 【2022-12-30】[RedisInsight / RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 🔧Cross-platform Developer GUI for Redis
 * 【2022-12-30】[kripken / ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten
@@ -923,6 +942,11 @@
 
 ## C#
 
+* 【2022-12-31】[davidfowl / TriviaR](https://github.com/davidfowl/TriviaR) - A multiplayer trivia game using SignalR and .NET 7
+* 【2022-12-31】[killop / UnityResourceSolution](https://github.com/killop/UnityResourceSolution) - 青霜-UnityResourceSolution
+* 【2022-12-31】[Silcott / PORTFOLIO-OF-PROJECTS](https://github.com/Silcott/PORTFOLIO-OF-PROJECTS) - Portfolio of Projects
+* 【2022-12-31】[Regalis11 / Barotrauma](https://github.com/Regalis11/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
+* 【2022-12-31】[Mohamed-Akram-Hl / Lesko](https://github.com/Mohamed-Akram-Hl/Lesko) - Compiler for the algorithmic language
 * 【2022-12-30】[geniuskai / serialporttools](https://github.com/geniuskai/serialporttools) - 跨平台串口调试助手，可运行在Linux 及 window平台下，方便在ubuntu等Linux系统下进行模拟串口通讯
 * 【2022-12-30】[ArchiDog1998 / XIVAutoAction](https://github.com/ArchiDog1998/XIVAutoAction) - Teach you how to perform better in combat! -- gamous
 * 【2022-12-29】[egbakou / RESTCountries.NET](https://github.com/egbakou/RESTCountries.NET) - ⚡Offline dotnet standard library to get information about countries
@@ -1006,6 +1030,8 @@
 
 ## Html
 
+* 【2022-12-31】[tegal1337 / CiLocks](https://github.com/tegal1337/CiLocks) - Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
+* 【2022-12-31】[webspace-sdk / webspace-sdk.github.io](https://github.com/webspace-sdk/webspace-sdk.github.io) - The webspace for webspaces
 * 【2022-12-30】[salaboy / from-monolith-to-k8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes
 * 【2022-12-30】[williamfzc / chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - use ChatGPT to generate PPT automatically
 * 【2022-12-28】[ProletRevDicta / Prolet](https://github.com/ProletRevDicta/Prolet) - Historical documents (in Chinese) about the GPCR (Thanks Comrade RC MR HR etc.)
@@ -1085,6 +1111,11 @@
 
 ## Css
 
+* 【2022-12-31】[Ignitetch / whatsapp-phishing](https://github.com/Ignitetch/whatsapp-phishing) - the best tool for whatsapp-phishing with otp provider ..
+* 【2022-12-31】[eazybytes / spring](https://github.com/eazybytes/spring) - Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples
+* 【2022-12-31】[MichaelBarney / LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
+* 【2022-12-31】[digitalinnovationone / js-developer-portfolio](https://github.com/digitalinnovationone/js-developer-portfolio) - 
+* 【2022-12-31】[lovefc / china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
 * 【2022-12-30】[ejjoo / jekyll-theme-monos](https://github.com/ejjoo/jekyll-theme-monos) - Simple and Lightweight Theme for Jekyll
 * 【2022-12-30】[kevin-powell / fancy-mask-image-animation](https://github.com/kevin-powell/fancy-mask-image-animation) - 
 * 【2022-12-29】[lvwzhen / ChatGPT-Matrix-Style](https://github.com/lvwzhen/ChatGPT-Matrix-Style) - Make ChatGPT like the Matrix.
@@ -1188,6 +1219,13 @@
 
 ## Unknown
 
+* 【2022-12-31】[pi-apps / pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) - 
+* 【2022-12-31】[webuild-community / advent-of-frontend](https://github.com/webuild-community/advent-of-frontend) - Yearly knowledge sharing event about frontend development, organized by the WeBuild Community.
+* 【2022-12-31】[jakejarvis / awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍A collection of interesting, funny, and depressing search queries to plug into shodan.io👩‍💻
+* 【2022-12-31】[cryptoc0ding / UniswapSniperBot](https://github.com/cryptoc0ding/UniswapSniperBot) - Optimized, fast Uniswap sniping bot for buying new listings.
+* 【2022-12-31】[S3cur3Th1sSh1t / Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell) - This repo contains some Amsi Bypass methods i found on different Blog Posts.
+* 【2022-12-31】[agmmnn / awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
+* 【2022-12-31】[MiRO92 / uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube) - The best tweak for the YouTube app
 * 【2022-12-30】[rfyiamcool / notes](https://github.com/rfyiamcool/notes) - kubernetes, golang 源码分析
 * 【2022-12-30】[osurf / jzdy](https://github.com/osurf/jzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2022-12-29】[pnp / powerapps-designtoolkit](https://github.com/pnp/powerapps-designtoolkit) - This toolkit is a curated repo of Power Apps UI Guidance and Components that you can plug and play into your apps to transform your design.
