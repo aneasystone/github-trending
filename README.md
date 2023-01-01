@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-01】[JonasGeiping / cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute.
+* 【2023-01-01】[unocss / unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+* 【2023-01-01】[mebtte / cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 * 【2022-12-31】[Cameri / nostream](https://github.com/Cameri/nostream) - A Nostr Relay written in TypeScript
 * 【2022-12-31】[serverless-stack / sst](https://github.com/serverless-stack/sst) - 💥SST makes it easy to build full-stack serverless apps.
 * 【2022-12-31】[tamagui / tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler🚄
@@ -201,6 +204,9 @@
 
 ## Java
 
+* 【2023-01-01】[line / conditional](https://github.com/line/conditional) - A super lightweight library that helps you to compose multiple conditional expressions and make them asynchronous easily.
+* 【2023-01-01】[zhisheng17 / flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/ 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
+* 【2023-01-01】[getActivity / Logcat](https://github.com/getActivity/Logcat) - Android 日志打印框架，在手机上可以直接看到 Logcat 日志啦
 * 【2022-12-31】[tizu69 / ntl-redone](https://github.com/tizu69/ntl-redone) - Create NTL (No Train Limits [almost]), but redone. More coming soon
 * 【2022-12-29】[Yandex-Practicum / algorithms-templates](https://github.com/Yandex-Practicum/algorithms-templates) - Шаблоны задач с вводом-выводом для вводной части и первого спринта курса Алгоритмы для разработчиков.
 * 【2022-12-29】[in28minutes / master-spring-and-spring-boot](https://github.com/in28minutes/master-spring-and-spring-boot) - Spring and Spring Boot Tutorial For Absolute Beginners - 10-in-1 - Spring to Spring Boot to REST API to Full Stack to Containers to Cloud
@@ -310,6 +316,12 @@
 
 ## Python
 
+* 【2023-01-01】[sphinx-doc / sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
+* 【2023-01-01】[karpathy / nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+* 【2023-01-01】[kuca-belludo / urnas](https://github.com/kuca-belludo/urnas) - 
+* 【2023-01-01】[ultrafunkamsterdam / undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+* 【2023-01-01】[Aeternalis-Ingenium / FastAPI-Backend-Template](https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template) - A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.
+* 【2023-01-01】[Xchiliarch / Highfleet-Chinese-localization](https://github.com/Xchiliarch/Highfleet-Chinese-localization) - An unofficial Highfleet Chinese localization project
 * 【2022-12-31】[HMS-CardiacMR / MyoMapNet](https://github.com/HMS-CardiacMR/MyoMapNet) - We implemented a FC that uses pixel-wise T1-weighted signals and corresponding inversion time to estimate T1 values from a limited number of T1-weighted images. we studied how training the model using native, post-contrast T1 and a combination of both could impact performance of the MyoMapNet. We also explored two choices of number of T1 weighte…
 * 【2022-12-31】[facebookresearch / ConvNeXt](https://github.com/facebookresearch/ConvNeXt) - Code release for ConvNeXt model
 * 【2022-12-31】[1in9e / icp-domains](https://github.com/1in9e/icp-domains) - 输入一个域名，输出ICP备案所有关联域名
@@ -518,6 +530,10 @@
 
 ## Javascript
 
+* 【2023-01-01】[faressoft / terminalizer](https://github.com/faressoft/terminalizer) - 🦄Record your terminal and generate animated gif images or share a web player
+* 【2023-01-01】[theninthsky / client-side-rendering](https://github.com/theninthsky/client-side-rendering) - A case study of CSR.
+* 【2023-01-01】[ecomfe / vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
+* 【2023-01-01】[GoogleChrome / chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 * 【2022-12-31】[ai / nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 * 【2022-12-31】[mumuy / relationship](https://github.com/mumuy/relationship) - Chinese kinship system.中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機
 * 【2022-12-31】[qiuweikangdev / taro-react-echarts](https://github.com/qiuweikangdev/taro-react-echarts) - 🎉基于Taro3、React的H5和微信小程序多端图表组件
@@ -693,6 +709,7 @@
 
 ## Go
 
+* 【2023-01-01】[kevinyan815 / design-pattern-by-go](https://github.com/kevinyan815/design-pattern-by-go) - 用 Go 语言学设计模式
 * 【2022-12-31】[google / btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
 * 【2022-12-31】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 * 【2022-12-31】[ZQCard / kratos-base-project](https://github.com/ZQCard/kratos-base-project) - 基于go-kratos框架，基础开发服务
@@ -788,6 +805,8 @@
 
 ## C
 
+* 【2023-01-01】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
+* 【2023-01-01】[Kiprey / Skr_Learning](https://github.com/Kiprey/Skr_Learning) - 天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...
 * 【2022-12-31】[SalahAssana / Lethe](https://github.com/SalahAssana/Lethe) - Project Lethe is a privacy-preserving indoor localization system designed to allow for room-level localization of individuals in a home or building.
 * 【2022-12-30】[straight-tamago / NoCameraSound](https://github.com/straight-tamago/NoCameraSound) - 
 * 【2022-12-30】[ly4k / PassTheChallenge](https://github.com/ly4k/PassTheChallenge) - Recovering NTLM hashes from Credential Guard
@@ -872,6 +891,11 @@
 
 ## C++
 
+* 【2023-01-01】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Translation of http://e-maxx.ru into English
+* 【2023-01-01】[hzeller / rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
+* 【2023-01-01】[dyanikoglu / ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.1 with additional features & bug fixes
+* 【2023-01-01】[lballabio / QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib C++ library
+* 【2023-01-01】[screetsec / Brutal](https://github.com/screetsec/Brutal) - Payload for teensy like a rubber ducky but the syntax is different. this Human interfaes device ( HID attacks ). Penetration With Teensy . Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device ( Payload Teensy )
 * 【2022-12-31】[SalahAssana / 5G-SCG](https://github.com/SalahAssana/5G-SCG) - Cardiovascular Activity Monitoring Using mmWaves
 * 【2022-12-30】[wuspy / portal_calendar](https://github.com/wuspy/portal_calendar) - A Portal themed e-ink calendar based on the ESP32 platform
 * 【2022-12-30】[RedisInsight / RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 🔧Cross-platform Developer GUI for Redis
@@ -942,6 +966,9 @@
 
 ## C#
 
+* 【2023-01-01】[DavidXanatos / wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
+* 【2023-01-01】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
+* 【2023-01-01】[bcgit / bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
 * 【2022-12-31】[davidfowl / TriviaR](https://github.com/davidfowl/TriviaR) - A multiplayer trivia game using SignalR and .NET 7
 * 【2022-12-31】[killop / UnityResourceSolution](https://github.com/killop/UnityResourceSolution) - 青霜-UnityResourceSolution
 * 【2022-12-31】[Silcott / PORTFOLIO-OF-PROJECTS](https://github.com/Silcott/PORTFOLIO-OF-PROJECTS) - Portfolio of Projects
@@ -1030,6 +1057,8 @@
 
 ## Html
 
+* 【2023-01-01】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+* 【2023-01-01】[bsefwe / Replit-nginx](https://github.com/bsefwe/Replit-nginx) - 
 * 【2022-12-31】[tegal1337 / CiLocks](https://github.com/tegal1337/CiLocks) - Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
 * 【2022-12-31】[webspace-sdk / webspace-sdk.github.io](https://github.com/webspace-sdk/webspace-sdk.github.io) - The webspace for webspaces
 * 【2022-12-30】[salaboy / from-monolith-to-k8s](https://github.com/salaboy/from-monolith-to-k8s) - Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes
@@ -1111,6 +1140,7 @@
 
 ## Css
 
+* 【2023-01-01】[QNetITQ / WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 * 【2022-12-31】[Ignitetch / whatsapp-phishing](https://github.com/Ignitetch/whatsapp-phishing) - the best tool for whatsapp-phishing with otp provider ..
 * 【2022-12-31】[eazybytes / spring](https://github.com/eazybytes/spring) - Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples
 * 【2022-12-31】[MichaelBarney / LinkFree](https://github.com/MichaelBarney/LinkFree) - A free and open source alternative to LinkTree
@@ -1219,6 +1249,12 @@
 
 ## Unknown
 
+* 【2023-01-01】[devsecops / awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
+* 【2023-01-01】[A-poc / RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
+* 【2023-01-01】[ArranzCNL / ImprovedCameraSE](https://github.com/ArranzCNL/ImprovedCameraSE) - First Person Mod for The Elder Scrolls V: Skyrim - Special Edition
+* 【2023-01-01】[ulid / spec](https://github.com/ulid/spec) - The canonical spec for ulid
+* 【2023-01-01】[YueChan / Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
+* 【2023-01-01】[Cyril0563 / FREE_COMIC-BOOK](https://github.com/Cyril0563/FREE_COMIC-BOOK) - 免费漫画订阅源，小说订阅源，听书、看书、阅读、APP合集。小说书源、漫画源部分包含（漫画：517、亲亲、禁漫天堂、漫蛙、开心、日韩、快看、小姐姐、夜色等；小说：阅读 Android/ios、树莓阅读 Android、启阅 Android、厚墨 Android、爱阅书香 IOS、香色闺阁 IOS、、花火阅读 Android/iOS等）
 * 【2022-12-31】[pi-apps / pi-platform-docs](https://github.com/pi-apps/pi-platform-docs) - 
 * 【2022-12-31】[webuild-community / advent-of-frontend](https://github.com/webuild-community/advent-of-frontend) - Yearly knowledge sharing event about frontend development, organized by the WeBuild Community.
 * 【2022-12-31】[jakejarvis / awesome-shodan-queries](https://github.com/jakejarvis/awesome-shodan-queries) - 🔍A collection of interesting, funny, and depressing search queries to plug into shodan.io👩‍💻
