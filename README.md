@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-02】[PRQL / prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+* 【2023-01-02】[aurae-runtime / aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
+* 【2023-01-02】[zlib-searcher / zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
 * 【2023-01-01】[JonasGeiping / cramming](https://github.com/JonasGeiping/cramming) - Cramming the training of a (BERT-type) language model into limited compute.
 * 【2023-01-01】[unocss / unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 * 【2023-01-01】[mebtte / cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
@@ -316,6 +319,11 @@
 
 ## Python
 
+* 【2023-01-02】[marsupialtail / quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
+* 【2023-01-02】[Rudrabha / Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
+* 【2023-01-02】[tobymao / sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
+* 【2023-01-02】[GiorgosXou / TUIFIManager](https://github.com/GiorgosXou/TUIFIManager) - A cross-platform terminal-based termux-oriented file manager (and component), meant to be used with a Uni-Curses project or as is.
+* 【2023-01-02】[hrpzcf / AwesomePyKit](https://github.com/hrpzcf/AwesomePyKit) - Python工具箱，Python 包管理器、程序打包工具、pip 镜像源设置工具、模块安装包下载器可用。
 * 【2023-01-01】[sphinx-doc / sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 * 【2023-01-01】[karpathy / nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * 【2023-01-01】[kuca-belludo / urnas](https://github.com/kuca-belludo/urnas) - 
@@ -530,6 +538,11 @@
 
 ## Javascript
 
+* 【2023-01-02】[face-hh / discordmium](https://github.com/face-hh/discordmium) - Discordmium brings the Chromium browser instance in Discord, of course limited to the Discord API. - Made for Documatic Hackathon
+* 【2023-01-02】[louislivi / fireworks](https://github.com/louislivi/fireworks) - HTML5+Canvas漂亮的3D烟花动画生日特效，节日特效，烟花
+* 【2023-01-02】[hugo-toha / toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
+* 【2023-01-02】[catdad / canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉on-demand confetti gun
+* 【2023-01-02】[Melvin-Abraham / Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 * 【2023-01-01】[faressoft / terminalizer](https://github.com/faressoft/terminalizer) - 🦄Record your terminal and generate animated gif images or share a web player
 * 【2023-01-01】[theninthsky / client-side-rendering](https://github.com/theninthsky/client-side-rendering) - A case study of CSR.
 * 【2023-01-01】[ecomfe / vue-echarts](https://github.com/ecomfe/vue-echarts) - Apache ECharts component for Vue.js.
@@ -709,6 +722,12 @@
 
 ## Go
 
+* 【2023-01-02】[shadowsocks / v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
+* 【2023-01-02】[Vanilla-OS / apx](https://github.com/Vanilla-OS/apx) - apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
+* 【2023-01-02】[unionj-cloud / go-doudou](https://github.com/unionj-cloud/go-doudou) - go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.
+* 【2023-01-02】[XiaoMiku01 / bilibili-grpc-api-go](https://github.com/XiaoMiku01/bilibili-grpc-api-go) - B站 gRPC API Golang 封装
+* 【2023-01-02】[yxw21 / wechatgpt](https://github.com/yxw21/wechatgpt) - 微信 chatgpt 机器人
+* 【2023-01-02】[yuyan-sec / RedisEXP](https://github.com/yuyan-sec/RedisEXP) - Redis 漏洞利用工具
 * 【2023-01-01】[kevinyan815 / design-pattern-by-go](https://github.com/kevinyan815/design-pattern-by-go) - 用 Go 语言学设计模式
 * 【2022-12-31】[google / btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
 * 【2022-12-31】[tulir / whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
@@ -805,6 +824,8 @@
 
 ## C
 
+* 【2023-01-02】[antirez / protoview](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals
+* 【2023-01-02】[SKGleba / henlo_jb](https://github.com/SKGleba/henlo_jb) - henlo-based jailbreak for Playstation Vita/TV running firmware 3.65+
 * 【2023-01-01】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
 * 【2023-01-01】[Kiprey / Skr_Learning](https://github.com/Kiprey/Skr_Learning) - 天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...
 * 【2022-12-31】[SalahAssana / Lethe](https://github.com/SalahAssana/Lethe) - Project Lethe is a privacy-preserving indoor localization system designed to allow for room-level localization of individuals in a home or building.
@@ -891,6 +912,8 @@
 
 ## C++
 
+* 【2023-01-02】[DFHack / dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it
+* 【2023-01-02】[visualboyadvance-m / visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 * 【2023-01-01】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Translation of http://e-maxx.ru into English
 * 【2023-01-01】[hzeller / rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO
 * 【2023-01-01】[dyanikoglu / ALS-Community](https://github.com/dyanikoglu/ALS-Community) - Replicated and optimized community version of Advanced Locomotion System V4 for Unreal Engine 5.1 with additional features & bug fixes
@@ -966,6 +989,8 @@
 
 ## C#
 
+* 【2023-01-02】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
+* 【2023-01-02】[RetroDriven / Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 * 【2023-01-01】[DavidXanatos / wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
 * 【2023-01-01】[beeradmoore / dlss-swapper](https://github.com/beeradmoore/dlss-swapper) - 
 * 【2023-01-01】[bcgit / bc-csharp](https://github.com/bcgit/bc-csharp) - BouncyCastle.NET Cryptography Library (Mirror)
@@ -1057,6 +1082,7 @@
 
 ## Html
 
+* 【2023-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于XgpNwb的二次修改，我仅作翻译处理以及其他优化
 * 【2023-01-01】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 * 【2023-01-01】[bsefwe / Replit-nginx](https://github.com/bsefwe/Replit-nginx) - 
 * 【2022-12-31】[tegal1337 / CiLocks](https://github.com/tegal1337/CiLocks) - Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
@@ -1140,6 +1166,7 @@
 
 ## Css
 
+* 【2023-01-02】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
 * 【2023-01-01】[QNetITQ / WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 * 【2022-12-31】[Ignitetch / whatsapp-phishing](https://github.com/Ignitetch/whatsapp-phishing) - the best tool for whatsapp-phishing with otp provider ..
 * 【2022-12-31】[eazybytes / spring](https://github.com/eazybytes/spring) - Spring, SpringBoot, JPA, Hibernate : Zero To Master - Code Examples
@@ -1249,6 +1276,8 @@
 
 ## Unknown
 
+* 【2023-01-02】[bsovs / Fall2023-Internships](https://github.com/bsovs/Fall2023-Internships) - Collection of Fall 2023 tech internships!
+* 【2023-01-02】[8xx8x / 8x8x](https://github.com/8xx8x/8x8x) - 
 * 【2023-01-01】[devsecops / awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 * 【2023-01-01】[A-poc / RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) - Tools and Techniques for Red Team / Penetration Testing
 * 【2023-01-01】[ArranzCNL / ImprovedCameraSE](https://github.com/ArranzCNL/ImprovedCameraSE) - First Person Mod for The Elder Scrolls V: Skyrim - Special Edition
