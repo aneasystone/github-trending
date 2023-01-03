@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2023-01-03】[2dust / v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+* 【2023-01-03】[zakird / crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
+* 【2023-01-03】[vercel / hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+* 【2023-01-03】[itzg / docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+* 【2023-01-03】[pmndrs / zustand](https://github.com/pmndrs/zustand) - 🐻Bear necessities for state management in React
+* 【2023-01-03】[jellyfin / Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
+* 【2023-01-03】[Carpe-Wang / GoRedis](https://github.com/Carpe-Wang/GoRedis) - Go实现简易redis
 * 【2023-01-02】[PRQL / prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 * 【2023-01-02】[aurae-runtime / aurae](https://github.com/aurae-runtime/aurae) - Distributed systems runtime daemon written in Rust.
 * 【2023-01-02】[zlib-searcher / zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
@@ -207,6 +214,11 @@
 
 ## Java
 
+* 【2023-01-03】[IzzelAliz / Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.16/1.18/1.19) server implementation on Forge using Mixin.⚡
+* 【2023-01-03】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
+* 【2023-01-03】[TwitchRecover / TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted.
+* 【2023-01-03】[ViaVersion / ViaVersion](https://github.com/ViaVersion/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
+* 【2023-01-03】[razerdp / BasePopup](https://github.com/razerdp/BasePopup) - Android下打造通用便捷的PopupWindow弹窗库
 * 【2023-01-01】[line / conditional](https://github.com/line/conditional) - A super lightweight library that helps you to compose multiple conditional expressions and make them asynchronous easily.
 * 【2023-01-01】[zhisheng17 / flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/ 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 * 【2023-01-01】[getActivity / Logcat](https://github.com/getActivity/Logcat) - Android 日志打印框架，在手机上可以直接看到 Logcat 日志啦
@@ -319,6 +331,8 @@
 
 ## Python
 
+* 【2023-01-03】[ParthJadhav / Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI🐍
+* 【2023-01-03】[moyix / gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
 * 【2023-01-02】[marsupialtail / quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
 * 【2023-01-02】[Rudrabha / Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 * 【2023-01-02】[tobymao / sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -538,6 +552,10 @@
 
 ## Javascript
 
+* 【2023-01-03】[gluon-framework / gluon](https://github.com/gluon-framework/gluon) - A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS
+* 【2023-01-03】[SeifElsallamy / Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) - Never forget where you inject.
+* 【2023-01-03】[jbilcke / web4](https://github.com/jbilcke/web4) - Latent web browser
+* 【2023-01-03】[soulmachine / algorithm-essentials](https://github.com/soulmachine/algorithm-essentials) - 算法精粹--举一反三，抛弃题海战术
 * 【2023-01-02】[face-hh / discordmium](https://github.com/face-hh/discordmium) - Discordmium brings the Chromium browser instance in Discord, of course limited to the Discord API. - Made for Documatic Hackathon
 * 【2023-01-02】[louislivi / fireworks](https://github.com/louislivi/fireworks) - HTML5+Canvas漂亮的3D烟花动画生日特效，节日特效，烟花
 * 【2023-01-02】[hugo-toha / toha](https://github.com/hugo-toha/toha) - A Hugo theme for personal portfolio
@@ -722,6 +740,8 @@
 
 ## Go
 
+* 【2023-01-03】[crazy-max / diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+* 【2023-01-03】[lucas-clemente / quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 * 【2023-01-02】[shadowsocks / v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
 * 【2023-01-02】[Vanilla-OS / apx](https://github.com/Vanilla-OS/apx) - apx is the Vanilla OS package manager. It’s meant to be simple to use, but also powerful with support to installing packages from multiple sources without altering the root filesystem.
 * 【2023-01-02】[unionj-cloud / go-doudou](https://github.com/unionj-cloud/go-doudou) - go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well.
@@ -824,6 +844,8 @@
 
 ## C
 
+* 【2023-01-03】[gnea / grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
+* 【2023-01-03】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
 * 【2023-01-02】[antirez / protoview](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals
 * 【2023-01-02】[SKGleba / henlo_jb](https://github.com/SKGleba/henlo_jb) - henlo-based jailbreak for Playstation Vita/TV running firmware 3.65+
 * 【2023-01-01】[jfedor2 / hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
@@ -1082,6 +1104,7 @@
 
 ## Html
 
+* 【2023-01-03】[jeffreytse / jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 * 【2023-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于XgpNwb的二次修改，我仅作翻译处理以及其他优化
 * 【2023-01-01】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 * 【2023-01-01】[bsefwe / Replit-nginx](https://github.com/bsefwe/Replit-nginx) - 
@@ -1276,6 +1299,8 @@
 
 ## Unknown
 
+* 【2023-01-03】[youssefHosni / Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) - 
+* 【2023-01-03】[Vetoyi / CN_Patch.Being_A_DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) - (Steam汉化补丁) Being A DIK
 * 【2023-01-02】[bsovs / Fall2023-Internships](https://github.com/bsovs/Fall2023-Internships) - Collection of Fall 2023 tech internships!
 * 【2023-01-02】[8xx8x / 8x8x](https://github.com/8xx8x/8x8x) - 
 * 【2023-01-01】[devsecops / awesome-devsecops](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
