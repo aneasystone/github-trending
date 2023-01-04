@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2023-01-04】[papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+* 【2023-01-04】[bigscience-workshop / petals](https://github.com/bigscience-workshop/petals) - 🌸Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+* 【2023-01-04】[godly-devotion / MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
+* 【2023-01-04】[easychen / stack-roadmap](https://github.com/easychen/stack-roadmap) - 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈
+* 【2023-01-04】[starkoora / wanted-pre-onboarding-challenge-fe-1-api](https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api) - 
+* 【2023-01-04】[czy0729 / Bangumi](https://github.com/czy0729/Bangumi) - An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，内置大量加强、网页端难以实现的功能，且提供了相当的自定义选项，已适配 iOS / Android / WSA、mobile / 简单 pad、light / dark theme。
+* 【2023-01-04】[XiaoMiku01 / custom_bilibili_nft](https://github.com/XiaoMiku01/custom_bilibili_nft) - 自定义 B站 NFT 空间背景和头像
+* 【2023-01-04】[lizhipay / acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 * 【2023-01-03】[2dust / v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 * 【2023-01-03】[zakird / crux-top-lists](https://github.com/zakird/crux-top-lists) - Downloadable snapshots of the Chrome Top Million Websites pulled from public CrUX data in BigQuery.
 * 【2023-01-03】[vercel / hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -214,6 +222,7 @@
 
 ## Java
 
+* 【2023-01-04】[fayechenlong / plumelog](https://github.com/fayechenlong/plumelog) - 一个java分布式日志组件，支持百亿级别，日志从搜集到查询，不用去文件中翻阅日志方便快捷，支持查询一个调用链的日志，支持链路追踪，查看调用链耗时情况，在分布式系统中也可以查询关联日志，能够帮助快速定位问题，简单易用，没有代码入侵，查询界面友好，高效，方便，只要你是java系统，不要做任何项目改造，接入直接使用，日志不落本地磁盘,演示视频地址：https://v.qq.com/x/page/g3308uxlcnw.html
 * 【2023-01-03】[IzzelAliz / Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.16/1.18/1.19) server implementation on Forge using Mixin.⚡
 * 【2023-01-03】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
 * 【2023-01-03】[TwitchRecover / TwitchRecover](https://github.com/TwitchRecover/TwitchRecover) - Twitch VOD tool which recovers all VODs including those that are sub only or deleted.
@@ -331,6 +340,9 @@
 
 ## Python
 
+* 【2023-01-04】[EnableSecurity / wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
+* 【2023-01-04】[KartoffelToby / better_thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling TRV (Thermostatic Radiator Valves) to save you the work of creating automations to make it smart. It combines a room-temperature sensor, window/door sensors, weather forecasts, or an ambient temperature probe to decide when it should call for heat and …
+* 【2023-01-04】[DengBoCong / nlp-paper](https://github.com/DengBoCong/nlp-paper) - 自然语言处理领域下的相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）
 * 【2023-01-03】[ParthJadhav / Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI🐍
 * 【2023-01-03】[moyix / gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
 * 【2023-01-02】[marsupialtail / quokka](https://github.com/marsupialtail/quokka) - Open source SQL engine in Python
@@ -552,6 +564,7 @@
 
 ## Javascript
 
+* 【2023-01-04】[codigoencasa / bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) - Funcionando📅NOV 2022 / Trabajando en la V2 proximamente
 * 【2023-01-03】[gluon-framework / gluon](https://github.com/gluon-framework/gluon) - A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS
 * 【2023-01-03】[SeifElsallamy / Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) - Never forget where you inject.
 * 【2023-01-03】[jbilcke / web4](https://github.com/jbilcke/web4) - Latent web browser
@@ -740,6 +753,7 @@
 
 ## Go
 
+* 【2023-01-04】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 * 【2023-01-03】[crazy-max / diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 * 【2023-01-03】[lucas-clemente / quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
 * 【2023-01-02】[shadowsocks / v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin) - A SIP003 plugin based on v2ray
@@ -844,6 +858,11 @@
 
 ## C
 
+* 【2023-01-04】[jafarlihi / modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules
+* 【2023-01-04】[michaelengel / crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
+* 【2023-01-04】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
+* 【2023-01-04】[checkra1n / PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
+* 【2023-01-04】[rsta2 / circle](https://github.com/rsta2/circle) - A C++ bare metal environment for Raspberry Pi with USB (32 and 64 bit)
 * 【2023-01-03】[gnea / grbl](https://github.com/gnea/grbl) - An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino
 * 【2023-01-03】[LumaTeam / Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
 * 【2023-01-02】[antirez / protoview](https://github.com/antirez/protoview) - Flipper Zero app to display known and unknown signals
@@ -934,6 +953,11 @@
 
 ## C++
 
+* 【2023-01-04】[ambrosiogabe / MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
+* 【2023-01-04】[sylikc / jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI. Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
+* 【2023-01-04】[espressif / esp-matter](https://github.com/espressif/esp-matter) - Espressif's SDK for Matter
+* 【2023-01-04】[ToxSylph / SeaOfChoros](https://github.com/ToxSylph/SeaOfChoros) - Sea Of Thieves Utility
+* 【2023-01-04】[theSecHunter / Hades-Windows](https://github.com/theSecHunter/Hades-Windows) - Hades HIDS/HIPS for Windows
 * 【2023-01-02】[DFHack / dfhack](https://github.com/DFHack/dfhack) - Memory hacking library for Dwarf Fortress and a set of tools that use it
 * 【2023-01-02】[visualboyadvance-m / visualboyadvance-m](https://github.com/visualboyadvance-m/visualboyadvance-m) - The continuing development of the legendary VBA gameboy advance emulator.
 * 【2023-01-01】[cp-algorithms / cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Translation of http://e-maxx.ru into English
@@ -1011,6 +1035,7 @@
 
 ## C#
 
+* 【2023-01-04】[Jinjinov / Ididit](https://github.com/Jinjinov/Ididit) - C# .NET 7 Blazor habit tracker application. Works on Web, Windows, Linux, Android, iOS and macOS.
 * 【2023-01-02】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 * 【2023-01-02】[RetroDriven / Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
 * 【2023-01-01】[DavidXanatos / wumgr](https://github.com/DavidXanatos/wumgr) - Windows update managemetn tool for windows 10
@@ -1104,6 +1129,8 @@
 
 ## Html
 
+* 【2023-01-04】[gluon-framework / examples](https://github.com/gluon-framework/examples) - Various Gluon example apps
+* 【2023-01-04】[zhelper-org / search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
 * 【2023-01-03】[jeffreytse / jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
 * 【2023-01-02】[NianBroken / Firework_Simulator](https://github.com/NianBroken/Firework_Simulator) - 烟花模拟器，一个模拟放烟花的网页，基于XgpNwb的二次修改，我仅作翻译处理以及其他优化
 * 【2023-01-01】[kevquirk / simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
@@ -1299,6 +1326,14 @@
 
 ## Unknown
 
+* 【2023-01-04】[LondheShubham153 / 90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) - This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.
+* 【2023-01-04】[joshnh / Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
+* 【2023-01-04】[github / advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+* 【2023-01-04】[edakturk14 / ethereum-developer-resources](https://github.com/edakturk14/ethereum-developer-resources) - Curated list of resources to getting started with Ethereum
+* 【2023-01-04】[cjh0613 / tencent-sensitive-words](https://github.com/cjh0613/tencent-sensitive-words) - 腾讯的离线敏感词库
+* 【2023-01-04】[whereisph / new](https://github.com/whereisph/new) - 
+* 【2023-01-04】[ZJUZBW / Wotr-AofS](https://github.com/ZJUZBW/Wotr-AofS) - 
+* 【2023-01-04】[kjfx / AppleID](https://github.com/kjfx/AppleID) - 美区apple id注册教学，苹果账号注册美国
 * 【2023-01-03】[youssefHosni / Data-Science-Educational-Resoruces](https://github.com/youssefHosni/Data-Science-Educational-Resoruces) - 
 * 【2023-01-03】[Vetoyi / CN_Patch.Being_A_DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) - (Steam汉化补丁) Being A DIK
 * 【2023-01-02】[bsovs / Fall2023-Internships](https://github.com/bsovs/Fall2023-Internships) - Collection of Fall 2023 tech internships!
