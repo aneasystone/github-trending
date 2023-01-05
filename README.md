@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-05】[lensapp / lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
+* 【2023-01-05】[jahidulislamzim / JavaScriptCodingChallenges](https://github.com/jahidulislamzim/JavaScriptCodingChallenges) - Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.
+* 【2023-01-05】[lsky-org / lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 * 【2023-01-04】[papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 * 【2023-01-04】[bigscience-workshop / petals](https://github.com/bigscience-workshop/petals) - 🌸Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 * 【2023-01-04】[godly-devotion / MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Apple Silicon Macs natively
@@ -340,6 +343,9 @@
 
 ## Python
 
+* 【2023-01-05】[helblazer811 / ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+* 【2023-01-05】[slavingia / askmybook](https://github.com/slavingia/askmybook) - 
+* 【2023-01-05】[LKI / chinese-calendar](https://github.com/LKI/chinese-calendar) - 判断一天是不是法定节假日/法定工作日（查看节假日安排）
 * 【2023-01-04】[EnableSecurity / wafw00f](https://github.com/EnableSecurity/wafw00f) - WAFW00F allows one to identify and fingerprint Web Application Firewall (WAF) products protecting a website.
 * 【2023-01-04】[KartoffelToby / better_thermostat](https://github.com/KartoffelToby/better_thermostat) - This custom component for Home Assistant will add crucial features to your climate-controlling TRV (Thermostatic Radiator Valves) to save you the work of creating automations to make it smart. It combines a room-temperature sensor, window/door sensors, weather forecasts, or an ambient temperature probe to decide when it should call for heat and …
 * 【2023-01-04】[DengBoCong / nlp-paper](https://github.com/DengBoCong/nlp-paper) - 自然语言处理领域下的相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）
@@ -753,6 +759,7 @@
 
 ## Go
 
+* 【2023-01-05】[sjkhsl / study_xxqg](https://github.com/sjkhsl/study_xxqg) - 
 * 【2023-01-04】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 * 【2023-01-03】[crazy-max / diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
 * 【2023-01-03】[lucas-clemente / quic-go](https://github.com/lucas-clemente/quic-go) - A QUIC implementation in pure go
@@ -858,6 +865,8 @@
 
 ## C
 
+* 【2023-01-05】[skuep / AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
+* 【2023-01-05】[kkos / oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 * 【2023-01-04】[jafarlihi / modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules
 * 【2023-01-04】[michaelengel / crosstalk](https://github.com/michaelengel/crosstalk) - Smalltalk-80 bare metal implementation for the Raspberry Pi
 * 【2023-01-04】[joncampbell123 / dosbox-x](https://github.com/joncampbell123/dosbox-x) - DOSBox-X fork of the DOSBox project
@@ -953,6 +962,7 @@
 
 ## C++
 
+* 【2023-01-05】[estimated1337 / lenovo_mapper](https://github.com/estimated1337/lenovo_mapper) - driver manual mapper powered by https://github.com/estimated1337/lenovo_exec
 * 【2023-01-04】[ambrosiogabe / MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 * 【2023-01-04】[sylikc / jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI. Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
 * 【2023-01-04】[espressif / esp-matter](https://github.com/espressif/esp-matter) - Espressif's SDK for Matter
@@ -1035,6 +1045,7 @@
 
 ## C#
 
+* 【2023-01-05】[Kinnara / ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 * 【2023-01-04】[Jinjinov / Ididit](https://github.com/Jinjinov/Ididit) - C# .NET 7 Blazor habit tracker application. Works on Web, Windows, Linux, Android, iOS and macOS.
 * 【2023-01-02】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 * 【2023-01-02】[RetroDriven / Pocket_Updater](https://github.com/RetroDriven/Pocket_Updater) - Windows GUI Application to Update Cores for the Analogue Pocket
@@ -1129,6 +1140,10 @@
 
 ## Html
 
+* 【2023-01-05】[dibingfa / flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+* 【2023-01-05】[mjbommar / gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - GPT Takes the Bar Exam
+* 【2023-01-05】[Chr1skyy / egzamin-zawodowy-2](https://github.com/Chr1skyy/egzamin-zawodowy-2) - 
+* 【2023-01-05】[QuiteAFancyEmerald / Holy-Unblocker](https://github.com/QuiteAFancyEmerald/Holy-Unblocker) - Holy Unblocker is a secure web proxy service supporting numerous sites while concentrating on detail with design, mechanics, and features. Bypass web filters regardless of whether it is an extension or network-based. [MOVED TO A NEW REPO]
 * 【2023-01-04】[gluon-framework / examples](https://github.com/gluon-framework/examples) - Various Gluon example apps
 * 【2023-01-04】[zhelper-org / search-page](https://github.com/zhelper-org/search-page) - 支持多个后端的搜索界面
 * 【2023-01-03】[jeffreytse / jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat) - 🎨Yet another theme for elegant writers with modern flat style and beautiful night/dark mode.
@@ -1216,6 +1231,10 @@
 
 ## Css
 
+* 【2023-01-05】[cuifengcn / wechat-video-generate](https://github.com/cuifengcn/wechat-video-generate) - 一键生成微信对话视频的工具
+* 【2023-01-05】[adf-telkomuniv / WGTIK_2021](https://github.com/adf-telkomuniv/WGTIK_2021) - Base code for personal website exercise for WGTIK 2021
+* 【2023-01-05】[supun-io / jekyll-theme-leaf](https://github.com/supun-io/jekyll-theme-leaf) - Leaf - Jekyll Theme
+* 【2023-01-05】[dend / awesome-product-management](https://github.com/dend/awesome-product-management) - 🚀A curated list of awesome resources for product/program managers to learn and grow.
 * 【2023-01-02】[mwidera / iac-labs](https://github.com/mwidera/iac-labs) - Infrastructure as Code exercises
 * 【2023-01-01】[QNetITQ / WaveFox](https://github.com/QNetITQ/WaveFox) - Flexible theme for manual customization.
 * 【2022-12-31】[Ignitetch / whatsapp-phishing](https://github.com/Ignitetch/whatsapp-phishing) - the best tool for whatsapp-phishing with otp provider ..
@@ -1326,6 +1345,13 @@
 
 ## Unknown
 
+* 【2023-01-05】[polarisobfuscation / polaris-crypter-fud-bypassing-windows-defender-with-startup](https://github.com/polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup) - polaris crypter fud bypassing windows defender with startup
+* 【2023-01-05】[AammarTufail / python_ka_chilla2023](https://github.com/AammarTufail/python_ka_chilla2023) - This repository contains whole material of 40 days course on Python for Data Science in Urdu/Hindi 2023 Details are here: Registration details of our course is given here: https://www.facebook.com/groups/codanics/permalink/1837695129921140/. More details on the course can be found in this google form: https://forms.gle/kDyUnD1nrN2LF6qy8
+* 【2023-01-05】[hzlzh / Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+* 【2023-01-05】[eliaszon / Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
+* 【2023-01-05】[veggiemonk / awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳A curated list of Docker resources and projects
+* 【2023-01-05】[matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+* 【2023-01-05】[yangkang2021 / nerf-learn](https://github.com/yangkang2021/nerf-learn) - 记录nerf各种应用的学习过程
 * 【2023-01-04】[LondheShubham153 / 90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) - This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.
 * 【2023-01-04】[joshnh / Git-Commands](https://github.com/joshnh/Git-Commands) - A list of commonly used Git commands
 * 【2023-01-04】[github / advisory-database](https://github.com/github/advisory-database) - Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
