@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-06】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
+* 【2023-01-06】[Ruzim / NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex) - 国家自然科学基金申请书正文（面上项目）模板（非官方）
+* 【2023-01-06】[paimonhub / Paimonnode](https://github.com/paimonhub/Paimonnode) - Free subcribe for everyone
 * 【2023-01-05】[lensapp / lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 * 【2023-01-05】[jahidulislamzim / JavaScriptCodingChallenges](https://github.com/jahidulislamzim/JavaScriptCodingChallenges) - Hello JavaScript code newbie! In this repository I'm proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.
 * 【2023-01-05】[lsky-org / lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
@@ -225,6 +228,8 @@
 
 ## Java
 
+* 【2023-01-06】[ali-bouali / spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security) - 
+* 【2023-01-06】[stick-i / scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
 * 【2023-01-04】[fayechenlong / plumelog](https://github.com/fayechenlong/plumelog) - 一个java分布式日志组件，支持百亿级别，日志从搜集到查询，不用去文件中翻阅日志方便快捷，支持查询一个调用链的日志，支持链路追踪，查看调用链耗时情况，在分布式系统中也可以查询关联日志，能够帮助快速定位问题，简单易用，没有代码入侵，查询界面友好，高效，方便，只要你是java系统，不要做任何项目改造，接入直接使用，日志不落本地磁盘,演示视频地址：https://v.qq.com/x/page/g3308uxlcnw.html
 * 【2023-01-03】[IzzelAliz / Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.16/1.18/1.19) server implementation on Forge using Mixin.⚡
 * 【2023-01-03】[SkriptLang / Skript](https://github.com/SkriptLang/Skript) - Skript is a Bukkit plugin which allows server admins to customize their server easily, but without the hassle of programming a plugin or asking/paying someone to program a plugin for them.
@@ -343,6 +348,11 @@
 
 ## Python
 
+* 【2023-01-06】[wwong99 / pentest-notes](https://github.com/wwong99/pentest-notes) - 
+* 【2023-01-06】[facebookresearch / ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) - Code release for ConvNeXt V2 model
+* 【2023-01-06】[elastic / detection-rules](https://github.com/elastic/detection-rules) - Rules for Elastic Security's detection engine
+* 【2023-01-06】[jupyter / docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+* 【2023-01-06】[NingmengLemon / BiliTools](https://github.com/NingmengLemon/BiliTools) - A Python-based toolbox for Bilibili
 * 【2023-01-05】[helblazer811 / ManimML](https://github.com/helblazer811/ManimML) - ManimML is a project focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 * 【2023-01-05】[slavingia / askmybook](https://github.com/slavingia/askmybook) - 
 * 【2023-01-05】[LKI / chinese-calendar](https://github.com/LKI/chinese-calendar) - 判断一天是不是法定节假日/法定工作日（查看节假日安排）
@@ -570,6 +580,8 @@
 
 ## Javascript
 
+* 【2023-01-06】[typicode / husky](https://github.com/typicode/husky) - Git hooks made easy🐶woof!
+* 【2023-01-06】[Siriling / OpenWrt-GL.iNet-AXT1800](https://github.com/Siriling/OpenWrt-GL.iNet-AXT1800) - 使用 GitHub Actions 云编译 GL-AX1800 & GL-AXT1800 OpenWrt 固件
 * 【2023-01-04】[codigoencasa / bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) - Funcionando📅NOV 2022 / Trabajando en la V2 proximamente
 * 【2023-01-03】[gluon-framework / gluon](https://github.com/gluon-framework/gluon) - A framework for creating "desktop apps" from websites, using system installed browsers (not webviews) and NodeJS
 * 【2023-01-03】[SeifElsallamy / Blind-XSS-Manager](https://github.com/SeifElsallamy/Blind-XSS-Manager) - Never forget where you inject.
@@ -962,6 +974,12 @@
 
 ## C++
 
+* 【2023-01-06】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
+* 【2023-01-06】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡I2P: End-to-End encrypted and anonymous Internet
+* 【2023-01-06】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
+* 【2023-01-06】[triton-inference-server / client](https://github.com/triton-inference-server/client) - Triton Python, C++ and Java client libraries, and GRPC-generated client examples for go, java and scala.
+* 【2023-01-06】[7oSkaaa / LeetCode_DailyChallenge_2023](https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023) - LeetCode Daily Challenge Solutions
+* 【2023-01-06】[borglab / gtsam](https://github.com/borglab/gtsam) - GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 * 【2023-01-05】[estimated1337 / lenovo_mapper](https://github.com/estimated1337/lenovo_mapper) - driver manual mapper powered by https://github.com/estimated1337/lenovo_exec
 * 【2023-01-04】[ambrosiogabe / MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 * 【2023-01-04】[sylikc / jpegview](https://github.com/sylikc/jpegview) - Fork of JPEGView by David Kleiner - fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI. Basic on-the-fly image processing is provided - allowing adjusting typical parameters as sharpness, color balance, rotation, perspective, contrast and local under-/overexposure.
@@ -1045,6 +1063,11 @@
 
 ## C#
 
+* 【2023-01-06】[waf / CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
+* 【2023-01-06】[dotnet / command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
+* 【2023-01-06】[microsoft / Recognizers-Text](https://github.com/microsoft/Recognizers-Text) - Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, and date/time expressed in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Contributions are greatly welcome! Packages are available at https://www.nuget.org/profiles/Recognizers.Text and https://www.npmjs.com/~recog…
+* 【2023-01-06】[Unity-Technologies / BoatAttack](https://github.com/Unity-Technologies/BoatAttack) - Demo Project using the Universal RP from Unity3D
+* 【2023-01-06】[AzureAD / azure-activedirectory-identitymodel-extensions-for-dotnet](https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet) - IdentityModel extensions for .Net
 * 【2023-01-05】[Kinnara / ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
 * 【2023-01-04】[Jinjinov / Ididit](https://github.com/Jinjinov/Ididit) - C# .NET 7 Blazor habit tracker application. Works on Web, Windows, Linux, Android, iOS and macOS.
 * 【2023-01-02】[Tichau / FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
@@ -1140,6 +1163,11 @@
 
 ## Html
 
+* 【2023-01-06】[TusharKesarwani / Front-End-Projects](https://github.com/TusharKesarwani/Front-End-Projects) - This is a Repository where different types of Front - End Projects are present. If you have any front end project then you can contribute to this open source repository.
+* 【2023-01-06】[vlievin / medical-reasoning](https://github.com/vlievin/medical-reasoning) - Medical reasoning using large language models
+* 【2023-01-06】[tc39 / proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
+* 【2023-01-06】[shuding / react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
+* 【2023-01-06】[kevquirk / startablog](https://github.com/kevquirk/startablog) - Repo for the startafuckingblog.com website
 * 【2023-01-05】[dibingfa / flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 * 【2023-01-05】[mjbommar / gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - GPT Takes the Bar Exam
 * 【2023-01-05】[Chr1skyy / egzamin-zawodowy-2](https://github.com/Chr1skyy/egzamin-zawodowy-2) - 
@@ -1231,6 +1259,9 @@
 
 ## Css
 
+* 【2023-01-06】[NEST-Protocol / NEST-Prize-WebApp](https://github.com/NEST-Protocol/NEST-Prize-WebApp) - WebApp for Telegram Bot
+* 【2023-01-06】[cocktailpeanut / breadboard](https://github.com/cocktailpeanut/breadboard) - Stablediffusion Image Management System
+* 【2023-01-06】[ton-community / ton-docs](https://github.com/ton-community/ton-docs) - User-friendly documentation for newcomers to the TON blockchain.
 * 【2023-01-05】[cuifengcn / wechat-video-generate](https://github.com/cuifengcn/wechat-video-generate) - 一键生成微信对话视频的工具
 * 【2023-01-05】[adf-telkomuniv / WGTIK_2021](https://github.com/adf-telkomuniv/WGTIK_2021) - Base code for personal website exercise for WGTIK 2021
 * 【2023-01-05】[supun-io / jekyll-theme-leaf](https://github.com/supun-io/jekyll-theme-leaf) - Leaf - Jekyll Theme
@@ -1345,6 +1376,11 @@
 
 ## Unknown
 
+* 【2023-01-06】[AdminTurnedDevOps / 100DaysOfContainersAndOrchestration](https://github.com/AdminTurnedDevOps/100DaysOfContainersAndOrchestration) - Your go-to open source repo to learn containers (Docker, Podman, etc.) and Orchestration (Kubernetes, ECS, etc.) from start to finish.
+* 【2023-01-06】[aws / aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
+* 【2023-01-06】[edgeroute / security-champion-framework](https://github.com/edgeroute/security-champion-framework) - The Security Champion Framework provides both a measuring stick and a roadmap generator for Champion Programs.
+* 【2023-01-06】[ujjwalkarn / Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+* 【2023-01-06】[dqxiu / ICL_PaperList](https://github.com/dqxiu/ICL_PaperList) - Paper List for In-context Learning🌷
 * 【2023-01-05】[polarisobfuscation / polaris-crypter-fud-bypassing-windows-defender-with-startup](https://github.com/polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup) - polaris crypter fud bypassing windows defender with startup
 * 【2023-01-05】[AammarTufail / python_ka_chilla2023](https://github.com/AammarTufail/python_ka_chilla2023) - This repository contains whole material of 40 days course on Python for Data Science in Urdu/Hindi 2023 Details are here: Registration details of our course is given here: https://www.facebook.com/groups/codanics/permalink/1837695129921140/. More details on the course can be found in this google form: https://forms.gle/kDyUnD1nrN2LF6qy8
 * 【2023-01-05】[hzlzh / Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
