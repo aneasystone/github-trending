@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2023-01-07】[midudev / kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos
+* 【2023-01-07】[recharts / recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
+* 【2023-01-07】[mouredev / hello-git](https://github.com/mouredev/hello-git) - Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
+* 【2023-01-07】[renovatebot / renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+* 【2023-01-07】[rust-lang / mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+* 【2023-01-07】[HarderThenHarder / transformers_tasks](https://github.com/HarderThenHarder/transformers_tasks) - NLP Algorithms with transformers lib. Supporting Text-Classification, Text-Generation, Information-Extraction, Text-Matching, RLHF etc.
 * 【2023-01-06】[sourcegraph / conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 * 【2023-01-06】[Ruzim / NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex) - 国家自然科学基金申请书正文（面上项目）模板（非官方）
 * 【2023-01-06】[paimonhub / Paimonnode](https://github.com/paimonhub/Paimonnode) - Free subcribe for everyone
@@ -228,6 +234,8 @@
 
 ## Java
 
+* 【2023-01-07】[wesleyegberto / java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+* 【2023-01-07】[LianjiaTech / retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot启动器，支持快速集成和功能增强）
 * 【2023-01-06】[ali-bouali / spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security) - 
 * 【2023-01-06】[stick-i / scblogs](https://github.com/stick-i/scblogs) - 🎉校园博客，基于微服务架构且前后端分离的博客社区系统。项目后端技术栈：SpringBoot + SpringCloud + Mybatis-Plus + Nacos + MySQL + Redis + MQ + ElasticSearch + Docker。前端主要是基于Vue2和ElementUI进行开发的。
 * 【2023-01-04】[fayechenlong / plumelog](https://github.com/fayechenlong/plumelog) - 一个java分布式日志组件，支持百亿级别，日志从搜集到查询，不用去文件中翻阅日志方便快捷，支持查询一个调用链的日志，支持链路追踪，查看调用链耗时情况，在分布式系统中也可以查询关联日志，能够帮助快速定位问题，简单易用，没有代码入侵，查询界面友好，高效，方便，只要你是java系统，不要做任何项目改造，接入直接使用，日志不落本地磁盘,演示视频地址：https://v.qq.com/x/page/g3308uxlcnw.html
@@ -348,6 +356,8 @@
 
 ## Python
 
+* 【2023-01-07】[FlareSolverr / FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+* 【2023-01-07】[tenable / ghidra_tools](https://github.com/tenable/ghidra_tools) - Ghidra-related tools and scripts open-sourced by Tenable.
 * 【2023-01-06】[wwong99 / pentest-notes](https://github.com/wwong99/pentest-notes) - 
 * 【2023-01-06】[facebookresearch / ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) - Code release for ConvNeXt V2 model
 * 【2023-01-06】[elastic / detection-rules](https://github.com/elastic/detection-rules) - Rules for Elastic Security's detection engine
@@ -580,6 +590,8 @@
 
 ## Javascript
 
+* 【2023-01-07】[auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
+* 【2023-01-07】[tabler / tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * 【2023-01-06】[typicode / husky](https://github.com/typicode/husky) - Git hooks made easy🐶woof!
 * 【2023-01-06】[Siriling / OpenWrt-GL.iNet-AXT1800](https://github.com/Siriling/OpenWrt-GL.iNet-AXT1800) - 使用 GitHub Actions 云编译 GL-AX1800 & GL-AXT1800 OpenWrt 固件
 * 【2023-01-04】[codigoencasa / bot-whatsapp](https://github.com/codigoencasa/bot-whatsapp) - Funcionando📅NOV 2022 / Trabajando en la V2 proximamente
@@ -771,6 +783,7 @@
 
 ## Go
 
+* 【2023-01-07】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 * 【2023-01-05】[sjkhsl / study_xxqg](https://github.com/sjkhsl/study_xxqg) - 
 * 【2023-01-04】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
 * 【2023-01-03】[crazy-max / diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -877,6 +890,10 @@
 
 ## C
 
+* 【2023-01-07】[vitoplantamura / BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
+* 【2023-01-07】[guolifu / evil-php](https://github.com/guolifu/evil-php) - If you're not afraid of bugs, you can enjoy it. evil-php
+* 【2023-01-07】[tpm2-software / tpm2-tss](https://github.com/tpm2-software/tpm2-tss) - OSS implementation of the TCG TPM2 Software Stack (TSS2)
+* 【2023-01-07】[NVISOsecurity / CobaltWhispers](https://github.com/NVISOsecurity/CobaltWhispers) - CobaltWhispers is an aggressor script that utilizes a collection of Beacon Object Files (BOF) for Cobalt Strike to perform process injection, persistence and more, leveraging direct syscalls (SysWhispers2) to bypass EDR/AV
 * 【2023-01-05】[skuep / AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 * 【2023-01-05】[kkos / oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 * 【2023-01-04】[jafarlihi / modreveal](https://github.com/jafarlihi/modreveal) - Utility to find hidden Linux kernel modules
@@ -974,6 +991,8 @@
 
 ## C++
 
+* 【2023-01-07】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
+* 【2023-01-07】[EmberGL-org / EmberGL](https://github.com/EmberGL-org/EmberGL) - EmberGL - 2D/3D graphics library featuring a tiled software rasterizer.
 * 【2023-01-06】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
 * 【2023-01-06】[PurpleI2P / i2pd](https://github.com/PurpleI2P/i2pd) - 🛡I2P: End-to-End encrypted and anonymous Internet
 * 【2023-01-06】[NVIDIA / nccl](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication
@@ -1063,6 +1082,9 @@
 
 ## C#
 
+* 【2023-01-07】[PintaProject / Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
+* 【2023-01-07】[FastReports / FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
+* 【2023-01-07】[npgsql / npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for PostgreSQL.
 * 【2023-01-06】[waf / CSharpRepl](https://github.com/waf/CSharpRepl) - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
 * 【2023-01-06】[dotnet / command-line-api](https://github.com/dotnet/command-line-api) - Command line parsing, invocation, and rendering of terminal output.
 * 【2023-01-06】[microsoft / Recognizers-Text](https://github.com/microsoft/Recognizers-Text) - Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, and date/time expressed in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Contributions are greatly welcome! Packages are available at https://www.nuget.org/profiles/Recognizers.Text and https://www.npmjs.com/~recog…
@@ -1163,6 +1185,7 @@
 
 ## Html
 
+* 【2023-01-07】[sailboatui / sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 * 【2023-01-06】[TusharKesarwani / Front-End-Projects](https://github.com/TusharKesarwani/Front-End-Projects) - This is a Repository where different types of Front - End Projects are present. If you have any front end project then you can contribute to this open source repository.
 * 【2023-01-06】[vlievin / medical-reasoning](https://github.com/vlievin/medical-reasoning) - Medical reasoning using large language models
 * 【2023-01-06】[tc39 / proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
@@ -1259,6 +1282,8 @@
 
 ## Css
 
+* 【2023-01-07】[nandomoreirame / criando-um-site-profissional](https://github.com/nandomoreirame/criando-um-site-profissional) - Arquivos das vídeo aulas - "Criando um site profissional e completo"
+* 【2023-01-07】[GSRHackZ / EdgyBot_Edgenuity_Bot](https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot) - EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities, it unlocks brainly and auto searches
 * 【2023-01-06】[NEST-Protocol / NEST-Prize-WebApp](https://github.com/NEST-Protocol/NEST-Prize-WebApp) - WebApp for Telegram Bot
 * 【2023-01-06】[cocktailpeanut / breadboard](https://github.com/cocktailpeanut/breadboard) - Stablediffusion Image Management System
 * 【2023-01-06】[ton-community / ton-docs](https://github.com/ton-community/ton-docs) - User-friendly documentation for newcomers to the TON blockchain.
@@ -1376,6 +1401,13 @@
 
 ## Unknown
 
+* 【2023-01-07】[shadcn / ui](https://github.com/shadcn/ui) - UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.
+* 【2023-01-07】[mgramin / awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
+* 【2023-01-07】[distributethe6ix / 70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh) - Inspired by Michael Cades' #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh.
+* 【2023-01-07】[dotdc / grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
+* 【2023-01-07】[ProgrammingHero1 / portfolio-resources](https://github.com/ProgrammingHero1/portfolio-resources) - 
+* 【2023-01-07】[ARPSyndicate / awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+* 【2023-01-07】[ros2 / ros2](https://github.com/ros2/ros2) - The Robot Operating System, is a meta operating system for robots.
 * 【2023-01-06】[AdminTurnedDevOps / 100DaysOfContainersAndOrchestration](https://github.com/AdminTurnedDevOps/100DaysOfContainersAndOrchestration) - Your go-to open source repo to learn containers (Docker, Podman, etc.) and Orchestration (Kubernetes, ECS, etc.) from start to finish.
 * 【2023-01-06】[aws / aws-sdk-cpp](https://github.com/aws/aws-sdk-cpp) - AWS SDK for C++
 * 【2023-01-06】[edgeroute / security-champion-framework](https://github.com/edgeroute/security-champion-framework) - The Security Champion Framework provides both a measuring stick and a roadmap generator for Champion Programs.
