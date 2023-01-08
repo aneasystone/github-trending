@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-08】[WhatsApp / proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)
+* 【2023-01-08】[book-searcher-org / book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
+* 【2023-01-08】[lxgw / LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
+* 【2023-01-08】[MLNLP-World / NLP-Course-Chinese](https://github.com/MLNLP-World/NLP-Course-Chinese) - MLNLP社区翻译的NLP入门课程。
 * 【2023-01-07】[midudev / kings-league-project](https://github.com/midudev/kings-league-project) - API y website de la Kings League Infojobs por temas didácticos
 * 【2023-01-07】[recharts / recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 * 【2023-01-07】[mouredev / hello-git](https://github.com/mouredev/hello-git) - Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
@@ -42,6 +46,8 @@
 
 ## Java
 
+* 【2023-01-08】[ponfee / distributed-scheduler](https://github.com/ponfee/distributed-scheduler) - A distributed job scheduler framework
+* 【2023-01-08】[ReLive27 / spring-security-oauth2-sample](https://github.com/ReLive27/spring-security-oauth2-sample) - This module is based on Spring Authorization Server and contains information on using Spring Security OAuth2
 * 【2023-01-07】[wesleyegberto / java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
 * 【2023-01-07】[LianjiaTech / retrofit-spring-boot-starter](https://github.com/LianjiaTech/retrofit-spring-boot-starter) - A spring-boot starter for retrofit, supports rapid integration and feature enhancements.（适用于retrofit的spring-boot启动器，支持快速集成和功能增强）
 * 【2023-01-06】[ali-bouali / spring-boot-3-jwt-security](https://github.com/ali-bouali/spring-boot-3-jwt-security) - 
@@ -58,6 +64,9 @@
 
 ## Python
 
+* 【2023-01-08】[Owez / yark](https://github.com/Owez/yark) - YouTube archiving made simple
+* 【2023-01-08】[lucidrains / muse-maskgit-pytorch](https://github.com/lucidrains/muse-maskgit-pytorch) - Implementation of Muse: Text-to-Image Generation via Masked Generative Transformers, in Pytorch
+* 【2023-01-08】[cuifengcn / TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
 * 【2023-01-07】[FlareSolverr / FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 * 【2023-01-07】[tenable / ghidra_tools](https://github.com/tenable/ghidra_tools) - Ghidra-related tools and scripts open-sourced by Tenable.
 * 【2023-01-06】[wwong99 / pentest-notes](https://github.com/wwong99/pentest-notes) - 
@@ -87,6 +96,8 @@
 
 ## Javascript
 
+* 【2023-01-08】[eguatech / egua](https://github.com/eguatech/egua) - Linguagem de programação em português, simples e moderna
+* 【2023-01-08】[upgundecha / howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 * 【2023-01-07】[auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
 * 【2023-01-07】[tabler / tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * 【2023-01-06】[typicode / husky](https://github.com/typicode/husky) - Git hooks made easy🐶woof!
@@ -143,6 +154,7 @@
 
 ## C++
 
+* 【2023-01-08】[valhalla / valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 * 【2023-01-07】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
 * 【2023-01-07】[EmberGL-org / EmberGL](https://github.com/EmberGL-org/EmberGL) - EmberGL - 2D/3D graphics library featuring a tiled software rasterizer.
 * 【2023-01-06】[ComodoSecurity / openedr](https://github.com/ComodoSecurity/openedr) - Open EDR public repository
@@ -167,6 +179,7 @@
 
 ## C#
 
+* 【2023-01-08】[dankrusi / WindowsVirtualDesktopHelper](https://github.com/dankrusi/WindowsVirtualDesktopHelper) - App to help manage Virtual Desktops for Windows 10 and Windows 11
 * 【2023-01-07】[PintaProject / Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 * 【2023-01-07】[FastReports / FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
 * 【2023-01-07】[npgsql / npgsql](https://github.com/npgsql/npgsql) - Npgsql is the .NET data provider for PostgreSQL.
@@ -185,6 +198,7 @@
 
 ## Html
 
+* 【2023-01-08】[AndrewRathbun / DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) - The goal of this repo is to archive artifacts from all versions of various OS's and categorizing them by type. This will help with artifact validation processes as well as increase access to artifacts that may no longer be readily available anymore.
 * 【2023-01-07】[sailboatui / sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 * 【2023-01-06】[TusharKesarwani / Front-End-Projects](https://github.com/TusharKesarwani/Front-End-Projects) - This is a Repository where different types of Front - End Projects are present. If you have any front end project then you can contribute to this open source repository.
 * 【2023-01-06】[vlievin / medical-reasoning](https://github.com/vlievin/medical-reasoning) - Medical reasoning using large language models
@@ -204,6 +218,9 @@
 
 ## Css
 
+* 【2023-01-08】[neatnik / omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
+* 【2023-01-08】[NghiepCoder16 / NghiepCoder16](https://github.com/NghiepCoder16/NghiepCoder16) - Config files for my GitHub profile.
+* 【2023-01-08】[GameGodS3 / DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
 * 【2023-01-07】[nandomoreirame / criando-um-site-profissional](https://github.com/nandomoreirame/criando-um-site-profissional) - Arquivos das vídeo aulas - "Criando um site profissional e completo"
 * 【2023-01-07】[GSRHackZ / EdgyBot_Edgenuity_Bot](https://github.com/GSRHackZ/EdgyBot_Edgenuity_Bot) - EdgyBot: A partially AFK Edgenuity Bot brought to you by EdgePlus+. Works on many activities offered by Edgenuity. The bot's main purpose is to progress a user through the course time line while they do other non Edgenuity related tasks. It does all non graded activities (By itself) & for the graded activities, it unlocks brainly and auto searches
 * 【2023-01-06】[NEST-Protocol / NEST-Prize-WebApp](https://github.com/NEST-Protocol/NEST-Prize-WebApp) - WebApp for Telegram Bot
@@ -218,6 +235,9 @@
 
 ## Unknown
 
+* 【2023-01-08】[harendra-shakya / smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
+* 【2023-01-08】[pashov / audits](https://github.com/pashov/audits) - 
+* 【2023-01-08】[Vetoyi / CN_Patch.RenPy_Games](https://github.com/Vetoyi/CN_Patch.RenPy_Games) - (Steam/Itch.io欧美正版黄油汉化补丁合集) 仅针对以Ren'Py引擎开发的视觉小说游戏
 * 【2023-01-07】[shadcn / ui](https://github.com/shadcn/ui) - UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.
 * 【2023-01-07】[mgramin / awesome-db-tools](https://github.com/mgramin/awesome-db-tools) - Everything that makes working with databases easier
 * 【2023-01-07】[distributethe6ix / 70DaysOfServiceMesh](https://github.com/distributethe6ix/70DaysOfServiceMesh) - Inspired by Michael Cades' #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh.
