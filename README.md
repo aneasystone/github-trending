@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-01-09】[ProgrammingHero1 / new-year-new-me](https://github.com/ProgrammingHero1/new-year-new-me) - 
+* 【2023-01-09】[komeilmehranfar / visa-sponsers-companies-for-iranians](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) - 
+* 【2023-01-09】[ACM-Alexandria-SC / Internships](https://github.com/ACM-Alexandria-SC/Internships) - 
+* 【2023-01-09】[emilk / egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+* 【2023-01-09】[weak1337 / Alcatraz](https://github.com/weak1337/Alcatraz) - x64 binary obfuscator
 * 【2023-01-08】[WhatsApp / proxy](https://github.com/WhatsApp/proxy) - This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)
 * 【2023-01-08】[book-searcher-org / book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 * 【2023-01-08】[lxgw / LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei) - A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAexゴシック」的中文黑体字型。
@@ -46,6 +51,11 @@
 
 ## Java
 
+* 【2023-01-09】[ponfee / commons-core](https://github.com/ponfee/commons-core) - A commons java tool lib
+* 【2023-01-09】[Slimefun / Slimefun4](https://github.com/Slimefun/Slimefun4) - Slimefun 4 - A unique Spigot/Paper plugin that looks and feels like a modpack. We've been giving you backpacks, jetpacks, reactors and much more since 2013.
+* 【2023-01-09】[wildfly / wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
+* 【2023-01-09】[ballcat-projects / ballcat](https://github.com/ballcat-projects/ballcat) - 😸一个快速开发脚手架，快速搭建企业级后台管理系统，并提供多种便捷starter进行功能扩展。主要功能包括前后台用户分离，菜单权限，数据权限，定时任务，访问日志，操作日志，异常日志，统一异常处理，XSS过滤，SQL防注入，国际化 等多种功能
+* 【2023-01-09】[zccbbg / wms-ruoyi](https://github.com/zccbbg/wms-ruoyi) - 若依wms是一套基于若依的wms仓库管理系统，支持lodop和网页打印入库单、出库单。包括仓库/库区/货架管理，出入库管理，客户/供应商/承运商，库存看板、库存记录等功能。
 * 【2023-01-08】[ponfee / distributed-scheduler](https://github.com/ponfee/distributed-scheduler) - A distributed job scheduler framework
 * 【2023-01-08】[ReLive27 / spring-security-oauth2-sample](https://github.com/ReLive27/spring-security-oauth2-sample) - This module is based on Spring Authorization Server and contains information on using Spring Security OAuth2
 * 【2023-01-07】[wesleyegberto / java-new-features](https://github.com/wesleyegberto/java-new-features) - Exploring Java 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
@@ -64,6 +74,10 @@
 
 ## Python
 
+* 【2023-01-09】[sezanzeb / input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮⌨An easy to use tool to change the behaviour of your input devices.
+* 【2023-01-09】[hishizuka / pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
+* 【2023-01-09】[naksyn / PythonMemoryModule](https://github.com/naksyn/PythonMemoryModule) - pure-python implementation of MemoryModule technique to load a dll entirely from memory
+* 【2023-01-09】[KMKfw / kmk_firmware](https://github.com/KMKfw/kmk_firmware) - Clackety Keyboards Powered by Python
 * 【2023-01-08】[Owez / yark](https://github.com/Owez/yark) - YouTube archiving made simple
 * 【2023-01-08】[lucidrains / muse-maskgit-pytorch](https://github.com/lucidrains/muse-maskgit-pytorch) - Implementation of Muse: Text-to-Image Generation via Masked Generative Transformers, in Pytorch
 * 【2023-01-08】[cuifengcn / TAICHI-flet](https://github.com/cuifengcn/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了爬取图片、音乐、小说、磁力链接的功能。
@@ -96,6 +110,11 @@
 
 ## Javascript
 
+* 【2023-01-09】[buildspace / buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
+* 【2023-01-09】[miroslavpejic85 / mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) - 🛠A self-hosted MiroTalk's WebRTC rooms scheduler server.
+* 【2023-01-09】[jucasoliveira / terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
+* 【2023-01-09】[4ian / GDevelop](https://github.com/4ian/GDevelop) - 🎮Open-source, cross-platform game engine designed to be used by everyone.
+* 【2023-01-09】[Tablane / tablane](https://github.com/Tablane/tablane) - Tablane is a workspace that adapts to your needs. It's as minimal or as powerful as you need it to be.
 * 【2023-01-08】[eguatech / egua](https://github.com/eguatech/egua) - Linguagem de programação em português, simples e moderna
 * 【2023-01-08】[upgundecha / howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 * 【2023-01-07】[auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
@@ -119,6 +138,10 @@
 
 ## Go
 
+* 【2023-01-09】[AdguardTeam / dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+* 【2023-01-09】[slimtoolkit / slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* 【2023-01-09】[yaocccc / bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui) - 终端下使用的bilibili弹幕获取和弹幕发送服务
+* 【2023-01-09】[yzbtdiy / alist_batch](https://github.com/yzbtdiy/alist_batch) - Alist批量添加阿里云盘链接Golang版本
 * 【2023-01-07】[nsqio / nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 * 【2023-01-05】[sjkhsl / study_xxqg](https://github.com/sjkhsl/study_xxqg) - 
 * 【2023-01-04】[yuin / goldmark](https://github.com/yuin/goldmark) - 🏆A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.
@@ -154,6 +177,9 @@
 
 ## C++
 
+* 【2023-01-09】[albertlauncher / albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+* 【2023-01-09】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
+* 【2023-01-09】[Snapchat / KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 * 【2023-01-08】[valhalla / valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 * 【2023-01-07】[fmrico / book_ros2](https://github.com/fmrico/book_ros2) - 
 * 【2023-01-07】[EmberGL-org / EmberGL](https://github.com/EmberGL-org/EmberGL) - EmberGL - 2D/3D graphics library featuring a tiled software rasterizer.
@@ -179,6 +205,8 @@
 
 ## C#
 
+* 【2023-01-09】[LegacyGwent / LegacyGwent](https://github.com/LegacyGwent/LegacyGwent) - 复刻巫师之昆特牌的内测版本
+* 【2023-01-09】[p-org / P](https://github.com/p-org/P) - The P programming language.
 * 【2023-01-08】[dankrusi / WindowsVirtualDesktopHelper](https://github.com/dankrusi/WindowsVirtualDesktopHelper) - App to help manage Virtual Desktops for Windows 10 and Windows 11
 * 【2023-01-07】[PintaProject / Pinta](https://github.com/PintaProject/Pinta) - Simple GTK# Paint Program
 * 【2023-01-07】[FastReports / FastReport](https://github.com/FastReports/FastReport) - Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports
@@ -198,6 +226,8 @@
 
 ## Html
 
+* 【2023-01-09】[shd101wyy / markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+* 【2023-01-09】[htr-tech / zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 * 【2023-01-08】[AndrewRathbun / DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) - The goal of this repo is to archive artifacts from all versions of various OS's and categorizing them by type. This will help with artifact validation processes as well as increase access to artifacts that may no longer be readily available anymore.
 * 【2023-01-07】[sailboatui / sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 * 【2023-01-06】[TusharKesarwani / Front-End-Projects](https://github.com/TusharKesarwani/Front-End-Projects) - This is a Repository where different types of Front - End Projects are present. If you have any front end project then you can contribute to this open source repository.
@@ -218,6 +248,8 @@
 
 ## Css
 
+* 【2023-01-09】[zifaucode / cek-lulus](https://github.com/zifaucode/cek-lulus) - Website Cek kelulusan
+* 【2023-01-09】[foyer-work / Ooogle-it](https://github.com/foyer-work/Ooogle-it) - Open AI’s ChatGPT powered extension to use anywhere!
 * 【2023-01-08】[neatnik / omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
 * 【2023-01-08】[NghiepCoder16 / NghiepCoder16](https://github.com/NghiepCoder16/NghiepCoder16) - Config files for my GitHub profile.
 * 【2023-01-08】[GameGodS3 / DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
@@ -235,6 +267,8 @@
 
 ## Unknown
 
+* 【2023-01-09】[AndroidAudioMods / ViPER4Android](https://github.com/AndroidAudioMods/ViPER4Android) - ViPER4Android app configuration files
+* 【2023-01-09】[numanturle / CVE-2022-44877](https://github.com/numanturle/CVE-2022-44877) - 
 * 【2023-01-08】[harendra-shakya / smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
 * 【2023-01-08】[pashov / audits](https://github.com/pashov/audits) - 
 * 【2023-01-08】[Vetoyi / CN_Patch.RenPy_Games](https://github.com/Vetoyi/CN_Patch.RenPy_Games) - (Steam/Itch.io欧美正版黄油汉化补丁合集) 仅针对以Ren'Py引擎开发的视觉小说游戏
