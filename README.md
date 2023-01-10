@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-01-10】[pi-apps / PiOS](https://github.com/pi-apps/PiOS) - 
+* 【2023-01-10】[THUDM / GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model
+* 【2023-01-10】[krishnaik06 / 6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
+* 【2023-01-10】[VoronDesign / VoronUsers](https://github.com/VoronDesign/VoronUsers) - Voron Community mods, slicer profiles and firmware configurations.
+* 【2023-01-10】[zhuchunshu / super-forum](https://github.com/zhuchunshu/super-forum) - super-forum是一个php开发的论坛程序,Multifunctional Forum Program
 * 【2023-01-09】[ProgrammingHero1 / new-year-new-me](https://github.com/ProgrammingHero1/new-year-new-me) - 
 * 【2023-01-09】[komeilmehranfar / visa-sponsers-companies-for-iranians](https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians) - 
 * 【2023-01-09】[ACM-Alexandria-SC / Internships](https://github.com/ACM-Alexandria-SC/Internships) - 
@@ -51,6 +56,8 @@
 
 ## Java
 
+* 【2023-01-10】[CloudClientDev / cloudclient](https://github.com/CloudClientDev/cloudclient) - The source for Cloud Client
+* 【2023-01-10】[caoliang1918 / contact-center](https://github.com/caoliang1918/contact-center) - 智能呼叫中心平台 Intelligent Contact Center
 * 【2023-01-09】[ponfee / commons-core](https://github.com/ponfee/commons-core) - A commons java tool lib
 * 【2023-01-09】[Slimefun / Slimefun4](https://github.com/Slimefun/Slimefun4) - Slimefun 4 - A unique Spigot/Paper plugin that looks and feels like a modpack. We've been giving you backpacks, jetpacks, reactors and much more since 2013.
 * 【2023-01-09】[wildfly / wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
@@ -74,6 +81,9 @@
 
 ## Python
 
+* 【2023-01-10】[facebookresearch / hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
+* 【2023-01-10】[kohya-ss / sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) - 
+* 【2023-01-10】[talaexe / WhoDoesntFollowBackIG](https://github.com/talaexe/WhoDoesntFollowBackIG) - 
 * 【2023-01-09】[sezanzeb / input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮⌨An easy to use tool to change the behaviour of your input devices.
 * 【2023-01-09】[hishizuka / pizero_bikecomputer](https://github.com/hishizuka/pizero_bikecomputer) - An open source bike computer based on Raspberry Pi Zero (W, WH, 2W) with GPS and ANT+. Including offline map and navigation.
 * 【2023-01-09】[naksyn / PythonMemoryModule](https://github.com/naksyn/PythonMemoryModule) - pure-python implementation of MemoryModule technique to load a dll entirely from memory
@@ -110,6 +120,11 @@
 
 ## Javascript
 
+* 【2023-01-10】[soyHenry / fe-ct-prepcourse-fs](https://github.com/soyHenry/fe-ct-prepcourse-fs) - 
+* 【2023-01-10】[processing / p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
+* 【2023-01-10】[brentvollebregt / auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
+* 【2023-01-10】[UI-Lovelace-Minimalist / UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a "theme" for HomeAssistant
+* 【2023-01-10】[miroslavpejic85 / mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 4k and 60fps, compatible with all browsers and platforms.
 * 【2023-01-09】[buildspace / buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
 * 【2023-01-09】[miroslavpejic85 / mirotalkwebrtc](https://github.com/miroslavpejic85/mirotalkwebrtc) - 🛠A self-hosted MiroTalk's WebRTC rooms scheduler server.
 * 【2023-01-09】[jucasoliveira / terminalGPT](https://github.com/jucasoliveira/terminalGPT) - Get GPT like chatGPT on your terminal
@@ -138,6 +153,10 @@
 
 ## Go
 
+* 【2023-01-10】[kubernetes-sigs / kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
+* 【2023-01-10】[u-root / u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
+* 【2023-01-10】[reviewdog / reviewdog](https://github.com/reviewdog/reviewdog) - 🐶Automated code review tool integrated with any code analysis tools regardless of programming language
+* 【2023-01-10】[mvdan / sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 * 【2023-01-09】[AdguardTeam / dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 * 【2023-01-09】[slimtoolkit / slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * 【2023-01-09】[yaocccc / bilibili_live_tui](https://github.com/yaocccc/bilibili_live_tui) - 终端下使用的bilibili弹幕获取和弹幕发送服务
@@ -157,6 +176,8 @@
 
 ## C
 
+* 【2023-01-10】[Maldev-Academy / HellHall](https://github.com/Maldev-Academy/HellHall) - Performing Indirect Clean Syscalls
+* 【2023-01-10】[google / android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) - 
 * 【2023-01-07】[vitoplantamura / BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
 * 【2023-01-07】[guolifu / evil-php](https://github.com/guolifu/evil-php) - If you're not afraid of bugs, you can enjoy it. evil-php
 * 【2023-01-07】[tpm2-software / tpm2-tss](https://github.com/tpm2-software/tpm2-tss) - OSS implementation of the TCG TPM2 Software Stack (TSS2)
@@ -177,6 +198,8 @@
 
 ## C++
 
+* 【2023-01-10】[D1rkMtr / UnhookingPatch](https://github.com/D1rkMtr/UnhookingPatch) - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
+* 【2023-01-10】[HelloworldDk / dkmaiproj](https://github.com/HelloworldDk/dkmaiproj) - cheap maimai dx touch screen controller
 * 【2023-01-09】[albertlauncher / albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 * 【2023-01-09】[meshtastic / firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
 * 【2023-01-09】[Snapchat / KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
@@ -226,6 +249,8 @@
 
 ## Html
 
+* 【2023-01-10】[shyamtala003 / finance_dashboard](https://github.com/shyamtala003/finance_dashboard) - 🎊I designed Financial dashboard for bank using just Htm,Css and JavaScript🎉
+* 【2023-01-10】[anshuopinion / 10-Practice-Project-Html-CSS](https://github.com/anshuopinion/10-Practice-Project-Html-CSS) - HTML CSS 10 PRACTICE PROJECT Project that we are going to build in this complete practice course Project 1 - Tribute Website Project 2 - Job Application Project 3 - Parallax Wesbite Project 4 - Landing Page Project 5 - Restaurant Website Project 6 - Music Website Project 7 - Youtube Clone Project 8 - Javascript Documentation Project 9 - Blog Wes…
 * 【2023-01-09】[shd101wyy / markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 * 【2023-01-09】[htr-tech / zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 * 【2023-01-08】[AndrewRathbun / DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum) - The goal of this repo is to archive artifacts from all versions of various OS's and categorizing them by type. This will help with artifact validation processes as well as increase access to artifacts that may no longer be readily available anymore.
@@ -267,6 +292,11 @@
 
 ## Unknown
 
+* 【2023-01-10】[JuanCrg90 / Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
+* 【2023-01-10】[VoronDesign / Voron-0](https://github.com/VoronDesign/Voron-0) - Voron 0 CoreXY 3D Printer design
+* 【2023-01-10】[ThinamXx / MachineLearning_DeepLearning](https://github.com/ThinamXx/MachineLearning_DeepLearning) - I will share about Machine Learning and Deep Learning.
+* 【2023-01-10】[BSData / wh40k](https://github.com/BSData/wh40k) - Warhammer 40,000
+* 【2023-01-10】[Abdess / retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 * 【2023-01-09】[AndroidAudioMods / ViPER4Android](https://github.com/AndroidAudioMods/ViPER4Android) - ViPER4Android app configuration files
 * 【2023-01-09】[numanturle / CVE-2022-44877](https://github.com/numanturle/CVE-2022-44877) - 
 * 【2023-01-08】[harendra-shakya / smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
