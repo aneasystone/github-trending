@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-11】[google / cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
+* 【2023-01-11】[fastlane / fastlane](https://github.com/fastlane/fastlane) - 🚀The easiest way to automate building and releasing your iOS and Android apps
+* 【2023-01-11】[wiidev / usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
 * 【2023-01-10】[pi-apps / PiOS](https://github.com/pi-apps/PiOS) - 
 * 【2023-01-10】[THUDM / GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model
 * 【2023-01-10】[krishnaik06 / 6-Months-Data-Science-Roadmap-](https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-) - 
@@ -81,6 +84,8 @@
 
 ## Python
 
+* 【2023-01-11】[statsmodels / statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+* 【2023-01-11】[jwcesign / kubespider](https://github.com/jwcesign/kubespider) - A unified downloading orchestration system, save your time and enjoy your life.
 * 【2023-01-10】[facebookresearch / hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
 * 【2023-01-10】[kohya-ss / sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks) - 
 * 【2023-01-10】[talaexe / WhoDoesntFollowBackIG](https://github.com/talaexe/WhoDoesntFollowBackIG) - 
@@ -120,6 +125,9 @@
 
 ## Javascript
 
+* 【2023-01-11】[michalsnik / aos](https://github.com/michalsnik/aos) - Animate on scroll library
+* 【2023-01-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
+* 【2023-01-11】[zdhenard42 / SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool) - A free and open source tool to aid in SOC investigations!
 * 【2023-01-10】[soyHenry / fe-ct-prepcourse-fs](https://github.com/soyHenry/fe-ct-prepcourse-fs) - 
 * 【2023-01-10】[processing / p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —
 * 【2023-01-10】[brentvollebregt / auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe) - Converts .py to .exe using a simple graphical interface
@@ -153,6 +161,9 @@
 
 ## Go
 
+* 【2023-01-11】[google / cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
+* 【2023-01-11】[utkusen / socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
+* 【2023-01-11】[kubernetes-csi / csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) - This driver allows Kubernetes to access NFS server on Linux node.
 * 【2023-01-10】[kubernetes-sigs / kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
 * 【2023-01-10】[u-root / u-root](https://github.com/u-root/u-root) - A fully Go userland with Linux bootloaders! u-root can create a one-binary root file system (initramfs) containing a busybox-like set of tools written in Go.
 * 【2023-01-10】[reviewdog / reviewdog](https://github.com/reviewdog/reviewdog) - 🐶Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -176,6 +187,9 @@
 
 ## C
 
+* 【2023-01-11】[mightymos / ReedTripRadio](https://github.com/mightymos/ReedTripRadio) - Alternative firmware for wireless 433MHz door/window reed sensors triggered by magnetic contacts.
+* 【2023-01-11】[nomi-san / league-loader](https://github.com/nomi-san/league-loader) - 🌈Customize your League Client with JavaScript plugins & explore Hextech UI with DevTools!
+* 【2023-01-11】[Mzzopublic / C](https://github.com/Mzzopublic/C) - C语言
 * 【2023-01-10】[Maldev-Academy / HellHall](https://github.com/Maldev-Academy/HellHall) - Performing Indirect Clean Syscalls
 * 【2023-01-10】[google / android-emulator-hypervisor-driver](https://github.com/google/android-emulator-hypervisor-driver) - 
 * 【2023-01-07】[vitoplantamura / BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11
@@ -198,6 +212,9 @@
 
 ## C++
 
+* 【2023-01-11】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
+* 【2023-01-11】[D1rkMtr / FilelessNtdllReflection](https://github.com/D1rkMtr/FilelessNtdllReflection) - Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll, and trigger exported API from the export table
+* 【2023-01-11】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
 * 【2023-01-10】[D1rkMtr / UnhookingPatch](https://github.com/D1rkMtr/UnhookingPatch) - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
 * 【2023-01-10】[HelloworldDk / dkmaiproj](https://github.com/HelloworldDk/dkmaiproj) - cheap maimai dx touch screen controller
 * 【2023-01-09】[albertlauncher / albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -228,6 +245,10 @@
 
 ## C#
 
+* 【2023-01-11】[LabsCheats / LabsCheats-EFT-Legend-Cheat](https://github.com/LabsCheats/LabsCheats-EFT-Legend-Cheat) - A kernel made cheat from previous wipe that we have now outdated, hence why we released the source code online. For educational purposes only.
+* 【2023-01-11】[JasperFx / marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
+* 【2023-01-11】[CodeMazeBlog / CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
+* 【2023-01-11】[Valkirie / HandheldCompanion](https://github.com/Valkirie/HandheldCompanion) - ControllerService
 * 【2023-01-09】[LegacyGwent / LegacyGwent](https://github.com/LegacyGwent/LegacyGwent) - 复刻巫师之昆特牌的内测版本
 * 【2023-01-09】[p-org / P](https://github.com/p-org/P) - The P programming language.
 * 【2023-01-08】[dankrusi / WindowsVirtualDesktopHelper](https://github.com/dankrusi/WindowsVirtualDesktopHelper) - App to help manage Virtual Desktops for Windows 10 and Windows 11
@@ -249,6 +270,7 @@
 
 ## Html
 
+* 【2023-01-11】[hemansnation / Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 * 【2023-01-10】[shyamtala003 / finance_dashboard](https://github.com/shyamtala003/finance_dashboard) - 🎊I designed Financial dashboard for bank using just Htm,Css and JavaScript🎉
 * 【2023-01-10】[anshuopinion / 10-Practice-Project-Html-CSS](https://github.com/anshuopinion/10-Practice-Project-Html-CSS) - HTML CSS 10 PRACTICE PROJECT Project that we are going to build in this complete practice course Project 1 - Tribute Website Project 2 - Job Application Project 3 - Parallax Wesbite Project 4 - Landing Page Project 5 - Restaurant Website Project 6 - Music Website Project 7 - Youtube Clone Project 8 - Javascript Documentation Project 9 - Blog Wes…
 * 【2023-01-09】[shd101wyy / markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
@@ -273,6 +295,11 @@
 
 ## Css
 
+* 【2023-01-11】[JeswinSunsi / PentyDesktopAssistant](https://github.com/JeswinSunsi/PentyDesktopAssistant) - A proof-of-concept for Eel, the cross platform Python - JavaScript GUI designer
+* 【2023-01-11】[Comfy-Themes / Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
+* 【2023-01-11】[astrosites / template](https://github.com/astrosites/template) - 
+* 【2023-01-11】[AuroraEditor / auroraeditor.com](https://github.com/AuroraEditor/auroraeditor.com) - Aurora Website
+* 【2023-01-11】[maretaayu / undangan-nikah](https://github.com/maretaayu/undangan-nikah) - 
 * 【2023-01-09】[zifaucode / cek-lulus](https://github.com/zifaucode/cek-lulus) - Website Cek kelulusan
 * 【2023-01-09】[foyer-work / Ooogle-it](https://github.com/foyer-work/Ooogle-it) - Open AI’s ChatGPT powered extension to use anywhere!
 * 【2023-01-08】[neatnik / omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol
@@ -292,6 +319,13 @@
 
 ## Unknown
 
+* 【2023-01-11】[SHARENERGY-OFICIAL / desafio-sharenergy-2023-01](https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01) - Repositório destinado aos interessados em participar do processo seletivo da SHARENERGY 2023/01. As vagas são voltadas para desenvolvimento de aplicações Web e Mobile.
+* 【2023-01-11】[remzi-arpacidusseau / ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute!
+* 【2023-01-11】[morrownr / USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
+* 【2023-01-11】[cs-course / data-center-course-assignment-2022](https://github.com/cs-course/data-center-course-assignment-2022) - 
+* 【2023-01-11】[LGBT-CN / LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈中国的性少数群体一直渴望着自由平等
+* 【2023-01-11】[2002XiaoYu / Latest-front-end-Notes](https://github.com/2002XiaoYu/Latest-front-end-Notes) - 这是来自小余的编程学习之路笔记
+* 【2023-01-11】[ljinkai / weekly](https://github.com/ljinkai/weekly) - 独立开发产品变现周刊，每周五发布。
 * 【2023-01-10】[JuanCrg90 / Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 * 【2023-01-10】[VoronDesign / Voron-0](https://github.com/VoronDesign/Voron-0) - Voron 0 CoreXY 3D Printer design
 * 【2023-01-10】[ThinamXx / MachineLearning_DeepLearning](https://github.com/ThinamXx/MachineLearning_DeepLearning) - I will share about Machine Learning and Deep Learning.
