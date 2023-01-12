@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2023-01-12】[amitshekhariitbhu / go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+* 【2023-01-12】[pointfreeco / swift-dependencies](https://github.com/pointfreeco/swift-dependencies) - A dependency management library inspired by SwiftUI's "environment."
+* 【2023-01-12】[matteozappia / DynamicCow](https://github.com/matteozappia/DynamicCow) - Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.
+* 【2023-01-12】[the-teacher / rails7-startkit](https://github.com/the-teacher/rails7-startkit) - Rails7 StartKit. Launch App in minutes!
+* 【2023-01-12】[HydroniumLabs / h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
+* 【2023-01-12】[Nutlope / restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
+* 【2023-01-12】[rails / mrsk](https://github.com/rails/mrsk) - Deploy Docker containers with zero downtime to any host
+* 【2023-01-12】[aws-ia / terraform-aws-eks-blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) - Configure and deploy complete EKS clusters.
+* 【2023-01-12】[nshen / learn-neovim-lua](https://github.com/nshen/learn-neovim-lua) - Neovim 配置实战：从 0 到 1 打造自己的 IDE
 * 【2023-01-11】[google / cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
 * 【2023-01-11】[fastlane / fastlane](https://github.com/fastlane/fastlane) - 🚀The easiest way to automate building and releasing your iOS and Android apps
 * 【2023-01-11】[wiidev / usbloadergx](https://github.com/wiidev/usbloadergx) - This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.
@@ -84,6 +93,9 @@
 
 ## Python
 
+* 【2023-01-12】[triple-Mu / YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
+* 【2023-01-12】[cosmicpb / FascistFree](https://github.com/cosmicpb/FascistFree) - 
+* 【2023-01-12】[oegedijk / explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
 * 【2023-01-11】[statsmodels / statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
 * 【2023-01-11】[jwcesign / kubespider](https://github.com/jwcesign/kubespider) - A unified downloading orchestration system, save your time and enjoy your life.
 * 【2023-01-10】[facebookresearch / hyperreel](https://github.com/facebookresearch/hyperreel) - Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
@@ -125,6 +137,10 @@
 
 ## Javascript
 
+* 【2023-01-12】[shobrook / adrenaline](https://github.com/shobrook/adrenaline) - An AI-powered debugger
+* 【2023-01-12】[changcheng1 / miniReact_v17](https://github.com/changcheng1/miniReact_v17) - 精简版React实现，包含逐行注释(未实现classComponent)
+* 【2023-01-12】[GoogleCloudPlatform / nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
+* 【2023-01-12】[MuiseDestiny / zotero-style](https://github.com/MuiseDestiny/zotero-style) - 一个随便写写的Zotero插件
 * 【2023-01-11】[michalsnik / aos](https://github.com/michalsnik/aos) - Animate on scroll library
 * 【2023-01-11】[react-grid-layout / react-draggable](https://github.com/react-grid-layout/react-draggable) - React draggable component
 * 【2023-01-11】[zdhenard42 / SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool) - A free and open source tool to aid in SOC investigations!
@@ -187,6 +203,11 @@
 
 ## C
 
+* 【2023-01-12】[s0duku / cve-2022-31705](https://github.com/s0duku/cve-2022-31705) - CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC
+* 【2023-01-12】[groundcover-com / caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
+* 【2023-01-12】[vvaltchev / tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
+* 【2023-01-12】[armink / SFUD](https://github.com/armink/SFUD) - An using JEDEC's SFDP standard serial (SPI) flash universal driver library | 一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
+* 【2023-01-12】[OpenCloudOS / nettrace](https://github.com/OpenCloudOS/nettrace) - nettrace is a eBPF-based tool to trace network packet and diagnose network problem.
 * 【2023-01-11】[mightymos / ReedTripRadio](https://github.com/mightymos/ReedTripRadio) - Alternative firmware for wireless 433MHz door/window reed sensors triggered by magnetic contacts.
 * 【2023-01-11】[nomi-san / league-loader](https://github.com/nomi-san/league-loader) - 🌈Customize your League Client with JavaScript plugins & explore Hextech UI with DevTools!
 * 【2023-01-11】[Mzzopublic / C](https://github.com/Mzzopublic/C) - C语言
@@ -212,6 +233,11 @@
 
 ## C++
 
+* 【2023-01-12】[Linaom1214 / TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support
+* 【2023-01-12】[facebook / hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
+* 【2023-01-12】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
+* 【2023-01-12】[Dwarf-Therapist / Dwarf-Therapist](https://github.com/Dwarf-Therapist/Dwarf-Therapist) - Dwarf management tool for Dwarf Fortress
+* 【2023-01-12】[openmultiplayer / open.mp](https://github.com/openmultiplayer/open.mp) - 
 * 【2023-01-11】[sebastianstarke / AI4Animation](https://github.com/sebastianstarke/AI4Animation) - Bringing Characters to Life with Computer Brains in Unity
 * 【2023-01-11】[D1rkMtr / FilelessNtdllReflection](https://github.com/D1rkMtr/FilelessNtdllReflection) - Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll, and trigger exported API from the export table
 * 【2023-01-11】[tstack / lnav](https://github.com/tstack/lnav) - Log file navigator
@@ -270,6 +296,7 @@
 
 ## Html
 
+* 【2023-01-12】[matcornic / hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 * 【2023-01-11】[hemansnation / Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 * 【2023-01-10】[shyamtala003 / finance_dashboard](https://github.com/shyamtala003/finance_dashboard) - 🎊I designed Financial dashboard for bank using just Htm,Css and JavaScript🎉
 * 【2023-01-10】[anshuopinion / 10-Practice-Project-Html-CSS](https://github.com/anshuopinion/10-Practice-Project-Html-CSS) - HTML CSS 10 PRACTICE PROJECT Project that we are going to build in this complete practice course Project 1 - Tribute Website Project 2 - Job Application Project 3 - Parallax Wesbite Project 4 - Landing Page Project 5 - Restaurant Website Project 6 - Music Website Project 7 - Youtube Clone Project 8 - Javascript Documentation Project 9 - Blog Wes…
@@ -295,6 +322,11 @@
 
 ## Css
 
+* 【2023-01-12】[allamo123 / laravel-grapes](https://github.com/allamo123/laravel-grapes) - Laravel Grapes is a library for laravel framework, that offer cms drag and drop page builder for frontend which support all Laravel functionality and help user to change all frontend and content just in simple clicks.
+* 【2023-01-12】[codestates-seb / seb41_main_028](https://github.com/codestates-seb/seb41_main_028) - 
+* 【2023-01-12】[dr-r3d / creativehometuition](https://github.com/dr-r3d/creativehometuition) - 
+* 【2023-01-12】[WebComponentsGuide / webcomponents.guide](https://github.com/WebComponentsGuide/webcomponents.guide) - Supercharge your Web Platform knowledge
+* 【2023-01-12】[elenapan / dotfiles](https://github.com/elenapan/dotfiles) - There is no place like ~/
 * 【2023-01-11】[JeswinSunsi / PentyDesktopAssistant](https://github.com/JeswinSunsi/PentyDesktopAssistant) - A proof-of-concept for Eel, the cross platform Python - JavaScript GUI designer
 * 【2023-01-11】[Comfy-Themes / Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
 * 【2023-01-11】[astrosites / template](https://github.com/astrosites/template) - 
@@ -319,6 +351,10 @@
 
 ## Unknown
 
+* 【2023-01-12】[LDNOOBW / List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
+* 【2023-01-12】[hsiangfeng / README-Example-Template](https://github.com/hsiangfeng/README-Example-Template) - README 撰寫範本
+* 【2023-01-12】[GuidoPenta / galactic-CV-guide](https://github.com/GuidoPenta/galactic-CV-guide) - Tips & Tricks to write a great CV
+* 【2023-01-12】[David-Summers / Azure-Design](https://github.com/David-Summers/Azure-Design) - My Azure stencil collection for Visio. Highly functional and always up to date.
 * 【2023-01-11】[SHARENERGY-OFICIAL / desafio-sharenergy-2023-01](https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01) - Repositório destinado aos interessados em participar do processo seletivo da SHARENERGY 2023/01. As vagas são voltadas para desenvolvimento de aplicações Web e Mobile.
 * 【2023-01-11】[remzi-arpacidusseau / ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute!
 * 【2023-01-11】[morrownr / USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
