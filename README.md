@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-01-13】[ultralytics / ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8🚀in PyTorch > ONNX > CoreML > TFLite
+* 【2023-01-13】[tallyhowallet / extension](https://github.com/tallyhowallet/extension) - Tally Ho, the community owned and operated Web3 wallet.
+* 【2023-01-13】[tweedegolf / 101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
+* 【2023-01-13】[Bssn520 / AnimationAutoUpdate](https://github.com/Bssn520/AnimationAutoUpdate) - 🤪动漫、电视剧的自动更新及在线观看。🫡
+* 【2023-01-13】[vectordotdev / vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 * 【2023-01-12】[amitshekhariitbhu / go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture) - A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
 * 【2023-01-12】[pointfreeco / swift-dependencies](https://github.com/pointfreeco/swift-dependencies) - A dependency management library inspired by SwiftUI's "environment."
 * 【2023-01-12】[matteozappia / DynamicCow](https://github.com/matteozappia/DynamicCow) - Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.
@@ -93,6 +98,9 @@
 
 ## Python
 
+* 【2023-01-13】[fortra / impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
+* 【2023-01-13】[blasty / lexmark](https://github.com/blasty/lexmark) - 
+* 【2023-01-13】[dead-summer / SSPANEL_ikuuu](https://github.com/dead-summer/SSPANEL_ikuuu) - ikuuu每日签到
 * 【2023-01-12】[triple-Mu / YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) - YOLOv8 using TensorRT accelerate !
 * 【2023-01-12】[cosmicpb / FascistFree](https://github.com/cosmicpb/FascistFree) - 
 * 【2023-01-12】[oegedijk / explainerdashboard](https://github.com/oegedijk/explainerdashboard) - Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
@@ -137,6 +145,8 @@
 
 ## Javascript
 
+* 【2023-01-13】[open-duelyst / duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
+* 【2023-01-13】[dengxiwang / funtabs](https://github.com/dengxiwang/funtabs) - funtabs｜趣标签页，给你不一样的浏览器起始页，清新、简约、不简单！高度的可自定义操作，让您设置属于您专属的独特导航页面，是一款小众但又极其好用的导航网站！
 * 【2023-01-12】[shobrook / adrenaline](https://github.com/shobrook/adrenaline) - An AI-powered debugger
 * 【2023-01-12】[changcheng1 / miniReact_v17](https://github.com/changcheng1/miniReact_v17) - 精简版React实现，包含逐行注释(未实现classComponent)
 * 【2023-01-12】[GoogleCloudPlatform / nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
@@ -203,6 +213,10 @@
 
 ## C
 
+* 【2023-01-13】[xiaoyuec0de / Tank](https://github.com/xiaoyuec0de/Tank) - 
+* 【2023-01-13】[kusumi / netbsd_hammer2](https://github.com/kusumi/netbsd_hammer2) - HAMMER2 file system for NetBSD
+* 【2023-01-13】[krallin / tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+* 【2023-01-13】[lu-1991 / AutoBuild-OpenWrt-Padavan](https://github.com/lu-1991/AutoBuild-OpenWrt-Padavan) - 云编译OpenWrt&Padavan
 * 【2023-01-12】[s0duku / cve-2022-31705](https://github.com/s0duku/cve-2022-31705) - CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC
 * 【2023-01-12】[groundcover-com / caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana.
 * 【2023-01-12】[vvaltchev / tilck](https://github.com/vvaltchev/tilck) - A Tiny Linux-Compatible Kernel
@@ -233,6 +247,8 @@
 
 ## C++
 
+* 【2023-01-13】[srsran / srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
+* 【2023-01-13】[CN-Belief / MIUI-](https://github.com/CN-Belief/MIUI-) - 因看到雪军用免费工具圈钱而突发奇想做的MIUI优化小程序
 * 【2023-01-12】[Linaom1214 / TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support
 * 【2023-01-12】[facebook / hhvm](https://github.com/facebook/hhvm) - A virtual machine for executing programs written in Hack.
 * 【2023-01-12】[gperftools / gperftools](https://github.com/gperftools/gperftools) - Main gperftools repository
@@ -271,6 +287,11 @@
 
 ## C#
 
+* 【2023-01-13】[microsoft / fast-blazor](https://github.com/microsoft/fast-blazor) - Blazor component library for FluentUI. Microsoft's official wrapper around the FluentUI Web Components for use with .NET 6.0 or higher Blazor applications
+* 【2023-01-13】[still-scene / t3](https://github.com/still-scene/t3) - Tooll 3 is an open source software to create realtime motion graphics.
+* 【2023-01-13】[fjykTec / ModernWMS](https://github.com/fjykTec/ModernWMS) - Modern WMS
+* 【2023-01-13】[ChilliCream / graphql-platform](https://github.com/ChilliCream/graphql-platform) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.
+* 【2023-01-13】[Unity-Technologies / AssetBundles-Browser](https://github.com/Unity-Technologies/AssetBundles-Browser) - Editor tool for viewing and debugging asset bundle contents before and after builds
 * 【2023-01-11】[LabsCheats / LabsCheats-EFT-Legend-Cheat](https://github.com/LabsCheats/LabsCheats-EFT-Legend-Cheat) - A kernel made cheat from previous wipe that we have now outdated, hence why we released the source code online. For educational purposes only.
 * 【2023-01-11】[JasperFx / marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
 * 【2023-01-11】[CodeMazeBlog / CodeMazeGuides](https://github.com/CodeMazeBlog/CodeMazeGuides) - The main repository for all the Code Maze guides
@@ -322,6 +343,9 @@
 
 ## Css
 
+* 【2023-01-13】[muhammedanaskhan / css-tricks](https://github.com/muhammedanaskhan/css-tricks) - 
+* 【2023-01-13】[renekabagamba / boilerplate-code-chatbot-huzalabs](https://github.com/renekabagamba/boilerplate-code-chatbot-huzalabs) - 
+* 【2023-01-13】[pytorch / pytorch_sphinx_theme](https://github.com/pytorch/pytorch_sphinx_theme) - PyTorch Sphinx Theme
 * 【2023-01-12】[allamo123 / laravel-grapes](https://github.com/allamo123/laravel-grapes) - Laravel Grapes is a library for laravel framework, that offer cms drag and drop page builder for frontend which support all Laravel functionality and help user to change all frontend and content just in simple clicks.
 * 【2023-01-12】[codestates-seb / seb41_main_028](https://github.com/codestates-seb/seb41_main_028) - 
 * 【2023-01-12】[dr-r3d / creativehometuition](https://github.com/dr-r3d/creativehometuition) - 
@@ -351,6 +375,11 @@
 
 ## Unknown
 
+* 【2023-01-13】[dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
+* 【2023-01-13】[InterviewReady / joy-of-system-design](https://github.com/InterviewReady/joy-of-system-design) - An online game to kindle the spark of system design in you.
+* 【2023-01-13】[fr0gger / awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
+* 【2023-01-13】[KRALYN / PositronV3](https://github.com/KRALYN/PositronV3) - A upside-down, fast, portable, and compact 3D printer
+* 【2023-01-13】[lyshark / WindowsKernelBook](https://github.com/lyshark/WindowsKernelBook) - 《Windows 内核安全编程技术实践》 系列丛书，探索 Anti RootKit 反内核工具核心原理与技术实现细节。 The series of "Windows Kernel Security Programming Technology Practice" explores the core principles and technical implementation details of the Anti RootKit anti kernel tool.
 * 【2023-01-12】[LDNOOBW / List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - List of Dirty, Naughty, Obscene, and Otherwise Bad Words
 * 【2023-01-12】[hsiangfeng / README-Example-Template](https://github.com/hsiangfeng/README-Example-Template) - README 撰寫範本
 * 【2023-01-12】[GuidoPenta / galactic-CV-guide](https://github.com/GuidoPenta/galactic-CV-guide) - Tips & Tricks to write a great CV
