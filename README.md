@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-01-14】[PostHog / posthog](https://github.com/PostHog/posthog) - 🦔PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+* 【2023-01-14】[cloudflare / wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 * 【2023-01-13】[ultralytics / ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8🚀in PyTorch > ONNX > CoreML > TFLite
 * 【2023-01-13】[tallyhowallet / extension](https://github.com/tallyhowallet/extension) - Tally Ho, the community owned and operated Web3 wallet.
 * 【2023-01-13】[tweedegolf / 101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
@@ -73,6 +75,10 @@
 
 ## Java
 
+* 【2023-01-14】[michalbednarski / LeakValue](https://github.com/michalbednarski/LeakValue) - Exploit for CVE-2022-20452, privilege escalation on Android from installed app to system app (or another app) via LazyValue using Parcel after recycle()
+* 【2023-01-14】[DesktopECHO / T95-H616-Malware](https://github.com/DesktopECHO/T95-H616-Malware) - "Pre-Owned" malware in ROM on T95 Android TV Box (AllWinner H616)
+* 【2023-01-14】[lax1dude / eaglercraftx-1.8](https://github.com/lax1dude/eaglercraftx-1.8) - Mirror of the EaglercraftX 1.8 repository on GitLab, allows you to play multiplayer Minecraft 1.8 in your web browser
+* 【2023-01-14】[pedroSG94 / rtmp-rtsp-stream-client-java](https://github.com/pedroSG94/rtmp-rtsp-stream-client-java) - Library to stream in rtmp and rtsp for Android. All code in Java
 * 【2023-01-10】[CloudClientDev / cloudclient](https://github.com/CloudClientDev/cloudclient) - The source for Cloud Client
 * 【2023-01-10】[caoliang1918 / contact-center](https://github.com/caoliang1918/contact-center) - 智能呼叫中心平台 Intelligent Contact Center
 * 【2023-01-09】[ponfee / commons-core](https://github.com/ponfee/commons-core) - A commons java tool lib
@@ -98,6 +104,11 @@
 
 ## Python
 
+* 【2023-01-14】[uselotus / lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS
+* 【2023-01-14】[RizwanMunawar / yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) - YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics
+* 【2023-01-14】[robusta-dev / kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
+* 【2023-01-14】[ngc660sec / NGCBot](https://github.com/ngc660sec/NGCBot) - 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯后缀名查询，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历⚡微步威胁情报查询，🐛美女视频，⚡美女图片，👯帮助菜单。📫支持积分功能，😄自定义程度丰富，小白也可轻松上手！
+* 【2023-01-14】[IDEA-CCNL / GTS-Engine](https://github.com/IDEA-CCNL/GTS-Engine) - GTS Engine: A powerful NLU Training System。GTS引擎（GTS-Engine）是一款开箱即用且性能强大的自然语言理解引擎，聚焦于小样本任务，能够仅用小样本就能自动化生产NLP模型。
 * 【2023-01-13】[fortra / impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 * 【2023-01-13】[blasty / lexmark](https://github.com/blasty/lexmark) - 
 * 【2023-01-13】[dead-summer / SSPANEL_ikuuu](https://github.com/dead-summer/SSPANEL_ikuuu) - ikuuu每日签到
@@ -145,6 +156,8 @@
 
 ## Javascript
 
+* 【2023-01-14】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
+* 【2023-01-14】[TcDhlPro / ZeroTierOne-SelfHostingNetworkControllers-ZtnCui](https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui) - 依照ZeroTierOne官方提供的Api, 使用key-networks/ztncui提供的模版,搭建自己的控制中心, 客户端数量解锁无限制, 内网穿透工具
 * 【2023-01-13】[open-duelyst / duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
 * 【2023-01-13】[dengxiwang / funtabs](https://github.com/dengxiwang/funtabs) - funtabs｜趣标签页，给你不一样的浏览器起始页，清新、简约、不简单！高度的可自定义操作，让您设置属于您专属的独特导航页面，是一款小众但又极其好用的导航网站！
 * 【2023-01-12】[shobrook / adrenaline](https://github.com/shobrook/adrenaline) - An AI-powered debugger
@@ -187,6 +200,7 @@
 
 ## Go
 
+* 【2023-01-14】[nkanaev / yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 * 【2023-01-11】[google / cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 * 【2023-01-11】[utkusen / socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
 * 【2023-01-11】[kubernetes-csi / csi-driver-nfs](https://github.com/kubernetes-csi/csi-driver-nfs) - This driver allows Kubernetes to access NFS server on Linux node.
@@ -213,6 +227,10 @@
 
 ## C
 
+* 【2023-01-14】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
+* 【2023-01-14】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
+* 【2023-01-14】[nodejs / http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c
+* 【2023-01-14】[Gnucash / gnucash](https://github.com/Gnucash/gnucash) - GnuCash Double-Entry Accounting Program.
 * 【2023-01-13】[xiaoyuec0de / Tank](https://github.com/xiaoyuec0de/Tank) - 
 * 【2023-01-13】[kusumi / netbsd_hammer2](https://github.com/kusumi/netbsd_hammer2) - HAMMER2 file system for NetBSD
 * 【2023-01-13】[krallin / tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -247,6 +265,7 @@
 
 ## C++
 
+* 【2023-01-14】[google / highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 * 【2023-01-13】[srsran / srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 * 【2023-01-13】[CN-Belief / MIUI-](https://github.com/CN-Belief/MIUI-) - 因看到雪军用免费工具圈钱而突发奇想做的MIUI优化小程序
 * 【2023-01-12】[Linaom1214 / TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) - tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support
@@ -317,6 +336,10 @@
 
 ## Html
 
+* 【2023-01-14】[ProgrammingHero1 / responsive-examples](https://github.com/ProgrammingHero1/responsive-examples) - 
+* 【2023-01-14】[illustrated-machine-learning / illustrated-machine-learning.github.io](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io) - Website containing illustrations about Machine Learning theory!
+* 【2023-01-14】[jlondiche / job-board-php](https://github.com/jlondiche/job-board-php) - 
+* 【2023-01-14】[amethystnetwork-dev / Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
 * 【2023-01-12】[matcornic / hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 * 【2023-01-11】[hemansnation / Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 * 【2023-01-10】[shyamtala003 / finance_dashboard](https://github.com/shyamtala003/finance_dashboard) - 🎊I designed Financial dashboard for bank using just Htm,Css and JavaScript🎉
@@ -343,6 +366,10 @@
 
 ## Css
 
+* 【2023-01-14】[nus-cs3281 / 2023](https://github.com/nus-cs3281/2023) - 
+* 【2023-01-14】[OpenClassrooms-Student-Center / 7697016-Front-End.1](https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1) - 
+* 【2023-01-14】[juliocodes-sm / Reels](https://github.com/juliocodes-sm/Reels) - 
+* 【2023-01-14】[cloudacademy / static-website-example](https://github.com/cloudacademy/static-website-example) - Static website to use with Cloud Academy labs
 * 【2023-01-13】[muhammedanaskhan / css-tricks](https://github.com/muhammedanaskhan/css-tricks) - 
 * 【2023-01-13】[renekabagamba / boilerplate-code-chatbot-huzalabs](https://github.com/renekabagamba/boilerplate-code-chatbot-huzalabs) - 
 * 【2023-01-13】[pytorch / pytorch_sphinx_theme](https://github.com/pytorch/pytorch_sphinx_theme) - PyTorch Sphinx Theme
@@ -375,6 +402,12 @@
 
 ## Unknown
 
+* 【2023-01-14】[krishnaik06 / Data-Analyst-Roadmap](https://github.com/krishnaik06/Data-Analyst-Roadmap) - 
+* 【2023-01-14】[holbertonschool / Jobs](https://github.com/holbertonschool/Jobs) - ALX Tech team - job board
+* 【2023-01-14】[anoma / namada-testnets](https://github.com/anoma/namada-testnets) - Testnet configurations and coordination for the Namada network.
+* 【2023-01-14】[hackclub / winter](https://github.com/hackclub/winter) - ❄️Join the community for a Winter of Making!
+* 【2023-01-14】[XT-1997 / DeepMatcher](https://github.com/XT-1997/DeepMatcher) - The implementation of the paper: DeepMatcher: A Deep Transformer-based Network for Robust and Accurate Local Feature Matching
+* 【2023-01-14】[shenweichen / AlgoNotes](https://github.com/shenweichen/AlgoNotes) - 【浅梦学习笔记】文章汇总:包含 排序&CXR预估，召回匹配，用户画像&特征工程，推荐搜索综合 计算广告，大数据，图算法，NLP&CV，求职面试 等内容
 * 【2023-01-13】[dair-ai / ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 * 【2023-01-13】[InterviewReady / joy-of-system-design](https://github.com/InterviewReady/joy-of-system-design) - An online game to kindle the spark of system design in you.
 * 【2023-01-13】[fr0gger / awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
