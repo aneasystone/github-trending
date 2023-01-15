@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2023-01-15】[elk-zone / elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 * 【2023-01-14】[PostHog / posthog](https://github.com/PostHog/posthog) - 🦔PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 * 【2023-01-14】[cloudflare / wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
 * 【2023-01-13】[ultralytics / ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv8🚀in PyTorch > ONNX > CoreML > TFLite
@@ -75,6 +76,9 @@
 
 ## Java
 
+* 【2023-01-15】[Team364 / BaseFalconSwerve](https://github.com/Team364/BaseFalconSwerve) - 
+* 【2023-01-15】[starmcc / qs-beanfun](https://github.com/starmcc/qs-beanfun) - qs-beanfun 秋水橘子登录器
+* 【2023-01-15】[gaarason / database-all](https://github.com/gaarason/database-all) - Eloquent ORM for Java 【database-spring-boot-starter】
 * 【2023-01-14】[michalbednarski / LeakValue](https://github.com/michalbednarski/LeakValue) - Exploit for CVE-2022-20452, privilege escalation on Android from installed app to system app (or another app) via LazyValue using Parcel after recycle()
 * 【2023-01-14】[DesktopECHO / T95-H616-Malware](https://github.com/DesktopECHO/T95-H616-Malware) - "Pre-Owned" malware in ROM on T95 Android TV Box (AllWinner H616)
 * 【2023-01-14】[lax1dude / eaglercraftx-1.8](https://github.com/lax1dude/eaglercraftx-1.8) - Mirror of the EaglercraftX 1.8 repository on GitLab, allows you to play multiplayer Minecraft 1.8 in your web browser
@@ -104,6 +108,8 @@
 
 ## Python
 
+* 【2023-01-15】[githubharald / SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
+* 【2023-01-15】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 * 【2023-01-14】[uselotus / lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS
 * 【2023-01-14】[RizwanMunawar / yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) - YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics
 * 【2023-01-14】[robusta-dev / kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues.
@@ -156,6 +162,8 @@
 
 ## Javascript
 
+* 【2023-01-15】[s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
+* 【2023-01-15】[5etools-mirror-1 / 5etools-mirror-1.github.io](https://github.com/5etools-mirror-1/5etools-mirror-1.github.io) - A mirror.
 * 【2023-01-14】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
 * 【2023-01-14】[TcDhlPro / ZeroTierOne-SelfHostingNetworkControllers-ZtnCui](https://github.com/TcDhlPro/ZeroTierOne-SelfHostingNetworkControllers-ZtnCui) - 依照ZeroTierOne官方提供的Api, 使用key-networks/ztncui提供的模版,搭建自己的控制中心, 客户端数量解锁无限制, 内网穿透工具
 * 【2023-01-13】[open-duelyst / duelyst](https://github.com/open-duelyst/duelyst) - Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.
@@ -200,6 +208,8 @@
 
 ## Go
 
+* 【2023-01-15】[RaymondCode / simple-demo](https://github.com/RaymondCode/simple-demo) - 
+* 【2023-01-15】[Apipost-Team / runnerGo](https://github.com/Apipost-Team/runnerGo) - A tool similar to apache bench (ab)
 * 【2023-01-14】[nkanaev / yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 * 【2023-01-11】[google / cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 * 【2023-01-11】[utkusen / socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
@@ -227,6 +237,7 @@
 
 ## C
 
+* 【2023-01-15】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2023-01-14】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
 * 【2023-01-14】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
 * 【2023-01-14】[nodejs / http-parser](https://github.com/nodejs/http-parser) - http request/response parser for c
@@ -265,6 +276,10 @@
 
 ## C++
 
+* 【2023-01-15】[Wh04m1001 / CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) - 
+* 【2023-01-15】[Soreepeong / XivAlexander](https://github.com/Soreepeong/XivAlexander) - Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.
+* 【2023-01-15】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
+* 【2023-01-15】[rhasspy / larynx2](https://github.com/rhasspy/larynx2) - A fast, local neural text to speech system
 * 【2023-01-14】[google / highway](https://github.com/google/highway) - Performance-portable, length-agnostic SIMD with runtime dispatch
 * 【2023-01-13】[srsran / srsRAN](https://github.com/srsran/srsRAN) - Open source SDR 4G/5G software suite from Software Radio Systems (SRS)
 * 【2023-01-13】[CN-Belief / MIUI-](https://github.com/CN-Belief/MIUI-) - 因看到雪军用免费工具圈钱而突发奇想做的MIUI优化小程序
@@ -306,6 +321,8 @@
 
 ## C#
 
+* 【2023-01-15】[vullabs / Crassus](https://github.com/vullabs/Crassus) - 
+* 【2023-01-15】[riok / mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection. Inspired by MapStruct.
 * 【2023-01-13】[microsoft / fast-blazor](https://github.com/microsoft/fast-blazor) - Blazor component library for FluentUI. Microsoft's official wrapper around the FluentUI Web Components for use with .NET 6.0 or higher Blazor applications
 * 【2023-01-13】[still-scene / t3](https://github.com/still-scene/t3) - Tooll 3 is an open source software to create realtime motion graphics.
 * 【2023-01-13】[fjykTec / ModernWMS](https://github.com/fjykTec/ModernWMS) - Modern WMS
@@ -336,6 +353,7 @@
 
 ## Html
 
+* 【2023-01-15】[everspy / everspy](https://github.com/everspy/everspy) - EVER SPY OFFICIAL
 * 【2023-01-14】[ProgrammingHero1 / responsive-examples](https://github.com/ProgrammingHero1/responsive-examples) - 
 * 【2023-01-14】[illustrated-machine-learning / illustrated-machine-learning.github.io](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io) - Website containing illustrations about Machine Learning theory!
 * 【2023-01-14】[jlondiche / job-board-php](https://github.com/jlondiche/job-board-php) - 
@@ -366,6 +384,7 @@
 
 ## Css
 
+* 【2023-01-15】[MeewPunk / Alert-Memory-CPU](https://github.com/MeewPunk/Alert-Memory-CPU) - Alert Memory CPU
 * 【2023-01-14】[nus-cs3281 / 2023](https://github.com/nus-cs3281/2023) - 
 * 【2023-01-14】[OpenClassrooms-Student-Center / 7697016-Front-End.1](https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1) - 
 * 【2023-01-14】[juliocodes-sm / Reels](https://github.com/juliocodes-sm/Reels) - 
@@ -402,6 +421,9 @@
 
 ## Unknown
 
+* 【2023-01-15】[Hello-SimpleAI / chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - ChatGPT Comparison Corpus (C3), Detectors, and more!🔥
+* 【2023-01-15】[sushiwushi / bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
+* 【2023-01-15】[flydoos / DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) - 钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件，也叫：钉钉防撤回补丁、钉钉消息防撤回补丁）由“吾乐吧软件站”开发制作，本程序用于钉钉电脑版6.0以上版本，主要功能如下：1、支持文字消息防撤回 2、支持图片消息防撤回，支持查看高清原图 3、支持文件识别、URL识别、卡片回复消息识别等 4、支持富文本消息防撤回 5、支持个人消息防撤回，以及群主或管理员消息防撤回 6、支持自己发送的消息防撤回 7、文字消息或富文本消息，允许重新编辑或查看 8、支持语音消息防撤回（复制到浏览器打开） 9、支持钉钉多开 10、支持撤回消息提醒 11、支持消息永不已读
 * 【2023-01-14】[krishnaik06 / Data-Analyst-Roadmap](https://github.com/krishnaik06/Data-Analyst-Roadmap) - 
 * 【2023-01-14】[holbertonschool / Jobs](https://github.com/holbertonschool/Jobs) - ALX Tech team - job board
 * 【2023-01-14】[anoma / namada-testnets](https://github.com/anoma/namada-testnets) - Testnet configurations and coordination for the Namada network.
