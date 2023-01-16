@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-16】[leptos-rs / leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+* 【2023-01-16】[ai-collection / ai-collection](https://github.com/ai-collection/ai-collection) - A collection of generative AI applications
+* 【2023-01-16】[ehulinsky / AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
+* 【2023-01-16】[juspay / hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 * 【2023-01-15】[elk-zone / elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
 * 【2023-01-14】[PostHog / posthog](https://github.com/PostHog/posthog) - 🦔PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 * 【2023-01-14】[cloudflare / wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
@@ -76,6 +80,9 @@
 
 ## Java
 
+* 【2023-01-16】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
+* 【2023-01-16】[ValkyrienSkies / Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
+* 【2023-01-16】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything! Web, database, os, middleware, cloudnative and more.
 * 【2023-01-15】[Team364 / BaseFalconSwerve](https://github.com/Team364/BaseFalconSwerve) - 
 * 【2023-01-15】[starmcc / qs-beanfun](https://github.com/starmcc/qs-beanfun) - qs-beanfun 秋水橘子登录器
 * 【2023-01-15】[gaarason / database-all](https://github.com/gaarason/database-all) - Eloquent ORM for Java 【database-spring-boot-starter】
@@ -108,6 +115,11 @@
 
 ## Python
 
+* 【2023-01-16】[enhuiz / vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E, WIP
+* 【2023-01-16】[noprobelm / tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
+* 【2023-01-16】[dask / dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+* 【2023-01-16】[howard-hou / BagFormer](https://github.com/howard-hou/BagFormer) - PyTorch code for BagFormer: Better Cross-Modal Retrieval via bag-wise interaction
+* 【2023-01-16】[cscs181 / QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot) - GitHub Bot for QQ
 * 【2023-01-15】[githubharald / SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 * 【2023-01-15】[Nriver / Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 * 【2023-01-14】[uselotus / lotus](https://github.com/uselotus/lotus) - Open Source Pricing & Packaging Infrastructure for SaaS
@@ -162,6 +174,9 @@
 
 ## Javascript
 
+* 【2023-01-16】[mikhama / async-race-api](https://github.com/mikhama/async-race-api) - Api for RSS task Async Race
+* 【2023-01-16】[pascalroget / whatsgpt](https://github.com/pascalroget/whatsgpt) - WhatsApp Bot for ChatGPT with multiple user support
+* 【2023-01-16】[vuejs / vuex](https://github.com/vuejs/vuex) - 🗃️Centralized State Management for Vue.js.
 * 【2023-01-15】[s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff
 * 【2023-01-15】[5etools-mirror-1 / 5etools-mirror-1.github.io](https://github.com/5etools-mirror-1/5etools-mirror-1.github.io) - A mirror.
 * 【2023-01-14】[circleci / circleci-docs](https://github.com/circleci/circleci-docs) - Documentation for CircleCI.
@@ -208,6 +223,8 @@
 
 ## Go
 
+* 【2023-01-16】[wangkechun / go-by-example](https://github.com/wangkechun/go-by-example) - 
+* 【2023-01-16】[a76yyyy / tiktok](https://github.com/a76yyyy/tiktok) - 基于 kitex RPC微服务 + Hertz HTTP服务完成的第三届字节跳动青训营-极简抖音后端项目
 * 【2023-01-15】[RaymondCode / simple-demo](https://github.com/RaymondCode/simple-demo) - 
 * 【2023-01-15】[Apipost-Team / runnerGo](https://github.com/Apipost-Team/runnerGo) - A tool similar to apache bench (ab)
 * 【2023-01-14】[nkanaev / yarr](https://github.com/nkanaev/yarr) - yet another rss reader
@@ -276,6 +293,8 @@
 
 ## C++
 
+* 【2023-01-16】[CedArctic / DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) - USB Rubber Ducky type scripts written for the DigiSpark.
+* 【2023-01-16】[bblanchon / ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟JSON library for Arduino and embedded C++. Simple and efficient.
 * 【2023-01-15】[Wh04m1001 / CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) - 
 * 【2023-01-15】[Soreepeong / XivAlexander](https://github.com/Soreepeong/XivAlexander) - Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.
 * 【2023-01-15】[FlaxEngine / FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) - Flax Engine – multi-platform 3D game engine
@@ -321,6 +340,10 @@
 
 ## C#
 
+* 【2023-01-16】[skahwah / SQLRecon](https://github.com/skahwah/SQLRecon) - A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
+* 【2023-01-16】[Nik-Potokar / XIVSlothCombo](https://github.com/Nik-Potokar/XIVSlothCombo) - XivCombo for very lazy gamers
+* 【2023-01-16】[nefarius / ScpToolkit](https://github.com/nefarius/ScpToolkit) - Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers
+* 【2023-01-16】[CervantesSec / cervantes](https://github.com/CervantesSec/cervantes) - Cervantes is an opensource collaborative platform for pentesters or red teams who want to save time to manage their projects, clients, vulnerabilities and reports in one place.
 * 【2023-01-15】[vullabs / Crassus](https://github.com/vullabs/Crassus) - 
 * 【2023-01-15】[riok / mapperly](https://github.com/riok/mapperly) - A .NET source generator for generating object mappings. No runtime reflection. Inspired by MapStruct.
 * 【2023-01-13】[microsoft / fast-blazor](https://github.com/microsoft/fast-blazor) - Blazor component library for FluentUI. Microsoft's official wrapper around the FluentUI Web Components for use with .NET 6.0 or higher Blazor applications
@@ -384,6 +407,9 @@
 
 ## Css
 
+* 【2023-01-16】[truong-van-an / HappyNewYear2023](https://github.com/truong-van-an/HappyNewYear2023) - 
+* 【2023-01-16】[Richard9394 / MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+* 【2023-01-16】[sdenec / tidy5e-sheet](https://github.com/sdenec/tidy5e-sheet) - An alternative Character Sheet for Foundry VTT dnd5e aimed at creating a cleaner UI.
 * 【2023-01-15】[MeewPunk / Alert-Memory-CPU](https://github.com/MeewPunk/Alert-Memory-CPU) - Alert Memory CPU
 * 【2023-01-14】[nus-cs3281 / 2023](https://github.com/nus-cs3281/2023) - 
 * 【2023-01-14】[OpenClassrooms-Student-Center / 7697016-Front-End.1](https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1) - 
@@ -421,6 +447,11 @@
 
 ## Unknown
 
+* 【2023-01-16】[ethereum / kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the planned Ethereum KZG Ceremony.
+* 【2023-01-16】[csquires / 6.S091-causality](https://github.com/csquires/6.S091-causality) - 
+* 【2023-01-16】[cncf / mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
+* 【2023-01-16】[github / codespaces-blank](https://github.com/github/codespaces-blank) - 
+* 【2023-01-16】[L1Xu4n / Awesome-ChatGPT-prompts-ZH_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) - 如何将ChatGPT调教成一只猫娘
 * 【2023-01-15】[Hello-SimpleAI / chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - ChatGPT Comparison Corpus (C3), Detectors, and more!🔥
 * 【2023-01-15】[sushiwushi / bug-bounty-dorks](https://github.com/sushiwushi/bug-bounty-dorks) - List of Google Dorks for sites that have responsible disclosure program / bug bounty program
 * 【2023-01-15】[flydoos / DingTalkRevokeMsgPatcher](https://github.com/flydoos/DingTalkRevokeMsgPatcher) - 钉钉消息防撤回补丁PC版（原名：钉钉电脑版防撤回插件，也叫：钉钉防撤回补丁、钉钉消息防撤回补丁）由“吾乐吧软件站”开发制作，本程序用于钉钉电脑版6.0以上版本，主要功能如下：1、支持文字消息防撤回 2、支持图片消息防撤回，支持查看高清原图 3、支持文件识别、URL识别、卡片回复消息识别等 4、支持富文本消息防撤回 5、支持个人消息防撤回，以及群主或管理员消息防撤回 6、支持自己发送的消息防撤回 7、文字消息或富文本消息，允许重新编辑或查看 8、支持语音消息防撤回（复制到浏览器打开） 9、支持钉钉多开 10、支持撤回消息提醒 11、支持消息永不已读
