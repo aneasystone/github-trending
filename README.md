@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-17】[williamyang1991 / VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
+* 【2023-01-17】[steven-tey / precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+* 【2023-01-17】[helium / denylist](https://github.com/helium/denylist) - 
 * 【2023-01-16】[leptos-rs / leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 * 【2023-01-16】[ai-collection / ai-collection](https://github.com/ai-collection/ai-collection) - A collection of generative AI applications
 * 【2023-01-16】[ehulinsky / AnalogChess](https://github.com/ehulinsky/AnalogChess) - Chess but no grid
@@ -80,6 +83,7 @@
 
 ## Java
 
+* 【2023-01-17】[gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 * 【2023-01-16】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
 * 【2023-01-16】[ValkyrienSkies / Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
 * 【2023-01-16】[dromara / hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Aim to monitor everything! Web, database, os, middleware, cloudnative and more.
@@ -115,6 +119,12 @@
 
 ## Python
 
+* 【2023-01-17】[pynecone-io / pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
+* 【2023-01-17】[deepmind / tracr](https://github.com/deepmind/tracr) - 
+* 【2023-01-17】[jakeyk11 / football-data-analytics](https://github.com/jakeyk11/football-data-analytics) - Collection of tools and scripts for analysis and visualisation of football data.
+* 【2023-01-17】[shadowsocks / shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
+* 【2023-01-17】[Suto-Commune / GhostTCP-SUTO-CONF](https://github.com/Suto-Commune/GhostTCP-SUTO-CONF) - 
+* 【2023-01-17】[MistEO / Pallas-Bot](https://github.com/MistEO/Pallas-Bot) - 《明日方舟》帕拉斯 Bot
 * 【2023-01-16】[enhuiz / vall-e](https://github.com/enhuiz/vall-e) - An unofficial PyTorch implementation of the audio LM VALL-E, WIP
 * 【2023-01-16】[noprobelm / tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 * 【2023-01-16】[dask / dask](https://github.com/dask/dask) - Parallel computing with task scheduling
@@ -174,6 +184,8 @@
 
 ## Javascript
 
+* 【2023-01-17】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
+* 【2023-01-17】[saharmor / whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 * 【2023-01-16】[mikhama / async-race-api](https://github.com/mikhama/async-race-api) - Api for RSS task Async Race
 * 【2023-01-16】[pascalroget / whatsgpt](https://github.com/pascalroget/whatsgpt) - WhatsApp Bot for ChatGPT with multiple user support
 * 【2023-01-16】[vuejs / vuex](https://github.com/vuejs/vuex) - 🗃️Centralized State Management for Vue.js.
@@ -223,6 +235,8 @@
 
 ## Go
 
+* 【2023-01-17】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
+* 【2023-01-17】[lxc / lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
 * 【2023-01-16】[wangkechun / go-by-example](https://github.com/wangkechun/go-by-example) - 
 * 【2023-01-16】[a76yyyy / tiktok](https://github.com/a76yyyy/tiktok) - 基于 kitex RPC微服务 + Hertz HTTP服务完成的第三届字节跳动青训营-极简抖音后端项目
 * 【2023-01-15】[RaymondCode / simple-demo](https://github.com/RaymondCode/simple-demo) - 
@@ -254,6 +268,7 @@
 
 ## C
 
+* 【2023-01-17】[inspektor-gadget / inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF "gadgets"
 * 【2023-01-15】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2023-01-14】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
 * 【2023-01-14】[kiddin9 / openwrt-packages](https://github.com/kiddin9/openwrt-packages) - openwrt packages
@@ -293,6 +308,7 @@
 
 ## C++
 
+* 【2023-01-17】[google / mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 * 【2023-01-16】[CedArctic / DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) - USB Rubber Ducky type scripts written for the DigiSpark.
 * 【2023-01-16】[bblanchon / ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟JSON library for Arduino and embedded C++. Simple and efficient.
 * 【2023-01-15】[Wh04m1001 / CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752) - 
@@ -447,6 +463,9 @@
 
 ## Unknown
 
+* 【2023-01-17】[dair-ai / ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
+* 【2023-01-17】[PrathamKumar14 / ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
+* 【2023-01-17】[cunzaizhuyi / awesome-fe-sites](https://github.com/cunzaizhuyi/awesome-fe-sites) - 收集前端技术站点、技术周报、个人博客、开源项目站点、公众号等
 * 【2023-01-16】[ethereum / kzg-ceremony](https://github.com/ethereum/kzg-ceremony) - Resources and documentation related to the planned Ethereum KZG Ceremony.
 * 【2023-01-16】[csquires / 6.S091-causality](https://github.com/csquires/6.S091-causality) - 
 * 【2023-01-16】[cncf / mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code
