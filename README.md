@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2023-01-18】[Moonlight-Zhao / go-project-example](https://github.com/Moonlight-Zhao/go-project-example) - 
+* 【2023-01-18】[microsoft / MDE-PowerBI-Templates](https://github.com/microsoft/MDE-PowerBI-Templates) - A respository for MDATP PowerBI Templates
+* 【2023-01-18】[annfelix / DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) - 
+* 【2023-01-18】[ReagentX / imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS iMessage data + run iMessage Diagnostics
+* 【2023-01-18】[lefayjey / linWinPwn](https://github.com/lefayjey/linWinPwn) - linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks
+* 【2023-01-18】[orestbida / cookieconsent](https://github.com/orestbida/cookieconsent) - 🍪Simple cross-browser cookie-consent plugin written in vanilla js
+* 【2023-01-18】[immersive-translate / immersive-translate](https://github.com/immersive-translate/immersive-translate) - Next immersive translator, only for release new version
+* 【2023-01-18】[hugo2046 / QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
 * 【2023-01-17】[williamyang1991 / VToonify](https://github.com/williamyang1991/VToonify) - [SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer
 * 【2023-01-17】[steven-tey / precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 * 【2023-01-17】[helium / denylist](https://github.com/helium/denylist) - 
@@ -83,6 +91,7 @@
 
 ## Java
 
+* 【2023-01-18】[openjdk / jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh
 * 【2023-01-17】[gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 * 【2023-01-16】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
 * 【2023-01-16】[ValkyrienSkies / Valkyrien-Skies-2](https://github.com/ValkyrienSkies/Valkyrien-Skies-2) - Valkyrien Skies 2
@@ -119,6 +128,13 @@
 
 ## Python
 
+* 【2023-01-18】[mikel-brostrom / yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking) - Real-time multi-object tracking and segmentation using YOLOv8
+* 【2023-01-18】[G4lile0 / Heimdall-WiFi-Radar](https://github.com/G4lile0/Heimdall-WiFi-Radar) - Heimdall WiFi Radar ESP8266
+* 【2023-01-18】[namuan / dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
+* 【2023-01-18】[Orange-Cyberdefense / arsenal](https://github.com/Orange-Cyberdefense/arsenal) - Arsenal is just a quick inventory and launcher for hacking programs
+* 【2023-01-18】[cython / cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+* 【2023-01-18】[ckan / ckan](https://github.com/ckan/ckan) - CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.
+* 【2023-01-18】[we0091234 / yolov7_plate](https://github.com/we0091234/yolov7_plate) - yolov7 车牌检测 车牌识别 中文车牌识别 检测 支持双层车牌 支持13种中文车牌
 * 【2023-01-17】[pynecone-io / pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
 * 【2023-01-17】[deepmind / tracr](https://github.com/deepmind/tracr) - 
 * 【2023-01-17】[jakeyk11 / football-data-analytics](https://github.com/jakeyk11/football-data-analytics) - Collection of tools and scripts for analysis and visualisation of football data.
@@ -184,6 +200,8 @@
 
 ## Javascript
 
+* 【2023-01-18】[tobychui / arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
+* 【2023-01-18】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized -🐮+🐋=💕
 * 【2023-01-17】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
 * 【2023-01-17】[saharmor / whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 * 【2023-01-16】[mikhama / async-race-api](https://github.com/mikhama/async-race-api) - Api for RSS task Async Race
@@ -235,6 +253,7 @@
 
 ## Go
 
+* 【2023-01-18】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
 * 【2023-01-17】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 * 【2023-01-17】[lxc / lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
 * 【2023-01-16】[wangkechun / go-by-example](https://github.com/wangkechun/go-by-example) - 
@@ -268,6 +287,9 @@
 
 ## C
 
+* 【2023-01-18】[mcmilk / 7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
+* 【2023-01-18】[jgamblin / Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
+* 【2023-01-18】[darthcloud / BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles
 * 【2023-01-17】[inspektor-gadget / inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF "gadgets"
 * 【2023-01-15】[AcademySoftwareFoundation / openexr](https://github.com/AcademySoftwareFoundation/openexr) - The OpenEXR project provides the specification and reference implementation of the EXR file format, the professional-grade image storage format of the motion picture industry.
 * 【2023-01-14】[greenbone / openvas-scanner](https://github.com/greenbone/openvas-scanner) - This repository contains the scanner component for Greenbone Community Edition.
@@ -308,6 +330,10 @@
 
 ## C++
 
+* 【2023-01-18】[bdring / FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware
+* 【2023-01-18】[chriskohlhoff / asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
+* 【2023-01-18】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
+* 【2023-01-18】[PaulNorman01 / Forensia](https://github.com/PaulNorman01/Forensia) - Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase.
 * 【2023-01-17】[google / mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 * 【2023-01-16】[CedArctic / DigiSpark-Scripts](https://github.com/CedArctic/DigiSpark-Scripts) - USB Rubber Ducky type scripts written for the DigiSpark.
 * 【2023-01-16】[bblanchon / ArduinoJson](https://github.com/bblanchon/ArduinoJson) - 📟JSON library for Arduino and embedded C++. Simple and efficient.
@@ -392,6 +418,7 @@
 
 ## Html
 
+* 【2023-01-18】[artemisriga / fun-html-page](https://github.com/artemisriga/fun-html-page) - Inspired from a reel I saw on instagram, where everyone was asking for the code, I decided to spend an afternoon making this and learning the basics of html and css in the process. If you do not know how to run the file, look at the README.
 * 【2023-01-15】[everspy / everspy](https://github.com/everspy/everspy) - EVER SPY OFFICIAL
 * 【2023-01-14】[ProgrammingHero1 / responsive-examples](https://github.com/ProgrammingHero1/responsive-examples) - 
 * 【2023-01-14】[illustrated-machine-learning / illustrated-machine-learning.github.io](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io) - Website containing illustrations about Machine Learning theory!
@@ -423,6 +450,8 @@
 
 ## Css
 
+* 【2023-01-18】[stripe-samples / checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription) - Learn how to combine Checkout and Billing for fast subscription pages
+* 【2023-01-18】[1ns1derDn / Webtronics-frontend-test](https://github.com/1ns1derDn/Webtronics-frontend-test) - Test task for a front-end developer.
 * 【2023-01-16】[truong-van-an / HappyNewYear2023](https://github.com/truong-van-an/HappyNewYear2023) - 
 * 【2023-01-16】[Richard9394 / MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
 * 【2023-01-16】[sdenec / tidy5e-sheet](https://github.com/sdenec/tidy5e-sheet) - An alternative Character Sheet for Foundry VTT dnd5e aimed at creating a cleaner UI.
@@ -463,6 +492,11 @@
 
 ## Unknown
 
+* 【2023-01-18】[NightmareStresser / DDOS-API](https://github.com/NightmareStresser/DDOS-API) - Working DDOS API For IP Booter / Stresser 2023
+* 【2023-01-18】[TryGOTry / CobaltStrike_Cat_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)
+* 【2023-01-18】[blueagler / DeepL-Crack](https://github.com/blueagler/DeepL-Crack) - Bypass 5,000 characters limit, Decrypt Locked Documents, Formal/informal tone
+* 【2023-01-18】[kinfey / GitHubCodeSpaceWorkShop](https://github.com/kinfey/GitHubCodeSpaceWorkShop) - This is GitHub Codespace Workshop
+* 【2023-01-18】[Arthurzhangsheng / CodeFormer_GUI](https://github.com/Arthurzhangsheng/CodeFormer_GUI) - CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
 * 【2023-01-17】[dair-ai / ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanation to key concepts in ML
 * 【2023-01-17】[PrathamKumar14 / ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
 * 【2023-01-17】[cunzaizhuyi / awesome-fe-sites](https://github.com/cunzaizhuyi/awesome-fe-sites) - 收集前端技术站点、技术周报、个人博客、开源项目站点、公众号等
