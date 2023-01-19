@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-01-19】[MaximeBeasse / KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
+* 【2023-01-19】[rocketseat-education / nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
+* 【2023-01-19】[wolfogre / go-pprof-practice](https://github.com/wolfogre/go-pprof-practice) - go pprof practice.
+* 【2023-01-19】[MinBZK / woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app) - 
+* 【2023-01-19】[chenzomi12 / DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction.
 * 【2023-01-18】[Moonlight-Zhao / go-project-example](https://github.com/Moonlight-Zhao/go-project-example) - 
 * 【2023-01-18】[microsoft / MDE-PowerBI-Templates](https://github.com/microsoft/MDE-PowerBI-Templates) - A respository for MDATP PowerBI Templates
 * 【2023-01-18】[annfelix / DEVOPS-WORLD](https://github.com/annfelix/DEVOPS-WORLD) - 
@@ -91,6 +96,7 @@
 
 ## Java
 
+* 【2023-01-19】[cjbi / admin3](https://github.com/cjbi/admin3) - 一个灵活高效不臃肿的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景
 * 【2023-01-18】[openjdk / jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh
 * 【2023-01-17】[gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
 * 【2023-01-16】[PhotonVision / photonvision](https://github.com/PhotonVision/photonvision) - PhotonVision is the free, fast, and easy-to-use computer vision solution for the FIRST Robotics Competition.
@@ -128,6 +134,13 @@
 
 ## Python
 
+* 【2023-01-19】[approximatelabs / sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
+* 【2023-01-19】[cleanlab / cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+* 【2023-01-19】[amundsen-io / amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+* 【2023-01-19】[FaceMe-SDK / FaceLivenessDetection-ServerSDK](https://github.com/FaceMe-SDK/FaceLivenessDetection-ServerSDK) - iBeta (Level 2) Certified, Single-Image Based Face Liveness Detection (Face Anti Spoofing) Server SDK
+* 【2023-01-19】[zauberzeug / nicegui](https://github.com/zauberzeug/nicegui) - Create UI. For the web. With Python. The nice way.
+* 【2023-01-19】[haha-lisa / RDM-Region-Aware-Diffusion-Model](https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model) - 
+* 【2023-01-19】[ChenCVer / python_cpp_extension](https://github.com/ChenCVer/python_cpp_extension) - C++ and CUDA extensions for Python/Pytorch and GPU Accelerated Augmentation.
 * 【2023-01-18】[mikel-brostrom / yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking) - Real-time multi-object tracking and segmentation using YOLOv8
 * 【2023-01-18】[G4lile0 / Heimdall-WiFi-Radar](https://github.com/G4lile0/Heimdall-WiFi-Radar) - Heimdall WiFi Radar ESP8266
 * 【2023-01-18】[namuan / dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
@@ -200,6 +213,9 @@
 
 ## Javascript
 
+* 【2023-01-19】[mjmlio / mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+* 【2023-01-19】[actualbudget / actual-server](https://github.com/actualbudget/actual-server) - Actual's server
+* 【2023-01-19】[LinkedInLearning / javascript-essential-training-2832077](https://github.com/LinkedInLearning/javascript-essential-training-2832077) - This repository is for the Linkedin Learning course: JavaScript Essential Training
 * 【2023-01-18】[tobychui / arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 * 【2023-01-18】[mailcow / mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized -🐮+🐋=💕
 * 【2023-01-17】[TheOdinProject / javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) - 
@@ -253,6 +269,7 @@
 
 ## Go
 
+* 【2023-01-19】[jaegertracing / jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 * 【2023-01-18】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
 * 【2023-01-17】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
 * 【2023-01-17】[lxc / lxd](https://github.com/lxc/lxd) - Powerful system container and virtual machine manager
@@ -287,6 +304,8 @@
 
 ## C
 
+* 【2023-01-19】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
+* 【2023-01-19】[ldcsaa / HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 * 【2023-01-18】[mcmilk / 7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 * 【2023-01-18】[jgamblin / Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 * 【2023-01-18】[darthcloud / BlueRetro](https://github.com/darthcloud/BlueRetro) - Multiplayer Bluetooth controllers adapter for retro video game consoles
@@ -330,6 +349,9 @@
 
 ## C++
 
+* 【2023-01-19】[FeiYull / TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) - 《TensorRT-Alpha》 supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. TensorRT-Alpha implements CUDA C accelerated deployment models.The other 10 more CNN and transformer models are being sorted out,which will be updated in the future.CUDA IS ALL YOU NEED.Best Wish!
+* 【2023-01-19】[sofneo / import-hoodini](https://github.com/sofneo/import-hoodini) - Simple runtime import protection & hook mitigation
+* 【2023-01-19】[Apricity001 / CommonConnectionPool](https://github.com/Apricity001/CommonConnectionPool) - C++实现的一个数据库连接池
 * 【2023-01-18】[bdring / FluidNC](https://github.com/bdring/FluidNC) - The next generation of motion control firmware
 * 【2023-01-18】[chriskohlhoff / asio](https://github.com/chriskohlhoff/asio) - Asio C++ Library
 * 【2023-01-18】[Seneca-244200 / OOP-Workshops](https://github.com/Seneca-244200/OOP-Workshops) - 
@@ -382,6 +404,10 @@
 
 ## C#
 
+* 【2023-01-19】[hoainam10th123 / SocialMediaApp](https://github.com/hoainam10th123/SocialMediaApp) - 
+* 【2023-01-19】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
+* 【2023-01-19】[MahApps / MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
+* 【2023-01-19】[dbrizov / NaughtyAttributes](https://github.com/dbrizov/NaughtyAttributes) - Attribute Extensions for Unity
 * 【2023-01-16】[skahwah / SQLRecon](https://github.com/skahwah/SQLRecon) - A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
 * 【2023-01-16】[Nik-Potokar / XIVSlothCombo](https://github.com/Nik-Potokar/XIVSlothCombo) - XivCombo for very lazy gamers
 * 【2023-01-16】[nefarius / ScpToolkit](https://github.com/nefarius/ScpToolkit) - Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers
@@ -418,6 +444,7 @@
 
 ## Html
 
+* 【2023-01-19】[Skoolgq / skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io) - The repository for our main site. Scroll down to the README file for our links.
 * 【2023-01-18】[artemisriga / fun-html-page](https://github.com/artemisriga/fun-html-page) - Inspired from a reel I saw on instagram, where everyone was asking for the code, I decided to spend an afternoon making this and learning the basics of html and css in the process. If you do not know how to run the file, look at the README.
 * 【2023-01-15】[everspy / everspy](https://github.com/everspy/everspy) - EVER SPY OFFICIAL
 * 【2023-01-14】[ProgrammingHero1 / responsive-examples](https://github.com/ProgrammingHero1/responsive-examples) - 
@@ -450,6 +477,8 @@
 
 ## Css
 
+* 【2023-01-19】[romeojeremiah / javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners) - Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
+* 【2023-01-19】[techfolios / template](https://github.com/techfolios/template) - Professional Portfolio
 * 【2023-01-18】[stripe-samples / checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription) - Learn how to combine Checkout and Billing for fast subscription pages
 * 【2023-01-18】[1ns1derDn / Webtronics-frontend-test](https://github.com/1ns1derDn/Webtronics-frontend-test) - Test task for a front-end developer.
 * 【2023-01-16】[truong-van-an / HappyNewYear2023](https://github.com/truong-van-an/HappyNewYear2023) - 
@@ -492,6 +521,7 @@
 
 ## Unknown
 
+* 【2023-01-19】[porqueeuprogramo / pep-it-portugal-companies](https://github.com/porqueeuprogramo/pep-it-portugal-companies) - IT Companies Portugal
 * 【2023-01-18】[NightmareStresser / DDOS-API](https://github.com/NightmareStresser/DDOS-API) - Working DDOS API For IP Booter / Stresser 2023
 * 【2023-01-18】[TryGOTry / CobaltStrike_Cat_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)
 * 【2023-01-18】[blueagler / DeepL-Crack](https://github.com/blueagler/DeepL-Crack) - Bypass 5,000 characters limit, Decrypt Locked Documents, Formal/informal tone
