@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-20】[midudev / aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
+* 【2023-01-20】[facebook / docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+* 【2023-01-20】[storybookjs / storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 * 【2023-01-19】[MaximeBeasse / KeyDecoder](https://github.com/MaximeBeasse/KeyDecoder) - KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.
 * 【2023-01-19】[rocketseat-education / nlw-setup-ignite](https://github.com/rocketseat-education/nlw-setup-ignite) - Aplicação desenvolvida durante o NLW Setup - Ignite
 * 【2023-01-19】[wolfogre / go-pprof-practice](https://github.com/wolfogre/go-pprof-practice) - go pprof practice.
@@ -134,6 +137,8 @@
 
 ## Python
 
+* 【2023-01-20】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
+* 【2023-01-20】[pdm-project / pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 * 【2023-01-19】[approximatelabs / sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
 * 【2023-01-19】[cleanlab / cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 * 【2023-01-19】[amundsen-io / amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
@@ -213,6 +218,8 @@
 
 ## Javascript
 
+* 【2023-01-20】[HorrorPills / ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+* 【2023-01-20】[MicrosoftDocs / office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 * 【2023-01-19】[mjmlio / mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
 * 【2023-01-19】[actualbudget / actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 * 【2023-01-19】[LinkedInLearning / javascript-essential-training-2832077](https://github.com/LinkedInLearning/javascript-essential-training-2832077) - This repository is for the Linkedin Learning course: JavaScript Essential Training
@@ -269,6 +276,7 @@
 
 ## Go
 
+* 【2023-01-20】[suzukaze-hazuki / wechatgpt](https://github.com/suzukaze-hazuki/wechatgpt) - wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
 * 【2023-01-19】[jaegertracing / jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 * 【2023-01-18】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
 * 【2023-01-17】[jpillora / chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP
@@ -304,6 +312,9 @@
 
 ## C
 
+* 【2023-01-20】[netblue30 / firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
+* 【2023-01-20】[pgbouncer / pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
+* 【2023-01-20】[hihkm / DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
 * 【2023-01-19】[jakkra / ZSWatch](https://github.com/jakkra/ZSWatch) - ZSWatch - the Open Source Zephyr™ based Smartwatch, including both HW and FW.
 * 【2023-01-19】[ldcsaa / HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 * 【2023-01-18】[mcmilk / 7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
@@ -349,6 +360,10 @@
 
 ## C++
 
+* 【2023-01-20】[360NENZ / Taiga74164-Akebi-GC](https://github.com/360NENZ/Taiga74164-Akebi-GC) - [Sync]Akebi Genshin Cheat source for OS/CN 3.0
+* 【2023-01-20】[lwd-temp / Akebi-GC](https://github.com/lwd-temp/Akebi-GC) - The great software for some game that exploiting anime girls (and boys).
+* 【2023-01-20】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
+* 【2023-01-20】[vygr / ChrysaLisp](https://github.com/vygr/ChrysaLisp) - Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...
 * 【2023-01-19】[FeiYull / TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) - 《TensorRT-Alpha》 supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. TensorRT-Alpha implements CUDA C accelerated deployment models.The other 10 more CNN and transformer models are being sorted out,which will be updated in the future.CUDA IS ALL YOU NEED.Best Wish!
 * 【2023-01-19】[sofneo / import-hoodini](https://github.com/sofneo/import-hoodini) - Simple runtime import protection & hook mitigation
 * 【2023-01-19】[Apricity001 / CommonConnectionPool](https://github.com/Apricity001/CommonConnectionPool) - C++实现的一个数据库连接池
@@ -404,6 +419,8 @@
 
 ## C#
 
+* 【2023-01-20】[Robert1802 / CSharp-CheatSheet](https://github.com/Robert1802/CSharp-CheatSheet) - 
+* 【2023-01-20】[Ether2023 / Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) - An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
 * 【2023-01-19】[hoainam10th123 / SocialMediaApp](https://github.com/hoainam10th123/SocialMediaApp) - 
 * 【2023-01-19】[hardkoded / puppeteer-sharp](https://github.com/hardkoded/puppeteer-sharp) - Headless Chrome .NET API
 * 【2023-01-19】[MahApps / MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
@@ -444,6 +461,10 @@
 
 ## Html
 
+* 【2023-01-20】[themesberg / flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
+* 【2023-01-20】[picocss / examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
+* 【2023-01-20】[Asabeneh / 30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML) - A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.
+* 【2023-01-20】[JohnChen201502 / jinpian](https://github.com/JohnChen201502/jinpian) - 中国禁片
 * 【2023-01-19】[Skoolgq / skoolgq.github.io](https://github.com/Skoolgq/skoolgq.github.io) - The repository for our main site. Scroll down to the README file for our links.
 * 【2023-01-18】[artemisriga / fun-html-page](https://github.com/artemisriga/fun-html-page) - Inspired from a reel I saw on instagram, where everyone was asking for the code, I decided to spend an afternoon making this and learning the basics of html and css in the process. If you do not know how to run the file, look at the README.
 * 【2023-01-15】[everspy / everspy](https://github.com/everspy/everspy) - EVER SPY OFFICIAL
@@ -477,6 +498,8 @@
 
 ## Css
 
+* 【2023-01-20】[tentin-quarantino / wykop-the-best-style](https://github.com/tentin-quarantino/wykop-the-best-style) - 
+* 【2023-01-20】[501351981 / vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案
 * 【2023-01-19】[romeojeremiah / javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners) - Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
 * 【2023-01-19】[techfolios / template](https://github.com/techfolios/template) - Professional Portfolio
 * 【2023-01-18】[stripe-samples / checkout-single-subscription](https://github.com/stripe-samples/checkout-single-subscription) - Learn how to combine Checkout and Billing for fast subscription pages
@@ -521,6 +544,9 @@
 
 ## Unknown
 
+* 【2023-01-20】[clue-ai / ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan:元语功能型对话大模型（开源版）
+* 【2023-01-20】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
+* 【2023-01-20】[badtuxx / CertifiedContainersExpert](https://github.com/badtuxx/CertifiedContainersExpert) - 
 * 【2023-01-19】[porqueeuprogramo / pep-it-portugal-companies](https://github.com/porqueeuprogramo/pep-it-portugal-companies) - IT Companies Portugal
 * 【2023-01-18】[NightmareStresser / DDOS-API](https://github.com/NightmareStresser/DDOS-API) - Working DDOS API For IP Booter / Stresser 2023
 * 【2023-01-18】[TryGOTry / CobaltStrike_Cat_4.5](https://github.com/TryGOTry/CobaltStrike_Cat_4.5) - 猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)
