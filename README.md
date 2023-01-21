@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-01-21】[AcademySoftwareFoundation / OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - 
+* 【2023-01-21】[Dimillian / IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
+* 【2023-01-21】[llSourcell / ChatGPT_Trading_Bot](https://github.com/llSourcell/ChatGPT_Trading_Bot) - This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
+* 【2023-01-21】[isekaidev / stable.art](https://github.com/isekaidev/stable.art) - Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)
+* 【2023-01-21】[johnlindquist / kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 * 【2023-01-20】[midudev / aprendiendo-react](https://github.com/midudev/aprendiendo-react) - Curso para aprender React desde cero
 * 【2023-01-20】[facebook / docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 * 【2023-01-20】[storybookjs / storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -99,6 +104,8 @@
 
 ## Java
 
+* 【2023-01-21】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬Java Code Coverage Library
+* 【2023-01-21】[wwwlike / vlife](https://github.com/wwwlike/vlife) - 为开发人员打造的低代码开发平台。编写pojo模型+前端配置完成功能开发；包含表单设计器、查询报表设计器、前后端代码生成、权限管理脚手架应用等；配套前端地址：https://github.com/wwwlike/vlife-admin-react
 * 【2023-01-19】[cjbi / admin3](https://github.com/cjbi/admin3) - 一个灵活高效不臃肿的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景
 * 【2023-01-18】[openjdk / jmh](https://github.com/openjdk/jmh) - https://openjdk.org/projects/code-tools/jmh
 * 【2023-01-17】[gnembon / fabric-carpet](https://github.com/gnembon/fabric-carpet) - Fabric Carpet
@@ -137,6 +144,12 @@
 
 ## Python
 
+* 【2023-01-21】[karfly / chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+* 【2023-01-21】[mahdibland / V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
+* 【2023-01-21】[robusta-dev / robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
+* 【2023-01-21】[BlinkDL / ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.
+* 【2023-01-21】[BlinkDL / RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
+* 【2023-01-21】[jw-star / 91pornBot](https://github.com/jw-star/91pornBot) - 91、好色、麻豆视频解析下载，机器人发送电报。仅供学习，禁止用于非法用途。
 * 【2023-01-20】[karpathy / ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 * 【2023-01-20】[pdm-project / pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 * 【2023-01-19】[approximatelabs / sketch](https://github.com/approximatelabs/sketch) - AI code-writing assistant that understands data content
@@ -218,6 +231,9 @@
 
 ## Javascript
 
+* 【2023-01-21】[verekia / js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡Step-by-step tutorial to build a modern JavaScript stack.
+* 【2023-01-21】[rohan-paul / Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
+* 【2023-01-21】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 * 【2023-01-20】[HorrorPills / ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 * 【2023-01-20】[MicrosoftDocs / office-docs-powershell](https://github.com/MicrosoftDocs/office-docs-powershell) - PowerShell Reference for Office Products - Short URL: aka.ms/office-powershell
 * 【2023-01-19】[mjmlio / mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
@@ -276,6 +292,10 @@
 
 ## Go
 
+* 【2023-01-21】[noborus / ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
+* 【2023-01-21】[project-copacetic / copacetic](https://github.com/project-copacetic/copacetic) - CLI tool for directly patching container images using reports from vulnerability scanners
+* 【2023-01-21】[chainguard-images / images](https://github.com/chainguard-images/images) - Public Chainguard Images
+* 【2023-01-21】[Azure / aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform's management
 * 【2023-01-20】[suzukaze-hazuki / wechatgpt](https://github.com/suzukaze-hazuki/wechatgpt) - wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
 * 【2023-01-19】[jaegertracing / jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 * 【2023-01-18】[childe / gohangout](https://github.com/childe/gohangout) - 使用 golang 模仿的 Logstash。用于消费 Kafka 数据，处理后写入 ES、Clickhouse 等。
@@ -312,6 +332,10 @@
 
 ## C
 
+* 【2023-01-21】[SchedMD / slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
+* 【2023-01-21】[hesterdx2 / Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main](https://github.com/hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main) - Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main
+* 【2023-01-21】[TH3xACE / SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
+* 【2023-01-21】[pawelsalawa / sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 * 【2023-01-20】[netblue30 / firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 * 【2023-01-20】[pgbouncer / pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
 * 【2023-01-20】[hihkm / DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
@@ -360,6 +384,9 @@
 
 ## C++
 
+* 【2023-01-21】[apache / brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
+* 【2023-01-21】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
+* 【2023-01-21】[TigerVNC / tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 * 【2023-01-20】[360NENZ / Taiga74164-Akebi-GC](https://github.com/360NENZ/Taiga74164-Akebi-GC) - [Sync]Akebi Genshin Cheat source for OS/CN 3.0
 * 【2023-01-20】[lwd-temp / Akebi-GC](https://github.com/lwd-temp/Akebi-GC) - The great software for some game that exploiting anime girls (and boys).
 * 【2023-01-20】[wpilibsuite / allwpilib](https://github.com/wpilibsuite/allwpilib) - Official Repository of WPILibJ and WPILibC
@@ -419,6 +446,9 @@
 
 ## C#
 
+* 【2023-01-21】[Shopify / handy](https://github.com/Shopify/handy) - The easiest way to mocap your hands!
+* 【2023-01-21】[ArduPilot / MissionPlanner](https://github.com/ArduPilot/MissionPlanner) - Mission Planner Ground Control Station for ArduPilot (c# .net)
+* 【2023-01-21】[trailofbits / RpcInvestigator](https://github.com/trailofbits/RpcInvestigator) - Exploring RPC interfaces on Windows
 * 【2023-01-20】[Robert1802 / CSharp-CheatSheet](https://github.com/Robert1802/CSharp-CheatSheet) - 
 * 【2023-01-20】[Ether2023 / Ether-Uprotector](https://github.com/Ether2023/Ether-Uprotector) - An Integrated Encryption & Protection Scheme for Unity Project(Mono & IL2CPP)
 * 【2023-01-19】[hoainam10th123 / SocialMediaApp](https://github.com/hoainam10th123/SocialMediaApp) - 
@@ -461,6 +491,8 @@
 
 ## Html
 
+* 【2023-01-21】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎machine learning tutorials (mainly in Python3)
+* 【2023-01-21】[dosdude1 / 2.5-inch-ide-ssd](https://github.com/dosdude1/2.5-inch-ide-ssd) - A custom-designed IDE SSD for use in any machine that utilizies a 2.5" IDE hard disk.
 * 【2023-01-20】[themesberg / flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 * 【2023-01-20】[picocss / examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 * 【2023-01-20】[Asabeneh / 30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML) - A step by step guide to learn the concept of HTML, DOM tree, and web development in 30 days.
@@ -498,6 +530,8 @@
 
 ## Css
 
+* 【2023-01-21】[ThePrimeagen / orgwasm](https://github.com/ThePrimeagen/orgwasm) - 
+* 【2023-01-21】[cmsc389T-winter23 / cmsc389T-web-template](https://github.com/cmsc389T-winter23/cmsc389T-web-template) - 
 * 【2023-01-20】[tentin-quarantino / wykop-the-best-style](https://github.com/tentin-quarantino/wykop-the-best-style) - 
 * 【2023-01-20】[501351981 / vue-office](https://github.com/501351981/vue-office) - 支持word(.docx)、excel(.xlsx)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案
 * 【2023-01-19】[romeojeremiah / javascript-projects-for-beginners](https://github.com/romeojeremiah/javascript-projects-for-beginners) - Repository for all (future) 100+ JavaScript projects for beginners created on JSBeginners.com.
@@ -544,6 +578,12 @@
 
 ## Unknown
 
+* 【2023-01-21】[AssemblyAI-Examples / ML-Study-Guide](https://github.com/AssemblyAI-Examples/ML-Study-Guide) - Minimal Machine Learning Study Plan
+* 【2023-01-21】[Yutaka-Sawada / MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Parchive tool
+* 【2023-01-21】[flashohq / open-source-react-courses](https://github.com/flashohq/open-source-react-courses) - 
+* 【2023-01-21】[Bert-JanP / Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules & Hunting Rules.
+* 【2023-01-21】[google / season-of-docs](https://github.com/google/season-of-docs) - Supporting materials for Google's Season of Docs program
+* 【2023-01-21】[electric-capital / developer-reports](https://github.com/electric-capital/developer-reports) - Electric Capital Developer Reports
 * 【2023-01-20】[clue-ai / ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan:元语功能型对话大模型（开源版）
 * 【2023-01-20】[Azure / AKS](https://github.com/Azure/AKS) - Azure Kubernetes Service
 * 【2023-01-20】[badtuxx / CertifiedContainersExpert](https://github.com/badtuxx/CertifiedContainersExpert) - 
