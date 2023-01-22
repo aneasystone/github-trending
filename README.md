@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2023-01-22】[timothybrooks / instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
+* 【2023-01-22】[AcademySoftwareFoundation / xstudio](https://github.com/AcademySoftwareFoundation/xstudio) - 
+* 【2023-01-22】[google-research / tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
+* 【2023-01-22】[TheMozg / awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
+* 【2023-01-22】[easychen / CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+* 【2023-01-22】[FrontAnalyticsInc / data-winners](https://github.com/FrontAnalyticsInc/data-winners) - A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.
+* 【2023-01-22】[nuxt / nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
+* 【2023-01-22】[projectdiscovery / pdtm](https://github.com/projectdiscovery/pdtm) - ProjectDiscovery's Open Source Tool Manager
+* 【2023-01-22】[mitesh77 / Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 * 【2023-01-21】[AcademySoftwareFoundation / OpenRV](https://github.com/AcademySoftwareFoundation/OpenRV) - 
 * 【2023-01-21】[Dimillian / IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 * 【2023-01-21】[llSourcell / ChatGPT_Trading_Bot](https://github.com/llSourcell/ChatGPT_Trading_Bot) - This is the code for the "ChatGPT Trading Bot" Video by Siraj Raval on Youtube
@@ -144,6 +153,12 @@
 
 ## Python
 
+* 【2023-01-22】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
+* 【2023-01-22】[horizon3ai / CVE-2022-47966](https://github.com/horizon3ai/CVE-2022-47966) - POC for CVE-2022-47966 affecting multiple ManageEngine products
+* 【2023-01-22】[inventree / InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
+* 【2023-01-22】[rougier / scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
+* 【2023-01-22】[devanshbatham / Awesome-Bugbounty-Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups) - A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference
+* 【2023-01-22】[databricks-academy / data-engineer-learning-path](https://github.com/databricks-academy/data-engineer-learning-path) - 
 * 【2023-01-21】[karfly / chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 * 【2023-01-21】[mahdibland / V2RayAggregator](https://github.com/mahdibland/V2RayAggregator) - Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed
 * 【2023-01-21】[robusta-dev / robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration
@@ -231,6 +246,10 @@
 
 ## Javascript
 
+* 【2023-01-22】[elk-zone / elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
+* 【2023-01-22】[harryheman / React-Total](https://github.com/harryheman/React-Total) - Ресурс для изучения React.js и связанных с ним технологий на русском языке
+* 【2023-01-22】[BrasilAPI / BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
+* 【2023-01-22】[victorharry / zap-gpt](https://github.com/victorharry/zap-gpt) - Chat GPT para Whatsapp
 * 【2023-01-21】[verekia / js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡Step-by-step tutorial to build a modern JavaScript stack.
 * 【2023-01-21】[rohan-paul / Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers. Many of them, I faced in actual interviews and ultimately got my first full-stack Dev job :)
 * 【2023-01-21】[plankanban / planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -292,6 +311,10 @@
 
 ## Go
 
+* 【2023-01-22】[keyval-dev / odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes.🚀Boost existing monitoring tools with higher-quality data
+* 【2023-01-22】[cloudwego / kitex-examples](https://github.com/cloudwego/kitex-examples) - Examples for Kitex.
+* 【2023-01-22】[qdm12 / gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+* 【2023-01-22】[qifengzhang007 / GinSkeleton](https://github.com/qifengzhang007/GinSkeleton) - 基于go语言gin框架封装的web项目骨架
 * 【2023-01-21】[noborus / ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
 * 【2023-01-21】[project-copacetic / copacetic](https://github.com/project-copacetic/copacetic) - CLI tool for directly patching container images using reports from vulnerability scanners
 * 【2023-01-21】[chainguard-images / images](https://github.com/chainguard-images/images) - Public Chainguard Images
@@ -332,6 +355,10 @@
 
 ## C
 
+* 【2023-01-22】[lem0nSec / CreateRemoteThreadPlus](https://github.com/lem0nSec/CreateRemoteThreadPlus) - CreateRemoteThread: how to pass multiple parameters to the remote thread function without shellcode.
+* 【2023-01-22】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+* 【2023-01-22】[NixOS / patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
+* 【2023-01-22】[otya128 / winevdm](https://github.com/otya128/winevdm) - 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
 * 【2023-01-21】[SchedMD / slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 * 【2023-01-21】[hesterdx2 / Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main](https://github.com/hesterdx2/Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main) - Windows-multiple-DLL-Injector-Eac-Be-Vanguard-main
 * 【2023-01-21】[TH3xACE / SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo for linux privilege escalation.
@@ -384,6 +411,7 @@
 
 ## C++
 
+* 【2023-01-22】[A9FM / Akebi-GC](https://github.com/A9FM/Akebi-GC) - 
 * 【2023-01-21】[apache / brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
 * 【2023-01-21】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
 * 【2023-01-21】[TigerVNC / tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -446,6 +474,9 @@
 
 ## C#
 
+* 【2023-01-22】[malyawka / URP-ScreenSpaceCavity](https://github.com/malyawka/URP-ScreenSpaceCavity) - Blender Cavity Effect for Unity
+* 【2023-01-22】[abishekaditya / DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
+* 【2023-01-22】[SkyWorkAIGC / SkyChat-Chinese-Chatbot-GPT3](https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3) - SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing. / SkyChat是一款基于中文GPT-3 API做的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。
 * 【2023-01-21】[Shopify / handy](https://github.com/Shopify/handy) - The easiest way to mocap your hands!
 * 【2023-01-21】[ArduPilot / MissionPlanner](https://github.com/ArduPilot/MissionPlanner) - Mission Planner Ground Control Station for ArduPilot (c# .net)
 * 【2023-01-21】[trailofbits / RpcInvestigator](https://github.com/trailofbits/RpcInvestigator) - Exploring RPC interfaces on Windows
@@ -491,6 +522,7 @@
 
 ## Html
 
+* 【2023-01-22】[TavernAI / TavernAI](https://github.com/TavernAI/TavernAI) - Atmospheric adventure chat shell for AI language models
 * 【2023-01-21】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎machine learning tutorials (mainly in Python3)
 * 【2023-01-21】[dosdude1 / 2.5-inch-ide-ssd](https://github.com/dosdude1/2.5-inch-ide-ssd) - A custom-designed IDE SSD for use in any machine that utilizies a 2.5" IDE hard disk.
 * 【2023-01-20】[themesberg / flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
@@ -530,6 +562,9 @@
 
 ## Css
 
+* 【2023-01-22】[bcgov / pipeline-templates](https://github.com/bcgov/pipeline-templates) - A catalog of templates for installing and managing different CI/CD technologies.
+* 【2023-01-22】[Ihtram-Magno / ihtram-magno.github.io](https://github.com/Ihtram-Magno/ihtram-magno.github.io) - Encriptador de texto parte del Challenge Alura ONE Oracle Next Education
+* 【2023-01-22】[alanopaixao / word_cup_cards](https://github.com/alanopaixao/word_cup_cards) - 
 * 【2023-01-21】[ThePrimeagen / orgwasm](https://github.com/ThePrimeagen/orgwasm) - 
 * 【2023-01-21】[cmsc389T-winter23 / cmsc389T-web-template](https://github.com/cmsc389T-winter23/cmsc389T-web-template) - 
 * 【2023-01-20】[tentin-quarantino / wykop-the-best-style](https://github.com/tentin-quarantino/wykop-the-best-style) - 
@@ -578,6 +613,12 @@
 
 ## Unknown
 
+* 【2023-01-22】[Blackymas / NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
+* 【2023-01-22】[gligen / GLIGEN](https://github.com/gligen/GLIGEN) - 
+* 【2023-01-22】[Akebi-Private / Akebi-Issue-Tracker](https://github.com/Akebi-Private/Akebi-Issue-Tracker) - 
+* 【2023-01-22】[hollowgourd / GofreeVPN](https://github.com/hollowgourd/GofreeVPN) - 如何快速搭建一个属于自己的VPN系统科学上网翻墙
+* 【2023-01-22】[openwrtkitty / photonicat-ipks](https://github.com/openwrtkitty/photonicat-ipks) - 
+* 【2023-01-22】[osurf / kzdy](https://github.com/osurf/kzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2023-01-21】[AssemblyAI-Examples / ML-Study-Guide](https://github.com/AssemblyAI-Examples/ML-Study-Guide) - Minimal Machine Learning Study Plan
 * 【2023-01-21】[Yutaka-Sawada / MultiPar](https://github.com/Yutaka-Sawada/MultiPar) - Parchive tool
 * 【2023-01-21】[flashohq / open-source-react-courses](https://github.com/flashohq/open-source-react-courses) - 
