@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2023-01-23】[LazyVim / LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+* 【2023-01-23】[bellingcat / octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
+* 【2023-01-23】[Sairyss / domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+* 【2023-01-23】[adrianhajdin / project_ai_mern_image_generation](https://github.com/adrianhajdin/project_ai_mern_image_generation) - Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone
+* 【2023-01-23】[Moriafly / SaltPlayerSource](https://github.com/Moriafly/SaltPlayerSource) - Salt Player Update
+* 【2023-01-23】[HelloGitHub-Team / geese](https://github.com/HelloGitHub-Team/geese) - 焕然一新的 HelloGitHub 官网，开源爱好者的乐园。
 * 【2023-01-22】[timothybrooks / instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 * 【2023-01-22】[AcademySoftwareFoundation / xstudio](https://github.com/AcademySoftwareFoundation/xstudio) - 
 * 【2023-01-22】[google-research / tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -113,6 +119,11 @@
 
 ## Java
 
+* 【2023-01-23】[AnySoftKeyboard / AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
+* 【2023-01-23】[fhsinchy / movieist](https://github.com/fhsinchy/movieist) - REST API powered by Spring Boot written for a freeCodeCamp course
+* 【2023-01-23】[xManager-App / xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
+* 【2023-01-23】[Ninjabrain1 / Ninjabrain-Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot) - Accurate stronghold calculator for Minecraft speedrunning.
+* 【2023-01-23】[developersu / ns-usbloader](https://github.com/developersu/ns-usbloader) - Awoo Installer and GoldLeaf uploader of the NSPs (and other files), RCM payload injector, application for split/merge files.
 * 【2023-01-21】[jacoco / jacoco](https://github.com/jacoco/jacoco) - 🔬Java Code Coverage Library
 * 【2023-01-21】[wwwlike / vlife](https://github.com/wwwlike/vlife) - 为开发人员打造的低代码开发平台。编写pojo模型+前端配置完成功能开发；包含表单设计器、查询报表设计器、前后端代码生成、权限管理脚手架应用等；配套前端地址：https://github.com/wwwlike/vlife-admin-react
 * 【2023-01-19】[cjbi / admin3](https://github.com/cjbi/admin3) - 一个灵活高效不臃肿的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于TypeScript、Vite3、Vue3、Element Plus，只提供登录会话、用户管理、角色管理、权限资源管理、事件日志等基础功能的最佳实践方案，不做过多的封装，适合二次定制开发、接私活、源码学习等场景
@@ -153,6 +164,8 @@
 
 ## Python
 
+* 【2023-01-23】[nod-ai / SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
+* 【2023-01-23】[kohya-ss / sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 * 【2023-01-22】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
 * 【2023-01-22】[horizon3ai / CVE-2022-47966](https://github.com/horizon3ai/CVE-2022-47966) - POC for CVE-2022-47966 affecting multiple ManageEngine products
 * 【2023-01-22】[inventree / InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
@@ -246,6 +259,10 @@
 
 ## Javascript
 
+* 【2023-01-23】[tabarra / txAdmin](https://github.com/tabarra/txAdmin) - txAdmin - remotely manage&monitor your GTA5 FiveM Server
+* 【2023-01-23】[hiddify / hiddify-config](https://github.com/hiddify/hiddify-config) - 
+* 【2023-01-23】[davidarroyo1234 / InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
+* 【2023-01-23】[browsh-org / browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 * 【2023-01-22】[elk-zone / elk-native](https://github.com/elk-zone/elk-native) - Native version of Elk, a nimble Mastodon web
 * 【2023-01-22】[harryheman / React-Total](https://github.com/harryheman/React-Total) - Ресурс для изучения React.js и связанных с ним технологий на русском языке
 * 【2023-01-22】[BrasilAPI / BrasilAPI](https://github.com/BrasilAPI/BrasilAPI) - Vamos transformar o Brasil em uma API?
@@ -311,6 +328,13 @@
 
 ## Go
 
+* 【2023-01-23】[cloudwego / biz-demo](https://github.com/cloudwego/biz-demo) - 
+* 【2023-01-23】[superfly / litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
+* 【2023-01-23】[boyter / scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+* 【2023-01-23】[prest / prest](https://github.com/prest/prest) - PostgreSQL➕REST, low-code, simplify and accelerate development,⚡instant, realtime, high-performance on any Postgres application, existing or new
+* 【2023-01-23】[muesli / duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+* 【2023-01-23】[vmware-archive / octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* 【2023-01-23】[burrowers / garble](https://github.com/burrowers/garble) - Obfuscate Go builds
 * 【2023-01-22】[keyval-dev / odigos](https://github.com/keyval-dev/odigos) - Instant distributed traces without code changes.🚀Boost existing monitoring tools with higher-quality data
 * 【2023-01-22】[cloudwego / kitex-examples](https://github.com/cloudwego/kitex-examples) - Examples for Kitex.
 * 【2023-01-22】[qdm12 / gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -355,6 +379,10 @@
 
 ## C
 
+* 【2023-01-23】[adafruit / Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) - Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from
+* 【2023-01-23】[jhhoward / WolfensteinCGA](https://github.com/jhhoward/WolfensteinCGA) - Wolfenstein 3D with a CGA renderer
+* 【2023-01-23】[mildsunrise / cursed_gpu_linux](https://github.com/mildsunrise/cursed_gpu_linux) - ⚙️Attempt to run Linux in a GPU shader
+* 【2023-01-23】[open-quantum-safe / liboqs](https://github.com/open-quantum-safe/liboqs) - C library for prototyping and experimenting with quantum-resistant cryptography
 * 【2023-01-22】[lem0nSec / CreateRemoteThreadPlus](https://github.com/lem0nSec/CreateRemoteThreadPlus) - CreateRemoteThread: how to pass multiple parameters to the remote thread function without shellcode.
 * 【2023-01-22】[n64decomp / sm64](https://github.com/n64decomp/sm64) - A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
 * 【2023-01-22】[NixOS / patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
@@ -411,6 +439,9 @@
 
 ## C++
 
+* 【2023-01-23】[CarlBugeja / Open-Reflow](https://github.com/CarlBugeja/Open-Reflow) - A controller for self-reflowing PCBs
+* 【2023-01-23】[project64 / project64](https://github.com/project64/project64) - N64 Emulator
+* 【2023-01-23】[google / swiftshader](https://github.com/google/swiftshader) - SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
 * 【2023-01-22】[A9FM / Akebi-GC](https://github.com/A9FM/Akebi-GC) - 
 * 【2023-01-21】[apache / brpc](https://github.com/apache/brpc) - brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".
 * 【2023-01-21】[trilinos / Trilinos](https://github.com/trilinos/Trilinos) - Primary repository for the Trilinos Project
@@ -474,6 +505,9 @@
 
 ## C#
 
+* 【2023-01-23】[opentween / OpenTween](https://github.com/opentween/OpenTween) - TwitterクライアントのTweenからフォークしたオープンなプロジェクト
+* 【2023-01-23】[MirrorNetworking / Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
+* 【2023-01-23】[bdunderscore / modular-avatar](https://github.com/bdunderscore/modular-avatar) - 
 * 【2023-01-22】[malyawka / URP-ScreenSpaceCavity](https://github.com/malyawka/URP-ScreenSpaceCavity) - Blender Cavity Effect for Unity
 * 【2023-01-22】[abishekaditya / DesignPatterns](https://github.com/abishekaditya/DesignPatterns) - Project : Design Patterns Examples in C#
 * 【2023-01-22】[SkyWorkAIGC / SkyChat-Chinese-Chatbot-GPT3](https://github.com/SkyWorkAIGC/SkyChat-Chinese-Chatbot-GPT3) - SkyChat is a Chatbot project based on Chinese GPT3 API. Like chatGPT, it can do human-machine chat, question and answer, and can also complete tasks such as Chinese-English or English-Chinese translation, content continuation, couplets, and Chinese ancient poems writing. / SkyChat是一款基于中文GPT-3 API做的聊天机器人项目。它可以像chatGPT一样，实现人机聊天、问答、中英文互译、对对联、写古诗等任务。
@@ -522,6 +556,7 @@
 
 ## Html
 
+* 【2023-01-23】[maykbrito / nlw-setup](https://github.com/maykbrito/nlw-setup) - Habit Tracker by NLW's Rocketseat
 * 【2023-01-22】[TavernAI / TavernAI](https://github.com/TavernAI/TavernAI) - Atmospheric adventure chat shell for AI language models
 * 【2023-01-21】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎machine learning tutorials (mainly in Python3)
 * 【2023-01-21】[dosdude1 / 2.5-inch-ide-ssd](https://github.com/dosdude1/2.5-inch-ide-ssd) - A custom-designed IDE SSD for use in any machine that utilizies a 2.5" IDE hard disk.
@@ -613,6 +648,9 @@
 
 ## Unknown
 
+* 【2023-01-23】[VzBoT3D / Vz-Printhead-Printed](https://github.com/VzBoT3D/Vz-Printhead-Printed) - Printed version of the Vz-Printhead
+* 【2023-01-23】[travistangvh / ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
+* 【2023-01-23】[NARUTOfzr / Cura-Neptune-TEST](https://github.com/NARUTOfzr/Cura-Neptune-TEST) - ELEGOO-FDM
 * 【2023-01-22】[Blackymas / NSPanel_HA_Blueprint](https://github.com/Blackymas/NSPanel_HA_Blueprint) - This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code
 * 【2023-01-22】[gligen / GLIGEN](https://github.com/gligen/GLIGEN) - 
 * 【2023-01-22】[Akebi-Private / Akebi-Issue-Tracker](https://github.com/Akebi-Private/Akebi-Issue-Tracker) - 
