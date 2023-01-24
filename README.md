@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2023-01-24】[DessertHeart / Dive-Into-Blockchain](https://github.com/DessertHeart/Dive-Into-Blockchain) - 旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀
 * 【2023-01-23】[LazyVim / LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 * 【2023-01-23】[bellingcat / octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
 * 【2023-01-23】[Sairyss / domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
@@ -119,6 +120,10 @@
 
 ## Java
 
+* 【2023-01-24】[DylanCope / Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change.
+* 【2023-01-24】[Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources, in Java. Now anyone can contribute to Sketchware Pro.
+* 【2023-01-24】[qqqkoko123 / qianghongbao](https://github.com/qqqkoko123/qianghongbao) - 本插件适用： 1.8.0.31最新版的微信红包，收到红包AI智能播报，抢完并回复“感谢老板”； 2.V8.9.23的QQ普通红包，拼手气红包以及口令红包，在抢完的同时自动发送"感谢老板"防封； 3.支付宝10.3.26.8210最新版支付宝拼手气红包； 4.适用最新版钉钉6.5.55.6拼手气红包。 5.适用4.0.20的最新版企业微信 6.适用23.5.0的最新版抖音红包
+* 【2023-01-24】[maxiaof / github-hosts](https://github.com/maxiaof/github-hosts) - 通过修改Hosts解决国内Github经常抽风访问不到,每日更新
 * 【2023-01-23】[AnySoftKeyboard / AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
 * 【2023-01-23】[fhsinchy / movieist](https://github.com/fhsinchy/movieist) - REST API powered by Spring Boot written for a freeCodeCamp course
 * 【2023-01-23】[xManager-App / xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
@@ -164,6 +169,10 @@
 
 ## Python
 
+* 【2023-01-24】[daveshap / LongtermChatExternalSources](https://github.com/daveshap/LongtermChatExternalSources) - GPT-3 chatbot with long-term memory and external sources
+* 【2023-01-24】[MoonInTheRiver / DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
+* 【2023-01-24】[fauxpilot / fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
+* 【2023-01-24】[SAGIRI-kawaii / sagiri-bot](https://github.com/SAGIRI-kawaii/sagiri-bot) - 基于Graia Ariadne和Mirai的QQ机器人 SAGIRI-BOT
 * 【2023-01-23】[nod-ai / SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning for CPUs, GPUs, Accelerators and Heterogeneous Clusters
 * 【2023-01-23】[kohya-ss / sd-scripts](https://github.com/kohya-ss/sd-scripts) - 
 * 【2023-01-22】[biopython / biopython](https://github.com/biopython/biopython) - Official git repository for Biopython (originally converted from CVS)
@@ -259,6 +268,7 @@
 
 ## Javascript
 
+* 【2023-01-24】[adrianhajdin / project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
 * 【2023-01-23】[tabarra / txAdmin](https://github.com/tabarra/txAdmin) - txAdmin - remotely manage&monitor your GTA5 FiveM Server
 * 【2023-01-23】[hiddify / hiddify-config](https://github.com/hiddify/hiddify-config) - 
 * 【2023-01-23】[davidarroyo1234 / InstagramUnfollowers](https://github.com/davidarroyo1234/InstagramUnfollowers) - Check if people follows you back on Instagram.
@@ -328,6 +338,8 @@
 
 ## Go
 
+* 【2023-01-24】[tomnomnom / assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
+* 【2023-01-24】[jinzhongjia / movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
 * 【2023-01-23】[cloudwego / biz-demo](https://github.com/cloudwego/biz-demo) - 
 * 【2023-01-23】[superfly / litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
 * 【2023-01-23】[boyter / scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -379,6 +391,8 @@
 
 ## C
 
+* 【2023-01-24】[NUL0x4C / APCLdr](https://github.com/NUL0x4C/APCLdr) - Payload Loader With Evasion Features
+* 【2023-01-24】[tijme / amd-ryzen-master-driver-v17-exploit](https://github.com/tijme/amd-ryzen-master-driver-v17-exploit) - Cobalt Strike (CS) Beacon Object File (BOF) for kernel exploitation using AMD's Ryzen Master Driver (version 17).
 * 【2023-01-23】[adafruit / Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) - Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from
 * 【2023-01-23】[jhhoward / WolfensteinCGA](https://github.com/jhhoward/WolfensteinCGA) - Wolfenstein 3D with a CGA renderer
 * 【2023-01-23】[mildsunrise / cursed_gpu_linux](https://github.com/mildsunrise/cursed_gpu_linux) - ⚙️Attempt to run Linux in a GPU shader
@@ -505,6 +519,8 @@
 
 ## C#
 
+* 【2023-01-24】[arkypita / LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser optimized GUI for GRBL
+* 【2023-01-24】[dotnet / TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
 * 【2023-01-23】[opentween / OpenTween](https://github.com/opentween/OpenTween) - TwitterクライアントのTweenからフォークしたオープンなプロジェクト
 * 【2023-01-23】[MirrorNetworking / Mirror](https://github.com/MirrorNetworking/Mirror) - #1 Open Source Unity Networking Library
 * 【2023-01-23】[bdunderscore / modular-avatar](https://github.com/bdunderscore/modular-avatar) - 
@@ -556,6 +572,7 @@
 
 ## Html
 
+* 【2023-01-24】[openvpi / vocoders](https://github.com/openvpi/vocoders) - DiffSinger community vocoders release page
 * 【2023-01-23】[maykbrito / nlw-setup](https://github.com/maykbrito/nlw-setup) - Habit Tracker by NLW's Rocketseat
 * 【2023-01-22】[TavernAI / TavernAI](https://github.com/TavernAI/TavernAI) - Atmospheric adventure chat shell for AI language models
 * 【2023-01-21】[ethen8181 / machine-learning](https://github.com/ethen8181/machine-learning) - 🌎machine learning tutorials (mainly in Python3)
@@ -597,6 +614,8 @@
 
 ## Css
 
+* 【2023-01-24】[yakimka / python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
+* 【2023-01-24】[eazybytes / springsecurity6](https://github.com/eazybytes/springsecurity6) - Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples
 * 【2023-01-22】[bcgov / pipeline-templates](https://github.com/bcgov/pipeline-templates) - A catalog of templates for installing and managing different CI/CD technologies.
 * 【2023-01-22】[Ihtram-Magno / ihtram-magno.github.io](https://github.com/Ihtram-Magno/ihtram-magno.github.io) - Encriptador de texto parte del Challenge Alura ONE Oracle Next Education
 * 【2023-01-22】[alanopaixao / word_cup_cards](https://github.com/alanopaixao/word_cup_cards) - 
@@ -648,6 +667,11 @@
 
 ## Unknown
 
+* 【2023-01-24】[dair-ai / AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
+* 【2023-01-24】[Scyne / stadiaRawBtFw](https://github.com/Scyne/stadiaRawBtFw) - A dump of the Raw Stadia controller BT Firmware
+* 【2023-01-24】[jaegeral / companies-hiring-security-remote](https://github.com/jaegeral/companies-hiring-security-remote) - This repo is meant to be a list of companies that hire security people full remote.
+* 【2023-01-24】[91Merry / Going](https://github.com/91Merry/Going) - 91Merry
+* 【2023-01-24】[Yule718 / Yule718](https://github.com/Yule718/Yule718) - Config files for my GitHub profile.
 * 【2023-01-23】[VzBoT3D / Vz-Printhead-Printed](https://github.com/VzBoT3D/Vz-Printhead-Printed) - Printed version of the Vz-Printhead
 * 【2023-01-23】[travistangvh / ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
 * 【2023-01-23】[NARUTOfzr / Cura-Neptune-TEST](https://github.com/NARUTOfzr/Cura-Neptune-TEST) - ELEGOO-FDM
