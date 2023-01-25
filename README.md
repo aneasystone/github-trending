@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-25】[DaviMarta / Automatiza-o](https://github.com/DaviMarta/Automatiza-o) - 
+* 【2023-01-25】[resendlabs / react-email](https://github.com/resendlabs/react-email) - 💌Build and send emails using React
+* 【2023-01-25】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
+* 【2023-01-25】[halo-dev / console](https://github.com/halo-dev/console) - Web Console for Halo(Formerly halo-admin)
 * 【2023-01-24】[DessertHeart / Dive-Into-Blockchain](https://github.com/DessertHeart/Dive-Into-Blockchain) - 旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀
 * 【2023-01-23】[LazyVim / LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 * 【2023-01-23】[bellingcat / octosuite](https://github.com/bellingcat/octosuite) - Advanced Github OSINT Framework
@@ -120,6 +124,10 @@
 
 ## Java
 
+* 【2023-01-25】[ParanoidUser / codewars-handbook](https://github.com/ParanoidUser/codewars-handbook) - A code warrior's handbook 🐱‍💻
+* 【2023-01-25】[structurizr / dsl](https://github.com/structurizr/dsl) - Structurizr DSL
+* 【2023-01-25】[CaoAssignments / cse12-wi23-pa2-ArrayList-starter](https://github.com/CaoAssignments/cse12-wi23-pa2-ArrayList-starter) - 
+* 【2023-01-25】[varunu28 / LeetCode-Java-Solutions](https://github.com/varunu28/LeetCode-Java-Solutions) - Solutions to LeetCode Online Judge problems in Java
 * 【2023-01-24】[DylanCope / Evolving-Protozoa](https://github.com/DylanCope/Evolving-Protozoa) - An interactive environment where protozoa-like entities live, die, and have offspring whose behaviours and morphologies can change.
 * 【2023-01-24】[Sketchware-Pro / Sketchware-Pro](https://github.com/Sketchware-Pro/Sketchware-Pro) - Sketchware Pro's sources, in Java. Now anyone can contribute to Sketchware Pro.
 * 【2023-01-24】[qqqkoko123 / qianghongbao](https://github.com/qqqkoko123/qianghongbao) - 本插件适用： 1.8.0.31最新版的微信红包，收到红包AI智能播报，抢完并回复“感谢老板”； 2.V8.9.23的QQ普通红包，拼手气红包以及口令红包，在抢完的同时自动发送"感谢老板"防封； 3.支付宝10.3.26.8210最新版支付宝拼手气红包； 4.适用最新版钉钉6.5.55.6拼手气红包。 5.适用4.0.20的最新版企业微信 6.适用23.5.0的最新版抖音红包
@@ -169,6 +177,12 @@
 
 ## Python
 
+* 【2023-01-25】[PanolasVal / Valorant-cheat-aimbot-and-esp-undetected-by-Panolas](https://github.com/PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas) - Best Undetected Valorant Cheeto, strictly for educational purposes only!!!
+* 【2023-01-25】[JalaliLabUCLA / phycv](https://github.com/JalaliLabUCLA/phycv) - PhyCV: The First Physics-inspired Computer Vision Library
+* 【2023-01-25】[facebookresearch / dadaptation](https://github.com/facebookresearch/dadaptation) - D-Adaptation for SGD, Adam and AdaGrad
+* 【2023-01-25】[Xpitfire / symbolicai](https://github.com/Xpitfire/symbolicai) - Compositional Differentiable Programming Library
+* 【2023-01-25】[keyu-tian / SparK](https://github.com/keyu-tian/SparK) - [ICLR'23 Spotlight] The first successful BERT-style pretraining on any *convolutional network*; Pytorch impl. of "Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling"
+* 【2023-01-25】[wger-project / wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 * 【2023-01-24】[daveshap / LongtermChatExternalSources](https://github.com/daveshap/LongtermChatExternalSources) - GPT-3 chatbot with long-term memory and external sources
 * 【2023-01-24】[MoonInTheRiver / DiffSinger](https://github.com/MoonInTheRiver/DiffSinger) - DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code
 * 【2023-01-24】[fauxpilot / fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
@@ -338,6 +352,7 @@
 
 ## Go
 
+* 【2023-01-25】[lyc8503 / EasierConnect](https://github.com/lyc8503/EasierConnect) - Sangfor EasyConnect protocol reimplementation in Go
 * 【2023-01-24】[tomnomnom / assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 * 【2023-01-24】[jinzhongjia / movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
 * 【2023-01-23】[cloudwego / biz-demo](https://github.com/cloudwego/biz-demo) - 
@@ -391,6 +406,11 @@
 
 ## C
 
+* 【2023-01-25】[cnlohr / epaper_projects](https://github.com/cnlohr/epaper_projects) - 
+* 【2023-01-25】[gonzalezreal / swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
+* 【2023-01-25】[elastic / Silhouette](https://github.com/elastic/Silhouette) - Keep it secret, keep it safe
+* 【2023-01-25】[raspberrypi / firmware](https://github.com/raspberrypi/firmware) - This repository contains pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
+* 【2023-01-25】[TurtleARM / CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC) - 
 * 【2023-01-24】[NUL0x4C / APCLdr](https://github.com/NUL0x4C/APCLdr) - Payload Loader With Evasion Features
 * 【2023-01-24】[tijme / amd-ryzen-master-driver-v17-exploit](https://github.com/tijme/amd-ryzen-master-driver-v17-exploit) - Cobalt Strike (CS) Beacon Object File (BOF) for kernel exploitation using AMD's Ryzen Master Driver (version 17).
 * 【2023-01-23】[adafruit / Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) - Adafruit GFX graphics core Arduino library, this is the 'core' class that all our other graphics libraries derive from
@@ -453,6 +473,8 @@
 
 ## C++
 
+* 【2023-01-25】[Liuhaixv / Goose_Goose_Duck_Hack](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck. 鹅鸭杀外部辅助
+* 【2023-01-25】[sebbbi / OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
 * 【2023-01-23】[CarlBugeja / Open-Reflow](https://github.com/CarlBugeja/Open-Reflow) - A controller for self-reflowing PCBs
 * 【2023-01-23】[project64 / project64](https://github.com/project64/project64) - N64 Emulator
 * 【2023-01-23】[google / swiftshader](https://github.com/google/swiftshader) - SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
@@ -519,6 +541,11 @@
 
 ## C#
 
+* 【2023-01-25】[otterkit / otterkit](https://github.com/otterkit/otterkit) - Otterkit COBOL Compiler
+* 【2023-01-25】[mastercodeon314 / KsDumper-11](https://github.com/mastercodeon314/KsDumper-11) - A revival of the classic and legendary KsDumper
+* 【2023-01-25】[EventStore / EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event sourcing
+* 【2023-01-25】[dlemstra / Magick.NET](https://github.com/dlemstra/Magick.NET) - The .NET library for ImageMagick
+* 【2023-01-25】[bhrugen / Bulky](https://github.com/bhrugen/Bulky) - 
 * 【2023-01-24】[arkypita / LaserGRBL](https://github.com/arkypita/LaserGRBL) - Laser optimized GUI for GRBL
 * 【2023-01-24】[dotnet / TorchSharp](https://github.com/dotnet/TorchSharp) - A .NET library that provides access to the library that powers PyTorch.
 * 【2023-01-23】[opentween / OpenTween](https://github.com/opentween/OpenTween) - TwitterクライアントのTweenからフォークしたオープンなプロジェクト
@@ -572,6 +599,8 @@
 
 ## Html
 
+* 【2023-01-25】[monkxy / blooket-hacks](https://github.com/monkxy/blooket-hacks) - One of the best Blooket hacks constantly being updated!
+* 【2023-01-25】[yangqihang0117 / yangqihang0117.github.io](https://github.com/yangqihang0117/yangqihang0117.github.io) - Personal blog site based on Hugo & Anatole
 * 【2023-01-24】[openvpi / vocoders](https://github.com/openvpi/vocoders) - DiffSinger community vocoders release page
 * 【2023-01-23】[maykbrito / nlw-setup](https://github.com/maykbrito/nlw-setup) - Habit Tracker by NLW's Rocketseat
 * 【2023-01-22】[TavernAI / TavernAI](https://github.com/TavernAI/TavernAI) - Atmospheric adventure chat shell for AI language models
@@ -614,6 +643,10 @@
 
 ## Css
 
+* 【2023-01-25】[arekku17 / EncriptadorAmongUs](https://github.com/arekku17/EncriptadorAmongUs) - Encriptador y Desencriptador de Mensajes con temática de Among Us
+* 【2023-01-25】[devxp-projects / github-project-manager](https://github.com/devxp-projects/github-project-manager) - 
+* 【2023-01-25】[WebDevVikramChoudhary / small_projects_for_beginners_using_Html-Css-Js](https://github.com/WebDevVikramChoudhary/small_projects_for_beginners_using_Html-Css-Js) - 
+* 【2023-01-25】[JeffersonD-art / one-challenge-encriptador-texto](https://github.com/JeffersonD-art/one-challenge-encriptador-texto) - encriptador de texto reto one alura latam
 * 【2023-01-24】[yakimka / python_interview_questions](https://github.com/yakimka/python_interview_questions) - Вопросы для подготовки к интервью на позицию Python Developer
 * 【2023-01-24】[eazybytes / springsecurity6](https://github.com/eazybytes/springsecurity6) - Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples
 * 【2023-01-22】[bcgov / pipeline-templates](https://github.com/bcgov/pipeline-templates) - A catalog of templates for installing and managing different CI/CD technologies.
@@ -667,6 +700,11 @@
 
 ## Unknown
 
+* 【2023-01-25】[merveenoyan / my_notes](https://github.com/merveenoyan/my_notes) - My small cheatsheets for data science, ML, computer science and more.
+* 【2023-01-25】[pythontoday / junior_python_developer_roadmap](https://github.com/pythontoday/junior_python_developer_roadmap) - 
+* 【2023-01-25】[alura-challenges / challenge-one-encriptador-latam](https://github.com/alura-challenges/challenge-one-encriptador-latam) - Repositorio para la vitrina de proyectos para el Challenge del Programa Oracle ONE
+* 【2023-01-25】[OpenClassrooms-Student-Center / 1603881-creez-votre-site-web-avec-html5-et-css3](https://github.com/OpenClassrooms-Student-Center/1603881-creez-votre-site-web-avec-html5-et-css3) - 
+* 【2023-01-25】[yaociyuan / ycy-news-url](https://github.com/yaociyuan/ycy-news-url) - 妖次元官方公告＆新网址发布
 * 【2023-01-24】[dair-ai / AI-Product-Index](https://github.com/dair-ai/AI-Product-Index) - A curated index to track AI-powered products.
 * 【2023-01-24】[Scyne / stadiaRawBtFw](https://github.com/Scyne/stadiaRawBtFw) - A dump of the Raw Stadia controller BT Firmware
 * 【2023-01-24】[jaegeral / companies-hiring-security-remote](https://github.com/jaegeral/companies-hiring-security-remote) - This repo is meant to be a list of companies that hire security people full remote.
