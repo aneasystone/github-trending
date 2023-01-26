@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-26】[TheAppleTucker / backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
+* 【2023-01-26】[JDA-DM / mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
+* 【2023-01-26】[initialcommit-com / git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
+* 【2023-01-26】[bregman-arie / sre-checklist](https://github.com/bregman-arie/sre-checklist) - A checklist of anyone practicing Site Reliability Engineering
 * 【2023-01-25】[DaviMarta / Automatiza-o](https://github.com/DaviMarta/Automatiza-o) - 
 * 【2023-01-25】[resendlabs / react-email](https://github.com/resendlabs/react-email) - 💌Build and send emails using React
 * 【2023-01-25】[XayahSuSuSu / Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - 数据备份 DataBackup for Android
@@ -124,6 +128,9 @@
 
 ## Java
 
+* 【2023-01-26】[confluentinc / kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud) - Kafka Connect suite of connectors for Cloud storage (Amazon S3)
+* 【2023-01-26】[gephi / gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
+* 【2023-01-26】[microsoft / playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
 * 【2023-01-25】[ParanoidUser / codewars-handbook](https://github.com/ParanoidUser/codewars-handbook) - A code warrior's handbook 🐱‍💻
 * 【2023-01-25】[structurizr / dsl](https://github.com/structurizr/dsl) - Structurizr DSL
 * 【2023-01-25】[CaoAssignments / cse12-wi23-pa2-ArrayList-starter](https://github.com/CaoAssignments/cse12-wi23-pa2-ArrayList-starter) - 
@@ -177,6 +184,9 @@
 
 ## Python
 
+* 【2023-01-26】[yihui-he / ActGPT](https://github.com/yihui-he/ActGPT) - chatbot does what you ask, like open Google search, post a Tweet, etc.
+* 【2023-01-26】[aahashemi / YouTubeAutomation-Reddit](https://github.com/aahashemi/YouTubeAutomation-Reddit) - 
+* 【2023-01-26】[paramiko / paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 * 【2023-01-25】[PanolasVal / Valorant-cheat-aimbot-and-esp-undetected-by-Panolas](https://github.com/PanolasVal/Valorant-cheat-aimbot-and-esp-undetected-by-Panolas) - Best Undetected Valorant Cheeto, strictly for educational purposes only!!!
 * 【2023-01-25】[JalaliLabUCLA / phycv](https://github.com/JalaliLabUCLA/phycv) - PhyCV: The First Physics-inspired Computer Vision Library
 * 【2023-01-25】[facebookresearch / dadaptation](https://github.com/facebookresearch/dadaptation) - D-Adaptation for SGD, Adam and AdaGrad
@@ -282,6 +292,8 @@
 
 ## Javascript
 
+* 【2023-01-26】[tundeph / rev-mobile-app](https://github.com/tundeph/rev-mobile-app) - Tasks mobile apps with React Native
+* 【2023-01-26】[TradeDoge / Crypto-Bot](https://github.com/TradeDoge/Crypto-Bot) - Trading-Bot
 * 【2023-01-24】[adrianhajdin / project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant) - This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
 * 【2023-01-23】[tabarra / txAdmin](https://github.com/tabarra/txAdmin) - txAdmin - remotely manage&monitor your GTA5 FiveM Server
 * 【2023-01-23】[hiddify / hiddify-config](https://github.com/hiddify/hiddify-config) - 
@@ -352,6 +364,7 @@
 
 ## Go
 
+* 【2023-01-26】[cilium / hubble](https://github.com/cilium/hubble) - Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 * 【2023-01-25】[lyc8503 / EasierConnect](https://github.com/lyc8503/EasierConnect) - Sangfor EasyConnect protocol reimplementation in Go
 * 【2023-01-24】[tomnomnom / assetfinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain
 * 【2023-01-24】[jinzhongjia / movie-getter](https://github.com/jinzhongjia/movie-getter) - Go编写的影视资源采集器
@@ -406,6 +419,12 @@
 
 ## C
 
+* 【2023-01-26】[Octoberfest7 / Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE) - Execute unmanaged Windows executables in CobaltStrike Beacons
+* 【2023-01-26】[abishekvashok / cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+* 【2023-01-26】[Shopify / javy](https://github.com/Shopify/javy) - JS to WebAssembly toolchain
+* 【2023-01-26】[bucanero / pkgi-ps3](https://github.com/bucanero/pkgi-ps3) - A PlayStation 3 package download tool
+* 【2023-01-26】[rizinorg / rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
+* 【2023-01-26】[F5OEO / rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi
 * 【2023-01-25】[cnlohr / epaper_projects](https://github.com/cnlohr/epaper_projects) - 
 * 【2023-01-25】[gonzalezreal / swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
 * 【2023-01-25】[elastic / Silhouette](https://github.com/elastic/Silhouette) - Keep it secret, keep it safe
@@ -473,6 +492,10 @@
 
 ## C++
 
+* 【2023-01-26】[seanbaxter / circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
+* 【2023-01-26】[OpenEnroth / OpenEnroth](https://github.com/OpenEnroth/OpenEnroth) - Open reimplementation of Might and Magic 6 7 8 game engine
+* 【2023-01-26】[oziavci / cat-dog-feeder-wifi](https://github.com/oziavci/cat-dog-feeder-wifi) - Automatic pet feeder. It can be timed and managed online. ESP8266 nodemcu project.
+* 【2023-01-26】[Rosalie241 / RMG](https://github.com/Rosalie241/RMG) - Rosalie's Mupen GUI
 * 【2023-01-25】[Liuhaixv / Goose_Goose_Duck_Hack](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck. 鹅鸭杀外部辅助
 * 【2023-01-25】[sebbbi / OffsetAllocator](https://github.com/sebbbi/OffsetAllocator) - Fast O(1) offset allocator with minimal fragmentation
 * 【2023-01-23】[CarlBugeja / Open-Reflow](https://github.com/CarlBugeja/Open-Reflow) - A controller for self-reflowing PCBs
@@ -541,6 +564,8 @@
 
 ## C#
 
+* 【2023-01-26】[fullstackhero / dotnet-microservices-boilerplate](https://github.com/fullstackhero/dotnet-microservices-boilerplate) - .NET Microservices Boilerplate built with Dapr and other cool stuff.
+* 【2023-01-26】[FirstGearGames / FishNet](https://github.com/FirstGearGames/FishNet) - FishNet: Unity Networking Evolved.
 * 【2023-01-25】[otterkit / otterkit](https://github.com/otterkit/otterkit) - Otterkit COBOL Compiler
 * 【2023-01-25】[mastercodeon314 / KsDumper-11](https://github.com/mastercodeon314/KsDumper-11) - A revival of the classic and legendary KsDumper
 * 【2023-01-25】[EventStore / EventStore](https://github.com/EventStore/EventStore) - The stream database optimised for event sourcing
@@ -599,6 +624,7 @@
 
 ## Html
 
+* 【2023-01-26】[lrusso / ArduinoSimulator](https://github.com/lrusso/ArduinoSimulator) - Arduino Simulator in JavaScript
 * 【2023-01-25】[monkxy / blooket-hacks](https://github.com/monkxy/blooket-hacks) - One of the best Blooket hacks constantly being updated!
 * 【2023-01-25】[yangqihang0117 / yangqihang0117.github.io](https://github.com/yangqihang0117/yangqihang0117.github.io) - Personal blog site based on Hugo & Anatole
 * 【2023-01-24】[openvpi / vocoders](https://github.com/openvpi/vocoders) - DiffSinger community vocoders release page
@@ -643,6 +669,7 @@
 
 ## Css
 
+* 【2023-01-26】[jessopf / SmartyTemplates](https://github.com/jessopf/SmartyTemplates) - 
 * 【2023-01-25】[arekku17 / EncriptadorAmongUs](https://github.com/arekku17/EncriptadorAmongUs) - Encriptador y Desencriptador de Mensajes con temática de Among Us
 * 【2023-01-25】[devxp-projects / github-project-manager](https://github.com/devxp-projects/github-project-manager) - 
 * 【2023-01-25】[WebDevVikramChoudhary / small_projects_for_beginners_using_Html-Css-Js](https://github.com/WebDevVikramChoudhary/small_projects_for_beginners_using_Html-Css-Js) - 
@@ -700,6 +727,10 @@
 
 ## Unknown
 
+* 【2023-01-26】[ProgrammingHero1 / legal-solution-resources](https://github.com/ProgrammingHero1/legal-solution-resources) - 
+* 【2023-01-26】[Ignitetechnologies / Mindmap](https://github.com/Ignitetechnologies/Mindmap) - 
+* 【2023-01-26】[DonAndMike / JavaScript-DEX-Triangular-Arbitrage-Bot-v4](https://github.com/DonAndMike/JavaScript-DEX-Triangular-Arbitrage-Bot-v4) - This is a open source project for triangular arbitrage between multiple decentralized exchanges. The project is fully functional and has proven to be highly effective. It searches for profitable trades and executes them, resulting in a profit for the user.
+* 【2023-01-26】[CSCI1300-StartingComputing / CSCI1300-Spring2023](https://github.com/CSCI1300-StartingComputing/CSCI1300-Spring2023) - Repository for course content (homeworks, projects, recitation exercises) of CSCI 1300 in Spring 2023.
 * 【2023-01-25】[merveenoyan / my_notes](https://github.com/merveenoyan/my_notes) - My small cheatsheets for data science, ML, computer science and more.
 * 【2023-01-25】[pythontoday / junior_python_developer_roadmap](https://github.com/pythontoday/junior_python_developer_roadmap) - 
 * 【2023-01-25】[alura-challenges / challenge-one-encriptador-latam](https://github.com/alura-challenges/challenge-one-encriptador-latam) - Repositorio para la vitrina de proyectos para el Challenge del Programa Oracle ONE
