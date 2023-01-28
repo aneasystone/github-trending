@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-28】[flutter / news_toolkit](https://github.com/flutter/news_toolkit) - A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit
+* 【2023-01-28】[HexRaysSA / goomba](https://github.com/HexRaysSA/goomba) - gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
+* 【2023-01-28】[localsend / localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+* 【2023-01-28】[Mokshit06 / typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 * 【2023-01-27】[udlbook / udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince
 * 【2023-01-26】[TheAppleTucker / backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
 * 【2023-01-26】[JDA-DM / mojxml2geojson](https://github.com/JDA-DM/mojxml2geojson) - 法務省登記所備付地図データ（地図XML）をGeoJSONに変換するコンバータ
@@ -129,6 +133,10 @@
 
 ## Java
 
+* 【2023-01-28】[DavidWhitlock / PortlandStateJavaKatasWinter2023](https://github.com/DavidWhitlock/PortlandStateJavaKatasWinter2023) - Coding Katas that we do together in Advanced Programming with Java at Portland State University
+* 【2023-01-28】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor⚡️
+* 【2023-01-28】[venkivijay / Java-Solutions-TCS-Xplore-Proctored-Assessment](https://github.com/venkivijay/Java-Solutions-TCS-Xplore-Proctored-Assessment) - Java Solution to the TCS Xplore Proctored Assessment 2020
+* 【2023-01-28】[JavaOPs / topjava](https://github.com/JavaOPs/topjava) - Java Enterprise: Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery
 * 【2023-01-26】[confluentinc / kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud) - Kafka Connect suite of connectors for Cloud storage (Amazon S3)
 * 【2023-01-26】[gephi / gephi](https://github.com/gephi/gephi) - Gephi - The Open Graph Viz Platform
 * 【2023-01-26】[microsoft / playwright-java](https://github.com/microsoft/playwright-java) - Java version of the Playwright testing and automation library
@@ -185,6 +193,9 @@
 
 ## Python
 
+* 【2023-01-28】[Sentdex / ChatGPT-at-Home](https://github.com/Sentdex/ChatGPT-at-Home) - ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT
+* 【2023-01-28】[Klace / stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) - Extension for webui to run instruct-pix2pix
+* 【2023-01-28】[Azure / Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
 * 【2023-01-27】[kserve / kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 * 【2023-01-27】[AzeemIdrisi / PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.
 * 【2023-01-27】[lvwerra / trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
@@ -297,6 +308,7 @@
 
 ## Javascript
 
+* 【2023-01-28】[node-fetch / node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 * 【2023-01-27】[novuhq / blog](https://github.com/novuhq/blog) - 
 * 【2023-01-27】[jaku / SnapCameraPreservation](https://github.com/jaku/SnapCameraPreservation) - 
 * 【2023-01-27】[jsdelivr / jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
@@ -372,6 +384,9 @@
 
 ## Go
 
+* 【2023-01-28】[XZB-1248 / Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
+* 【2023-01-28】[golang / oauth2](https://github.com/golang/oauth2) - Go OAuth2
+* 【2023-01-28】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 * 【2023-01-27】[getkin / kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
 * 【2023-01-27】[pressly / goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 * 【2023-01-27】[bufanyun / hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
@@ -430,6 +445,8 @@
 
 ## C
 
+* 【2023-01-28】[Sorosliu1029 / CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣CMU-15213 CS:APP3e labs
+* 【2023-01-28】[YeLikesss / GalgameReverse](https://github.com/YeLikesss/GalgameReverse) - 
 * 【2023-01-27】[zserge / fenster](https://github.com/zserge/fenster) - The most minimal cross-platform GUI library
 * 【2023-01-27】[GetRektBoy724 / DCMB](https://github.com/GetRektBoy724/DCMB) - Dont Call Me Back - Dynamic kernel callback resolver.
 * 【2023-01-27】[EFeru / hoverboard-firmware-hack-FOC](https://github.com/EFeru/hoverboard-firmware-hack-FOC) - With Field Oriented Control (FOC)
@@ -580,6 +597,10 @@
 
 ## C#
 
+* 【2023-01-28】[Fody / Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
+* 【2023-01-28】[eversinc33 / SharpStartWebclient](https://github.com/eversinc33/SharpStartWebclient) - Programmatically start WebClient from an unprivileged session to enable that juicy privesc.
+* 【2023-01-28】[SteamRE / SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
+* 【2023-01-28】[Tualin14 / ArisStudio](https://github.com/Tualin14/ArisStudio) - 做你自己的碧蓝档案故事 | Make your own BlueArchive story
 * 【2023-01-27】[dobrado76 / Stable-Diffusion-Unity-Integration](https://github.com/dobrado76/Stable-Diffusion-Unity-Integration) - Stable-Diffusion-Unity-Integration
 * 【2023-01-26】[fullstackhero / dotnet-microservices-boilerplate](https://github.com/fullstackhero/dotnet-microservices-boilerplate) - .NET Microservices Boilerplate built with Dapr and other cool stuff.
 * 【2023-01-26】[FirstGearGames / FishNet](https://github.com/FirstGearGames/FishNet) - FishNet: Unity Networking Evolved.
@@ -641,6 +662,8 @@
 
 ## Html
 
+* 【2023-01-28】[digitalinnovationone / roadmaps](https://github.com/digitalinnovationone/roadmaps) - Repositório público com Roadmaps colaborativos baseados nos conteúdos educacionais da DIO.
+* 【2023-01-28】[molly / annotate](https://github.com/molly/annotate) - Annotate text and publish it on the web
 * 【2023-01-27】[msu-econ-data-analytics / course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
 * 【2023-01-27】[strandjs / IntroLabs](https://github.com/strandjs/IntroLabs) - These are the labs for my Intro class. Yes, this is public. Yes, this is intentional.
 * 【2023-01-27】[dragon731012 / -WORKING-bookmarklets-and-games](https://github.com/dragon731012/-WORKING-bookmarklets-and-games) - over 60 working bookmarklets and games for school and other stuff-please star! Check out my discord server! thanks! Thank you all from the bottom of my heart for all the stars and forks. I really appreciate it. news: added shrekify
@@ -689,6 +712,14 @@
 
 ## Css
 
+* 【2023-01-28】[Czechitas-JavaScript-1 / lekce2-udalosti-api](https://github.com/Czechitas-JavaScript-1/lekce2-udalosti-api) - Czechitas Javascript 1 - Práce s událostmi a API prvků v rámci Lekce 2
+* 【2023-01-28】[WTBoostersDev / WomenHealthFoundation](https://github.com/WTBoostersDev/WomenHealthFoundation) - 
+* 【2023-01-28】[vijoh01 / fe22-vh-slutprojekt-grupp-6](https://github.com/vijoh01/fe22-vh-slutprojekt-grupp-6) - 
+* 【2023-01-28】[trungdavid123 / -FE22-VH-Slutprojekt-Group-9](https://github.com/trungdavid123/-FE22-VH-Slutprojekt-Group-9) - This is a message board app
+* 【2023-01-28】[34306 / iPA](https://github.com/34306/iPA) - iPA Saved
+* 【2023-01-28】[polarisofficial / website](https://github.com/polarisofficial/website) - Polaris is a new rhythm game built in web technologies.
+* 【2023-01-28】[brokenhandsio / are-we-server-yet](https://github.com/brokenhandsio/are-we-server-yet) - Are we server yet? A simple reckoning of Swift’s readiness for Server-related things. Inspired by arewewebyet.org
+* 【2023-01-28】[mrrfv / linux-android-backup](https://github.com/mrrfv/linux-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 * 【2023-01-27】[rikky0611 / teach-PUI-2023S](https://github.com/rikky0611/teach-PUI-2023S) - 
 * 【2023-01-27】[majahristova / Vs-slutproject](https://github.com/majahristova/Vs-slutproject) - 
 * 【2023-01-27】[MultiverseLearningProducts / greeno-flowers](https://github.com/MultiverseLearningProducts/greeno-flowers) - An Node/Express Web Application serving up a static html landing page
@@ -750,6 +781,10 @@
 
 ## Unknown
 
+* 【2023-01-28】[alt3kx / CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC) - CVE-2023-24055 PoC (KeePass 2.5x)
+* 【2023-01-28】[kmcquade / awesome-azure-security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
+* 【2023-01-28】[rigelminer / rigel](https://github.com/rigelminer/rigel) - Optimised Nvidia GPU miner
+* 【2023-01-28】[dongyubin / Free-AppleId-Serve](https://github.com/dongyubin/Free-AppleId-Serve) - 🚀免费Shadowrocket账号，🚀免费订阅地址，🚀免费节点，🚀每天更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan/clash节点、谷歌商店、翻墙梯子
 * 【2023-01-27】[hagezi / dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 * 【2023-01-27】[alanleedev / KoreaSecurityApps](https://github.com/alanleedev/KoreaSecurityApps) - 
 * 【2023-01-27】[autonomousvision / stylegan-t](https://github.com/autonomousvision/stylegan-t) - [ARXIV'23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis
