@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-01-29】[komeilmehranfar / companies-with-remote-positions-available-for-iranians](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians) - List of companies with remote positions which hire Iranian experts
+* 【2023-01-29】[PaulWaltersDev / FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.
+* 【2023-01-29】[charliermarsh / ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 * 【2023-01-28】[flutter / news_toolkit](https://github.com/flutter/news_toolkit) - A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit
 * 【2023-01-28】[HexRaysSA / goomba](https://github.com/HexRaysSA/goomba) - gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions
 * 【2023-01-28】[localsend / localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
@@ -133,6 +136,8 @@
 
 ## Java
 
+* 【2023-01-29】[niteshbhaiya4224 / movie-searching-webApp](https://github.com/niteshbhaiya4224/movie-searching-webApp) - 
+* 【2023-01-29】[vaadin / flow](https://github.com/vaadin/flow) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
 * 【2023-01-28】[DavidWhitlock / PortlandStateJavaKatasWinter2023](https://github.com/DavidWhitlock/PortlandStateJavaKatasWinter2023) - Coding Katas that we do together in Advanced Programming with Java at Portland State University
 * 【2023-01-28】[ionic-team / capacitor-plugins](https://github.com/ionic-team/capacitor-plugins) - Official plugins for Capacitor⚡️
 * 【2023-01-28】[venkivijay / Java-Solutions-TCS-Xplore-Proctored-Assessment](https://github.com/venkivijay/Java-Solutions-TCS-Xplore-Proctored-Assessment) - Java Solution to the TCS Xplore Proctored Assessment 2020
@@ -193,6 +198,12 @@
 
 ## Python
 
+* 【2023-01-29】[sjvasquez / handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs✏️
+* 【2023-01-29】[comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI.
+* 【2023-01-29】[hwchase17 / langchain-hub](https://github.com/hwchase17/langchain-hub) - 
+* 【2023-01-29】[mandiant / capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+* 【2023-01-29】[dionach / CMSmap](https://github.com/dionach/CMSmap) - CMSmap is a python open source CMS scanner that automates the process of detecting security flaws of the most popular CMSs.
+* 【2023-01-29】[machine1337 / fake-sms](https://github.com/machine1337/fake-sms) - A small and efficent script to send SMS all over the world anonymously
 * 【2023-01-28】[Sentdex / ChatGPT-at-Home](https://github.com/Sentdex/ChatGPT-at-Home) - ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT
 * 【2023-01-28】[Klace / stable-diffusion-webui-instruct-pix2pix](https://github.com/Klace/stable-diffusion-webui-instruct-pix2pix) - Extension for webui to run instruct-pix2pix
 * 【2023-01-28】[Azure / Azure-Network-Security](https://github.com/Azure/Azure-Network-Security) - Resources for improving Customer Experience with Azure Network Security
@@ -308,6 +319,7 @@
 
 ## Javascript
 
+* 【2023-01-29】[wiedehopf / tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 * 【2023-01-28】[node-fetch / node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 * 【2023-01-27】[novuhq / blog](https://github.com/novuhq/blog) - 
 * 【2023-01-27】[jaku / SnapCameraPreservation](https://github.com/jaku/SnapCameraPreservation) - 
@@ -384,6 +396,9 @@
 
 ## Go
 
+* 【2023-01-29】[redis / go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
+* 【2023-01-29】[vmware / govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
+* 【2023-01-29】[iyear / tdl](https://github.com/iyear/tdl) - 📥Telegram Downloader, but more than a downloader
 * 【2023-01-28】[XZB-1248 / Spark](https://github.com/XZB-1248/Spark) - ✨Spark is a web-based, cross-platform and full-featured Remote Administration Tool (RAT) written in Go that allows you control all your devices anywhere. Spark是一个Go编写的，网页UI、跨平台以及多功能的远程控制和监控工具，你可以随时随地监控和控制所有设备。
 * 【2023-01-28】[golang / oauth2](https://github.com/golang/oauth2) - Go OAuth2
 * 【2023-01-28】[elastic / cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
@@ -445,6 +460,7 @@
 
 ## C
 
+* 【2023-01-29】[paranoidninja / Proxy-DLL-Loads](https://github.com/paranoidninja/Proxy-DLL-Loads) - The code is a pingback to the Dark Vortex blog:
 * 【2023-01-28】[Sorosliu1029 / CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣CMU-15213 CS:APP3e labs
 * 【2023-01-28】[YeLikesss / GalgameReverse](https://github.com/YeLikesss/GalgameReverse) - 
 * 【2023-01-27】[zserge / fenster](https://github.com/zserge/fenster) - The most minimal cross-platform GUI library
@@ -597,6 +613,9 @@
 
 ## C#
 
+* 【2023-01-29】[Fody / MethodTimer](https://github.com/Fody/MethodTimer) - Injects some very basic method timing code.
+* 【2023-01-29】[modery / PowerDocu](https://github.com/modery/PowerDocu) - Generate technical documentation from your existing Power Automate Flows and Power Apps canvas apps
+* 【2023-01-29】[kwsch / SysBot.NET](https://github.com/kwsch/SysBot.NET) - sys-botbase client for remote control automation of Nintendo Switch consoles.
 * 【2023-01-28】[Fody / Fody](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies
 * 【2023-01-28】[eversinc33 / SharpStartWebclient](https://github.com/eversinc33/SharpStartWebclient) - Programmatically start WebClient from an unprivileged session to enable that juicy privesc.
 * 【2023-01-28】[SteamRE / SteamKit](https://github.com/SteamRE/SteamKit) - SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
@@ -662,6 +681,8 @@
 
 ## Html
 
+* 【2023-01-29】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
+* 【2023-01-29】[insolitum / character_encoder](https://github.com/insolitum/character_encoder) - Add random ASCII characters to the text
 * 【2023-01-28】[digitalinnovationone / roadmaps](https://github.com/digitalinnovationone/roadmaps) - Repositório público com Roadmaps colaborativos baseados nos conteúdos educacionais da DIO.
 * 【2023-01-28】[molly / annotate](https://github.com/molly/annotate) - Annotate text and publish it on the web
 * 【2023-01-27】[msu-econ-data-analytics / course-materials](https://github.com/msu-econ-data-analytics/course-materials) - 
@@ -712,6 +733,14 @@
 
 ## Css
 
+* 【2023-01-29】[thejsway / thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
+* 【2023-01-29】[stuartpb / achewatr](https://github.com/stuartpb/achewatr) - 
+* 【2023-01-29】[Checkmarx / capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
+* 【2023-01-29】[Timearchitect / frontend-22-VC-](https://github.com/Timearchitect/frontend-22-VC-) - test fredagen 13
+* 【2023-01-29】[rknightuk / mac-30-font-svg](https://github.com/rknightuk/mac-30-font-svg) - Mac 30th Anniversary Icon SVGs
+* 【2023-01-29】[joy-of-react / word-clone](https://github.com/joy-of-react/word-clone) - 
+* 【2023-01-29】[adamstddrd / grease](https://github.com/adamstddrd/grease) - 
+* 【2023-01-29】[sdcilsy / landing-page](https://github.com/sdcilsy/landing-page) - Landing Page Example for web
 * 【2023-01-28】[Czechitas-JavaScript-1 / lekce2-udalosti-api](https://github.com/Czechitas-JavaScript-1/lekce2-udalosti-api) - Czechitas Javascript 1 - Práce s událostmi a API prvků v rámci Lekce 2
 * 【2023-01-28】[WTBoostersDev / WomenHealthFoundation](https://github.com/WTBoostersDev/WomenHealthFoundation) - 
 * 【2023-01-28】[vijoh01 / fe22-vh-slutprojekt-grupp-6](https://github.com/vijoh01/fe22-vh-slutprojekt-grupp-6) - 
@@ -781,6 +810,12 @@
 
 ## Unknown
 
+* 【2023-01-29】[akikoo / accessibility-testing-tools](https://github.com/akikoo/accessibility-testing-tools) - A collection of useful tools for accessibility testing and debugging in the browser, online and desktop
+* 【2023-01-29】[automationhacks / testing-checklists](https://github.com/automationhacks/testing-checklists) - A curation of different checklists for testing and automation
+* 【2023-01-29】[ea / lytro_unlock](https://github.com/ea/lytro_unlock) - Documenting reverse engineering of the original Lytro lightfield camera
+* 【2023-01-29】[BankSecurity / Threat_Hunting](https://github.com/BankSecurity/Threat_Hunting) - Some Threat Hunting queries useful for blue teamers
+* 【2023-01-29】[mektigboy / evm-chad](https://github.com/mektigboy/evm-chad) - A curated list of the hottest and most fresh resources to become an EVM chad
+* 【2023-01-29】[Lolliedieb / lolMiner-releases](https://github.com/Lolliedieb/lolMiner-releases) - 
 * 【2023-01-28】[alt3kx / CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC) - CVE-2023-24055 PoC (KeePass 2.5x)
 * 【2023-01-28】[kmcquade / awesome-azure-security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 * 【2023-01-28】[rigelminer / rigel](https://github.com/rigelminer/rigel) - Optimised Nvidia GPU miner
