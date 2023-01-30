@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-01-30】[hwchase17 / chat-langchain](https://github.com/hwchase17/chat-langchain) - 
+* 【2023-01-30】[fathyb / carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 * 【2023-01-29】[komeilmehranfar / companies-with-remote-positions-available-for-iranians](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians) - List of companies with remote positions which hire Iranian experts
 * 【2023-01-29】[PaulWaltersDev / FreeLearningResourcesForSoftwareTesters](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters) - A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.
 * 【2023-01-29】[charliermarsh / ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
@@ -198,6 +200,11 @@
 
 ## Python
 
+* 【2023-01-30】[botallen / repository.botallen](https://github.com/botallen/repository.botallen) - Deprecated - Kodi add-on repository focused for Indian Media Contents
+* 【2023-01-30】[microsoft / restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+* 【2023-01-30】[microsoft / BioGPT](https://github.com/microsoft/BioGPT) - 
+* 【2023-01-30】[facebookresearch / CutLER](https://github.com/facebookresearch/CutLER) - Code release for "Cut and Learn for Unsupervised Object Detection and Instance Segmentation"
+* 【2023-01-30】[HackSoftware / Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 * 【2023-01-29】[sjvasquez / handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis) - Handwriting Synthesis with RNNs✏️
 * 【2023-01-29】[comfyanonymous / ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI.
 * 【2023-01-29】[hwchase17 / langchain-hub](https://github.com/hwchase17/langchain-hub) - 
@@ -319,6 +326,8 @@
 
 ## Javascript
 
+* 【2023-01-30】[yjs / yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+* 【2023-01-30】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2023-01-29】[wiedehopf / tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
 * 【2023-01-28】[node-fetch / node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 * 【2023-01-27】[novuhq / blog](https://github.com/novuhq/blog) - 
@@ -396,6 +405,8 @@
 
 ## Go
 
+* 【2023-01-30】[lobuhi / byp4xx](https://github.com/lobuhi/byp4xx) - 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
+* 【2023-01-30】[pachyderm / pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 * 【2023-01-29】[redis / go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
 * 【2023-01-29】[vmware / govmomi](https://github.com/vmware/govmomi) - Go library for the VMware vSphere API
 * 【2023-01-29】[iyear / tdl](https://github.com/iyear/tdl) - 📥Telegram Downloader, but more than a downloader
@@ -460,6 +471,9 @@
 
 ## C
 
+* 【2023-01-30】[0xdea / exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
+* 【2023-01-30】[tsoding / ded](https://github.com/tsoding/ded) - Dramatic EDitor
+* 【2023-01-30】[chettrick / discobsd](https://github.com/chettrick/discobsd) - 2.11BSD-based UNIX-like OS for STM32 and PIC32 Microcontrollers
 * 【2023-01-29】[paranoidninja / Proxy-DLL-Loads](https://github.com/paranoidninja/Proxy-DLL-Loads) - The code is a pingback to the Dark Vortex blog:
 * 【2023-01-28】[Sorosliu1029 / CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣CMU-15213 CS:APP3e labs
 * 【2023-01-28】[YeLikesss / GalgameReverse](https://github.com/YeLikesss/GalgameReverse) - 
@@ -613,6 +627,8 @@
 
 ## C#
 
+* 【2023-01-30】[Code52 / carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
+* 【2023-01-30】[ArchiDog1998 / RotationSolver](https://github.com/ArchiDog1998/RotationSolver) - Based on the pve combat information in one frame, find the best action.
 * 【2023-01-29】[Fody / MethodTimer](https://github.com/Fody/MethodTimer) - Injects some very basic method timing code.
 * 【2023-01-29】[modery / PowerDocu](https://github.com/modery/PowerDocu) - Generate technical documentation from your existing Power Automate Flows and Power Apps canvas apps
 * 【2023-01-29】[kwsch / SysBot.NET](https://github.com/kwsch/SysBot.NET) - sys-botbase client for remote control automation of Nintendo Switch consoles.
@@ -681,6 +697,8 @@
 
 ## Html
 
+* 【2023-01-30】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
+* 【2023-01-30】[martinshkreli / models](https://github.com/martinshkreli/models) - stock market models - have fun
 * 【2023-01-29】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 * 【2023-01-29】[insolitum / character_encoder](https://github.com/insolitum/character_encoder) - Add random ASCII characters to the text
 * 【2023-01-28】[digitalinnovationone / roadmaps](https://github.com/digitalinnovationone/roadmaps) - Repositório público com Roadmaps colaborativos baseados nos conteúdos educacionais da DIO.
@@ -733,6 +751,7 @@
 
 ## Css
 
+* 【2023-01-30】[jtriley-eth / the-ethereum-virtual-machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine) - 
 * 【2023-01-29】[thejsway / thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 * 【2023-01-29】[stuartpb / achewatr](https://github.com/stuartpb/achewatr) - 
 * 【2023-01-29】[Checkmarx / capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
@@ -810,6 +829,9 @@
 
 ## Unknown
 
+* 【2023-01-30】[erdilS / Port-Windows-11-Xiaomi-Pad-5](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5) - Based on POCO X3 Pro tutorial.
+* 【2023-01-30】[stevana / armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems) - 
+* 【2023-01-30】[it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books) - 📚极客时间电子书
 * 【2023-01-29】[akikoo / accessibility-testing-tools](https://github.com/akikoo/accessibility-testing-tools) - A collection of useful tools for accessibility testing and debugging in the browser, online and desktop
 * 【2023-01-29】[automationhacks / testing-checklists](https://github.com/automationhacks/testing-checklists) - A curation of different checklists for testing and automation
 * 【2023-01-29】[ea / lytro_unlock](https://github.com/ea/lytro_unlock) - Documenting reverse engineering of the original Lytro lightfield camera
