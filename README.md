@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-01-31】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
+* 【2023-01-31】[lucidrains / musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+* 【2023-01-31】[promptslab / Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
+* 【2023-01-31】[forrestchang / readpilot](https://github.com/forrestchang/readpilot) - Read Pilot analyzes online articles and generate Q&A cards for you. Powered by OpenAI & Next.js.
 * 【2023-01-30】[hwchase17 / chat-langchain](https://github.com/hwchase17/chat-langchain) - 
 * 【2023-01-30】[fathyb / carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 * 【2023-01-29】[komeilmehranfar / companies-with-remote-positions-available-for-iranians](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians) - List of companies with remote positions which hire Iranian experts
@@ -138,6 +142,8 @@
 
 ## Java
 
+* 【2023-01-31】[Trainguy9512 / trainguys-animation-overhaul](https://github.com/Trainguy9512/trainguys-animation-overhaul) - 
+* 【2023-01-31】[hanbings / alkaid](https://github.com/hanbings/alkaid) - 🌟Alkaid - 摇光 一只可以帮助你进行 Bukkit 插件开发的狼龙！A kemono wolf-dragon that can help you with Bukkit plugin development !
 * 【2023-01-29】[niteshbhaiya4224 / movie-searching-webApp](https://github.com/niteshbhaiya4224/movie-searching-webApp) - 
 * 【2023-01-29】[vaadin / flow](https://github.com/vaadin/flow) - Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.
 * 【2023-01-28】[DavidWhitlock / PortlandStateJavaKatasWinter2023](https://github.com/DavidWhitlock/PortlandStateJavaKatasWinter2023) - Coding Katas that we do together in Advanced Programming with Java at Portland State University
@@ -200,6 +206,7 @@
 
 ## Python
 
+* 【2023-01-31】[hwchase17 / notion-qa](https://github.com/hwchase17/notion-qa) - 
 * 【2023-01-30】[botallen / repository.botallen](https://github.com/botallen/repository.botallen) - Deprecated - Kodi add-on repository focused for Indian Media Contents
 * 【2023-01-30】[microsoft / restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
 * 【2023-01-30】[microsoft / BioGPT](https://github.com/microsoft/BioGPT) - 
@@ -326,6 +333,7 @@
 
 ## Javascript
 
+* 【2023-01-31】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 * 【2023-01-30】[yjs / yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 * 【2023-01-30】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2023-01-29】[wiedehopf / tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
@@ -405,6 +413,7 @@
 
 ## Go
 
+* 【2023-01-31】[ergo-services / ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 * 【2023-01-30】[lobuhi / byp4xx](https://github.com/lobuhi/byp4xx) - 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 * 【2023-01-30】[pachyderm / pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 * 【2023-01-29】[redis / go-redis](https://github.com/redis/go-redis) - Type-safe Redis client for Golang
@@ -471,6 +480,7 @@
 
 ## C
 
+* 【2023-01-31】[Esonhugh / sshd_backdoor](https://github.com/Esonhugh/sshd_backdoor) - /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook.
 * 【2023-01-30】[0xdea / exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
 * 【2023-01-30】[tsoding / ded](https://github.com/tsoding/ded) - Dramatic EDitor
 * 【2023-01-30】[chettrick / discobsd](https://github.com/chettrick/discobsd) - 2.11BSD-based UNIX-like OS for STM32 and PIC32 Microcontrollers
@@ -553,6 +563,7 @@
 
 ## C++
 
+* 【2023-01-31】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE) for Windows & Linux
 * 【2023-01-27】[hjenryin / BCJH-Metropolis](https://github.com/hjenryin/BCJH-Metropolis) - 基于模拟退火的爆炒江湖宴会计算器
 * 【2023-01-27】[iampawan / ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
 * 【2023-01-26】[seanbaxter / circle](https://github.com/seanbaxter/circle) - The compiler is available for download. Get it!
@@ -697,6 +708,8 @@
 
 ## Html
 
+* 【2023-01-31】[henryhu712 / technote](https://github.com/henryhu712/technote) - 编程笔记
+* 【2023-01-31】[hexagonkt / codecv](https://github.com/hexagonkt/codecv) - Manage your resume as structured data: CV format specification and tools to manage CV documents.
 * 【2023-01-30】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
 * 【2023-01-30】[martinshkreli / models](https://github.com/martinshkreli/models) - stock market models - have fun
 * 【2023-01-29】[realpython / materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
@@ -751,6 +764,7 @@
 
 ## Css
 
+* 【2023-01-31】[yumata / lampa](https://github.com/yumata/lampa) - 
 * 【2023-01-30】[jtriley-eth / the-ethereum-virtual-machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine) - 
 * 【2023-01-29】[thejsway / thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
 * 【2023-01-29】[stuartpb / achewatr](https://github.com/stuartpb/achewatr) - 
@@ -829,6 +843,8 @@
 
 ## Unknown
 
+* 【2023-01-31】[sger / RustBooks](https://github.com/sger/RustBooks) - List of Rust books
+* 【2023-01-31】[YerongAI / Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 * 【2023-01-30】[erdilS / Port-Windows-11-Xiaomi-Pad-5](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5) - Based on POCO X3 Pro tutorial.
 * 【2023-01-30】[stevana / armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems) - 
 * 【2023-01-30】[it-ebooks-0 / geektime-books](https://github.com/it-ebooks-0/geektime-books) - 📚极客时间电子书
