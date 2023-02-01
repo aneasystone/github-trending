@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-02-01】[AabyssZG / SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) - 针对SpringBoot的开源渗透框架，以及高危漏洞利用工具
+* 【2023-02-01】[showlab / Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 * 【2023-01-31】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
 * 【2023-01-31】[lucidrains / musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 * 【2023-01-31】[promptslab / Promptify](https://github.com/promptslab/Promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -333,6 +335,9 @@
 
 ## Javascript
 
+* 【2023-02-01】[learning-zone / nodejs-basics](https://github.com/learning-zone/nodejs-basics) - Node.js Basics ( v18.x )
+* 【2023-02-01】[lindaoling / jable-download](https://github.com/lindaoling/jable-download) - 方便下载jable的小工具
+* 【2023-02-01】[RuCu6 / QuanX](https://github.com/RuCu6/QuanX) - 禁止Fork！禁止Fork！禁止Fork！
 * 【2023-01-31】[LNReader / lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 * 【2023-01-30】[yjs / yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 * 【2023-01-30】[evilsocket / pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -413,6 +418,9 @@
 
 ## Go
 
+* 【2023-02-01】[aquasecurity / trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
+* 【2023-02-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+* 【2023-02-01】[qimengxingyuan / young_engine](https://github.com/qimengxingyuan/young_engine) - 简单的规则引擎
 * 【2023-01-31】[ergo-services / ergo](https://github.com/ergo-services/ergo) - an actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP in Golang
 * 【2023-01-30】[lobuhi / byp4xx](https://github.com/lobuhi/byp4xx) - 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 * 【2023-01-30】[pachyderm / pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
@@ -480,6 +488,8 @@
 
 ## C
 
+* 【2023-02-01】[infoskirmish / hive](https://github.com/infoskirmish/hive) - The CIA Hive source code as released by Wikileaks
+* 【2023-02-01】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2023-01-31】[Esonhugh / sshd_backdoor](https://github.com/Esonhugh/sshd_backdoor) - /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook.
 * 【2023-01-30】[0xdea / exploits](https://github.com/0xdea/exploits) - A handy collection of my public exploits, all in one place.
 * 【2023-01-30】[tsoding / ded](https://github.com/tsoding/ded) - Dramatic EDitor
@@ -638,6 +648,8 @@
 
 ## C#
 
+* 【2023-02-01】[Wra7h / FlavorTown](https://github.com/Wra7h/FlavorTown) - Various ways to execute shellcode
+* 【2023-02-01】[ConfusedPolarBear / intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 * 【2023-01-30】[Code52 / carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 * 【2023-01-30】[ArchiDog1998 / RotationSolver](https://github.com/ArchiDog1998/RotationSolver) - Based on the pve combat information in one frame, find the best action.
 * 【2023-01-29】[Fody / MethodTimer](https://github.com/Fody/MethodTimer) - Injects some very basic method timing code.
@@ -708,6 +720,9 @@
 
 ## Html
 
+* 【2023-02-01】[eddiechu / File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
+* 【2023-02-01】[pwlive / fullstackwebdevelopment](https://github.com/pwlive/fullstackwebdevelopment) - 
+* 【2023-02-01】[OCA / e-commerce](https://github.com/OCA/e-commerce) - Odoo E-Commerce server automation addons
 * 【2023-01-31】[henryhu712 / technote](https://github.com/henryhu712/technote) - 编程笔记
 * 【2023-01-31】[hexagonkt / codecv](https://github.com/hexagonkt/codecv) - Manage your resume as structured data: CV format specification and tools to manage CV documents.
 * 【2023-01-30】[iuricode / recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - 🌈Uma coleção com links de recursos gratuitos para desenvolvimentos e estudos.
@@ -764,6 +779,10 @@
 
 ## Css
 
+* 【2023-02-01】[metabrainz / geordi](https://github.com/metabrainz/geordi) - MusicBrainz label feed ingestion tools
+* 【2023-02-01】[funwebdev-3rd-ed / projects-start](https://github.com/funwebdev-3rd-ed/projects-start) - Starting files for End-of-Chapter Projects for Third Edition
+* 【2023-02-01】[michalosman / etch-a-sketch](https://github.com/michalosman/etch-a-sketch) - Etch a sketch game created with HTML, CSS and JS.
+* 【2023-02-01】[MediaComem / static-clock-website](https://github.com/MediaComem/static-clock-website) - A static website showing a clock
 * 【2023-01-31】[yumata / lampa](https://github.com/yumata/lampa) - 
 * 【2023-01-30】[jtriley-eth / the-ethereum-virtual-machine](https://github.com/jtriley-eth/the-ethereum-virtual-machine) - 
 * 【2023-01-29】[thejsway / thejsway](https://github.com/thejsway/thejsway) - The JavaScript Way book
@@ -843,6 +862,11 @@
 
 ## Unknown
 
+* 【2023-02-01】[archinetai / audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
+* 【2023-02-01】[blend-os / blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
+* 【2023-02-01】[trimstray / test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+* 【2023-02-01】[gracco / sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions) - 
+* 【2023-02-01】[EthanHuntDeng / gua-area](https://github.com/EthanHuntDeng/gua-area) - famous PDF
 * 【2023-01-31】[sger / RustBooks](https://github.com/sger/RustBooks) - List of Rust books
 * 【2023-01-31】[YerongAI / Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 * 【2023-01-30】[erdilS / Port-Windows-11-Xiaomi-Pad-5](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5) - Based on POCO X3 Pro tutorial.
