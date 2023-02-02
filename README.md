@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-02-02】[casey / ord](https://github.com/casey/ord) - 👁‍🗨Rare and exotic sats
+* 【2023-02-02】[microsoft / Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
+* 【2023-02-02】[Cysharp / SimdLinq](https://github.com/Cysharp/SimdLinq) - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.
 * 【2023-02-01】[AabyssZG / SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan) - 针对SpringBoot的开源渗透框架，以及高危漏洞利用工具
 * 【2023-02-01】[showlab / Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 * 【2023-01-31】[ahmedbahaaeldin / From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide) - Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.
@@ -208,6 +211,9 @@
 
 ## Python
 
+* 【2023-02-02】[Orange-Cyberdefense / KeePwn](https://github.com/Orange-Cyberdefense/KeePwn) - A python tool to automate KeePass discovery and secret extraction.
+* 【2023-02-02】[tysam-code / hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 10 seconds on a single A100, the current world record. Or ~95.77% in ~188 seconds.
+* 【2023-02-02】[microsoft / Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 * 【2023-01-31】[hwchase17 / notion-qa](https://github.com/hwchase17/notion-qa) - 
 * 【2023-01-30】[botallen / repository.botallen](https://github.com/botallen/repository.botallen) - Deprecated - Kodi add-on repository focused for Indian Media Contents
 * 【2023-01-30】[microsoft / restler-fuzzer](https://github.com/microsoft/restler-fuzzer) - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
@@ -335,6 +341,8 @@
 
 ## Javascript
 
+* 【2023-02-02】[logica-programacion / Solucion-Challenge-encriptador](https://github.com/logica-programacion/Solucion-Challenge-encriptador) - 
+* 【2023-02-02】[h7ml / h7ml](https://github.com/h7ml/h7ml) - 
 * 【2023-02-01】[learning-zone / nodejs-basics](https://github.com/learning-zone/nodejs-basics) - Node.js Basics ( v18.x )
 * 【2023-02-01】[lindaoling / jable-download](https://github.com/lindaoling/jable-download) - 方便下载jable的小工具
 * 【2023-02-01】[RuCu6 / QuanX](https://github.com/RuCu6/QuanX) - 禁止Fork！禁止Fork！禁止Fork！
@@ -418,6 +426,8 @@
 
 ## Go
 
+* 【2023-02-02】[j178 / leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek.🏂
+* 【2023-02-02】[EasyGolang / goTools](https://github.com/EasyGolang/goTools) - 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
 * 【2023-02-01】[aquasecurity / trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
 * 【2023-02-01】[go-co-op / gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
 * 【2023-02-01】[qimengxingyuan / young_engine](https://github.com/qimengxingyuan/young_engine) - 简单的规则引擎
@@ -488,6 +498,9 @@
 
 ## C
 
+* 【2023-02-02】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
+* 【2023-02-02】[alt-romes / programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
+* 【2023-02-02】[OmriBaso / RToolZ](https://github.com/OmriBaso/RToolZ) - A Stealthy Lsass Dumper - can abuse ProcExp152.sys driver to dump PPL Lsass, no dbghelp.lib calls.
 * 【2023-02-01】[infoskirmish / hive](https://github.com/infoskirmish/hive) - The CIA Hive source code as released by Wikileaks
 * 【2023-02-01】[lmarzen / esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 * 【2023-01-31】[Esonhugh / sshd_backdoor](https://github.com/Esonhugh/sshd_backdoor) - /root/.ssh/authorized_keys evil file watchdog with ebpf tracepoint hook.
@@ -573,6 +586,8 @@
 
 ## C++
 
+* 【2023-02-02】[cxasm / cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
+* 【2023-02-02】[williamlzw / ExDUIR](https://github.com/williamlzw/ExDUIR) - DirectUI framework for Windows platform. D3D11 and D2D rendering. Dozens of basic components. Supports the latest cef3 browser. Compiled dll can be called by python, go, java, c# and other languages. Unicode multi-language support.
 * 【2023-01-31】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE) for Windows & Linux
 * 【2023-01-27】[hjenryin / BCJH-Metropolis](https://github.com/hjenryin/BCJH-Metropolis) - 基于模拟退火的爆炒江湖宴会计算器
 * 【2023-01-27】[iampawan / ChatGPT-Flutter-AIChatBot](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot) - A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language model.
@@ -720,6 +735,8 @@
 
 ## Html
 
+* 【2023-02-02】[appwrite / pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system🎨
+* 【2023-02-02】[PatrickJS / awesome-angular](https://github.com/PatrickJS/awesome-angular) - 📄A curated list of awesome Angular resources
 * 【2023-02-01】[eddiechu / File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
 * 【2023-02-01】[pwlive / fullstackwebdevelopment](https://github.com/pwlive/fullstackwebdevelopment) - 
 * 【2023-02-01】[OCA / e-commerce](https://github.com/OCA/e-commerce) - Odoo E-Commerce server automation addons
@@ -779,6 +796,11 @@
 
 ## Css
 
+* 【2023-02-02】[gustavoguanabara / php-moderno](https://github.com/gustavoguanabara/php-moderno) - Repositório para o Curso de PHP moderno, disponível no Curso em Vídeo
+* 【2023-02-02】[sandhikagalih / PHP-Dasar](https://github.com/sandhikagalih/PHP-Dasar) - Materi PHP Dasar untuk Kuliah Pemrograman Web - Teknik Informatika UNPAS
+* 【2023-02-02】[bencentra / centrarium](https://github.com/bencentra/centrarium) - A simple yet classy theme for your Jekyll website or blog.
+* 【2023-02-02】[jamigibbs / phantom](https://github.com/jamigibbs/phantom) - A minimalist, responsive portfolio theme for Jekyll with Bootstrap
+* 【2023-02-02】[chb / indivo_sample_rails_app](https://github.com/chb/indivo_sample_rails_app) - Indivo app written in Rails to demonstrate Indivo authentication methods and generic OAuth calls
 * 【2023-02-01】[metabrainz / geordi](https://github.com/metabrainz/geordi) - MusicBrainz label feed ingestion tools
 * 【2023-02-01】[funwebdev-3rd-ed / projects-start](https://github.com/funwebdev-3rd-ed/projects-start) - Starting files for End-of-Chapter Projects for Third Edition
 * 【2023-02-01】[michalosman / etch-a-sketch](https://github.com/michalosman/etch-a-sketch) - Etch a sketch game created with HTML, CSS and JS.
@@ -862,6 +884,8 @@
 
 ## Unknown
 
+* 【2023-02-02】[Kadenio / Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C#
+* 【2023-02-02】[PanolasApex / Apex-Legends-aimbot-hack-ESP-by-Panolas](https://github.com/PanolasApex/Apex-Legends-aimbot-hack-ESP-by-Panolas) - Undetected Apex Aimbot/Cheat by Panolas! Educational Purposes only!
 * 【2023-02-01】[archinetai / audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 * 【2023-02-01】[blend-os / blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
 * 【2023-02-01】[trimstray / test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
