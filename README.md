@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-02-03】[jmforsythe / Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - 
+* 【2023-02-03】[damus-io / damus](https://github.com/damus-io/damus) - iOS nostr client
 * 【2023-02-02】[casey / ord](https://github.com/casey/ord) - 👁‍🗨Rare and exotic sats
 * 【2023-02-02】[microsoft / Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 * 【2023-02-02】[Cysharp / SimdLinq](https://github.com/Cysharp/SimdLinq) - Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.
@@ -211,6 +213,8 @@
 
 ## Python
 
+* 【2023-02-03】[horizon3ai / vRealizeLogInsightRCE](https://github.com/horizon3ai/vRealizeLogInsightRCE) - POC for RCE using vulnerabilities described in VMSA-2023-0001
+* 【2023-02-03】[zblurx / certsync](https://github.com/zblurx/certsync) - Dump NTDS with golden certificates and UnPAC the hash
 * 【2023-02-02】[Orange-Cyberdefense / KeePwn](https://github.com/Orange-Cyberdefense/KeePwn) - A python tool to automate KeePass discovery and secret extraction.
 * 【2023-02-02】[tysam-code / hlb-CIFAR10](https://github.com/tysam-code/hlb-CIFAR10) - Train to 94% on CIFAR-10 in less than 10 seconds on a single A100, the current world record. Or ~95.77% in ~188 seconds.
 * 【2023-02-02】[microsoft / Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
@@ -341,6 +345,9 @@
 
 ## Javascript
 
+* 【2023-02-03】[waylaidwanderer / node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A ChatGPT implementation using the official ChatGPT model via OpenAI's API.
+* 【2023-02-03】[elasticsearch-dump / elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
+* 【2023-02-03】[frank890417 / image-optimizer](https://github.com/frank890417/image-optimizer) - 
 * 【2023-02-02】[logica-programacion / Solucion-Challenge-encriptador](https://github.com/logica-programacion/Solucion-Challenge-encriptador) - 
 * 【2023-02-02】[h7ml / h7ml](https://github.com/h7ml/h7ml) - 
 * 【2023-02-01】[learning-zone / nodejs-basics](https://github.com/learning-zone/nodejs-basics) - Node.js Basics ( v18.x )
@@ -426,6 +433,8 @@
 
 ## Go
 
+* 【2023-02-03】[hashicorp-forge / hermes](https://github.com/hashicorp-forge/hermes) - A document management system
+* 【2023-02-03】[layou233 / NeverIdle](https://github.com/layou233/NeverIdle) - 资源定期浪费，可用于 Oracle 甲骨文保活。
 * 【2023-02-02】[j178 / leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek.🏂
 * 【2023-02-02】[EasyGolang / goTools](https://github.com/EasyGolang/goTools) - 一个 go 语言工具库, 让你在编写go应用程序时可以更加得心应手
 * 【2023-02-01】[aquasecurity / trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit
@@ -586,6 +595,8 @@
 
 ## C++
 
+* 【2023-02-03】[TheD1rkMtr / D1rkLrd](https://github.com/TheD1rkMtr/D1rkLrd) - Shellcode Loader with Indirect Dynamic syscall Implementation , shellcode in MAC format, API resolving from PEB, Syscall calll and syscall instruction address resolving at run time
+* 【2023-02-03】[microsoft / GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
 * 【2023-02-02】[cxasm / cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
 * 【2023-02-02】[williamlzw / ExDUIR](https://github.com/williamlzw/ExDUIR) - DirectUI framework for Windows platform. D3D11 and D2D rendering. Dozens of basic components. Supports the latest cef3 browser. Compiled dll can be called by python, go, java, c# and other languages. Unicode multi-language support.
 * 【2023-01-31】[SourMesen / Mesen2](https://github.com/SourMesen/Mesen2) - Multi-system emulator (NES, SNES, GB, PCE) for Windows & Linux
@@ -663,6 +674,8 @@
 
 ## C#
 
+* 【2023-02-03】[sshnet / SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
+* 【2023-02-03】[builtbybel / Debloos](https://github.com/builtbybel/Debloos) - Universal Debloater for Windows 11
 * 【2023-02-01】[Wra7h / FlavorTown](https://github.com/Wra7h/FlavorTown) - Various ways to execute shellcode
 * 【2023-02-01】[ConfusedPolarBear / intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 * 【2023-01-30】[Code52 / carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
@@ -796,6 +809,11 @@
 
 ## Css
 
+* 【2023-02-03】[diydiagnostics / App2-HelloWorld2023](https://github.com/diydiagnostics/App2-HelloWorld2023) - 
+* 【2023-02-03】[MTM6201-Web-Dev-II / Picture-This](https://github.com/MTM6201-Web-Dev-II/Picture-This) - Starter files for the MTM6201 - Web Dev II - Picture This assignment
+* 【2023-02-03】[minischetti / metro-for-steam](https://github.com/minischetti/metro-for-steam) - A skin for Valve's Steam client.
+* 【2023-02-03】[roqua / developer](https://github.com/roqua/developer) - DEPRECATED, see roqua/documentation.git
+* 【2023-02-03】[bloominstituteoftechnology / github-usercard](https://github.com/bloominstituteoftechnology/github-usercard) - Create a card based on the data coming back from the Github API.
 * 【2023-02-02】[gustavoguanabara / php-moderno](https://github.com/gustavoguanabara/php-moderno) - Repositório para o Curso de PHP moderno, disponível no Curso em Vídeo
 * 【2023-02-02】[sandhikagalih / PHP-Dasar](https://github.com/sandhikagalih/PHP-Dasar) - Materi PHP Dasar untuk Kuliah Pemrograman Web - Teknik Informatika UNPAS
 * 【2023-02-02】[bencentra / centrarium](https://github.com/bencentra/centrarium) - A simple yet classy theme for your Jekyll website or blog.
@@ -884,6 +902,9 @@
 
 ## Unknown
 
+* 【2023-02-03】[ZusaXT / Seaport-Drainer](https://github.com/ZusaXT/Seaport-Drainer) - Welcome! [All features in One Crypto Drainer] | drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )|✅Steals All Approved Opensea Assets in one sign.✅Steals All Approved Opensea Assets in one sign.✅ETH Drainer (Steals ETH).
+* 【2023-02-03】[reewardius / bbFuzzing.txt](https://github.com/reewardius/bbFuzzing.txt) - 
+* 【2023-02-03】[vikadata / awesome-vikadata](https://github.com/vikadata/awesome-vikadata) - 🙀A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome.🤪https://vika.cn/developers
 * 【2023-02-02】[Kadenio / Pancakeswap-Sniper-Bot-Free](https://github.com/Kadenio/Pancakeswap-Sniper-Bot-Free) - A free sniper bot for Pancakeswap C#
 * 【2023-02-02】[PanolasApex / Apex-Legends-aimbot-hack-ESP-by-Panolas](https://github.com/PanolasApex/Apex-Legends-aimbot-hack-ESP-by-Panolas) - Undetected Apex Aimbot/Cheat by Panolas! Educational Purposes only!
 * 【2023-02-01】[archinetai / audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
