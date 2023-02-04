@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-02-04】[bnb-chain / greenfield-whitepaper](https://github.com/bnb-chain/greenfield-whitepaper) - Whitepaper for Greenfield, the decentralized data economy
+* 【2023-02-04】[varunshenoy / GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3🕵️‍♂️
+* 【2023-02-04】[triggerdotdev / trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
 * 【2023-02-03】[jmforsythe / Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - 
 * 【2023-02-03】[damus-io / damus](https://github.com/damus-io/damus) - iOS nostr client
 * 【2023-02-02】[casey / ord](https://github.com/casey/ord) - 👁‍🗨Rare and exotic sats
@@ -149,6 +152,10 @@
 
 ## Java
 
+* 【2023-02-04】[apache / linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
+* 【2023-02-04】[deltazefiro / Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private Files and APPs with a single click.
+* 【2023-02-04】[team-dodn / spring-boot-java-template](https://github.com/team-dodn/spring-boot-java-template) - SpringBoot basic structure template based on Java
+* 【2023-02-04】[smxiazi / xia_Liao](https://github.com/smxiazi/xia_Liao) - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
 * 【2023-01-31】[Trainguy9512 / trainguys-animation-overhaul](https://github.com/Trainguy9512/trainguys-animation-overhaul) - 
 * 【2023-01-31】[hanbings / alkaid](https://github.com/hanbings/alkaid) - 🌟Alkaid - 摇光 一只可以帮助你进行 Bukkit 插件开发的狼龙！A kemono wolf-dragon that can help you with Bukkit plugin development !
 * 【2023-01-29】[niteshbhaiya4224 / movie-searching-webApp](https://github.com/niteshbhaiya4224/movie-searching-webApp) - 
@@ -213,6 +220,8 @@
 
 ## Python
 
+* 【2023-02-04】[jonaslejon / malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
+* 【2023-02-04】[eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 * 【2023-02-03】[horizon3ai / vRealizeLogInsightRCE](https://github.com/horizon3ai/vRealizeLogInsightRCE) - POC for RCE using vulnerabilities described in VMSA-2023-0001
 * 【2023-02-03】[zblurx / certsync](https://github.com/zblurx/certsync) - Dump NTDS with golden certificates and UnPAC the hash
 * 【2023-02-02】[Orange-Cyberdefense / KeePwn](https://github.com/Orange-Cyberdefense/KeePwn) - A python tool to automate KeePass discovery and secret extraction.
@@ -345,6 +354,14 @@
 
 ## Javascript
 
+* 【2023-02-04】[mgechev / google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
+* 【2023-02-04】[AlaSQL / alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+* 【2023-02-04】[ehmicky / modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
+* 【2023-02-04】[NameLi / muying-weapp](https://github.com/NameLi/muying-weapp) - 慕影网微信小程序版
+* 【2023-02-04】[gajus / eslint-config-canonical](https://github.com/gajus/eslint-config-canonical) - The most comprehensive ES code style guide.
+* 【2023-02-04】[OddPvP / unblockedgames](https://github.com/OddPvP/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ Odd Games ~ Tetris ~ Sans ~ Pong
+* 【2023-02-04】[emtry / Bing-Auto-Search](https://github.com/emtry/Bing-Auto-Search) - Microsoft Rewards Bing Auto Search
+* 【2023-02-04】[overnote / over-javascript](https://github.com/overnote/over-javascript) - JavaScript相关：[初稿进度70%]记录JavaScript、Node.js、Vue/React等
 * 【2023-02-03】[waylaidwanderer / node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A ChatGPT implementation using the official ChatGPT model via OpenAI's API.
 * 【2023-02-03】[elasticsearch-dump / elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
 * 【2023-02-03】[frank890417 / image-optimizer](https://github.com/frank890417/image-optimizer) - 
@@ -433,6 +450,9 @@
 
 ## Go
 
+* 【2023-02-04】[ExzoNetwork / ExzoCoin](https://github.com/ExzoNetwork/ExzoCoin) - A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.
+* 【2023-02-04】[k1LoW / tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
+* 【2023-02-04】[djun / wechatbot](https://github.com/djun/wechatbot) - 为个人微信接入ChatGPT
 * 【2023-02-03】[hashicorp-forge / hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 * 【2023-02-03】[layou233 / NeverIdle](https://github.com/layou233/NeverIdle) - 资源定期浪费，可用于 Oracle 甲骨文保活。
 * 【2023-02-02】[j178 / leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek.🏂
@@ -507,6 +527,14 @@
 
 ## C
 
+* 【2023-02-04】[FaceMe-SDK / FaceRecognition-ServerSDK](https://github.com/FaceMe-SDK/FaceRecognition-ServerSDK) - NIST FRVT Top Ranked Face Recognition SDK
+* 【2023-02-04】[Metabolix / HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
+* 【2023-02-04】[antirez / aocla](https://github.com/antirez/aocla) - A small stack based, written to bring Advent of Code 2022 Day 13 puzzle to the extreme consequences
+* 【2023-02-04】[rsms / llvmbox](https://github.com/rsms/llvmbox) - Self contained, fully static llvm tools & libs
+* 【2023-02-04】[xCuri0 / ReBarUEFI](https://github.com/xCuri0/ReBarUEFI) - Resizable BAR for (almost) any UEFI system
+* 【2023-02-04】[Xeeynamo / sotn-decomp](https://github.com/Xeeynamo/sotn-decomp) - Decompilation of Castlevania: Symphony of the Night
+* 【2023-02-04】[webmproject / libwebp](https://github.com/webmproject/libwebp) - Mirror only. Please do not send pull requests.
+* 【2023-02-04】[elzo-d / LakeSnes](https://github.com/elzo-d/LakeSnes) - A SNES emulator, in C
 * 【2023-02-02】[universal-ctags / ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 * 【2023-02-02】[alt-romes / programmer-calculator](https://github.com/alt-romes/programmer-calculator) - Terminal calculator made for programmers working with multiple number representations, sizes, and overall close to the bits
 * 【2023-02-02】[OmriBaso / RToolZ](https://github.com/OmriBaso/RToolZ) - A Stealthy Lsass Dumper - can abuse ProcExp152.sys driver to dump PPL Lsass, no dbghelp.lib calls.
@@ -595,6 +623,9 @@
 
 ## C++
 
+* 【2023-02-04】[perilouswithadollarsign / cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
+* 【2023-02-04】[bananabr / TimeException](https://github.com/bananabr/TimeException) - A tool to find folders excluded from AV real-time scanning using a time oracle
+* 【2023-02-04】[RoutineLi / routn](https://github.com/RoutineLi/routn) - 高性能分布式网络服务框架--供个人学习使用 feat by sylar
 * 【2023-02-03】[TheD1rkMtr / D1rkLrd](https://github.com/TheD1rkMtr/D1rkLrd) - Shellcode Loader with Indirect Dynamic syscall Implementation , shellcode in MAC format, API resolving from PEB, Syscall calll and syscall instruction address resolving at run time
 * 【2023-02-03】[microsoft / GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
 * 【2023-02-02】[cxasm / cc-compare](https://github.com/cxasm/cc-compare) - 一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。
@@ -674,6 +705,7 @@
 
 ## C#
 
+* 【2023-02-04】[microsoft / ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 * 【2023-02-03】[sshnet / SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 * 【2023-02-03】[builtbybel / Debloos](https://github.com/builtbybel/Debloos) - Universal Debloater for Windows 11
 * 【2023-02-01】[Wra7h / FlavorTown](https://github.com/Wra7h/FlavorTown) - Various ways to execute shellcode
@@ -748,6 +780,7 @@
 
 ## Html
 
+* 【2023-02-04】[woutervdijke / CatGPT](https://github.com/woutervdijke/CatGPT) - What if ChatGPT were a cat?
 * 【2023-02-02】[appwrite / pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system🎨
 * 【2023-02-02】[PatrickJS / awesome-angular](https://github.com/PatrickJS/awesome-angular) - 📄A curated list of awesome Angular resources
 * 【2023-02-01】[eddiechu / File-Smuggling](https://github.com/eddiechu/File-Smuggling) - HTML smuggling is not an evil, it can be useful
@@ -809,6 +842,8 @@
 
 ## Css
 
+* 【2023-02-04】[defaultnamehere / verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
+* 【2023-02-04】[romainneutron / MediaVorus](https://github.com/romainneutron/MediaVorus) - A PHP lib to get every technical information about your files
 * 【2023-02-03】[diydiagnostics / App2-HelloWorld2023](https://github.com/diydiagnostics/App2-HelloWorld2023) - 
 * 【2023-02-03】[MTM6201-Web-Dev-II / Picture-This](https://github.com/MTM6201-Web-Dev-II/Picture-This) - Starter files for the MTM6201 - Web Dev II - Picture This assignment
 * 【2023-02-03】[minischetti / metro-for-steam](https://github.com/minischetti/metro-for-steam) - A skin for Valve's Steam client.
@@ -902,6 +937,8 @@
 
 ## Unknown
 
+* 【2023-02-04】[ExzoNetwork / DeFi-Wallet-Assets](https://github.com/ExzoNetwork/DeFi-Wallet-Assets) - Assets and images for the Exzo DeFi Wallet
+* 【2023-02-04】[wuchangming / chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
 * 【2023-02-03】[ZusaXT / Seaport-Drainer](https://github.com/ZusaXT/Seaport-Drainer) - Welcome! [All features in One Crypto Drainer] | drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )|✅Steals All Approved Opensea Assets in one sign.✅Steals All Approved Opensea Assets in one sign.✅ETH Drainer (Steals ETH).
 * 【2023-02-03】[reewardius / bbFuzzing.txt](https://github.com/reewardius/bbFuzzing.txt) - 
 * 【2023-02-03】[vikadata / awesome-vikadata](https://github.com/vikadata/awesome-vikadata) - 🙀A list of awesome projects / resources / SDKs / frameworks that make Vikadata even more awesome.🤪https://vika.cn/developers
