@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-02-05】[ben1234560 / k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
+* 【2023-02-05】[daveshap / raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
+* 【2023-02-05】[vitorpamplona / amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
 * 【2023-02-04】[bnb-chain / greenfield-whitepaper](https://github.com/bnb-chain/greenfield-whitepaper) - Whitepaper for Greenfield, the decentralized data economy
 * 【2023-02-04】[varunshenoy / GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3🕵️‍♂️
 * 【2023-02-04】[triggerdotdev / trigger.dev](https://github.com/triggerdotdev/trigger.dev) - ✨Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.
@@ -152,6 +155,8 @@
 
 ## Java
 
+* 【2023-02-05】[tom-mohr / particle-life-app](https://github.com/tom-mohr/particle-life-app) - 🦠A GUI for Particle Life, a particle system showing life-like behaviour
+* 【2023-02-05】[quickmsg / smqtt](https://github.com/quickmsg/smqtt) - 一款支持千万级设备接入的开源MQTT broker(基于reactor-netty实现高性能的、可扩展、支持集群）
 * 【2023-02-04】[apache / linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
 * 【2023-02-04】[deltazefiro / Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider) - Hide your private Files and APPs with a single click.
 * 【2023-02-04】[team-dodn / spring-boot-java-template](https://github.com/team-dodn/spring-boot-java-template) - SpringBoot basic structure template based on Java
@@ -220,6 +225,9 @@
 
 ## Python
 
+* 【2023-02-05】[heatz123 / naturalspeech](https://github.com/heatz123/naturalspeech) - A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)
+* 【2023-02-05】[bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss) - 
+* 【2023-02-05】[alexey-goloburdin / botanim-bot](https://github.com/alexey-goloburdin/botanim-bot) - Telegram bot for botanim.to.digital
 * 【2023-02-04】[jonaslejon / malicious-pdf](https://github.com/jonaslejon/malicious-pdf) - 💀Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator or Interact.sh
 * 【2023-02-04】[eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 * 【2023-02-03】[horizon3ai / vRealizeLogInsightRCE](https://github.com/horizon3ai/vRealizeLogInsightRCE) - POC for RCE using vulnerabilities described in VMSA-2023-0001
@@ -354,6 +362,12 @@
 
 ## Javascript
 
+* 【2023-02-05】[NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可以无代码可视化设计和执行的爬虫软件
+* 【2023-02-05】[inovua / reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
+* 【2023-02-05】[codemirror / codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
+* 【2023-02-05】[BlueWallet / BlueWallet](https://github.com/BlueWallet/BlueWallet) - Bitcoin wallet for iOS & Android. Built with React Native
+* 【2023-02-05】[SortableJS / vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
+* 【2023-02-05】[kokoryh / Script](https://github.com/kokoryh/Script) - 
 * 【2023-02-04】[mgechev / google-interview-preparation-problems](https://github.com/mgechev/google-interview-preparation-problems) - leetcode problems I solved to prepare for my Google interview.
 * 【2023-02-04】[AlaSQL / alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 * 【2023-02-04】[ehmicky / modern-errors](https://github.com/ehmicky/modern-errors) - Handle errors in a simple, stable, consistent way
@@ -450,6 +464,7 @@
 
 ## Go
 
+* 【2023-02-05】[pyroscope-io / pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 * 【2023-02-04】[ExzoNetwork / ExzoCoin](https://github.com/ExzoNetwork/ExzoCoin) - A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.
 * 【2023-02-04】[k1LoW / tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
 * 【2023-02-04】[djun / wechatbot](https://github.com/djun/wechatbot) - 为个人微信接入ChatGPT
@@ -527,6 +542,10 @@
 
 ## C
 
+* 【2023-02-05】[alliedmodders / sourcemod](https://github.com/alliedmodders/sourcemod) - SourceMod - Source Engine Scripting and Administration
+* 【2023-02-05】[phoboslab / qoa](https://github.com/phoboslab/qoa) - The “Quite OK Audio Format” for fast, lossy audio compression
+* 【2023-02-05】[rbmm / NtDetours](https://github.com/rbmm/NtDetours) - Detours implementation (x64/x86) which used only ntdll import
+* 【2023-02-05】[FWGS / xash3d-fwgs](https://github.com/FWGS/xash3d-fwgs) - Xash3D FWGS engine.
 * 【2023-02-04】[FaceMe-SDK / FaceRecognition-ServerSDK](https://github.com/FaceMe-SDK/FaceRecognition-ServerSDK) - NIST FRVT Top Ranked Face Recognition SDK
 * 【2023-02-04】[Metabolix / HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 * 【2023-02-04】[antirez / aocla](https://github.com/antirez/aocla) - A small stack based, written to bring Advent of Code 2022 Day 13 puzzle to the extreme consequences
@@ -623,6 +642,8 @@
 
 ## C++
 
+* 【2023-02-05】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
+* 【2023-02-05】[Dr-TSNG / ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
 * 【2023-02-04】[perilouswithadollarsign / cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
 * 【2023-02-04】[bananabr / TimeException](https://github.com/bananabr/TimeException) - A tool to find folders excluded from AV real-time scanning using a time oracle
 * 【2023-02-04】[RoutineLi / routn](https://github.com/RoutineLi/routn) - 高性能分布式网络服务框架--供个人学习使用 feat by sylar
@@ -780,6 +801,8 @@
 
 ## Html
 
+* 【2023-02-05】[cargo-youth / ToolDiy](https://github.com/cargo-youth/ToolDiy) - 一本工具指南，旨在让大家选用和上手合适的工具。
+* 【2023-02-05】[lioxryt / lioxryt.github.io](https://github.com/lioxryt/lioxryt.github.io) - A game website made for students, by students.
 * 【2023-02-04】[woutervdijke / CatGPT](https://github.com/woutervdijke/CatGPT) - What if ChatGPT were a cat?
 * 【2023-02-02】[appwrite / pink](https://github.com/appwrite/pink) - Pink. Appwrite's official framework agnostic design system🎨
 * 【2023-02-02】[PatrickJS / awesome-angular](https://github.com/PatrickJS/awesome-angular) - 📄A curated list of awesome Angular resources
@@ -842,6 +865,9 @@
 
 ## Css
 
+* 【2023-02-05】[fauzan1892 / pos-kasir-php](https://github.com/fauzan1892/pos-kasir-php) - Source Code Aplikasi Penjualan Barang (Kasir) dengan PHP MYSQL
+* 【2023-02-05】[rodolfomori / missao-voce-programador](https://github.com/rodolfomori/missao-voce-programador) - 
+* 【2023-02-05】[fadeinside / ECSv8-Character-ID-Randomizer](https://github.com/fadeinside/ECSv8-Character-ID-Randomizer) - The ECSU Framework simple tool for choosing an ID for an Extra Character, ignoring those already registered.
 * 【2023-02-04】[defaultnamehere / verylegit.link](https://github.com/defaultnamehere/verylegit.link) - A URL shortener, but it makes the URLs look extremely dodgy instead
 * 【2023-02-04】[romainneutron / MediaVorus](https://github.com/romainneutron/MediaVorus) - A PHP lib to get every technical information about your files
 * 【2023-02-03】[diydiagnostics / App2-HelloWorld2023](https://github.com/diydiagnostics/App2-HelloWorld2023) - 
@@ -937,6 +963,10 @@
 
 ## Unknown
 
+* 【2023-02-05】[K8S9 / Rsocket-Springcloud](https://github.com/K8S9/Rsocket-Springcloud) - 
+* 【2023-02-05】[paulmillr / encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
+* 【2023-02-05】[anthropics / hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
+* 【2023-02-05】[NeHyci / Hikari-LLVM15](https://github.com/NeHyci/Hikari-LLVM15) - A fork of Hikari Obfuscator [WIP]
 * 【2023-02-04】[ExzoNetwork / DeFi-Wallet-Assets](https://github.com/ExzoNetwork/DeFi-Wallet-Assets) - Assets and images for the Exzo DeFi Wallet
 * 【2023-02-04】[wuchangming / chatgpt-query-engineer-handbook](https://github.com/wuchangming/chatgpt-query-engineer-handbook) - 🤖️ChatGPT提问工程师 -- 开发指南
 * 【2023-02-03】[ZusaXT / Seaport-Drainer](https://github.com/ZusaXT/Seaport-Drainer) - Welcome! [All features in One Crypto Drainer] | drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )|✅Steals All Approved Opensea Assets in one sign.✅Steals All Approved Opensea Assets in one sign.✅ETH Drainer (Steals ETH).
