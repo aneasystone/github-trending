@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-02-06】[hikari-no-yume / touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps
+* 【2023-02-06】[LeagueOfPoro / CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules
 * 【2023-02-05】[ben1234560 / k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
 * 【2023-02-05】[daveshap / raven](https://github.com/daveshap/raven) - RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
 * 【2023-02-05】[vitorpamplona / amethyst](https://github.com/vitorpamplona/amethyst) - Nostr client for Android
@@ -155,6 +157,8 @@
 
 ## Java
 
+* 【2023-02-06】[MinaMichita / AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
+* 【2023-02-06】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 * 【2023-02-05】[tom-mohr / particle-life-app](https://github.com/tom-mohr/particle-life-app) - 🦠A GUI for Particle Life, a particle system showing life-like behaviour
 * 【2023-02-05】[quickmsg / smqtt](https://github.com/quickmsg/smqtt) - 一款支持千万级设备接入的开源MQTT broker(基于reactor-netty实现高性能的、可扩展、支持集群）
 * 【2023-02-04】[apache / linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
@@ -225,6 +229,8 @@
 
 ## Python
 
+* 【2023-02-06】[haoheliu / AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
+* 【2023-02-06】[amazon-science / mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 * 【2023-02-05】[heatz123 / naturalspeech](https://github.com/heatz123/naturalspeech) - A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)
 * 【2023-02-05】[bmaltais / kohya_ss](https://github.com/bmaltais/kohya_ss) - 
 * 【2023-02-05】[alexey-goloburdin / botanim-bot](https://github.com/alexey-goloburdin/botanim-bot) - Telegram bot for botanim.to.digital
@@ -362,6 +368,10 @@
 
 ## Javascript
 
+* 【2023-02-06】[koushikkothagal / java-backend-bootcamp](https://github.com/koushikkothagal/java-backend-bootcamp) - 
+* 【2023-02-06】[adrianhajdin / project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding) - With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, and writing solidity code.
+* 【2023-02-06】[pahen / madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
+* 【2023-02-06】[chetannada / Namaste-React](https://github.com/chetannada/Namaste-React) - ❤Namaste React Live Course from Zero to Hero🚀by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react
 * 【2023-02-05】[NaiboWang / EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider一个可以无代码可视化设计和执行的爬虫软件
 * 【2023-02-05】[inovua / reactdatagrid](https://github.com/inovua/reactdatagrid) - Empower Your Data with the best React Data Grid there is
 * 【2023-02-05】[codemirror / codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
@@ -464,6 +474,9 @@
 
 ## Go
 
+* 【2023-02-06】[portola-labs / db-webhooks](https://github.com/portola-labs/db-webhooks) - Database Webhooks for Postgres
+* 【2023-02-06】[V4NSH4J / discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO) - The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users!
+* 【2023-02-06】[weaviate / weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 * 【2023-02-05】[pyroscope-io / pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 * 【2023-02-04】[ExzoNetwork / ExzoCoin](https://github.com/ExzoNetwork/ExzoCoin) - A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.
 * 【2023-02-04】[k1LoW / tbls](https://github.com/k1LoW/tbls) - tbls is a CI-Friendly tool for document a database, written in Go.
@@ -542,6 +555,9 @@
 
 ## C
 
+* 【2023-02-06】[Adamkadaban / CTFs](https://github.com/Adamkadaban/CTFs) - CTF Cheat Sheet + Writeups / Files for some of the Cyber CTFs that I've done
+* 【2023-02-06】[AdAway / AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+* 【2023-02-06】[djpohly / dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 * 【2023-02-05】[alliedmodders / sourcemod](https://github.com/alliedmodders/sourcemod) - SourceMod - Source Engine Scripting and Administration
 * 【2023-02-05】[phoboslab / qoa](https://github.com/phoboslab/qoa) - The “Quite OK Audio Format” for fast, lossy audio compression
 * 【2023-02-05】[rbmm / NtDetours](https://github.com/rbmm/NtDetours) - Detours implementation (x64/x86) which used only ntdll import
@@ -642,6 +658,7 @@
 
 ## C++
 
+* 【2023-02-06】[MultiMC / Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 * 【2023-02-05】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 * 【2023-02-05】[Dr-TSNG / ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
 * 【2023-02-04】[perilouswithadollarsign / cstrike15_src](https://github.com/perilouswithadollarsign/cstrike15_src) - Leak of CS:GO Source code, provided by yours truly so go rep me
@@ -726,6 +743,9 @@
 
 ## C#
 
+* 【2023-02-06】[TCNOco / TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
+* 【2023-02-06】[AngleSharp / AngleSharp](https://github.com/AngleSharp/AngleSharp) - 👼The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
+* 【2023-02-06】[iranxray / hope-toolbox](https://github.com/iranxray/hope-toolbox) - 
 * 【2023-02-04】[microsoft / ailab](https://github.com/microsoft/ailab) - Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 * 【2023-02-03】[sshnet / SSH.NET](https://github.com/sshnet/SSH.NET) - SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism.
 * 【2023-02-03】[builtbybel / Debloos](https://github.com/builtbybel/Debloos) - Universal Debloater for Windows 11
@@ -963,6 +983,12 @@
 
 ## Unknown
 
+* 【2023-02-06】[hkirat / gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues) - Good first issues for GSoC 2023
+* 【2023-02-06】[dair-ai / Transformers-Recipe](https://github.com/dair-ai/Transformers-Recipe) - 🧠A study guide to learn about Transformers
+* 【2023-02-06】[brcyrr / PracticalCyberSecurityResources](https://github.com/brcyrr/PracticalCyberSecurityResources) - This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝
+* 【2023-02-06】[guilhermeonrails / desafios_da_imerssao](https://github.com/guilhermeonrails/desafios_da_imerssao) - 
+* 【2023-02-06】[duc-nt / CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC](https://github.com/duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC) - CVE-2022-44268 ImageMagick Arbitrary File Read - Payload Generator
+* 【2023-02-06】[kdeldycke / awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱Falsehoods Programmers Believe in
 * 【2023-02-05】[K8S9 / Rsocket-Springcloud](https://github.com/K8S9/Rsocket-Springcloud) - 
 * 【2023-02-05】[paulmillr / encrypted-dns](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS HTTPS and DNS over TLS for iOS 14 and MacOS Big Sur
 * 【2023-02-05】[anthropics / hh-rlhf](https://github.com/anthropics/hh-rlhf) - Human preference data for "Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback"
