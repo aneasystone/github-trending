@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-07】[motion-canvas / motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
+* 【2023-02-07】[arc53 / DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
+* 【2023-02-07】[orlp / glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
+* 【2023-02-07】[spiritLHLS / ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪测评脚本(主体已完善，历史遗留问题解决时间未知)(VPS fusion monster evaluation script)
 * 【2023-02-06】[hikari-no-yume / touchHLE](https://github.com/hikari-no-yume/touchHLE) - High-level emulator for iPhone OS apps
 * 【2023-02-06】[LeagueOfPoro / CapsuleFarmerEvolved](https://github.com/LeagueOfPoro/CapsuleFarmerEvolved) - Automatically drops from lolesports.com and farm Esports Capsules
 * 【2023-02-05】[ben1234560 / k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
@@ -229,6 +233,8 @@
 
 ## Python
 
+* 【2023-02-07】[mmz-001 / knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
+* 【2023-02-07】[LlmKira / Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT🤖Chatbot/Voice Assistant |📱Cross-Platform |🦾Async |🗣Good Contextual Support |🌻sh & docker Deployment|🔌API Server Provided|🎤Azure/Vits for Voice Chatting |🌎Real-time Information Searching|📷Multi-modal/Image Understanding |💐Self-maintained LLM Framework|ChatGPT Like
 * 【2023-02-06】[haoheliu / AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
 * 【2023-02-06】[amazon-science / mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
 * 【2023-02-05】[heatz123 / naturalspeech](https://github.com/heatz123/naturalspeech) - A fully working pytorch implementation of NaturalSpeech (Tan et al., 2022)
@@ -368,6 +374,9 @@
 
 ## Javascript
 
+* 【2023-02-07】[dejwid / airbnb-clone](https://github.com/dejwid/airbnb-clone) - 
+* 【2023-02-07】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
+* 【2023-02-07】[codedthemes / berry-free-react-admin-template](https://github.com/codedthemes/berry-free-react-admin-template) - Berry free react material-ui admin template for easing and faster web development.
 * 【2023-02-06】[koushikkothagal / java-backend-bootcamp](https://github.com/koushikkothagal/java-backend-bootcamp) - 
 * 【2023-02-06】[adrianhajdin / project_crowdfunding](https://github.com/adrianhajdin/project_crowdfunding) - With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, and writing solidity code.
 * 【2023-02-06】[pahen / madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
@@ -474,6 +483,7 @@
 
 ## Go
 
+* 【2023-02-07】[score-spec / score-helm](https://github.com/score-spec/score-helm) - Reference implementation for Helm charts integrationsupport
 * 【2023-02-06】[portola-labs / db-webhooks](https://github.com/portola-labs/db-webhooks) - Database Webhooks for Postgres
 * 【2023-02-06】[V4NSH4J / discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO) - The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users!
 * 【2023-02-06】[weaviate / weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector search engine that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
@@ -658,6 +668,7 @@
 
 ## C++
 
+* 【2023-02-07】[BhavyaBhalla-27 / DSA-Supreme-](https://github.com/BhavyaBhalla-27/DSA-Supreme-) - Here I will be uploading all the codes and homework solutions that I will be solving in my DSA Journey.
 * 【2023-02-06】[MultiMC / Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 * 【2023-02-05】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
 * 【2023-02-05】[Dr-TSNG / ZygiskOnKernelSU](https://github.com/Dr-TSNG/ZygiskOnKernelSU) - Run Zygisk on KernelSU
@@ -743,6 +754,9 @@
 
 ## C#
 
+* 【2023-02-07】[LowLevelLemmy / SearchHistoryGame](https://github.com/LowLevelLemmy/SearchHistoryGame) - 
+* 【2023-02-07】[cyberark / PipeViewer](https://github.com/cyberark/PipeViewer) - A tool that shows detailed information about named pipes in Windows
+* 【2023-02-07】[StockSharp / StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 * 【2023-02-06】[TCNOco / TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 * 【2023-02-06】[AngleSharp / AngleSharp](https://github.com/AngleSharp/AngleSharp) - 👼The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 * 【2023-02-06】[iranxray / hope-toolbox](https://github.com/iranxray/hope-toolbox) - 
@@ -821,6 +835,7 @@
 
 ## Html
 
+* 【2023-02-07】[neoslab / blackbuntu](https://github.com/neoslab/blackbuntu) - Official repository of the Blackbuntu pentesting distribution
 * 【2023-02-05】[cargo-youth / ToolDiy](https://github.com/cargo-youth/ToolDiy) - 一本工具指南，旨在让大家选用和上手合适的工具。
 * 【2023-02-05】[lioxryt / lioxryt.github.io](https://github.com/lioxryt/lioxryt.github.io) - A game website made for students, by students.
 * 【2023-02-04】[woutervdijke / CatGPT](https://github.com/woutervdijke/CatGPT) - What if ChatGPT were a cat?
@@ -983,6 +998,9 @@
 
 ## Unknown
 
+* 【2023-02-07】[A-poc / BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
+* 【2023-02-07】[CS-BAOYAN / CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023) - 
+* 【2023-02-07】[V33RU / IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
 * 【2023-02-06】[hkirat / gsoc-good-first-issues](https://github.com/hkirat/gsoc-good-first-issues) - Good first issues for GSoC 2023
 * 【2023-02-06】[dair-ai / Transformers-Recipe](https://github.com/dair-ai/Transformers-Recipe) - 🧠A study guide to learn about Transformers
 * 【2023-02-06】[brcyrr / PracticalCyberSecurityResources](https://github.com/brcyrr/PracticalCyberSecurityResources) - This repository contains a curated list of resources I suggest on LinkedIn and Twitter.📝🌝
