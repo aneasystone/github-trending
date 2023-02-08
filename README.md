@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-08】[ddPn08 / Lsmith](https://github.com/ddPn08/Lsmith) - StableDiffusionWebUI accelerated using TensorRT
+* 【2023-02-08】[Azure / review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
+* 【2023-02-08】[stefan-jansen / machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
+* 【2023-02-08】[TheD1rkMtr / NTDLLReflection](https://github.com/TheD1rkMtr/NTDLLReflection) - Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll , and trigger exported APIs from the export table
 * 【2023-02-07】[motion-canvas / motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Complex Ideas Programmatically
 * 【2023-02-07】[arc53 / DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 * 【2023-02-07】[orlp / glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
@@ -233,6 +237,8 @@
 
 ## Python
 
+* 【2023-02-08】[yerfor / GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
+* 【2023-02-08】[uptrain-ai / uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 * 【2023-02-07】[mmz-001 / knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
 * 【2023-02-07】[LlmKira / Openaibot](https://github.com/LlmKira/Openaibot) - ChatGPT🤖Chatbot/Voice Assistant |📱Cross-Platform |🦾Async |🗣Good Contextual Support |🌻sh & docker Deployment|🔌API Server Provided|🎤Azure/Vits for Voice Chatting |🌎Real-time Information Searching|📷Multi-modal/Image Understanding |💐Self-maintained LLM Framework|ChatGPT Like
 * 【2023-02-06】[haoheliu / AudioLDM](https://github.com/haoheliu/AudioLDM) - AudioLDM: Generate speech, sound effects, music and beyond, with text.
@@ -374,6 +380,8 @@
 
 ## Javascript
 
+* 【2023-02-08】[vitejs / awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️A curated list of awesome things related to Vite.js
+* 【2023-02-08】[preactjs / preact](https://github.com/preactjs/preact) - ⚛️Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * 【2023-02-07】[dejwid / airbnb-clone](https://github.com/dejwid/airbnb-clone) - 
 * 【2023-02-07】[you-dont-need / You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 * 【2023-02-07】[codedthemes / berry-free-react-admin-template](https://github.com/codedthemes/berry-free-react-admin-template) - Berry free react material-ui admin template for easing and faster web development.
@@ -483,6 +491,8 @@
 
 ## Go
 
+* 【2023-02-08】[arttor / helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
+* 【2023-02-08】[Monibuca / plugin-exporter](https://github.com/Monibuca/plugin-exporter) - Monibuca Prometheus exporter 采集器
 * 【2023-02-07】[score-spec / score-helm](https://github.com/score-spec/score-helm) - Reference implementation for Helm charts integrationsupport
 * 【2023-02-06】[portola-labs / db-webhooks](https://github.com/portola-labs/db-webhooks) - Database Webhooks for Postgres
 * 【2023-02-06】[V4NSH4J / discord-mass-DM-GO](https://github.com/V4NSH4J/discord-mass-DM-GO) - The most powerful Discord selfbot written in GO allowing users to automate their campaigns & send low-cost mass messages to Discord users!
@@ -565,6 +575,9 @@
 
 ## C
 
+* 【2023-02-08】[linux-test-project / ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
+* 【2023-02-08】[scandum / fluxsort](https://github.com/scandum/fluxsort) - A branchless stable quicksort / mergesort hybrid.
+* 【2023-02-08】[LuckyPray / XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
 * 【2023-02-06】[Adamkadaban / CTFs](https://github.com/Adamkadaban/CTFs) - CTF Cheat Sheet + Writeups / Files for some of the Cyber CTFs that I've done
 * 【2023-02-06】[AdAway / AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 * 【2023-02-06】[djpohly / dwl](https://github.com/djpohly/dwl) - dwm for Wayland
@@ -668,6 +681,8 @@
 
 ## C++
 
+* 【2023-02-08】[KellanM / OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Integration for the OpenAI Api in Unreal Engine
+* 【2023-02-08】[google / draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 * 【2023-02-07】[BhavyaBhalla-27 / DSA-Supreme-](https://github.com/BhavyaBhalla-27/DSA-Supreme-) - Here I will be uploading all the codes and homework solutions that I will be solving in my DSA Journey.
 * 【2023-02-06】[MultiMC / Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 * 【2023-02-05】[flutter-webrtc / flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc) - WebRTC plugin for Flutter Mobile/Desktop/Web
@@ -754,6 +769,8 @@
 
 ## C#
 
+* 【2023-02-08】[Tom60chat / Microsoft-Rewards-Farmer-Sharp](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp) - A .NET app to farm Microsoft/Bing Rewards points.
+* 【2023-02-08】[microsoft / azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) - Azure Pipelines Agent🚀
 * 【2023-02-07】[LowLevelLemmy / SearchHistoryGame](https://github.com/LowLevelLemmy/SearchHistoryGame) - 
 * 【2023-02-07】[cyberark / PipeViewer](https://github.com/cyberark/PipeViewer) - A tool that shows detailed information about named pipes in Windows
 * 【2023-02-07】[StockSharp / StockSharp](https://github.com/StockSharp/StockSharp) - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
@@ -900,6 +917,9 @@
 
 ## Css
 
+* 【2023-02-08】[fdnd-task / connect-your-tribe-profile-card](https://github.com/fdnd-task/connect-your-tribe-profile-card) - Redesign je visitekaartje op basis van een bestaande API.
+* 【2023-02-08】[cbxxacademy / RocketGenesisCollaboration](https://github.com/cbxxacademy/RocketGenesisCollaboration) - 
+* 【2023-02-08】[mattvh / jekyllthemes](https://github.com/mattvh/jekyllthemes) - A directory of the best-looking themes for Jekyll blogs
 * 【2023-02-05】[fauzan1892 / pos-kasir-php](https://github.com/fauzan1892/pos-kasir-php) - Source Code Aplikasi Penjualan Barang (Kasir) dengan PHP MYSQL
 * 【2023-02-05】[rodolfomori / missao-voce-programador](https://github.com/rodolfomori/missao-voce-programador) - 
 * 【2023-02-05】[fadeinside / ECSv8-Character-ID-Randomizer](https://github.com/fadeinside/ECSv8-Character-ID-Randomizer) - The ECSU Framework simple tool for choosing an ID for an Extra Character, ignoring those already registered.
@@ -998,6 +1018,8 @@
 
 ## Unknown
 
+* 【2023-02-08】[CMEPW / BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
+* 【2023-02-08】[jubalh / awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) - How to become a packager
 * 【2023-02-07】[A-poc / BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
 * 【2023-02-07】[CS-BAOYAN / CSSummerCamp2023](https://github.com/CS-BAOYAN/CSSummerCamp2023) - 
 * 【2023-02-07】[V33RU / IoTSecurity101](https://github.com/V33RU/IoTSecurity101) - A Curated list of IoT Security Resources
