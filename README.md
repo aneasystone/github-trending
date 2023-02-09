@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2023-02-09】[acikkaynak / deprem-yardim-frontend](https://github.com/acikkaynak/deprem-yardim-frontend) - afetharita.com frontend projesi. https://rc.afetharita.com/
+* 【2023-02-09】[acikkaynak / deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) - afetharita.com backend projesi
+* 【2023-02-09】[dabit3 / gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) - Create a travel itinerary for any city in the world in just a few seconds
+* 【2023-02-09】[acikkaynak / deprem-yardim-projesi](https://github.com/acikkaynak/deprem-yardim-projesi) - 
+* 【2023-02-09】[TEXTurePaper / TEXTurePaper](https://github.com/TEXTurePaper/TEXTurePaper) - Official Implementation for "TEXTure: Semantic Texture Transfer using Text Tokens"
+* 【2023-02-09】[devfullcycle / imersao12](https://github.com/devfullcycle/imersao12) - 
 * 【2023-02-08】[ddPn08 / Lsmith](https://github.com/ddPn08/Lsmith) - StableDiffusionWebUI accelerated using TensorRT
 * 【2023-02-08】[Azure / review-checklists](https://github.com/Azure/review-checklists) - This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.
 * 【2023-02-08】[stefan-jansen / machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
@@ -165,6 +171,8 @@
 
 ## Java
 
+* 【2023-02-09】[YunaBraska / nats-server-embedded](https://github.com/YunaBraska/nats-server-embedded) - Nats server embedded for testing which contains the original Nats server
+* 【2023-02-09】[akto-api-security / community-edition](https://github.com/akto-api-security/community-edition) - Instant API security through API discovery, automated business logic testing and runtime detection.
 * 【2023-02-06】[MinaMichita / AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
 * 【2023-02-06】[AntiCope / meteor-rejects](https://github.com/AntiCope/meteor-rejects) - An addon to Meteor Client with features that won't be added to Meteor. Because they were either rejected or are ports from other clients.
 * 【2023-02-05】[tom-mohr / particle-life-app](https://github.com/tom-mohr/particle-life-app) - 🦠A GUI for Particle Life, a particle system showing life-like behaviour
@@ -380,6 +388,10 @@
 
 ## Javascript
 
+* 【2023-02-09】[adamelmore / good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good
+* 【2023-02-09】[cezaraugusto / You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒(PT-Br translation) JS Book Series.
+* 【2023-02-09】[localtunnel / server](https://github.com/localtunnel/server) - server for localtunnel.me
+* 【2023-02-09】[alvarotrigo / fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 * 【2023-02-08】[vitejs / awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️A curated list of awesome things related to Vite.js
 * 【2023-02-08】[preactjs / preact](https://github.com/preactjs/preact) - ⚛️Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 * 【2023-02-07】[dejwid / airbnb-clone](https://github.com/dejwid/airbnb-clone) - 
@@ -491,6 +503,8 @@
 
 ## Go
 
+* 【2023-02-09】[kubernetes / sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
+* 【2023-02-09】[eddycjy / go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 * 【2023-02-08】[arttor / helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 * 【2023-02-08】[Monibuca / plugin-exporter](https://github.com/Monibuca/plugin-exporter) - Monibuca Prometheus exporter 采集器
 * 【2023-02-07】[score-spec / score-helm](https://github.com/score-spec/score-helm) - Reference implementation for Helm charts integrationsupport
@@ -575,6 +589,10 @@
 
 ## C
 
+* 【2023-02-09】[crisprss / RasmanPotato](https://github.com/crisprss/RasmanPotato) - Abuse Impersonate Privilege from Service to SYSTEM like other potatoes do
+* 【2023-02-09】[tectonic-typesetting / tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
+* 【2023-02-09】[86Box / 86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
+* 【2023-02-09】[zhaojh329 / rtty](https://github.com/zhaojh329/rtty) - 🐛Access your terminal from anywhere via the web.
 * 【2023-02-08】[linux-test-project / ltp](https://github.com/linux-test-project/ltp) - Linux Test Project http://linux-test-project.github.io/
 * 【2023-02-08】[scandum / fluxsort](https://github.com/scandum/fluxsort) - A branchless stable quicksort / mergesort hybrid.
 * 【2023-02-08】[LuckyPray / XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
@@ -681,6 +699,8 @@
 
 ## C++
 
+* 【2023-02-09】[shajen / rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
+* 【2023-02-09】[crosire / reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 * 【2023-02-08】[KellanM / OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Integration for the OpenAI Api in Unreal Engine
 * 【2023-02-08】[google / draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 * 【2023-02-07】[BhavyaBhalla-27 / DSA-Supreme-](https://github.com/BhavyaBhalla-27/DSA-Supreme-) - Here I will be uploading all the codes and homework solutions that I will be solving in my DSA Journey.
@@ -852,6 +872,8 @@
 
 ## Html
 
+* 【2023-02-09】[RustMagazine / rustmagazine](https://github.com/RustMagazine/rustmagazine) - A publication dedicated to the Rust programming language
+* 【2023-02-09】[TwilioDevEd / introduction-to-apis-notes](https://github.com/TwilioDevEd/introduction-to-apis-notes) - Introduction to APIs - v2
 * 【2023-02-07】[neoslab / blackbuntu](https://github.com/neoslab/blackbuntu) - Official repository of the Blackbuntu pentesting distribution
 * 【2023-02-05】[cargo-youth / ToolDiy](https://github.com/cargo-youth/ToolDiy) - 一本工具指南，旨在让大家选用和上手合适的工具。
 * 【2023-02-05】[lioxryt / lioxryt.github.io](https://github.com/lioxryt/lioxryt.github.io) - A game website made for students, by students.
@@ -917,6 +939,7 @@
 
 ## Css
 
+* 【2023-02-09】[apache / apache-website-template](https://github.com/apache/apache-website-template) - Apache Website Template
 * 【2023-02-08】[fdnd-task / connect-your-tribe-profile-card](https://github.com/fdnd-task/connect-your-tribe-profile-card) - Redesign je visitekaartje op basis van een bestaande API.
 * 【2023-02-08】[cbxxacademy / RocketGenesisCollaboration](https://github.com/cbxxacademy/RocketGenesisCollaboration) - 
 * 【2023-02-08】[mattvh / jekyllthemes](https://github.com/mattvh/jekyllthemes) - A directory of the best-looking themes for Jekyll blogs
@@ -1018,6 +1041,10 @@
 
 ## Unknown
 
+* 【2023-02-09】[jonathan-bower / DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources.
+* 【2023-02-09】[satellite-image-deep-learning / techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
+* 【2023-02-09】[tirthajyoti / Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place
+* 【2023-02-09】[abstractart / how-to-develop-perfect-crud](https://github.com/abstractart/how-to-develop-perfect-crud) - 👨‍💻Сборник хороших практик по разработке и оформлению типичного Backend приложения
 * 【2023-02-08】[CMEPW / BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
 * 【2023-02-08】[jubalh / awesome-package-maintainer](https://github.com/jubalh/awesome-package-maintainer) - How to become a packager
 * 【2023-02-07】[A-poc / BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
