@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-10】[samim23 / polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
+* 【2023-02-10】[BaRRaKudaRain / PCem-ROMs](https://github.com/BaRRaKudaRain/PCem-ROMs) - This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021
+* 【2023-02-10】[kyujin-cho / pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Rootless replacement for persist.dbg.volte_avail_ovr patch
+* 【2023-02-10】[acikkaynak / yardim-agi-flutter](https://github.com/acikkaynak/yardim-agi-flutter) - Bu uygulama, ihtiyaç sahibi depremzedelerin hangi adreste, nelere ihtiyaçları olduğu ve iletişim alma yöntemi bilgilerini ekleyebildiği; aynı zamanda girilen ihtiyaç taleplerinin listelenerek yardımseverlerin bu ihtiyaçları karşılayabilmesi amacıyla tasarlandı.
 * 【2023-02-09】[acikkaynak / deprem-yardim-frontend](https://github.com/acikkaynak/deprem-yardim-frontend) - afetharita.com frontend projesi. https://rc.afetharita.com/
 * 【2023-02-09】[acikkaynak / deprem-yardim-backend](https://github.com/acikkaynak/deprem-yardim-backend) - afetharita.com backend projesi
 * 【2023-02-09】[dabit3 / gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) - Create a travel itinerary for any city in the world in just a few seconds
@@ -171,6 +175,8 @@
 
 ## Java
 
+* 【2023-02-10】[tinystruct / smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @openai ChatGPT. @tinystruct
+* 【2023-02-10】[fuzhengwei / chatbot-api](https://github.com/fuzhengwei/chatbot-api) - 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。
 * 【2023-02-09】[YunaBraska / nats-server-embedded](https://github.com/YunaBraska/nats-server-embedded) - Nats server embedded for testing which contains the original Nats server
 * 【2023-02-09】[akto-api-security / community-edition](https://github.com/akto-api-security/community-edition) - Instant API security through API discovery, automated business logic testing and runtime detection.
 * 【2023-02-06】[MinaMichita / AntiAntiDefraud](https://github.com/MinaMichita/AntiAntiDefraud) - Stop uploading my installed app list! Miui!
@@ -245,6 +251,10 @@
 
 ## Python
 
+* 【2023-02-10】[Doragd / Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
+* 【2023-02-10】[mazen160 / secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
+* 【2023-02-10】[lifeiteng / vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech)
+* 【2023-02-10】[we0091234 / Car_recognition](https://github.com/we0091234/Car_recognition) - yolov5 车辆检测 车牌检测 车牌识别
 * 【2023-02-08】[yerfor / GeneFace](https://github.com/yerfor/GeneFace) - GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code
 * 【2023-02-08】[uptrain-ai / uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 * 【2023-02-07】[mmz-001 / knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
@@ -388,6 +398,8 @@
 
 ## Javascript
 
+* 【2023-02-10】[ox4f5da2 / ChatGPT](https://github.com/ox4f5da2/ChatGPT) - 
+* 【2023-02-10】[leochen-g / wechaty-web-panel](https://github.com/leochen-g/wechaty-web-panel) - Wechaty Web Panel 让你的wechaty机器人，快速接入web可视化操作面板，接入就是那么简单丝滑
 * 【2023-02-09】[adamelmore / good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good
 * 【2023-02-09】[cezaraugusto / You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒(PT-Br translation) JS Book Series.
 * 【2023-02-09】[localtunnel / server](https://github.com/localtunnel/server) - server for localtunnel.me
@@ -503,6 +515,8 @@
 
 ## Go
 
+* 【2023-02-10】[bytemate / larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
+* 【2023-02-10】[telepresenceio / telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 * 【2023-02-09】[kubernetes / sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
 * 【2023-02-09】[eddycjy / go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
 * 【2023-02-08】[arttor / helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
@@ -589,6 +603,9 @@
 
 ## C
 
+* 【2023-02-10】[sarah-walker-pcem / pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
+* 【2023-02-10】[pgvector / pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
+* 【2023-02-10】[mvp / uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
 * 【2023-02-09】[crisprss / RasmanPotato](https://github.com/crisprss/RasmanPotato) - Abuse Impersonate Privilege from Service to SYSTEM like other potatoes do
 * 【2023-02-09】[tectonic-typesetting / tectonic](https://github.com/tectonic-typesetting/tectonic) - A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive.
 * 【2023-02-09】[86Box / 86Box](https://github.com/86Box/86Box) - Emulator of x86-based machines based on PCem.
@@ -789,6 +806,8 @@
 
 ## C#
 
+* 【2023-02-10】[PawanOsman / ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) - Unofficial .Net Client for ChatGPT
+* 【2023-02-10】[wieslawsoltes / ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for console and graphical user interface.
 * 【2023-02-08】[Tom60chat / Microsoft-Rewards-Farmer-Sharp](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp) - A .NET app to farm Microsoft/Bing Rewards points.
 * 【2023-02-08】[microsoft / azure-pipelines-agent](https://github.com/microsoft/azure-pipelines-agent) - Azure Pipelines Agent🚀
 * 【2023-02-07】[LowLevelLemmy / SearchHistoryGame](https://github.com/LowLevelLemmy/SearchHistoryGame) - 
@@ -872,6 +891,10 @@
 
 ## Html
 
+* 【2023-02-10】[slippersheepig / chatgpt-web](https://github.com/slippersheepig/chatgpt-web) - 使用GPT-3.5中的text-davinci-003模型，利用OpenAI API实现简单HTML网页版在线聊天
+* 【2023-02-10】[omnivore-app / omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+* 【2023-02-10】[PaloAltoNetworks / prisma-cloud-docs](https://github.com/PaloAltoNetworks/prisma-cloud-docs) - Prisma Cloud docs
+* 【2023-02-10】[getpelican / pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 * 【2023-02-09】[RustMagazine / rustmagazine](https://github.com/RustMagazine/rustmagazine) - A publication dedicated to the Rust programming language
 * 【2023-02-09】[TwilioDevEd / introduction-to-apis-notes](https://github.com/TwilioDevEd/introduction-to-apis-notes) - Introduction to APIs - v2
 * 【2023-02-07】[neoslab / blackbuntu](https://github.com/neoslab/blackbuntu) - Official repository of the Blackbuntu pentesting distribution
@@ -939,6 +962,8 @@
 
 ## Css
 
+* 【2023-02-10】[PacktPublishing / 50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript) - 50 Projects In 50 Days - HTML, CSS & JavaScript, by Packt Publishing
+* 【2023-02-10】[Explore-AI / cloud-computing-predict](https://github.com/Explore-AI/cloud-computing-predict) - 
 * 【2023-02-09】[apache / apache-website-template](https://github.com/apache/apache-website-template) - Apache Website Template
 * 【2023-02-08】[fdnd-task / connect-your-tribe-profile-card](https://github.com/fdnd-task/connect-your-tribe-profile-card) - Redesign je visitekaartje op basis van een bestaande API.
 * 【2023-02-08】[cbxxacademy / RocketGenesisCollaboration](https://github.com/cbxxacademy/RocketGenesisCollaboration) - 
@@ -1041,6 +1066,8 @@
 
 ## Unknown
 
+* 【2023-02-10】[pix2pixzero / pix2pix-zero](https://github.com/pix2pixzero/pix2pix-zero) - 
+* 【2023-02-10】[motion-canvas / examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 * 【2023-02-09】[jonathan-bower / DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources.
 * 【2023-02-09】[satellite-image-deep-learning / techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 * 【2023-02-09】[tirthajyoti / Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place
