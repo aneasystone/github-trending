@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2023-02-11】[sashabaranov / go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 and DALL·E API wrapper for Go
+* 【2023-02-11】[cisagov / ESXiArgs-Recover](https://github.com/cisagov/ESXiArgs-Recover) - A tool to recover from ESXiArgs ransomware
+* 【2023-02-11】[obi1kenobi / trustfall](https://github.com/obi1kenobi/trustfall) - If GraphQL were more like SQL: a query language for any combination of data sources.
+* 【2023-02-11】[c4s73r / NetworkNightmare](https://github.com/c4s73r/NetworkNightmare) - Network Pentesting Mindmap by Caster
+* 【2023-02-11】[YuxinWenRick / hard-prompts-made-easy](https://github.com/YuxinWenRick/hard-prompts-made-easy) - 
+* 【2023-02-11】[acikkaynak / deprem-io-frontend](https://github.com/acikkaynak/deprem-io-frontend) - eski surum
+* 【2023-02-11】[MortezaBashsiz / CFScanner](https://github.com/MortezaBashsiz/CFScanner) - Cloud Flare scanner
+* 【2023-02-11】[Atri-Labs / atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - 🧘‍♀️Open-source full-stack web development framework for Python developers
+* 【2023-02-11】[clue-ai / PromptCLUE](https://github.com/clue-ai/PromptCLUE) - PromptCLUE, 全中文任务支持零样本学习模型
 * 【2023-02-10】[samim23 / polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 * 【2023-02-10】[BaRRaKudaRain / PCem-ROMs](https://github.com/BaRRaKudaRain/PCem-ROMs) - This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021
 * 【2023-02-10】[kyujin-cho / pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch) - Rootless replacement for persist.dbg.volte_avail_ovr patch
@@ -175,6 +184,8 @@
 
 ## Java
 
+* 【2023-02-11】[apache / dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo
+* 【2023-02-11】[fly-studio / douyin-downloader](https://github.com/fly-studio/douyin-downloader) - 抖音下载【无水印】的视频（2023-01-08更新，兼容android 11+）
 * 【2023-02-10】[tinystruct / smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @openai ChatGPT. @tinystruct
 * 【2023-02-10】[fuzhengwei / chatbot-api](https://github.com/fuzhengwei/chatbot-api) - 《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。
 * 【2023-02-09】[YunaBraska / nats-server-embedded](https://github.com/YunaBraska/nats-server-embedded) - Nats server embedded for testing which contains the original Nats server
@@ -251,6 +262,7 @@
 
 ## Python
 
+* 【2023-02-11】[TheR1D / shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
 * 【2023-02-10】[Doragd / Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
 * 【2023-02-10】[mazen160 / secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
 * 【2023-02-10】[lifeiteng / vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech)
@@ -398,6 +410,9 @@
 
 ## Javascript
 
+* 【2023-02-11】[EmpireAssatoken / Pancakeswap-Predcition-Bot-new-2023](https://github.com/EmpireAssatoken/Pancakeswap-Predcition-Bot-new-2023) - The bot that uses signals from TradingView to predict the price of BNB for Up or Down in PancakeSwap
+* 【2023-02-11】[matschik / component-party](https://github.com/matschik/component-party) - Web component JS frameworks overview by their syntax and features
+* 【2023-02-11】[iamtsm / tl-rtc-file](https://github.com/iamtsm/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，webrtc检测，文字传输，公共聊天，丰富的后台管理，机器人告警通知等功能
 * 【2023-02-10】[ox4f5da2 / ChatGPT](https://github.com/ox4f5da2/ChatGPT) - 
 * 【2023-02-10】[leochen-g / wechaty-web-panel](https://github.com/leochen-g/wechaty-web-panel) - Wechaty Web Panel 让你的wechaty机器人，快速接入web可视化操作面板，接入就是那么简单丝滑
 * 【2023-02-09】[adamelmore / good-repo](https://github.com/adamelmore/good-repo) - Preeeeetty, pretty good
@@ -515,6 +530,8 @@
 
 ## Go
 
+* 【2023-02-11】[acikkaynak / deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) - 
+* 【2023-02-11】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation sharing platform built on top of OpenZiti.
 * 【2023-02-10】[bytemate / larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
 * 【2023-02-10】[telepresenceio / telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 * 【2023-02-09】[kubernetes / sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver
@@ -603,6 +620,7 @@
 
 ## C
 
+* 【2023-02-11】[ploopyco / headphones](https://github.com/ploopyco/headphones) - A set of 3D-printed headphones, alongside a DAC/amp/EQ board powered by a Raspberry Pico.
 * 【2023-02-10】[sarah-walker-pcem / pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 * 【2023-02-10】[pgvector / pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 * 【2023-02-10】[mvp / uhubctl](https://github.com/mvp/uhubctl) - uhubctl - USB hub per-port power control
@@ -716,6 +734,10 @@
 
 ## C++
 
+* 【2023-02-11】[TheD1rkMtr / FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
+* 【2023-02-11】[embree / embree](https://github.com/embree/embree) - Embree ray tracing kernels repository.
+* 【2023-02-11】[sewenew / redis-plus-plus](https://github.com/sewenew/redis-plus-plus) - Redis client written in C++
+* 【2023-02-11】[interpretml / interpret](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 * 【2023-02-09】[shajen / rtl-sdr-scanner-cpp](https://github.com/shajen/rtl-sdr-scanner-cpp) - 
 * 【2023-02-09】[crosire / reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 * 【2023-02-08】[KellanM / OpenAI-Api-Unreal](https://github.com/KellanM/OpenAI-Api-Unreal) - Integration for the OpenAI Api in Unreal Engine
@@ -891,6 +913,8 @@
 
 ## Html
 
+* 【2023-02-11】[ycanga / Patient-Search-System](https://github.com/ycanga/Patient-Search-System) - It has been prepared to make it easier to learn the hospital information and status of the injured people who were injured in the big earthquake that took place in Turkey on February 6th.🎗
+* 【2023-02-11】[slippersheepig / chatgpt-html](https://github.com/slippersheepig/chatgpt-html) - 使用ChatGPT接口，实现简单HTML网页版在线聊天
 * 【2023-02-10】[slippersheepig / chatgpt-web](https://github.com/slippersheepig/chatgpt-web) - 使用GPT-3.5中的text-davinci-003模型，利用OpenAI API实现简单HTML网页版在线聊天
 * 【2023-02-10】[omnivore-app / omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 * 【2023-02-10】[PaloAltoNetworks / prisma-cloud-docs](https://github.com/PaloAltoNetworks/prisma-cloud-docs) - Prisma Cloud docs
@@ -962,6 +986,9 @@
 
 ## Css
 
+* 【2023-02-11】[llSourcell / ChatGPT_Clone](https://github.com/llSourcell/ChatGPT_Clone) - This is the code for "I Built a ChatGPT Clone of Myself!" by Siraj Raval on Youtube
+* 【2023-02-11】[github / codespaces-flask](https://github.com/github/codespaces-flask) - 
+* 【2023-02-11】[wibus-wee / chatgpt-bing-extension](https://github.com/wibus-wee/chatgpt-bing-extension) - Display ChatGPT response alongside Bing Search results
 * 【2023-02-10】[PacktPublishing / 50-Projects-In-50-Days---HTML-CSS-JavaScript](https://github.com/PacktPublishing/50-Projects-In-50-Days---HTML-CSS-JavaScript) - 50 Projects In 50 Days - HTML, CSS & JavaScript, by Packt Publishing
 * 【2023-02-10】[Explore-AI / cloud-computing-predict](https://github.com/Explore-AI/cloud-computing-predict) - 
 * 【2023-02-09】[apache / apache-website-template](https://github.com/apache/apache-website-template) - Apache Website Template
@@ -1066,6 +1093,9 @@
 
 ## Unknown
 
+* 【2023-02-11】[dalinvip / Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
+* 【2023-02-11】[aokocax / deprem-yardim-projeleri](https://github.com/aokocax/deprem-yardim-projeleri) - Deprem ihtiyaçları için yapılan projeleri bir araya toplamaya çalışıyoruz.
+* 【2023-02-11】[archguard / book](https://github.com/archguard/book) - 《架构治理模式》介绍了一系列调整现有人员、流程和技术的实践与模式，使架构符合架构师预期的设想，以最好地帮助架构师交付业务成果。
 * 【2023-02-10】[pix2pixzero / pix2pix-zero](https://github.com/pix2pixzero/pix2pix-zero) - 
 * 【2023-02-10】[motion-canvas / examples](https://github.com/motion-canvas/examples) - A set of examples for Motion Canvas
 * 【2023-02-09】[jonathan-bower / DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources.
