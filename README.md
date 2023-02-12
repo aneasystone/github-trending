@@ -6,6 +6,14 @@
 
 ## All language
 
+* 【2023-02-12】[jaymody / picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
+* 【2023-02-12】[uutils / coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+* 【2023-02-12】[MichalGeyer / plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”
+* 【2023-02-12】[ethereum-optimism / op-analytics](https://github.com/ethereum-optimism/op-analytics) - On-Chain Data, Utilities, References, and other Analytics on Optimism
+* 【2023-02-12】[leminlimez / Cowabunga](https://github.com/leminlimez/Cowabunga) - iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox
+* 【2023-02-12】[Shopify / hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.
+* 【2023-02-12】[Leizhenpeng / feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) - Feishu ChatGpt 在飞书上与ChatGPT随时对话~
+* 【2023-02-12】[activepieces / activepieces](https://github.com/activepieces/activepieces) - No-code Business Automation Tool. An open source alternative to Zapier.
 * 【2023-02-11】[sashabaranov / go-gpt3](https://github.com/sashabaranov/go-gpt3) - OpenAI GPT-3 and DALL·E API wrapper for Go
 * 【2023-02-11】[cisagov / ESXiArgs-Recover](https://github.com/cisagov/ESXiArgs-Recover) - A tool to recover from ESXiArgs ransomware
 * 【2023-02-11】[obi1kenobi / trustfall](https://github.com/obi1kenobi/trustfall) - If GraphQL were more like SQL: a query language for any combination of data sources.
@@ -184,6 +192,9 @@
 
 ## Java
 
+* 【2023-02-12】[XiaoMi / mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided
+* 【2023-02-12】[DataLinkDC / dinky](https://github.com/DataLinkDC/dinky) - Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.
+* 【2023-02-12】[JavaLionLi / RuoYi-Vue-Plus](https://github.com/JavaLionLi/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
 * 【2023-02-11】[apache / dubbo-admin](https://github.com/apache/dubbo-admin) - The ops and reference implementation for Apache Dubbo
 * 【2023-02-11】[fly-studio / douyin-downloader](https://github.com/fly-studio/douyin-downloader) - 抖音下载【无水印】的视频（2023-01-08更新，兼容android 11+）
 * 【2023-02-10】[tinystruct / smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @openai ChatGPT. @tinystruct
@@ -262,6 +273,12 @@
 
 ## Python
 
+* 【2023-02-12】[alexbieber / Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10🔴🔴🔴🔴✔
+* 【2023-02-12】[acheong08 / EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
+* 【2023-02-12】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Search The Deep Web Straight From Your Terminal
+* 【2023-02-12】[ultralytics / yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > TFLite
+* 【2023-02-12】[Netflix / dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+* 【2023-02-12】[lucidrains / x-transformers](https://github.com/lucidrains/x-transformers) - A simple but complete full-attention transformer with a set of promising experimental features from various papers
 * 【2023-02-11】[TheR1D / shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
 * 【2023-02-10】[Doragd / Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
 * 【2023-02-10】[mazen160 / secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) - Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
@@ -410,6 +427,13 @@
 
 ## Javascript
 
+* 【2023-02-12】[ExamProCo / aws-bootcamp-cruddur-2023](https://github.com/ExamProCo/aws-bootcamp-cruddur-2023) - This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
+* 【2023-02-12】[roman01la / threegn](https://github.com/roman01la/threegn) - Procedural 3D graphics editor for the web
+* 【2023-02-12】[itorr / anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
+* 【2023-02-12】[clooos / Home-Assistant-Mobile-First](https://github.com/clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard. Featuring customized widgets and advanced subviews.
+* 【2023-02-12】[shobrook / stackoverflow.gg](https://github.com/shobrook/stackoverflow.gg) - AI-generated answers to every coding question
+* 【2023-02-12】[acikkaynak / deprem-io-backend](https://github.com/acikkaynak/deprem-io-backend) - current back Deprem.io is a platform to help with the recent earthquakes in Turkiye
+* 【2023-02-12】[PKM-er / Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz themes example vault for Obsidian
 * 【2023-02-11】[EmpireAssatoken / Pancakeswap-Predcition-Bot-new-2023](https://github.com/EmpireAssatoken/Pancakeswap-Predcition-Bot-new-2023) - The bot that uses signals from TradingView to predict the price of BNB for Up or Down in PancakeSwap
 * 【2023-02-11】[matschik / component-party](https://github.com/matschik/component-party) - Web component JS frameworks overview by their syntax and features
 * 【2023-02-11】[iamtsm / tl-rtc-file](https://github.com/iamtsm/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，webrtc检测，文字传输，公共聊天，丰富的后台管理，机器人告警通知等功能
@@ -530,6 +554,7 @@
 
 ## Go
 
+* 【2023-02-12】[tomatocuke / openai](https://github.com/tomatocuke/openai) - 基于OpenAI接口做的微信公众号自动回复，弱化版ChatGPT
 * 【2023-02-11】[acikkaynak / deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) - 
 * 【2023-02-11】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation sharing platform built on top of OpenZiti.
 * 【2023-02-10】[bytemate / larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
@@ -620,6 +645,7 @@
 
 ## C
 
+* 【2023-02-12】[REDMED-X / OperatorsKit](https://github.com/REDMED-X/OperatorsKit) - Collection of Beacon Object Files (BOF) for Cobalt Strike
 * 【2023-02-11】[ploopyco / headphones](https://github.com/ploopyco/headphones) - A set of 3D-printed headphones, alongside a DAC/amp/EQ board powered by a Raspberry Pico.
 * 【2023-02-10】[sarah-walker-pcem / pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
 * 【2023-02-10】[pgvector / pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
@@ -734,6 +760,11 @@
 
 ## C++
 
+* 【2023-02-12】[TheD1rkMtr / UnhookingPatch](https://github.com/TheD1rkMtr/UnhookingPatch) - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
+* 【2023-02-12】[thomwolf / Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
+* 【2023-02-12】[gibsjose / cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
+* 【2023-02-12】[mysql / mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+* 【2023-02-12】[RainerKuemmerle / g2o](https://github.com/RainerKuemmerle/g2o) - g2o: A General Framework for Graph Optimization
 * 【2023-02-11】[TheD1rkMtr / FilelessPELoader](https://github.com/TheD1rkMtr/FilelessPELoader) - Loading Remote AES Encrypted PE in memory , Decrypted it and run it
 * 【2023-02-11】[embree / embree](https://github.com/embree/embree) - Embree ray tracing kernels repository.
 * 【2023-02-11】[sewenew / redis-plus-plus](https://github.com/sewenew/redis-plus-plus) - Redis client written in C++
@@ -828,6 +859,7 @@
 
 ## C#
 
+* 【2023-02-12】[LEGO / AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET) - The AsyncAPI.NET SDK contains a useful object model for AsyncAPI documents in .NET
 * 【2023-02-10】[PawanOsman / ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) - Unofficial .Net Client for ChatGPT
 * 【2023-02-10】[wieslawsoltes / ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for console and graphical user interface.
 * 【2023-02-08】[Tom60chat / Microsoft-Rewards-Farmer-Sharp](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp) - A .NET app to farm Microsoft/Bing Rewards points.
@@ -913,6 +945,8 @@
 
 ## Html
 
+* 【2023-02-12】[tesseract-ocr / tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
+* 【2023-02-12】[Clueless-Community / seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 * 【2023-02-11】[ycanga / Patient-Search-System](https://github.com/ycanga/Patient-Search-System) - It has been prepared to make it easier to learn the hospital information and status of the injured people who were injured in the big earthquake that took place in Turkey on February 6th.🎗
 * 【2023-02-11】[slippersheepig / chatgpt-html](https://github.com/slippersheepig/chatgpt-html) - 使用ChatGPT接口，实现简单HTML网页版在线聊天
 * 【2023-02-10】[slippersheepig / chatgpt-web](https://github.com/slippersheepig/chatgpt-web) - 使用GPT-3.5中的text-davinci-003模型，利用OpenAI API实现简单HTML网页版在线聊天
@@ -986,6 +1020,8 @@
 
 ## Css
 
+* 【2023-02-12】[imbhargav5 / nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript.🚀Next.js🔥Supabase💻TypeScript💚ESLint🎨Prettier🐶Husky🧹Lint-Staged🧪Jest🧪Testing Library🕹️Playwright✍️Commitizen💬Commitlint💻VSCode🌪️Vercel🎨PostCSS🍃Tailwind CSS⚛️React Query
+* 【2023-02-12】[TGlide / svelte-radial-menu](https://github.com/TGlide/svelte-radial-menu) - Radial Menu Experiment. Based on Rauno's Work
 * 【2023-02-11】[llSourcell / ChatGPT_Clone](https://github.com/llSourcell/ChatGPT_Clone) - This is the code for "I Built a ChatGPT Clone of Myself!" by Siraj Raval on Youtube
 * 【2023-02-11】[github / codespaces-flask](https://github.com/github/codespaces-flask) - 
 * 【2023-02-11】[wibus-wee / chatgpt-bing-extension](https://github.com/wibus-wee/chatgpt-bing-extension) - Display ChatGPT response alongside Bing Search results
@@ -1093,6 +1129,9 @@
 
 ## Unknown
 
+* 【2023-02-12】[tanprathan / OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist) - OWASP based Web Application Security Testing Checklist is an Excel based checklist which helps you to track the status of completed and pending test cases.
+* 【2023-02-12】[chris-bowman / Azure-Cost-Reporting](https://github.com/chris-bowman/Azure-Cost-Reporting) - 
+* 【2023-02-12】[spiritLHLS / Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，免费服务器，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Cloud server recommendation, on-hook items, and on-hook script collection. Welcome to click the bell in the upper right corner to receive timely updates. (Don't fork, keep a low profile)
 * 【2023-02-11】[dalinvip / Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 * 【2023-02-11】[aokocax / deprem-yardim-projeleri](https://github.com/aokocax/deprem-yardim-projeleri) - Deprem ihtiyaçları için yapılan projeleri bir araya toplamaya çalışıyoruz.
 * 【2023-02-11】[archguard / book](https://github.com/archguard/book) - 《架构治理模式》介绍了一系列调整现有人员、流程和技术的实践与模式，使架构符合架构师预期的设想，以最好地帮助架构师交付业务成果。
