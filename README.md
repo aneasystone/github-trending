@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-02-13】[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report) - 
+* 【2023-02-13】[alibaba / lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+* 【2023-02-13】[huggingface / peft](https://github.com/huggingface/peft) - 🤗PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 * 【2023-02-12】[jaymody / picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 * 【2023-02-12】[uutils / coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 * 【2023-02-12】[MichalGeyer / plug-and-play](https://github.com/MichalGeyer/plug-and-play) - Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”
@@ -59,6 +62,9 @@
 
 ## Java
 
+* 【2023-02-13】[sparrowwallet / sparrow](https://github.com/sparrowwallet/sparrow) - Desktop Bitcoin Wallet focused on security and privacy. Free and open source.
+* 【2023-02-13】[Osmerion / OneTrickPony](https://github.com/Osmerion/OneTrickPony) - OneTrickPony is a modern Java library that implements support for One-Time Passwords. Built-In support is provided for the HOTP (RFC 4226) and TOTP (RFC 6238) algorithms.
+* 【2023-02-13】[Riotphobia / Mundo](https://github.com/Riotphobia/Mundo) - Mundo is a small app that allows you to recover your Summoner name
 * 【2023-02-12】[XiaoMi / mone](https://github.com/XiaoMi/mone) - No description, website, or topics provided
 * 【2023-02-12】[DataLinkDC / dinky](https://github.com/DataLinkDC/dinky) - Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.
 * 【2023-02-12】[JavaLionLi / RuoYi-Vue-Plus](https://github.com/JavaLionLi/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
@@ -78,6 +84,12 @@
 
 ## Python
 
+* 【2023-02-13】[calapsss / face_detection_tutorial](https://github.com/calapsss/face_detection_tutorial) - A simple facial recognition system using OpenCV and Raspberry Pi 4. Haar cascade classifier is used to detect faces in input image. Steps to set up system and required libraries are outlined in README. Ideal starting point for learning about facial recognition and open-source implementation.
+* 【2023-02-13】[MediaBrain-SJTU / RECORDS-LTPLL](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL) - [ICLR 2023] PyTorch implementation for "Long-Tailed Partial Label Learning via Dynamic Rebalancing"
+* 【2023-02-13】[google / yapf](https://github.com/google/yapf) - A formatter for Python files
+* 【2023-02-13】[elleryqueenhomels / fast_neural_style_transfer](https://github.com/elleryqueenhomels/fast_neural_style_transfer) - Generative Neural Methods Based On Model Iteration
+* 【2023-02-13】[yi-ge / chatgpt-api](https://github.com/yi-ge/chatgpt-api) - ChatGPT API for https://github.com/yi-ge/chatgpt-web.
+* 【2023-02-13】[JionghaoSong / DailyMorning_Star](https://github.com/JionghaoSong/DailyMorning_Star) - 每日早安，天气，天数，中英文短句 -- （至23年2月稳定运行 求Star 谢谢)
 * 【2023-02-12】[alexbieber / Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) - BUG BOUNTY WRITEUPS - OWASP TOP 10🔴🔴🔴🔴✔
 * 【2023-02-12】[acheong08 / EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat
 * 【2023-02-12】[josh0xA / darkdump](https://github.com/josh0xA/darkdump) - Search The Deep Web Straight From Your Terminal
@@ -108,6 +120,11 @@
 
 ## Javascript
 
+* 【2023-02-13】[bestony / ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
+* 【2023-02-13】[C-Nedelcu / talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
+* 【2023-02-13】[cloudflare / templates](https://github.com/cloudflare/templates) - A collection of starter templates and examples for Cloudflare Workers and Pages
+* 【2023-02-13】[choogoo / wechat-openai-qa-bot](https://github.com/choogoo/wechat-openai-qa-bot) - 
+* 【2023-02-13】[sealdice / javascript](https://github.com/sealdice/javascript) - 这个仓库存储了海豹的JS插件
 * 【2023-02-12】[ExamProCo / aws-bootcamp-cruddur-2023](https://github.com/ExamProCo/aws-bootcamp-cruddur-2023) - This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
 * 【2023-02-12】[roman01la / threegn](https://github.com/roman01la/threegn) - Procedural 3D graphics editor for the web
 * 【2023-02-12】[itorr / anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
@@ -158,6 +175,7 @@
 
 ## Go
 
+* 【2023-02-13】[xjasonlyu / tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 * 【2023-02-12】[tomatocuke / openai](https://github.com/tomatocuke/openai) - 基于OpenAI接口做的微信公众号自动回复，弱化版ChatGPT
 * 【2023-02-11】[acikkaynak / deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) - 
 * 【2023-02-11】[openziti / zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation sharing platform built on top of OpenZiti.
@@ -185,6 +203,8 @@
 
 ## C
 
+* 【2023-02-13】[gojue / ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.
+* 【2023-02-13】[TASEmulators / desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 * 【2023-02-12】[REDMED-X / OperatorsKit](https://github.com/REDMED-X/OperatorsKit) - Collection of Beacon Object Files (BOF) for Cobalt Strike
 * 【2023-02-11】[ploopyco / headphones](https://github.com/ploopyco/headphones) - A set of 3D-printed headphones, alongside a DAC/amp/EQ board powered by a Raspberry Pico.
 * 【2023-02-10】[sarah-walker-pcem / pcem](https://github.com/sarah-walker-pcem/pcem) - PCem
@@ -220,6 +240,11 @@
 
 ## C++
 
+* 【2023-02-13】[AaronFeng753 / Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
+* 【2023-02-13】[raphaelradna / xenos](https://github.com/raphaelradna/xenos) - Xenos: Xenharmonic Stochastic Synthesizer
+* 【2023-02-13】[gaoxiang12 / slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
+* 【2023-02-13】[OpenMW / openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+* 【2023-02-13】[paolo-projects / auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
 * 【2023-02-12】[TheD1rkMtr / UnhookingPatch](https://github.com/TheD1rkMtr/UnhookingPatch) - Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime
 * 【2023-02-12】[thomwolf / Magic-Sand](https://github.com/thomwolf/Magic-Sand) - Magic-Sand is a software for operating an augmented reality sandbox
 * 【2023-02-12】[gibsjose / cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet) - C++ Syntax, Data Structures, and Algorithms Cheat Sheet
@@ -247,6 +272,8 @@
 
 ## C#
 
+* 【2023-02-13】[srwi / EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+* 【2023-02-13】[ZeroUltra / UnityManualReload](https://github.com/ZeroUltra/UnityManualReload) - unity fast compile reload 手动编译 reload domain 减少等待时间
 * 【2023-02-12】[LEGO / AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET) - The AsyncAPI.NET SDK contains a useful object model for AsyncAPI documents in .NET
 * 【2023-02-10】[PawanOsman / ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net) - Unofficial .Net Client for ChatGPT
 * 【2023-02-10】[wieslawsoltes / ChatGPT](https://github.com/wieslawsoltes/ChatGPT) - A ChatGPT C# client for console and graphical user interface.
@@ -288,6 +315,8 @@
 
 ## Css
 
+* 【2023-02-13】[ycjcl868 / readme-gpt](https://github.com/ycjcl868/readme-gpt) - Generate your Github Readme with OpenAI and Vercel Edge Functions.
+* 【2023-02-13】[MightyITExplorer / Website](https://github.com/MightyITExplorer/Website) - 
 * 【2023-02-12】[imbhargav5 / nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript.🚀Next.js🔥Supabase💻TypeScript💚ESLint🎨Prettier🐶Husky🧹Lint-Staged🧪Jest🧪Testing Library🕹️Playwright✍️Commitizen💬Commitlint💻VSCode🌪️Vercel🎨PostCSS🍃Tailwind CSS⚛️React Query
 * 【2023-02-12】[TGlide / svelte-radial-menu](https://github.com/TGlide/svelte-radial-menu) - Radial Menu Experiment. Based on Rauno's Work
 * 【2023-02-11】[llSourcell / ChatGPT_Clone](https://github.com/llSourcell/ChatGPT_Clone) - This is the code for "I Built a ChatGPT Clone of Myself!" by Siraj Raval on Youtube
@@ -321,6 +350,10 @@
 
 ## Unknown
 
+* 【2023-02-13】[gayolGate / gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
+* 【2023-02-13】[Bkebi-Group / Bkebi-GC-Release](https://github.com/Bkebi-Group/Bkebi-GC-Release) - Download Bkebi-GC Here
+* 【2023-02-13】[dn0m1n8tor / AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) - The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
+* 【2023-02-13】[aiboboxx / clashfree](https://github.com/aiboboxx/clashfree) - clash免费节点、clash科学上网、clash翻墙、clash订阅链接、clash教程
 * 【2023-02-12】[tanprathan / OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist) - OWASP based Web Application Security Testing Checklist is an Excel based checklist which helps you to track the status of completed and pending test cases.
 * 【2023-02-12】[chris-bowman / Azure-Cost-Reporting](https://github.com/chris-bowman/Azure-Cost-Reporting) - 
 * 【2023-02-12】[spiritLHLS / Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，免费服务器，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Cloud server recommendation, on-hook items, and on-hook script collection. Welcome to click the bell in the upper right corner to receive timely updates. (Don't fork, keep a low profile)
