@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-02-14】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
+* 【2023-02-14】[acheong08 / ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject cloudflare cookies
+* 【2023-02-14】[ayyucedemirbas / TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the effort to support continued education and make a difference.
+* 【2023-02-14】[alexbatalov / fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
+* 【2023-02-14】[NAStool / nas-tools](https://github.com/NAStool/nas-tools) - NAS媒体库管理工具
 * 【2023-02-13】[guaguaguaxia / weekly_report](https://github.com/guaguaguaxia/weekly_report) - 
 * 【2023-02-13】[alibaba / lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 * 【2023-02-13】[huggingface / peft](https://github.com/huggingface/peft) - 🤗PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
@@ -62,6 +67,10 @@
 
 ## Java
 
+* 【2023-02-14】[zhangchuangiie / TBCacheListenerTask](https://github.com/zhangchuangiie/TBCacheListenerTask) - 一个基于MySQL封装的类Zookeeper通知风格的工具
+* 【2023-02-14】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+* 【2023-02-14】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript automated tool for android (安卓平台 JavaScript 自动化工具)
+* 【2023-02-14】[hiteshchoudhary / React-native-projects](https://github.com/hiteshchoudhary/React-native-projects) - Learn React native with this free series on youtube (powered by Hashnode)
 * 【2023-02-13】[sparrowwallet / sparrow](https://github.com/sparrowwallet/sparrow) - Desktop Bitcoin Wallet focused on security and privacy. Free and open source.
 * 【2023-02-13】[Osmerion / OneTrickPony](https://github.com/Osmerion/OneTrickPony) - OneTrickPony is a modern Java library that implements support for One-Time Passwords. Built-In support is provided for the HOTP (RFC 4226) and TOTP (RFC 6238) algorithms.
 * 【2023-02-13】[Riotphobia / Mundo](https://github.com/Riotphobia/Mundo) - Mundo is a small app that allows you to recover your Summoner name
@@ -84,6 +93,8 @@
 
 ## Python
 
+* 【2023-02-14】[mrlt8 / docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+* 【2023-02-14】[aicezam / SmartOnmyoji](https://github.com/aicezam/SmartOnmyoji) - 阴阳师后台代肝脚本，支持所有类似阴阳师的卡牌游戏（点点点游戏）自动找图-点击…（支持后台运行、支持多开、支持模拟器）
 * 【2023-02-13】[calapsss / face_detection_tutorial](https://github.com/calapsss/face_detection_tutorial) - A simple facial recognition system using OpenCV and Raspberry Pi 4. Haar cascade classifier is used to detect faces in input image. Steps to set up system and required libraries are outlined in README. Ideal starting point for learning about facial recognition and open-source implementation.
 * 【2023-02-13】[MediaBrain-SJTU / RECORDS-LTPLL](https://github.com/MediaBrain-SJTU/RECORDS-LTPLL) - [ICLR 2023] PyTorch implementation for "Long-Tailed Partial Label Learning via Dynamic Rebalancing"
 * 【2023-02-13】[google / yapf](https://github.com/google/yapf) - A formatter for Python files
@@ -120,6 +131,9 @@
 
 ## Javascript
 
+* 【2023-02-14】[schlagmichdoch / PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
+* 【2023-02-14】[acikkaynak / eczane-backend](https://github.com/acikkaynak/eczane-backend) - 
+* 【2023-02-14】[F9y4ng / GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
 * 【2023-02-13】[bestony / ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 * 【2023-02-13】[C-Nedelcu / talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) - Talk to ChatGPT AI using your voice and listen to its answers through a voice
 * 【2023-02-13】[cloudflare / templates](https://github.com/cloudflare/templates) - A collection of starter templates and examples for Cloudflare Workers and Pages
@@ -175,6 +189,7 @@
 
 ## Go
 
+* 【2023-02-14】[Cyber-Buddy / APKHunt](https://github.com/Cyber-Buddy/APKHunt) - APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address potential security vulnerabilities in their code.
 * 【2023-02-13】[xjasonlyu / tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 * 【2023-02-12】[tomatocuke / openai](https://github.com/tomatocuke/openai) - 基于OpenAI接口做的微信公众号自动回复，弱化版ChatGPT
 * 【2023-02-11】[acikkaynak / deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go) - 
@@ -240,6 +255,9 @@
 
 ## C++
 
+* 【2023-02-14】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
+* 【2023-02-14】[wesnoth / wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
+* 【2023-02-14】[BrunoLevy / geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 * 【2023-02-13】[AaronFeng753 / Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Super Resolution, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.
 * 【2023-02-13】[raphaelradna / xenos](https://github.com/raphaelradna/xenos) - Xenos: Xenharmonic Stochastic Synthesizer
 * 【2023-02-13】[gaoxiang12 / slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving) - 《自动驾驶中的SLAM技术》对应开源代码
@@ -272,6 +290,7 @@
 
 ## C#
 
+* 【2023-02-14】[pointfeev / CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers.
 * 【2023-02-13】[srwi / EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 * 【2023-02-13】[ZeroUltra / UnityManualReload](https://github.com/ZeroUltra/UnityManualReload) - unity fast compile reload 手动编译 reload domain 减少等待时间
 * 【2023-02-12】[LEGO / AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET) - The AsyncAPI.NET SDK contains a useful object model for AsyncAPI documents in .NET
@@ -293,6 +312,8 @@
 
 ## Html
 
+* 【2023-02-14】[ozansarier / enkazdinlemeuygulamasi](https://github.com/ozansarier/enkazdinlemeuygulamasi) - Enkaz Dinleme Uygulaması
+* 【2023-02-14】[ylibrary-org / ylibrary](https://github.com/ylibrary-org/ylibrary) - Home Page
 * 【2023-02-12】[tesseract-ocr / tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 * 【2023-02-12】[Clueless-Community / seamless-ui](https://github.com/Clueless-Community/seamless-ui) - The next gen UI made with simple HTML and Tailwind CSS. It's compatible with simple HTML, CSS static website or a React, Vue, Angular or Next.js Complex app. Zero JS and no-plugins installed.
 * 【2023-02-11】[ycanga / Patient-Search-System](https://github.com/ycanga/Patient-Search-System) - It has been prepared to make it easier to learn the hospital information and status of the injured people who were injured in the big earthquake that took place in Turkey on February 6th.🎗
@@ -315,6 +336,8 @@
 
 ## Css
 
+* 【2023-02-14】[hexo-theme-Acrylic / Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) - 由Acrylic团队合力开发的一个美观，强大，高效的Hexo主题
+* 【2023-02-14】[xaseven / chatgptcnhtml](https://github.com/xaseven/chatgptcnhtml) - chatgpt反向代理网站，可以让被禁止的地区使用chatgpt
 * 【2023-02-13】[ycjcl868 / readme-gpt](https://github.com/ycjcl868/readme-gpt) - Generate your Github Readme with OpenAI and Vercel Edge Functions.
 * 【2023-02-13】[MightyITExplorer / Website](https://github.com/MightyITExplorer/Website) - 
 * 【2023-02-12】[imbhargav5 / nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript.🚀Next.js🔥Supabase💻TypeScript💚ESLint🎨Prettier🐶Husky🧹Lint-Staged🧪Jest🧪Testing Library🕹️Playwright✍️Commitizen💬Commitlint💻VSCode🌪️Vercel🎨PostCSS🍃Tailwind CSS⚛️React Query
@@ -350,6 +373,9 @@
 
 ## Unknown
 
+* 【2023-02-14】[yonggekkk / replit-xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray核心代理，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks五种代理协议
+* 【2023-02-14】[dsasmblr / game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
+* 【2023-02-14】[Bambu-Research-Group / RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
 * 【2023-02-13】[gayolGate / gayolGate](https://github.com/gayolGate/gayolGate) - Information about my GitHub profile
 * 【2023-02-13】[Bkebi-Group / Bkebi-GC-Release](https://github.com/Bkebi-Group/Bkebi-GC-Release) - Download Bkebi-GC Here
 * 【2023-02-13】[dn0m1n8tor / AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) - The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.
