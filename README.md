@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-15】[alexbatalov / fallout2-ce](https://github.com/alexbatalov/fallout2-ce) - Fallout 2 for modern operating systems
+* 【2023-02-15】[palera1n / palera1n-c](https://github.com/palera1n/palera1n-c) - palera1n written in C
+* 【2023-02-15】[bytemate / chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
+* 【2023-02-15】[37iOS / iChatGPT](https://github.com/37iOS/iChatGPT) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 * 【2023-02-14】[lllyasviel / ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models
 * 【2023-02-14】[acheong08 / ChatGPT-Proxy](https://github.com/acheong08/ChatGPT-Proxy) - Forward requests and inject cloudflare cookies
 * 【2023-02-14】[ayyucedemirbas / TurkeyLearningInitiative](https://github.com/ayyucedemirbas/TurkeyLearningInitiative) - TLI offers educational resources for earthquake-affected communities in Turkey. Find a comprehensive curriculum and detailed course materials in this repository, covering a range of subjects. Join the effort to support continued education and make a difference.
@@ -67,6 +71,7 @@
 
 ## Java
 
+* 【2023-02-15】[0xf4n9x / CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
 * 【2023-02-14】[zhangchuangiie / TBCacheListenerTask](https://github.com/zhangchuangiie/TBCacheListenerTask) - 一个基于MySQL封装的类Zookeeper通知风格的工具
 * 【2023-02-14】[MuntashirAkon / AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 * 【2023-02-14】[SuperMonster003 / AutoJs6](https://github.com/SuperMonster003/AutoJs6) - JavaScript automated tool for android (安卓平台 JavaScript 自动化工具)
@@ -93,6 +98,7 @@
 
 ## Python
 
+* 【2023-02-15】[FlagOpen / FlagPerf](https://github.com/FlagOpen/FlagPerf) - FlagPerf is an open-source software platform for benchmarking AI chips.
 * 【2023-02-14】[mrlt8 / docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 * 【2023-02-14】[aicezam / SmartOnmyoji](https://github.com/aicezam/SmartOnmyoji) - 阴阳师后台代肝脚本，支持所有类似阴阳师的卡牌游戏（点点点游戏）自动找图-点击…（支持后台运行、支持多开、支持模拟器）
 * 【2023-02-13】[calapsss / face_detection_tutorial](https://github.com/calapsss/face_detection_tutorial) - A simple facial recognition system using OpenCV and Raspberry Pi 4. Haar cascade classifier is used to detect faces in input image. Steps to set up system and required libraries are outlined in README. Ideal starting point for learning about facial recognition and open-source implementation.
@@ -131,6 +137,10 @@
 
 ## Javascript
 
+* 【2023-02-15】[Clooos / Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
+* 【2023-02-15】[elementor / elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.
+* 【2023-02-15】[actuallymentor / battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs
+* 【2023-02-15】[omenking / aws-bootcamp-cruddur-2023](https://github.com/omenking/aws-bootcamp-cruddur-2023) - 
 * 【2023-02-14】[schlagmichdoch / PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.
 * 【2023-02-14】[acikkaynak / eczane-backend](https://github.com/acikkaynak/eczane-backend) - 
 * 【2023-02-14】[F9y4ng / GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
@@ -189,6 +199,7 @@
 
 ## Go
 
+* 【2023-02-15】[869413421 / chatgpt-web](https://github.com/869413421/chatgpt-web) - 一键部署属于自己定制化的 chatgpt web程序
 * 【2023-02-14】[Cyber-Buddy / APKHunt](https://github.com/Cyber-Buddy/APKHunt) - APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVS framework. Although APKHunt is intended primarily for mobile app developers and security testers, it can be used by anyone to identify and address potential security vulnerabilities in their code.
 * 【2023-02-13】[xjasonlyu / tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 * 【2023-02-12】[tomatocuke / openai](https://github.com/tomatocuke/openai) - 基于OpenAI接口做的微信公众号自动回复，弱化版ChatGPT
@@ -218,6 +229,8 @@
 
 ## C
 
+* 【2023-02-15】[NVIDIA / DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games
+* 【2023-02-15】[gluster / glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 * 【2023-02-13】[gojue / ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.
 * 【2023-02-13】[TASEmulators / desmume](https://github.com/TASEmulators/desmume) - DeSmuME is a Nintendo DS emulator
 * 【2023-02-12】[REDMED-X / OperatorsKit](https://github.com/REDMED-X/OperatorsKit) - Collection of Beacon Object Files (BOF) for Cobalt Strike
@@ -255,6 +268,8 @@
 
 ## C++
 
+* 【2023-02-15】[Dec0ne / HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
+* 【2023-02-15】[Joshua-Ashton / HL2-GamepadUI](https://github.com/Joshua-Ashton/HL2-GamepadUI) - Source code for GamepadUI for Half-Life 2 and friends.
 * 【2023-02-14】[decoder-it / LocalPotato](https://github.com/decoder-it/LocalPotato) - 
 * 【2023-02-14】[wesnoth / wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 * 【2023-02-14】[BrunoLevy / geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
@@ -290,6 +305,9 @@
 
 ## C#
 
+* 【2023-02-15】[CCob / ThreadlessInject](https://github.com/CCob/ThreadlessInject) - Threadless Process Injection using remote function hooking.
+* 【2023-02-15】[SebLague / Chess-AI](https://github.com/SebLague/Chess-AI) - 
+* 【2023-02-15】[wonderboy1w3 / PharmacyEdition](https://github.com/wonderboy1w3/PharmacyEdition) - 
 * 【2023-02-14】[pointfeev / CreamInstaller](https://github.com/pointfeev/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selected games' DLCs, then provides a very simple graphical interface utilizing the gathered information for the maintenance of DLC unlockers.
 * 【2023-02-13】[srwi / EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 * 【2023-02-13】[ZeroUltra / UnityManualReload](https://github.com/ZeroUltra/UnityManualReload) - unity fast compile reload 手动编译 reload domain 减少等待时间
@@ -312,6 +330,7 @@
 
 ## Html
 
+* 【2023-02-15】[Unstructured-IO / unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 * 【2023-02-14】[ozansarier / enkazdinlemeuygulamasi](https://github.com/ozansarier/enkazdinlemeuygulamasi) - Enkaz Dinleme Uygulaması
 * 【2023-02-14】[ylibrary-org / ylibrary](https://github.com/ylibrary-org/ylibrary) - Home Page
 * 【2023-02-12】[tesseract-ocr / tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
@@ -336,6 +355,11 @@
 
 ## Css
 
+* 【2023-02-15】[lime-desu / dootsfile](https://github.com/lime-desu/dootsfile) - 🏠- Personal Dotfiles (Managed by GNU Stow)
+* 【2023-02-15】[youking-lib / ai-assistant](https://github.com/youking-lib/ai-assistant) - Online AI assistant power by chatgpt, support multiple API_KEY for load balance
+* 【2023-02-15】[diydiagnostics / App4-Base_Code](https://github.com/diydiagnostics/App4-Base_Code) - This is the base code for App 4 Assignment
+* 【2023-02-15】[firtysh / real-time-file-share](https://github.com/firtysh/real-time-file-share) - Real Time File Share is a web application for sharing files in real time.
+* 【2023-02-15】[aki-nishimura / stats-comp-algo-software-2023](https://github.com/aki-nishimura/stats-comp-algo-software-2023) - Course webpage for Biostat 140.778: Statistical Computing, Algorithm, and Software Development
 * 【2023-02-14】[hexo-theme-Acrylic / Hexo-Theme-Acrylic](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic) - 由Acrylic团队合力开发的一个美观，强大，高效的Hexo主题
 * 【2023-02-14】[xaseven / chatgptcnhtml](https://github.com/xaseven/chatgptcnhtml) - chatgpt反向代理网站，可以让被禁止的地区使用chatgpt
 * 【2023-02-13】[ycjcl868 / readme-gpt](https://github.com/ycjcl868/readme-gpt) - Generate your Github Readme with OpenAI and Vercel Edge Functions.
@@ -373,6 +397,9 @@
 
 ## Unknown
 
+* 【2023-02-15】[Vita3K / Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
+* 【2023-02-15】[KreakEmp / InterviewPrep](https://github.com/KreakEmp/InterviewPrep) - Resources for interview preparations
+* 【2023-02-15】[Daiyimo / Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android
 * 【2023-02-14】[yonggekkk / replit-xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray核心代理，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks五种代理协议
 * 【2023-02-14】[dsasmblr / game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
 * 【2023-02-14】[Bambu-Research-Group / RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags
