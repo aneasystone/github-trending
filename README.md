@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-02-17】[opera-gaming / gxmods](https://github.com/opera-gaming/gxmods) - Documentation for GX mods
+* 【2023-02-17】[cfortuner / promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript.🧑‍💻🧑‍💻🧑‍💻🚀🚀🚀
+* 【2023-02-17】[johnlui / PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
+* 【2023-02-17】[laravel / laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+* 【2023-02-17】[navopw / whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) - ChatGPT + Whatsapp = AI Assistant🚀
 * 【2023-02-16】[hyperfiddle / electric](https://github.com/hyperfiddle/electric) - a reactive signals DSL for fullstack web UI, with compiler-managed network sync
 * 【2023-02-16】[schibsted / WAAS](https://github.com/schibsted/WAAS) - Whisper as a Service (GUI and API for OpenAI Whisper)
 * 【2023-02-16】[getlago / lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing
@@ -77,6 +82,8 @@
 
 ## Java
 
+* 【2023-02-17】[kurogai / 100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
+* 【2023-02-17】[3112560244 / zdm_push](https://github.com/3112560244/zdm_push) - 值得买爬取
 * 【2023-02-16】[asmjmp0 / AndroidRunnableJadx](https://github.com/asmjmp0/AndroidRunnableJadx) - run java method of Android in Jadx without Android device.
 * 【2023-02-16】[vladmihalcea / hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils) - The Hypersistence Utils library (previously known as Hibernate Types) gives you Spring and Hibernate utilities that can help you get the most out of your data access layer.
 * 【2023-02-15】[0xf4n9x / CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669) - CVE-2023-0669 GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
@@ -106,6 +113,12 @@
 
 ## Python
 
+* 【2023-02-17】[deepmind / mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
+* 【2023-02-17】[chrisconlan / algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan
+* 【2023-02-17】[whitead / paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
+* 【2023-02-17】[HugoTini / DeepBump](https://github.com/HugoTini/DeepBump) - Normal & height maps generation from single pictures
+* 【2023-02-17】[civitai / sd_civitai_extension](https://github.com/civitai/sd_civitai_extension) - All of the Civitai models inside Automatic 1111 Stable Diffusion Web UI
+* 【2023-02-17】[cure-lab / LTSF-Linear](https://github.com/cure-lab/LTSF-Linear) - This is the official implementation for AAAI-23 Oral paper "Are Transformers Effective for Time Series Forecasting?"
 * 【2023-02-16】[Mikubill / sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet
 * 【2023-02-16】[lucidrains / toolformer-pytorch](https://github.com/lucidrains/toolformer-pytorch) - Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI
 * 【2023-02-16】[acheong08 / OpenAIAuth](https://github.com/acheong08/OpenAIAuth) - OpenAI Authentication Library for ChatGPT
@@ -149,6 +162,10 @@
 
 ## Javascript
 
+* 【2023-02-17】[Nutlope / aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
+* 【2023-02-17】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
+* 【2023-02-17】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
+* 【2023-02-17】[notplu / Nullify](https://github.com/notplu/Nullify) - One of the BEST up to date iReady hacks. Similar to iReady Overload.
 * 【2023-02-16】[GovindCodes / ValentineWish](https://github.com/GovindCodes/ValentineWish) - Wish Valentine's Day to Your loved ones like a Nerd.
 * 【2023-02-16】[AsmrProg-YT / 100-days-of-javascript](https://github.com/AsmrProg-YT/100-days-of-javascript) - AsmrProg Youtube Channel 100 days of javascript codes collection
 * 【2023-02-16】[wekan / wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
@@ -216,6 +233,7 @@
 
 ## Go
 
+* 【2023-02-17】[aws / amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 * 【2023-02-16】[mtlynch / picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 * 【2023-02-16】[prometheus / snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
 * 【2023-02-16】[open-telemetry / opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
@@ -291,6 +309,7 @@
 
 ## C++
 
+* 【2023-02-17】[boostorg / beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * 【2023-02-16】[Xilinx / Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
 * 【2023-02-15】[Dec0ne / HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
 * 【2023-02-15】[Joshua-Ashton / HL2-GamepadUI](https://github.com/Joshua-Ashton/HL2-GamepadUI) - Source code for GamepadUI for Half-Life 2 and friends.
@@ -329,6 +348,9 @@
 
 ## C#
 
+* 【2023-02-17】[pixeltris / YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
+* 【2023-02-17】[jenius-apps / ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
+* 【2023-02-17】[Mteheran / api-colombia](https://github.com/Mteheran/api-colombia) - Public api that contains info about Colombia, departments, cities, tourists places and presidents
 * 【2023-02-16】[TNG / ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing.
 * 【2023-02-15】[CCob / ThreadlessInject](https://github.com/CCob/ThreadlessInject) - Threadless Process Injection using remote function hooking.
 * 【2023-02-15】[SebLague / Chess-AI](https://github.com/SebLague/Chess-AI) - 
@@ -355,6 +377,7 @@
 
 ## Html
 
+* 【2023-02-17】[vikramlearning / blazorbootstrap](https://github.com/vikramlearning/blazorbootstrap) - Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS framework.
 * 【2023-02-16】[Tabyltop / CC-SRD](https://github.com/Tabyltop/CC-SRD) - The CC-SRD 5.1 converted to other file types and data formats
 * 【2023-02-16】[Srijita-Mandal / fix-your-nums](https://github.com/Srijita-Mandal/fix-your-nums) - Multiple-in-one calculator, by JavaScript, HTML & CSS
 * 【2023-02-15】[Unstructured-IO / unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
@@ -382,6 +405,9 @@
 
 ## Css
 
+* 【2023-02-17】[CodeLouisville / webdev_c1_knowcheck_01](https://github.com/CodeLouisville/webdev_c1_knowcheck_01) - 
+* 【2023-02-17】[inqueryio / inquery](https://github.com/inqueryio/inquery) - Real-time events platform for Postgres
+* 【2023-02-17】[narakeet / examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
 * 【2023-02-16】[msys2 / msys2.github.io](https://github.com/msys2/msys2.github.io) - The MSYS2 homepage
 * 【2023-02-16】[Rakesh9100 / Click-The-Edible-Game](https://github.com/Rakesh9100/Click-The-Edible-Game) - A well-designed interesting game made using HTML, CSS, and JS where you can play with your favourite edible and click it to get the most scores.
 * 【2023-02-16】[420-PB3-SH / PB3-lab8-githubpages](https://github.com/420-PB3-SH/PB3-lab8-githubpages) - 
@@ -427,6 +453,7 @@
 
 ## Unknown
 
+* 【2023-02-17】[OWASP / API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 * 【2023-02-16】[3lf / design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) - آموزش دیزاین پترن به زبون آدمیزاد - Teaching design patterns in Persian
 * 【2023-02-16】[lyudaio / cheatsheets](https://github.com/lyudaio/cheatsheets) - A collection of cheatsheets for various topics
 * 【2023-02-16】[archanchoudhury / SOC-OpenSource](https://github.com/archanchoudhury/SOC-OpenSource) - This is a Project Designed for Security Analysts and all SOC audiences who wants to play with implementation and explore the Modern SOC architecture.
