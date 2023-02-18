@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-18】[rerun-io / rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
+* 【2023-02-18】[shyamsn97 / mario-gpt](https://github.com/shyamsn97/mario-gpt) - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981
+* 【2023-02-18】[hpcaitech / EnergonAI](https://github.com/hpcaitech/EnergonAI) - Large-scale model inference.
+* 【2023-02-18】[mfaisalkhatri / awesome-learning](https://github.com/mfaisalkhatri/awesome-learning) - Curated lists of awesome learning resources for a Software Test Automation Engineer
 * 【2023-02-17】[opera-gaming / gxmods](https://github.com/opera-gaming/gxmods) - Documentation for GX mods
 * 【2023-02-17】[cfortuner / promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript.🧑‍💻🧑‍💻🧑‍💻🚀🚀🚀
 * 【2023-02-17】[johnlui / PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书
@@ -82,6 +86,9 @@
 
 ## Java
 
+* 【2023-02-18】[yudaocode / SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+* 【2023-02-18】[Grt1228 / chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3 Api Client for Java
+* 【2023-02-18】[JavaLionLi / RuoYi-Cloud-Plus](https://github.com/JavaLionLi/RuoYi-Cloud-Plus) - (公测)重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
 * 【2023-02-17】[kurogai / 100-redteam-projects](https://github.com/kurogai/100-redteam-projects) - Projects for security students
 * 【2023-02-17】[3112560244 / zdm_push](https://github.com/3112560244/zdm_push) - 值得买爬取
 * 【2023-02-16】[asmjmp0 / AndroidRunnableJadx](https://github.com/asmjmp0/AndroidRunnableJadx) - run java method of Android in Jadx without Android device.
@@ -113,6 +120,7 @@
 
 ## Python
 
+* 【2023-02-18】[lucidrains / lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 * 【2023-02-17】[deepmind / mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 * 【2023-02-17】[chrisconlan / algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan
 * 【2023-02-17】[whitead / paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
@@ -162,6 +170,9 @@
 
 ## Javascript
 
+* 【2023-02-18】[bytedance / xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
+* 【2023-02-18】[5ire-tech / wasm-contract-deployment](https://github.com/5ire-tech/wasm-contract-deployment) - 
+* 【2023-02-18】[Yue-plus / hexo-theme-arknights](https://github.com/Yue-plus/hexo-theme-arknights) - 明日方舟罗德岛阵营的 Hexo 主题，支持数学公式、Valine&Gitalk&Waline评论系统、Mermaid图表
 * 【2023-02-17】[Nutlope / aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 * 【2023-02-17】[andersontr15 / clean-code-javascript-es](https://github.com/andersontr15/clean-code-javascript-es) - Clean Code traducido al Español
 * 【2023-02-17】[react-native-datetimepicker / datetimepicker](https://github.com/react-native-datetimepicker/datetimepicker) - React Native date & time picker component for iOS, Android and Windows
@@ -233,6 +244,7 @@
 
 ## Go
 
+* 【2023-02-18】[acheong08 / ChatGPT-Proxy-V1](https://github.com/acheong08/ChatGPT-Proxy-V1) - ChatGPT proxy server
 * 【2023-02-17】[aws / amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 * 【2023-02-16】[mtlynch / picoshare](https://github.com/mtlynch/picoshare) - A minimalist, easy-to-host service for sharing images and other files
 * 【2023-02-16】[prometheus / snmp_exporter](https://github.com/prometheus/snmp_exporter) - SNMP Exporter for Prometheus
@@ -268,6 +280,8 @@
 
 ## C
 
+* 【2023-02-18】[LloydLabs / shellcode-plain-sight](https://github.com/LloydLabs/shellcode-plain-sight) - Hiding shellcode in plain sight within a large memory region. Inspired by technique used by Raspberry Robin's Roshtyak
+* 【2023-02-18】[wagiminator / CH552-USB-Knob](https://github.com/wagiminator/CH552-USB-Knob) - Rotary Encoder with NeoPixels and USB Interface
 * 【2023-02-16】[blackarrowsec / redteam-research](https://github.com/blackarrowsec/redteam-research) - Collection of PoC and offensive techniques used by the BlackArrow Red Team
 * 【2023-02-16】[emoose / DLSSTweaks](https://github.com/emoose/DLSSTweaks) - Tweak DLL for NVIDIA DLSS, allows forcing DLAA mode & overriding DLSS3.1 presets.
 * 【2023-02-15】[NVIDIA / DLSS](https://github.com/NVIDIA/DLSS) - NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates beautiful, sharp images for your games
@@ -309,6 +323,8 @@
 
 ## C++
 
+* 【2023-02-18】[TheD1rkMtr / GithubC2](https://github.com/TheD1rkMtr/GithubC2) - Github as C2 Demonstration , free API = free C2 Infrastructure
+* 【2023-02-18】[bupticybee / TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀A very efficient Texas Holdem GTO solver♠️♥️♣️♦️
 * 【2023-02-17】[boostorg / beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11
 * 【2023-02-16】[Xilinx / Vitis-AI](https://github.com/Xilinx/Vitis-AI) - Vitis AI is Xilinx’s development stack for AI inference on Xilinx hardware platforms, including both edge devices and Alveo cards.
 * 【2023-02-15】[Dec0ne / HWSyscalls](https://github.com/Dec0ne/HWSyscalls) - HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampoline on kernel32 with HWBP.
@@ -348,6 +364,8 @@
 
 ## C#
 
+* 【2023-02-18】[LorenzCK / OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice (on Windows).
+* 【2023-02-18】[nicknsy / jellyscrub](https://github.com/nicknsy/jellyscrub) - Smooth mouse-over video scrubbing previews for Jellyfin.
 * 【2023-02-17】[pixeltris / YgoMaster](https://github.com/pixeltris/YgoMaster) - Offline Yu-Gi-Oh! Master Duel
 * 【2023-02-17】[jenius-apps / ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 * 【2023-02-17】[Mteheran / api-colombia](https://github.com/Mteheran/api-colombia) - Public api that contains info about Colombia, departments, cities, tourists places and presidents
@@ -377,6 +395,7 @@
 
 ## Html
 
+* 【2023-02-18】[foundation / foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * 【2023-02-17】[vikramlearning / blazorbootstrap](https://github.com/vikramlearning/blazorbootstrap) - Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS framework.
 * 【2023-02-16】[Tabyltop / CC-SRD](https://github.com/Tabyltop/CC-SRD) - The CC-SRD 5.1 converted to other file types and data formats
 * 【2023-02-16】[Srijita-Mandal / fix-your-nums](https://github.com/Srijita-Mandal/fix-your-nums) - Multiple-in-one calculator, by JavaScript, HTML & CSS
@@ -405,6 +424,7 @@
 
 ## Css
 
+* 【2023-02-18】[AndrewPrifer / CodropsCameraFlyThroughTutorial](https://github.com/AndrewPrifer/CodropsCameraFlyThroughTutorial) - 
 * 【2023-02-17】[CodeLouisville / webdev_c1_knowcheck_01](https://github.com/CodeLouisville/webdev_c1_knowcheck_01) - 
 * 【2023-02-17】[inqueryio / inquery](https://github.com/inqueryio/inquery) - Real-time events platform for Postgres
 * 【2023-02-17】[narakeet / examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts
@@ -453,6 +473,12 @@
 
 ## Unknown
 
+* 【2023-02-18】[Olshansk / interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
+* 【2023-02-18】[CoderKellyX / JavaScript-DEX-Triangular-Arbitrage-Bot-v4](https://github.com/CoderKellyX/JavaScript-DEX-Triangular-Arbitrage-Bot-v4) - JavaScript Decentralized Exchange Triangular Arbitrage Bot automates finding & executing profitable trades on DEXs. Advanced algorithms analyze the market & execute trades in real-time. Supports multiple trading pairs, decentralized & secure, essential for maximizing profits and minimizing risk on DEX markets.
+* 【2023-02-18】[trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+* 【2023-02-18】[Tsojan / TsojanScan](https://github.com/Tsojan/TsojanScan) - 一个集成的BurpSuite漏洞探测插件
+* 【2023-02-18】[WarrenWen666 / AI-Software-Startups](https://github.com/WarrenWen666/AI-Software-Startups) - A Survey of AI startups
+* 【2023-02-18】[laosp007 / sepilao](https://github.com/laosp007/sepilao) - 色批佬最新地址
 * 【2023-02-17】[OWASP / API-Security](https://github.com/OWASP/API-Security) - OWASP API Security Project
 * 【2023-02-16】[3lf / design-patterns-for-humans](https://github.com/3lf/design-patterns-for-humans) - آموزش دیزاین پترن به زبون آدمیزاد - Teaching design patterns in Persian
 * 【2023-02-16】[lyudaio / cheatsheets](https://github.com/lyudaio/cheatsheets) - A collection of cheatsheets for various topics
