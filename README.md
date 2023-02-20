@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-02-20】[hwchase17 / langchainjs](https://github.com/hwchase17/langchainjs) - 
+* 【2023-02-20】[chvancooten / NimPlant](https://github.com/chvancooten/NimPlant) - A light-weight first-stage C2 implant written in Nim.
+* 【2023-02-20】[kettle11 / tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
+* 【2023-02-20】[XTLS / REALITY](https://github.com/XTLS/REALITY) - THE NEXT FUTURE
+* 【2023-02-20】[TencentARC / T2I-Adapter](https://github.com/TencentARC/T2I-Adapter) - T2I-Adapter
 * 【2023-02-19】[askrella / whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + Whatsapp = AI Assistant🚀
 * 【2023-02-19】[slawlor / ractor](https://github.com/slawlor/ractor) - Rust actor framework
 * 【2023-02-19】[realm / SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
@@ -90,6 +95,9 @@
 
 ## Java
 
+* 【2023-02-20】[alibaba / ali-dbhub](https://github.com/alibaba/ali-dbhub) - Free multi-platform database tool for developers.(数据库客户端工具)
+* 【2023-02-20】[beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+* 【2023-02-20】[ukanth / afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
 * 【2023-02-18】[yudaocode / SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
 * 【2023-02-18】[Grt1228 / chatgpt-java](https://github.com/Grt1228/chatgpt-java) - ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3 Api Client for Java
 * 【2023-02-18】[JavaLionLi / RuoYi-Cloud-Plus](https://github.com/JavaLionLi/RuoYi-Cloud-Plus) - (公测)重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
@@ -124,6 +132,7 @@
 
 ## Python
 
+* 【2023-02-20】[dunbar12138 / pix2pix3D](https://github.com/dunbar12138/pix2pix3D) - pix2pix3D: Generating 3D Objects from 2D User Inputs
 * 【2023-02-19】[yihong0618 / xiaogpt](https://github.com/yihong0618/xiaogpt) - play chatgpt with xiaomi ai speaker
 * 【2023-02-19】[Guiflayrom / yolnp](https://github.com/Guiflayrom/yolnp) - Yolnp is a project based in YOLO to detect plates
 * 【2023-02-19】[mukulpatnaik / researchgpt](https://github.com/mukulpatnaik/researchgpt) - An open-source LLM based research assistant that allows you to have a conversation with a research paper
@@ -178,6 +187,9 @@
 
 ## Javascript
 
+* 【2023-02-20】[replicate / scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
+* 【2023-02-20】[harshitethic / chatgpt-bot-telegram](https://github.com/harshitethic/chatgpt-bot-telegram) - 
+* 【2023-02-20】[sverweij / dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 * 【2023-02-19】[MrXujiang / h5-Dooring](https://github.com/MrXujiang/h5-Dooring) - H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.
 * 【2023-02-19】[FirefoxBar / HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
 * 【2023-02-19】[chaos-zhu / easynode](https://github.com/chaos-zhu/easynode) - 一个简易的个人Linux服务器ssh管理面板(webSSH&webSFTP)
@@ -255,6 +267,7 @@
 
 ## Go
 
+* 【2023-02-20】[jedib0t / go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 * 【2023-02-19】[fanchunke / chatgpt-wecom](https://github.com/fanchunke/chatgpt-wecom) - 企业微信接入 GPT3
 * 【2023-02-19】[dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 * 【2023-02-18】[acheong08 / ChatGPT-Proxy-V1](https://github.com/acheong08/ChatGPT-Proxy-V1) - ChatGPT proxy server
@@ -337,6 +350,7 @@
 
 ## C++
 
+* 【2023-02-20】[ic005k / OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 * 【2023-02-19】[intel / x86-simd-sort](https://github.com/intel/x86-simd-sort) - C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes
 * 【2023-02-19】[SleepTheGod / SSH-Remote-Code-Execution](https://github.com/SleepTheGod/SSH-Remote-Code-Execution) - SSH Zero-Day Made By ClumsyLulz
 * 【2023-02-19】[cpputest / cpputest](https://github.com/cpputest/cpputest) - CppUTest unit testing and mocking framework for C/C++
@@ -382,6 +396,8 @@
 
 ## C#
 
+* 【2023-02-20】[Coloryr / ColorMC](https://github.com/Coloryr/ColorMC) - 全新的MC启动器
+* 【2023-02-20】[dorssel / usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 * 【2023-02-19】[microsoft / hack-together](https://github.com/microsoft/hack-together) - Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
 * 【2023-02-19】[focus-creative-games / hybridclr_unity](https://github.com/focus-creative-games/hybridclr_unity) - Unity package for HybridCLR
 * 【2023-02-18】[LorenzCK / OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice (on Windows).
@@ -415,6 +431,9 @@
 
 ## Html
 
+* 【2023-02-20】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
+* 【2023-02-20】[jvns / vue3-tiny-template](https://github.com/jvns/vue3-tiny-template) - 
+* 【2023-02-20】[wuomzfx / wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) - 公众号微信云托管接入 chatgpt 模板
 * 【2023-02-19】[flashohq / flasho](https://github.com/flashohq/flasho) - Open source customer notifications in less than 5 minutes
 * 【2023-02-18】[foundation / foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * 【2023-02-17】[vikramlearning / blazorbootstrap](https://github.com/vikramlearning/blazorbootstrap) - Enterprise-class Blazor Bootstrap Component library built on the Blazor and Bootstrap CSS framework.
@@ -445,6 +464,10 @@
 
 ## Css
 
+* 【2023-02-20】[elunez / openai-java](https://github.com/elunez/openai-java) - 基于Spring boot 2.6.4，thymeleaf 的 Openai API 的简单包装的Java Web项目，项目支持余额查询、自定义Key 、对话与生成图片，连续对话等
+* 【2023-02-20】[inlost / inlost.github.com](https://github.com/inlost/inlost.github.com) - Demos
+* 【2023-02-20】[Atharva1802 / CSS-trickies](https://github.com/Atharva1802/CSS-trickies) - Here is the code for some cool CSS tricks that I've made.
+* 【2023-02-20】[NeshHari / XMonad](https://github.com/NeshHari/XMonad) - XMonad Starter Kit
 * 【2023-02-19】[dirk1983 / chatgpt](https://github.com/dirk1983/chatgpt) - PHP版调用chatgpt接口进行问答的Demo。页面UI简洁，支持连续会话，支持保存查询日志。只需要修改message.php中的API_KEY即可使用。
 * 【2023-02-19】[aldi / bulma-social](https://github.com/aldi/bulma-social) - 🤳Social Buttons and Colors for Bulma
 * 【2023-02-18】[AndrewPrifer / CodropsCameraFlyThroughTutorial](https://github.com/AndrewPrifer/CodropsCameraFlyThroughTutorial) - 
@@ -496,6 +519,8 @@
 
 ## Unknown
 
+* 【2023-02-20】[ctjhoa / rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
+* 【2023-02-20】[howl-anderson / unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～
 * 【2023-02-19】[utsanjan / PD-Runner](https://github.com/utsanjan/PD-Runner) - PD Runner is an unlimited trial launcher to run Parallels Desktop on your macOS
 * 【2023-02-19】[wjf0214 / qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
 * 【2023-02-18】[Olshansk / interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview
