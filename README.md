@@ -95,6 +95,8 @@
 
 ## Java
 
+* 【2023-02-21】[NeoApplications / Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
+* 【2023-02-21】[MonwF / customiuizer](https://github.com/MonwF/customiuizer) - customiuizer14(米客)
 * 【2023-02-20】[alibaba / ali-dbhub](https://github.com/alibaba/ali-dbhub) - Free multi-platform database tool for developers.(数据库客户端工具)
 * 【2023-02-20】[beemdevelopment / Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 * 【2023-02-20】[ukanth / afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
@@ -187,6 +189,8 @@
 
 ## Javascript
 
+* 【2023-02-21】[osnr / TabFS](https://github.com/osnr/TabFS) - 🗄Mount your browser tabs as a filesystem.
+* 【2023-02-21】[Rich-Harris / devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
 * 【2023-02-20】[replicate / scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
 * 【2023-02-20】[harshitethic / chatgpt-bot-telegram](https://github.com/harshitethic/chatgpt-bot-telegram) - 
 * 【2023-02-20】[sverweij / dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
@@ -267,6 +271,8 @@
 
 ## Go
 
+* 【2023-02-21】[zinclabs / zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+* 【2023-02-21】[mjl- / mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 * 【2023-02-20】[jedib0t / go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
 * 【2023-02-19】[fanchunke / chatgpt-wecom](https://github.com/fanchunke/chatgpt-wecom) - 企业微信接入 GPT3
 * 【2023-02-19】[dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
@@ -350,6 +356,9 @@
 
 ## C++
 
+* 【2023-02-21】[panda3d / panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
+* 【2023-02-21】[qTox / qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
+* 【2023-02-21】[tomlooman / ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine Pro C++ Course & Stanford University (CS193U)
 * 【2023-02-20】[ic005k / OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 * 【2023-02-19】[intel / x86-simd-sort](https://github.com/intel/x86-simd-sort) - C++ header file library for high performance SIMD based sorting algorithms for primitive datatypes
 * 【2023-02-19】[SleepTheGod / SSH-Remote-Code-Execution](https://github.com/SleepTheGod/SSH-Remote-Code-Execution) - SSH Zero-Day Made By ClumsyLulz
@@ -396,6 +405,7 @@
 
 ## C#
 
+* 【2023-02-21】[SolastaMods / SolastaUnfinishedBusiness](https://github.com/SolastaMods/SolastaUnfinishedBusiness) - 
 * 【2023-02-20】[Coloryr / ColorMC](https://github.com/Coloryr/ColorMC) - 全新的MC启动器
 * 【2023-02-20】[dorssel / usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 * 【2023-02-19】[microsoft / hack-together](https://github.com/microsoft/hack-together) - Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
@@ -431,6 +441,8 @@
 
 ## Html
 
+* 【2023-02-21】[robinmoisson / staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
+* 【2023-02-21】[OWASP / Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 * 【2023-02-20】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
 * 【2023-02-20】[jvns / vue3-tiny-template](https://github.com/jvns/vue3-tiny-template) - 
 * 【2023-02-20】[wuomzfx / wx-chatgpt](https://github.com/wuomzfx/wx-chatgpt) - 公众号微信云托管接入 chatgpt 模板
@@ -519,6 +531,8 @@
 
 ## Unknown
 
+* 【2023-02-21】[ordinals-wallet / ordinals-collections](https://github.com/ordinals-wallet/ordinals-collections) - A place for creators & builders to organize ordinal collections!
+* 【2023-02-21】[CynthiaPeter / Technical-Writing-Resources](https://github.com/CynthiaPeter/Technical-Writing-Resources) - A collection of blogpost, resources, and links that has helped me in my journey as a technical writer. I still refer to them and contribute to the list as I find more.
 * 【2023-02-20】[ctjhoa / rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 * 【2023-02-20】[howl-anderson / unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～
 * 【2023-02-19】[utsanjan / PD-Runner](https://github.com/utsanjan/PD-Runner) - PD Runner is an unlimited trial launcher to run Parallels Desktop on your macOS
