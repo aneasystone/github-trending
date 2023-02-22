@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-22】[DvorakDwarf / Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
+* 【2023-02-22】[fkunn1326 / openpose-editor](https://github.com/fkunn1326/openpose-editor) - Openpose Editor for AUTOMATIC1111's stable-diffusion-webui
+* 【2023-02-22】[danijar / dreamerv3](https://github.com/danijar/dreamerv3) - Mastering Diverse Domains through World Models
+* 【2023-02-22】[coollabsio / coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 * 【2023-02-20】[hwchase17 / langchainjs](https://github.com/hwchase17/langchainjs) - 
 * 【2023-02-20】[chvancooten / NimPlant](https://github.com/chvancooten/NimPlant) - A light-weight first-stage C2 implant written in Nim.
 * 【2023-02-20】[kettle11 / tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
@@ -95,6 +99,9 @@
 
 ## Java
 
+* 【2023-02-22】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
+* 【2023-02-22】[amzn / selling-partner-api-models](https://github.com/amzn/selling-partner-api-models) - This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.
+* 【2023-02-22】[wix / react-native-notifications](https://github.com/wix/react-native-notifications) - React Native Notifications
 * 【2023-02-21】[NeoApplications / Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Free and Open Source Launcher.
 * 【2023-02-21】[MonwF / customiuizer](https://github.com/MonwF/customiuizer) - customiuizer14(米客)
 * 【2023-02-20】[alibaba / ali-dbhub](https://github.com/alibaba/ali-dbhub) - Free multi-platform database tool for developers.(数据库客户端工具)
@@ -134,6 +141,10 @@
 
 ## Python
 
+* 【2023-02-22】[thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models.
+* 【2023-02-22】[JagadeeshBoyidi / AlgoOriginals-TimeBasedStraddles](https://github.com/JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles) - 
+* 【2023-02-22】[LSH9832 / edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
+* 【2023-02-22】[receyuki / nas-tools](https://github.com/receyuki/nas-tools) - A fork of NAStool/nas-tools:2.9.1
 * 【2023-02-20】[dunbar12138 / pix2pix3D](https://github.com/dunbar12138/pix2pix3D) - pix2pix3D: Generating 3D Objects from 2D User Inputs
 * 【2023-02-19】[yihong0618 / xiaogpt](https://github.com/yihong0618/xiaogpt) - play chatgpt with xiaomi ai speaker
 * 【2023-02-19】[Guiflayrom / yolnp](https://github.com/Guiflayrom/yolnp) - Yolnp is a project based in YOLO to detect plates
@@ -189,6 +200,9 @@
 
 ## Javascript
 
+* 【2023-02-22】[Code-Over-Time / varcade_games](https://github.com/Code-Over-Time/varcade_games) - Varcade Games is a Software Engineering Sandbox - a place for engineers to learn and play.
+* 【2023-02-22】[mrabit / aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
+* 【2023-02-22】[yetone / bob-plugin-rapidapi-deepl-translator](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator) - DeepL RapidAPI 的 Bob 插件，可能是中国 macOS 用户可以无痛使用的相对合法的最便宜的 DeepL 翻译方案。
 * 【2023-02-21】[osnr / TabFS](https://github.com/osnr/TabFS) - 🗄Mount your browser tabs as a filesystem.
 * 【2023-02-21】[Rich-Harris / devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
 * 【2023-02-20】[replicate / scribble-diffusion](https://github.com/replicate/scribble-diffusion) - Turn your rough sketch into a refined image using AI
@@ -271,6 +285,8 @@
 
 ## Go
 
+* 【2023-02-22】[cometbft / cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.
+* 【2023-02-22】[xmgtony / apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产级可用golang api服务端(基于gin)
 * 【2023-02-21】[zinclabs / zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 * 【2023-02-21】[mjl- / mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 * 【2023-02-20】[jedib0t / go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang!
@@ -312,6 +328,9 @@
 
 ## C
 
+* 【2023-02-22】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
+* 【2023-02-22】[iilegacyyii / ThreadlessInject-BOF](https://github.com/iilegacyyii/ThreadlessInject-BOF) - BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection technique with no thread creation, released at BSides Cymru 2023.
+* 【2023-02-22】[IchiiDev / ws-github-actions](https://github.com/IchiiDev/ws-github-actions) - 
 * 【2023-02-19】[happyfish100 / fastdfs](https://github.com/happyfish100/fastdfs) - FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs
 * 【2023-02-18】[LloydLabs / shellcode-plain-sight](https://github.com/LloydLabs/shellcode-plain-sight) - Hiding shellcode in plain sight within a large memory region. Inspired by technique used by Raspberry Robin's Roshtyak
 * 【2023-02-18】[wagiminator / CH552-USB-Knob](https://github.com/wagiminator/CH552-USB-Knob) - Rotary Encoder with NeoPixels and USB Interface
@@ -356,6 +375,9 @@
 
 ## C++
 
+* 【2023-02-22】[cartographer-project / cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+* 【2023-02-22】[idaholab / moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
+* 【2023-02-22】[McCaulay / mast1c0re](https://github.com/McCaulay/mast1c0re) - Develop payloads that can be executed on the PlayStation 4 or PlayStation 5 through a game save file.
 * 【2023-02-21】[panda3d / panda3d](https://github.com/panda3d/panda3d) - Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU
 * 【2023-02-21】[qTox / qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 * 【2023-02-21】[tomlooman / ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++. Project for Unreal Engine Pro C++ Course & Stanford University (CS193U)
@@ -405,6 +427,9 @@
 
 ## C#
 
+* 【2023-02-22】[zkSNACKs / WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
+* 【2023-02-22】[builtbybel / BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Next Gen-Debloat App for Windows 11
+* 【2023-02-22】[dotnetcore / DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
 * 【2023-02-21】[SolastaMods / SolastaUnfinishedBusiness](https://github.com/SolastaMods/SolastaUnfinishedBusiness) - 
 * 【2023-02-20】[Coloryr / ColorMC](https://github.com/Coloryr/ColorMC) - 全新的MC启动器
 * 【2023-02-20】[dorssel / usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
@@ -441,6 +466,9 @@
 
 ## Html
 
+* 【2023-02-22】[aws-samples / aws-deployment-pipeline-reference-architecture](https://github.com/aws-samples/aws-deployment-pipeline-reference-architecture) - Reference architecture for deployment pipelines
+* 【2023-02-22】[Wizarrrr / wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
+* 【2023-02-22】[NianBroken / Personal_Sakura_Guide_Page](https://github.com/NianBroken/Personal_Sakura_Guide_Page) - 一款好看的樱花个人引导页，基于Dimension的二次修改。普通虚拟主机即可搭建，无需其他环境。把源码上传到服务器，修改index.html里面的代码，访问域名就可以使用。纯Html-Css-JavaScript
 * 【2023-02-21】[robinmoisson / staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 * 【2023-02-21】[OWASP / Nettacker](https://github.com/OWASP/Nettacker) - Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management
 * 【2023-02-20】[alura-challenges / challenge-one-portafolio-latam](https://github.com/alura-challenges/challenge-one-portafolio-latam) - Repositorio base para desafio 1 Cree su própio Portafolio del Challenge ONE Front end
@@ -476,6 +504,9 @@
 
 ## Css
 
+* 【2023-02-22】[scorcuera / react-playground](https://github.com/scorcuera/react-playground) - Resources to help you complete your CRUD with React hooks.
+* 【2023-02-22】[edx / docs.edx.org](https://github.com/edx/docs.edx.org) - The docs.edx.org landing page
+* 【2023-02-22】[creativetimofficial / argon-dashboard-nodejs](https://github.com/creativetimofficial/argon-dashboard-nodejs) - 
 * 【2023-02-20】[elunez / openai-java](https://github.com/elunez/openai-java) - 基于Spring boot 2.6.4，thymeleaf 的 Openai API 的简单包装的Java Web项目，项目支持余额查询、自定义Key 、对话与生成图片，连续对话等
 * 【2023-02-20】[inlost / inlost.github.com](https://github.com/inlost/inlost.github.com) - Demos
 * 【2023-02-20】[Atharva1802 / CSS-trickies](https://github.com/Atharva1802/CSS-trickies) - Here is the code for some cool CSS tricks that I've made.
@@ -531,6 +562,9 @@
 
 ## Unknown
 
+* 【2023-02-22】[theepiccode / Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) - An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)
+* 【2023-02-22】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+* 【2023-02-22】[eon01 / awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more.🌟Please consider supporting this project by giving it a star.
 * 【2023-02-21】[ordinals-wallet / ordinals-collections](https://github.com/ordinals-wallet/ordinals-collections) - A place for creators & builders to organize ordinal collections!
 * 【2023-02-21】[CynthiaPeter / Technical-Writing-Resources](https://github.com/CynthiaPeter/Technical-Writing-Resources) - A collection of blogpost, resources, and links that has helped me in my journey as a technical writer. I still refer to them and contribute to the list as I find more.
 * 【2023-02-20】[ctjhoa / rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
