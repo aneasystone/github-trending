@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-23】[FMInference / FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.
+* 【2023-02-23】[Kanaries / pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+* 【2023-02-23】[total-typescript / ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+* 【2023-02-23】[camenduru / stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 * 【2023-02-22】[DvorakDwarf / Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 * 【2023-02-22】[fkunn1326 / openpose-editor](https://github.com/fkunn1326/openpose-editor) - Openpose Editor for AUTOMATIC1111's stable-diffusion-webui
 * 【2023-02-22】[danijar / dreamerv3](https://github.com/danijar/dreamerv3) - Mastering Diverse Domains through World Models
@@ -99,6 +103,7 @@
 
 ## Java
 
+* 【2023-02-23】[waterlang / bullet-chat](https://github.com/waterlang/bullet-chat) - 弹幕系统
 * 【2023-02-22】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
 * 【2023-02-22】[amzn / selling-partner-api-models](https://github.com/amzn/selling-partner-api-models) - This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.
 * 【2023-02-22】[wix / react-native-notifications](https://github.com/wix/react-native-notifications) - React Native Notifications
@@ -141,6 +146,9 @@
 
 ## Python
 
+* 【2023-02-23】[miguelgrinberg / microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+* 【2023-02-23】[mobarski / ask-my-pdf](https://github.com/mobarski/ask-my-pdf) - Question answering system for PDF files
+* 【2023-02-23】[Ricardokevins / Bert-In-Relation-Extraction](https://github.com/Ricardokevins/Bert-In-Relation-Extraction) - 使用Bert完成实体之间关系抽取
 * 【2023-02-22】[thuml / Time-Series-Library](https://github.com/thuml/Time-Series-Library) - A Library for Advanced Deep Time Series Models.
 * 【2023-02-22】[JagadeeshBoyidi / AlgoOriginals-TimeBasedStraddles](https://github.com/JagadeeshBoyidi/AlgoOriginals-TimeBasedStraddles) - 
 * 【2023-02-22】[LSH9832 / edgeyolo](https://github.com/LSH9832/edgeyolo) - an edge-real-time anchor-free object detector with decent performance
@@ -200,6 +208,8 @@
 
 ## Javascript
 
+* 【2023-02-23】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
+* 【2023-02-23】[yetone / bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 OpenAI API (GPT-3) 的 Bob 翻译插件，让我们一起迎接不需要巴别塔的新时代！
 * 【2023-02-22】[Code-Over-Time / varcade_games](https://github.com/Code-Over-Time/varcade_games) - Varcade Games is a Software Engineering Sandbox - a place for engineers to learn and play.
 * 【2023-02-22】[mrabit / aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck) - 阿里云盘每日签到脚本 青龙面板支持
 * 【2023-02-22】[yetone / bob-plugin-rapidapi-deepl-translator](https://github.com/yetone/bob-plugin-rapidapi-deepl-translator) - DeepL RapidAPI 的 Bob 插件，可能是中国 macOS 用户可以无痛使用的相对合法的最便宜的 DeepL 翻译方案。
@@ -285,6 +295,8 @@
 
 ## Go
 
+* 【2023-02-23】[psilva261 / opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
+* 【2023-02-23】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 * 【2023-02-22】[cometbft / cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.
 * 【2023-02-22】[xmgtony / apiserver-gin](https://github.com/xmgtony/apiserver-gin) - 生产级可用golang api服务端(基于gin)
 * 【2023-02-21】[zinclabs / zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -328,6 +340,7 @@
 
 ## C
 
+* 【2023-02-23】[raspberrypi / picoprobe](https://github.com/raspberrypi/picoprobe) - 
 * 【2023-02-22】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
 * 【2023-02-22】[iilegacyyii / ThreadlessInject-BOF](https://github.com/iilegacyyii/ThreadlessInject-BOF) - BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection technique with no thread creation, released at BSides Cymru 2023.
 * 【2023-02-22】[IchiiDev / ws-github-actions](https://github.com/IchiiDev/ws-github-actions) - 
@@ -375,6 +388,9 @@
 
 ## C++
 
+* 【2023-02-23】[mortbopet / Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
+* 【2023-02-23】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
+* 【2023-02-23】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
 * 【2023-02-22】[cartographer-project / cartographer](https://github.com/cartographer-project/cartographer) - Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
 * 【2023-02-22】[idaholab / moose](https://github.com/idaholab/moose) - Multiphysics Object Oriented Simulation Environment
 * 【2023-02-22】[McCaulay / mast1c0re](https://github.com/McCaulay/mast1c0re) - Develop payloads that can be executed on the PlayStation 4 or PlayStation 5 through a game save file.
@@ -504,6 +520,11 @@
 
 ## Css
 
+* 【2023-02-23】[Bkebi-Group / Bkebi-Group.github.io](https://github.com/Bkebi-Group/Bkebi-Group.github.io) - Bkebi GC Website
+* 【2023-02-23】[JoTechOfficial / FluentForSteamLibrarySkin](https://github.com/JoTechOfficial/FluentForSteamLibrarySkin) - Unofficial Library Skin For fluent for steam. Includes Dark mode for Library, Download Page, And Friends List.
+* 【2023-02-23】[iNeuronai / flask_app_a](https://github.com/iNeuronai/flask_app_a) - 
+* 【2023-02-23】[jhabboubi / springbootdemoproject](https://github.com/jhabboubi/springbootdemoproject) - 
+* 【2023-02-23】[schnensch0 / zelk](https://github.com/schnensch0/zelk) - discord theme inspired by zorin
 * 【2023-02-22】[scorcuera / react-playground](https://github.com/scorcuera/react-playground) - Resources to help you complete your CRUD with React hooks.
 * 【2023-02-22】[edx / docs.edx.org](https://github.com/edx/docs.edx.org) - The docs.edx.org landing page
 * 【2023-02-22】[creativetimofficial / argon-dashboard-nodejs](https://github.com/creativetimofficial/argon-dashboard-nodejs) - 
@@ -562,6 +583,8 @@
 
 ## Unknown
 
+* 【2023-02-23】[txsun1997 / MOSS](https://github.com/txsun1997/MOSS) - MOSS is a conversational language model like ChatGPT.
+* 【2023-02-23】[osammy820 / Software_Engineering_Level_300](https://github.com/osammy820/Software_Engineering_Level_300) - 
 * 【2023-02-22】[theepiccode / Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) - An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)
 * 【2023-02-22】[Hannibal046 / Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 * 【2023-02-22】[eon01 / awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more.🌟Please consider supporting this project by giving it a star.
