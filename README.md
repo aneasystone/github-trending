@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-02-24】[civitai / civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
+* 【2023-02-24】[MysticFoxDE / WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
+* 【2023-02-24】[epicmaxco / vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3🤘
+* 【2023-02-24】[phodal / ai-research](https://github.com/phodal/ai-research) - 【🔞🔞🔞内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+* 【2023-02-24】[horizon3ai / CVE-2022-39952](https://github.com/horizon3ai/CVE-2022-39952) - POC for CVE-2022-39952
 * 【2023-02-23】[FMInference / FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput large-batch generation.
 * 【2023-02-23】[Kanaries / pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 * 【2023-02-23】[total-typescript / ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
@@ -146,6 +151,10 @@
 
 ## Python
 
+* 【2023-02-24】[microsoft / PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
+* 【2023-02-24】[lupantech / ScienceQA](https://github.com/lupantech/ScienceQA) - Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".
+* 【2023-02-24】[pharmapsychotic / clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
+* 【2023-02-24】[YaoFANGUK / video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频转字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A tool for generating subtitle from videos and generating srt files.
 * 【2023-02-23】[miguelgrinberg / microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 * 【2023-02-23】[mobarski / ask-my-pdf](https://github.com/mobarski/ask-my-pdf) - Question answering system for PDF files
 * 【2023-02-23】[Ricardokevins / Bert-In-Relation-Extraction](https://github.com/Ricardokevins/Bert-In-Relation-Extraction) - 使用Bert完成实体之间关系抽取
@@ -208,6 +217,9 @@
 
 ## Javascript
 
+* 【2023-02-24】[yobulkdev / yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥🔥🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
+* 【2023-02-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - 🌩Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
+* 【2023-02-24】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图库。A relatively powerful web mind map library.
 * 【2023-02-23】[responsively-org / responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 * 【2023-02-23】[yetone / bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 OpenAI API (GPT-3) 的 Bob 翻译插件，让我们一起迎接不需要巴别塔的新时代！
 * 【2023-02-22】[Code-Over-Time / varcade_games](https://github.com/Code-Over-Time/varcade_games) - Varcade Games is a Software Engineering Sandbox - a place for engineers to learn and play.
@@ -340,6 +352,7 @@
 
 ## C
 
+* 【2023-02-24】[o-oconnell / minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book version of MINIX (3.1.0) on QEMU
 * 【2023-02-23】[raspberrypi / picoprobe](https://github.com/raspberrypi/picoprobe) - 
 * 【2023-02-22】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
 * 【2023-02-22】[iilegacyyii / ThreadlessInject-BOF](https://github.com/iilegacyyii/ThreadlessInject-BOF) - BOF implementation of @_EthicalChaos_'s ThreadlessInject project. A novel process injection technique with no thread creation, released at BSides Cymru 2023.
@@ -443,6 +456,8 @@
 
 ## C#
 
+* 【2023-02-24】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
+* 【2023-02-24】[Rise-Software / Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 * 【2023-02-22】[zkSNACKs / WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2023-02-22】[builtbybel / BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Next Gen-Debloat App for Windows 11
 * 【2023-02-22】[dotnetcore / DotnetSpider](https://github.com/dotnetcore/DotnetSpider) - DotnetSpider, a .NET standard web crawling library. It is lightweight, efficient and fast high-level web crawling & scraping framework
@@ -482,6 +497,9 @@
 
 ## Html
 
+* 【2023-02-24】[isno / isno.github.io](https://github.com/isno/isno.github.io) - 
+* 【2023-02-24】[maykbrito / boracodar](https://github.com/maykbrito/boracodar) - 
+* 【2023-02-24】[sdras / signals-demo](https://github.com/sdras/signals-demo) - ⚡️A small demo site to explain some of the cool things Signals-based reactivity does in Angular
 * 【2023-02-22】[aws-samples / aws-deployment-pipeline-reference-architecture](https://github.com/aws-samples/aws-deployment-pipeline-reference-architecture) - Reference architecture for deployment pipelines
 * 【2023-02-22】[Wizarrrr / wizarr](https://github.com/Wizarrrr/wizarr) - Wizarr is an automatic user invitation system for Plex.
 * 【2023-02-22】[NianBroken / Personal_Sakura_Guide_Page](https://github.com/NianBroken/Personal_Sakura_Guide_Page) - 一款好看的樱花个人引导页，基于Dimension的二次修改。普通虚拟主机即可搭建，无需其他环境。把源码上传到服务器，修改index.html里面的代码，访问域名就可以使用。纯Html-Css-JavaScript
@@ -520,6 +538,9 @@
 
 ## Css
 
+* 【2023-02-24】[austin2035 / astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
+* 【2023-02-24】[Elevationacademy / userPage-API-Project-Student](https://github.com/Elevationacademy/userPage-API-Project-Student) - 
+* 【2023-02-24】[Hashtechieofficial / Form-](https://github.com/Hashtechieofficial/Form-) - 
 * 【2023-02-23】[Bkebi-Group / Bkebi-Group.github.io](https://github.com/Bkebi-Group/Bkebi-Group.github.io) - Bkebi GC Website
 * 【2023-02-23】[JoTechOfficial / FluentForSteamLibrarySkin](https://github.com/JoTechOfficial/FluentForSteamLibrarySkin) - Unofficial Library Skin For fluent for steam. Includes Dark mode for Library, Download Page, And Friends List.
 * 【2023-02-23】[iNeuronai / flask_app_a](https://github.com/iNeuronai/flask_app_a) - 
@@ -583,6 +604,10 @@
 
 ## Unknown
 
+* 【2023-02-24】[krol3 / container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
+* 【2023-02-24】[krizzsk / HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) - A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
+* 【2023-02-24】[R3NE07 / Futro-S740](https://github.com/R3NE07/Futro-S740) - 
+* 【2023-02-24】[benlisquare / stable-diffusion-webui-localization-zh_TW](https://github.com/benlisquare/stable-diffusion-webui-localization-zh_TW) - Traditional Chinese translation extension for Stable Diffusion web UI by AUTOMATIC1111
 * 【2023-02-23】[txsun1997 / MOSS](https://github.com/txsun1997/MOSS) - MOSS is a conversational language model like ChatGPT.
 * 【2023-02-23】[osammy820 / Software_Engineering_Level_300](https://github.com/osammy820/Software_Engineering_Level_300) - 
 * 【2023-02-22】[theepiccode / Awesome-CyberSec-Resources](https://github.com/theepiccode/Awesome-CyberSec-Resources) - An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)
