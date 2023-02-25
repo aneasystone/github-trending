@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-02-25】[AmbientRun / Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+* 【2023-02-25】[ann-afame / DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - 
+* 【2023-02-25】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
+* 【2023-02-25】[LHRUN / paint-board](https://github.com/LHRUN/paint-board) - Canvas based drawing board, including free drawing, eraser, text, select, layer, undo, redo, clear, save, drag
 * 【2023-02-24】[civitai / civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 * 【2023-02-24】[MysticFoxDE / WINDOWS-OPTIMIZATIONS](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS) - SKRIPTS FOR WINDOWS DESUBOPTIMIZATION
 * 【2023-02-24】[epicmaxco / vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Free and Open Source UI Library for Vue 3🤘
@@ -108,6 +112,10 @@
 
 ## Java
 
+* 【2023-02-25】[DXask88MA / Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) - 
+* 【2023-02-25】[termux / termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
+* 【2023-02-25】[zuihou / lamp-util](https://github.com/zuihou/lamp-util) - lamp-util 基于Jdk11 ，是 lamp-cloud 和 lamp-boot 项目的核心工具包，开发宗旨是打造一套兼顾 SpringBoot 和 SpringCloud 项目的公共工具类。
+* 【2023-02-25】[smart-cloud / smart-cloud](https://github.com/smart-cloud/smart-cloud) - 基于springboot && springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志&&sql日志切面打印、分表分库分布式事务、国际化语言等
 * 【2023-02-23】[waterlang / bullet-chat](https://github.com/waterlang/bullet-chat) - 弹幕系统
 * 【2023-02-22】[spring-projects / spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) - Simplifies the development of creating a JPA-based data access layer.
 * 【2023-02-22】[amzn / selling-partner-api-models](https://github.com/amzn/selling-partner-api-models) - This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.
@@ -151,6 +159,10 @@
 
 ## Python
 
+* 【2023-02-25】[docarray / docarray](https://github.com/docarray/docarray) - 🧬The data structure for multimodal data · Neural Search · Vector Search · Document Store
+* 【2023-02-25】[google-research / FLAN](https://github.com/google-research/FLAN) - 
+* 【2023-02-25】[Plachtaa / VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and any-to-any voice conversion
+* 【2023-02-25】[iscyy / yoloair2](https://github.com/iscyy/yoloair2) - ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules
 * 【2023-02-24】[microsoft / PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
 * 【2023-02-24】[lupantech / ScienceQA](https://github.com/lupantech/ScienceQA) - Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".
 * 【2023-02-24】[pharmapsychotic / clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
@@ -217,6 +229,9 @@
 
 ## Javascript
 
+* 【2023-02-25】[ONLYOFFICE / onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io) - 
+* 【2023-02-25】[codrops / OnScrollTypographyAnimations](https://github.com/codrops/OnScrollTypographyAnimations) - Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.
+* 【2023-02-25】[fireship-io / sorting-algorithms](https://github.com/fireship-io/sorting-algorithms) - A collection of sorting algorithms implemented in JS
 * 【2023-02-24】[yobulkdev / yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥🔥🔥Open Source CSV importer powered by GPT3 - Free flatfile.com alternative
 * 【2023-02-24】[artilleryio / artillery](https://github.com/artilleryio/artillery) - 🌩Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
 * 【2023-02-24】[wanglin2 / mind-map](https://github.com/wanglin2/mind-map) - 一个还算强大的Web思维导图库。A relatively powerful web mind map library.
@@ -307,6 +322,7 @@
 
 ## Go
 
+* 【2023-02-25】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 * 【2023-02-23】[psilva261 / opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
 * 【2023-02-23】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 * 【2023-02-22】[cometbft / cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.
@@ -352,6 +368,10 @@
 
 ## C
 
+* 【2023-02-25】[Octoberfest7 / MemFiles](https://github.com/Octoberfest7/MemFiles) - A CobaltStrike toolkit to write files produced by Beacon to memory instead of disk
+* 【2023-02-25】[sultim-t / xash-rt](https://github.com/sultim-t/xash-rt) - Fork of the Xash3D FWGS with a real-time path tracing
+* 【2023-02-25】[lakinduakash / linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
+* 【2023-02-25】[philipl / pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 * 【2023-02-24】[o-oconnell / minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book version of MINIX (3.1.0) on QEMU
 * 【2023-02-23】[raspberrypi / picoprobe](https://github.com/raspberrypi/picoprobe) - 
 * 【2023-02-22】[aleksey-hoffman / sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
@@ -401,6 +421,7 @@
 
 ## C++
 
+* 【2023-02-25】[J-D-K / JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 * 【2023-02-23】[mortbopet / Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 * 【2023-02-23】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
 * 【2023-02-23】[CHH3213 / chhRobotics_CPP](https://github.com/CHH3213/chhRobotics_CPP) - 自动驾驶规划控制常用算法c++代码实现
@@ -456,6 +477,8 @@
 
 ## C#
 
+* 【2023-02-25】[sdcb / PaddleSharp](https://github.com/sdcb/PaddleSharp) - .NET/C# binding for Baidu paddle inference library and PaddleOCR
+* 【2023-02-25】[microsoft / artifacts-credprovider](https://github.com/microsoft/artifacts-credprovider) - The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds.
 * 【2023-02-24】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
 * 【2023-02-24】[Rise-Software / Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 * 【2023-02-22】[zkSNACKs / WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
@@ -497,6 +520,9 @@
 
 ## Html
 
+* 【2023-02-25】[DualSubs / DualSubs-YouTube](https://github.com/DualSubs/DualSubs-YouTube) - YouTube字幕增强及双语模块
+* 【2023-02-25】[xy-sea / blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
+* 【2023-02-25】[halo-dev / theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
 * 【2023-02-24】[isno / isno.github.io](https://github.com/isno/isno.github.io) - 
 * 【2023-02-24】[maykbrito / boracodar](https://github.com/maykbrito/boracodar) - 
 * 【2023-02-24】[sdras / signals-demo](https://github.com/sdras/signals-demo) - ⚡️A small demo site to explain some of the cool things Signals-based reactivity does in Angular
@@ -538,6 +564,8 @@
 
 ## Css
 
+* 【2023-02-25】[dcai-course / dcai-course](https://github.com/dcai-course/dcai-course) - Introduction to Data-Centric AI, MIT IAP 2023🤖
+* 【2023-02-25】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - 
 * 【2023-02-24】[austin2035 / astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
 * 【2023-02-24】[Elevationacademy / userPage-API-Project-Student](https://github.com/Elevationacademy/userPage-API-Project-Student) - 
 * 【2023-02-24】[Hashtechieofficial / Form-](https://github.com/Hashtechieofficial/Form-) - 
@@ -604,6 +632,13 @@
 
 ## Unknown
 
+* 【2023-02-25】[KKGo1999 / Stable-diffusion-person](https://github.com/KKGo1999/Stable-diffusion-person) - 由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像
+* 【2023-02-25】[safak / youtube23](https://github.com/safak/youtube23) - Lama Dev Season 3
+* 【2023-02-25】[phodal / prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+* 【2023-02-25】[Glixerz / Blooket-Hacks](https://github.com/Glixerz/Blooket-Hacks) - A ton of blooket hacks
+* 【2023-02-25】[shenkeYT / blooket-hack](https://github.com/shenkeYT/blooket-hack) - The original Blooket hack!
+* 【2023-02-25】[thuml / TimesNet](https://github.com/thuml/TimesNet) - About Code release for "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis" (ICLR 2023), https://openreview.net/pdf?id=ju_Uqw384Oq
+* 【2023-02-25】[tiankong1999 / jd_maotai](https://github.com/tiankong1999/jd_maotai) - 
 * 【2023-02-24】[krol3 / container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 * 【2023-02-24】[krizzsk / HackersCave4StaticAndroidSec](https://github.com/krizzsk/HackersCave4StaticAndroidSec) - A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.
 * 【2023-02-24】[R3NE07 / Futro-S740](https://github.com/R3NE07/Futro-S740) - 
