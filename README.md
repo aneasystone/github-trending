@@ -6,6 +6,8 @@
 
 ## All language
 
+* 【2023-02-26】[trigaten / Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
+* 【2023-02-26】[mui / mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 * 【2023-02-25】[AmbientRun / Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 * 【2023-02-25】[ann-afame / DEVOPS-WORLD](https://github.com/ann-afame/DEVOPS-WORLD) - 
 * 【2023-02-25】[flutter / packages](https://github.com/flutter/packages) - A collection of useful packages maintained by the Flutter team
@@ -159,6 +161,7 @@
 
 ## Python
 
+* 【2023-02-26】[bentoml / BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework🍱
 * 【2023-02-25】[docarray / docarray](https://github.com/docarray/docarray) - 🧬The data structure for multimodal data · Neural Search · Vector Search · Document Store
 * 【2023-02-25】[google-research / FLAN](https://github.com/google-research/FLAN) - 
 * 【2023-02-25】[Plachtaa / VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning) - This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and any-to-any voice conversion
@@ -229,6 +232,8 @@
 
 ## Javascript
 
+* 【2023-02-26】[proxyplu / Nullify](https://github.com/proxyplu/Nullify) - One of the BEST up to date iReady hacks. Similar to iReady Overload.
+* 【2023-02-26】[CollaboraOnline / online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 * 【2023-02-25】[ONLYOFFICE / onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io) - 
 * 【2023-02-25】[codrops / OnScrollTypographyAnimations](https://github.com/codrops/OnScrollTypographyAnimations) - Inspiration and ideas for on-scroll typography animations that add an extra layer of creativity to a website design.
 * 【2023-02-25】[fireship-io / sorting-algorithms](https://github.com/fireship-io/sorting-algorithms) - A collection of sorting algorithms implemented in JS
@@ -322,6 +327,10 @@
 
 ## Go
 
+* 【2023-02-26】[zema1 / suo5](https://github.com/zema1/suo5) - A high-performance http proxy tunneling tool
+* 【2023-02-26】[cloudnative-pg / cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+* 【2023-02-26】[lib / pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
+* 【2023-02-26】[charmbracelet / log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library🪵
 * 【2023-02-25】[loxilb-io / loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native service load-balancer. Powering K8s|Edge|5G|IoT|XaaS Apps.
 * 【2023-02-23】[psilva261 / opossum](https://github.com/psilva261/opossum) - Rudimentary web browser written in Golang
 * 【2023-02-23】[allegro / bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
@@ -368,6 +377,8 @@
 
 ## C
 
+* 【2023-02-26】[checkpoint-restore / criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
+* 【2023-02-26】[jszczerbinsky / lwp](https://github.com/jszczerbinsky/lwp) - Parallax wallpaper engine for Linux and Windows
 * 【2023-02-25】[Octoberfest7 / MemFiles](https://github.com/Octoberfest7/MemFiles) - A CobaltStrike toolkit to write files produced by Beacon to memory instead of disk
 * 【2023-02-25】[sultim-t / xash-rt](https://github.com/sultim-t/xash-rt) - Fork of the Xash3D FWGS with a real-time path tracing
 * 【2023-02-25】[lakinduakash / linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
@@ -477,6 +488,10 @@
 
 ## C#
 
+* 【2023-02-26】[Syslifters / offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
+* 【2023-02-26】[mcintyre321 / OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
+* 【2023-02-26】[UglyToad / PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
+* 【2023-02-26】[cxfksword / jellyfin-plugin-danmu](https://github.com/cxfksword/jellyfin-plugin-danmu) - jellyfin弹幕自动下载插件
 * 【2023-02-25】[sdcb / PaddleSharp](https://github.com/sdcb/PaddleSharp) - .NET/C# binding for Baidu paddle inference library and PaddleOCR
 * 【2023-02-25】[microsoft / artifacts-credprovider](https://github.com/microsoft/artifacts-credprovider) - The Azure Artifacts Credential Provider enables dotnet, NuGet.exe, and MSBuild to interactively acquire credentials for Azure Artifacts feeds.
 * 【2023-02-24】[VeriorPies / ParrelSync](https://github.com/VeriorPies/ParrelSync) - (Unity3D) Test multiplayer without building
@@ -520,6 +535,8 @@
 
 ## Html
 
+* 【2023-02-26】[cooolr / chatgpt_proxy_website](https://github.com/cooolr/chatgpt_proxy_website) - Flask reverse proxy ChatGPT website chat.openai.com/chat
+* 【2023-02-26】[tc39 / proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Fragments -- Stage 1 proposal
 * 【2023-02-25】[DualSubs / DualSubs-YouTube](https://github.com/DualSubs/DualSubs-YouTube) - YouTube字幕增强及双语模块
 * 【2023-02-25】[xy-sea / blog](https://github.com/xy-sea/blog) - 博客：前端知识体系、前端监控、性能优化、原理探索、面经等
 * 【2023-02-25】[halo-dev / theme-earth](https://github.com/halo-dev/theme-earth) - Halo 2.0 的默认主题
@@ -564,6 +581,8 @@
 
 ## Css
 
+* 【2023-02-26】[docblue / chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
+* 【2023-02-26】[naumen-student / naumen.scala.course.2023.spring](https://github.com/naumen-student/naumen.scala.course.2023.spring) - Naumen Scala Весна 2023
 * 【2023-02-25】[dcai-course / dcai-course](https://github.com/dcai-course/dcai-course) - Introduction to Data-Centric AI, MIT IAP 2023🤖
 * 【2023-02-25】[Aylur / dotfiles](https://github.com/Aylur/dotfiles) - 
 * 【2023-02-24】[austin2035 / astro-air-blog](https://github.com/austin2035/astro-air-blog) - A minimalist, beautiful, responsive blogging program written in Astro.一个简约、漂亮并且支持响应式的博客程序，基于 Astro 构建。
@@ -632,6 +651,10 @@
 
 ## Unknown
 
+* 【2023-02-26】[lukemelas / realfusion](https://github.com/lukemelas/realfusion) - 
+* 【2023-02-26】[ziadoz / awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+* 【2023-02-26】[iggredible / Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for📖
+* 【2023-02-26】[ddotta / awesome-polars](https://github.com/ddotta/awesome-polars) - A curated list of Polars talks, tools, examples & articles. Contributions welcome !
 * 【2023-02-25】[KKGo1999 / Stable-diffusion-person](https://github.com/KKGo1999/Stable-diffusion-person) - 由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像
 * 【2023-02-25】[safak / youtube23](https://github.com/safak/youtube23) - Lama Dev Season 3
 * 【2023-02-25】[phodal / prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
