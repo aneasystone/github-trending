@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-02-27】[facebookresearch / llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+* 【2023-02-27】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+* 【2023-02-27】[GoAdminGroup / go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 * 【2023-02-26】[trigaten / Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
 * 【2023-02-26】[mui / mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 * 【2023-02-25】[AmbientRun / Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
@@ -114,6 +117,9 @@
 
 ## Java
 
+* 【2023-02-27】[thegeekyasian / geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library that allows you to manage spatial data in-memory.
+* 【2023-02-27】[careercup / CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
+* 【2023-02-27】[IntellectualSites / PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
 * 【2023-02-25】[DXask88MA / Weblogic-CVE-2023-21839](https://github.com/DXask88MA/Weblogic-CVE-2023-21839) - 
 * 【2023-02-25】[termux / termux-x11](https://github.com/termux/termux-x11) - Termux X11 add-on application. Still in early development.
 * 【2023-02-25】[zuihou / lamp-util](https://github.com/zuihou/lamp-util) - lamp-util 基于Jdk11 ，是 lamp-cloud 和 lamp-boot 项目的核心工具包，开发宗旨是打造一套兼顾 SpringBoot 和 SpringCloud 项目的公共工具类。
@@ -161,6 +167,13 @@
 
 ## Python
 
+* 【2023-02-27】[derrian-distro / LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A set of two training scripts written in python for use in Kohya's SD-Scripts repository.
+* 【2023-02-27】[sAjibuu / upload_bypass](https://github.com/sAjibuu/upload_bypass) - File upload restrictions bypass, by using different bug bounty techniques!
+* 【2023-02-27】[twitter / communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
+* 【2023-02-27】[coolzilj / Blender-ControlNet](https://github.com/coolzilj/Blender-ControlNet) - Using ControlNet right in Blender.
+* 【2023-02-27】[Christbowel / CVE-2023-25136](https://github.com/Christbowel/CVE-2023-25136) - OpenSSH 9.1 vulnerability mass scan and exploit
+* 【2023-02-27】[oobabooga / text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.
+* 【2023-02-27】[facebookresearch / fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 * 【2023-02-26】[bentoml / BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework🍱
 * 【2023-02-25】[docarray / docarray](https://github.com/docarray/docarray) - 🧬The data structure for multimodal data · Neural Search · Vector Search · Document Store
 * 【2023-02-25】[google-research / FLAN](https://github.com/google-research/FLAN) - 
@@ -232,6 +245,12 @@
 
 ## Javascript
 
+* 【2023-02-27】[MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan)
+* 【2023-02-27】[cruip / tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
+* 【2023-02-27】[google / swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations.
+* 【2023-02-27】[Rabithua / memos_wmp](https://github.com/Rabithua/memos_wmp) - 开源项目usememos/memos的微信小程序版
+* 【2023-02-27】[yeyang52 / yenai-plugin](https://github.com/yeyang52/yenai-plugin) - 适用于Yunzai-Botv3的扩展
+* 【2023-02-27】[Project-BS-CN / CEIV-1.0.0](https://github.com/Project-BS-CN/CEIV-1.0.0) - 🌐开源的中国地震信息可视化项目。基于 HTML、JavaScript、Mapbox GL JS。
 * 【2023-02-26】[proxyplu / Nullify](https://github.com/proxyplu/Nullify) - One of the BEST up to date iReady hacks. Similar to iReady Overload.
 * 【2023-02-26】[CollaboraOnline / online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 * 【2023-02-25】[ONLYOFFICE / onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io) - 
@@ -327,6 +346,7 @@
 
 ## Go
 
+* 【2023-02-27】[knadh / koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * 【2023-02-26】[zema1 / suo5](https://github.com/zema1/suo5) - A high-performance http proxy tunneling tool
 * 【2023-02-26】[cloudnative-pg / cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
 * 【2023-02-26】[lib / pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
@@ -432,6 +452,8 @@
 
 ## C++
 
+* 【2023-02-27】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
+* 【2023-02-27】[NootInc / WhateverRed](https://github.com/NootInc/WhateverRed) - Lilu plugin for AMD APU graphics support
 * 【2023-02-25】[J-D-K / JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
 * 【2023-02-23】[mortbopet / Ripes](https://github.com/mortbopet/Ripes) - A graphical processor simulator and assembly editor for the RISC-V ISA
 * 【2023-02-23】[async-profiler / async-profiler](https://github.com/async-profiler/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events
@@ -535,6 +557,10 @@
 
 ## Html
 
+* 【2023-02-27】[alicangunduz / tanismada-sohbet-tikanmasin](https://github.com/alicangunduz/tanismada-sohbet-tikanmasin) - Tanışma sırasında sohbet duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
+* 【2023-02-27】[raspberrypi / documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
+* 【2023-02-27】[netology-code / git-homeworks-neuro-merge](https://github.com/netology-code/git-homeworks-neuro-merge) - 
+* 【2023-02-27】[lgd8981289 / book_read_quickly](https://github.com/lgd8981289/book_read_quickly) - 快读阅读一本书
 * 【2023-02-26】[cooolr / chatgpt_proxy_website](https://github.com/cooolr/chatgpt_proxy_website) - Flask reverse proxy ChatGPT website chat.openai.com/chat
 * 【2023-02-26】[tc39 / proposal-module-declarations](https://github.com/tc39/proposal-module-declarations) - JavaScript Module Fragments -- Stage 1 proposal
 * 【2023-02-25】[DualSubs / DualSubs-YouTube](https://github.com/DualSubs/DualSubs-YouTube) - YouTube字幕增强及双语模块
@@ -651,6 +677,11 @@
 
 ## Unknown
 
+* 【2023-02-27】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
+* 【2023-02-27】[djrtwo / writing](https://github.com/djrtwo/writing) - Collection of writings
+* 【2023-02-27】[0xPugazh / fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) - Awesome wordlists for Bug Bounty Hunting
+* 【2023-02-27】[NVlabs / VoxFormer](https://github.com/NVlabs/VoxFormer) - A Cutting-edge Baseline for 3D Semantic Occupancy Prediction
+* 【2023-02-27】[sunzsh / favoritesWorkflow4Alfred](https://github.com/sunzsh/favoritesWorkflow4Alfred) - 
 * 【2023-02-26】[lukemelas / realfusion](https://github.com/lukemelas/realfusion) - 
 * 【2023-02-26】[ziadoz / awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * 【2023-02-26】[iggredible / Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for📖
