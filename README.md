@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-02-28】[damo-vilab / composer](https://github.com/damo-vilab/composer) - Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"
+* 【2023-02-28】[abacaj / awesome-transformers](https://github.com/abacaj/awesome-transformers) - A curated list of awesome transformer models.
+* 【2023-02-28】[jdxcode / rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
+* 【2023-02-28】[huggingface / swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers) - Swift app demonstrating Core ML Stable Diffusion
+* 【2023-02-28】[echasnovski / mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 * 【2023-02-27】[facebookresearch / llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 * 【2023-02-27】[OwO-Network / DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 * 【2023-02-27】[GoAdminGroup / go-admin](https://github.com/GoAdminGroup/go-admin) - A golang framework helps gopher to build a data visualization and admin panel in ten minutes
@@ -117,6 +122,9 @@
 
 ## Java
 
+* 【2023-02-28】[apache / groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+* 【2023-02-28】[ucsd-cse15l-w23 / lab7](https://github.com/ucsd-cse15l-w23/lab7) - 
+* 【2023-02-28】[Han-YLun / SaaS_IHRM](https://github.com/Han-YLun/SaaS_IHRM) - Saas Inteintelligence Human Resouce Managment backend
 * 【2023-02-27】[thegeekyasian / geo-assist](https://github.com/thegeekyasian/geo-assist) - Geo Assist is a spatial library that allows you to manage spatial data in-memory.
 * 【2023-02-27】[careercup / CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
 * 【2023-02-27】[IntellectualSites / PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
@@ -167,6 +175,7 @@
 
 ## Python
 
+* 【2023-02-28】[ihebski / DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password🛡️
 * 【2023-02-27】[derrian-distro / LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A set of two training scripts written in python for use in Kohya's SD-Scripts repository.
 * 【2023-02-27】[sAjibuu / upload_bypass](https://github.com/sAjibuu/upload_bypass) - File upload restrictions bypass, by using different bug bounty techniques!
 * 【2023-02-27】[twitter / communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
@@ -346,6 +355,7 @@
 
 ## Go
 
+* 【2023-02-28】[4ra1n / CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 * 【2023-02-27】[knadh / koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * 【2023-02-26】[zema1 / suo5](https://github.com/zema1/suo5) - A high-performance http proxy tunneling tool
 * 【2023-02-26】[cloudnative-pg / cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
@@ -452,6 +462,8 @@
 
 ## C++
 
+* 【2023-02-28】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
+* 【2023-02-28】[liwei19920307 / ESPMMW](https://github.com/liwei19920307/ESPMMW) - 
 * 【2023-02-27】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
 * 【2023-02-27】[NootInc / WhateverRed](https://github.com/NootInc/WhateverRed) - Lilu plugin for AMD APU graphics support
 * 【2023-02-25】[J-D-K / JKSV](https://github.com/J-D-K/JKSV) - JK's Save Manager Switch Edition
@@ -510,6 +522,8 @@
 
 ## C#
 
+* 【2023-02-28】[SpaceWarpDev / SpaceWarp](https://github.com/SpaceWarpDev/SpaceWarp) - 
+* 【2023-02-28】[seerge / g-helper](https://github.com/seerge/g-helper) - Asus Rog Zephyrus G14, G15, Flow X13, Flow x16 control utility, GPU modes, Performance modes, etc
 * 【2023-02-26】[Syslifters / offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
 * 【2023-02-26】[mcintyre321 / OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching
 * 【2023-02-26】[UglyToad / PdfPig](https://github.com/UglyToad/PdfPig) - Read and extract text and other content from PDFs in C# (port of PDFBox)
@@ -677,6 +691,7 @@
 
 ## Unknown
 
+* 【2023-02-28】[Coding-With-The-Force / Salesforce-CTA-Study-Guide](https://github.com/Coding-With-The-Force/Salesforce-CTA-Study-Guide) - This has my notes for studying for the Salesforce CTA Exam
 * 【2023-02-27】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 * 【2023-02-27】[djrtwo / writing](https://github.com/djrtwo/writing) - Collection of writings
 * 【2023-02-27】[0xPugazh / fuzz4bounty](https://github.com/0xPugazh/fuzz4bounty) - Awesome wordlists for Bug Bounty Hunting
