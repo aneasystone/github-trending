@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-01】[MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
+* 【2023-03-01】[AnTi-anti / damai_ticket](https://github.com/AnTi-anti/damai_ticket) - 大麦网抢票脚本
+* 【2023-03-01】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+* 【2023-03-01】[odomu / aliyunpan](https://github.com/odomu/aliyunpan) - 阿里云盘小白羊v3
 * 【2023-02-28】[damo-vilab / composer](https://github.com/damo-vilab/composer) - Official implementation of "Composer: Creative and Controllable Image Synthesis with Composable Conditions"
 * 【2023-02-28】[abacaj / awesome-transformers](https://github.com/abacaj/awesome-transformers) - A curated list of awesome transformer models.
 * 【2023-02-28】[jdxcode / rtx](https://github.com/jdxcode/rtx) - Runtime Executor (asdf rust clone)
@@ -122,6 +126,9 @@
 
 ## Java
 
+* 【2023-03-01】[davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
+* 【2023-03-01】[h2database / h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
+* 【2023-03-01】[microservices-patterns / ftgo-application](https://github.com/microservices-patterns/ftgo-application) - Example code for the book Microservice patterns
 * 【2023-02-28】[apache / groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 * 【2023-02-28】[ucsd-cse15l-w23 / lab7](https://github.com/ucsd-cse15l-w23/lab7) - 
 * 【2023-02-28】[Han-YLun / SaaS_IHRM](https://github.com/Han-YLun/SaaS_IHRM) - Saas Inteintelligence Human Resouce Managment backend
@@ -175,6 +182,13 @@
 
 ## Python
 
+* 【2023-03-01】[gelstudios / gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
+* 【2023-03-01】[Shpota / github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account🤖
+* 【2023-03-01】[fishslot / video_loopback_for_webui](https://github.com/fishslot/video_loopback_for_webui) - 
+* 【2023-03-01】[SnapdragonLee / ChatGPT-weBot](https://github.com/SnapdragonLee/ChatGPT-weBot) - Chat with ChatGPT (GPT-3.5)，WeChat hook interface based
+* 【2023-03-01】[kraken-ng / Kraken](https://github.com/kraken-ng/Kraken) - Kraken, a modular multi-language webshell coded by @secu_x11
+* 【2023-03-01】[Kav-K / GPT3Discord](https://github.com/Kav-K/GPT3Discord) - A robust, all-in-one GPT3 interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+* 【2023-03-01】[PaddlePaddle / PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer, Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 * 【2023-02-28】[ihebski / DefaultCreds-cheat-sheet](https://github.com/ihebski/DefaultCreds-cheat-sheet) - One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password🛡️
 * 【2023-02-27】[derrian-distro / LoRA_Easy_Training_Scripts](https://github.com/derrian-distro/LoRA_Easy_Training_Scripts) - A set of two training scripts written in python for use in Kohya's SD-Scripts repository.
 * 【2023-02-27】[sAjibuu / upload_bypass](https://github.com/sAjibuu/upload_bypass) - File upload restrictions bypass, by using different bug bounty techniques!
@@ -254,6 +268,7 @@
 
 ## Javascript
 
+* 【2023-03-01】[h7ml / okjiasu_action](https://github.com/h7ml/okjiasu_action) - 机场https://okjiasu.com 的自动签到脚本
 * 【2023-02-27】[MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan)
 * 【2023-02-27】[cruip / tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
 * 【2023-02-27】[google / swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visualizations or simulations.
@@ -355,6 +370,7 @@
 
 ## Go
 
+* 【2023-03-01】[ssleert / zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 * 【2023-02-28】[4ra1n / CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 * 【2023-02-27】[knadh / koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
 * 【2023-02-26】[zema1 / suo5](https://github.com/zema1/suo5) - A high-performance http proxy tunneling tool
@@ -407,6 +423,9 @@
 
 ## C
 
+* 【2023-03-01】[realoriginal / bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
+* 【2023-03-01】[NUL0x4C / AtomLdr](https://github.com/NUL0x4C/AtomLdr) - A DLL loader with advanced evasive features
+* 【2023-03-01】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
 * 【2023-02-26】[checkpoint-restore / criu](https://github.com/checkpoint-restore/criu) - Checkpoint/Restore tool
 * 【2023-02-26】[jszczerbinsky / lwp](https://github.com/jszczerbinsky/lwp) - Parallax wallpaper engine for Linux and Windows
 * 【2023-02-25】[Octoberfest7 / MemFiles](https://github.com/Octoberfest7/MemFiles) - A CobaltStrike toolkit to write files produced by Beacon to memory instead of disk
@@ -522,6 +541,8 @@
 
 ## C#
 
+* 【2023-03-01】[starik222 / BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 
+* 【2023-03-01】[microsoft / CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - CodeXGLUE
 * 【2023-02-28】[SpaceWarpDev / SpaceWarp](https://github.com/SpaceWarpDev/SpaceWarp) - 
 * 【2023-02-28】[seerge / g-helper](https://github.com/seerge/g-helper) - Asus Rog Zephyrus G14, G15, Flow X13, Flow x16 control utility, GPU modes, Performance modes, etc
 * 【2023-02-26】[Syslifters / offsec-tools](https://github.com/Syslifters/offsec-tools) - Compiled tools for internal assessments
@@ -571,6 +592,9 @@
 
 ## Html
 
+* 【2023-03-01】[xx025 / chatgptapi_server](https://github.com/xx025/chatgptapi_server) - 协调多个chatgpt账户收发消息，构建ChatGPT3.5 API服务；一个账号没办法同时请求两个问题，但一百个可以啊！
+* 【2023-03-01】[Asabeneh / 10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) - 
+* 【2023-03-01】[gfxfundamentals / webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - WebGL 2 lessons starting from the basics
 * 【2023-02-27】[alicangunduz / tanismada-sohbet-tikanmasin](https://github.com/alicangunduz/tanismada-sohbet-tikanmasin) - Tanışma sırasında sohbet duruyor soracak sorunuz kalmıyorsa sizin için geliştirdiğim çözüm.
 * 【2023-02-27】[raspberrypi / documentation](https://github.com/raspberrypi/documentation) - The official documentation for Raspberry Pi computers and microcontrollers
 * 【2023-02-27】[netology-code / git-homeworks-neuro-merge](https://github.com/netology-code/git-homeworks-neuro-merge) - 
@@ -621,6 +645,9 @@
 
 ## Css
 
+* 【2023-03-01】[cbxxacademy / Full-Stack-Development-1](https://github.com/cbxxacademy/Full-Stack-Development-1) - 
+* 【2023-03-01】[wowthemesnet / mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
+* 【2023-03-01】[creativetimofficial / vue-material-kit](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Kit - Open Source Material Design UI Kit
 * 【2023-02-26】[docblue / chfsgui](https://github.com/docblue/chfsgui) - This is just a GUI WRAPPER for chfs(cute http file server)
 * 【2023-02-26】[naumen-student / naumen.scala.course.2023.spring](https://github.com/naumen-student/naumen.scala.course.2023.spring) - Naumen Scala Весна 2023
 * 【2023-02-25】[dcai-course / dcai-course](https://github.com/dcai-course/dcai-course) - Introduction to Data-Centric AI, MIT IAP 2023🤖
@@ -691,6 +718,8 @@
 
 ## Unknown
 
+* 【2023-03-01】[rizemon / exploit-writing-for-oswe](https://github.com/rizemon/exploit-writing-for-oswe) - Tips on how to write exploit scripts (faster!)
+* 【2023-03-01】[BaoBaoDualang / EURunRoad](https://github.com/BaoBaoDualang/EURunRoad) - Teach you how to Run to Europe
 * 【2023-02-28】[Coding-With-The-Force / Salesforce-CTA-Study-Guide](https://github.com/Coding-With-The-Force/Salesforce-CTA-Study-Guide) - This has my notes for studying for the Salesforce CTA Exam
 * 【2023-02-27】[Haxxnet / Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 * 【2023-02-27】[djrtwo / writing](https://github.com/djrtwo/writing) - Collection of writings
