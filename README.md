@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-02】[ErickWendel / semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 -🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection👁🖐
+* 【2023-03-02】[mrsked / mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
+* 【2023-03-02】[ZeroMemoryEx / Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer) - Lifetime AMSI bypass
+* 【2023-03-02】[greshake / llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
 * 【2023-03-01】[MakiNaruto / Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 * 【2023-03-01】[AnTi-anti / damai_ticket](https://github.com/AnTi-anti/damai_ticket) - 大麦网抢票脚本
 * 【2023-03-01】[ntdevlabs / tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
@@ -126,6 +130,7 @@
 
 ## Java
 
+* 【2023-03-02】[3425734131 / GoodSign](https://github.com/3425734131/GoodSign) - 好签助手-学习通签到Android ---支持所有类型签到一键签到（二维码一键签到！！！）、未交作业提醒、后台静默签到、抢答、全网最强学习通签到软件
 * 【2023-03-01】[davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
 * 【2023-03-01】[h2database / h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
 * 【2023-03-01】[microservices-patterns / ftgo-application](https://github.com/microservices-patterns/ftgo-application) - Example code for the book Microservice patterns
@@ -182,6 +187,9 @@
 
 ## Python
 
+* 【2023-03-02】[KohakuBlueleaf / LoCon](https://github.com/KohakuBlueleaf/LoCon) - LoRA for convolution network
+* 【2023-03-02】[nermeenwageh10 / Leetcode-Solutions](https://github.com/nermeenwageh10/Leetcode-Solutions) - This collection of beginner-friendly LeetCode problems. This repository features easy-to-understand solutions that are constantly updated for improved performance. Whether you're a coding novice or looking to refresh your skills, this repository is a great resource to help you develop your abilities and become a better programmer.
+* 【2023-03-02】[nachifur / MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 * 【2023-03-01】[gelstudios / gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
 * 【2023-03-01】[Shpota / github-activity-generator](https://github.com/Shpota/github-activity-generator) - A script that helps generate a rich GitHub Contribution Graph for your account🤖
 * 【2023-03-01】[fishslot / video_loopback_for_webui](https://github.com/fishslot/video_loopback_for_webui) - 
@@ -268,6 +276,9 @@
 
 ## Javascript
 
+* 【2023-03-02】[martinkadlec0 / hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
+* 【2023-03-02】[orenyomtov / openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions
+* 【2023-03-02】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 * 【2023-03-01】[h7ml / okjiasu_action](https://github.com/h7ml/okjiasu_action) - 机场https://okjiasu.com 的自动签到脚本
 * 【2023-02-27】[MHSanaei / 3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan)
 * 【2023-02-27】[cruip / tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
@@ -370,6 +381,7 @@
 
 ## Go
 
+* 【2023-03-02】[Hesse / gitgpt](https://github.com/Hesse/gitgpt) - A natural language command line git assistant
 * 【2023-03-01】[ssleert / zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 * 【2023-02-28】[4ra1n / CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
 * 【2023-02-27】[knadh / koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
@@ -481,6 +493,8 @@
 
 ## C++
 
+* 【2023-03-02】[ZeroMemoryEx / APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days
+* 【2023-03-02】[llvm / circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 * 【2023-02-28】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * 【2023-02-28】[liwei19920307 / ESPMMW](https://github.com/liwei19920307/ESPMMW) - 
 * 【2023-02-27】[UE4SS-RE / RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - Injectable LUA scripting system, SDK generator, live property editor and other dumping utilities for UE4/5 games
@@ -541,6 +555,7 @@
 
 ## C#
 
+* 【2023-03-02】[lucasg / Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 * 【2023-03-01】[starik222 / BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 
 * 【2023-03-01】[microsoft / CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - CodeXGLUE
 * 【2023-02-28】[SpaceWarpDev / SpaceWarp](https://github.com/SpaceWarpDev/SpaceWarp) - 
@@ -645,6 +660,8 @@
 
 ## Css
 
+* 【2023-03-02】[senpro2023 / senpro-github-action](https://github.com/senpro2023/senpro-github-action) - DTETI FT UGM
+* 【2023-03-02】[mhatta / ja.mhatta.org.octpress](https://github.com/mhatta/ja.mhatta.org.octpress) - Repository for my home page & blog (in Japanese) run by Octopress
 * 【2023-03-01】[cbxxacademy / Full-Stack-Development-1](https://github.com/cbxxacademy/Full-Stack-Development-1) - 
 * 【2023-03-01】[wowthemesnet / mundana-theme-jekyll](https://github.com/wowthemesnet/mundana-theme-jekyll) - Mundana is a free Jekyll theme, Medium styled.
 * 【2023-03-01】[creativetimofficial / vue-material-kit](https://github.com/creativetimofficial/vue-material-kit) - Vue Material Kit - Open Source Material Design UI Kit
@@ -718,6 +735,7 @@
 
 ## Unknown
 
+* 【2023-03-02】[MoyGcc / vid2avatar](https://github.com/MoyGcc/vid2avatar) - Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (CVPR2023)
 * 【2023-03-01】[rizemon / exploit-writing-for-oswe](https://github.com/rizemon/exploit-writing-for-oswe) - Tips on how to write exploit scripts (faster!)
 * 【2023-03-01】[BaoBaoDualang / EURunRoad](https://github.com/BaoBaoDualang/EURunRoad) - Teach you how to Run to Europe
 * 【2023-02-28】[Coding-With-The-Force / Salesforce-CTA-Study-Guide](https://github.com/Coding-With-The-Force/Salesforce-CTA-Study-Guide) - This has my notes for studying for the Salesforce CTA Exam
