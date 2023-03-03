@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-03-03】[ockeghem / badtodo](https://github.com/ockeghem/badtodo) - 
+* 【2023-03-03】[amusi / CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
+* 【2023-03-03】[typeorm / typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 * 【2023-03-02】[ErickWendel / semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 -🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection👁🖐
 * 【2023-03-02】[mrsked / mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere.
 * 【2023-03-02】[ZeroMemoryEx / Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer) - Lifetime AMSI bypass
@@ -130,6 +133,8 @@
 
 ## Java
 
+* 【2023-03-03】[prometheus / jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
+* 【2023-03-03】[SPLWare / esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
 * 【2023-03-02】[3425734131 / GoodSign](https://github.com/3425734131/GoodSign) - 好签助手-学习通签到Android ---支持所有类型签到一键签到（二维码一键签到！！！）、未交作业提醒、后台静默签到、抢答、全网最强学习通签到软件
 * 【2023-03-01】[davidfantasy / mybatis-plus-generator-ui](https://github.com/davidfantasy/mybatis-plus-generator-ui) - 对mybatis-plus-generator进行封装，通过Web UI快速生成兼容Spring boot，mybatis-plus框架的各类业务代码
 * 【2023-03-01】[h2database / h2database](https://github.com/h2database/h2database) - H2 is an embeddable RDBMS written in Java.
@@ -187,6 +192,8 @@
 
 ## Python
 
+* 【2023-03-03】[ridgerchu / SpikeGPT](https://github.com/ridgerchu/SpikeGPT) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
+* 【2023-03-03】[pengzhile / pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个命令行的ChatGPT。
 * 【2023-03-02】[KohakuBlueleaf / LoCon](https://github.com/KohakuBlueleaf/LoCon) - LoRA for convolution network
 * 【2023-03-02】[nermeenwageh10 / Leetcode-Solutions](https://github.com/nermeenwageh10/Leetcode-Solutions) - This collection of beginner-friendly LeetCode problems. This repository features easy-to-understand solutions that are constantly updated for improved performance. Whether you're a coding novice or looking to refresh your skills, this repository is a great resource to help you develop your abilities and become a better programmer.
 * 【2023-03-02】[nachifur / MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
@@ -276,6 +283,7 @@
 
 ## Javascript
 
+* 【2023-03-03】[chartello / chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
 * 【2023-03-02】[martinkadlec0 / hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
 * 【2023-03-02】[orenyomtov / openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions
 * 【2023-03-02】[nhn / tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
@@ -381,6 +389,8 @@
 
 ## Go
 
+* 【2023-03-03】[prometheus / pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
+* 【2023-03-03】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 * 【2023-03-02】[Hesse / gitgpt](https://github.com/Hesse/gitgpt) - A natural language command line git assistant
 * 【2023-03-01】[ssleert / zfxtop](https://github.com/ssleert/zfxtop) - [WIP] fetch top for gen Z with X written by bubbletea enjoyer
 * 【2023-02-28】[4ra1n / CVE-2023-21839](https://github.com/4ra1n/CVE-2023-21839) - Weblogic CVE-2023-21839 RCE (无需Java依赖一键RCE)
@@ -435,6 +445,9 @@
 
 ## C
 
+* 【2023-03-03】[tvlad1234 / pillScopePlus](https://github.com/tvlad1234/pillScopePlus) - Oscilloscope based around the STM32F401 Black Pill and a color LCD screen
+* 【2023-03-03】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
+* 【2023-03-03】[open-meteo / open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 * 【2023-03-01】[realoriginal / bootlicker](https://github.com/realoriginal/bootlicker) - A generic UEFI bootkit used to achieve initial usermode execution. It works with modifications.
 * 【2023-03-01】[NUL0x4C / AtomLdr](https://github.com/NUL0x4C/AtomLdr) - A DLL loader with advanced evasive features
 * 【2023-03-01】[PCRE2Project / pcre2](https://github.com/PCRE2Project/pcre2) - PCRE2 development is now based here.
@@ -493,6 +506,7 @@
 
 ## C++
 
+* 【2023-03-03】[mrexodia / lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
 * 【2023-03-02】[ZeroMemoryEx / APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days
 * 【2023-03-02】[llvm / circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
 * 【2023-02-28】[davisking / dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
@@ -555,6 +569,9 @@
 
 ## C#
 
+* 【2023-03-03】[microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+* 【2023-03-03】[felixse / FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
+* 【2023-03-03】[sdcb / ffmpeg-wjz-sorry-generator](https://github.com/sdcb/ffmpeg-wjz-sorry-generator) - Create wjz/sorry gif by ASP.NET Core & Sdcb.FFmpeg
 * 【2023-03-02】[lucasg / Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 * 【2023-03-01】[starik222 / BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 
 * 【2023-03-01】[microsoft / CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - CodeXGLUE
@@ -607,6 +624,7 @@
 
 ## Html
 
+* 【2023-03-03】[OCA / account-invoicing](https://github.com/OCA/account-invoicing) - Odoo Invoicing Extension Addons
 * 【2023-03-01】[xx025 / chatgptapi_server](https://github.com/xx025/chatgptapi_server) - 协调多个chatgpt账户收发消息，构建ChatGPT3.5 API服务；一个账号没办法同时请求两个问题，但一百个可以啊！
 * 【2023-03-01】[Asabeneh / 10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) - 
 * 【2023-03-01】[gfxfundamentals / webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - WebGL 2 lessons starting from the basics
@@ -660,6 +678,8 @@
 
 ## Css
 
+* 【2023-03-03】[dmit1530-1222 / demo-layout-with-positioned-items](https://github.com/dmit1530-1222/demo-layout-with-positioned-items) - Demo a typical layout with some strategically positioned elements
+* 【2023-03-03】[lepture / shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx
 * 【2023-03-02】[senpro2023 / senpro-github-action](https://github.com/senpro2023/senpro-github-action) - DTETI FT UGM
 * 【2023-03-02】[mhatta / ja.mhatta.org.octpress](https://github.com/mhatta/ja.mhatta.org.octpress) - Repository for my home page & blog (in Japanese) run by Octopress
 * 【2023-03-01】[cbxxacademy / Full-Stack-Development-1](https://github.com/cbxxacademy/Full-Stack-Development-1) - 
@@ -735,6 +755,9 @@
 
 ## Unknown
 
+* 【2023-03-03】[extreme-assistant / CVPR2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation) - cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
+* 【2023-03-03】[chika0801 / Xray-examples](https://github.com/chika0801/Xray-examples) - 🚀Xray配置文件模板⭐
+* 【2023-03-03】[codinglin / StudyNotes](https://github.com/codinglin/StudyNotes) - 个人学习笔记
 * 【2023-03-02】[MoyGcc / vid2avatar](https://github.com/MoyGcc/vid2avatar) - Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (CVPR2023)
 * 【2023-03-01】[rizemon / exploit-writing-for-oswe](https://github.com/rizemon/exploit-writing-for-oswe) - Tips on how to write exploit scripts (faster!)
 * 【2023-03-01】[BaoBaoDualang / EURunRoad](https://github.com/BaoBaoDualang/EURunRoad) - Teach you how to Run to Europe
