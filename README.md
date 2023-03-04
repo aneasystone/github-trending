@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-03-04】[ServiceWeaver / weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
+* 【2023-03-04】[openai / openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+* 【2023-03-04】[hiifeng / V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
 * 【2023-03-03】[ockeghem / badtodo](https://github.com/ockeghem/badtodo) - 
 * 【2023-03-03】[amusi / CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
 * 【2023-03-03】[typeorm / typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
@@ -133,6 +136,8 @@
 
 ## Java
 
+* 【2023-03-04】[traas-stack / holoinsight](https://github.com/traas-stack/holoinsight) - HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration.
+* 【2023-03-04】[naver / scavenger](https://github.com/naver/scavenger) - a runtime dead code analysis tool
 * 【2023-03-03】[prometheus / jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
 * 【2023-03-03】[SPLWare / esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
 * 【2023-03-02】[3425734131 / GoodSign](https://github.com/3425734131/GoodSign) - 好签助手-学习通签到Android ---支持所有类型签到一键签到（二维码一键签到！！！）、未交作业提醒、后台静默签到、抢答、全网最强学习通签到软件
@@ -192,6 +197,8 @@
 
 ## Python
 
+* 【2023-03-04】[zhayujie / bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。
+* 【2023-03-04】[Cvaniak / NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 * 【2023-03-03】[ridgerchu / SpikeGPT](https://github.com/ridgerchu/SpikeGPT) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
 * 【2023-03-03】[pengzhile / pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个命令行的ChatGPT。
 * 【2023-03-02】[KohakuBlueleaf / LoCon](https://github.com/KohakuBlueleaf/LoCon) - LoRA for convolution network
@@ -283,6 +290,9 @@
 
 ## Javascript
 
+* 【2023-03-04】[RiyadArgoub / all-freecodecamp-projects](https://github.com/RiyadArgoub/all-freecodecamp-projects) - A collection of all projects completed for the FreeCodeCamp certifications.
+* 【2023-03-04】[rdi-berkeley / zkp-mooc-lab](https://github.com/rdi-berkeley/zkp-mooc-lab) - 
+* 【2023-03-04】[artiebits / fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
 * 【2023-03-03】[chartello / chartello](https://github.com/chartello/chartello) - Visualize your Laravel app data in simple dashboards.
 * 【2023-03-02】[martinkadlec0 / hc-tcg](https://github.com/martinkadlec0/hc-tcg) - Hermitcraft TCG
 * 【2023-03-02】[orenyomtov / openordex](https://github.com/orenyomtov/openordex) - OpenOrdex is an open source zero-fee trustless Bitcoin NFT marketplace based on partially signed bitcoin transactions
@@ -389,6 +399,7 @@
 
 ## Go
 
+* 【2023-03-04】[go-zoox / chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) - 快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理
 * 【2023-03-03】[prometheus / pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 * 【2023-03-03】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
 * 【2023-03-02】[Hesse / gitgpt](https://github.com/Hesse/gitgpt) - A natural language command line git assistant
@@ -445,6 +456,7 @@
 
 ## C
 
+* 【2023-03-04】[ireader / media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 * 【2023-03-03】[tvlad1234 / pillScopePlus](https://github.com/tvlad1234/pillScopePlus) - Oscilloscope based around the STM32F401 Black Pill and a color LCD screen
 * 【2023-03-03】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 * 【2023-03-03】[open-meteo / open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
@@ -506,6 +518,7 @@
 
 ## C++
 
+* 【2023-03-04】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 * 【2023-03-03】[mrexodia / lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
 * 【2023-03-02】[ZeroMemoryEx / APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days
 * 【2023-03-02】[llvm / circt](https://github.com/llvm/circt) - Circuit IR Compilers and Tools
@@ -569,6 +582,7 @@
 
 ## C#
 
+* 【2023-03-04】[gmhevinci / MotionFramework](https://github.com/gmhevinci/MotionFramework) - MotionFramework is unity3d game framework.
 * 【2023-03-03】[microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 * 【2023-03-03】[felixse / FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 * 【2023-03-03】[sdcb / ffmpeg-wjz-sorry-generator](https://github.com/sdcb/ffmpeg-wjz-sorry-generator) - Create wjz/sorry gif by ASP.NET Core & Sdcb.FFmpeg
@@ -624,6 +638,9 @@
 
 ## Html
 
+* 【2023-03-04】[liutristan / shuttlegames](https://github.com/liutristan/shuttlegames) - shuttlegames, the best mobile games website. If you fork this repo please give me a star to support me. The code is obfuscated for privacy purposes but you can deploy our own.
+* 【2023-03-04】[tg12 / gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
+* 【2023-03-04】[HackerBar-Sec / HackerBar](https://github.com/HackerBar-Sec/HackerBar) - 
 * 【2023-03-03】[OCA / account-invoicing](https://github.com/OCA/account-invoicing) - Odoo Invoicing Extension Addons
 * 【2023-03-01】[xx025 / chatgptapi_server](https://github.com/xx025/chatgptapi_server) - 协调多个chatgpt账户收发消息，构建ChatGPT3.5 API服务；一个账号没办法同时请求两个问题，但一百个可以啊！
 * 【2023-03-01】[Asabeneh / 10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) - 
@@ -678,6 +695,9 @@
 
 ## Css
 
+* 【2023-03-04】[cisagov / decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
+* 【2023-03-04】[zhheo / HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
+* 【2023-03-04】[curio-lesmateriaal / storingapp](https://github.com/curio-lesmateriaal/storingapp) - 
 * 【2023-03-03】[dmit1530-1222 / demo-layout-with-positioned-items](https://github.com/dmit1530-1222/demo-layout-with-positioned-items) - Demo a typical layout with some strategically positioned elements
 * 【2023-03-03】[lepture / shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx
 * 【2023-03-02】[senpro2023 / senpro-github-action](https://github.com/senpro2023/senpro-github-action) - DTETI FT UGM
@@ -755,6 +775,8 @@
 
 ## Unknown
 
+* 【2023-03-04】[nbats / FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
+* 【2023-03-04】[devsyedmohsin / css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - A handmade collection of pro css tips tricks. Give it a star if you find it useful🌟
 * 【2023-03-03】[extreme-assistant / CVPR2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation) - cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
 * 【2023-03-03】[chika0801 / Xray-examples](https://github.com/chika0801/Xray-examples) - 🚀Xray配置文件模板⭐
 * 【2023-03-03】[codinglin / StudyNotes](https://github.com/codinglin/StudyNotes) - 个人学习笔记
