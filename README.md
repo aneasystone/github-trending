@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2023-03-05】[yihong0618 / bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
+* 【2023-03-05】[ddiu8081 / chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
+* 【2023-03-05】[JimmyLv / BiliGPT](https://github.com/JimmyLv/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
+* 【2023-03-05】[mckaywrigley / paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
+* 【2023-03-05】[Nutlope / roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
+* 【2023-03-05】[RUB-SysSec / DroneSecurity](https://github.com/RUB-SysSec/DroneSecurity) - DroneSecurity (NDSS 2023)
+* 【2023-03-05】[ZhangZhuoSJTU / Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
+* 【2023-03-05】[openai-php / client](https://github.com/openai-php/client) - ⚡️OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+* 【2023-03-05】[FeatureProbe / FeatureProbe](https://github.com/FeatureProbe/FeatureProbe) - FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。
+* 【2023-03-05】[wanhebin / clash-for-linux](https://github.com/wanhebin/clash-for-linux) - Linux 端使用 Clash 作为代理工具
 * 【2023-03-04】[ServiceWeaver / weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
 * 【2023-03-04】[openai / openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 * 【2023-03-04】[hiifeng / V2ray-for-Doprax](https://github.com/hiifeng/V2ray-for-Doprax) - The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.
@@ -197,6 +207,12 @@
 
 ## Python
 
+* 【2023-03-05】[python / typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
+* 【2023-03-05】[centerofci / mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
+* 【2023-03-05】[theOehrly / Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
+* 【2023-03-05】[kydycode / chatgpt-3.5-turbo](https://github.com/kydycode/chatgpt-3.5-turbo) - A Python chatbot that uses OpenAI's GPT-3.5-turbo model to generate responses to user input. Simply enter your input and the chatbot will respond. Conversation history is stored in a list. Licensed under MIT.
+* 【2023-03-05】[SecuraBV / Timeroast](https://github.com/SecuraBV/Timeroast) - Timeroasting scripts by Tom Tervoort
+* 【2023-03-05】[s0md3v / XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 * 【2023-03-04】[zhayujie / bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。
 * 【2023-03-04】[Cvaniak / NoteSH](https://github.com/Cvaniak/NoteSH) - NoteSH fully functional sticky notes App in your Terminal!
 * 【2023-03-03】[ridgerchu / SpikeGPT](https://github.com/ridgerchu/SpikeGPT) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
@@ -290,6 +306,9 @@
 
 ## Javascript
 
+* 【2023-03-05】[futurepress / epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+* 【2023-03-05】[sysplu / Nullify](https://github.com/sysplu/Nullify) - One of the BEST up to date iReady hacks. Similar to iReady Overload.
+* 【2023-03-05】[yagop / node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
 * 【2023-03-04】[RiyadArgoub / all-freecodecamp-projects](https://github.com/RiyadArgoub/all-freecodecamp-projects) - A collection of all projects completed for the FreeCodeCamp certifications.
 * 【2023-03-04】[rdi-berkeley / zkp-mooc-lab](https://github.com/rdi-berkeley/zkp-mooc-lab) - 
 * 【2023-03-04】[artiebits / fake-git-history](https://github.com/artiebits/fake-git-history) - Generate Git commits.
@@ -399,6 +418,9 @@
 
 ## Go
 
+* 【2023-03-05】[rakyll / openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI
+* 【2023-03-05】[sashabaranov / go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
+* 【2023-03-05】[SpenserCai / GoWxDump](https://github.com/SpenserCai/GoWxDump) - SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)
 * 【2023-03-04】[go-zoox / chatgpt-for-chatbot-feishu](https://github.com/go-zoox/chatgpt-for-chatbot-feishu) - 快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理
 * 【2023-03-03】[prometheus / pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 * 【2023-03-03】[go-musicfox / go-musicfox](https://github.com/go-musicfox/go-musicfox) - go-musicfox是用Go写的又一款网易云音乐命令行客户端，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
@@ -456,6 +478,10 @@
 
 ## C
 
+* 【2023-03-05】[Wack0 / CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) - baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
+* 【2023-03-05】[FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
+* 【2023-03-05】[Vartika511 / CCC_Phase3](https://github.com/Vartika511/CCC_Phase3) - 
+* 【2023-03-05】[cnlohr / ch32v003fun](https://github.com/cnlohr/ch32v003fun) - My tests for the CH32V003, a 10 cent 48 MHz RISC-V Microcontroller
 * 【2023-03-04】[ireader / media-server](https://github.com/ireader/media-server) - RTSP/RTP/RTMP/FLV/HLS/MPEG-TS/MPEG-PS/MPEG-DASH/MP4/fMP4/MKV/WebM
 * 【2023-03-03】[tvlad1234 / pillScopePlus](https://github.com/tvlad1234/pillScopePlus) - Oscilloscope based around the STM32F401 Black Pill and a color LCD screen
 * 【2023-03-03】[libAudioFlux / audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -518,6 +544,7 @@
 
 ## C++
 
+* 【2023-03-05】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 * 【2023-03-04】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 * 【2023-03-03】[mrexodia / lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
 * 【2023-03-02】[ZeroMemoryEx / APT38-0day-Stealer](https://github.com/ZeroMemoryEx/APT38-0day-Stealer) - APT38 Tactic PoC for Stealing 0days
@@ -582,6 +609,8 @@
 
 ## C#
 
+* 【2023-03-05】[GraesonB / ChatGPT-Wrapper-For-Unity](https://github.com/GraesonB/ChatGPT-Wrapper-For-Unity) - A ChatGPT API wrapper for Unity
+* 【2023-03-05】[hexthedev / OpenAi-Api-Unity](https://github.com/hexthedev/OpenAi-Api-Unity) - Integration for the OpenAi Api in Unity
 * 【2023-03-04】[gmhevinci / MotionFramework](https://github.com/gmhevinci/MotionFramework) - MotionFramework is unity3d game framework.
 * 【2023-03-03】[microsoft / semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 * 【2023-03-03】[felixse / FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -638,6 +667,7 @@
 
 ## Html
 
+* 【2023-03-05】[weniv / FrontendSchool_5](https://github.com/weniv/FrontendSchool_5) - 멋쟁이사자처럼 프론트엔드스쿨 5기
 * 【2023-03-04】[liutristan / shuttlegames](https://github.com/liutristan/shuttlegames) - shuttlegames, the best mobile games website. If you fork this repo please give me a star to support me. The code is obfuscated for privacy purposes but you can deploy our own.
 * 【2023-03-04】[tg12 / gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
 * 【2023-03-04】[HackerBar-Sec / HackerBar](https://github.com/HackerBar-Sec/HackerBar) - 
@@ -695,6 +725,10 @@
 
 ## Css
 
+* 【2023-03-05】[hexo-theme-Acrylic / Hexo-Theme-Acrylic-Next](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next) - 下一代Acrylic何必是butterfly
+* 【2023-03-05】[pgmgent-pgm-3 / typeorm-demo-start](https://github.com/pgmgent-pgm-3/typeorm-demo-start) - The start code for the livecoding demo during class.
+* 【2023-03-05】[berrysauce / junk.boats](https://github.com/berrysauce/junk.boats) - ♻️The free temporary email service powered by Cloudflare
+* 【2023-03-05】[Saltssaumure / xp-discord-theme](https://github.com/Saltssaumure/xp-discord-theme) - A Windows XP style theme built for BetterDiscord.
 * 【2023-03-04】[cisagov / decider](https://github.com/cisagov/decider) - A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.
 * 【2023-03-04】[zhheo / HeoMusic](https://github.com/zhheo/HeoMusic) - 一个基于Aplayer和MetingJS的静态音乐播放器
 * 【2023-03-04】[curio-lesmateriaal / storingapp](https://github.com/curio-lesmateriaal/storingapp) - 
@@ -775,6 +809,10 @@
 
 ## Unknown
 
+* 【2023-03-05】[ChenyangLEI / All-In-One-Deflicker](https://github.com/ChenyangLEI/All-In-One-Deflicker) - [CVPR2023] Blind Video Deflickering by Neural Filtering with a Flawed Atlas
+* 【2023-03-05】[Renumics / awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
+* 【2023-03-05】[game-of-nfts / gon-testnets](https://github.com/game-of-nfts/gon-testnets) - 
+* 【2023-03-05】[asdfa324 / Great-Firewall](https://github.com/asdfa324/Great-Firewall) - 按流量计费机场推荐|SS、SSR、V2Ray、Trojan、Clash、winXray、Shadow| 布鲁克翻墙机场墙不同机场、VPN，采用机场GFW开发的翻协议，在速度和稳定性方面非常出色。需要注册通知订阅并作为软件使用，本机场供你推荐好用的地址。
 * 【2023-03-04】[nbats / FMHY](https://github.com/nbats/FMHY) - /r/FREEMEDIAHECKYEAH
 * 【2023-03-04】[devsyedmohsin / css-tips-tricks](https://github.com/devsyedmohsin/css-tips-tricks) - A handmade collection of pro css tips tricks. Give it a star if you find it useful🌟
 * 【2023-03-03】[extreme-assistant / CVPR2023-Paper-Code-Interpretation](https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation) - cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理
