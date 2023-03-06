@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-06】[godotengine / godot-docs](https://github.com/godotengine/godot-docs) - Godot Engine official documentation
+* 【2023-03-06】[yu-takagi / StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
+* 【2023-03-06】[Uniswap / wallet](https://github.com/Uniswap/wallet) - Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
+* 【2023-03-06】[adrianhajdin / project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio) - 
 * 【2023-03-05】[yihong0618 / bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 * 【2023-03-05】[ddiu8081 / chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo)
 * 【2023-03-05】[JimmyLv / BiliGPT](https://github.com/JimmyLv/BiliGPT) - BiliGPT 哔哩哔哩 · 视频内容一键总结
@@ -146,6 +150,8 @@
 
 ## Java
 
+* 【2023-03-06】[spring-guides / gs-rest-service](https://github.com/spring-guides/gs-rest-service) - Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring.
+* 【2023-03-06】[rom1v / sndcpy](https://github.com/rom1v/sndcpy) - Android audio forwarding (scrcpy, but for audio)
 * 【2023-03-04】[traas-stack / holoinsight](https://github.com/traas-stack/holoinsight) - HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration.
 * 【2023-03-04】[naver / scavenger](https://github.com/naver/scavenger) - a runtime dead code analysis tool
 * 【2023-03-03】[prometheus / jmx_exporter](https://github.com/prometheus/jmx_exporter) - A process for exposing JMX Beans via HTTP for Prometheus consumption
@@ -207,6 +213,9 @@
 
 ## Python
 
+* 【2023-03-06】[hzq1995 / UI-of-chatGPT-API](https://github.com/hzq1995/UI-of-chatGPT-API) - 
+* 【2023-03-06】[seratch / ChatGPT-in-Slack](https://github.com/seratch/ChatGPT-in-Slack) - Swift demonstration of how to build a Slack app that enables end-users to interact with a ChatGPT bot
+* 【2023-03-06】[KoboldAI / KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - 
 * 【2023-03-05】[python / typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 * 【2023-03-05】[centerofci / mathesar](https://github.com/centerofci/mathesar) - Web application providing an intuitive user experience to databases.
 * 【2023-03-05】[theOehrly / Fast-F1](https://github.com/theOehrly/Fast-F1) - FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
@@ -306,6 +315,10 @@
 
 ## Javascript
 
+* 【2023-03-06】[ayaka14732 / ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+* 【2023-03-06】[jexom / sd-webui-depth-lib](https://github.com/jexom/sd-webui-depth-lib) - Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui
+* 【2023-03-06】[easychen / openai-api-proxy](https://github.com/easychen/openai-api-proxy) - Simple proxy for OpenAi api via a one-line docker command
+* 【2023-03-06】[bobangajicsm / react-portfolio-website](https://github.com/bobangajicsm/react-portfolio-website) - 
 * 【2023-03-05】[futurepress / epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
 * 【2023-03-05】[sysplu / Nullify](https://github.com/sysplu/Nullify) - One of the BEST up to date iReady hacks. Similar to iReady Overload.
 * 【2023-03-05】[yagop / node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - Telegram Bot API for NodeJS
@@ -418,6 +431,7 @@
 
 ## Go
 
+* 【2023-03-06】[Leizhenpeng / feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书上与ChatGPT随时对话~ 支持多话题交流、语音对话、角色扮演、文本搜图、对话导出等
 * 【2023-03-05】[rakyll / openai-go](https://github.com/rakyll/openai-go) - Go client libraries for OpenAI
 * 【2023-03-05】[sashabaranov / go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, DALL·E, Whisper API wrapper for Go
 * 【2023-03-05】[SpenserCai / GoWxDump](https://github.com/SpenserCai/GoWxDump) - SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)
@@ -544,6 +558,8 @@
 
 ## C++
 
+* 【2023-03-06】[johnBuffer / JuliaRendering](https://github.com/johnBuffer/JuliaRendering) - 
+* 【2023-03-06】[VowpalWabbit / vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit) - Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 * 【2023-03-05】[godotengine / godot-cpp](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API
 * 【2023-03-04】[google / perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
 * 【2023-03-03】[mrexodia / lolbin-poc](https://github.com/mrexodia/lolbin-poc) - Small PoC of using a Microsoft signed executable as a lolbin.
@@ -667,6 +683,8 @@
 
 ## Html
 
+* 【2023-03-06】[wangyunjeff / EasyChatGPT-API](https://github.com/wangyunjeff/EasyChatGPT-API) - 用python和flask简单实现调用chatGPT的API
+* 【2023-03-06】[crcep / cybersecurity](https://github.com/crcep/cybersecurity) - Cybersecurity stream page
 * 【2023-03-05】[weniv / FrontendSchool_5](https://github.com/weniv/FrontendSchool_5) - 멋쟁이사자처럼 프론트엔드스쿨 5기
 * 【2023-03-04】[liutristan / shuttlegames](https://github.com/liutristan/shuttlegames) - shuttlegames, the best mobile games website. If you fork this repo please give me a star to support me. The code is obfuscated for privacy purposes but you can deploy our own.
 * 【2023-03-04】[tg12 / gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
@@ -725,6 +743,7 @@
 
 ## Css
 
+* 【2023-03-06】[catppuccin / stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨Soothing pastel theme for Stable Diffusion WebUI
 * 【2023-03-05】[hexo-theme-Acrylic / Hexo-Theme-Acrylic-Next](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next) - 下一代Acrylic何必是butterfly
 * 【2023-03-05】[pgmgent-pgm-3 / typeorm-demo-start](https://github.com/pgmgent-pgm-3/typeorm-demo-start) - The start code for the livecoding demo during class.
 * 【2023-03-05】[berrysauce / junk.boats](https://github.com/berrysauce/junk.boats) - ♻️The free temporary email service powered by Cloudflare
@@ -809,6 +828,10 @@
 
 ## Unknown
 
+* 【2023-03-06】[runningcheese / Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
+* 【2023-03-06】[0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
+* 【2023-03-06】[Yue-Yang / ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。
+* 【2023-03-06】[ValveSoftware / steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 * 【2023-03-05】[ChenyangLEI / All-In-One-Deflicker](https://github.com/ChenyangLEI/All-In-One-Deflicker) - [CVPR2023] Blind Video Deflickering by Neural Filtering with a Flawed Atlas
 * 【2023-03-05】[Renumics / awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated list of open source tooling for data-centric AI on unstructured data.
 * 【2023-03-05】[game-of-nfts / gon-testnets](https://github.com/game-of-nfts/gon-testnets) - 
