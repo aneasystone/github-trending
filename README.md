@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-08】[shawwn / llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
+* 【2023-03-08】[yetone / openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译 Chrome 插件
+* 【2023-03-08】[0beqz / realism-effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism
+* 【2023-03-08】[WPeace-HcH / WPeChatGPT](https://github.com/WPeace-HcH/WPeChatGPT) - A plugin for IDA that can help to analyze binary file and it uses OpenAI's ChatGPT training API.
 * 【2023-03-07】[GaiZhenbiao / ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
 * 【2023-03-07】[reorx / awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.
 * 【2023-03-07】[hackingthemarkets / chatgpt-api-whisper-api-voice-assistant](https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant) - chatgpt api and whisper api tutorial - voice conversation with therapist
@@ -153,6 +157,8 @@
 
 ## Java
 
+* 【2023-03-08】[dromara / ChatGPT](https://github.com/dromara/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
+* 【2023-03-08】[YiHeCN / notion-java-sdk](https://github.com/YiHeCN/notion-java-sdk) - An Unofficial Java SDK for Notion
 * 【2023-03-07】[iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 * 【2023-03-07】[piomin / sample-spring-microservices-new](https://github.com/piomin/sample-spring-microservices-new) - Demo for Spring Boot 3(`master` branch)/2(other branches) and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger/OpenAPI documentation (Springdoc), logs correlation using Spring Cloud Sleuth/Micrometer OTEL and many more
 * 【2023-03-07】[Minestom / Minestom](https://github.com/Minestom/Minestom) - 1.19.2 Lightweight Minecraft server
@@ -219,6 +225,11 @@
 
 ## Python
 
+* 【2023-03-08】[facebookresearch / dropout](https://github.com/facebookresearch/dropout) - Code release for "Dropout Reduces Underfitting"
+* 【2023-03-08】[n3d1117 / chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+* 【2023-03-08】[wutong16 / Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
+* 【2023-03-08】[facebookresearch / pifuhd](https://github.com/facebookresearch/pifuhd) - High-Resolution 3D Human Digitization from A Single Image.
+* 【2023-03-08】[nemesida-waf / waf-bypass](https://github.com/nemesida-waf/waf-bypass) - Check your WAF before an attacker does this one
 * 【2023-03-07】[piglei / ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本制作工具。
 * 【2023-03-07】[tebelorg / RPA-Python](https://github.com/tebelorg/RPA-Python) - Python package for doing RPA
 * 【2023-03-06】[hzq1995 / UI-of-chatGPT-API](https://github.com/hzq1995/UI-of-chatGPT-API) - 
@@ -323,6 +334,8 @@
 
 ## Javascript
 
+* 【2023-03-08】[TBXark / ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+* 【2023-03-08】[yetone / bob-plugin-openai-polisher](https://github.com/yetone/bob-plugin-openai-polisher) - 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！
 * 【2023-03-07】[hkirat / linkedin-bot](https://github.com/hkirat/linkedin-bot) - 
 * 【2023-03-07】[plone / volto](https://github.com/plone/volto) - React-based frontend for the Plone Content Management System
 * 【2023-03-06】[ayaka14732 / ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree) - A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
@@ -441,6 +454,8 @@
 
 ## Go
 
+* 【2023-03-08】[ddev / ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
+* 【2023-03-08】[gitleaks / gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks🔑
 * 【2023-03-07】[Frontman-Labs / frontman](https://github.com/Frontman-Labs/frontman) - Frontman is an open-source API gateway written in Go that allows you to manage your microservices and expose them as a single API endpoint. It acts as a reverse proxy and handles requests from clients, routing them to the appropriate backend service.
 * 【2023-03-07】[TheYahya / enola](https://github.com/TheYahya/enola) - This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you:🔎Hunt down social media accounts by username across social networks
 * 【2023-03-07】[apache / incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
@@ -506,6 +521,9 @@
 
 ## C
 
+* 【2023-03-08】[jdah / doomenstein-3d](https://github.com/jdah/doomenstein-3d) - Wolfenstein/DOOM style software renderers
+* 【2023-03-08】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software.
+* 【2023-03-08】[M0nster3 / RpcsDemo](https://github.com/M0nster3/RpcsDemo) - 
 * 【2023-03-07】[ivmai / bdwgc](https://github.com/ivmai/bdwgc) - The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)
 * 【2023-03-05】[Wack0 / CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) - baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
 * 【2023-03-05】[FCL-Team / FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) - Fold Craft Launcher, an Android Minecraft : Java Edition launcher.
@@ -573,6 +591,7 @@
 
 ## C++
 
+* 【2023-03-08】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 * 【2023-03-07】[kleiton0x00 / RemoteShellcodeExec](https://github.com/kleiton0x00/RemoteShellcodeExec) - Execute shellcode from a remote-hosted bin file using Winhttp.
 * 【2023-03-07】[kyleneideck / BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 * 【2023-03-07】[mltframework / shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
@@ -644,6 +663,7 @@
 
 ## C#
 
+* 【2023-03-08】[uezo / ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot
 * 【2023-03-07】[ErikEJ / EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core
 * 【2023-03-07】[MrOkiDoki / BattleBit-Community-Server-API](https://github.com/MrOkiDoki/BattleBit-Community-Server-API) - The server/client for community servers API.
 * 【2023-03-07】[vrm-c / UniVRM](https://github.com/vrm-c/UniVRM) - UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/
@@ -705,6 +725,10 @@
 
 ## Html
 
+* 【2023-03-08】[yuezk / chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
+* 【2023-03-08】[dminGod / CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine
+* 【2023-03-08】[wstaeblein / texthighlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality
+* 【2023-03-08】[dromara / payment-spring-boot](https://github.com/dromara/payment-spring-boot) - 微信支付V3支付，支持微信优惠券，代金券、商家券、公众号支付、微信小程序支付、分账、支付分、商家券、合单支付、先享卡、电商收付通等全部微信支付功能API，同时满足服务商、商户开发需求。一键集成，上手快，欢迎star。
 * 【2023-03-06】[wangyunjeff / EasyChatGPT-API](https://github.com/wangyunjeff/EasyChatGPT-API) - 用python和flask简单实现调用chatGPT的API
 * 【2023-03-06】[crcep / cybersecurity](https://github.com/crcep/cybersecurity) - Cybersecurity stream page
 * 【2023-03-05】[weniv / FrontendSchool_5](https://github.com/weniv/FrontendSchool_5) - 멋쟁이사자처럼 프론트엔드스쿨 5기
@@ -765,6 +789,9 @@
 
 ## Css
 
+* 【2023-03-08】[bryanbraun / after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
+* 【2023-03-08】[johniwasz / whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps GPT-3 API completions.
+* 【2023-03-08】[ART3MISTICAL / dotfiles](https://github.com/ART3MISTICAL/dotfiles) - My dotfiles
 * 【2023-03-07】[canisminor1990 / sd-web-ui-kitchen-theme](https://github.com/canisminor1990/sd-web-ui-kitchen-theme) - Kitchen theme for stable diffusion webui https://github.com/AUTOMATIC1111/stable-diffusion-webui
 * 【2023-03-07】[07jhashubham / YouTubeArt](https://github.com/07jhashubham/YouTubeArt) - 
 * 【2023-03-06】[catppuccin / stable-diffusion-webui](https://github.com/catppuccin/stable-diffusion-webui) - 🧑‍🎨Soothing pastel theme for Stable Diffusion WebUI
@@ -852,6 +879,9 @@
 
 ## Unknown
 
+* 【2023-03-08】[blueStragglr / wanted-pre-onboarding-3-FE-quest](https://github.com/blueStragglr/wanted-pre-onboarding-3-FE-quest) - 3월 원티드 프리온보딩 프론트엔드 과정 사전과제
+* 【2023-03-08】[BaoBaoDualang / Run_EU](https://github.com/BaoBaoDualang/Run_EU) - 润欧小指北
+* 【2023-03-08】[pengbaolin / LLM-Augmenter](https://github.com/pengbaolin/LLM-Augmenter) - 
 * 【2023-03-07】[github-drama / github-drama](https://github.com/github-drama/github-drama) - github-drama (community fork) Important: To edit, open a pull request. We will merge it as soon as we see the notification. To edit a large amount of content, open an issue saying so. We will grant you write access. To receive notifications about the latest drama, subscribe to the Community-Driven Happenings Feed.
 * 【2023-03-07】[adminpass / aliyundrive-subscribe](https://github.com/adminpass/aliyundrive-subscribe) - 阿里云盘 【订阅】【转存】 【下载】【命名】
 * 【2023-03-06】[runningcheese / Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT) - 奶酪清单：
