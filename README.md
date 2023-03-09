@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-03-09】[keijiro / AIShader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity
+* 【2023-03-09】[WordAsImage / Word-As-Image](https://github.com/WordAsImage/Word-As-Image) - 
+* 【2023-03-09】[Ice-Hazymoon / openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
+* 【2023-03-09】[prompt-engineering / click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
+* 【2023-03-09】[paritytech / polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation
 * 【2023-03-08】[shawwn / llama-dl](https://github.com/shawwn/llama-dl) - High-speed download of LLaMA, Facebook's 65B parameter GPT model
 * 【2023-03-08】[yetone / openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译 Chrome 插件
 * 【2023-03-08】[0beqz / realism-effects](https://github.com/0beqz/realism-effects) - SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism
@@ -157,6 +162,7 @@
 
 ## Java
 
+* 【2023-03-09】[lcomplete / huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 * 【2023-03-08】[dromara / ChatGPT](https://github.com/dromara/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 * 【2023-03-08】[YiHeCN / notion-java-sdk](https://github.com/YiHeCN/notion-java-sdk) - An Unofficial Java SDK for Notion
 * 【2023-03-07】[iBotPeaches / Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
@@ -225,6 +231,10 @@
 
 ## Python
 
+* 【2023-03-09】[ashawkey / nerf2mesh](https://github.com/ashawkey/nerf2mesh) - Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement
+* 【2023-03-09】[KSCHdsc / BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber) - A Powerfull Fully Undetect Token Stealer / Token Grabber, allow to steal discord new password / a2f codes / email / credit card / anti delete, steal browsers chromium based Passwords / Cookies / History, Can also steal steam / metamask / exodus / minecraft login / roblox cookies, with anti debug
+* 【2023-03-09】[juncongmoo / chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA📢Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
+* 【2023-03-09】[krishnaik06 / mlproject](https://github.com/krishnaik06/mlproject) - 
 * 【2023-03-08】[facebookresearch / dropout](https://github.com/facebookresearch/dropout) - Code release for "Dropout Reduces Underfitting"
 * 【2023-03-08】[n3d1117 / chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 * 【2023-03-08】[wutong16 / Voxurf](https://github.com/wutong16/Voxurf) - [ ICLR 2023 Spotlight ] Pytorch implementation for "Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction"
@@ -334,6 +344,9 @@
 
 ## Javascript
 
+* 【2023-03-09】[hnmr293 / posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
+* 【2023-03-09】[markdown-it / markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+* 【2023-03-09】[anc95 / ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥A code review bot powered by ChatGPT
 * 【2023-03-08】[TBXark / ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 * 【2023-03-08】[yetone / bob-plugin-openai-polisher](https://github.com/yetone/bob-plugin-openai-polisher) - 使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！
 * 【2023-03-07】[hkirat / linkedin-bot](https://github.com/hkirat/linkedin-bot) - 
@@ -454,6 +467,9 @@
 
 ## Go
 
+* 【2023-03-09】[msterzhang / onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+* 【2023-03-09】[swaggo / gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
+* 【2023-03-09】[majd / ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 * 【2023-03-08】[ddev / ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 * 【2023-03-08】[gitleaks / gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks🔑
 * 【2023-03-07】[Frontman-Labs / frontman](https://github.com/Frontman-Labs/frontman) - Frontman is an open-source API gateway written in Go that allows you to manage your microservices and expose them as a single API endpoint. It acts as a reverse proxy and handles requests from clients, routing them to the appropriate backend service.
@@ -521,6 +537,9 @@
 
 ## C
 
+* 【2023-03-09】[snesrev / sm](https://github.com/snesrev/sm) - early version
+* 【2023-03-09】[EionRobb / purple-teams](https://github.com/EionRobb/purple-teams) - A MS Teams plugin for libpurple/Pidgin
+* 【2023-03-09】[Maldev-Academy / EntropyReducer](https://github.com/Maldev-Academy/EntropyReducer) - Reduce Entropy And Obfuscate Youre Payload With Serialized Linked Lists
 * 【2023-03-08】[jdah / doomenstein-3d](https://github.com/jdah/doomenstein-3d) - Wolfenstein/DOOM style software renderers
 * 【2023-03-08】[baidu / dperf](https://github.com/baidu/dperf) - dperf is a DPDK based 100Gbps network performance and load testing software.
 * 【2023-03-08】[M0nster3 / RpcsDemo](https://github.com/M0nster3/RpcsDemo) - 
@@ -591,6 +610,10 @@
 
 ## C++
 
+* 【2023-03-09】[unum-cloud / ujrpc](https://github.com/unum-cloud/ujrpc) - Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
+* 【2023-03-09】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
+* 【2023-03-09】[AlberTgarY / SensatUrban_albert](https://github.com/AlberTgarY/SensatUrban_albert) - UCL CGVI
+* 【2023-03-09】[Roblox / luau](https://github.com/Roblox/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 * 【2023-03-08】[vnotex / vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
 * 【2023-03-07】[kleiton0x00 / RemoteShellcodeExec](https://github.com/kleiton0x00/RemoteShellcodeExec) - Execute shellcode from a remote-hosted bin file using Winhttp.
 * 【2023-03-07】[kyleneideck / BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -663,6 +686,8 @@
 
 ## C#
 
+* 【2023-03-09】[239573049 / ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop) - 
+* 【2023-03-09】[FlameskyDexive / Legends-Of-Heroes](https://github.com/FlameskyDexive/Legends-Of-Heroes) - A battle of balls game, lol style. 基于ET7.2的多人在线英雄联盟风格的球球大作战。
 * 【2023-03-08】[uezo / ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot
 * 【2023-03-07】[ErikEJ / EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools) - Entity Framework Core Power Tools - reverse engineering, migrations and model visualization for EF Core
 * 【2023-03-07】[MrOkiDoki / BattleBit-Community-Server-API](https://github.com/MrOkiDoki/BattleBit-Community-Server-API) - The server/client for community servers API.
@@ -725,6 +750,7 @@
 
 ## Html
 
+* 【2023-03-09】[xqdoo00o / chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure javascript ChatGPT demo based on nginx with OpenAI API (gpt-3.5-turbo)
 * 【2023-03-08】[yuezk / chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
 * 【2023-03-08】[dminGod / CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine
 * 【2023-03-08】[wstaeblein / texthighlighter](https://github.com/wstaeblein/texthighlighter) - Vanilla JS class to highlight search results in a textarea while maintaining the area's functionality
@@ -789,6 +815,10 @@
 
 ## Css
 
+* 【2023-03-09】[Mehedi61 / Login-Signup-form](https://github.com/Mehedi61/Login-Signup-form) - Login & signup form using HTML & CSS.
+* 【2023-03-09】[GlebkaF / webdev-dom-homework](https://github.com/GlebkaF/webdev-dom-homework) - 
+* 【2023-03-09】[LiteraryClubIITP / Kavyarangam-2023-frontend](https://github.com/LiteraryClubIITP/Kavyarangam-2023-frontend) - 
+* 【2023-03-09】[jjlabrador / ETSII-git](https://github.com/jjlabrador/ETSII-git) - 
 * 【2023-03-08】[bryanbraun / after-dark-css](https://github.com/bryanbraun/after-dark-css) - Recreating After Dark screensavers in CSS.
 * 【2023-03-08】[johniwasz / whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - A simple light-weight library that wraps GPT-3 API completions.
 * 【2023-03-08】[ART3MISTICAL / dotfiles](https://github.com/ART3MISTICAL/dotfiles) - My dotfiles
@@ -879,6 +909,9 @@
 
 ## Unknown
 
+* 【2023-03-09】[cmuratori / misc](https://github.com/cmuratori/misc) - Clippings
+* 【2023-03-09】[yonggekkk / CFwarp-yg](https://github.com/yonggekkk/CFwarp-yg) - CFwarp多功能一键脚本，让CF的IP来接管VPS的出站IP吧！实时查看当前VPS的IP对Chatgpt与奈飞Netflix的解锁情况
+* 【2023-03-09】[jatrost / awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - A curated list of resources about detecting threats and defending Kubernetes systems.
 * 【2023-03-08】[blueStragglr / wanted-pre-onboarding-3-FE-quest](https://github.com/blueStragglr/wanted-pre-onboarding-3-FE-quest) - 3월 원티드 프리온보딩 프론트엔드 과정 사전과제
 * 【2023-03-08】[BaoBaoDualang / Run_EU](https://github.com/BaoBaoDualang/Run_EU) - 润欧小指北
 * 【2023-03-08】[pengbaolin / LLM-Augmenter](https://github.com/pengbaolin/LLM-Augmenter) - 
