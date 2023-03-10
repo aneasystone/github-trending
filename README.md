@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-03-10】[Bearer / bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
+* 【2023-03-10】[easychen / openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
+* 【2023-03-10】[boson-ai / homepage](https://github.com/boson-ai/homepage) - 
+* 【2023-03-10】[NVlabs / prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
+* 【2023-03-10】[futantan / OpenGpt](https://github.com/futantan/OpenGpt) - 
 * 【2023-03-09】[keijiro / AIShader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity
 * 【2023-03-09】[WordAsImage / Word-As-Image](https://github.com/WordAsImage/Word-As-Image) - 
 * 【2023-03-09】[Ice-Hazymoon / openai-scf-proxy](https://github.com/Ice-Hazymoon/openai-scf-proxy) - 使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理
@@ -231,6 +236,12 @@
 
 ## Python
 
+* 【2023-03-10】[facebookresearch / mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
+* 【2023-03-10】[juncongmoo / pyllama](https://github.com/juncongmoo/pyllama) - LLaMA: Open and Efficient Foundation Language Models
+* 【2023-03-10】[emdgroup / foundry-dev-tools](https://github.com/emdgroup/foundry-dev-tools) - Foundry DevTools
+* 【2023-03-10】[numba / numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+* 【2023-03-10】[edtechre / pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+* 【2023-03-10】[Fafa-DL / Image-Augmentation](https://github.com/Fafa-DL/Image-Augmentation) - Image augmentation for object detection, segmentation and classification
 * 【2023-03-09】[ashawkey / nerf2mesh](https://github.com/ashawkey/nerf2mesh) - Delicate Textured Mesh Recovery from NeRF via Adaptive Surface Refinement
 * 【2023-03-09】[KSCHdsc / BlackCap-Grabber](https://github.com/KSCHdsc/BlackCap-Grabber) - A Powerfull Fully Undetect Token Stealer / Token Grabber, allow to steal discord new password / a2f codes / email / credit card / anti delete, steal browsers chromium based Passwords / Cookies / History, Can also steal steam / metamask / exodus / minecraft login / roblox cookies, with anti debug
 * 【2023-03-09】[juncongmoo / chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA📢Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
@@ -344,6 +355,8 @@
 
 ## Javascript
 
+* 【2023-03-10】[Postcatlab / postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
+* 【2023-03-10】[DarkMakerofc / Queen-Elisa-MD-V2](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2) - ᴛʜᴇ ǫᴜᴇᴇɴ ᴇʟɪsᴀ ᴡᴀ ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟɪsᴀ ʙᴏᴛ ᴛᴇᴀᴍ | ʙᴀsᴇ : ᴛᴜɴᴀ
 * 【2023-03-09】[hnmr293 / posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
 * 【2023-03-09】[markdown-it / markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 * 【2023-03-09】[anc95 / ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥A code review bot powered by ChatGPT
@@ -467,6 +480,7 @@
 
 ## Go
 
+* 【2023-03-10】[devfullcycle / gointensivo2](https://github.com/devfullcycle/gointensivo2) - 
 * 【2023-03-09】[msterzhang / onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 * 【2023-03-09】[swaggo / gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
 * 【2023-03-09】[majd / ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -537,6 +551,7 @@
 
 ## C
 
+* 【2023-03-10】[Lora-net / LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 * 【2023-03-09】[snesrev / sm](https://github.com/snesrev/sm) - early version
 * 【2023-03-09】[EionRobb / purple-teams](https://github.com/EionRobb/purple-teams) - A MS Teams plugin for libpurple/Pidgin
 * 【2023-03-09】[Maldev-Academy / EntropyReducer](https://github.com/Maldev-Academy/EntropyReducer) - Reduce Entropy And Obfuscate Youre Payload With Serialized Linked Lists
@@ -610,6 +625,8 @@
 
 ## C++
 
+* 【2023-03-10】[CrowCpp / Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
+* 【2023-03-10】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 * 【2023-03-09】[unum-cloud / ujrpc](https://github.com/unum-cloud/ujrpc) - Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
 * 【2023-03-09】[SteveMacenski / slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS
 * 【2023-03-09】[AlberTgarY / SensatUrban_albert](https://github.com/AlberTgarY/SensatUrban_albert) - UCL CGVI
@@ -686,6 +703,9 @@
 
 ## C#
 
+* 【2023-03-10】[azzu0 / Melon](https://github.com/azzu0/Melon) - MelonLoader but for an 4nime g4me
+* 【2023-03-10】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+* 【2023-03-10】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 * 【2023-03-09】[239573049 / ChatGpt.Desktop](https://github.com/239573049/ChatGpt.Desktop) - 
 * 【2023-03-09】[FlameskyDexive / Legends-Of-Heroes](https://github.com/FlameskyDexive/Legends-Of-Heroes) - A battle of balls game, lol style. 基于ET7.2的多人在线英雄联盟风格的球球大作战。
 * 【2023-03-08】[uezo / ChatdollKit](https://github.com/uezo/ChatdollKit) - ChatdollKit enables you to make your 3D model into a chatbot
@@ -750,6 +770,9 @@
 
 ## Html
 
+* 【2023-03-10】[Parcoil / nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
+* 【2023-03-10】[revenkroz / telegram-web-app-bot-example](https://github.com/revenkroz/telegram-web-app-bot-example) - Telegram Web App for Bot Example. All WebApp-related questions you can ask in Discussions
+* 【2023-03-10】[cnymw / GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
 * 【2023-03-09】[xqdoo00o / chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure javascript ChatGPT demo based on nginx with OpenAI API (gpt-3.5-turbo)
 * 【2023-03-08】[yuezk / chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - A mirror of ChatGPT based on the gpt-3.5-turbo model.
 * 【2023-03-08】[dminGod / CallGPT](https://github.com/dminGod/CallGPT) - A dead simple way to call the ChatGPT API from your machine
@@ -815,6 +838,10 @@
 
 ## Css
 
+* 【2023-03-10】[fajarnurwahid / adminhub](https://github.com/fajarnurwahid/adminhub) - Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
+* 【2023-03-10】[thinkingjimmy / Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
+* 【2023-03-10】[xenova / transformers.js](https://github.com/xenova/transformers.js) - Run🤗Transformers in your browser!
+* 【2023-03-10】[stefbowerman / week-6-homework](https://github.com/stefbowerman/week-6-homework) - Starter files for C2I week 6 homework
 * 【2023-03-09】[Mehedi61 / Login-Signup-form](https://github.com/Mehedi61/Login-Signup-form) - Login & signup form using HTML & CSS.
 * 【2023-03-09】[GlebkaF / webdev-dom-homework](https://github.com/GlebkaF/webdev-dom-homework) - 
 * 【2023-03-09】[LiteraryClubIITP / Kavyarangam-2023-frontend](https://github.com/LiteraryClubIITP/Kavyarangam-2023-frontend) - 
@@ -909,6 +936,10 @@
 
 ## Unknown
 
+* 【2023-03-10】[xx025 / carrot](https://github.com/xx025/carrot) - 这儿收集一些免费的ChatGPT镜像站点 当前：39个站点
+* 【2023-03-10】[orwagodfather / x](https://github.com/orwagodfather/x) - 
+* 【2023-03-10】[0xMrNiko / Awesome-Red-Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources This list is for anyone wishing to learn about Red Teaming but do not have a starting point.
+* 【2023-03-10】[zhangchuangiie / PPT](https://github.com/zhangchuangiie/PPT) - 软件开发管理与程序员培养
 * 【2023-03-09】[cmuratori / misc](https://github.com/cmuratori/misc) - Clippings
 * 【2023-03-09】[yonggekkk / CFwarp-yg](https://github.com/yonggekkk/CFwarp-yg) - CFwarp多功能一键脚本，让CF的IP来接管VPS的出站IP吧！实时查看当前VPS的IP对Chatgpt与奈飞Netflix的解锁情况
 * 【2023-03-09】[jatrost / awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - A curated list of resources about detecting threats and defending Kubernetes systems.
