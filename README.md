@@ -6,6 +6,15 @@
 
 ## All language
 
+* 【2023-03-11】[davinci1010 / pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
+* 【2023-03-11】[anc95 / writely](https://github.com/anc95/writely) - ❤️‍🔥A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读
+* 【2023-03-11】[RadekVyM / MarvelousMAUI](https://github.com/RadekVyM/MarvelousMAUI) - .NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.
+* 【2023-03-11】[dpayne / CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) - 
+* 【2023-03-11】[openxla / xla](https://github.com/openxla/xla) - A machine learning compiler for GPUs, CPUs, and ML accelerators
+* 【2023-03-11】[qwopqwop200 / GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMa using GPTQ
+* 【2023-03-11】[chibat / chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
+* 【2023-03-11】[guillaumekln / faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+* 【2023-03-11】[yuvalsuede / ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) - 
 * 【2023-03-10】[Bearer / bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).
 * 【2023-03-10】[easychen / openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
 * 【2023-03-10】[boson-ai / homepage](https://github.com/boson-ai/homepage) - 
@@ -236,6 +245,10 @@
 
 ## Python
 
+* 【2023-03-11】[aws / aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
+* 【2023-03-11】[Berkanktk / CyberSecurity](https://github.com/Berkanktk/CyberSecurity) - This is a repository where i collect my knowledge to different kind of topics related to cybersecurity.
+* 【2023-03-11】[KohakuBlueleaf / LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
+* 【2023-03-11】[shibing624 / parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine for Chinese. 中文语音识别、文字转语音，基于语音库实现，易扩展。
 * 【2023-03-10】[facebookresearch / mae](https://github.com/facebookresearch/mae) - PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 * 【2023-03-10】[juncongmoo / pyllama](https://github.com/juncongmoo/pyllama) - LLaMA: Open and Efficient Foundation Language Models
 * 【2023-03-10】[emdgroup / foundry-dev-tools](https://github.com/emdgroup/foundry-dev-tools) - Foundry DevTools
@@ -355,6 +368,9 @@
 
 ## Javascript
 
+* 【2023-03-11】[decaporg / decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
+* 【2023-03-11】[felipeAguiarCode / node-react-chatgpt-clone](https://github.com/felipeAguiarCode/node-react-chatgpt-clone) - A full stack clone ChatGPT
+* 【2023-03-11】[neemspees / tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
 * 【2023-03-10】[Postcatlab / postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。
 * 【2023-03-10】[DarkMakerofc / Queen-Elisa-MD-V2](https://github.com/DarkMakerofc/Queen-Elisa-MD-V2) - ᴛʜᴇ ǫᴜᴇᴇɴ ᴇʟɪsᴀ ᴡᴀ ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟɪsᴀ ʙᴏᴛ ᴛᴇᴀᴍ | ʙᴀsᴇ : ᴛᴜɴᴀ
 * 【2023-03-09】[hnmr293 / posex](https://github.com/hnmr293/posex) - Posex - Estimated Image Generator for Pose2Image
@@ -480,6 +496,8 @@
 
 ## Go
 
+* 【2023-03-11】[one2nc / cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS
+* 【2023-03-11】[chaos-mesh / chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 * 【2023-03-10】[devfullcycle / gointensivo2](https://github.com/devfullcycle/gointensivo2) - 
 * 【2023-03-09】[msterzhang / onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 * 【2023-03-09】[swaggo / gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
@@ -551,6 +569,7 @@
 
 ## C
 
+* 【2023-03-11】[chompie1337 / Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) - LPE exploit for CVE-2023-21768
 * 【2023-03-10】[Lora-net / LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 * 【2023-03-09】[snesrev / sm](https://github.com/snesrev/sm) - early version
 * 【2023-03-09】[EionRobb / purple-teams](https://github.com/EionRobb/purple-teams) - A MS Teams plugin for libpurple/Pidgin
@@ -625,6 +644,9 @@
 
 ## C++
 
+* 【2023-03-11】[openxla / iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+* 【2023-03-11】[BYVoid / OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+* 【2023-03-11】[paceholder / nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
 * 【2023-03-10】[CrowCpp / Crow](https://github.com/CrowCpp/Crow) - A Fast and Easy to use microframework for the web.
 * 【2023-03-10】[IfcOpenShell / IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell) - Open source IFC library and geometry engine
 * 【2023-03-09】[unum-cloud / ujrpc](https://github.com/unum-cloud/ujrpc) - Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
@@ -703,6 +725,7 @@
 
 ## C#
 
+* 【2023-03-11】[Azure / Mission-Critical-Online](https://github.com/Azure/Mission-Critical-Online) - This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the online reference implementation a fully functional production-grade reference Implement…
 * 【2023-03-10】[azzu0 / Melon](https://github.com/azzu0/Melon) - MelonLoader but for an 4nime g4me
 * 【2023-03-10】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
 * 【2023-03-10】[LorisYounger / VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
@@ -838,6 +861,8 @@
 
 ## Css
 
+* 【2023-03-11】[xfbs / diff.rs](https://github.com/xfbs/diff.rs) - Web application (WASM) to render a diff between Rust crate versions.
+* 【2023-03-11】[CodeWorks-FullStack / spring23-mvcGregslist](https://github.com/CodeWorks-FullStack/spring23-mvcGregslist) - 
 * 【2023-03-10】[fajarnurwahid / adminhub](https://github.com/fajarnurwahid/adminhub) - Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
 * 【2023-03-10】[thinkingjimmy / Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 * 【2023-03-10】[xenova / transformers.js](https://github.com/xenova/transformers.js) - Run🤗Transformers in your browser!
@@ -936,6 +961,9 @@
 
 ## Unknown
 
+* 【2023-03-11】[ayadim / Nuclei-bug-hunter](https://github.com/ayadim/Nuclei-bug-hunter) - i will upload more templates here to share with the comunity.
+* 【2023-03-11】[csyxwei / ELITE](https://github.com/csyxwei/ELITE) - Official Implementation of "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation"
+* 【2023-03-11】[henryhu712 / books2](https://github.com/henryhu712/books2) - 编程、创业、成长书籍
 * 【2023-03-10】[xx025 / carrot](https://github.com/xx025/carrot) - 这儿收集一些免费的ChatGPT镜像站点 当前：39个站点
 * 【2023-03-10】[orwagodfather / x](https://github.com/orwagodfather/x) - 
 * 【2023-03-10】[0xMrNiko / Awesome-Red-Teaming](https://github.com/0xMrNiko/Awesome-Red-Teaming) - List of Awesome Red Team / Red Teaming Resources This list is for anyone wishing to learn about Red Teaming but do not have a starting point.
