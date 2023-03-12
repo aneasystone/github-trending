@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-12】[microsoft / visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
+* 【2023-03-12】[Elfocrash / .NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices
+* 【2023-03-12】[Azure-Samples / azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content
+* 【2023-03-12】[drizzle-team / drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 * 【2023-03-11】[davinci1010 / pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 * 【2023-03-11】[anc95 / writely](https://github.com/anc95/writely) - ❤️‍🔥A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读
 * 【2023-03-11】[RadekVyM / MarvelousMAUI](https://github.com/RadekVyM/MarvelousMAUI) - .NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.
@@ -176,6 +180,8 @@
 
 ## Java
 
+* 【2023-03-12】[honghuangdc / soybean-admin-java](https://github.com/honghuangdc/soybean-admin-java) - soybean-admin的后端服务java版
+* 【2023-03-12】[sqlancer / sqlancer](https://github.com/sqlancer/sqlancer) - Automated testing to find logic bugs in database systems
 * 【2023-03-09】[lcomplete / huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 * 【2023-03-08】[dromara / ChatGPT](https://github.com/dromara/ChatGPT) - This project is a plugin that supports ChatGPT running on JetBrains series IDE.
 * 【2023-03-08】[YiHeCN / notion-java-sdk](https://github.com/YiHeCN/notion-java-sdk) - An Unofficial Java SDK for Notion
@@ -245,6 +251,11 @@
 
 ## Python
 
+* 【2023-03-12】[butaixianran / Stable-Diffusion-Webui-Civitai-Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper) - Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.
+* 【2023-03-12】[randaller / llama-chat](https://github.com/randaller/llama-chat) - Chat with Meta's LLaMA models at home made easy
+* 【2023-03-12】[wangshub / Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
+* 【2023-03-12】[FuroBath / ArtifacterImageGen](https://github.com/FuroBath/ArtifacterImageGen) - 
+* 【2023-03-12】[tp7309 / TTDeDroid](https://github.com/tp7309/TTDeDroid) - 一键反编译工具(不需要手动安装Python) One key for quickly decompile apk/aar/dex/jar, support by jadx/dex2jar/enjarify.
 * 【2023-03-11】[aws / aws-eks-best-practices](https://github.com/aws/aws-eks-best-practices) - A best practices guide for day 2 operations, including operational excellence, security, reliability, performance efficiency, and cost optimization.
 * 【2023-03-11】[Berkanktk / CyberSecurity](https://github.com/Berkanktk/CyberSecurity) - This is a repository where i collect my knowledge to different kind of topics related to cybersecurity.
 * 【2023-03-11】[KohakuBlueleaf / LyCORIS](https://github.com/KohakuBlueleaf/LyCORIS) - Lora beYond Conventional methods, Other Rank adaptation Implementations for Stable diffusion.
@@ -368,6 +379,8 @@
 
 ## Javascript
 
+* 【2023-03-12】[ed-roh / chat-app](https://github.com/ed-roh/chat-app) - Build a Chat App with ChatGPT
+* 【2023-03-12】[ehmorris / lunar-lander](https://github.com/ehmorris/lunar-lander) - A web-based lunar lander game written in plain JavaScript, HTML, and CSS with no dependencies
 * 【2023-03-11】[decaporg / decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 * 【2023-03-11】[felipeAguiarCode / node-react-chatgpt-clone](https://github.com/felipeAguiarCode/node-react-chatgpt-clone) - A full stack clone ChatGPT
 * 【2023-03-11】[neemspees / tragic-methods](https://github.com/neemspees/tragic-methods) - A collection of script depicting the strange quirks of programming languages.
@@ -644,6 +657,7 @@
 
 ## C++
 
+* 【2023-03-12】[NaruseMioShirakana / MoeSS](https://github.com/NaruseMioShirakana/MoeSS) - 使用C++ OnnxRuntime 重构了Tacotron2、VITS、SoVIts、DiffSvc和DiffSinger推理的集成UI软件
 * 【2023-03-11】[openxla / iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 * 【2023-03-11】[BYVoid / OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 * 【2023-03-11】[paceholder / nodeeditor](https://github.com/paceholder/nodeeditor) - Qt Node Editor. Dataflow programming framework
@@ -725,6 +739,9 @@
 
 ## C#
 
+* 【2023-03-12】[git-ecosystem / git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+* 【2023-03-12】[DamonMohammadbagher / NativePayloads](https://github.com/DamonMohammadbagher/NativePayloads) - All my Source Codes (Repos) for Red-Teaming & Pentesting + Blue Teaming
+* 【2023-03-12】[microsoftgraph / msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) - Microsoft Graph Client Library for .NET!
 * 【2023-03-11】[Azure / Mission-Critical-Online](https://github.com/Azure/Mission-Critical-Online) - This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the online reference implementation a fully functional production-grade reference Implement…
 * 【2023-03-10】[azzu0 / Melon](https://github.com/azzu0/Melon) - MelonLoader but for an 4nime g4me
 * 【2023-03-10】[vpnhood / VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
@@ -793,6 +810,9 @@
 
 ## Html
 
+* 【2023-03-12】[kevinjycui / DesmosBezierRenderer](https://github.com/kevinjycui/DesmosBezierRenderer) - A simple image/video to Desmos graph converter run locally
+* 【2023-03-12】[IHP-GmbH / IHP-Open-PDK](https://github.com/IHP-GmbH/IHP-Open-PDK) - 130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design
+* 【2023-03-12】[x-dr / chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare workers一分钟搭建 OpenAI api代理 ，解决网络无法访问问题
 * 【2023-03-10】[Parcoil / nativegames.net](https://github.com/Parcoil/nativegames.net) - Nativegames - Free Unblocked Games - Opensource
 * 【2023-03-10】[revenkroz / telegram-web-app-bot-example](https://github.com/revenkroz/telegram-web-app-bot-example) - Telegram Web App for Bot Example. All WebApp-related questions you can ask in Discussions
 * 【2023-03-10】[cnymw / GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
@@ -861,6 +881,8 @@
 
 ## Css
 
+* 【2023-03-12】[joy-of-react / toast-component](https://github.com/joy-of-react/toast-component) - 
+* 【2023-03-12】[Cloudydude / ECSv8-Character-ID-Randomizer](https://github.com/Cloudydude/ECSv8-Character-ID-Randomizer) - The ECSU Framework simple tool for choosing an ID for an Extra Character, ignoring those already registered.
 * 【2023-03-11】[xfbs / diff.rs](https://github.com/xfbs/diff.rs) - Web application (WASM) to render a diff between Rust crate versions.
 * 【2023-03-11】[CodeWorks-FullStack / spring23-mvcGregslist](https://github.com/CodeWorks-FullStack/spring23-mvcGregslist) - 
 * 【2023-03-10】[fajarnurwahid / adminhub](https://github.com/fajarnurwahid/adminhub) - Website ini merupakan hasil slicing dari Figma ke responsive website menggunakan HTML, CSS, dan JavaScript
@@ -961,6 +983,9 @@
 
 ## Unknown
 
+* 【2023-03-12】[DavidProbinsky / RedTeam-Physical-Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) - Red Team Toolkit - A curated list of tools that are commonly used in the field for Physical Security, Red Teaming, and Tactical Covert Entry.
+* 【2023-03-12】[Dev-Hacks / Android-Pentesting](https://github.com/Dev-Hacks/Android-Pentesting) - Android Pentesting Zone
+* 【2023-03-12】[chika0801 / Xray-install](https://github.com/chika0801/Xray-install) - 🚀XTLS Vision 安装指南⭐
 * 【2023-03-11】[ayadim / Nuclei-bug-hunter](https://github.com/ayadim/Nuclei-bug-hunter) - i will upload more templates here to share with the comunity.
 * 【2023-03-11】[csyxwei / ELITE](https://github.com/csyxwei/ELITE) - Official Implementation of "ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation"
 * 【2023-03-11】[henryhu712 / books2](https://github.com/henryhu712/books2) - 编程、创业、成长书籍
