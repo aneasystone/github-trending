@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-03-14】[togethercomputer / OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
+* 【2023-03-14】[kaixindelele / ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
+* 【2023-03-14】[mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
+* 【2023-03-14】[The-Art-of-Hacking / h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+* 【2023-03-14】[aardio / ImTip](https://github.com/aardio/ImTip) - 通用输入法状态跟踪提示，仅用两个字符就可提示中英、全半角、大小写、中英标点、多语言键盘布局等所有状态。
 * 【2023-03-13】[wong2 / chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 * 【2023-03-13】[caesarHQ / textSQL](https://github.com/caesarHQ/textSQL) - 
 * 【2023-03-13】[ggerganov / llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
@@ -187,6 +192,9 @@
 
 ## Java
 
+* 【2023-03-14】[PraktikumJava / m1-t6-decoder](https://github.com/PraktikumJava/m1-t6-decoder) - 
+* 【2023-03-14】[Advanced-Programming-1401 / Fourth-Assignment-Netflix](https://github.com/Advanced-Programming-1401/Fourth-Assignment-Netflix) - 
+* 【2023-03-14】[microsoft / HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy. 搭建属于你的移动云测试平台
 * 【2023-03-13】[BUAA-BDA / OpenHuFu](https://github.com/BUAA-BDA/OpenHuFu) - OpenHuFu is an open-sourced data federation system to support collaborative queries over multi databases with security guarantee.
 * 【2023-03-13】[questdb / rust-maven-plugin](https://github.com/questdb/rust-maven-plugin) - Build Rust Cargo crates within a Java Maven Project
 * 【2023-03-13】[zendesk / maxwell](https://github.com/zendesk/maxwell) - Maxwell's daemon, a mysql-to-json kafka producer
@@ -262,6 +270,10 @@
 
 ## Python
 
+* 【2023-03-14】[jankais3r / LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA inference on Apple Silicon GPUs.
+* 【2023-03-14】[kivy / kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
+* 【2023-03-14】[hyperonym / basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
+* 【2023-03-14】[lucidrains / gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe
 * 【2023-03-13】[SociallyIneptWeeb / LanguageLeapAI](https://github.com/SociallyIneptWeeb/LanguageLeapAI) - Your Personal Multilingual AI Translator
 * 【2023-03-13】[StarStringStudio / so-vits-svc](https://github.com/StarStringStudio/so-vits-svc) - SoftVC VITS Singing Voice Conversion
 * 【2023-03-13】[WassimTenachi / PhySO](https://github.com/WassimTenachi/PhySO) - Physical Symbolic Optimization
@@ -395,6 +407,10 @@
 
 ## Javascript
 
+* 【2023-03-14】[midudev / openui.com](https://github.com/midudev/openui.com) - Generador de componentes de UI con IA
+* 【2023-03-14】[msveshnikov / chatgpt](https://github.com/msveshnikov/chatgpt) - 
+* 【2023-03-14】[Andy8647 / react-portfolio-template](https://github.com/Andy8647/react-portfolio-template) - 
+* 【2023-03-14】[RoganDawes / P4wnP1_aloa](https://github.com/RoganDawes/P4wnP1_aloa) - P4wnP1 A.L.O.A. by MaMe82 is a framework which turns a Rapsberry Pi Zero W into a flexible, low-cost platform for pentesting, red teaming and physical engagements ... or into "A Little Offensive Appliance".
 * 【2023-03-13】[jtydhr88 / sd-3dmodel-loader](https://github.com/jtydhr88/sd-3dmodel-loader) - A custom extension for stable diffusion webui to load local 3D model/animation
 * 【2023-03-13】[hexojs / hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 * 【2023-03-13】[ponlponl123 / AIVTuber](https://github.com/ponlponl123/AIVTuber) - I'm not Neuro-Sama, I'm an artificial intelligence created by DevPattarapong It is currently in development using OpenAI models and Live2D characters.
@@ -531,6 +547,8 @@
 
 ## Go
 
+* 【2023-03-14】[projectdiscovery / interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
+* 【2023-03-14】[pgrok / pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
 * 【2023-03-11】[one2nc / cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS
 * 【2023-03-11】[chaos-mesh / chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 * 【2023-03-10】[devfullcycle / gointensivo2](https://github.com/devfullcycle/gointensivo2) - 
@@ -604,6 +622,9 @@
 
 ## C
 
+* 【2023-03-14】[ggerganov / ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
+* 【2023-03-14】[espressif / esp32-camera](https://github.com/espressif/esp32-camera) - 
+* 【2023-03-14】[cs50 / libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
 * 【2023-03-11】[chompie1337 / Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768) - LPE exploit for CVE-2023-21768
 * 【2023-03-10】[Lora-net / LoRaMac-node](https://github.com/Lora-net/LoRaMac-node) - Reference implementation and documentation of a LoRa network node.
 * 【2023-03-09】[snesrev / sm](https://github.com/snesrev/sm) - early version
@@ -761,6 +782,7 @@
 
 ## C#
 
+* 【2023-03-14】[JamesCJ60 / Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
 * 【2023-03-13】[microsoft / p4vfs](https://github.com/microsoft/p4vfs) - Microsoft Virtual File System for Perforce
 * 【2023-03-13】[EliteAsian123 / YARG](https://github.com/EliteAsian123/YARG) - Yet Another Rhythm Game inspired off of Rockband, Guitar Hero, Clone Hero, or similar.
 * 【2023-03-12】[git-ecosystem / git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
@@ -834,6 +856,7 @@
 
 ## Html
 
+* 【2023-03-14】[ilrock / thirty_days_of_hotwire](https://github.com/ilrock/thirty_days_of_hotwire) - 30 simple hotwire tips in 30 days
 * 【2023-03-13】[antonmedv / finder](https://github.com/antonmedv/finder) - CSS Selector Generator🗺
 * 【2023-03-13】[coatless-r-n-d / webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto Document using Web R
 * 【2023-03-13】[terkelg / awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
@@ -908,6 +931,7 @@
 
 ## Css
 
+* 【2023-03-14】[boygemini / Geministore](https://github.com/boygemini/Geministore) - E-commerce website
 * 【2023-03-13】[imyuanx / chatgpt-proxy](https://github.com/imyuanx/chatgpt-proxy) - One-click deployment of the ChatGPT private proxy, power by Next.js
 * 【2023-03-13】[janraasch / hugo-scroll](https://github.com/janraasch/hugo-scroll) - 📜A Hugo theme for pretty, quick and simple single-page websites.
 * 【2023-03-13】[dukelec / cd_pnp](https://github.com/dukelec/cd_pnp) - Open source desktop SMT machine for engineer
@@ -1014,6 +1038,9 @@
 
 ## Unknown
 
+* 【2023-03-14】[appwrite / octernships](https://github.com/appwrite/octernships) - 
+* 【2023-03-14】[pvqogw / TVBoxOSC](https://github.com/pvqogw/TVBoxOSC) - 
+* 【2023-03-14】[SUC-DriverOld / so-vits-svc-Chinese-Detaild-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents) - so-vits-svc中文详细安装、训练、推理使用步骤帮助文档
 * 【2023-03-13】[DrDiman / CSS-Bayan-task](https://github.com/DrDiman/CSS-Bayan-task) - 
 * 【2023-03-13】[thoughtspile / awesome-tiny-js](https://github.com/thoughtspile/awesome-tiny-js) - A collection of tiny JS libraries to put your bundle on a diet
 * 【2023-03-13】[Skype-line / X-Avatar](https://github.com/Skype-line/X-Avatar) - X-Avatar: Expressive Human Avatars (CVPR2023)
