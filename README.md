@@ -6,6 +6,13 @@
 
 ## All language
 
+* 【2023-03-15】[AstroNvim / AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
+* 【2023-03-15】[Bin-Huang / chatbox](https://github.com/Bin-Huang/chatbox) - a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.
+* 【2023-03-15】[base-org / node](https://github.com/base-org/node) - Everything required to run your own Base node
+* 【2023-03-15】[whoiskatrin / sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.
+* 【2023-03-15】[chathub-dev / chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+* 【2023-03-15】[svc-develop-team / so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
+* 【2023-03-15】[MLNLP-World / DeepLearning-MuLi-Notes](https://github.com/MLNLP-World/DeepLearning-MuLi-Notes) - Notes about courses Dive into Deep Learning by Mu Li
 * 【2023-03-14】[togethercomputer / OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
 * 【2023-03-14】[kaixindelele / ChatPaper](https://github.com/kaixindelele/ChatPaper) - Use ChatGPT to summarize the arXiv papers.
 * 【2023-03-14】[mckaywrigley / chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
@@ -192,6 +199,8 @@
 
 ## Java
 
+* 【2023-03-15】[joelittlejohn / jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc
+* 【2023-03-15】[akshatjain1199 / L-T-Edutech-Activities](https://github.com/akshatjain1199/L-T-Edutech-Activities) - All L & T Edutech Activities Day Wise
 * 【2023-03-14】[PraktikumJava / m1-t6-decoder](https://github.com/PraktikumJava/m1-t6-decoder) - 
 * 【2023-03-14】[Advanced-Programming-1401 / Fourth-Assignment-Netflix](https://github.com/Advanced-Programming-1401/Fourth-Assignment-Netflix) - 
 * 【2023-03-14】[microsoft / HydraLab](https://github.com/microsoft/HydraLab) - Intelligent cloud testing made easy. 搭建属于你的移动云测试平台
@@ -270,6 +279,9 @@
 
 ## Python
 
+* 【2023-03-15】[nodejs / node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
+* 【2023-03-15】[madawei2699 / myGPTReader](https://github.com/madawei2699/myGPTReader) - myGPTReader is a slack bot that reads web pages and summarizes them with chatGPT.
+* 【2023-03-15】[openctp / openctp](https://github.com/openctp/openctp) - CTP开放平台提供A股、港股、美股、期货、期权等全品种接入通道，通过提供中泰证券XTP、华鑫证券奇点、东方证券OST、东方财富证券EMT、盈透证券TWS等各通道的CTPAPI接口，CTP程序可以无缝对接各股票柜台。平台也提供了一套基于TTS交易系统的模拟环境，同样提供了CTPAPI兼容接口，可以替代Simnow，为CTP量化交易开发者提供7x24可用的模拟环境。
 * 【2023-03-14】[jankais3r / LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA inference on Apple Silicon GPUs.
 * 【2023-03-14】[kivy / kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 * 【2023-03-14】[hyperonym / basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
@@ -407,6 +419,8 @@
 
 ## Javascript
 
+* 【2023-03-15】[heedrox / abbreviame](https://github.com/heedrox/abbreviame) - Get an abbreviated description made by an AI of you based on your latest tweets. What do other users perceive from what you tweet?
+* 【2023-03-15】[SuperMonster003 / AutoJs6-Documentation](https://github.com/SuperMonster003/AutoJs6-Documentation) - Documentation (with generator) for AutoJs6 [AutoJs6 文档 (带生成器)]
 * 【2023-03-14】[midudev / openui.com](https://github.com/midudev/openui.com) - Generador de componentes de UI con IA
 * 【2023-03-14】[msveshnikov / chatgpt](https://github.com/msveshnikov/chatgpt) - 
 * 【2023-03-14】[Andy8647 / react-portfolio-template](https://github.com/Andy8647/react-portfolio-template) - 
@@ -547,6 +561,7 @@
 
 ## Go
 
+* 【2023-03-15】[prometheus-community / windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines
 * 【2023-03-14】[projectdiscovery / interactsh](https://github.com/projectdiscovery/interactsh) - An OOB interaction gathering server and client library
 * 【2023-03-14】[pgrok / pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
 * 【2023-03-11】[one2nc / cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS
@@ -622,6 +637,9 @@
 
 ## C
 
+* 【2023-03-15】[ptitSeb / box86](https://github.com/ptitSeb/box86) - Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices
+* 【2023-03-15】[agherzan / meta-raspberrypi](https://github.com/agherzan/meta-raspberrypi) - Yocto/OE BSP layer for the Raspberry Pi boards
+* 【2023-03-15】[liangfei44 / VmWareThrough](https://github.com/liangfei44/VmWareThrough) - 
 * 【2023-03-14】[ggerganov / ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 * 【2023-03-14】[espressif / esp32-camera](https://github.com/espressif/esp32-camera) - 
 * 【2023-03-14】[cs50 / libcs50](https://github.com/cs50/libcs50) - This is CS50's Library for C.
@@ -700,6 +718,9 @@
 
 ## C++
 
+* 【2023-03-15】[SecurityNo1 / Gh0st2023](https://github.com/SecurityNo1/Gh0st2023) - 重写免杀版Gh0st远控、大灰狼远控免杀，目前可免杀360、火绒、腾讯电脑管家等主流杀软。
+* 【2023-03-15】[Const-me / Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+* 【2023-03-15】[nillerusr / source-engine](https://github.com/nillerusr/source-engine) - Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses
 * 【2023-03-12】[NaruseMioShirakana / MoeSS](https://github.com/NaruseMioShirakana/MoeSS) - 使用C++ OnnxRuntime 重构了Tacotron2、VITS、SoVIts、DiffSvc和DiffSinger推理的集成UI软件
 * 【2023-03-11】[openxla / iree](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
 * 【2023-03-11】[BYVoid / OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
@@ -782,6 +803,9 @@
 
 ## C#
 
+* 【2023-03-15】[1Remote / 1Remote](https://github.com/1Remote/1Remote) - Web is still WIP
+* 【2023-03-15】[xceedsoftware / wpftoolkit](https://github.com/xceedsoftware/wpftoolkit) - All the controls missing in WPF. Over 1 million downloads.
+* 【2023-03-15】[Suprcode / mir2](https://github.com/Suprcode/mir2) - Legend of Mir 2 - Official Public Crystal Source
 * 【2023-03-14】[JamesCJ60 / Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
 * 【2023-03-13】[microsoft / p4vfs](https://github.com/microsoft/p4vfs) - Microsoft Virtual File System for Perforce
 * 【2023-03-13】[EliteAsian123 / YARG](https://github.com/EliteAsian123/YARG) - Yet Another Rhythm Game inspired off of Rockband, Guitar Hero, Clone Hero, or similar.
@@ -856,6 +880,8 @@
 
 ## Html
 
+* 【2023-03-15】[gurusabarish / hugo-profile](https://github.com/gurusabarish/hugo-profile) - A highly customizable and mobile first Hugo template for personal portfolio and blog.
+* 【2023-03-15】[osrf / gazebo_models](https://github.com/osrf/gazebo_models) - Gazebo database of SDF models. This is a predecessor to https://app.gazebosim.org
 * 【2023-03-14】[ilrock / thirty_days_of_hotwire](https://github.com/ilrock/thirty_days_of_hotwire) - 30 simple hotwire tips in 30 days
 * 【2023-03-13】[antonmedv / finder](https://github.com/antonmedv/finder) - CSS Selector Generator🗺
 * 【2023-03-13】[coatless-r-n-d / webR-quarto-demos](https://github.com/coatless-r-n-d/webR-quarto-demos) - Experiments with generating a standalone Quarto Document using Web R
@@ -931,6 +957,10 @@
 
 ## Css
 
+* 【2023-03-15】[vinceliuice / WhiteSur-firefox-theme](https://github.com/vinceliuice/WhiteSur-firefox-theme) - Mac OS Safari theme for Firefox on Linux
+* 【2023-03-15】[CMU-313 / basic-web-app](https://github.com/CMU-313/basic-web-app) - Basic NextJS typescript Web App to Handle Requests
+* 【2023-03-15】[creativetimofficial / paper-dashboard](https://github.com/creativetimofficial/paper-dashboard) - Paper Dashboard is a Bootstrap Admin Panel which combines soft colors with beautiful typography and spacious cards and graphics.
+* 【2023-03-15】[ronilaukkarinen / mastodon-bird-ui](https://github.com/ronilaukkarinen/mastodon-bird-ui) - 🐘🐦Mastodon, but strongly inspired by Twitter.
 * 【2023-03-14】[boygemini / Geministore](https://github.com/boygemini/Geministore) - E-commerce website
 * 【2023-03-13】[imyuanx / chatgpt-proxy](https://github.com/imyuanx/chatgpt-proxy) - One-click deployment of the ChatGPT private proxy, power by Next.js
 * 【2023-03-13】[janraasch / hugo-scroll](https://github.com/janraasch/hugo-scroll) - 📜A Hugo theme for pretty, quick and simple single-page websites.
@@ -1038,6 +1068,14 @@
 
 ## Unknown
 
+* 【2023-03-15】[zodiacon / rust-course](https://github.com/zodiacon/rust-course) - 
+* 【2023-03-15】[open-sauced-craftwork / browser-extension](https://github.com/open-sauced-craftwork/browser-extension) - This is the template repo for the OpenSauced browser extension assignment.
+* 【2023-03-15】[AI-hubs / ChatGPT_Prompt](https://github.com/AI-hubs/ChatGPT_Prompt) - ChatGPT中文调教高级版指南，部分Prompt付费购买，分享给大家
+* 【2023-03-15】[weiwensangsang / golang-internal](https://github.com/weiwensangsang/golang-internal) - This project features optimized Go language, expert source code, concurrent processing, and industry-best practices.
+* 【2023-03-15】[yanirs / established-remote](https://github.com/yanirs/established-remote) - A list of established remote companies
+* 【2023-03-15】[TracyWang95 / legal-prompts-for-gpt](https://github.com/TracyWang95/legal-prompts-for-gpt) - An opensource legal prompts
+* 【2023-03-15】[badtuxx / DescomplicandoArgoCD](https://github.com/badtuxx/DescomplicandoArgoCD) - 
+* 【2023-03-15】[FrogDar / code-contributing-practice](https://github.com/FrogDar/code-contributing-practice) - 利用 GitHub 进行代码贡献的练习专用仓库）
 * 【2023-03-14】[appwrite / octernships](https://github.com/appwrite/octernships) - 
 * 【2023-03-14】[pvqogw / TVBoxOSC](https://github.com/pvqogw/TVBoxOSC) - 
 * 【2023-03-14】[SUC-DriverOld / so-vits-svc-Chinese-Detaild-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Chinese-Detaild-Documents) - so-vits-svc中文详细安装、训练、推理使用步骤帮助文档
