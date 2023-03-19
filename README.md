@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-19】[Akegarasu / ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
+* 【2023-03-19】[mlc-ai / web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+* 【2023-03-19】[jtmuller5 / The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
+* 【2023-03-19】[reactjs / react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 * 【2023-03-18】[dreamworksanimation / openmoonray](https://github.com/dreamworksanimation/openmoonray) - 
 * 【2023-03-18】[logspace-ai / langflow](https://github.com/logspace-ai/langflow) - ⛓️LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 * 【2023-03-18】[apache / incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: Access data freely, painlessly, and efficiently.
@@ -220,6 +224,7 @@
 
 ## Java
 
+* 【2023-03-19】[cucumber / cucumber-java-skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java.
 * 【2023-03-18】[dromara / dataCompare](https://github.com/dromara/dataCompare) - Database comparison platform: Hive table data comparison, MySQL data comparison, automatic configuration for data comparison, avoid frequent write SQL processing
 * 【2023-03-17】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
 * 【2023-03-16】[flashvayne / chatgpt-spring-boot-starter](https://github.com/flashvayne/chatgpt-spring-boot-starter) - a chatgpt starter based on Openai Official Apis.
@@ -303,6 +308,9 @@
 
 ## Python
 
+* 【2023-03-19】[Jiawei-Yang / FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) - [CVPR23] FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization
+* 【2023-03-19】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+* 【2023-03-19】[ydf0509 / funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和全球一切知名消息队列中间件，python函数加速器，框架包罗万象，一统编程思维，兼容50% python编程业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数。旧名字是function_scheduling_distributed_framework
 * 【2023-03-18】[lzzcd001 / MeshDiffusion](https://github.com/lzzcd001/MeshDiffusion) - Official implementation of "MeshDiffusion: Score-based Generative 3D Mesh Modeling" (ICLR 2023 Spotlight)
 * 【2023-03-18】[jina-ai / agentchain](https://github.com/jina-ai/agentchain) - Chain together LLMs for reasoning & orchestrate multiple large models for accomplishing complex tasks
 * 【2023-03-18】[jerryjliu / llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
@@ -456,6 +464,9 @@
 
 ## Javascript
 
+* 【2023-03-19】[bnb-chain / bnb-chain-tutorial](https://github.com/bnb-chain/bnb-chain-tutorial) - Detailed blockchain tutorials on BNB Chain.
+* 【2023-03-19】[CleBeert / crypto-trading-bot-eth-bnb](https://github.com/CleBeert/crypto-trading-bot-eth-bnb) - crypto-trading-bot
+* 【2023-03-19】[danny-avila / chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, and prompt templates (WIP)
 * 【2023-03-18】[facebookarchive / draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 * 【2023-03-18】[FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 * 【2023-03-17】[dice2o / BingGPT](https://github.com/dice2o/BingGPT) - BingGPT desktop application (Windows, macOS and Linux)
@@ -607,6 +618,8 @@
 
 ## Go
 
+* 【2023-03-19】[deckarep / golang-set](https://github.com/deckarep/golang-set) - A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
+* 【2023-03-19】[mgechev / revive](https://github.com/mgechev/revive) - 🔥~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * 【2023-03-18】[1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
 * 【2023-03-18】[acheong08 / ChatGPT-Proxy-V4](https://github.com/acheong08/ChatGPT-Proxy-V4) - Cloudflare Bypass for OpenAI based on `puid`
 * 【2023-03-18】[cri-o / cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
@@ -776,6 +789,7 @@
 
 ## C++
 
+* 【2023-03-19】[Cambricon / mlu-ops](https://github.com/Cambricon/mlu-ops) - Efficient operation implementation based on the Cambricon Machine Learning Unit (MLU) .
 * 【2023-03-18】[dreamworksanimation / moonray](https://github.com/dreamworksanimation/moonray) - 
 * 【2023-03-18】[anysphere / gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
 * 【2023-03-17】[abcz316 / linuxKernelRoot](https://github.com/abcz316/linuxKernelRoot) - 新一代root，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
@@ -867,6 +881,8 @@
 
 ## C#
 
+* 【2023-03-19】[sqrtZeroKnowledge / CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
+* 【2023-03-19】[VRCFury / VRCFury](https://github.com/VRCFury/VRCFury) - Non-Destructive Tools for VRChat Avatars
 * 【2023-03-18】[Sicos1977 / MsgKit](https://github.com/Sicos1977/MsgKit) - A .NET library to make MSG files without the need for Outlook
 * 【2023-03-18】[hassanhabib / OpenAI.NET](https://github.com/hassanhabib/OpenAI.NET) - Standard-Compliant .NET library for Open AI
 * 【2023-03-18】[RageAgainstThePixel / OpenAI-DotNet](https://github.com/RageAgainstThePixel/OpenAI-DotNet) - A fast lightweight DotNet library for OpenAI API
@@ -953,6 +969,7 @@
 
 ## Html
 
+* 【2023-03-19】[retrohacker / template](https://github.com/retrohacker/template) - A simple framework for webapps
 * 【2023-03-18】[system-fonts / modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 * 【2023-03-18】[vfarid / cf-ip-scanner](https://github.com/vfarid/cf-ip-scanner) - Cloudflare IP Scanner
 * 【2023-03-17】[ros-planning / moveit_tutorials](https://github.com/ros-planning/moveit_tutorials) - A sphinx-based centralized documentation repo for MoveIt
@@ -1038,6 +1055,8 @@
 
 ## Css
 
+* 【2023-03-19】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
+* 【2023-03-19】[thoughtworks / build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/
 * 【2023-03-17】[septiandwica / kado](https://github.com/septiandwica/kado) - flower
 * 【2023-03-17】[EgoAlpha / prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 * 【2023-03-16】[ZMYaro / coh-forums-smf-theme](https://github.com/ZMYaro/coh-forums-smf-theme) - City Of Heroes SMF Theme
@@ -1153,6 +1172,9 @@
 
 ## Unknown
 
+* 【2023-03-19】[github / copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
+* 【2023-03-19】[opendilab / awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
+* 【2023-03-19】[ArbitrumFoundation / sybil-detection](https://github.com/ArbitrumFoundation/sybil-detection) - 
 * 【2023-03-18】[milanm / Cloud-Product-Mapping](https://github.com/milanm/Cloud-Product-Mapping) - All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.
 * 【2023-03-18】[notable / notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 * 【2023-03-18】[chika0801 / sing-box-install](https://github.com/chika0801/sing-box-install) - sing-box 安装指南 配置模板
