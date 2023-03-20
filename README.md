@@ -6,6 +6,7 @@
 
 ## All language
 
+* 【2023-03-20】[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 * 【2023-03-19】[Akegarasu / ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
 * 【2023-03-19】[mlc-ai / web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 * 【2023-03-19】[jtmuller5 / The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge) - Building Startups with an AI Co-Founder
@@ -224,6 +225,8 @@
 
 ## Java
 
+* 【2023-03-20】[apache / incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
+* 【2023-03-20】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
 * 【2023-03-19】[cucumber / cucumber-java-skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java.
 * 【2023-03-18】[dromara / dataCompare](https://github.com/dromara/dataCompare) - Database comparison platform: Hive table data comparison, MySQL data comparison, automatic configuration for data comparison, avoid frequent write SQL processing
 * 【2023-03-17】[GoogleCloudPlatform / java-docs-samples](https://github.com/GoogleCloudPlatform/java-docs-samples) - Java and Kotlin Code samples used on cloud.google.com
@@ -308,6 +311,8 @@
 
 ## Python
 
+* 【2023-03-20】[ChenyangQiQi / FateZero](https://github.com/ChenyangQiQi/FateZero) - FateZero: Fusing Attentions for Zero-shot Text-based Video Editing
+* 【2023-03-20】[PiotrNawrot / nanoT5](https://github.com/PiotrNawrot/nanoT5) - Fast & Simple repository for pre-training and fine-tuning T5-style models
 * 【2023-03-19】[Jiawei-Yang / FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) - [CVPR23] FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization
 * 【2023-03-19】[pytube / pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 * 【2023-03-19】[ydf0509 / funboost](https://github.com/ydf0509/funboost) - pip install funboost，python全功能分布式函数调度框架,。支持python所有类型的并发模式和全球一切知名消息队列中间件，python函数加速器，框架包罗万象，一统编程思维，兼容50% python编程业务场景，适用范围广。只需要一行代码即可分布式执行python一切函数。旧名字是function_scheduling_distributed_framework
@@ -618,6 +623,9 @@
 
 ## Go
 
+* 【2023-03-20】[keploy / keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
+* 【2023-03-20】[openkruise / kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
+* 【2023-03-20】[kubernetes / registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts
 * 【2023-03-19】[deckarep / golang-set](https://github.com/deckarep/golang-set) - A simple generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp.
 * 【2023-03-19】[mgechev / revive](https://github.com/mgechev/revive) - 🔥~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 * 【2023-03-18】[1Panel-dev / 1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
@@ -789,6 +797,9 @@
 
 ## C++
 
+* 【2023-03-20】[itm4n / PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
+* 【2023-03-20】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
+* 【2023-03-20】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 * 【2023-03-19】[Cambricon / mlu-ops](https://github.com/Cambricon/mlu-ops) - Efficient operation implementation based on the Cambricon Machine Learning Unit (MLU) .
 * 【2023-03-18】[dreamworksanimation / moonray](https://github.com/dreamworksanimation/moonray) - 
 * 【2023-03-18】[anysphere / gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
@@ -969,6 +980,9 @@
 
 ## Html
 
+* 【2023-03-20】[amazonlinux / amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
+* 【2023-03-20】[drshahizan / special-topic-data-engineering](https://github.com/drshahizan/special-topic-data-engineering) - This course presents to the students recent research and industrial issues pertaining to data engineering, database systems and technologies. Various topics of interests that are directly or indirectly affecting or are being influenced by data engineering, database systems and technologies are explored and discussed.
+* 【2023-03-20】[frntc / RAD](https://github.com/frntc/RAD) - RAD Expansion Unit for C64/C128
 * 【2023-03-19】[retrohacker / template](https://github.com/retrohacker/template) - A simple framework for webapps
 * 【2023-03-18】[system-fonts / modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 * 【2023-03-18】[vfarid / cf-ip-scanner](https://github.com/vfarid/cf-ip-scanner) - Cloudflare IP Scanner
@@ -1055,6 +1069,7 @@
 
 ## Css
 
+* 【2023-03-20】[malakhov-dmitrii / noizer-one_v2](https://github.com/malakhov-dmitrii/noizer-one_v2) - Noizer One is an open-source web and mobile application that provides a collection of 50+ different background sounds, carefully categorized into various groups, to help users create the perfect ambience for work, study, relaxation, and more.
 * 【2023-03-19】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
 * 【2023-03-19】[thoughtworks / build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/
 * 【2023-03-17】[septiandwica / kado](https://github.com/septiandwica/kado) - flower
@@ -1172,6 +1187,10 @@
 
 ## Unknown
 
+* 【2023-03-20】[getcursor / cursor](https://github.com/getcursor/cursor) - An editor built for programming with AI🤖
+* 【2023-03-20】[TakSec / chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty & Pentesting
+* 【2023-03-20】[jbrukh / gpt4-spanish](https://github.com/jbrukh/gpt4-spanish) - A GPT-4 prompt that helps you learn Spanish.
+* 【2023-03-20】[kjfx / kjfx](https://github.com/kjfx/kjfx) - 2023机场推荐
 * 【2023-03-19】[github / copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 * 【2023-03-19】[opendilab / awesome-RLHF](https://github.com/opendilab/awesome-RLHF) - A curated list of reinforcement learning with human feedback resources (continually updated)
 * 【2023-03-19】[ArbitrumFoundation / sybil-detection](https://github.com/ArbitrumFoundation/sybil-detection) - 
