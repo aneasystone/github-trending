@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-21】[mayooear / gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
+* 【2023-03-21】[nichtdax / awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+* 【2023-03-21】[Ayanaminn / N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator
+* 【2023-03-21】[34j / so-vits-svc-fork](https://github.com/34j/so-vits-svc-fork) - so-vits-svc fork with REALTIME support (voice changer) and greatly improved interface.
 * 【2023-03-20】[josStorer / chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 * 【2023-03-19】[Akegarasu / ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui) - A WebUI for ChatGLM-6B
 * 【2023-03-19】[mlc-ai / web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
@@ -225,6 +229,7 @@
 
 ## Java
 
+* 【2023-03-21】[ashinnotfound / ChatGPT-YourChatRobot](https://github.com/ashinnotfound/ChatGPT-YourChatRobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 * 【2023-03-20】[apache / incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
 * 【2023-03-20】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
 * 【2023-03-19】[cucumber / cucumber-java-skeleton](https://github.com/cucumber/cucumber-java-skeleton) - This is the simplest possible setup for Cucumber-JVM using Java.
@@ -311,6 +316,7 @@
 
 ## Python
 
+* 【2023-03-21】[pointnetwork / point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 * 【2023-03-20】[ChenyangQiQi / FateZero](https://github.com/ChenyangQiQi/FateZero) - FateZero: Fusing Attentions for Zero-shot Text-based Video Editing
 * 【2023-03-20】[PiotrNawrot / nanoT5](https://github.com/PiotrNawrot/nanoT5) - Fast & Simple repository for pre-training and fine-tuning T5-style models
 * 【2023-03-19】[Jiawei-Yang / FreeNeRF](https://github.com/Jiawei-Yang/FreeNeRF) - [CVPR23] FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization
@@ -469,6 +475,10 @@
 
 ## Javascript
 
+* 【2023-03-21】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
+* 【2023-03-21】[fosscord / fosscord](https://github.com/fosscord/fosscord) - 📬Fosscord is a free open source selfhostable discord compatible communication platform
+* 【2023-03-21】[sub-store-org / Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
+* 【2023-03-21】[Lothrik / diablo4-build-calc](https://github.com/Lothrik/diablo4-build-calc) - A build calculator for Diablo 4.
 * 【2023-03-19】[bnb-chain / bnb-chain-tutorial](https://github.com/bnb-chain/bnb-chain-tutorial) - Detailed blockchain tutorials on BNB Chain.
 * 【2023-03-19】[CleBeert / crypto-trading-bot-eth-bnb](https://github.com/CleBeert/crypto-trading-bot-eth-bnb) - crypto-trading-bot
 * 【2023-03-19】[danny-avila / chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, and prompt templates (WIP)
@@ -623,6 +633,8 @@
 
 ## Go
 
+* 【2023-03-21】[zhong1016 / feastogether](https://github.com/zhong1016/feastogether) - 饗賓餐旅線上訂位
+* 【2023-03-21】[ymatrix-data / mxbench](https://github.com/ymatrix-data/mxbench) - YMatrix benchmark
 * 【2023-03-20】[keploy / keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
 * 【2023-03-20】[openkruise / kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
 * 【2023-03-20】[kubernetes / registry.k8s.io](https://github.com/kubernetes/registry.k8s.io) - This project is the repo for registry.k8s.io, the production OCI registry service for Kubernetes' container image artifacts
@@ -711,6 +723,9 @@
 
 ## C
 
+* 【2023-03-21】[GaryOderNichts / udpih](https://github.com/GaryOderNichts/udpih) - Exploit for the Wii U's USB Host Stack
+* 【2023-03-21】[raysan5 / raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
+* 【2023-03-21】[shellphish / how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 * 【2023-03-18】[wh0amitz / PetitPotato](https://github.com/wh0amitz/PetitPotato) - Local privilege escalation via PetitPotam (perfectly on Windows 21H2 10.0.20348.1547)
 * 【2023-03-18】[kamailio / kamailio](https://github.com/kamailio/kamailio) - Kamailio - The Open Source SIP Server for large VoIP and real-time communication platforms -
 * 【2023-03-18】[NouamaneTazi / bloomz.cpp](https://github.com/NouamaneTazi/bloomz.cpp) - C++ implementation for BLOOM
@@ -797,6 +812,7 @@
 
 ## C++
 
+* 【2023-03-21】[Jax-Core / JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
 * 【2023-03-20】[itm4n / PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 * 【2023-03-20】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
 * 【2023-03-20】[rizinorg / cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -980,6 +996,7 @@
 
 ## Html
 
+* 【2023-03-21】[abuseofnotation / category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 * 【2023-03-20】[amazonlinux / amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 * 【2023-03-20】[drshahizan / special-topic-data-engineering](https://github.com/drshahizan/special-topic-data-engineering) - This course presents to the students recent research and industrial issues pertaining to data engineering, database systems and technologies. Various topics of interests that are directly or indirectly affecting or are being influenced by data engineering, database systems and technologies are explored and discussed.
 * 【2023-03-20】[frntc / RAD](https://github.com/frntc/RAD) - RAD Expansion Unit for C64/C128
@@ -1069,6 +1086,7 @@
 
 ## Css
 
+* 【2023-03-21】[xLensSpace / xlensspace.github.io](https://github.com/xLensSpace/xlensspace.github.io) - 
 * 【2023-03-20】[malakhov-dmitrii / noizer-one_v2](https://github.com/malakhov-dmitrii/noizer-one_v2) - Noizer One is an open-source web and mobile application that provides a collection of 50+ different background sounds, carefully categorized into various groups, to help users create the perfect ambience for work, study, relaxation, and more.
 * 【2023-03-19】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
 * 【2023-03-19】[thoughtworks / build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/
@@ -1187,6 +1205,11 @@
 
 ## Unknown
 
+* 【2023-03-21】[GabryB03 / ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks) - Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian.
+* 【2023-03-21】[marallen1 / Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI](https://github.com/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI) - Official Website: https://frontrunningbot.io - The front running bot is most powerful front run bot on market you can bypass metamask front running protections and made profit as you wish if you like the bot you can buy premium versions.
+* 【2023-03-21】[MSzturc / the100](https://github.com/MSzturc/the100) - 
+* 【2023-03-21】[tychezone / public-docs](https://github.com/tychezone/public-docs) - A place to gather and version control all tyche docs
+* 【2023-03-21】[withfig / fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 * 【2023-03-20】[getcursor / cursor](https://github.com/getcursor/cursor) - An editor built for programming with AI🤖
 * 【2023-03-20】[TakSec / chatgpt-prompts-bug-bounty](https://github.com/TakSec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty & Pentesting
 * 【2023-03-20】[jbrukh / gpt4-spanish](https://github.com/jbrukh/gpt4-spanish) - A GPT-4 prompt that helps you learn Spanish.
