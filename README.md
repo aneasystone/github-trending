@@ -6,6 +6,16 @@
 
 ## All language
 
+* 【2023-03-22】[keijiro / AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor
+* 【2023-03-22】[ourongxing / chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
+* 【2023-03-22】[biobootloader / wolverine](https://github.com/biobootloader/wolverine) - 
+* 【2023-03-22】[gannonh / gpt3.5-turbo-pgvector](https://github.com/gannonh/gpt3.5-turbo-pgvector) - ChatGTP (gpt3.5-turbo) starter app
+* 【2023-03-22】[TheExplainthis / AI-Products-All-In-One](https://github.com/TheExplainthis/AI-Products-All-In-One) - 彙整了真正實用的 ChatGPT 與生成式 AI 工具
+* 【2023-03-22】[BloopAI / bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
+* 【2023-03-22】[D4RK-R4BB1T / Dark-Web-Archives](https://github.com/D4RK-R4BB1T/Dark-Web-Archives) - Archives of the criminal side of the internet
+* 【2023-03-22】[GerevAI / gerev](https://github.com/GerevAI/gerev) - ChatGPT search engine for workplaces
+* 【2023-03-22】[enricoros / nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
+* 【2023-03-22】[lyhue1991 / eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉is delicious, just eat it!😋😋
 * 【2023-03-21】[mayooear / gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 * 【2023-03-21】[nichtdax / awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 * 【2023-03-21】[Ayanaminn / N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator
@@ -316,6 +326,9 @@
 
 ## Python
 
+* 【2023-03-22】[mymusise / ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) - 一种平价的chatgpt实现方案, 基于ChatGLM-6B
+* 【2023-03-22】[microsoft / LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+* 【2023-03-22】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes⚡
 * 【2023-03-21】[pointnetwork / point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 * 【2023-03-20】[ChenyangQiQi / FateZero](https://github.com/ChenyangQiQi/FateZero) - FateZero: Fusing Attentions for Zero-shot Text-based Video Editing
 * 【2023-03-20】[PiotrNawrot / nanoT5](https://github.com/PiotrNawrot/nanoT5) - Fast & Simple repository for pre-training and fine-tuning T5-style models
@@ -475,6 +488,8 @@
 
 ## Javascript
 
+* 【2023-03-22】[zahidkhawaja / langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
+* 【2023-03-22】[Skoolgq / skoolv2](https://github.com/Skoolgq/skoolv2) - pls star if you fork :)
 * 【2023-03-21】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
 * 【2023-03-21】[fosscord / fosscord](https://github.com/fosscord/fosscord) - 📬Fosscord is a free open source selfhostable discord compatible communication platform
 * 【2023-03-21】[sub-store-org / Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
@@ -633,6 +648,9 @@
 
 ## Go
 
+* 【2023-03-22】[jhaddix / awsScrape](https://github.com/jhaddix/awsScrape) - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
+* 【2023-03-22】[wdvxdr1123 / ZeroBot](https://github.com/wdvxdr1123/ZeroBot) - 一个基于onebot协议的机器人Go开发框架
+* 【2023-03-22】[FloatTech / ZeroBot-Plugin-Playground](https://github.com/FloatTech/ZeroBot-Plugin-Playground) - 快来这里上传你的奇思妙想吧！
 * 【2023-03-21】[zhong1016 / feastogether](https://github.com/zhong1016/feastogether) - 饗賓餐旅線上訂位
 * 【2023-03-21】[ymatrix-data / mxbench](https://github.com/ymatrix-data/mxbench) - YMatrix benchmark
 * 【2023-03-20】[keploy / keploy](https://github.com/keploy/keploy) - Testing for Developers. Toolkit that creates test-cases and data mocks from API calls, DB queries, etc.
@@ -723,6 +741,8 @@
 
 ## C
 
+* 【2023-03-22】[YakshaLang / Yaksha](https://github.com/YakshaLang/Yaksha) - Yaksha Programming Language (WIP)
+* 【2023-03-22】[GaryOderNichts / mdinfo](https://github.com/GaryOderNichts/mdinfo) - Quick and simple tool to display info about IOSU's memory devices
 * 【2023-03-21】[GaryOderNichts / udpih](https://github.com/GaryOderNichts/udpih) - Exploit for the Wii U's USB Host Stack
 * 【2023-03-21】[raysan5 / raygui](https://github.com/raysan5/raygui) - A simple and easy-to-use immediate-mode gui library
 * 【2023-03-21】[shellphish / how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -812,6 +832,9 @@
 
 ## C++
 
+* 【2023-03-22】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
+* 【2023-03-22】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - 
+* 【2023-03-22】[google / tcmalloc](https://github.com/google/tcmalloc) - 
 * 【2023-03-21】[Jax-Core / JaxCore](https://github.com/Jax-Core/JaxCore) - A beautiful set of tools and widgets to spice up your desktop.
 * 【2023-03-20】[itm4n / PPLmedic](https://github.com/itm4n/PPLmedic) - Dump the memory of any PPL with a Userland exploit chain
 * 【2023-03-20】[sdatkinson / NeuralAmpModelerPlugin](https://github.com/sdatkinson/NeuralAmpModelerPlugin) - Plugin for Neural Amp Modeler
@@ -908,6 +931,7 @@
 
 ## C#
 
+* 【2023-03-22】[snowflakedb / snowflake-connector-net](https://github.com/snowflakedb/snowflake-connector-net) - Snowflake Connector for .NET
 * 【2023-03-19】[sqrtZeroKnowledge / CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
 * 【2023-03-19】[VRCFury / VRCFury](https://github.com/VRCFury/VRCFury) - Non-Destructive Tools for VRChat Avatars
 * 【2023-03-18】[Sicos1977 / MsgKit](https://github.com/Sicos1977/MsgKit) - A .NET library to make MSG files without the need for Outlook
@@ -1086,6 +1110,9 @@
 
 ## Css
 
+* 【2023-03-22】[PlusInsta / discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
+* 【2023-03-22】[DevEvil99 / DarkPlus-Discord-Theme](https://github.com/DevEvil99/DarkPlus-Discord-Theme) - Highly customized dark and purple theme for discord
+* 【2023-03-22】[AlexisJonsson / AlexisJonsson.github.io](https://github.com/AlexisJonsson/AlexisJonsson.github.io) - 
 * 【2023-03-21】[xLensSpace / xlensspace.github.io](https://github.com/xLensSpace/xlensspace.github.io) - 
 * 【2023-03-20】[malakhov-dmitrii / noizer-one_v2](https://github.com/malakhov-dmitrii/noizer-one_v2) - Noizer One is an open-source web and mobile application that provides a collection of 50+ different background sounds, carefully categorized into various groups, to help users create the perfect ambience for work, study, relaxation, and more.
 * 【2023-03-19】[sapondanaisriwan / AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options.
@@ -1205,6 +1232,10 @@
 
 ## Unknown
 
+* 【2023-03-22】[marcianotech / prompts](https://github.com/marcianotech/prompts) - 
+* 【2023-03-22】[npmaile / blog](https://github.com/npmaile/blog) - 
+* 【2023-03-22】[ignis-sec / Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
+* 【2023-03-22】[Langboat / Mengzi](https://github.com/Langboat/Mengzi) - Mengzi Pretrained Models
 * 【2023-03-21】[GabryB03 / ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks) - Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian.
 * 【2023-03-21】[marallen1 / Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI](https://github.com/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI) - Official Website: https://frontrunningbot.io - The front running bot is most powerful front run bot on market you can bypass metamask front running protections and made profit as you wish if you like the bot you can buy premium versions.
 * 【2023-03-21】[MSzturc / the100](https://github.com/MSzturc/the100) - 
