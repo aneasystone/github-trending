@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-03-23】[deep-diver / Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) - Alpaca-LoRA as Chatbot service
+* 【2023-03-23】[pelennor2170 / NAM_models](https://github.com/pelennor2170/NAM_models) - A repository collecting model files for Neural Amp Modeler (NAM) all in one place
+* 【2023-03-23】[Beomi / KoAlpaca](https://github.com/Beomi/KoAlpaca) - KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)
 * 【2023-03-22】[keijiro / AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor
 * 【2023-03-22】[ourongxing / chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Powered by OpenAI API (gpt-3.5-turbo) and Vercel
 * 【2023-03-22】[biobootloader / wolverine](https://github.com/biobootloader/wolverine) - 
@@ -239,6 +242,7 @@
 
 ## Java
 
+* 【2023-03-23】[maciejwalkowiak / spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
 * 【2023-03-21】[ashinnotfound / ChatGPT-YourChatRobot](https://github.com/ashinnotfound/ChatGPT-YourChatRobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 * 【2023-03-20】[apache / incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
 * 【2023-03-20】[apache / logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is a versatile, feature-rich, efficient logging API and backend for Java.
@@ -326,6 +330,9 @@
 
 ## Python
 
+* 【2023-03-23】[lllyasviel / AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Remove adversarial noise from images
+* 【2023-03-23】[LianjiaTech / BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）
+* 【2023-03-23】[deforum-art / sd-webui-modelscope-text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video) - Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies
 * 【2023-03-22】[mymusise / ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning) - 一种平价的chatgpt实现方案, 基于ChatGLM-6B
 * 【2023-03-22】[microsoft / LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 * 【2023-03-22】[Ciphey / Ciphey](https://github.com/Ciphey/Ciphey) - ⚡Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes⚡
@@ -488,6 +495,8 @@
 
 ## Javascript
 
+* 【2023-03-23】[yoimiya-kokomi / Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
+* 【2023-03-23】[WebBreacher / obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did there?) between how you record your data during an investigation and some of what the tool can offer FOR FREE!
 * 【2023-03-22】[zahidkhawaja / langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
 * 【2023-03-22】[Skoolgq / skoolv2](https://github.com/Skoolgq/skoolv2) - pls star if you fork :)
 * 【2023-03-21】[adrianhajdin / project_react_native_jobs](https://github.com/adrianhajdin/project_react_native_jobs) - 
@@ -648,6 +657,7 @@
 
 ## Go
 
+* 【2023-03-23】[rakyll / hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 * 【2023-03-22】[jhaddix / awsScrape](https://github.com/jhaddix/awsScrape) - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 * 【2023-03-22】[wdvxdr1123 / ZeroBot](https://github.com/wdvxdr1123/ZeroBot) - 一个基于onebot协议的机器人Go开发框架
 * 【2023-03-22】[FloatTech / ZeroBot-Plugin-Playground](https://github.com/FloatTech/ZeroBot-Plugin-Playground) - 快来这里上传你的奇思妙想吧！
@@ -741,6 +751,9 @@
 
 ## C
 
+* 【2023-03-23】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
+* 【2023-03-23】[MellowNight / 2D-Injector](https://github.com/MellowNight/2D-Injector) - Hiding unsigned DLL inside a signed DLL
+* 【2023-03-23】[Lorenzooone / Pokemon-Gen3-to-Gen-X](https://github.com/Lorenzooone/Pokemon-Gen3-to-Gen-X) - GBA Homebrew for trading Pokémon between Gen 3 and Gen 1/2, as well as editing Clock Settings.
 * 【2023-03-22】[YakshaLang / Yaksha](https://github.com/YakshaLang/Yaksha) - Yaksha Programming Language (WIP)
 * 【2023-03-22】[GaryOderNichts / mdinfo](https://github.com/GaryOderNichts/mdinfo) - Quick and simple tool to display info about IOSU's memory devices
 * 【2023-03-21】[GaryOderNichts / udpih](https://github.com/GaryOderNichts/udpih) - Exploit for the Wii U's USB Host Stack
@@ -832,6 +845,9 @@
 
 ## C++
 
+* 【2023-03-23】[ytsaurus / ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
+* 【2023-03-23】[hasherezade / tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
+* 【2023-03-23】[hku-mars / Point-LIO](https://github.com/hku-mars/Point-LIO) - 
 * 【2023-03-22】[UniversalRobots / Universal_Robots_ROS2_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - Universal Robots ROS2 driver supporting CB3 and e-Series
 * 【2023-03-22】[man-group / ArcticDB](https://github.com/man-group/ArcticDB) - 
 * 【2023-03-22】[google / tcmalloc](https://github.com/google/tcmalloc) - 
@@ -931,6 +947,7 @@
 
 ## C#
 
+* 【2023-03-23】[jamesmh / coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 * 【2023-03-22】[snowflakedb / snowflake-connector-net](https://github.com/snowflakedb/snowflake-connector-net) - Snowflake Connector for .NET
 * 【2023-03-19】[sqrtZeroKnowledge / CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
 * 【2023-03-19】[VRCFury / VRCFury](https://github.com/VRCFury/VRCFury) - Non-Destructive Tools for VRChat Avatars
@@ -1020,6 +1037,9 @@
 
 ## Html
 
+* 【2023-03-23】[jiep / offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
+* 【2023-03-23】[ekoerp1 / eaglercraft-1.15-Final-Release](https://github.com/ekoerp1/eaglercraft-1.15-Final-Release) - Last release of eaglecraft before it was deleted use the new url
+* 【2023-03-23】[Slope-Game / Slope-Game.github.io](https://github.com/Slope-Game/Slope-Game.github.io) - Slope Game Unblocked
 * 【2023-03-21】[abuseofnotation / category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated) - A book about category theory
 * 【2023-03-20】[amazonlinux / amazon-linux-2023](https://github.com/amazonlinux/amazon-linux-2023) - Amazon Linux 2023
 * 【2023-03-20】[drshahizan / special-topic-data-engineering](https://github.com/drshahizan/special-topic-data-engineering) - This course presents to the students recent research and industrial issues pertaining to data engineering, database systems and technologies. Various topics of interests that are directly or indirectly affecting or are being influenced by data engineering, database systems and technologies are explored and discussed.
@@ -1110,6 +1130,11 @@
 
 ## Css
 
+* 【2023-03-23】[NYRI4 / Couve](https://github.com/NYRI4/Couve) - A new look to discord
+* 【2023-03-23】[CapnKitten / Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
+* 【2023-03-23】[ShadowDevilsAvenged / ShadowDevilsAvenged](https://github.com/ShadowDevilsAvenged/ShadowDevilsAvenged) - Devil's Theme Network
+* 【2023-03-23】[CommandCrafterHD / Fallout4TerminalTheme](https://github.com/CommandCrafterHD/Fallout4TerminalTheme) - 
+* 【2023-03-23】[CapnKitten / Translucence](https://github.com/CapnKitten/Translucence) - A translucent/frosted glass theme for Discord
 * 【2023-03-22】[PlusInsta / discord-plus](https://github.com/PlusInsta/discord-plus) - A sleek, customizable Discord theme.
 * 【2023-03-22】[DevEvil99 / DarkPlus-Discord-Theme](https://github.com/DevEvil99/DarkPlus-Discord-Theme) - Highly customized dark and purple theme for discord
 * 【2023-03-22】[AlexisJonsson / AlexisJonsson.github.io](https://github.com/AlexisJonsson/AlexisJonsson.github.io) - 
@@ -1232,6 +1257,10 @@
 
 ## Unknown
 
+* 【2023-03-23】[sw-yx / spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂2000+ ways to add design flair, user delight, and whimsy to your product.
+* 【2023-03-23】[LangLangShanDeNanKe / chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
+* 【2023-03-23】[radi-cho / awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of tools and resources regarding the GPT-4 language model.
+* 【2023-03-23】[Grilogos / Pancakeswap-Sniper-Bot-Free-BSC-Sniper-Bot](https://github.com/Grilogos/Pancakeswap-Sniper-Bot-Free-BSC-Sniper-Bot) - The Sniper Bot https://thesniperbot.io - Please visit our website for more details. Pancakeswap bot, Pancakeswap Sniper bot.
 * 【2023-03-22】[marcianotech / prompts](https://github.com/marcianotech/prompts) - 
 * 【2023-03-22】[npmaile / blog](https://github.com/npmaile/blog) - 
 * 【2023-03-22】[ignis-sec / Pwdb-Public](https://github.com/ignis-sec/Pwdb-Public) - A collection of all the data i could extract from 1 billion leaked credentials from internet.
