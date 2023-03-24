@@ -6,6 +6,9 @@
 
 ## All language
 
+* 【2023-03-24】[NVIDIAGameWorks / Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) - Real-time path tracing library and sample
+* 【2023-03-24】[typst / typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+* 【2023-03-24】[ryh04x / CEH-Exam-Questions](https://github.com/ryh04x/CEH-Exam-Questions) - Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to help you prep for the test
 * 【2023-03-23】[deep-diver / Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve) - Alpaca-LoRA as Chatbot service
 * 【2023-03-23】[pelennor2170 / NAM_models](https://github.com/pelennor2170/NAM_models) - A repository collecting model files for Neural Amp Modeler (NAM) all in one place
 * 【2023-03-23】[Beomi / KoAlpaca](https://github.com/Beomi/KoAlpaca) - KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)
@@ -242,6 +245,8 @@
 
 ## Java
 
+* 【2023-03-24】[JetBrains / JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
+* 【2023-03-24】[shinian-a / Vmq-App](https://github.com/shinian-a/Vmq-App) - V免签监控端：该软件是基于V免签开发一款免root和免框架Android收款监听软件，修复回调增加店员监听，陆续增加商家码监听，支持通知栏常驻提示，增加Log监听回调面板错误日志显示-在线反馈等功能
 * 【2023-03-23】[maciejwalkowiak / spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
 * 【2023-03-21】[ashinnotfound / ChatGPT-YourChatRobot](https://github.com/ashinnotfound/ChatGPT-YourChatRobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 * 【2023-03-20】[apache / incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
@@ -330,6 +335,11 @@
 
 ## Python
 
+* 【2023-03-24】[cvlab-columbia / zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/
+* 【2023-03-24】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
+* 【2023-03-24】[nsarrazin / serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+* 【2023-03-24】[zphang / minimal-llama](https://github.com/zphang/minimal-llama) - 
+* 【2023-03-24】[we0091234 / crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
 * 【2023-03-23】[lllyasviel / AdverseCleaner](https://github.com/lllyasviel/AdverseCleaner) - Remove adversarial noise from images
 * 【2023-03-23】[LianjiaTech / BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）
 * 【2023-03-23】[deforum-art / sd-webui-modelscope-text2video](https://github.com/deforum-art/sd-webui-modelscope-text2video) - Auto1111 extension consisting of implementation of ModelScope text2video using only Auto1111 webui dependencies
@@ -495,6 +505,8 @@
 
 ## Javascript
 
+* 【2023-03-24】[neal-zhu / arbclaim](https://github.com/neal-zhu/arbclaim) - 
+* 【2023-03-24】[OpenDriveLab / UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Award Candidate] Goal-oriented Autonomous Driving
 * 【2023-03-23】[yoimiya-kokomi / Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
 * 【2023-03-23】[WebBreacher / obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates) - These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did there?) between how you record your data during an investigation and some of what the tool can offer FOR FREE!
 * 【2023-03-22】[zahidkhawaja / langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs) - Next.js frontend for LangChain Chat.
@@ -657,6 +669,8 @@
 
 ## Go
 
+* 【2023-03-24】[amacneil / dbmate](https://github.com/amacneil/dbmate) - 🚀A lightweight, framework-agnostic database migration tool.
+* 【2023-03-24】[sozercan / kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨Kubectl plugin for OpenAI GPT
 * 【2023-03-23】[rakyll / hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 * 【2023-03-22】[jhaddix / awsScrape](https://github.com/jhaddix/awsScrape) - A tool to scrape the AWS ranges looking for a keyword in SSL certificate data.
 * 【2023-03-22】[wdvxdr1123 / ZeroBot](https://github.com/wdvxdr1123/ZeroBot) - 一个基于onebot协议的机器人Go开发框架
@@ -751,6 +765,9 @@
 
 ## C
 
+* 【2023-03-24】[Impalabs / CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326) - VM Escape for Parallels Desktop <18.1.1
+* 【2023-03-24】[mertdas / PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
+* 【2023-03-24】[cloudwu / neuralnet](https://github.com/cloudwu/neuralnet) - Toy neural network
 * 【2023-03-23】[lizrice / learning-ebpf](https://github.com/lizrice/learning-ebpf) - Learning eBPF, published by O'Reilly - out now! Here's where you'll find a VM config for the examples, and more
 * 【2023-03-23】[MellowNight / 2D-Injector](https://github.com/MellowNight/2D-Injector) - Hiding unsigned DLL inside a signed DLL
 * 【2023-03-23】[Lorenzooone / Pokemon-Gen3-to-Gen-X](https://github.com/Lorenzooone/Pokemon-Gen3-to-Gen-X) - GBA Homebrew for trading Pokémon between Gen 3 and Gen 1/2, as well as editing Clock Settings.
@@ -845,6 +862,12 @@
 
 ## C++
 
+* 【2023-03-24】[XaFF-XaFF / Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
+* 【2023-03-24】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
+* 【2023-03-24】[ropfuscator / ropfuscator](https://github.com/ropfuscator/ropfuscator) - ROPfuscator is a fine-grained code obfuscation framework for C/C++ programs using ROP (return-oriented programming).
+* 【2023-03-24】[mamba-org / mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
+* 【2023-03-24】[TheCruZ / kdmapper](https://github.com/TheCruZ/kdmapper) - KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory
+* 【2023-03-24】[rizsotto / Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 * 【2023-03-23】[ytsaurus / ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 * 【2023-03-23】[hasherezade / tiny_tracer](https://github.com/hasherezade/tiny_tracer) - A Pin Tool for tracing API calls etc
 * 【2023-03-23】[hku-mars / Point-LIO](https://github.com/hku-mars/Point-LIO) - 
@@ -947,6 +970,8 @@
 
 ## C#
 
+* 【2023-03-24】[VedalAI / neuro-amongus](https://github.com/VedalAI/neuro-amongus) - Among Us Plugin for Neuro-sama
+* 【2023-03-24】[hassanhabib / Standard.AI.OpenAI](https://github.com/hassanhabib/Standard.AI.OpenAI) - Standard-Compliant .NET library for Open AI
 * 【2023-03-23】[jamesmh / coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
 * 【2023-03-22】[snowflakedb / snowflake-connector-net](https://github.com/snowflakedb/snowflake-connector-net) - Snowflake Connector for .NET
 * 【2023-03-19】[sqrtZeroKnowledge / CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY) - Exploit for the CVE-2023-23397
@@ -1037,6 +1062,8 @@
 
 ## Html
 
+* 【2023-03-24】[WebCon-2023 / WebCon-2023](https://github.com/WebCon-2023/WebCon-2023) - A 30 day Web Development bootcamp organised by TinkerHubs of UCEK, CET, LBSITW, CEC, GCEB and TKMCE
+* 【2023-03-24】[OutRed / outred.github.io](https://github.com/OutRed/outred.github.io) - A website featuring lots of games, unblockers, clean UI, and more.
 * 【2023-03-23】[jiep / offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 * 【2023-03-23】[ekoerp1 / eaglercraft-1.15-Final-Release](https://github.com/ekoerp1/eaglercraft-1.15-Final-Release) - Last release of eaglecraft before it was deleted use the new url
 * 【2023-03-23】[Slope-Game / Slope-Game.github.io](https://github.com/Slope-Game/Slope-Game.github.io) - Slope Game Unblocked
@@ -1130,6 +1157,11 @@
 
 ## Css
 
+* 【2023-03-24】[steshaw / plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
+* 【2023-03-24】[cechirita / tehnici-web](https://github.com/cechirita/tehnici-web) - Curs Tehnici Web FMI 2022-2023
+* 【2023-03-24】[spec-nith / WebStar](https://github.com/spec-nith/WebStar) - 
+* 【2023-03-24】[eduardojesus12 / codigo-otros-1](https://github.com/eduardojesus12/codigo-otros-1) - Código de otros 1
+* 【2023-03-24】[tiredmala / Roundmoled](https://github.com/tiredmala/Roundmoled) - Simple but fancy Discord theme inspired by the AMOLED mode from Mobile, mixed with new rounded borders to the main sections of the user interface for a cleaner look. Tested on Powercord and BetterDiscord
 * 【2023-03-23】[NYRI4 / Couve](https://github.com/NYRI4/Couve) - A new look to discord
 * 【2023-03-23】[CapnKitten / Material-Discord](https://github.com/CapnKitten/Material-Discord) - Material design theme for Discord
 * 【2023-03-23】[ShadowDevilsAvenged / ShadowDevilsAvenged](https://github.com/ShadowDevilsAvenged/ShadowDevilsAvenged) - Devil's Theme Network
@@ -1257,6 +1289,13 @@
 
 ## Unknown
 
+* 【2023-03-24】[prompt-engineering / prompt-patterns](https://github.com/prompt-engineering/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+* 【2023-03-24】[Hari-prasaanth / Web-App-Pentest-Checklist](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist) - A OWASP Based Checklist With 500+ Test Cases
+* 【2023-03-24】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
+* 【2023-03-24】[ai-genie / chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
+* 【2023-03-24】[WynterJones / CoppieGPT](https://github.com/WynterJones/CoppieGPT) - CoppieGPT is a role for ChatGPT that rewrites any headline or content using up to 232 different copywriting frameworks and formulas.
+* 【2023-03-24】[AlexanderChen-Real / Awesome-ChatGPT-Chinese](https://github.com/AlexanderChen-Real/Awesome-ChatGPT-Chinese) - ChatGPT中文资料库：为了帮助广大的中文开发者和学习者更好地理解和运用OpenAI的ChatGPT技术而创建的。我们会在这个仓库中持续更新有关ChatGPT的教程，工具介绍，中文资料，包括但不限于工具使用教程、资料，论文、应用实例和ChatGPT社区等。
+* 【2023-03-24】[Nothing1024 / chatgpt-prompt-collection](https://github.com/Nothing1024/chatgpt-prompt-collection) - 
 * 【2023-03-23】[sw-yx / spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂2000+ ways to add design flair, user delight, and whimsy to your product.
 * 【2023-03-23】[LangLangShanDeNanKe / chatgpt](https://github.com/LangLangShanDeNanKe/chatgpt) - ChatGPT网址导航，分享免费好用AI网站！
 * 【2023-03-23】[radi-cho / awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of tools and resources regarding the GPT-4 language model.
