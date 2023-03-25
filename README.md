@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-03-25】[LC1332 / Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) - 骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
+* 【2023-03-25】[codebdy / rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
+* 【2023-03-25】[evanw / thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
+* 【2023-03-25】[ddobokki / chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report) - 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포
+* 【2023-03-25】[lukasHoel / text2room](https://github.com/lukasHoel/text2room) - Text2Room generates textured 3D meshes from a given text prompt using 2D text-to-image models.
 * 【2023-03-24】[NVIDIAGameWorks / Path-Tracing-SDK](https://github.com/NVIDIAGameWorks/Path-Tracing-SDK) - Real-time path tracing library and sample
 * 【2023-03-24】[typst / typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 * 【2023-03-24】[ryh04x / CEH-Exam-Questions](https://github.com/ryh04x/CEH-Exam-Questions) - Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to help you prep for the test
@@ -335,6 +340,9 @@
 
 ## Python
 
+* 【2023-03-25】[gd3kr / BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
+* 【2023-03-25】[microsoft / MM-REACT](https://github.com/microsoft/MM-REACT) - Official repo for MM-REACT
+* 【2023-03-25】[taberoajorge / saime-script](https://github.com/taberoajorge/saime-script) - This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want
 * 【2023-03-24】[cvlab-columbia / zero123](https://github.com/cvlab-columbia/zero123) - Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/
 * 【2023-03-24】[yihong0618 / gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
 * 【2023-03-24】[nsarrazin / serge](https://github.com/nsarrazin/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -505,6 +513,10 @@
 
 ## Javascript
 
+* 【2023-03-25】[matter-labs / zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs) - zkSync Era Documentation
+* 【2023-03-25】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
+* 【2023-03-25】[SZharkov / arbitrum-airdrop-claimer](https://github.com/SZharkov/arbitrum-airdrop-claimer) - Bot to claim an ARB token airdrop and send to specified accounts. Pre-approve on DEXes included.
+* 【2023-03-25】[moment / luxon](https://github.com/moment/luxon) - ⏱A library for working with dates and times in JS
 * 【2023-03-24】[neal-zhu / arbclaim](https://github.com/neal-zhu/arbclaim) - 
 * 【2023-03-24】[OpenDriveLab / UniAD](https://github.com/OpenDriveLab/UniAD) - [CVPR 2023 Award Candidate] Goal-oriented Autonomous Driving
 * 【2023-03-23】[yoimiya-kokomi / Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
@@ -669,6 +681,8 @@
 
 ## Go
 
+* 【2023-03-25】[eolinker / apinto](https://github.com/eolinker/apinto) - 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性。
+* 【2023-03-25】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 * 【2023-03-24】[amacneil / dbmate](https://github.com/amacneil/dbmate) - 🚀A lightweight, framework-agnostic database migration tool.
 * 【2023-03-24】[sozercan / kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨Kubectl plugin for OpenAI GPT
 * 【2023-03-23】[rakyll / hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -765,6 +779,7 @@
 
 ## C
 
+* 【2023-03-25】[Thehepta / rxposed](https://github.com/Thehepta/rxposed) - 
 * 【2023-03-24】[Impalabs / CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326) - VM Escape for Parallels Desktop <18.1.1
 * 【2023-03-24】[mertdas / PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
 * 【2023-03-24】[cloudwu / neuralnet](https://github.com/cloudwu/neuralnet) - Toy neural network
@@ -970,6 +985,9 @@
 
 ## C#
 
+* 【2023-03-25】[WeakKnight / GDC23_PracticalMobileRendering](https://github.com/WeakKnight/GDC23_PracticalMobileRendering) - Demo for Practical High-Performance Rendering on Mobile Platforms (GDC 2023)
+* 【2023-03-25】[vu-ls / Crassus](https://github.com/vu-ls/Crassus) - 
+* 【2023-03-25】[SteveSandersonMS / DotNetIsolator](https://github.com/SteveSandersonMS/DotNetIsolator) - A library for running isolated .NET runtimes inside .NET
 * 【2023-03-24】[VedalAI / neuro-amongus](https://github.com/VedalAI/neuro-amongus) - Among Us Plugin for Neuro-sama
 * 【2023-03-24】[hassanhabib / Standard.AI.OpenAI](https://github.com/hassanhabib/Standard.AI.OpenAI) - Standard-Compliant .NET library for Open AI
 * 【2023-03-23】[jamesmh / coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
@@ -1062,6 +1080,8 @@
 
 ## Html
 
+* 【2023-03-25】[Spirit532 / studio_mic](https://github.com/Spirit532/studio_mic) - A simple, easy to build preamplifier for any true condenser capsule, to make a condenser microphone
+* 【2023-03-25】[cool-team-official / cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
 * 【2023-03-24】[WebCon-2023 / WebCon-2023](https://github.com/WebCon-2023/WebCon-2023) - A 30 day Web Development bootcamp organised by TinkerHubs of UCEK, CET, LBSITW, CEC, GCEB and TKMCE
 * 【2023-03-24】[OutRed / outred.github.io](https://github.com/OutRed/outred.github.io) - A website featuring lots of games, unblockers, clean UI, and more.
 * 【2023-03-23】[jiep / offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
@@ -1157,6 +1177,7 @@
 
 ## Css
 
+* 【2023-03-25】[monstrousdev / themes](https://github.com/monstrousdev/themes) - Discord themes
 * 【2023-03-24】[steshaw / plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 * 【2023-03-24】[cechirita / tehnici-web](https://github.com/cechirita/tehnici-web) - Curs Tehnici Web FMI 2022-2023
 * 【2023-03-24】[spec-nith / WebStar](https://github.com/spec-nith/WebStar) - 
@@ -1289,6 +1310,14 @@
 
 ## Unknown
 
+* 【2023-03-25】[Ansem-SoD / Picofly](https://github.com/Ansem-SoD/Picofly) - Information and firmware related to the rp2040-zero based chip for the switch.
+* 【2023-03-25】[programthink / sites](https://github.com/programthink/sites) - 【编程随想】收藏的各色网站
+* 【2023-03-25】[programthink / opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
+* 【2023-03-25】[TREE-Ind / UnrealGPT](https://github.com/TREE-Ind/UnrealGPT) - A collection of Unreal Engine 5 Editor Utility widgets powered by GPT3/4
+* 【2023-03-25】[v2018z / xueXiQiangguo](https://github.com/v2018z/xueXiQiangguo) - 学习强国 积分 自动 阅读 答题 - 支持每日、每周、专项答题
+* 【2023-03-25】[serhii-londar / open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+* 【2023-03-25】[alisolanki / Welcome-to-Open-Source](https://github.com/alisolanki/Welcome-to-Open-Source) - Make your first PR request! And enter the world of Open Source Contributions🍉
+* 【2023-03-25】[sachis00 / 1](https://github.com/sachis00/1) - 小红帽直播下载地址(二维码)(03.18更新)破解版下载https://xhm.live?invite_id=67059991
 * 【2023-03-24】[prompt-engineering / prompt-patterns](https://github.com/prompt-engineering/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 * 【2023-03-24】[Hari-prasaanth / Web-App-Pentest-Checklist](https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist) - A OWASP Based Checklist With 500+ Test Cases
 * 【2023-03-24】[cyberfascinate / ISC2-CC-Study-Material](https://github.com/cyberfascinate/ISC2-CC-Study-Material) - ISC2-CC-Study-Material
