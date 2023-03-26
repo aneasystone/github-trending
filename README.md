@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-03-26】[openai / chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
+* 【2023-03-26】[intitni / CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
+* 【2023-03-26】[cisagov / untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.
+* 【2023-03-26】[t3dotgg / chirp](https://github.com/t3dotgg/chirp) - 
+* 【2023-03-26】[hepengwei / visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈一个专注于前端视觉效果的集合应用(持续更新，点下关注，有更新及时通知)
 * 【2023-03-25】[LC1332 / Chinese-alpaca-lora](https://github.com/LC1332/Chinese-alpaca-lora) - 骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
 * 【2023-03-25】[codebdy / rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计
 * 【2023-03-25】[evanw / thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
@@ -250,6 +255,7 @@
 
 ## Java
 
+* 【2023-03-26】[netease-im / camellia](https://github.com/netease-im/camellia) - camellia framework by netease-im. provider: 1)redis-proxy, 2)delay-queue, 3)id-gen, 4)enhanced-redis-client, 5)enhanced-hbase-client, 6)enhanced-feign-client, 7)enhanced-spring-cache
 * 【2023-03-24】[JetBrains / JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 * 【2023-03-24】[shinian-a / Vmq-App](https://github.com/shinian-a/Vmq-App) - V免签监控端：该软件是基于V免签开发一款免root和免框架Android收款监听软件，修复回调增加店员监听，陆续增加商家码监听，支持通知栏常驻提示，增加Log监听回调面板错误日志显示-在线反馈等功能
 * 【2023-03-23】[maciejwalkowiak / spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
@@ -340,6 +346,11 @@
 
 ## Python
 
+* 【2023-03-26】[gururise / AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
+* 【2023-03-26】[binary-husky / chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
+* 【2023-03-26】[sahil280114 / codealpaca](https://github.com/sahil280114/codealpaca) - 
+* 【2023-03-26】[feizc / MLE-LLaMA](https://github.com/feizc/MLE-LLaMA) - Multi-language Enhanced LLaMA
+* 【2023-03-26】[an-Underpriviliged-ZJUer / Kaleidoscope](https://github.com/an-Underpriviliged-ZJUer/Kaleidoscope) - 不用找了。这里是全网最优解。免费且由个人开发，并且长期维护 python selenim QQ空间 虎牙 电影 微信 微博 抖音 知乎 B站 bili Bili 百度贴吧 小红书 tiktok youtube twitter 有颜色 爬虫
 * 【2023-03-25】[gd3kr / BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 * 【2023-03-25】[microsoft / MM-REACT](https://github.com/microsoft/MM-REACT) - Official repo for MM-REACT
 * 【2023-03-25】[taberoajorge / saime-script](https://github.com/taberoajorge/saime-script) - This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want
@@ -513,6 +524,9 @@
 
 ## Javascript
 
+* 【2023-03-26】[mholt / PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+* 【2023-03-26】[github / safe-settings](https://github.com/github/safe-settings) - 
+* 【2023-03-26】[susu-hu / susu-mini-tem](https://github.com/susu-hu/susu-mini-tem) - 微信小程序封装组件，覆盖常用需求：包括轮播组件（堆叠式轮播等）、canvas（圆环、生海报、裁图片等）、map、echarts、css3动画，scroll-view、步骤条、日历组件、自定义tabbar+导航栏、loading加载动画、css渐变、雪碧图、瀑布流、关键词高亮、搜索历史、图片懒加载、节流防抖、索引选择（如城市）、微信拆红包、红包雨、菜单弹出动画、3d云、按钮拖拽、营销组件（九宫格等）
 * 【2023-03-25】[matter-labs / zksync-web-era-docs](https://github.com/matter-labs/zksync-web-era-docs) - zkSync Era Documentation
 * 【2023-03-25】[doublespeakgames / adarkroom](https://github.com/doublespeakgames/adarkroom) - A Dark Room - A Minimalist Text Adventure
 * 【2023-03-25】[SZharkov / arbitrum-airdrop-claimer](https://github.com/SZharkov/arbitrum-airdrop-claimer) - Bot to claim an ARB token airdrop and send to specified accounts. Pre-approve on DEXes included.
@@ -779,6 +793,8 @@
 
 ## C
 
+* 【2023-03-26】[open-education-hub / operating-systems](https://github.com/open-education-hub/operating-systems) - Teaching resources (OER) for Operating Systems
+* 【2023-03-26】[TheRealOrange / icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 * 【2023-03-25】[Thehepta / rxposed](https://github.com/Thehepta/rxposed) - 
 * 【2023-03-24】[Impalabs / CVE-2023-27326](https://github.com/Impalabs/CVE-2023-27326) - VM Escape for Parallels Desktop <18.1.1
 * 【2023-03-24】[mertdas / PrivKit](https://github.com/mertdas/PrivKit) - PrivKit is a simple beacon object file that detects privilege escalation vulnerabilities caused by misconfigurations on Windows OS.
@@ -985,6 +1001,7 @@
 
 ## C#
 
+* 【2023-03-26】[horizon3ai / CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532) - POC for Veeam Backup and Replication CVE-2023-27532
 * 【2023-03-25】[WeakKnight / GDC23_PracticalMobileRendering](https://github.com/WeakKnight/GDC23_PracticalMobileRendering) - Demo for Practical High-Performance Rendering on Mobile Platforms (GDC 2023)
 * 【2023-03-25】[vu-ls / Crassus](https://github.com/vu-ls/Crassus) - 
 * 【2023-03-25】[SteveSandersonMS / DotNetIsolator](https://github.com/SteveSandersonMS/DotNetIsolator) - A library for running isolated .NET runtimes inside .NET
@@ -1080,6 +1097,8 @@
 
 ## Html
 
+* 【2023-03-26】[zfy2299 / test](https://github.com/zfy2299/test) - 
+* 【2023-03-26】[AutoMeter / AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) - AutoMeter-API是一款专门为测试人员准备的针对分布式服务，微服务API，接口，功能和性能一体的自动化测试平台，一站式解决项目管理，微服务，API接口，环境管理，测试用例，前置条件，变量管理，测试集合，测试计划，测试报告，支持分布式多机执行功能/性能测试兼容的一体化测试工作平台
 * 【2023-03-25】[Spirit532 / studio_mic](https://github.com/Spirit532/studio_mic) - A simple, easy to build preamplifier for any true condenser capsule, to make a condenser microphone
 * 【2023-03-25】[cool-team-official / cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建
 * 【2023-03-24】[WebCon-2023 / WebCon-2023](https://github.com/WebCon-2023/WebCon-2023) - A 30 day Web Development bootcamp organised by TinkerHubs of UCEK, CET, LBSITW, CEC, GCEB and TKMCE
@@ -1177,6 +1196,9 @@
 
 ## Css
 
+* 【2023-03-26】[wessamabdelwahab / scm](https://github.com/wessamabdelwahab/scm) - 
+* 【2023-03-26】[pglombardo / PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐An application to securely communicate passwords over the web. Passwords automatically expire after a certain number of views and/or time has passed. Track who, what and when.
+* 【2023-03-26】[maenDisease / BetterDiscordStuff](https://github.com/maenDisease/BetterDiscordStuff) - 
 * 【2023-03-25】[monstrousdev / themes](https://github.com/monstrousdev/themes) - Discord themes
 * 【2023-03-24】[steshaw / plt](https://github.com/steshaw/plt) - Programming Language Theory λΠ
 * 【2023-03-24】[cechirita / tehnici-web](https://github.com/cechirita/tehnici-web) - Curs Tehnici Web FMI 2022-2023
@@ -1310,6 +1332,11 @@
 
 ## Unknown
 
+* 【2023-03-26】[authorTom / ultimate-XR-dev-guide](https://github.com/authorTom/ultimate-XR-dev-guide) - A development resource list for all things XR
+* 【2023-03-26】[sui-foundation / sui-demo-day-hk](https://github.com/sui-foundation/sui-demo-day-hk) - 
+* 【2023-03-26】[davinci01010 / pinduoduo_backdoor_x](https://github.com/davinci01010/pinduoduo_backdoor_x) - 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引
+* 【2023-03-26】[yonggekkk / warp-yg](https://github.com/yonggekkk/warp-yg) - warp多功能一键脚本CFwarp，支持endpoint对端自选IP功能，实时查看当前VPS的IP对ChatGPT与奈飞Netflix的解锁情况
+* 【2023-03-26】[52CV / CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers) - 
 * 【2023-03-25】[Ansem-SoD / Picofly](https://github.com/Ansem-SoD/Picofly) - Information and firmware related to the rp2040-zero based chip for the switch.
 * 【2023-03-25】[programthink / sites](https://github.com/programthink/sites) - 【编程随想】收藏的各色网站
 * 【2023-03-25】[programthink / opensource](https://github.com/programthink/opensource) - 【编程随想】收藏的开源项目清单
