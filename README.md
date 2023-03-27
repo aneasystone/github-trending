@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-27】[databrickslabs / dolly](https://github.com/databrickslabs/dolly) - 
+* 【2023-03-27】[MarsX-dev / floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
+* 【2023-03-27】[Picsart-AI-Research / Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators
+* 【2023-03-27】[matter-labs / zksync-era](https://github.com/matter-labs/zksync-era) - zkSync era
 * 【2023-03-26】[openai / chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 
 * 【2023-03-26】[intitni / CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
 * 【2023-03-26】[cisagov / untitledgoosetool](https://github.com/cisagov/untitledgoosetool) - Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments.
@@ -255,6 +259,7 @@
 
 ## Java
 
+* 【2023-03-27】[akto-api-security / akto](https://github.com/akto-api-security/akto) - Instant, Open source API security → API discovery, automated business logic testing and runtime detection.
 * 【2023-03-26】[netease-im / camellia](https://github.com/netease-im/camellia) - camellia framework by netease-im. provider: 1)redis-proxy, 2)delay-queue, 3)id-gen, 4)enhanced-redis-client, 5)enhanced-hbase-client, 6)enhanced-feign-client, 7)enhanced-spring-cache
 * 【2023-03-24】[JetBrains / JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 * 【2023-03-24】[shinian-a / Vmq-App](https://github.com/shinian-a/Vmq-App) - V免签监控端：该软件是基于V免签开发一款免root和免框架Android收款监听软件，修复回调增加店员监听，陆续增加商家码监听，支持通知栏常驻提示，增加Log监听回调面板错误日志显示-在线反馈等功能
@@ -346,6 +351,9 @@
 
 ## Python
 
+* 【2023-03-27】[techwithtim / Python-Platformer](https://github.com/techwithtim/Python-Platformer) - 
+* 【2023-03-27】[deezer / spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
+* 【2023-03-27】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
 * 【2023-03-26】[gururise / AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned) - Alpaca dataset from Stanford, cleaned and curated
 * 【2023-03-26】[binary-husky / chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
 * 【2023-03-26】[sahil280114 / codealpaca](https://github.com/sahil280114/codealpaca) - 
@@ -524,6 +532,12 @@
 
 ## Javascript
 
+* 【2023-03-27】[remoblaser / cs2-beta-enroll-status](https://github.com/remoblaser/cs2-beta-enroll-status) - 
+* 【2023-03-27】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
+* 【2023-03-27】[cruip / open-react-template](https://github.com/cruip/open-react-template) - A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
+* 【2023-03-27】[ipfs / ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
+* 【2023-03-27】[xicilion / gptproxy](https://github.com/xicilion/gptproxy) - use gitlab api key to proxy openai api.
+* 【2023-03-27】[roomsense / homeassistant-dashboard](https://github.com/roomsense/homeassistant-dashboard) - This repository contains code and configurations to create a visually appealing dashboard for RoomSense IQ in Home Assistant. The solution offers real-time plotting capabilities with an update rate of 25ms, allowing users to monitor and analyze movement energy levels in real-time.
 * 【2023-03-26】[mholt / PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 * 【2023-03-26】[github / safe-settings](https://github.com/github/safe-settings) - 
 * 【2023-03-26】[susu-hu / susu-mini-tem](https://github.com/susu-hu/susu-mini-tem) - 微信小程序封装组件，覆盖常用需求：包括轮播组件（堆叠式轮播等）、canvas（圆环、生海报、裁图片等）、map、echarts、css3动画，scroll-view、步骤条、日历组件、自定义tabbar+导航栏、loading加载动画、css渐变、雪碧图、瀑布流、关键词高亮、搜索历史、图片懒加载、节流防抖、索引选择（如城市）、微信拆红包、红包雨、菜单弹出动画、3d云、按钮拖拽、营销组件（九宫格等）
@@ -695,6 +709,13 @@
 
 ## Go
 
+* 【2023-03-27】[viettranx / micro-clean-architecture-service-demo](https://github.com/viettranx/micro-clean-architecture-service-demo) - A demo microservice with Clean Architecture in practice
+* 【2023-03-27】[indeedeng / iwf](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction layer for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
+* 【2023-03-27】[pterm / pterm](https://github.com/pterm/pterm) - ✨#PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more🚀It's completely configurable and 100% cross-platform compatible.
+* 【2023-03-27】[AlexxIT / go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MJPEG, HomeKit, FFmpeg, etc.
+* 【2023-03-27】[supabase / gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens
+* 【2023-03-27】[tetratelabs / wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+* 【2023-03-27】[dkorunic / betteralign](https://github.com/dkorunic/betteralign) - Make your Go programs use less memory (maybe)
 * 【2023-03-25】[eolinker / apinto](https://github.com/eolinker/apinto) - 基于golang开发的网关。具有各种插件，可以自行扩展，即插即用。此外，它可以快速帮助企业管理API服务，提高API服务的稳定性和安全性。
 * 【2023-03-25】[prometheus-community / postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
 * 【2023-03-24】[amacneil / dbmate](https://github.com/amacneil/dbmate) - 🚀A lightweight, framework-agnostic database migration tool.
@@ -793,6 +814,8 @@
 
 ## C
 
+* 【2023-03-27】[TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
+* 【2023-03-27】[PotatoSpudowski / fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa) - Python wrapper to run llama.cpp👀
 * 【2023-03-26】[open-education-hub / operating-systems](https://github.com/open-education-hub/operating-systems) - Teaching resources (OER) for Operating Systems
 * 【2023-03-26】[TheRealOrange / icer_compression](https://github.com/TheRealOrange/icer_compression) - Progressive, error tolerant, wavelet-based image compression algorithm
 * 【2023-03-25】[Thehepta / rxposed](https://github.com/Thehepta/rxposed) - 
@@ -893,6 +916,7 @@
 
 ## C++
 
+* 【2023-03-27】[neverlosecc / source2sdk](https://github.com/neverlosecc/source2sdk) - Generated SDK for source2 engine games
 * 【2023-03-24】[XaFF-XaFF / Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
 * 【2023-03-24】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
 * 【2023-03-24】[ropfuscator / ropfuscator](https://github.com/ropfuscator/ropfuscator) - ROPfuscator is a fine-grained code obfuscation framework for C/C++ programs using ROP (return-oriented programming).
@@ -1001,6 +1025,9 @@
 
 ## C#
 
+* 【2023-03-27】[keijiro / StableDiffusionPlugin](https://github.com/keijiro/StableDiffusionPlugin) - Core ML Stable Diffusion on Unity
+* 【2023-03-27】[microsoft / kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
+* 【2023-03-27】[barncastle / Battle.Net-Installer](https://github.com/barncastle/Battle.Net-Installer) - A tool for installing, updating and repairing Blizzard games through Battle.net.
 * 【2023-03-26】[horizon3ai / CVE-2023-27532](https://github.com/horizon3ai/CVE-2023-27532) - POC for Veeam Backup and Replication CVE-2023-27532
 * 【2023-03-25】[WeakKnight / GDC23_PracticalMobileRendering](https://github.com/WeakKnight/GDC23_PracticalMobileRendering) - Demo for Practical High-Performance Rendering on Mobile Platforms (GDC 2023)
 * 【2023-03-25】[vu-ls / Crassus](https://github.com/vu-ls/Crassus) - 
@@ -1097,6 +1124,9 @@
 
 ## Html
 
+* 【2023-03-27】[rammcodes / WowFolio](https://github.com/rammcodes/WowFolio) - Wowfolio🦄- A Simple & Clean Portfolio Template For Developers👨‍💻
+* 【2023-03-27】[drshahizan / learn-php](https://github.com/drshahizan/learn-php) - This course is designed to introduce students the fundamental of knowledge, technologies and components for web application developments. The basic topics includes the standard HTML for content creation, CSS for content presentation, JavaScript for client-side logics, PHP for server-side logics and MySQL for data processing.
+* 【2023-03-27】[coolwanglu / pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * 【2023-03-26】[zfy2299 / test](https://github.com/zfy2299/test) - 
 * 【2023-03-26】[AutoMeter / AutoMeter-API](https://github.com/AutoMeter/AutoMeter-API) - AutoMeter-API是一款专门为测试人员准备的针对分布式服务，微服务API，接口，功能和性能一体的自动化测试平台，一站式解决项目管理，微服务，API接口，环境管理，测试用例，前置条件，变量管理，测试集合，测试计划，测试报告，支持分布式多机执行功能/性能测试兼容的一体化测试工作平台
 * 【2023-03-25】[Spirit532 / studio_mic](https://github.com/Spirit532/studio_mic) - A simple, easy to build preamplifier for any true condenser capsule, to make a condenser microphone
