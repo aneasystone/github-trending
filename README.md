@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-28】[Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
+* 【2023-03-28】[vincanger / coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
+* 【2023-03-28】[motifland / markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
+* 【2023-03-28】[liyupi / yu-auto-reply](https://github.com/liyupi/yu-auto-reply) - AI 自动回复工具，支持灵活配置多个平台的监控和回答。目前已支持知识星球自动回复、OpenAI（ChatGPT）自动回答
 * 【2023-03-27】[databrickslabs / dolly](https://github.com/databrickslabs/dolly) - 
 * 【2023-03-27】[MarsX-dev / floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 * 【2023-03-27】[Picsart-AI-Research / Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators
@@ -259,6 +263,12 @@
 
 ## Java
 
+* 【2023-03-28】[hncboy / chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) - chatgpt-web 项目的 java 后台
+* 【2023-03-28】[gurinmd / ylab-lesson4-template](https://github.com/gurinmd/ylab-lesson4-template) - 
+* 【2023-03-28】[GregTechCEu / GregTechCEu-1.19](https://github.com/GregTechCEu/GregTechCEu-1.19) - GregTech CE Unofficial for 1.19 and beyond
+* 【2023-03-28】[algorithmzuo / algorithmbasic2020](https://github.com/algorithmzuo/algorithmbasic2020) - 算法和数据结构体系学习班
+* 【2023-03-28】[ytyht226 / taskflow](https://github.com/ytyht226/taskflow) - taskflow是一款轻量、简单易用、可灵活扩展的通用任务编排框架，基于有向无环图(DAG)的方式实现，框架提供了组件复用、同步/异步编排、条件判断、分支选择等能力，可以根据不同的业务场景对任意的业务流程进行编排
+* 【2023-03-28】[dromara / RuoYi-Cloud-Plus](https://github.com/dromara/RuoYi-Cloud-Plus) - 重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba Dubbo3.0 Sa-Token Mybatis-Plus MQ OSS ES Xxl-Job Docker 全方位升级 定期同步
 * 【2023-03-27】[akto-api-security / akto](https://github.com/akto-api-security/akto) - Instant, Open source API security → API discovery, automated business logic testing and runtime detection.
 * 【2023-03-26】[netease-im / camellia](https://github.com/netease-im/camellia) - camellia framework by netease-im. provider: 1)redis-proxy, 2)delay-queue, 3)id-gen, 4)enhanced-redis-client, 5)enhanced-hbase-client, 6)enhanced-feign-client, 7)enhanced-spring-cache
 * 【2023-03-24】[JetBrains / JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) - Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
@@ -351,6 +361,8 @@
 
 ## Python
 
+* 【2023-03-28】[GammaTauAI / reflexion-human-eval](https://github.com/GammaTauAI/reflexion-human-eval) - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
+* 【2023-03-28】[stochasticai / xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs
 * 【2023-03-27】[techwithtim / Python-Platformer](https://github.com/techwithtim/Python-Platformer) - 
 * 【2023-03-27】[deezer / spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 * 【2023-03-27】[mootdx / mootdx](https://github.com/mootdx/mootdx) - 通达信数据读取的一个简便使用封装
@@ -532,6 +544,8 @@
 
 ## Javascript
 
+* 【2023-03-28】[ed-roh / finance-app](https://github.com/ed-roh/finance-app) - 
+* 【2023-03-28】[dabit3 / gpt-fine-tuning-with-nodejs](https://github.com/dabit3/gpt-fine-tuning-with-nodejs) - GPT Fine-Tuning using Node.js - an easy to use starter project
 * 【2023-03-27】[remoblaser / cs2-beta-enroll-status](https://github.com/remoblaser/cs2-beta-enroll-status) - 
 * 【2023-03-27】[brianpetro / obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
 * 【2023-03-27】[cruip / open-react-template](https://github.com/cruip/open-react-template) - A free React landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
@@ -709,6 +723,7 @@
 
 ## Go
 
+* 【2023-03-28】[cherish-chat / xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 * 【2023-03-27】[viettranx / micro-clean-architecture-service-demo](https://github.com/viettranx/micro-clean-architecture-service-demo) - A demo microservice with Clean Architecture in practice
 * 【2023-03-27】[indeedeng / iwf](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction layer for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 * 【2023-03-27】[pterm / pterm](https://github.com/pterm/pterm) - ✨#PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more🚀It's completely configurable and 100% cross-platform compatible.
@@ -814,6 +829,7 @@
 
 ## C
 
+* 【2023-03-28】[ZeroMemoryEx / Chaos-Rootkit](https://github.com/ZeroMemoryEx/Chaos-Rootkit) - x64 ring0 Rootkit with Process Hiding and Privilege Escalation Capabilities
 * 【2023-03-27】[TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 * 【2023-03-27】[PotatoSpudowski / fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa) - Python wrapper to run llama.cpp👀
 * 【2023-03-26】[open-education-hub / operating-systems](https://github.com/open-education-hub/operating-systems) - Teaching resources (OER) for Operating Systems
@@ -916,6 +932,7 @@
 
 ## C++
 
+* 【2023-03-28】[1technophile / OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 * 【2023-03-27】[neverlosecc / source2sdk](https://github.com/neverlosecc/source2sdk) - Generated SDK for source2 engine games
 * 【2023-03-24】[XaFF-XaFF / Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
 * 【2023-03-24】[NVIDIA / cuda-quantum](https://github.com/NVIDIA/cuda-quantum) - C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows
@@ -1025,6 +1042,8 @@
 
 ## C#
 
+* 【2023-03-28】[sfewer-r7 / CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532) - Exploit for CVE-2023-27532 against Veeam Backup & Replication
+* 【2023-03-28】[indiff / qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
 * 【2023-03-27】[keijiro / StableDiffusionPlugin](https://github.com/keijiro/StableDiffusionPlugin) - Core ML Stable Diffusion on Unity
 * 【2023-03-27】[microsoft / kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 * 【2023-03-27】[barncastle / Battle.Net-Installer](https://github.com/barncastle/Battle.Net-Installer) - A tool for installing, updating and repairing Blizzard games through Battle.net.
@@ -1124,6 +1143,7 @@
 
 ## Html
 
+* 【2023-03-28】[josephrocca / OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using IndexedDB. Currently only supports OpenAI APIs, but can add more later.
 * 【2023-03-27】[rammcodes / WowFolio](https://github.com/rammcodes/WowFolio) - Wowfolio🦄- A Simple & Clean Portfolio Template For Developers👨‍💻
 * 【2023-03-27】[drshahizan / learn-php](https://github.com/drshahizan/learn-php) - This course is designed to introduce students the fundamental of knowledge, technologies and components for web application developments. The basic topics includes the standard HTML for content creation, CSS for content presentation, JavaScript for client-side logics, PHP for server-side logics and MySQL for data processing.
 * 【2023-03-27】[coolwanglu / pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -1226,6 +1246,8 @@
 
 ## Css
 
+* 【2023-03-28】[cgiesche / streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
+* 【2023-03-28】[gitdagray / next-js-course](https://github.com/gitdagray/next-js-course) - 
 * 【2023-03-26】[wessamabdelwahab / scm](https://github.com/wessamabdelwahab/scm) - 
 * 【2023-03-26】[pglombardo / PasswordPusher](https://github.com/pglombardo/PasswordPusher) - 🔐An application to securely communicate passwords over the web. Passwords automatically expire after a certain number of views and/or time has passed. Track who, what and when.
 * 【2023-03-26】[maenDisease / BetterDiscordStuff](https://github.com/maenDisease/BetterDiscordStuff) - 
@@ -1362,6 +1384,8 @@
 
 ## Unknown
 
+* 【2023-03-28】[skyzh / typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
+* 【2023-03-28】[hollance / neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE)
 * 【2023-03-26】[authorTom / ultimate-XR-dev-guide](https://github.com/authorTom/ultimate-XR-dev-guide) - A development resource list for all things XR
 * 【2023-03-26】[sui-foundation / sui-demo-day-hk](https://github.com/sui-foundation/sui-demo-day-hk) - 
 * 【2023-03-26】[davinci01010 / pinduoduo_backdoor_x](https://github.com/davinci01010/pinduoduo_backdoor_x) - 对拼多多app利用0day漏洞控制用户手机及窃取数据的分析，含分析指引
