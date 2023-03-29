@@ -6,6 +6,10 @@
 
 ## All language
 
+* 【2023-03-29】[m1guelpf / browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
+* 【2023-03-29】[keijiro / UnityMLStableDiffusion](https://github.com/keijiro/UnityMLStableDiffusion) - Core ML Stable Diffusion on Unity
+* 【2023-03-29】[yuanzhoulvpi2017 / zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp) - 中文nlp应用(数据、模型、训练、推理) chatglm6b
+* 【2023-03-29】[requarks / wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 * 【2023-03-28】[Yidadaa / ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - 一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.
 * 【2023-03-28】[vincanger / coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 * 【2023-03-28】[motifland / markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
@@ -263,6 +267,9 @@
 
 ## Java
 
+* 【2023-03-29】[LaurieWired / JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
+* 【2023-03-29】[Doikki / DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer) - Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜
+* 【2023-03-29】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
 * 【2023-03-28】[hncboy / chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) - chatgpt-web 项目的 java 后台
 * 【2023-03-28】[gurinmd / ylab-lesson4-template](https://github.com/gurinmd/ylab-lesson4-template) - 
 * 【2023-03-28】[GregTechCEu / GregTechCEu-1.19](https://github.com/GregTechCEu/GregTechCEu-1.19) - GregTech CE Unofficial for 1.19 and beyond
@@ -361,6 +368,10 @@
 
 ## Python
 
+* 【2023-03-29】[jamesturk / scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻Experimental library for scraping websites using OpenAI's GPT API.
+* 【2023-03-29】[Kent0n-Li / ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
+* 【2023-03-29】[continuum-llms / chatgpt-memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
+* 【2023-03-29】[peasoft / NoMoreWalls](https://github.com/peasoft/NoMoreWalls) - 自动抓取部分不提供订阅的公开节点。
 * 【2023-03-28】[GammaTauAI / reflexion-human-eval](https://github.com/GammaTauAI/reflexion-human-eval) - An implementation of a Reflexion agent for SOTA Human-Eval Python results.
 * 【2023-03-28】[stochasticai / xturing](https://github.com/stochasticai/xturing) - Build and control your own LLMs
 * 【2023-03-27】[techwithtim / Python-Platformer](https://github.com/techwithtim/Python-Platformer) - 
@@ -544,6 +555,9 @@
 
 ## Javascript
 
+* 【2023-03-29】[PBI-David / Deneb-Showcase](https://github.com/PBI-David/Deneb-Showcase) - 
+* 【2023-03-29】[timqian / openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+* 【2023-03-29】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝的主要用途就是辅助基于微信私域流量的获取工作，可以减轻人力，有效降低资源损失、流量流失的几率。这是一个开源、免费、活码管理平台，便于协助自己、他人进行微信私域流量资源获取，更大化地进行营销推广活动！降低运营成本，提高工作效率，获取更多资源。
 * 【2023-03-28】[ed-roh / finance-app](https://github.com/ed-roh/finance-app) - 
 * 【2023-03-28】[dabit3 / gpt-fine-tuning-with-nodejs](https://github.com/dabit3/gpt-fine-tuning-with-nodejs) - GPT Fine-Tuning using Node.js - an easy to use starter project
 * 【2023-03-27】[remoblaser / cs2-beta-enroll-status](https://github.com/remoblaser/cs2-beta-enroll-status) - 
@@ -723,6 +737,7 @@
 
 ## Go
 
+* 【2023-03-29】[fafrd / aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 * 【2023-03-28】[cherish-chat / xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 * 【2023-03-27】[viettranx / micro-clean-architecture-service-demo](https://github.com/viettranx/micro-clean-architecture-service-demo) - A demo microservice with Clean Architecture in practice
 * 【2023-03-27】[indeedeng / iwf](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction layer for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
@@ -829,6 +844,11 @@
 
 ## C
 
+* 【2023-03-29】[momika233 / AM0N-Eye](https://github.com/momika233/AM0N-Eye) - 
+* 【2023-03-29】[Facico / Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+* 【2023-03-29】[Avienma / DumpHash](https://github.com/Avienma/DumpHash) - 一款dump hash工具配合后渗透的利用
+* 【2023-03-29】[S3N4T0R-0X0 / AMON-Eye](https://github.com/S3N4T0R-0X0/AMON-Eye) - 
+* 【2023-03-29】[monero-project / monero-gui](https://github.com/monero-project/monero-gui) - Monero: the secure, private, untraceable cryptocurrency
 * 【2023-03-28】[ZeroMemoryEx / Chaos-Rootkit](https://github.com/ZeroMemoryEx/Chaos-Rootkit) - x64 ring0 Rootkit with Process Hiding and Privilege Escalation Capabilities
 * 【2023-03-27】[TsudaKageyu / minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 * 【2023-03-27】[PotatoSpudowski / fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa) - Python wrapper to run llama.cpp👀
@@ -932,6 +952,9 @@
 
 ## C++
 
+* 【2023-03-29】[TheD1rkMtr / HeapCrypt](https://github.com/TheD1rkMtr/HeapCrypt) - Encypting the Heap while sleeping by hooking and modifying Sleep with our own sleep that encrypts the heap
+* 【2023-03-29】[kevbit / CompetitiveProgramming](https://github.com/kevbit/CompetitiveProgramming) - Solutions for various competitive programming problems
+* 【2023-03-29】[dcajasn / Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python
 * 【2023-03-28】[1technophile / OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility, SMS & LORA.
 * 【2023-03-27】[neverlosecc / source2sdk](https://github.com/neverlosecc/source2sdk) - Generated SDK for source2 engine games
 * 【2023-03-24】[XaFF-XaFF / Black-Angel-Rootkit](https://github.com/XaFF-XaFF/Black-Angel-Rootkit) - Black Angel is a Windows 11/10 x64 kernel mode rootkit. Rootkit can be loaded with enabled DSE while maintaining its full functionality.
@@ -1042,6 +1065,8 @@
 
 ## C#
 
+* 【2023-03-29】[micahmo / WgServerforWindows](https://github.com/micahmo/WgServerforWindows) - Wg Server for Windows (WS4W) is a desktop application that allows running and managing a WireGuard server endpoint on Windows
+* 【2023-03-29】[CarterCommunity / Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 * 【2023-03-28】[sfewer-r7 / CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532) - Exploit for CVE-2023-27532 against Veeam Backup & Replication
 * 【2023-03-28】[indiff / qttabbar](https://github.com/indiff/qttabbar) - Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer. https://www.yuque.com/indiff/qttabbar
 * 【2023-03-27】[keijiro / StableDiffusionPlugin](https://github.com/keijiro/StableDiffusionPlugin) - Core ML Stable Diffusion on Unity
@@ -1143,6 +1168,8 @@
 
 ## Html
 
+* 【2023-03-29】[devopshobbies / docker-templates](https://github.com/devopshobbies/docker-templates) - We are trying to create some practical examples for each language and you can use them in your personal projects. do not hesitate to contribute please
+* 【2023-03-29】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
 * 【2023-03-28】[josephrocca / OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using IndexedDB. Currently only supports OpenAI APIs, but can add more later.
 * 【2023-03-27】[rammcodes / WowFolio](https://github.com/rammcodes/WowFolio) - Wowfolio🦄- A Simple & Clean Portfolio Template For Developers👨‍💻
 * 【2023-03-27】[drshahizan / learn-php](https://github.com/drshahizan/learn-php) - This course is designed to introduce students the fundamental of knowledge, technologies and components for web application developments. The basic topics includes the standard HTML for content creation, CSS for content presentation, JavaScript for client-side logics, PHP for server-side logics and MySQL for data processing.
@@ -1246,6 +1273,8 @@
 
 ## Css
 
+* 【2023-03-29】[thielenunes / instagraminho](https://github.com/thielenunes/instagraminho) - 
+* 【2023-03-29】[treyspectre / vscodeUI](https://github.com/treyspectre/vscodeUI) - 
 * 【2023-03-28】[cgiesche / streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
 * 【2023-03-28】[gitdagray / next-js-course](https://github.com/gitdagray/next-js-course) - 
 * 【2023-03-26】[wessamabdelwahab / scm](https://github.com/wessamabdelwahab/scm) - 
@@ -1384,6 +1413,13 @@
 
 ## Unknown
 
+* 【2023-03-29】[cyb3rxp / awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
+* 【2023-03-29】[carteakey / server-compose](https://github.com/carteakey/server-compose) - A collection of sample docker compose files for self-hosted applications.
+* 【2023-03-29】[reorx / Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
+* 【2023-03-29】[CyberSecurityUP / Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations) - 
+* 【2023-03-29】[pr0gr4m / Newbie-Guideline](https://github.com/pr0gr4m/Newbie-Guideline) - 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서
+* 【2023-03-29】[CScorza / Analisi-Digital-Forense](https://github.com/CScorza/Analisi-Digital-Forense) - Strumenti di Acquisizione e Analisi di copie Forensi
+* 【2023-03-29】[bxpana / zkSync-Tips](https://github.com/bxpana/zkSync-Tips) - Tips for how to use zkSync
 * 【2023-03-28】[skyzh / typst-cv-template](https://github.com/skyzh/typst-cv-template) - Chi CV Template (For Typst)
 * 【2023-03-28】[hollance / neural-engine](https://github.com/hollance/neural-engine) - Everything we actually know about the Apple Neural Engine (ANE)
 * 【2023-03-26】[authorTom / ultimate-XR-dev-guide](https://github.com/authorTom/ultimate-XR-dev-guide) - A development resource list for all things XR
