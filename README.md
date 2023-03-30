@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2023-03-30】[visual-openllm / visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, 文心一言的开源版
+* 【2023-03-30】[snipe / snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
+* 【2023-03-30】[lxfater / Portal](https://github.com/lxfater/Portal) - 
+* 【2023-03-30】[di-sukharev / opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI to auto-generate impressive commits in 1 second🤯🔫
+* 【2023-03-30】[PhoebusSi / Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT) - We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data, and integrating more LLMs together for easy use. （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集,并在我们框架下集成进更多的LLM。）
+* 【2023-03-30】[KeXueShangWangkexue / KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy](https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy) - 科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网
 * 【2023-03-29】[m1guelpf / browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
 * 【2023-03-29】[keijiro / UnityMLStableDiffusion](https://github.com/keijiro/UnityMLStableDiffusion) - Core ML Stable Diffusion on Unity
 * 【2023-03-29】[yuanzhoulvpi2017 / zero_nlp](https://github.com/yuanzhoulvpi2017/zero_nlp) - 中文nlp应用(数据、模型、训练、推理) chatglm6b
@@ -368,6 +374,9 @@
 
 ## Python
 
+* 【2023-03-30】[sdatkinson / neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler) - Neural network emulator for guitar amplifiers.
+* 【2023-03-30】[jesselau76 / ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) - Enjoy reading with your favorite style.
+* 【2023-03-30】[weiyithu / SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [arxiv 2023] Multi-camera 3D Occupancy Prediction for Autonomous Driving
 * 【2023-03-29】[jamesturk / scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻Experimental library for scraping websites using OpenAI's GPT API.
 * 【2023-03-29】[Kent0n-Li / ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
 * 【2023-03-29】[continuum-llms / chatgpt-memory](https://github.com/continuum-llms/chatgpt-memory) - Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
@@ -555,6 +564,7 @@
 
 ## Javascript
 
+* 【2023-03-30】[KartikSingh023 / Sociopedia](https://github.com/KartikSingh023/Sociopedia) - Give it a Star
 * 【2023-03-29】[PBI-David / Deneb-Showcase](https://github.com/PBI-David/Deneb-Showcase) - 
 * 【2023-03-29】[timqian / openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 * 【2023-03-29】[likeyun / liKeYun_Ylb](https://github.com/likeyun/liKeYun_Ylb) - 引流宝的主要用途就是辅助基于微信私域流量的获取工作，可以减轻人力，有效降低资源损失、流量流失的几率。这是一个开源、免费、活码管理平台，便于协助自己、他人进行微信私域流量资源获取，更大化地进行营销推广活动！降低运营成本，提高工作效率，获取更多资源。
@@ -737,6 +747,10 @@
 
 ## Go
 
+* 【2023-03-30】[Mob2003 / rakshasa](https://github.com/Mob2003/rakshasa) - 基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具
+* 【2023-03-30】[szpnygo / VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由ChatGPT开发的项目。A project that is 99% developed by ChatGPT.
+* 【2023-03-30】[securego / gosec](https://github.com/securego/gosec) - Golang security checker
+* 【2023-03-30】[0xPolygonHermez / zkevm-node](https://github.com/0xPolygonHermez/zkevm-node) - Go implementation of a node that operates the Polygon zkEVM Network
 * 【2023-03-29】[fafrd / aquarium](https://github.com/fafrd/aquarium) - AI-controlled Linux Containers
 * 【2023-03-28】[cherish-chat / xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 * 【2023-03-27】[viettranx / micro-clean-architecture-service-demo](https://github.com/viettranx/micro-clean-architecture-service-demo) - A demo microservice with Clean Architecture in practice
@@ -952,6 +966,9 @@
 
 ## C++
 
+* 【2023-03-30】[rr-debugger / rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
+* 【2023-03-30】[zer0condition / ReverseKit](https://github.com/zer0condition/ReverseKit) - x64 Dynamic Reverse Engineering Toolkit
+* 【2023-03-30】[OpenNMT / CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
 * 【2023-03-29】[TheD1rkMtr / HeapCrypt](https://github.com/TheD1rkMtr/HeapCrypt) - Encypting the Heap while sleeping by hooking and modifying Sleep with our own sleep that encrypts the heap
 * 【2023-03-29】[kevbit / CompetitiveProgramming](https://github.com/kevbit/CompetitiveProgramming) - Solutions for various competitive programming problems
 * 【2023-03-29】[dcajasn / Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python
@@ -1065,6 +1082,7 @@
 
 ## C#
 
+* 【2023-03-30】[TechnitiumSoftware / DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 * 【2023-03-29】[micahmo / WgServerforWindows](https://github.com/micahmo/WgServerforWindows) - Wg Server for Windows (WS4W) is a desktop application that allows running and managing a WireGuard server endpoint on Windows
 * 【2023-03-29】[CarterCommunity / Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 * 【2023-03-28】[sfewer-r7 / CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532) - Exploit for CVE-2023-27532 against Veeam Backup & Replication
@@ -1168,6 +1186,7 @@
 
 ## Html
 
+* 【2023-03-30】[cveoy / chatgpt-web](https://github.com/cveoy/chatgpt-web) - 
 * 【2023-03-29】[devopshobbies / docker-templates](https://github.com/devopshobbies/docker-templates) - We are trying to create some practical examples for each language and you can use them in your personal projects. do not hesitate to contribute please
 * 【2023-03-29】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
 * 【2023-03-28】[josephrocca / OpenCharacters](https://github.com/josephrocca/OpenCharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using IndexedDB. Currently only supports OpenAI APIs, but can add more later.
@@ -1273,6 +1292,9 @@
 
 ## Css
 
+* 【2023-03-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
+* 【2023-03-30】[virtru / virtru-typography](https://github.com/virtru/virtru-typography) - One, consistent set of fonts for the Virtru brand.
+* 【2023-03-30】[careem / colosseum](https://github.com/careem/colosseum) - Colosseum - a Platform Integrity tool to overview and manage data
 * 【2023-03-29】[thielenunes / instagraminho](https://github.com/thielenunes/instagraminho) - 
 * 【2023-03-29】[treyspectre / vscodeUI](https://github.com/treyspectre/vscodeUI) - 
 * 【2023-03-28】[cgiesche / streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck
@@ -1413,6 +1435,14 @@
 
 ## Unknown
 
+* 【2023-03-30】[davincifans101 / pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report) - Maybe the most detailed analysis of pdd backdoors
+* 【2023-03-30】[yzfly / awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
+* 【2023-03-30】[alura-cursos / imersao-java-2](https://github.com/alura-cursos/imersao-java-2) - Imersão Java
+* 【2023-03-30】[junshutang / Make-It-3D](https://github.com/junshutang/Make-It-3D) - Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior
+* 【2023-03-30】[recorder1013 / pinduoduo_backdoor_recorder](https://github.com/recorder1013/pinduoduo_backdoor_recorder) - 拼多多利用漏洞攻击用户手机材料汇总&存证
+* 【2023-03-30】[orbstack / orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+* 【2023-03-30】[Jeadie / awesome-chatgpt-plugins](https://github.com/Jeadie/awesome-chatgpt-plugins) - A curated list of awesome ChatGPT plugins, demos and Posts
+* 【2023-03-30】[akl7777777 / free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, Supported GPT4.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持GPT4,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
 * 【2023-03-29】[cyb3rxp / awesome-soc](https://github.com/cyb3rxp/awesome-soc) - A collection of sources of documentation, as well as field best practices, to build/run a SOC
 * 【2023-03-29】[carteakey / server-compose](https://github.com/carteakey/server-compose) - A collection of sample docker compose files for self-hosted applications.
 * 【2023-03-29】[reorx / Share-to-ChatGPT-Shortcut](https://github.com/reorx/Share-to-ChatGPT-Shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
