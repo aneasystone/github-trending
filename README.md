@@ -6,6 +6,12 @@
 
 ## All language
 
+* 【2023-03-31】[Lightning-AI / lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2023-03-31】[nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+* 【2023-03-31】[TaxyAI / browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
+* 【2023-03-31】[ZrrSkywalker / LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) - Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters
+* 【2023-03-31】[ymcui / Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+* 【2023-03-31】[Kamilahsantos / Java-week-LinuxTips](https://github.com/Kamilahsantos/Java-week-LinuxTips) - Repositório com o conteúdo da Java Week da LinuxTips
 * 【2023-03-30】[visual-openllm / visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, 文心一言的开源版
 * 【2023-03-30】[snipe / snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 * 【2023-03-30】[lxfater / Portal](https://github.com/lxfater/Portal) - 
@@ -273,6 +279,7 @@
 
 ## Java
 
+* 【2023-03-31】[tzs919 / section12-nacos](https://github.com/tzs919/section12-nacos) - 
 * 【2023-03-29】[LaurieWired / JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
 * 【2023-03-29】[Doikki / DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer) - Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜
 * 【2023-03-29】[dromara / RuoYi-Vue-Plus](https://github.com/dromara/RuoYi-Vue-Plus) - 基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步
@@ -374,6 +381,11 @@
 
 ## Python
 
+* 【2023-03-31】[huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+* 【2023-03-31】[plasma-umass / ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
+* 【2023-03-31】[ShuhongChen / panic3d-anime-reconstruction](https://github.com/ShuhongChen/panic3d-anime-reconstruction) - CVPR 2023: PAniC-3D Stylized Single-view 3D Reconstruction from Portraits of Anime Characters
+* 【2023-03-31】[mlfoundations / open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
+* 【2023-03-31】[Cerebras / modelzoo](https://github.com/Cerebras/modelzoo) - 
 * 【2023-03-30】[sdatkinson / neural-amp-modeler](https://github.com/sdatkinson/neural-amp-modeler) - Neural network emulator for guitar amplifiers.
 * 【2023-03-30】[jesselau76 / ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) - Enjoy reading with your favorite style.
 * 【2023-03-30】[weiyithu / SurroundOcc](https://github.com/weiyithu/SurroundOcc) - [arxiv 2023] Multi-camera 3D Occupancy Prediction for Autonomous Driving
@@ -564,6 +576,12 @@
 
 ## Javascript
 
+* 【2023-03-31】[waylybaye / opencat.app](https://github.com/waylybaye/opencat.app) - https://opencat.app
+* 【2023-03-31】[souying / serverMmon](https://github.com/souying/serverMmon) - nodeJs、云探针、多服务器探针、云监控、多服务器云监控，演示：http://106.126.11.114:5880/
+* 【2023-03-31】[gitgjr / P2P-video-distribution-system](https://github.com/gitgjr/P2P-video-distribution-system) - Collaborative caching for HTTP video streaming
+* 【2023-03-31】[homanp / langchain-ui](https://github.com/homanp/langchain-ui) - 🧬The open source chat-ai toolkit
+* 【2023-03-31】[daodao97 / chatdoc](https://github.com/daodao97/chatdoc) - Chat with your doc by openai
+* 【2023-03-31】[tailwindlabs / prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) - A Prettier plugin for Tailwind CSS that automatically sorts classes based on our recommended class order.
 * 【2023-03-30】[KartikSingh023 / Sociopedia](https://github.com/KartikSingh023/Sociopedia) - Give it a Star
 * 【2023-03-29】[PBI-David / Deneb-Showcase](https://github.com/PBI-David/Deneb-Showcase) - 
 * 【2023-03-29】[timqian / openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
@@ -747,6 +765,9 @@
 
 ## Go
 
+* 【2023-03-31】[k8sgpt-ai / k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
+* 【2023-03-31】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
+* 【2023-03-31】[Kento-Sec / chatGPT-CodeReview](https://github.com/Kento-Sec/chatGPT-CodeReview) - 这是一个调用chatGPT进行代码审计的工具
 * 【2023-03-30】[Mob2003 / rakshasa](https://github.com/Mob2003/rakshasa) - 基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具
 * 【2023-03-30】[szpnygo / VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由ChatGPT开发的项目。A project that is 99% developed by ChatGPT.
 * 【2023-03-30】[securego / gosec](https://github.com/securego/gosec) - Golang security checker
@@ -858,6 +879,7 @@
 
 ## C
 
+* 【2023-03-31】[vanhoefm / macstealer](https://github.com/vanhoefm/macstealer) - 
 * 【2023-03-29】[momika233 / AM0N-Eye](https://github.com/momika233/AM0N-Eye) - 
 * 【2023-03-29】[Facico / Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
 * 【2023-03-29】[Avienma / DumpHash](https://github.com/Avienma/DumpHash) - 一款dump hash工具配合后渗透的利用
@@ -966,6 +988,11 @@
 
 ## C++
 
+* 【2023-03-31】[abcz316 / SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
+* 【2023-03-31】[wangzhaode / ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) - Pure C++, Easy Deploy ChatGLM-6B.
+* 【2023-03-31】[XaFF-XaFF / CaveCarver](https://github.com/XaFF-XaFF/CaveCarver) - CaveCarver - PE backdooring tool which utilizes and automates code cave technique
+* 【2023-03-31】[Eished / self-study-exam_notes](https://github.com/Eished/self-study-exam_notes) - 080901 计算机科学与技术 计算机信息管理 深圳大学自考本科学习笔记
+* 【2023-03-31】[matazure / prajna](https://github.com/matazure/prajna) - a program language for AI infrastructure
 * 【2023-03-30】[rr-debugger / rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 * 【2023-03-30】[zer0condition / ReverseKit](https://github.com/zer0condition/ReverseKit) - x64 Dynamic Reverse Engineering Toolkit
 * 【2023-03-30】[OpenNMT / CTranslate2](https://github.com/OpenNMT/CTranslate2) - Fast inference engine for Transformer models
@@ -1082,6 +1109,7 @@
 
 ## C#
 
+* 【2023-03-31】[kidagine / Darklings-FightingGame](https://github.com/kidagine/Darklings-FightingGame) - Darklings is an accessible F2P 2D fighting game with periodic updates (using Rollback Netcode).
 * 【2023-03-30】[TechnitiumSoftware / DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 * 【2023-03-29】[micahmo / WgServerforWindows](https://github.com/micahmo/WgServerforWindows) - Wg Server for Windows (WS4W) is a desktop application that allows running and managing a WireGuard server endpoint on Windows
 * 【2023-03-29】[CarterCommunity / Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
@@ -1186,6 +1214,11 @@
 
 ## Html
 
+* 【2023-03-31】[redteamguides / redteamguides.github.io](https://github.com/redteamguides/redteamguides.github.io) - redteamguides.com
+* 【2023-03-31】[hackthegamezjj / Blooket-Hacks](https://github.com/hackthegamezjj/Blooket-Hacks) - The Best Blooket Hack There is, Blooket Hack, Blooket Hacks
+* 【2023-03-31】[PrimeAcademy / assignment-unit-1](https://github.com/PrimeAcademy/assignment-unit-1) - 
+* 【2023-03-31】[yandex-praktikum / anfisa1sprint](https://github.com/yandex-praktikum/anfisa1sprint) - Учебный проект
+* 【2023-03-31】[CalvinWalzel / ruby-companies](https://github.com/CalvinWalzel/ruby-companies) - A list of companies that develop software with Ruby
 * 【2023-03-30】[cveoy / chatgpt-web](https://github.com/cveoy/chatgpt-web) - 
 * 【2023-03-29】[devopshobbies / docker-templates](https://github.com/devopshobbies/docker-templates) - We are trying to create some practical examples for each language and you can use them in your personal projects. do not hesitate to contribute please
 * 【2023-03-29】[arttoolkit / arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io) - A RedTeam Toolkit
@@ -1292,6 +1325,8 @@
 
 ## Css
 
+* 【2023-03-31】[muk-as / DOTA2_CLIENT](https://github.com/muk-as/DOTA2_CLIENT) - 
+* 【2023-03-31】[calcom / font](https://github.com/calcom/font) - The home for our Cal Sans font.
 * 【2023-03-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
 * 【2023-03-30】[virtru / virtru-typography](https://github.com/virtru/virtru-typography) - One, consistent set of fonts for the Virtru brand.
 * 【2023-03-30】[careem / colosseum](https://github.com/careem/colosseum) - Colosseum - a Platform Integrity tool to overview and manage data
@@ -1435,6 +1470,7 @@
 
 ## Unknown
 
+* 【2023-03-31】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 * 【2023-03-30】[davincifans101 / pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report) - Maybe the most detailed analysis of pdd backdoors
 * 【2023-03-30】[yzfly / awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 * 【2023-03-30】[alura-cursos / imersao-java-2](https://github.com/alura-cursos/imersao-java-2) - Imersão Java
