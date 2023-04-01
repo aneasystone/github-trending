@@ -6,6 +6,11 @@
 
 ## All language
 
+* 【2023-04-01】[PaperMC / Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+* 【2023-04-01】[gkamradt / langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
+* 【2023-04-01】[vocodedev / vocode-python](https://github.com/vocodedev/vocode-python) - 🤖Build voice-based LLM agents. Modular + open source.
+* 【2023-04-01】[osanseviero / ml_timeline](https://github.com/osanseviero/ml_timeline) - 
+* 【2023-04-01】[vfarid / cf-ip-scanner-py](https://github.com/vfarid/cf-ip-scanner-py) - Cloudflare's IP Scanner in Python
 * 【2023-03-31】[Lightning-AI / lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.
 * 【2023-03-31】[nomic-ai / gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 * 【2023-03-31】[TaxyAI / browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
@@ -279,6 +284,9 @@
 
 ## Java
 
+* 【2023-04-01】[awspring / spring-cloud-aws](https://github.com/awspring/spring-cloud-aws) - The New Home for Spring Cloud AWS
+* 【2023-04-01】[android / views-widgets-samples](https://github.com/android/views-widgets-samples) - Multiple samples showing the best practices in views-widgets on Android.
+* 【2023-04-01】[86dbs / dbsyncer](https://github.com/86dbs/dbsyncer) - DBSyncer（简称dbs）是一款开源的数据同步中间件，提供MySQL、Oracle、SqlServer、PostgreSQL、Elasticsearch(ES)、Kafka、File、SQL等同步场景。支持上传插件自定义同步转换业务，提供监控全量和增量数据统计图、应用性能预警等。
 * 【2023-03-31】[tzs919 / section12-nacos](https://github.com/tzs919/section12-nacos) - 
 * 【2023-03-29】[LaurieWired / JADXecute](https://github.com/LaurieWired/JADXecute) - JADX-gui scripting plugin for dynamic decompiler manipulation
 * 【2023-03-29】[Doikki / DKVideoPlayer](https://github.com/Doikki/DKVideoPlayer) - Android Video Player. 安卓视频播放器，封装MediaPlayer、ExoPlayer、IjkPlayer。模仿抖音并实现预加载，列表播放，悬浮播放，广告播放，弹幕，视频水印，视频滤镜
@@ -381,6 +389,7 @@
 
 ## Python
 
+* 【2023-04-01】[rifkat1985 / PancakeSwap-Sniper-Bot](https://github.com/rifkat1985/PancakeSwap-Sniper-Bot) - Pancakeswap Sniper bot written in python
 * 【2023-03-31】[huggingface / pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 * 【2023-03-31】[plasma-umass / ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
 * 【2023-03-31】[ShuhongChen / panic3d-anime-reconstruction](https://github.com/ShuhongChen/panic3d-anime-reconstruction) - CVPR 2023: PAniC-3D Stylized Single-view 3D Reconstruction from Portraits of Anime Characters
@@ -576,6 +585,9 @@
 
 ## Javascript
 
+* 【2023-04-01】[vfarid / v2ray-worker-sub](https://github.com/vfarid/v2ray-worker-sub) - A Cloudflare's Worker script to gather free v2ray configs and mix them with worker in order to make them work over filtered networks.
+* 【2023-04-01】[Tungchaphet / Chino-chan-Bot](https://github.com/Tungchaphet/Chino-chan-Bot) - Bot Messenger được tích hợp ChatGPT.
+* 【2023-04-01】[gt732 / FortiGPT](https://github.com/gt732/FortiGPT) - FortiGPT Troubleshooting Assistant is a web app that helps network administrators troubleshoot common networking issues using natural language processing. This app uses the FortiGate API and SSH to gather debug commands and sends them to the ChatGPT API for analysis.
 * 【2023-03-31】[waylybaye / opencat.app](https://github.com/waylybaye/opencat.app) - https://opencat.app
 * 【2023-03-31】[souying / serverMmon](https://github.com/souying/serverMmon) - nodeJs、云探针、多服务器探针、云监控、多服务器云监控，演示：http://106.126.11.114:5880/
 * 【2023-03-31】[gitgjr / P2P-video-distribution-system](https://github.com/gitgjr/P2P-video-distribution-system) - Collaborative caching for HTTP video streaming
@@ -765,6 +777,9 @@
 
 ## Go
 
+* 【2023-04-01】[AbelChe / evil_minio](https://github.com/AbelChe/evil_minio) - EXP for CVE-2023-28434 MinIO unauthorized to RCE
+* 【2023-04-01】[geekr-dev / openai-proxy](https://github.com/geekr-dev/openai-proxy) - 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）
+* 【2023-04-01】[hashicorp / vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) - The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
 * 【2023-03-31】[k8sgpt-ai / k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
 * 【2023-03-31】[goravel / goravel](https://github.com/goravel/goravel) - A Golang framework for web artisans. Tribute to Laravel.
 * 【2023-03-31】[Kento-Sec / chatGPT-CodeReview](https://github.com/Kento-Sec/chatGPT-CodeReview) - 这是一个调用chatGPT进行代码审计的工具
@@ -988,6 +1003,9 @@
 
 ## C++
 
+* 【2023-04-01】[robsoncouto / arduino-songs](https://github.com/robsoncouto/arduino-songs) - 
+* 【2023-04-01】[wjakob / nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
+* 【2023-04-01】[CoatiSoftware / Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 * 【2023-03-31】[abcz316 / SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 * 【2023-03-31】[wangzhaode / ChatGLM-MNN](https://github.com/wangzhaode/ChatGLM-MNN) - Pure C++, Easy Deploy ChatGLM-6B.
 * 【2023-03-31】[XaFF-XaFF / CaveCarver](https://github.com/XaFF-XaFF/CaveCarver) - CaveCarver - PE backdooring tool which utilizes and automates code cave technique
@@ -1109,6 +1127,10 @@
 
 ## C#
 
+* 【2023-04-01】[DragoQCC / HardHatC2](https://github.com/DragoQCC/HardHatC2) - A c# Command & Control framework
+* 【2023-04-01】[mixandjam / ThePathless-Gameplay](https://github.com/mixandjam/ThePathless-Gameplay) - Recreating the basic gameplay from The Pathless
+* 【2023-04-01】[DotNetNext / SqlSugar](https://github.com/DotNetNext/SqlSugar) - .Net ORM Fastest ORM Simple Easy Sqlite orm Oracle ORM Mysql Orm postgresql ORm SqlServer oRm 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb
+* 【2023-04-01】[SlimeNull / OpenGptChat](https://github.com/SlimeNull/OpenGptChat) - A simple OpenAI Chat completion GUI
 * 【2023-03-31】[kidagine / Darklings-FightingGame](https://github.com/kidagine/Darklings-FightingGame) - Darklings is an accessible F2P 2D fighting game with periodic updates (using Rollback Netcode).
 * 【2023-03-30】[TechnitiumSoftware / DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 * 【2023-03-29】[micahmo / WgServerforWindows](https://github.com/micahmo/WgServerforWindows) - Wg Server for Windows (WS4W) is a desktop application that allows running and managing a WireGuard server endpoint on Windows
@@ -1214,6 +1236,7 @@
 
 ## Html
 
+* 【2023-04-01】[shadowgmes / shadowgmes.github.io](https://github.com/shadowgmes/shadowgmes.github.io) - The best place to procrastinate. This is the game site that strives to be better than best. We don't focus on the little things, we go BIG.
 * 【2023-03-31】[redteamguides / redteamguides.github.io](https://github.com/redteamguides/redteamguides.github.io) - redteamguides.com
 * 【2023-03-31】[hackthegamezjj / Blooket-Hacks](https://github.com/hackthegamezjj/Blooket-Hacks) - The Best Blooket Hack There is, Blooket Hack, Blooket Hacks
 * 【2023-03-31】[PrimeAcademy / assignment-unit-1](https://github.com/PrimeAcademy/assignment-unit-1) - 
@@ -1325,6 +1348,11 @@
 
 ## Css
 
+* 【2023-04-01】[klarna / ui-css-components](https://github.com/klarna/ui-css-components) - Klarna's UI CSS Components
+* 【2023-04-01】[creativetimofficial / now-ui-dashboard-react](https://github.com/creativetimofficial/now-ui-dashboard-react) - React version of Now UI Dashboard
+* 【2023-04-01】[LuckFire / amoled-cord](https://github.com/LuckFire/amoled-cord) - A basically pitch black theme for Discord. Lights out, baby!
+* 【2023-04-01】[codebucks27 / Next.js-Developer-Portfolio-Starter-Code](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code) - ⭐Build a stunning portfolio website with Next.js, Tailwind CSS and Framer-motion. If you want to learn to create this you can follow the tutorial link given in the Read me file.
+* 【2023-04-01】[creativetimofficial / black-dashboard-django](https://github.com/creativetimofficial/black-dashboard-django) - Black Dashboard - Open-source Django Template | Creative-Tim
 * 【2023-03-31】[muk-as / DOTA2_CLIENT](https://github.com/muk-as/DOTA2_CLIENT) - 
 * 【2023-03-31】[calcom / font](https://github.com/calcom/font) - The home for our Cal Sans font.
 * 【2023-03-30】[refact0r / midnight-discord](https://github.com/refact0r/midnight-discord) - A dark, rounded discord theme.
@@ -1470,6 +1498,8 @@
 
 ## Unknown
 
+* 【2023-04-01】[XueFuzhao / InstructionWild](https://github.com/XueFuzhao/InstructionWild) - 
+* 【2023-04-01】[hiddify / awesome-freedom](https://github.com/hiddify/awesome-freedom) - In this repository we have collected all awesome tools for iranian people
 * 【2023-03-31】[ThePBone / awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 * 【2023-03-30】[davincifans101 / pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report) - Maybe the most detailed analysis of pdd backdoors
 * 【2023-03-30】[yzfly / awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
