@@ -2,6 +2,8 @@
 
 使用 [GitHub Actions](https://docs.github.com/cn/actions) 跟踪 [GitHub 趋势项目](https://github.com/trending)。
 
+具体教程可以 [参考这里](https://github.com/aneasystone/weekly-practice/blob/main/notes/week018-tracking-github-trending/README.md)。
+
 项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
 
 ## All language
