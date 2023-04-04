@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-04-04】[rustformers / llama-rs](https://github.com/rustformers/llama-rs) - Run LLaMA inference on CPU, with Rust🦀🚀🦙
+* 【2023-04-04】[OptimalScale / LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。
+* 【2023-04-04】[DeSinc / SallyBot](https://github.com/DeSinc/SallyBot) - AI Chatbot coded in Discord.net C#
 * 【2023-04-03】[twitter / the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 * 【2023-04-03】[twitter / the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
 * 【2023-04-03】[lm-sys / FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -39,6 +42,8 @@
 
 ## Java
 
+* 【2023-04-04】[bigintpro / csdn_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
+* 【2023-04-04】[twitter / Serial](https://github.com/twitter/Serial) - Light-weight, fast framework for object serialization in Java, with Android support.
 * 【2023-04-03】[twitter / sbf](https://github.com/twitter/sbf) - 
 * 【2023-04-03】[Moulberry / NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates) - 
 * 【2023-04-03】[DreamVoid / MiraiMC](https://github.com/DreamVoid/MiraiMC) - 适用于Minecraft服务器的Mirai机器人
@@ -49,6 +54,9 @@
 
 ## Python
 
+* 【2023-04-04】[e2b-dev / e2b](https://github.com/e2b-dev/e2b) - e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.
+* 【2023-04-04】[zhiyiYo / PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets) - A fluent design widgets library based on PyQt5
+* 【2023-04-04】[ai-sidekick / sidekick](https://github.com/ai-sidekick/sidekick) - Open source ETL framework for retrieval augmented generation (RAG). Sync data from your SaaS tools to a vector store, where they can be easily queried by GPT apps
 * 【2023-04-03】[dbolya / tomesd](https://github.com/dbolya/tomesd) - Speed up Stable Diffusion with this one simple trick!
 * 【2023-04-03】[mnielsen / neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 * 【2023-04-03】[yaroslaff / nudecrawler](https://github.com/yaroslaff/nudecrawler) - Crawl telegra.ph searching for nudes!
@@ -72,6 +80,10 @@
 
 ## Go
 
+* 【2023-04-04】[m1k1o / neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+* 【2023-04-04】[ConsenSys / gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+* 【2023-04-04】[twitter / go-bindata](https://github.com/twitter/go-bindata) - 
+* 【2023-04-04】[owasp-amass / amass](https://github.com/owasp-amass/amass) - In-depth Attack Surface Mapping and Asset Discovery
 * 【2023-04-03】[dolthub / swiss](https://github.com/dolthub/swiss) - Golang port of Abseil's SwissTable
 * 【2023-04-03】[traefik / yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 * 【2023-04-03】[aws / aws-application-networking-k8s](https://github.com/aws/aws-application-networking-k8s) - 
@@ -87,11 +99,16 @@
 
 ## C
 
+* 【2023-04-04】[curl / trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
+* 【2023-04-04】[arpitbbhayani / understanding-virtual-memory](https://github.com/arpitbbhayani/understanding-virtual-memory) - 
 * 【2023-04-03】[Xpndable / DotUI](https://github.com/Xpndable/DotUI) - MiniUI port for Miyoo Mini+
 * 【2023-04-03】[rvaiya / keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 
 ## C++
 
+* 【2023-04-04】[DS-Homebrew / TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
+* 【2023-04-04】[LibreSprite / LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+* 【2023-04-04】[robotdoly / DOLY-DIY](https://github.com/robotdoly/DOLY-DIY) - DIY Doly project
 * 【2023-04-03】[GeorgeWuzy / TCP-multi-threads-speedup](https://github.com/GeorgeWuzy/TCP-multi-threads-speedup) - 本项目利用多线程加速手段以及TCP通讯技术实现两台计算机协作执行，挖掘两个计算机的潜在算力。This project utilizes multi-threaded acceleration and TCP communication technology to collaborate the execution of two computers and exploit the potential computing power of both computers.
 * 【2023-04-03】[yangyang233333 / smallkv](https://github.com/yangyang233333/smallkv) - A small Key-Value storage engine written in C++.
 * 【2023-04-02】[ggerganov / kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️Acoustic keyboard eavesdropping
@@ -101,6 +118,8 @@
 
 ## C#
 
+* 【2023-04-04】[kannagi0303 / yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) - Windows GUI for yt-dlp
+* 【2023-04-04】[MishaTy / Rectify11Installer](https://github.com/MishaTy/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 * 【2023-04-03】[wubbl0rz / VmChamp](https://github.com/wubbl0rz/VmChamp) - Simple and fast creation of throwaway VMs on your local machine. Connect via SSH in just a few seconds.
 * 【2023-04-03】[0xb11a1 / yetAnotherObfuscator](https://github.com/0xb11a1/yetAnotherObfuscator) - C# obfuscator that bypass windows defender
 * 【2023-04-03】[itsmiracler / Practical-CleanArchitecture](https://github.com/itsmiracler/Practical-CleanArchitecture) - Asp.Net Core 6 Clean Architecture (Microservices + Dapr, Modular Monolith, Monolith)
@@ -115,6 +134,7 @@
 
 ## Html
 
+* 【2023-04-04】[mark-when / markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
 * 【2023-04-03】[SuperSimpleDev / javascript-course](https://github.com/SuperSimpleDev/javascript-course) - 
 * 【2023-04-03】[iDev-Games / Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
 * 【2023-04-02】[logankilpatrick / ChatGPT-Simple](https://github.com/logankilpatrick/ChatGPT-Simple) - Build a simple locally hosted version of ChatGPT in less than 100 lines of code
@@ -126,6 +146,7 @@
 
 ## Css
 
+* 【2023-04-04】[bobangajicsm / iphone-3d-website-starter](https://github.com/bobangajicsm/iphone-3d-website-starter) - 
 * 【2023-04-03】[guangzhengli / typora-ladder-theme](https://github.com/guangzhengli/typora-ladder-theme) - A typora theme based on LXGW font and Tailwindcss typography
 * 【2023-04-03】[l15y / wenda](https://github.com/l15y/wenda) - 闻达：一个大型语言模型调用平台。目前支持chatGLM-6B、chatRWKV、chatYuan和chatGLM-6B模型下的chatPDF（自建知识库查找）
 * 【2023-04-01】[klarna / ui-css-components](https://github.com/klarna/ui-css-components) - Klarna's UI CSS Components
@@ -136,6 +157,8 @@
 
 ## Unknown
 
+* 【2023-04-04】[chsiang426 / ML-2021-notes](https://github.com/chsiang426/ML-2021-notes) - 李宏毅老師 2021 年機器學習課程筆記
+* 【2023-04-04】[K-Render / best-chinese-prompt](https://github.com/K-Render/best-chinese-prompt) - AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理
 * 【2023-04-03】[hourbooster / Pancakeswap-sniper-bot](https://github.com/hourbooster/Pancakeswap-sniper-bot) - Pancakeswap Sniper bot written in python 3
 * 【2023-04-03】[MirageC79 / Interfaces-for-WobbleX-integration](https://github.com/MirageC79/Interfaces-for-WobbleX-integration) - CADs and STLs that can be adapted to various 3D printers in order to benefit from the best Z wobble management system.
 * 【2023-04-03】[jesselau76 / GPT-Prompts](https://github.com/jesselau76/GPT-Prompts) - Useful GPT Prompts
