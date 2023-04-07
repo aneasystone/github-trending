@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-04-07】[ai-forever / Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) - Kandinsky 2 — multilingual text2image latent diffusion model
+* 【2023-04-07】[nat / openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
+* 【2023-04-07】[easychen / chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版
+* 【2023-04-07】[project-baize / baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
+* 【2023-04-07】[Torantulino / AI-Functions](https://github.com/Torantulino/AI-Functions) - AI-Powered Function Magic: Never code again with GPT models!
 * 【2023-04-06】[yoheinakajima / babyagi](https://github.com/yoheinakajima/babyagi) - 
 * 【2023-04-06】[emcf / engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 * 【2023-04-06】[barretlee / cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
@@ -61,6 +66,11 @@
 
 ## Python
 
+* 【2023-04-07】[Jittor / JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
+* 【2023-04-07】[young-geng / EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
+* 【2023-04-07】[ViperX7 / Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
+* 【2023-04-07】[iam-veeramalla / Jenkins-Zero-To-Hero](https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero) - Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s and much more.
+* 【2023-04-07】[liujing04 / Retrieval-based-Voice-Conversion-WebUI](https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI) - 
 * 【2023-04-06】[WangRongsheng / ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) - 🌟ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型
 * 【2023-04-06】[getmoto / moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 * 【2023-04-05】[hisxo / ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI to Burp to help you with your Bug Bounty recon!
@@ -82,6 +92,8 @@
 
 ## Javascript
 
+* 【2023-04-07】[latitudegames / GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
+* 【2023-04-07】[shahriarsajeeb / Eshop-tutorial](https://github.com/shahriarsajeeb/Eshop-tutorial) - 
 * 【2023-04-05】[bholmesdev / simple-rsc](https://github.com/bholmesdev/simple-rsc) - A simple React Server Components implementation that you can build yourself🙌
 * 【2023-04-03】[adrianhajdin / project_threejs_ai](https://github.com/adrianhajdin/project_threejs_ai) - 
 * 【2023-04-03】[twitter / typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
@@ -95,6 +107,8 @@
 
 ## Go
 
+* 【2023-04-07】[projectdiscovery / alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL
+* 【2023-04-07】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2023-04-05】[etcd-io / bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 * 【2023-04-04】[m1k1o / neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 * 【2023-04-04】[ConsenSys / gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
@@ -125,6 +139,7 @@
 
 ## C++
 
+* 【2023-04-07】[CL2-UWaterloo / f1tenth_ws](https://github.com/CL2-UWaterloo/f1tenth_ws) - A repository for autonomous racing written in ROS2, designed for the F1TENTH platform. Code can run both in the physical car, as well as simulation with custom launch files.
 * 【2023-04-06】[nomic-ai / pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
 * 【2023-04-06】[daisixuan / r0chrome](https://github.com/daisixuan/r0chrome) - 
 * 【2023-04-06】[libigl / libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.
@@ -144,6 +159,8 @@
 
 ## C#
 
+* 【2023-04-07】[inkle / ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
+* 【2023-04-07】[blazorhero / CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 * 【2023-04-06】[handzlikchris / FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
 * 【2023-04-06】[HMBSbige / NatTypeTester](https://github.com/HMBSbige/NatTypeTester) - 测试当前网络的 NAT 类型（STUN）
 * 【2023-04-05】[WireMock-Net / WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible product for stubbing and mocking web HTTP responses using advanced request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
@@ -164,6 +181,8 @@
 
 ## Html
 
+* 【2023-04-07】[posgnu / rci-agent](https://github.com/posgnu/rci-agent) - A codebase for "Language Models can Solve Computer Tasks"
+* 【2023-04-07】[codingstella / vCard-personal-portfolio](https://github.com/codingstella/vCard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 * 【2023-04-05】[herobrine19 / openai-billing](https://github.com/herobrine19/openai-billing) - 使用 apikey 查询 openai apikey 余额
 * 【2023-04-05】[usablica / intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 * 【2023-04-04】[mark-when / markwhen](https://github.com/mark-when/markwhen) - Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.
@@ -178,6 +197,8 @@
 
 ## Css
 
+* 【2023-04-07】[jherr / vite-mod-fed](https://github.com/jherr/vite-mod-fed) - Code for the Vite Module Federation introduction video.
+* 【2023-04-07】[damienbod / SendingEncryptedData](https://github.com/damienbod/SendingEncryptedData) - .NET Core Encryption
 * 【2023-04-05】[ParisNeo / Gpt4All-webui](https://github.com/ParisNeo/Gpt4All-webui) - A web user interface for GPT4All
 * 【2023-04-04】[bobangajicsm / iphone-3d-website-starter](https://github.com/bobangajicsm/iphone-3d-website-starter) - 
 * 【2023-04-03】[guangzhengli / typora-ladder-theme](https://github.com/guangzhengli/typora-ladder-theme) - A typora theme based on LXGW font and Tailwindcss typography
@@ -190,6 +211,9 @@
 
 ## Unknown
 
+* 【2023-04-07】[public-api-lists / public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development🚀(Clone of https://github.com/public-apis/public-apis)
+* 【2023-04-07】[0xRadi / OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
+* 【2023-04-07】[YoungBoy0048 / tulingx](https://github.com/YoungBoy0048/tulingx) - TULINGX(图灵)VPN下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由 ChatGPT
 * 【2023-04-06】[TeoMeWhy / olist-ml-models](https://github.com/TeoMeWhy/olist-ml-models) - Projeto de Machine Learning do início ao fim no contexto de um e-commerce
 * 【2023-04-06】[paralleldrive / sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
 * 【2023-04-06】[antfu / vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings and extensions
