@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-04-08】[facebookresearch / segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+* 【2023-04-08】[bitloops / ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star!⭐^^^
+* 【2023-04-08】[ArroyoSystems / arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust
+* 【2023-04-08】[VideoCrafter / VideoCrafter](https://github.com/VideoCrafter/VideoCrafter) - A Toolkit for Text-to-Video Generation and Editing
+* 【2023-04-08】[slint-ui / slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.
+* 【2023-04-08】[corca-ai / EVAL](https://github.com/corca-ai/EVAL) - [Corca / DEV] EVAL(Elastic Versatile Agent with Langchain) will execute all your requests. Just like an eval method!
+* 【2023-04-08】[c121914yu / FastGPT](https://github.com/c121914yu/FastGPT) - 一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
 * 【2023-04-07】[ai-forever / Kandinsky-2](https://github.com/ai-forever/Kandinsky-2) - Kandinsky 2 — multilingual text2image latent diffusion model
 * 【2023-04-07】[nat / openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 * 【2023-04-07】[easychen / chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版
@@ -53,6 +60,7 @@
 
 ## Java
 
+* 【2023-04-08】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动的架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-04-05】[coderabbit214 / bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
 * 【2023-04-04】[bigintpro / csdn_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
 * 【2023-04-04】[twitter / Serial](https://github.com/twitter/Serial) - Light-weight, fast framework for object serialization in Java, with Android support.
@@ -66,6 +74,7 @@
 
 ## Python
 
+* 【2023-04-08】[chroma-core / chroma](https://github.com/chroma-core/chroma) - the open source embedding database
 * 【2023-04-07】[Jittor / JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
 * 【2023-04-07】[young-geng / EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
 * 【2023-04-07】[ViperX7 / Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
@@ -92,6 +101,8 @@
 
 ## Javascript
 
+* 【2023-04-08】[Cohee1207 / SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
+* 【2023-04-08】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
 * 【2023-04-07】[latitudegames / GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 * 【2023-04-07】[shahriarsajeeb / Eshop-tutorial](https://github.com/shahriarsajeeb/Eshop-tutorial) - 
 * 【2023-04-05】[bholmesdev / simple-rsc](https://github.com/bholmesdev/simple-rsc) - A simple React Server Components implementation that you can build yourself🙌
@@ -129,6 +140,7 @@
 
 ## C
 
+* 【2023-04-08】[google / XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 * 【2023-04-06】[Forairaaaaa / Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - Update of Chappie-Core
 * 【2023-04-06】[system76 / firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 * 【2023-04-05】[saha-indranil / sem4](https://github.com/saha-indranil/sem4) - 4th Sem
@@ -159,6 +171,7 @@
 
 ## C#
 
+* 【2023-04-08】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 * 【2023-04-07】[inkle / ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 * 【2023-04-07】[blazorhero / CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 * 【2023-04-06】[handzlikchris / FastScriptReload](https://github.com/handzlikchris/FastScriptReload) - Hot Reload implementation for Unity. Iterate on code insanely fast without breaking play session. Supports any editor. 1. Play 2. Make change 3. See results
@@ -181,6 +194,8 @@
 
 ## Html
 
+* 【2023-04-08】[N4si / cloud-native-monitoring-app](https://github.com/N4si/cloud-native-monitoring-app) - Cloud Native app on K8S to monitor system resources using python
+* 【2023-04-08】[Skoolgq / SkoolTV](https://github.com/Skoolgq/SkoolTV) - This is the beta testing repo for Skool's TV feature. See our production repository at @SkoolTV/skooltv.github.io
 * 【2023-04-07】[posgnu / rci-agent](https://github.com/posgnu/rci-agent) - A codebase for "Language Models can Solve Computer Tasks"
 * 【2023-04-07】[codingstella / vCard-personal-portfolio](https://github.com/codingstella/vCard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
 * 【2023-04-05】[herobrine19 / openai-billing](https://github.com/herobrine19/openai-billing) - 使用 apikey 查询 openai apikey 余额
@@ -197,6 +212,8 @@
 
 ## Css
 
+* 【2023-04-08】[sukepc0824 / Twitter-Dog2Bird](https://github.com/sukepc0824/Twitter-Dog2Bird) - 
+* 【2023-04-08】[BloomTech-Labs / BandersnatchStarter](https://github.com/BloomTech-Labs/BandersnatchStarter) - 
 * 【2023-04-07】[jherr / vite-mod-fed](https://github.com/jherr/vite-mod-fed) - Code for the Vite Module Federation introduction video.
 * 【2023-04-07】[damienbod / SendingEncryptedData](https://github.com/damienbod/SendingEncryptedData) - .NET Core Encryption
 * 【2023-04-05】[ParisNeo / Gpt4All-webui](https://github.com/ParisNeo/Gpt4All-webui) - A web user interface for GPT4All
@@ -211,6 +228,12 @@
 
 ## Unknown
 
+* 【2023-04-08】[jbhuang0604 / awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
+* 【2023-04-08】[RenwaX23 / XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads) - List of XSS Vectors/Payloads
+* 【2023-04-08】[mayuelala / FollowYourPose](https://github.com/mayuelala/FollowYourPose) - Pytorch Implementation for "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos"
+* 【2023-04-08】[reactwg / react-native-new-architecture](https://github.com/reactwg/react-native-new-architecture) - Workgroup for the New React Native Architecture
+* 【2023-04-08】[harryadel / AI-ML-Driven-Companies-In-Egypt](https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt) - A list of AI/ML driven companies in Egypt
+* 【2023-04-08】[lencx / lencx](https://github.com/lencx/lencx) - about me
 * 【2023-04-07】[public-api-lists / public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development🚀(Clone of https://github.com/public-apis/public-apis)
 * 【2023-04-07】[0xRadi / OWASP-Web-Checklist](https://github.com/0xRadi/OWASP-Web-Checklist) - OWASP Web Application Security Testing Checklist
 * 【2023-04-07】[YoungBoy0048 / tulingx](https://github.com/YoungBoy0048/tulingx) - TULINGX(图灵)VPN下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由 ChatGPT
