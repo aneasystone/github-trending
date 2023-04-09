@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-04-09】[facebook / buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
+* 【2023-04-09】[guangzhengli / ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
+* 【2023-04-09】[TabbyML / tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 * 【2023-04-08】[facebookresearch / segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * 【2023-04-08】[bitloops / ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS. Like what you see? Don't forget to star!⭐^^^
 * 【2023-04-08】[ArroyoSystems / arroyo](https://github.com/ArroyoSystems/arroyo) - Arroyo is a distributed stream processing engine written in Rust
@@ -60,6 +63,7 @@
 
 ## Java
 
+* 【2023-04-09】[dragonwell-project / dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
 * 【2023-04-08】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动的架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-04-05】[coderabbit214 / bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
 * 【2023-04-04】[bigintpro / csdn_downloader](https://github.com/bigintpro/csdn_downloader) - csdn下载，csdn免积分下载，csdn免会员下载，csdn付费内容下载 免费资源 体验地址:http://servicedev.tpddns.cn:8181/#/login?c=12
@@ -74,6 +78,9 @@
 
 ## Python
 
+* 【2023-04-09】[abetlen / llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
+* 【2023-04-09】[open-mmlab / mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab Pre-training Toolbox and Benchmark
+* 【2023-04-09】[Michael-K-Stein / SpotiFile](https://github.com/Michael-K-Stein/SpotiFile) - Spotify scraper
 * 【2023-04-08】[chroma-core / chroma](https://github.com/chroma-core/chroma) - the open source embedding database
 * 【2023-04-07】[Jittor / JittorLLMs](https://github.com/Jittor/JittorLLMs) - 计图大模型推理库，具有高性能、配置要求低、中文支持好、可移植等特点
 * 【2023-04-07】[young-geng / EasyLM](https://github.com/young-geng/EasyLM) - Easy to use model parallel large language models in JAX/Flax with pjit support on cloud TPU pods.
@@ -101,6 +108,9 @@
 
 ## Javascript
 
+* 【2023-04-09】[hkirat / full-stack-assignment](https://github.com/hkirat/full-stack-assignment) - 
+* 【2023-04-09】[zachgoll / tic-tac-toe-subscriber-refactor](https://github.com/zachgoll/tic-tac-toe-subscriber-refactor) - A refactor of a YouTube subscriber's Tic Tac Toe JS game!
+* 【2023-04-09】[bradtraversy / next-13-crash-course](https://github.com/bradtraversy/next-13-crash-course) - 
 * 【2023-04-08】[Cohee1207 / SillyTavern](https://github.com/Cohee1207/SillyTavern) - TavernAI for nerds
 * 【2023-04-08】[LayerZero-Labs / solidity-examples](https://github.com/LayerZero-Labs/solidity-examples) - example contracts
 * 【2023-04-07】[latitudegames / GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
@@ -151,6 +161,7 @@
 
 ## C++
 
+* 【2023-04-09】[acaudwell / Gource](https://github.com/acaudwell/Gource) - software version control visualization
 * 【2023-04-07】[CL2-UWaterloo / f1tenth_ws](https://github.com/CL2-UWaterloo/f1tenth_ws) - A repository for autonomous racing written in ROS2, designed for the F1TENTH platform. Code can run both in the physical car, as well as simulation with custom launch files.
 * 【2023-04-06】[nomic-ai / pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
 * 【2023-04-06】[daisixuan / r0chrome](https://github.com/daisixuan/r0chrome) - 
@@ -171,6 +182,7 @@
 
 ## C#
 
+* 【2023-04-09】[morelinq / MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 * 【2023-04-08】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 * 【2023-04-07】[inkle / ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 * 【2023-04-07】[blazorhero / CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) - Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
@@ -194,6 +206,10 @@
 
 ## Html
 
+* 【2023-04-09】[Chisw / chenzhilong.chat](https://github.com/Chisw/chenzhilong.chat) - 志龙啸天录
+* 【2023-04-09】[abacaj / chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
+* 【2023-04-09】[metafizzy / isotope](https://github.com/metafizzy/isotope) - 💞Filter & sort magical layouts
+* 【2023-04-09】[zaru / chatgpt-zundamon-demo](https://github.com/zaru/chatgpt-zundamon-demo) - 
 * 【2023-04-08】[N4si / cloud-native-monitoring-app](https://github.com/N4si/cloud-native-monitoring-app) - Cloud Native app on K8S to monitor system resources using python
 * 【2023-04-08】[Skoolgq / SkoolTV](https://github.com/Skoolgq/SkoolTV) - This is the beta testing repo for Skool's TV feature. See our production repository at @SkoolTV/skooltv.github.io
 * 【2023-04-07】[posgnu / rci-agent](https://github.com/posgnu/rci-agent) - A codebase for "Language Models can Solve Computer Tasks"
@@ -212,6 +228,8 @@
 
 ## Css
 
+* 【2023-04-09】[anzhiyu-c / hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 这是一个简洁美丽的hexo主题。
+* 【2023-04-09】[Gajal1010 / projects_mern](https://github.com/Gajal1010/projects_mern) - 
 * 【2023-04-08】[sukepc0824 / Twitter-Dog2Bird](https://github.com/sukepc0824/Twitter-Dog2Bird) - 
 * 【2023-04-08】[BloomTech-Labs / BandersnatchStarter](https://github.com/BloomTech-Labs/BandersnatchStarter) - 
 * 【2023-04-07】[jherr / vite-mod-fed](https://github.com/jherr/vite-mod-fed) - Code for the Vite Module Federation introduction video.
@@ -228,6 +246,10 @@
 
 ## Unknown
 
+* 【2023-04-09】[NVlabs / genvs](https://github.com/NVlabs/genvs) - 
+* 【2023-04-09】[daochenzha / data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
+* 【2023-04-09】[LabCIF-Tutorials / Tutorial-AndroidNetworkInterception](https://github.com/LabCIF-Tutorials/Tutorial-AndroidNetworkInterception) - How to intercept network trafic on Android
+* 【2023-04-09】[coderzcr / JavaWeb-Project-Source-Share](https://github.com/coderzcr/JavaWeb-Project-Source-Share) - 🌱🚀分享基于Servlet、SSH、SSM、SpringBoot、SpringCloud等流行技术实现的JavaWeb项目，难度分为5个等级，帮助小白入门JavaWeb开发，协助JavaWeb开发者熟悉最新技术
 * 【2023-04-08】[jbhuang0604 / awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 * 【2023-04-08】[RenwaX23 / XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads) - List of XSS Vectors/Payloads
 * 【2023-04-08】[mayuelala / FollowYourPose](https://github.com/mayuelala/FollowYourPose) - Pytorch Implementation for "Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos"
