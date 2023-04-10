@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-04-10】[IDEA-Research / Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
+* 【2023-04-10】[nomic-ai / gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
+* 【2023-04-10】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - 
+* 【2023-04-10】[BuilderIO / ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 * 【2023-04-09】[facebook / buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
 * 【2023-04-09】[guangzhengli / ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
 * 【2023-04-09】[TabbyML / tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -78,6 +82,10 @@
 
 ## Python
 
+* 【2023-04-10】[baaivision / Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
+* 【2023-04-10】[jiawei-ren / diffmimic](https://github.com/jiawei-ren/diffmimic) - [ICLR 2023] DiffMimic: Efficient Motion Mimicking with Differentiable Physics https://arxiv.org/abs/2304.03274
+* 【2023-04-10】[chatarena / chatarena](https://github.com/chatarena/chatarena) - Multi-Agent Language Game Environments for LLMs
+* 【2023-04-10】[taishan1994 / pytorch_bert_bilstm_crf_ner](https://github.com/taishan1994/pytorch_bert_bilstm_crf_ner) - 基于pytorch的bert_bilstm_crf中文命名实体识别
 * 【2023-04-09】[abetlen / llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 * 【2023-04-09】[open-mmlab / mmpretrain](https://github.com/open-mmlab/mmpretrain) - OpenMMLab Pre-training Toolbox and Benchmark
 * 【2023-04-09】[Michael-K-Stein / SpotiFile](https://github.com/Michael-K-Stein/SpotiFile) - Spotify scraper
@@ -128,6 +136,8 @@
 
 ## Go
 
+* 【2023-04-10】[swuecho / chat](https://github.com/swuecho/chat) - gpt chat web app for teams, sass or self hosting, support openai, claude model
+* 【2023-04-10】[stulzq / azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4.
 * 【2023-04-07】[projectdiscovery / alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL
 * 【2023-04-07】[kubernetes-sigs / aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) - CSI driver for Amazon EBS https://aws.amazon.com/ebs/
 * 【2023-04-05】[etcd-io / bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -161,6 +171,8 @@
 
 ## C++
 
+* 【2023-04-10】[topjohnwu / zygisk-module-sample](https://github.com/topjohnwu/zygisk-module-sample) - A sample project for building Zygisk modules
+* 【2023-04-10】[cvg / limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
 * 【2023-04-09】[acaudwell / Gource](https://github.com/acaudwell/Gource) - software version control visualization
 * 【2023-04-07】[CL2-UWaterloo / f1tenth_ws](https://github.com/CL2-UWaterloo/f1tenth_ws) - A repository for autonomous racing written in ROS2, designed for the F1TENTH platform. Code can run both in the physical car, as well as simulation with custom launch files.
 * 【2023-04-06】[nomic-ai / pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
@@ -182,6 +194,7 @@
 
 ## C#
 
+* 【2023-04-10】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 * 【2023-04-09】[morelinq / MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 * 【2023-04-08】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
 * 【2023-04-07】[inkle / ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
@@ -206,6 +219,7 @@
 
 ## Html
 
+* 【2023-04-10】[nusserstudios / tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS.
 * 【2023-04-09】[Chisw / chenzhilong.chat](https://github.com/Chisw/chenzhilong.chat) - 志龙啸天录
 * 【2023-04-09】[abacaj / chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
 * 【2023-04-09】[metafizzy / isotope](https://github.com/metafizzy/isotope) - 💞Filter & sort magical layouts
@@ -228,6 +242,7 @@
 
 ## Css
 
+* 【2023-04-10】[wizwizdev / wizwizxui-timebot](https://github.com/wizwizdev/wizwizxui-timebot) - Bot showing the volume and remaining subscription x-ui panel
 * 【2023-04-09】[anzhiyu-c / hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 这是一个简洁美丽的hexo主题。
 * 【2023-04-09】[Gajal1010 / projects_mern](https://github.com/Gajal1010/projects_mern) - 
 * 【2023-04-08】[sukepc0824 / Twitter-Dog2Bird](https://github.com/sukepc0824/Twitter-Dog2Bird) - 
@@ -246,6 +261,13 @@
 
 ## Unknown
 
+* 【2023-04-10】[codediodeio / rektor-db](https://github.com/codediodeio/rektor-db) - Rektor Vector Database
+* 【2023-04-10】[jorgef / engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
+* 【2023-04-10】[yonggekkk / Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks
+* 【2023-04-10】[goatfungus / NMSSaveEditor](https://github.com/goatfungus/NMSSaveEditor) - No Man's Sky - Save Editor
+* 【2023-04-10】[giuliacassara / awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) - A curated list of awesome social engineering resources.
+* 【2023-04-10】[coderdost / JavaScript-Course-2023](https://github.com/coderdost/JavaScript-Course-2023) - JavaScript course for beginners on CoderDost Youtube Channel
+* 【2023-04-10】[underlines / awesome-marketing-datascience](https://github.com/underlines/awesome-marketing-datascience) - Collection of useful Datascience things across the web
 * 【2023-04-09】[NVlabs / genvs](https://github.com/NVlabs/genvs) - 
 * 【2023-04-09】[daochenzha / data-centric-AI](https://github.com/daochenzha/data-centric-AI) - A curated, but incomplete, list of data-centric AI resources.
 * 【2023-04-09】[LabCIF-Tutorials / Tutorial-AndroidNetworkInterception](https://github.com/LabCIF-Tutorials/Tutorial-AndroidNetworkInterception) - How to intercept network trafic on Android
