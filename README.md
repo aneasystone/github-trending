@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-04-11】[Moonvy / OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣AIGC 提示词可视化编辑器
+* 【2023-04-11】[jpmorganchase / python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 * 【2023-04-10】[IDEA-Research / Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
 * 【2023-04-10】[nomic-ai / gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
 * 【2023-04-10】[Instruction-Tuning-with-GPT-4 / GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - 
@@ -67,6 +69,7 @@
 
 ## Java
 
+* 【2023-04-11】[RedRoverSchool / JenkinsQA_06](https://github.com/RedRoverSchool/JenkinsQA_06) - 
 * 【2023-04-09】[dragonwell-project / dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
 * 【2023-04-08】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动的架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-04-05】[coderabbit214 / bibliothecarius](https://github.com/coderabbit214/bibliothecarius) - Quickly build services to integrate your local data and AI models.
@@ -82,6 +85,8 @@
 
 ## Python
 
+* 【2023-04-11】[vfarid / cf-clean-ips](https://github.com/vfarid/cf-clean-ips) - Cloudflare Network's Clean IP List
+* 【2023-04-11】[IDEA-Research / GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
 * 【2023-04-10】[baaivision / Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 * 【2023-04-10】[jiawei-ren / diffmimic](https://github.com/jiawei-ren/diffmimic) - [ICLR 2023] DiffMimic: Efficient Motion Mimicking with Differentiable Physics https://arxiv.org/abs/2304.03274
 * 【2023-04-10】[chatarena / chatarena](https://github.com/chatarena/chatarena) - Multi-Agent Language Game Environments for LLMs
@@ -116,6 +121,10 @@
 
 ## Javascript
 
+* 【2023-04-11】[DustinBrett / daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+* 【2023-04-11】[vercel-labs / nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
+* 【2023-04-11】[ShariqAnsari88 / shoe-store-frontend](https://github.com/ShariqAnsari88/shoe-store-frontend) - 
+* 【2023-04-11】[SparkGPT001 / gpt-tutorial-101](https://github.com/SparkGPT001/gpt-tutorial-101) - ChatGPT从0到1学习资料汇总，入门/原理/应用/场景/实操，最好的GPT学习中文文档
 * 【2023-04-09】[hkirat / full-stack-assignment](https://github.com/hkirat/full-stack-assignment) - 
 * 【2023-04-09】[zachgoll / tic-tac-toe-subscriber-refactor](https://github.com/zachgoll/tic-tac-toe-subscriber-refactor) - A refactor of a YouTube subscriber's Tic Tac Toe JS game!
 * 【2023-04-09】[bradtraversy / next-13-crash-course](https://github.com/bradtraversy/next-13-crash-course) - 
@@ -136,6 +145,8 @@
 
 ## Go
 
+* 【2023-04-11】[inconshreveable / ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+* 【2023-04-11】[Zhouchaowen / golang-tutorial](https://github.com/Zhouchaowen/golang-tutorial) - Golang入门教程
 * 【2023-04-10】[swuecho / chat](https://github.com/swuecho/chat) - gpt chat web app for teams, sass or self hosting, support openai, claude model
 * 【2023-04-10】[stulzq / azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4.
 * 【2023-04-07】[projectdiscovery / alterx](https://github.com/projectdiscovery/alterx) - Fast and customizable subdomain wordlist generator using DSL
@@ -171,6 +182,9 @@
 
 ## C++
 
+* 【2023-04-11】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+* 【2023-04-11】[chenjunnn / rm_auto_aim](https://github.com/chenjunnn/rm_auto_aim) - RoboMaster 装甲板自动瞄准算法模块
+* 【2023-04-11】[fholger / crysis_vrmod](https://github.com/fholger/crysis_vrmod) - Crysis. In VR.
 * 【2023-04-10】[topjohnwu / zygisk-module-sample](https://github.com/topjohnwu/zygisk-module-sample) - A sample project for building Zygisk modules
 * 【2023-04-10】[cvg / limap](https://github.com/cvg/limap) - A toolbox for mapping and localization with line features.
 * 【2023-04-09】[acaudwell / Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -194,6 +208,7 @@
 
 ## C#
 
+* 【2023-04-11】[PlummersSoftwareLLC / Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 * 【2023-04-10】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 * 【2023-04-09】[morelinq / MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
 * 【2023-04-08】[rmcrackan / Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library
@@ -219,6 +234,10 @@
 
 ## Html
 
+* 【2023-04-11】[buildspace / buildspace-os](https://github.com/buildspace/buildspace-os) - 
+* 【2023-04-11】[MiscellaneousStuff / meta-sam-demo](https://github.com/MiscellaneousStuff/meta-sam-demo) - Meta's Segment Anything Model (SAM) Demo Site
+* 【2023-04-11】[SamPink / dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
+* 【2023-04-11】[gurgleapps / pico-web-server-control](https://github.com/gurgleapps/pico-web-server-control) - A simple and efficient MicroPython web server designed for Raspberry Pi Pico, ESP8266, ESP32, allowing seamless control of microcontroller projects via a web browser.
 * 【2023-04-10】[nusserstudios / tailbliss](https://github.com/nusserstudios/tailbliss) - TailBliss is a Hugo Starter theme built on TailwindCSS 3, and Alpine.JS.
 * 【2023-04-09】[Chisw / chenzhilong.chat](https://github.com/Chisw/chenzhilong.chat) - 志龙啸天录
 * 【2023-04-09】[abacaj / chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - Single client side script to backup your entire ChatGPT conversation history
@@ -242,6 +261,8 @@
 
 ## Css
 
+* 【2023-04-11】[CodeTraversal / JavaScript-Projects](https://github.com/CodeTraversal/JavaScript-Projects) - Projects Made using HTML CSS and JavaScript
+* 【2023-04-11】[sefyudem / Responsive-Login-Form](https://github.com/sefyudem/Responsive-Login-Form) - 
 * 【2023-04-10】[wizwizdev / wizwizxui-timebot](https://github.com/wizwizdev/wizwizxui-timebot) - Bot showing the volume and remaining subscription x-ui panel
 * 【2023-04-09】[anzhiyu-c / hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 这是一个简洁美丽的hexo主题。
 * 【2023-04-09】[Gajal1010 / projects_mern](https://github.com/Gajal1010/projects_mern) - 
@@ -261,6 +282,11 @@
 
 ## Unknown
 
+* 【2023-04-11】[coderit666 / GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
+* 【2023-04-11】[taishi-i / awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+* 【2023-04-11】[adri567 / autogpt](https://github.com/adri567/autogpt) - Xcode Source Editor Extension with OpenAI's API
+* 【2023-04-11】[kska32 / ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+* 【2023-04-11】[2dust / v2flyNG](https://github.com/2dust/v2flyNG) - A V2Ray client for Android, support v2fly core
 * 【2023-04-10】[codediodeio / rektor-db](https://github.com/codediodeio/rektor-db) - Rektor Vector Database
 * 【2023-04-10】[jorgef / engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
 * 【2023-04-10】[yonggekkk / Replit-Xray](https://github.com/yonggekkk/Replit-Xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks
