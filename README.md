@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-04-12】[reworkd / AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖Assemble, configure, and deploy autonomous AI Agents in your browser.
+* 【2023-04-12】[ohmplatform / FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
+* 【2023-04-12】[hemansnation / God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) - This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.
 * 【2023-04-11】[Moonvy / OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣AIGC 提示词可视化编辑器
 * 【2023-04-11】[jpmorganchase / python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 * 【2023-04-10】[IDEA-Research / Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs
@@ -69,6 +72,7 @@
 
 ## Java
 
+* 【2023-04-12】[aress31 / burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 * 【2023-04-11】[RedRoverSchool / JenkinsQA_06](https://github.com/RedRoverSchool/JenkinsQA_06) - 
 * 【2023-04-09】[dragonwell-project / dragonwell8](https://github.com/dragonwell-project/dragonwell8) - Alibaba Dragonwell8 JDK
 * 【2023-04-08】[iohao / ioGame](https://github.com/iohao/ioGame) - 无锁异步化、事件驱动的架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
@@ -85,6 +89,9 @@
 
 ## Python
 
+* 【2023-04-12】[rondinellimorais / facial-expression-recognition](https://github.com/rondinellimorais/facial-expression-recognition) - 
+* 【2023-04-12】[rokstrnisa / Robo-GPT](https://github.com/rokstrnisa/Robo-GPT) - A simple and extensible program that helps you run GPT-4 model autonomously.
+* 【2023-04-12】[erikbern / ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 * 【2023-04-11】[vfarid / cf-clean-ips](https://github.com/vfarid/cf-clean-ips) - Cloudflare Network's Clean IP List
 * 【2023-04-11】[IDEA-Research / GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) - Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
 * 【2023-04-10】[baaivision / Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
@@ -121,6 +128,9 @@
 
 ## Javascript
 
+* 【2023-04-12】[ivan-sincek / android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet) - Work in progress... Thanks for all the stars, I will try to prioritize this project :)
+* 【2023-04-12】[ds300 / lazyrepo](https://github.com/ds300/lazyrepo) - Caching task runner for npm/pnpm/yarn monorepos.
+* 【2023-04-12】[op7418 / Prompt-hunter](https://github.com/op7418/Prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
 * 【2023-04-11】[DustinBrett / daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 * 【2023-04-11】[vercel-labs / nextgram](https://github.com/vercel-labs/nextgram) - A sample Next.js app showing dynamic routing with modals as a route.
 * 【2023-04-11】[ShariqAnsari88 / shoe-store-frontend](https://github.com/ShariqAnsari88/shoe-store-frontend) - 
@@ -145,6 +155,8 @@
 
 ## Go
 
+* 【2023-04-12】[spf13 / cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go
+* 【2023-04-12】[ConnectAI-E / dingtalk-OpenAI](https://github.com/ConnectAI-E/dingtalk-OpenAI) - 🔔钉钉 &🤖GPT-3.5 让你的工作效率直接起飞🚀私聊群聊方式、单聊串聊模式、角色扮演、图片创作🚀
 * 【2023-04-11】[inconshreveable / ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 * 【2023-04-11】[Zhouchaowen / golang-tutorial](https://github.com/Zhouchaowen/golang-tutorial) - Golang入门教程
 * 【2023-04-10】[swuecho / chat](https://github.com/swuecho/chat) - gpt chat web app for teams, sass or self hosting, support openai, claude model
@@ -171,6 +183,9 @@
 
 ## C
 
+* 【2023-04-12】[eduard-permyakov / permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
+* 【2023-04-12】[CryptoCoderz / Espers](https://github.com/CryptoCoderz/Espers) - An Experimental Blockchain Project
+* 【2023-04-12】[NateChoe1 / tcp-over-http](https://github.com/NateChoe1/tcp-over-http) - TCP over HTTP
 * 【2023-04-08】[google / XNNPACK](https://github.com/google/XNNPACK) - High-efficiency floating-point neural network inference operators for mobile, server, and Web
 * 【2023-04-06】[Forairaaaaa / Chappie-II](https://github.com/Forairaaaaa/Chappie-II) - Update of Chappie-Core
 * 【2023-04-06】[system76 / firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
@@ -182,6 +197,8 @@
 
 ## C++
 
+* 【2023-04-12】[lsecqt / OffensiveCpp](https://github.com/lsecqt/OffensiveCpp) - This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
+* 【2023-04-12】[SecurityAndStuff / DllLoadPath](https://github.com/SecurityAndStuff/DllLoadPath) - 
 * 【2023-04-11】[amnezia-vpn / amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 * 【2023-04-11】[chenjunnn / rm_auto_aim](https://github.com/chenjunnn/rm_auto_aim) - RoboMaster 装甲板自动瞄准算法模块
 * 【2023-04-11】[fholger / crysis_vrmod](https://github.com/fholger/crysis_vrmod) - Crysis. In VR.
@@ -208,6 +225,8 @@
 
 ## C#
 
+* 【2023-04-12】[WesleyWong420 / RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101) - Materials for the workshop "Red Team Ops: Havoc 101"
+* 【2023-04-12】[busenurcetin / C--Tutorial-Notlar](https://github.com/busenurcetin/C--Tutorial-Notlar) - C# Tutorial'ı izlerken aldığım vize ve final döneminde bana hayli yardımcı olan notları size de yardımcı olması umuduyla paylaşıyorum.
 * 【2023-04-11】[PlummersSoftwareLLC / Primes](https://github.com/PlummersSoftwareLLC/Primes) - Prime Number Projects in C#/C++/Python
 * 【2023-04-10】[atom0s / Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants. The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 * 【2023-04-09】[morelinq / MoreLINQ](https://github.com/morelinq/MoreLINQ) - Extensions to LINQ to Objects
@@ -234,6 +253,8 @@
 
 ## Html
 
+* 【2023-04-12】[toji / hello-triangle-webgpu](https://github.com/toji/hello-triangle-webgpu) - Well commented hello triangle example for WebGPU
+* 【2023-04-12】[3v3ry0n3 / 3kh0-Backup-v4](https://github.com/3v3ry0n3/3kh0-Backup-v4) - A backup of 3kh0.github.io v4. Hosted at https://3v3ry0n3.github.io/3kh0-Backup-v4
 * 【2023-04-11】[buildspace / buildspace-os](https://github.com/buildspace/buildspace-os) - 
 * 【2023-04-11】[MiscellaneousStuff / meta-sam-demo](https://github.com/MiscellaneousStuff/meta-sam-demo) - Meta's Segment Anything Model (SAM) Demo Site
 * 【2023-04-11】[SamPink / dev-gpt](https://github.com/SamPink/dev-gpt) - dev-gpt, an automated python developer
@@ -261,6 +282,8 @@
 
 ## Css
 
+* 【2023-04-12】[dargullin / icheck](https://github.com/dargullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
+* 【2023-04-12】[zeeoneofficial / my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
 * 【2023-04-11】[CodeTraversal / JavaScript-Projects](https://github.com/CodeTraversal/JavaScript-Projects) - Projects Made using HTML CSS and JavaScript
 * 【2023-04-11】[sefyudem / Responsive-Login-Form](https://github.com/sefyudem/Responsive-Login-Form) - 
 * 【2023-04-10】[wizwizdev / wizwizxui-timebot](https://github.com/wizwizdev/wizwizxui-timebot) - Bot showing the volume and remaining subscription x-ui panel
@@ -282,6 +305,10 @@
 
 ## Unknown
 
+* 【2023-04-12】[DjangoEx / python-engineer-roadmap](https://github.com/DjangoEx/python-engineer-roadmap) - Python Engineer Roadmap
+* 【2023-04-12】[JfrAziz / indonesia-district](https://github.com/JfrAziz/indonesia-district) - Indonesia splitted geojson data from Humanitarian Data Exchange
+* 【2023-04-12】[WebDevSimplified / react-todo-list](https://github.com/WebDevSimplified/react-todo-list) - 
+* 【2023-04-12】[devoxx / JavaRoadmap](https://github.com/devoxx/JavaRoadmap) - The 2023 Java Developers Roadmap
 * 【2023-04-11】[coderit666 / GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 * 【2023-04-11】[taishi-i / awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
 * 【2023-04-11】[adri567 / autogpt](https://github.com/adri567/autogpt) - Xcode Source Editor Extension with OpenAI's API
