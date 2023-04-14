@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-04-14】[eumemic / ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
+* 【2023-04-14】[continue-revolution / sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion Webui
+* 【2023-04-14】[agiresearch / OpenAGI](https://github.com/agiresearch/OpenAGI) - OpenAGI: When LLM Meets Domain Experts
+* 【2023-04-14】[vivo / MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台 A server-side traffic capture and replay platform with noninvasive
 * 【2023-04-13】[anuragxel / salt](https://github.com/anuragxel/salt) - Segment Anything Labelling Tool
 * 【2023-04-13】[soulteary / docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator) - Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
 * 【2023-04-13】[sail-sg / EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.
@@ -80,6 +84,7 @@
 
 ## Java
 
+* 【2023-04-14】[6tail / lunar-java](https://github.com/6tail/lunar-java) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2023-04-13】[0x727 / BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
 * 【2023-04-13】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 * 【2023-04-12】[aress31 / burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
@@ -99,6 +104,10 @@
 
 ## Python
 
+* 【2023-04-14】[7eu7d7 / HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox
+* 【2023-04-14】[ttengwang / Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.
+* 【2023-04-14】[tuneflow / tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧Build your music algorithms and AI models with the next-gen DAW🔥
+* 【2023-04-14】[ekrrems / parking_lot_monitoring_system_OpenCV](https://github.com/ekrrems/parking_lot_monitoring_system_OpenCV) - This repo finds free parking spaces in the parking lot using only image processing
 * 【2023-04-13】[brannondorsey / PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440)
 * 【2023-04-13】[hasanfirnas / symbiote](https://github.com/hasanfirnas/symbiote) - Your target's phone's front and back cameras📸can be accessed by sending a link🔗.
 * 【2023-04-13】[fudan-zvg / Semantic-Segment-Anything](https://github.com/fudan-zvg/Semantic-Segment-Anything) - Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).
@@ -142,6 +151,7 @@
 
 ## Javascript
 
+* 【2023-04-14】[Project-And-Factory / BlurLyric](https://github.com/Project-And-Factory/BlurLyric) - 高颜值，高性能的网易云音乐第三方音乐播放器
 * 【2023-04-13】[ItsPi3141 / alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - An even simpler way to run Alpaca
 * 【2023-04-13】[ivan-sincek / ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet) - Work in progress...
 * 【2023-04-12】[ivan-sincek / android-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/android-penetration-testing-cheat-sheet) - Work in progress... Thanks for all the stars, I will try to prioritize this project :)
@@ -171,6 +181,7 @@
 
 ## Go
 
+* 【2023-04-14】[fleetdm / fleet](https://github.com/fleetdm/fleet) - Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
 * 【2023-04-13】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 * 【2023-04-13】[projectdiscovery / proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 * 【2023-04-13】[hakluke / hakrawler](https://github.com/hakluke/hakrawler) - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
@@ -203,6 +214,10 @@
 
 ## C
 
+* 【2023-04-14】[davidgiven / wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
+* 【2023-04-14】[H4K6 / CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC) - 针对（CVE-2023-0179）漏洞利用 该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。 漏洞的细节和文章可以在os-security上找到。
+* 【2023-04-14】[maximegmd / CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
+* 【2023-04-14】[tenvick / hugula](https://github.com/tenvick/hugula) - unity3d lua databinding mvvm
 * 【2023-04-13】[plasma-umass / sqlwrite](https://github.com/plasma-umass/sqlwrite) - SQLwrite: AI in your DBMS! Automatically converts natural language queries to SQL.
 * 【2023-04-13】[civetweb / civetweb](https://github.com/civetweb/civetweb) - Embedded C/C++ web server
 * 【2023-04-12】[eduard-permyakov / permafrost-engine](https://github.com/eduard-permyakov/permafrost-engine) - An OpenGL RTS game engine written in C
@@ -251,6 +266,7 @@
 
 ## C#
 
+* 【2023-04-14】[NicolasPrats / DvBrowser](https://github.com/NicolasPrats/DvBrowser) - A browser for dataverse developpers
 * 【2023-04-13】[BeichenDream / GodPotato](https://github.com/BeichenDream/GodPotato) - 
 * 【2023-04-12】[WesleyWong420 / RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101) - Materials for the workshop "Red Team Ops: Havoc 101"
 * 【2023-04-12】[busenurcetin / C--Tutorial-Notlar](https://github.com/busenurcetin/C--Tutorial-Notlar) - C# Tutorial'ı izlerken aldığım vize ve final döneminde bana hayli yardımcı olan notları size de yardımcı olması umuduyla paylaşıyorum.
@@ -280,6 +296,8 @@
 
 ## Html
 
+* 【2023-04-14】[sumn2u / learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
+* 【2023-04-14】[gavinliu6 / Makefile-Tutorial-zh-CN](https://github.com/gavinliu6/Makefile-Tutorial-zh-CN) - Makefile 教程
 * 【2023-04-12】[toji / hello-triangle-webgpu](https://github.com/toji/hello-triangle-webgpu) - Well commented hello triangle example for WebGPU
 * 【2023-04-12】[3v3ry0n3 / 3kh0-Backup-v4](https://github.com/3v3ry0n3/3kh0-Backup-v4) - A backup of 3kh0.github.io v4. Hosted at https://3v3ry0n3.github.io/3kh0-Backup-v4
 * 【2023-04-11】[buildspace / buildspace-os](https://github.com/buildspace/buildspace-os) - 
@@ -309,6 +327,8 @@
 
 ## Css
 
+* 【2023-04-14】[Aptech-Developer-Class / Class-Projects](https://github.com/Aptech-Developer-Class/Class-Projects) - A collection of Project assignments given in the class
+* 【2023-04-14】[welltime / clean-css](https://github.com/welltime/clean-css) - 
 * 【2023-04-13】[TheCoderAdi / GamingBeast](https://github.com/TheCoderAdi/GamingBeast) - This is a open source mini gaming project , you can add games to this repo
 * 【2023-04-13】[daydayfree / diggit](https://github.com/daydayfree/diggit) - A website for sharing photos
 * 【2023-04-13】[Technologie-Visao / coding-challenge-fullstack-1](https://github.com/Technologie-Visao/coding-challenge-fullstack-1) - 
@@ -335,6 +355,11 @@
 
 ## Unknown
 
+* 【2023-04-14】[imaurer / awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
+* 【2023-04-14】[VainF / Awesome-Anything](https://github.com/VainF/Awesome-Anything) - AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask
+* 【2023-04-14】[education / PR-TalentLandMX](https://github.com/education/PR-TalentLandMX) - Participa para ganar swag especial dentro de Talend Land 2023
+* 【2023-04-14】[ikaijua / Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+* 【2023-04-14】[evestorm / front-end-interview](https://github.com/evestorm/front-end-interview) - 🌈2023 前端面试题 + 知识库汇总，你值得拥有～
 * 【2023-04-13】[chenking2020 / FindTheChatGPTer](https://github.com/chenking2020/FindTheChatGPTer) - 汇总那些ChatGPT的平替们
 * 【2023-04-13】[liusongxiang / diffsvc](https://github.com/liusongxiang/diffsvc) - DiffSVC demo page
 * 【2023-04-12】[DjangoEx / python-engineer-roadmap](https://github.com/DjangoEx/python-engineer-roadmap) - Python Engineer Roadmap
