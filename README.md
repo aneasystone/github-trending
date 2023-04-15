@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2023-04-15】[openai / consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
+* 【2023-04-15】[alexrozanski / LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
+* 【2023-04-15】[NVIDIAGameWorks / rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
+* 【2023-04-15】[daveshap / REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
+* 【2023-04-15】[ConnectAI-E / Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验🚀语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出🚀
+* 【2023-04-15】[NVIDIAGameWorks / dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
+* 【2023-04-15】[DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
+* 【2023-04-15】[diego3g / rsxp-2023](https://github.com/diego3g/rsxp-2023) - Repositório contendo o código do app do RS/XP 2023
+* 【2023-04-15】[hudiemon / cloud189](https://github.com/hudiemon/cloud189) - 🌱天翼云盘
 * 【2023-04-14】[eumemic / ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
 * 【2023-04-14】[continue-revolution / sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion Webui
 * 【2023-04-14】[agiresearch / OpenAGI](https://github.com/agiresearch/OpenAGI) - OpenAGI: When LLM Meets Domain Experts
@@ -104,6 +113,11 @@
 
 ## Python
 
+* 【2023-04-15】[promptslab / Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+* 【2023-04-15】[everythingishacked / Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+* 【2023-04-15】[seanpixel / Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
+* 【2023-04-15】[yeagerai / yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
+* 【2023-04-15】[EleutherAI / lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 * 【2023-04-14】[7eu7d7 / HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox
 * 【2023-04-14】[ttengwang / Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.
 * 【2023-04-14】[tuneflow / tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧Build your music algorithms and AI models with the next-gen DAW🔥
@@ -151,6 +165,11 @@
 
 ## Javascript
 
+* 【2023-04-15】[FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
+* 【2023-04-15】[trevorhobenshield / twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
+* 【2023-04-15】[kentcdodds / advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) - This is the latest advanced react patterns workshop
+* 【2023-04-15】[odoo / owl](https://github.com/odoo/owl) - OWL: A web framework for structured, dynamic and maintainable applications
+* 【2023-04-15】[pmndrs / react-three-next](https://github.com/pmndrs/react-three-next) - React Three Fiber, Nextjs, Tailwind and Styled-components starter
 * 【2023-04-14】[Project-And-Factory / BlurLyric](https://github.com/Project-And-Factory/BlurLyric) - 高颜值，高性能的网易云音乐第三方音乐播放器
 * 【2023-04-13】[ItsPi3141 / alpaca-electron](https://github.com/ItsPi3141/alpaca-electron) - An even simpler way to run Alpaca
 * 【2023-04-13】[ivan-sincek / ios-penetration-testing-cheat-sheet](https://github.com/ivan-sincek/ios-penetration-testing-cheat-sheet) - Work in progress...
@@ -181,6 +200,8 @@
 
 ## Go
 
+* 【2023-04-15】[gotzmann / llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
+* 【2023-04-15】[aler9 / mediamtx](https://github.com/aler9/mediamtx) - Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.
 * 【2023-04-14】[fleetdm / fleet](https://github.com/fleetdm/fleet) - Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
 * 【2023-04-13】[go-acme / lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 * 【2023-04-13】[projectdiscovery / proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
@@ -214,6 +235,7 @@
 
 ## C
 
+* 【2023-04-15】[janet-lang / janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 * 【2023-04-14】[davidgiven / wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 * 【2023-04-14】[H4K6 / CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC) - 针对（CVE-2023-0179）漏洞利用 该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。 漏洞的细节和文章可以在os-security上找到。
 * 【2023-04-14】[maximegmd / CyberEngineTweaks](https://github.com/maximegmd/CyberEngineTweaks) - Cyberpunk 2077 tweaks, hacks and scripting framework
@@ -234,6 +256,8 @@
 
 ## C++
 
+* 【2023-04-15】[avast / retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
+* 【2023-04-15】[ghostpepper108 / Evasion](https://github.com/ghostpepper108/Evasion) - 
 * 【2023-04-13】[Tencent / libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 * 【2023-04-13】[0xHossam / Killer](https://github.com/0xHossam/Killer) - Is a tool created to evade AVs and EDRs or security tools.
 * 【2023-04-13】[rhasspy / piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -266,6 +290,7 @@
 
 ## C#
 
+* 【2023-04-15】[p3nt4 / PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
 * 【2023-04-14】[NicolasPrats / DvBrowser](https://github.com/NicolasPrats/DvBrowser) - A browser for dataverse developpers
 * 【2023-04-13】[BeichenDream / GodPotato](https://github.com/BeichenDream/GodPotato) - 
 * 【2023-04-12】[WesleyWong420 / RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101) - Materials for the workshop "Red Team Ops: Havoc 101"
@@ -296,6 +321,8 @@
 
 ## Html
 
+* 【2023-04-15】[jeromeetienne / AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
+* 【2023-04-15】[CodingHTML-Yusef / glaticgames](https://github.com/CodingHTML-Yusef/glaticgames) - Glatic Games is a unblocked website that unblocks apps blocked by school extensions or adminstration, We have proxies, Unblocked Games like Roblox, Unblocked apps like tiktok, and more. You can request Games&Apps and we have some hacks like a VPN coming up, Join our discord for more | **Used by students, and made by students**
 * 【2023-04-14】[sumn2u / learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
 * 【2023-04-14】[gavinliu6 / Makefile-Tutorial-zh-CN](https://github.com/gavinliu6/Makefile-Tutorial-zh-CN) - Makefile 教程
 * 【2023-04-12】[toji / hello-triangle-webgpu](https://github.com/toji/hello-triangle-webgpu) - Well commented hello triangle example for WebGPU
@@ -327,6 +354,9 @@
 
 ## Css
 
+* 【2023-04-15】[mulingyuer / Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
+* 【2023-04-15】[CodeZombie / latentcoupleregionmapper](https://github.com/CodeZombie/latentcoupleregionmapper) - Latent Couple Region Mapper
+* 【2023-04-15】[subframe7536 / obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - Maple —— an obsidian theme for desktop with grace animation and awesome components
 * 【2023-04-14】[Aptech-Developer-Class / Class-Projects](https://github.com/Aptech-Developer-Class/Class-Projects) - A collection of Project assignments given in the class
 * 【2023-04-14】[welltime / clean-css](https://github.com/welltime/clean-css) - 
 * 【2023-04-13】[TheCoderAdi / GamingBeast](https://github.com/TheCoderAdi/GamingBeast) - This is a open source mini gaming project , you can add games to this repo
@@ -355,6 +385,9 @@
 
 ## Unknown
 
+* 【2023-04-15】[kyrolabs / awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎Awesome list of tools and project around the awesome LangChain framework
+* 【2023-04-15】[SiaExplains / visa-sponsorship-companies](https://github.com/SiaExplains/visa-sponsorship-companies) - The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.
+* 【2023-04-15】[OffcierCia / non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 * 【2023-04-14】[imaurer / awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
 * 【2023-04-14】[VainF / Awesome-Anything](https://github.com/VainF/Awesome-Anything) - AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask
 * 【2023-04-14】[education / PR-TalentLandMX](https://github.com/education/PR-TalentLandMX) - Participa para ganar swag especial dentro de Talend Land 2023
