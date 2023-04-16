@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-04-16】[Significant-Gravitas / Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* 【2023-04-16】[leetcode-mafia / cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
+* 【2023-04-16】[lightaime / camel](https://github.com/lightaime/camel) - 🐫CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+* 【2023-04-16】[JetBrains / compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template) - Compose Multiplatform iOS+Android Application project template
+* 【2023-04-16】[lllyasviel / ControlNet-v1-1-nightly](https://github.com/lllyasviel/ControlNet-v1-1-nightly) - Nightly release of ControlNet 1.1
+* 【2023-04-16】[johannakarras / DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
+* 【2023-04-16】[facebookresearch / AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+* 【2023-04-16】[Priler / jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
 * 【2023-04-15】[openai / consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 * 【2023-04-15】[alexrozanski / LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
 * 【2023-04-15】[NVIDIAGameWorks / rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
@@ -93,6 +101,7 @@
 
 ## Java
 
+* 【2023-04-16】[davincifans123 / pinduoduo_backdoor_demo](https://github.com/davincifans123/pinduoduo_backdoor_demo) - pinduoduo backdoor
 * 【2023-04-14】[6tail / lunar-java](https://github.com/6tail/lunar-java) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2023-04-13】[0x727 / BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
 * 【2023-04-13】[alibaba / jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
@@ -113,6 +122,8 @@
 
 ## Python
 
+* 【2023-04-16】[efenatuyo / ugc-sniper](https://github.com/efenatuyo/ugc-sniper) - the best one out there (yet again)
+* 【2023-04-16】[EwingYangs / awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 * 【2023-04-15】[promptslab / Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
 * 【2023-04-15】[everythingishacked / Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 * 【2023-04-15】[seanpixel / Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
@@ -165,6 +176,11 @@
 
 ## Javascript
 
+* 【2023-04-16】[denzdelvillar / philippine-map-app](https://github.com/denzdelvillar/philippine-map-app) - A simple web app that visualizes how well-travelled you are in the Philippines
+* 【2023-04-16】[AlreadyBored / basic-js-ds](https://github.com/AlreadyBored/basic-js-ds) - 
+* 【2023-04-16】[canove / whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
+* 【2023-04-16】[steffest / DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
+* 【2023-04-16】[thecookingsenpai / autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) - A graphical user interface for AutoGPT
 * 【2023-04-15】[FlowiseAI / Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 * 【2023-04-15】[trevorhobenshield / twitter-api-client](https://github.com/trevorhobenshield/twitter-api-client) - Complete implementation of the undocumented Twitter API
 * 【2023-04-15】[kentcdodds / advanced-react-patterns](https://github.com/kentcdodds/advanced-react-patterns) - This is the latest advanced react patterns workshop
@@ -235,6 +251,8 @@
 
 ## C
 
+* 【2023-04-16】[VoldeSec / PatchlessCLRLoader](https://github.com/VoldeSec/PatchlessCLRLoader) - .NET assembly loader with patchless AMSI and ETW bypass
+* 【2023-04-16】[interstellarnetwork / interstellar](https://github.com/interstellarnetwork/interstellar) - Interstellar is one of the best proxies, with blazing fast speeds and tons of games! https://goarmy.us.to
 * 【2023-04-15】[janet-lang / janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
 * 【2023-04-14】[davidgiven / wordgrinder](https://github.com/davidgiven/wordgrinder) - A word processor which gets the hell out of your way and lets you get some work done.
 * 【2023-04-14】[H4K6 / CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC) - 针对（CVE-2023-0179）漏洞利用 该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。 漏洞的细节和文章可以在os-security上找到。
@@ -256,6 +274,10 @@
 
 ## C++
 
+* 【2023-04-16】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
+* 【2023-04-16】[GANGE666 / xVMP](https://github.com/GANGE666/xVMP) - 
+* 【2023-04-16】[ros-controls / ros2_control](https://github.com/ros-controls/ros2_control) - Generic and simple controls framework for ROS2
+* 【2023-04-16】[st4ckh0und / AntiOreans-CodeDevirtualizer](https://github.com/st4ckh0und/AntiOreans-CodeDevirtualizer) - A proof-of-concept devirtualization engine for Themida.
 * 【2023-04-15】[avast / retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 * 【2023-04-15】[ghostpepper108 / Evasion](https://github.com/ghostpepper108/Evasion) - 
 * 【2023-04-13】[Tencent / libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
@@ -290,6 +312,8 @@
 
 ## C#
 
+* 【2023-04-16】[SuperStudio / SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
+* 【2023-04-16】[tigernetframework / Tigernet](https://github.com/tigernetframework/Tigernet) - Minimalistic, Open-Source and Cross-platform server-side framework for .NET
 * 【2023-04-15】[p3nt4 / PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
 * 【2023-04-14】[NicolasPrats / DvBrowser](https://github.com/NicolasPrats/DvBrowser) - A browser for dataverse developpers
 * 【2023-04-13】[BeichenDream / GodPotato](https://github.com/BeichenDream/GodPotato) - 
@@ -321,6 +345,7 @@
 
 ## Html
 
+* 【2023-04-16】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 * 【2023-04-15】[jeromeetienne / AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 * 【2023-04-15】[CodingHTML-Yusef / glaticgames](https://github.com/CodingHTML-Yusef/glaticgames) - Glatic Games is a unblocked website that unblocks apps blocked by school extensions or adminstration, We have proxies, Unblocked Games like Roblox, Unblocked apps like tiktok, and more. You can request Games&Apps and we have some hacks like a VPN coming up, Join our discord for more | **Used by students, and made by students**
 * 【2023-04-14】[sumn2u / learn-javascript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript
@@ -354,6 +379,7 @@
 
 ## Css
 
+* 【2023-04-16】[jtydhr88 / sd-canvas-editor](https://github.com/jtydhr88/sd-canvas-editor) - that integrated a full capability canvas editor which you can use layer, text, image, elements, etc
 * 【2023-04-15】[mulingyuer / Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
 * 【2023-04-15】[CodeZombie / latentcoupleregionmapper](https://github.com/CodeZombie/latentcoupleregionmapper) - Latent Couple Region Mapper
 * 【2023-04-15】[subframe7536 / obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - Maple —— an obsidian theme for desktop with grace animation and awesome components
@@ -385,6 +411,12 @@
 
 ## Unknown
 
+* 【2023-04-16】[kkrypt0nn / wordlists](https://github.com/kkrypt0nn/wordlists) - 📜A collection of wordlists for many different usages.
+* 【2023-04-16】[roxsross / The-DevOps-Journey-101](https://github.com/roxsross/The-DevOps-Journey-101) - III Edición DevOps 2023
+* 【2023-04-16】[PhantasticUniverse / CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
+* 【2023-04-16】[xiongcccc / pgcheck](https://github.com/xiongcccc/pgcheck) - pgcheck is a one-click tool to get the running status of PostgreSQL
+* 【2023-04-16】[Hedlen / awesome-segment-anything](https://github.com/Hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
+* 【2023-04-16】[52CV / CV-Surveys](https://github.com/52CV/CV-Surveys) - 计算机视觉相关综述。包括目标检测、跟踪........
 * 【2023-04-15】[kyrolabs / awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎Awesome list of tools and project around the awesome LangChain framework
 * 【2023-04-15】[SiaExplains / visa-sponsorship-companies](https://github.com/SiaExplains/visa-sponsorship-companies) - The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.
 * 【2023-04-15】[OffcierCia / non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
