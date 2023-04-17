@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-04-17】[ericciarla / babyagijs](https://github.com/ericciarla/babyagijs) - AI-powered task management system in Javascript
+* 【2023-04-17】[alexschachne / leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) - 
+* 【2023-04-17】[grishka / NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
+* 【2023-04-17】[sei-protocol / sei-chain](https://github.com/sei-protocol/sei-chain) - 
+* 【2023-04-17】[crablang / crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
+* 【2023-04-17】[Significant-Gravitas / Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
+* 【2023-04-17】[walkxcode / dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️The best icons for your personal dashboard.
 * 【2023-04-16】[Significant-Gravitas / Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * 【2023-04-16】[leetcode-mafia / cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
 * 【2023-04-16】[lightaime / camel](https://github.com/lightaime/camel) - 🐫CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
@@ -101,6 +108,7 @@
 
 ## Java
 
+* 【2023-04-17】[SaiUpadhyayula / spring-boot-microservices](https://github.com/SaiUpadhyayula/spring-boot-microservices) - This repository contains the latest source code of th spring-boot-microservices tutorial
 * 【2023-04-16】[davincifans123 / pinduoduo_backdoor_demo](https://github.com/davincifans123/pinduoduo_backdoor_demo) - pinduoduo backdoor
 * 【2023-04-14】[6tail / lunar-java](https://github.com/6tail/lunar-java) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
 * 【2023-04-13】[0x727 / BypassPro](https://github.com/0x727/BypassPro) - 对权限绕过自动化bypass的burpsuite插件
@@ -122,6 +130,8 @@
 
 ## Python
 
+* 【2023-04-17】[xtekky / openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
+* 【2023-04-17】[prabhupant / python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 * 【2023-04-16】[efenatuyo / ugc-sniper](https://github.com/efenatuyo/ugc-sniper) - the best one out there (yet again)
 * 【2023-04-16】[EwingYangs / awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 * 【2023-04-15】[promptslab / Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
@@ -176,6 +186,9 @@
 
 ## Javascript
 
+* 【2023-04-17】[dejwid / ecommerce-front](https://github.com/dejwid/ecommerce-front) - 
+* 【2023-04-17】[dejwid / ecommerce-admin](https://github.com/dejwid/ecommerce-admin) - 
+* 【2023-04-17】[fonoster / fonoster](https://github.com/fonoster/fonoster) - 🚀The open-source alternative to Twilio
 * 【2023-04-16】[denzdelvillar / philippine-map-app](https://github.com/denzdelvillar/philippine-map-app) - A simple web app that visualizes how well-travelled you are in the Philippines
 * 【2023-04-16】[AlreadyBored / basic-js-ds](https://github.com/AlreadyBored/basic-js-ds) - 
 * 【2023-04-16】[canove / whaticket-community](https://github.com/canove/whaticket-community) - A very simple Ticket System based on WhatsApp messages, that allow multi-users in same WhatsApp account.
@@ -216,6 +229,8 @@
 
 ## Go
 
+* 【2023-04-17】[acheong08 / ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
+* 【2023-04-17】[determined-ai / determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 * 【2023-04-15】[gotzmann / llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
 * 【2023-04-15】[aler9 / mediamtx](https://github.com/aler9/mediamtx) - Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.
 * 【2023-04-14】[fleetdm / fleet](https://github.com/fleetdm/fleet) - Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
@@ -251,6 +266,7 @@
 
 ## C
 
+* 【2023-04-17】[pschatzmann / arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 * 【2023-04-16】[VoldeSec / PatchlessCLRLoader](https://github.com/VoldeSec/PatchlessCLRLoader) - .NET assembly loader with patchless AMSI and ETW bypass
 * 【2023-04-16】[interstellarnetwork / interstellar](https://github.com/interstellarnetwork/interstellar) - Interstellar is one of the best proxies, with blazing fast speeds and tons of games! https://goarmy.us.to
 * 【2023-04-15】[janet-lang / janet](https://github.com/janet-lang/janet) - A dynamic language and bytecode vm
@@ -274,6 +290,8 @@
 
 ## C++
 
+* 【2023-04-17】[jrouwe / JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
+* 【2023-04-17】[zer0condition / ZeroThreadKernel](https://github.com/zer0condition/ZeroThreadKernel) - Recursive and arbitrary code execution at kernel-level without a system thread creation
 * 【2023-04-16】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 * 【2023-04-16】[GANGE666 / xVMP](https://github.com/GANGE666/xVMP) - 
 * 【2023-04-16】[ros-controls / ros2_control](https://github.com/ros-controls/ros2_control) - Generic and simple controls framework for ROS2
@@ -312,6 +330,8 @@
 
 ## C#
 
+* 【2023-04-17】[mivano / azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
+* 【2023-04-17】[weedeej / ValorantCC](https://github.com/weedeej/ValorantCC) - My very first C# Project. This can change your Valorant crosshair color to ANY color you want.
 * 【2023-04-16】[SuperStudio / SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
 * 【2023-04-16】[tigernetframework / Tigernet](https://github.com/tigernetframework/Tigernet) - Minimalistic, Open-Source and Cross-platform server-side framework for .NET
 * 【2023-04-15】[p3nt4 / PowerShdll](https://github.com/p3nt4/PowerShdll) - Run PowerShell with rundll32. Bypass software restrictions.
@@ -345,6 +365,7 @@
 
 ## Html
 
+* 【2023-04-17】[lewangdev / shanghai-lockdown-covid-19](https://github.com/lewangdev/shanghai-lockdown-covid-19) - Coronavirus (COVID-19) statistics data in Shanghai lockdown. 封控期间上海疫情数据，包括病例数、死亡数、确诊数、无症状数和疫情地址等。
 * 【2023-04-16】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 * 【2023-04-15】[jeromeetienne / AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
 * 【2023-04-15】[CodingHTML-Yusef / glaticgames](https://github.com/CodingHTML-Yusef/glaticgames) - Glatic Games is a unblocked website that unblocks apps blocked by school extensions or adminstration, We have proxies, Unblocked Games like Roblox, Unblocked apps like tiktok, and more. You can request Games&Apps and we have some hacks like a VPN coming up, Join our discord for more | **Used by students, and made by students**
@@ -411,6 +432,11 @@
 
 ## Unknown
 
+* 【2023-04-17】[UX-Decoder / Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Official implementation of the paper "Segment Everything Everywhere All at Once"
+* 【2023-04-17】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+* 【2023-04-17】[redcanaryco / mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise.
+* 【2023-04-17】[Engine-Simulator / engine-sim-community-edition](https://github.com/Engine-Simulator/engine-sim-community-edition) - Combustion engine simulation game that generates realistic audio.
+* 【2023-04-17】[civkit / paper](https://github.com/civkit/paper) - Civ Kit whitepaper
 * 【2023-04-16】[kkrypt0nn / wordlists](https://github.com/kkrypt0nn/wordlists) - 📜A collection of wordlists for many different usages.
 * 【2023-04-16】[roxsross / The-DevOps-Journey-101](https://github.com/roxsross/The-DevOps-Journey-101) - III Edición DevOps 2023
 * 【2023-04-16】[PhantasticUniverse / CollectiveGenius-AutoGPT-Agent-Hub](https://github.com/PhantasticUniverse/CollectiveGenius-AutoGPT-Agent-Hub) - A showcase of diverse AI agents, fostering innovation and collaboration across domains.
