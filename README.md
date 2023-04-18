@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-04-18】[linyiLYi / street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
+* 【2023-04-18】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+* 【2023-04-18】[SafaSafari / ss-cloud-scanner](https://github.com/SafaSafari/ss-cloud-scanner) - اسکنر اختصاصی صفا صفری
+* 【2023-04-18】[ading2210 / poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+* 【2023-04-18】[FreedomIntelligence / LLMZoo](https://github.com/FreedomIntelligence/LLMZoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
+* 【2023-04-18】[zabirauf / AutoGPT.js](https://github.com/zabirauf/AutoGPT.js) - Auto-GPT on the browser
 * 【2023-04-17】[ericciarla / babyagijs](https://github.com/ericciarla/babyagijs) - AI-powered task management system in Javascript
 * 【2023-04-17】[alexschachne / leap-ai-avatars](https://github.com/alexschachne/leap-ai-avatars) - 
 * 【2023-04-17】[grishka / NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
@@ -108,6 +114,9 @@
 
 ## Java
 
+* 【2023-04-18】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
+* 【2023-04-18】[creekrouter / creekrouter_for_android](https://github.com/creekrouter/creekrouter_for_android) - 
+* 【2023-04-18】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 * 【2023-04-17】[SaiUpadhyayula / spring-boot-microservices](https://github.com/SaiUpadhyayula/spring-boot-microservices) - This repository contains the latest source code of th spring-boot-microservices tutorial
 * 【2023-04-16】[davincifans123 / pinduoduo_backdoor_demo](https://github.com/davincifans123/pinduoduo_backdoor_demo) - pinduoduo backdoor
 * 【2023-04-14】[6tail / lunar-java](https://github.com/6tail/lunar-java) - 日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.
@@ -130,6 +139,10 @@
 
 ## Python
 
+* 【2023-04-18】[google / autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
+* 【2023-04-18】[eimenhmdt / autoresearcher](https://github.com/eimenhmdt/autoresearcher) - ⚡Automating scientific workflows with AI⚡
+* 【2023-04-18】[Significant-Gravitas / Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
+* 【2023-04-18】[momegas / megabots](https://github.com/momegas/megabots) - 🤖State-of-the-art, production ready bots made mega-easy, so you don't have to build them from scratch🤯Create a bot, now 🫵
 * 【2023-04-17】[xtekky / openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
 * 【2023-04-17】[prabhupant / python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 * 【2023-04-16】[efenatuyo / ugc-sniper](https://github.com/efenatuyo/ugc-sniper) - the best one out there (yet again)
@@ -186,6 +199,9 @@
 
 ## Javascript
 
+* 【2023-04-18】[xcanwin / KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
+* 【2023-04-18】[doenerium69 / doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer: We are not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
+* 【2023-04-18】[PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 * 【2023-04-17】[dejwid / ecommerce-front](https://github.com/dejwid/ecommerce-front) - 
 * 【2023-04-17】[dejwid / ecommerce-admin](https://github.com/dejwid/ecommerce-admin) - 
 * 【2023-04-17】[fonoster / fonoster](https://github.com/fonoster/fonoster) - 🚀The open-source alternative to Twilio
@@ -266,6 +282,8 @@
 
 ## C
 
+* 【2023-04-18】[michal-z / zig-gamedev](https://github.com/michal-z/zig-gamedev) - Building game development ecosystem for @ziglang!
+* 【2023-04-18】[surge-synthesizer / surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 * 【2023-04-17】[pschatzmann / arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
 * 【2023-04-16】[VoldeSec / PatchlessCLRLoader](https://github.com/VoldeSec/PatchlessCLRLoader) - .NET assembly loader with patchless AMSI and ETW bypass
 * 【2023-04-16】[interstellarnetwork / interstellar](https://github.com/interstellarnetwork/interstellar) - Interstellar is one of the best proxies, with blazing fast speeds and tons of games! https://goarmy.us.to
@@ -290,6 +308,8 @@
 
 ## C++
 
+* 【2023-04-18】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
+* 【2023-04-18】[rpng / open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 * 【2023-04-17】[jrouwe / JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
 * 【2023-04-17】[zer0condition / ZeroThreadKernel](https://github.com/zer0condition/ZeroThreadKernel) - Recursive and arbitrary code execution at kernel-level without a system thread creation
 * 【2023-04-16】[v8 / v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -330,6 +350,8 @@
 
 ## C#
 
+* 【2023-04-18】[StephenCleary / StructuredConcurrency](https://github.com/StephenCleary/StructuredConcurrency) - Structured concurrency support for C#
+* 【2023-04-18】[SebLague / Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
 * 【2023-04-17】[mivano / azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
 * 【2023-04-17】[weedeej / ValorantCC](https://github.com/weedeej/ValorantCC) - My very first C# Project. This can change your Valorant crosshair color to ANY color you want.
 * 【2023-04-16】[SuperStudio / SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
@@ -365,6 +387,7 @@
 
 ## Html
 
+* 【2023-04-18】[Global-CS-application / global-cs-application.github.io](https://github.com/Global-CS-application/global-cs-application.github.io) - 欧港新CS留学项目指北
 * 【2023-04-17】[lewangdev / shanghai-lockdown-covid-19](https://github.com/lewangdev/shanghai-lockdown-covid-19) - Coronavirus (COVID-19) statistics data in Shanghai lockdown. 封控期间上海疫情数据，包括病例数、死亡数、确诊数、无症状数和疫情地址等。
 * 【2023-04-16】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 * 【2023-04-15】[jeromeetienne / AR.js](https://github.com/jeromeetienne/AR.js) - Efficient Augmented Reality for the Web - 60fps on mobile!
@@ -400,6 +423,7 @@
 
 ## Css
 
+* 【2023-04-18】[Marda33 / SkeuoCord](https://github.com/Marda33/SkeuoCord) - A skeuomorphic overhaul for Discord.
 * 【2023-04-16】[jtydhr88 / sd-canvas-editor](https://github.com/jtydhr88/sd-canvas-editor) - that integrated a full capability canvas editor which you can use layer, text, image, elements, etc
 * 【2023-04-15】[mulingyuer / Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
 * 【2023-04-15】[CodeZombie / latentcoupleregionmapper](https://github.com/CodeZombie/latentcoupleregionmapper) - Latent Couple Region Mapper
@@ -432,6 +456,7 @@
 
 ## Unknown
 
+* 【2023-04-18】[emuPlace / emuThreeDS](https://github.com/emuPlace/emuThreeDS) - World's first Nintendo 3DS emulator for Apple devices based on Citra.
 * 【2023-04-17】[UX-Decoder / Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Official implementation of the paper "Segment Everything Everywhere All at Once"
 * 【2023-04-17】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 * 【2023-04-17】[redcanaryco / mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise.
