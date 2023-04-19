@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-04-19】[PineappleExpress808 / auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) - 
+* 【2023-04-19】[muellerberndt / micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
+* 【2023-04-19】[hax / heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
+* 【2023-04-19】[JagadeeshwaranM / Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified) - 
+* 【2023-04-19】[dzoba / gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
+* 【2023-04-19】[jdagdelen / hyperDB](https://github.com/jdagdelen/hyperDB) - A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $35M cap.
+* 【2023-04-19】[kw2828 / Dolly-2.0-Series](https://github.com/kw2828/Dolly-2.0-Series) - Resources for running, fine-tuning, and inferencing Dolly 2.0
+* 【2023-04-19】[hoochanlon / NeiJuan](https://github.com/hoochanlon/NeiJuan) - 💾内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
 * 【2023-04-18】[linyiLYi / street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai) - This is an AI agent for Street Fighter II Champion Edition.
 * 【2023-04-18】[mlc-ai / web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 * 【2023-04-18】[SafaSafari / ss-cloud-scanner](https://github.com/SafaSafari/ss-cloud-scanner) - اسکنر اختصاصی صفا صفری
@@ -139,6 +147,7 @@
 
 ## Python
 
+* 【2023-04-19】[xtekky / gpt4free](https://github.com/xtekky/gpt4free) - Free gpt4 / gpt3.5 access through several reverse engineered api's (poe.com, phind.com, t3nsor.com etc...)
 * 【2023-04-18】[google / autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 * 【2023-04-18】[eimenhmdt / autoresearcher](https://github.com/eimenhmdt/autoresearcher) - ⚡Automating scientific workflows with AI⚡
 * 【2023-04-18】[Significant-Gravitas / Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
@@ -199,6 +208,10 @@
 
 ## Javascript
 
+* 【2023-04-19】[testing-library / react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐Simple and complete React DOM testing utilities that encourage good testing practices.
+* 【2023-04-19】[postmanlabs / newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
+* 【2023-04-19】[KaTeX / KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
+* 【2023-04-19】[immerjs / immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 * 【2023-04-18】[xcanwin / KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
 * 【2023-04-18】[doenerium69 / doenerium](https://github.com/doenerium69/doenerium) - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.) Disclaimer: We are not responsible for any damages this software may cause after being acquired. This software was made for personal education and sandbox testing.
 * 【2023-04-18】[PawanOsman / ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -282,6 +295,8 @@
 
 ## C
 
+* 【2023-04-19】[cproape / toolkit](https://github.com/cproape/toolkit) - ToolKit是一套应用于嵌入式系统的通用工具包，目前为止工具包包含：循环队列、软件定时器、事件集
+* 【2023-04-19】[DallasFR / WinShellcode](https://github.com/DallasFR/WinShellcode) - Make your own windows shellcode
 * 【2023-04-18】[michal-z / zig-gamedev](https://github.com/michal-z/zig-gamedev) - Building game development ecosystem for @ziglang!
 * 【2023-04-18】[surge-synthesizer / surge](https://github.com/surge-synthesizer/surge) - Synthesizer plug-in (previously released as Vember Audio Surge)
 * 【2023-04-17】[pschatzmann / arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for not only Arduino)
@@ -308,6 +323,7 @@
 
 ## C++
 
+* 【2023-04-19】[Voine / ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
 * 【2023-04-18】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 * 【2023-04-18】[rpng / open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
 * 【2023-04-17】[jrouwe / JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.
@@ -350,6 +366,7 @@
 
 ## C#
 
+* 【2023-04-19】[huggingface / unity-api](https://github.com/huggingface/unity-api) - 
 * 【2023-04-18】[StephenCleary / StructuredConcurrency](https://github.com/StephenCleary/StructuredConcurrency) - Structured concurrency support for C#
 * 【2023-04-18】[SebLague / Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
 * 【2023-04-17】[mivano / azure-cost-cli](https://github.com/mivano/azure-cost-cli) - CLI tool to perform cost analysis on your Azure subscription
@@ -387,6 +404,7 @@
 
 ## Html
 
+* 【2023-04-19】[TailAdmin / tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 * 【2023-04-18】[Global-CS-application / global-cs-application.github.io](https://github.com/Global-CS-application/global-cs-application.github.io) - 欧港新CS留学项目指北
 * 【2023-04-17】[lewangdev / shanghai-lockdown-covid-19](https://github.com/lewangdev/shanghai-lockdown-covid-19) - Coronavirus (COVID-19) statistics data in Shanghai lockdown. 封控期间上海疫情数据，包括病例数、死亡数、确诊数、无症状数和疫情地址等。
 * 【2023-04-16】[godbasin / front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
@@ -423,6 +441,7 @@
 
 ## Css
 
+* 【2023-04-19】[maid-cat / PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css) - 像素風格噗浪佈景
 * 【2023-04-18】[Marda33 / SkeuoCord](https://github.com/Marda33/SkeuoCord) - A skeuomorphic overhaul for Discord.
 * 【2023-04-16】[jtydhr88 / sd-canvas-editor](https://github.com/jtydhr88/sd-canvas-editor) - that integrated a full capability canvas editor which you can use layer, text, image, elements, etc
 * 【2023-04-15】[mulingyuer / Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ) - Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本
@@ -456,6 +475,9 @@
 
 ## Unknown
 
+* 【2023-04-19】[busenurcetin / ingilizce-turkce-Yazilim-Terimleri](https://github.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri) - Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.
+* 【2023-04-19】[Methexis-Inc / OneStepBabyAGI](https://github.com/Methexis-Inc/OneStepBabyAGI) - Baby AGI is cool, but why write so much code when it could just be a single GPT4 call?
+* 【2023-04-19】[EnnioX / IPWarden](https://github.com/EnnioX/IPWarden) - IPWarden（守望者）是一个IP资产风险巡查工具。持续发现系统、Web两个维度的资产和安全风险。所有扫描结果可通过API访问json数据，方便二次开发或数据整理。适合甲方安全人员用于监控管理公网/内网IP资产风险暴露面。
 * 【2023-04-18】[emuPlace / emuThreeDS](https://github.com/emuPlace/emuThreeDS) - World's first Nintendo 3DS emulator for Apple devices based on Citra.
 * 【2023-04-17】[UX-Decoder / Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Official implementation of the paper "Segment Everything Everywhere All at Once"
 * 【2023-04-17】[potatoqualitee / eol-dr](https://github.com/potatoqualitee/eol-dr) - A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
