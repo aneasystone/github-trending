@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2023-04-20】[Vision-CAIR / MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+* 【2023-04-20】[facebookresearch / dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
+* 【2023-04-20】[houseofsecrets / SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
+* 【2023-04-20】[geekyutao / Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
+* 【2023-04-20】[togethercomputer / RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+* 【2023-04-20】[zilliztech / GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
+* 【2023-04-20】[yoavbls / pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵Make TypeScript errors prettier and human-readable in VSCode🎀
+* 【2023-04-20】[liou666 / polyglot](https://github.com/liou666/polyglot) - 🤖️桌面端AI语言练习应用
+* 【2023-04-20】[Trendyol / baklava](https://github.com/Trendyol/baklava) - Design System with Web Components
+* 【2023-04-20】[nomic-ai / gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
 * 【2023-04-19】[PineappleExpress808 / auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) - 
 * 【2023-04-19】[muellerberndt / micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 * 【2023-04-19】[hax / heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
@@ -122,6 +132,7 @@
 
 ## Java
 
+* 【2023-04-20】[mrniko / netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 * 【2023-04-18】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 * 【2023-04-18】[creekrouter / creekrouter_for_android](https://github.com/creekrouter/creekrouter_for_android) - 
 * 【2023-04-18】[logisim-evolution / logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
@@ -147,6 +158,8 @@
 
 ## Python
 
+* 【2023-04-20】[voicepaw / so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+* 【2023-04-20】[winezer0 / DynaScan](https://github.com/winezer0/DynaScan) - 实现动态字典渲染、动态结果判断、自动命中记录、的敏感文件扫描器
 * 【2023-04-19】[xtekky / gpt4free](https://github.com/xtekky/gpt4free) - Free gpt4 / gpt3.5 access through several reverse engineered api's (poe.com, phind.com, t3nsor.com etc...)
 * 【2023-04-18】[google / autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 * 【2023-04-18】[eimenhmdt / autoresearcher](https://github.com/eimenhmdt/autoresearcher) - ⚡Automating scientific workflows with AI⚡
@@ -258,6 +271,10 @@
 
 ## Go
 
+* 【2023-04-20】[linweiyuan / go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Unofficial API in Go (bypass Cloudflare 403).
+* 【2023-04-20】[devfullcycle / fclx](https://github.com/devfullcycle/fclx) - 
+* 【2023-04-20】[XTLS / RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
+* 【2023-04-20】[kubernetes / kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 * 【2023-04-17】[acheong08 / ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API) - Scalable unofficial ChatGPT API for production.
 * 【2023-04-17】[determined-ai / determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 * 【2023-04-15】[gotzmann / llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
@@ -295,6 +312,8 @@
 
 ## C
 
+* 【2023-04-20】[Jebroll / Bald_Falcon](https://github.com/Jebroll/Bald_Falcon) - 
+* 【2023-04-20】[coolstar / libhooker](https://github.com/coolstar/libhooker) - libhooker OSS
 * 【2023-04-19】[cproape / toolkit](https://github.com/cproape/toolkit) - ToolKit是一套应用于嵌入式系统的通用工具包，目前为止工具包包含：循环队列、软件定时器、事件集
 * 【2023-04-19】[DallasFR / WinShellcode](https://github.com/DallasFR/WinShellcode) - Make your own windows shellcode
 * 【2023-04-18】[michal-z / zig-gamedev](https://github.com/michal-z/zig-gamedev) - Building game development ecosystem for @ziglang!
@@ -366,6 +385,7 @@
 
 ## C#
 
+* 【2023-04-20】[jstedfast / MimeKit](https://github.com/jstedfast/MimeKit) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 * 【2023-04-19】[huggingface / unity-api](https://github.com/huggingface/unity-api) - 
 * 【2023-04-18】[StephenCleary / StructuredConcurrency](https://github.com/StephenCleary/StructuredConcurrency) - Structured concurrency support for C#
 * 【2023-04-18】[SebLague / Ray-Tracing](https://github.com/SebLague/Ray-Tracing) - 
@@ -441,6 +461,7 @@
 
 ## Css
 
+* 【2023-04-20】[xhunmon / VABlog](https://github.com/xhunmon/VABlog) - YUV/PCM/H264/H265/AAC/FFmpeg/Opengl. 这有丰富的音视频开发的学习资源、开发工具、优秀书籍、教程、面试题和开源项目，旨在帮助开发者和爱好者更好地学习、实践和工作。
 * 【2023-04-19】[maid-cat / PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css) - 像素風格噗浪佈景
 * 【2023-04-18】[Marda33 / SkeuoCord](https://github.com/Marda33/SkeuoCord) - A skeuomorphic overhaul for Discord.
 * 【2023-04-16】[jtydhr88 / sd-canvas-editor](https://github.com/jtydhr88/sd-canvas-editor) - that integrated a full capability canvas editor which you can use layer, text, image, elements, etc
@@ -475,6 +496,11 @@
 
 ## Unknown
 
+* 【2023-04-20】[Anything-of-anything / Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
+* 【2023-04-20】[liaokongVFX / LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
+* 【2023-04-20】[ProbiusOfficial / CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart) - 针对0基础新手编写的CTF快速入门手册
+* 【2023-04-20】[allenai / mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
+* 【2023-04-20】[follow666 / javlib.com_javlibrary.com](https://github.com/follow666/javlib.com_javlibrary.com) - 最新JAVLibrary图书馆地址发布页！实时发布JAV图书馆最新地址_最新JAVlib图书馆防屏蔽地址_进入JAV图书馆最新可访问地址_JAVLibrary图书馆永久更新地址_JAVLibrary.com最新地址_javlib.com发布页地址
 * 【2023-04-19】[busenurcetin / ingilizce-turkce-Yazilim-Terimleri](https://github.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri) - Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.
 * 【2023-04-19】[Methexis-Inc / OneStepBabyAGI](https://github.com/Methexis-Inc/OneStepBabyAGI) - Baby AGI is cool, but why write so much code when it could just be a single GPT4 call?
 * 【2023-04-19】[EnnioX / IPWarden](https://github.com/EnnioX/IPWarden) - IPWarden（守望者）是一个IP资产风险巡查工具。持续发现系统、Web两个维度的资产和安全风险。所有扫描结果可通过API访问json数据，方便二次开发或数据整理。适合甲方安全人员用于监控管理公网/内网IP资产风险暴露面。
