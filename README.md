@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-04-21】[pashpashpash / vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
+* 【2023-04-21】[StanfordBDHG / HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language💬🩺
+* 【2023-04-21】[kaqijiang / Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
+* 【2023-04-21】[haotian-liu / LLaVA](https://github.com/haotian-liu/LLaVA) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+* 【2023-04-21】[hossein-mohseni / CF-Web](https://github.com/hossein-mohseni/CF-Web) - 🌥Simple Cloud Flare Websites + IPv4/IPv6 Extractor tool🌍
+* 【2023-04-21】[shilomagen / passport-extension](https://github.com/shilomagen/passport-extension) - 
 * 【2023-04-20】[Vision-CAIR / MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 * 【2023-04-20】[facebookresearch / dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 * 【2023-04-20】[houseofsecrets / SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
@@ -132,6 +138,7 @@
 
 ## Java
 
+* 【2023-04-21】[tuituidan / team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，本系统定位于研发团队内部使用，提供多种的卡片图标生成方式，能将上传的原型压缩包自动生成可访问的地址，支持私密卡片，发布倒计时等功能
 * 【2023-04-20】[mrniko / netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 * 【2023-04-18】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
 * 【2023-04-18】[creekrouter / creekrouter_for_android](https://github.com/creekrouter/creekrouter_for_android) - 
@@ -158,6 +165,10 @@
 
 ## Python
 
+* 【2023-04-21】[thomas-yanxin / LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B的针对本地知识库的自动问答
+* 【2023-04-21】[rhohndorf / Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
+* 【2023-04-21】[Doriandarko / BabyAGIChatGPT](https://github.com/Doriandarko/BabyAGIChatGPT) - A ChatGPT plugin to run BabyAI directly in the chat interface
+* 【2023-04-21】[akynazh / tg-jav-bot](https://github.com/akynazh/tg-jav-bot) - 一个万能的 Telegram 番号查询机器人: https://t.me/zh_jav_plus_bot
 * 【2023-04-20】[voicepaw / so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 * 【2023-04-20】[winezer0 / DynaScan](https://github.com/winezer0/DynaScan) - 实现动态字典渲染、动态结果判断、自动命中记录、的敏感文件扫描器
 * 【2023-04-19】[xtekky / gpt4free](https://github.com/xtekky/gpt4free) - Free gpt4 / gpt3.5 access through several reverse engineered api's (poe.com, phind.com, t3nsor.com etc...)
@@ -221,6 +232,8 @@
 
 ## Javascript
 
+* 【2023-04-21】[hardhackerlabs / themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All🌈
+* 【2023-04-21】[HeyPuter / kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill.
 * 【2023-04-19】[testing-library / react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐Simple and complete React DOM testing utilities that encourage good testing practices.
 * 【2023-04-19】[postmanlabs / newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 * 【2023-04-19】[KaTeX / KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -271,6 +284,8 @@
 
 ## Go
 
+* 【2023-04-21】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
+* 【2023-04-21】[looCiprian / GC2-sheet](https://github.com/looCiprian/GC2-sheet) - GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive.
 * 【2023-04-20】[linweiyuan / go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Unofficial API in Go (bypass Cloudflare 403).
 * 【2023-04-20】[devfullcycle / fclx](https://github.com/devfullcycle/fclx) - 
 * 【2023-04-20】[XTLS / RealiTLScanner](https://github.com/XTLS/RealiTLScanner) - A TLS server scanner for Reality
@@ -312,6 +327,8 @@
 
 ## C
 
+* 【2023-04-21】[little-brother / sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
+* 【2023-04-21】[rvs / planD](https://github.com/rvs/planD) - Plan9 from Containerspace
 * 【2023-04-20】[Jebroll / Bald_Falcon](https://github.com/Jebroll/Bald_Falcon) - 
 * 【2023-04-20】[coolstar / libhooker](https://github.com/coolstar/libhooker) - libhooker OSS
 * 【2023-04-19】[cproape / toolkit](https://github.com/cproape/toolkit) - ToolKit是一套应用于嵌入式系统的通用工具包，目前为止工具包包含：循环队列、软件定时器、事件集
@@ -342,6 +359,8 @@
 
 ## C++
 
+* 【2023-04-21】[mlesniew / PicoMQTT](https://github.com/mlesniew/PicoMQTT) - ESP MQTT client and broker library
+* 【2023-04-21】[daquexian / onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 * 【2023-04-19】[Voine / ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
 * 【2023-04-18】[endless-sky / endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 * 【2023-04-18】[rpng / open_vins](https://github.com/rpng/open_vins) - An open source platform for visual-inertial navigation research.
@@ -424,6 +443,7 @@
 
 ## Html
 
+* 【2023-04-21】[yexex / yexex.github.io](https://github.com/yexex/yexex.github.io) - 
 * 【2023-04-19】[TailAdmin / tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 * 【2023-04-18】[Global-CS-application / global-cs-application.github.io](https://github.com/Global-CS-application/global-cs-application.github.io) - 欧港新CS留学项目指北
 * 【2023-04-17】[lewangdev / shanghai-lockdown-covid-19](https://github.com/lewangdev/shanghai-lockdown-covid-19) - Coronavirus (COVID-19) statistics data in Shanghai lockdown. 封控期间上海疫情数据，包括病例数、死亡数、确诊数、无症状数和疫情地址等。
@@ -461,6 +481,7 @@
 
 ## Css
 
+* 【2023-04-21】[Nastassia / ssinventory](https://github.com/Nastassia/ssinventory) - Inventory app for IT
 * 【2023-04-20】[xhunmon / VABlog](https://github.com/xhunmon/VABlog) - YUV/PCM/H264/H265/AAC/FFmpeg/Opengl. 这有丰富的音视频开发的学习资源、开发工具、优秀书籍、教程、面试题和开源项目，旨在帮助开发者和爱好者更好地学习、实践和工作。
 * 【2023-04-19】[maid-cat / PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css) - 像素風格噗浪佈景
 * 【2023-04-18】[Marda33 / SkeuoCord](https://github.com/Marda33/SkeuoCord) - A skeuomorphic overhaul for Discord.
@@ -496,6 +517,12 @@
 
 ## Unknown
 
+* 【2023-04-21】[Orange-Cyberdefense / ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) - Orange Cyberdefense mindmaps
+* 【2023-04-21】[KimJun1010 / WeblogicTool](https://github.com/KimJun1010/WeblogicTool) - WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
+* 【2023-04-21】[t3l3machus / PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible) - A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts to achieve AV evasion, compiled for educational purposes. The contents of this repository are the result of personal research, including reading materials online and conducting trial-and-error attempts in labs and pentests.
+* 【2023-04-21】[nucliweb / webperf-snippets](https://github.com/nucliweb/webperf-snippets) - ⚡️💾Web Performance Snippets
+* 【2023-04-21】[aws-samples / service-control-policy-examples](https://github.com/aws-samples/service-control-policy-examples) - Example AWS Service control policies to get started or mature your usage of AWS SCPs.
+* 【2023-04-21】[chika0801 / sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 * 【2023-04-20】[Anything-of-anything / Anything-3D](https://github.com/Anything-of-anything/Anything-3D) - Segment-Anything + 3D. Let's lift anything to 3D.
 * 【2023-04-20】[liaokongVFX / LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - LangChain 的中文入门教程
 * 【2023-04-20】[ProbiusOfficial / CTF-QuickStart](https://github.com/ProbiusOfficial/CTF-QuickStart) - 针对0基础新手编写的CTF快速入门手册
