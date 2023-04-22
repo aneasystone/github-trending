@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-04-22】[Stability-AI / StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+* 【2023-04-22】[a16z / magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
+* 【2023-04-22】[suno-ai / bark](https://github.com/suno-ai/bark) - 🔊Text-Prompted Generative Audio Model
+* 【2023-04-22】[tsale / EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products.
+* 【2023-04-22】[aleskxyz / reality-ezpz](https://github.com/aleskxyz/reality-ezpz) - Reality EZPZ
+* 【2023-04-22】[h2oai / h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
+* 【2023-04-22】[OpenBMB / BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
 * 【2023-04-21】[pashpashpash / vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 * 【2023-04-21】[StanfordBDHG / HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - Query your Apple Health data with natural language💬🩺
 * 【2023-04-21】[kaqijiang / Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
@@ -165,6 +172,7 @@
 
 ## Python
 
+* 【2023-04-22】[xhongc / streamflow](https://github.com/xhongc/streamflow) - 任务调用平台+工作流引擎(workflow&workflow-engine)
 * 【2023-04-21】[thomas-yanxin / LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B的针对本地知识库的自动问答
 * 【2023-04-21】[rhohndorf / Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
 * 【2023-04-21】[Doriandarko / BabyAGIChatGPT](https://github.com/Doriandarko/BabyAGIChatGPT) - A ChatGPT plugin to run BabyAI directly in the chat interface
@@ -232,6 +240,9 @@
 
 ## Javascript
 
+* 【2023-04-22】[kiwphi / pop-shoot](https://github.com/kiwphi/pop-shoot) - 🚀Synthwave styled space shooter, inspired by the 80s arcades
+* 【2023-04-22】[patriksimek / vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
+* 【2023-04-22】[protobufjs / protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 * 【2023-04-21】[hardhackerlabs / themes](https://github.com/hardhackerlabs/themes) - 🧑🏾‍🚀 One Theme to Rule Them All🌈
 * 【2023-04-21】[HeyPuter / kv.js](https://github.com/HeyPuter/kv.js) - Advanced in-memory caching module for JavaScript. For when Redis or Memcached would be an overkill.
 * 【2023-04-19】[testing-library / react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐Simple and complete React DOM testing utilities that encourage good testing practices.
@@ -284,6 +295,8 @@
 
 ## Go
 
+* 【2023-04-22】[bufbuild / connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
+* 【2023-04-22】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 * 【2023-04-21】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 * 【2023-04-21】[looCiprian / GC2-sheet](https://github.com/looCiprian/GC2-sheet) - GC2 is a Command and Control application that allows an attacker to execute commands on the target machine using Google Sheet and exfiltrate data using Google Drive.
 * 【2023-04-20】[linweiyuan / go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Unofficial API in Go (bypass Cloudflare 403).
@@ -327,6 +340,9 @@
 
 ## C
 
+* 【2023-04-22】[crazii / SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
+* 【2023-04-22】[IcEy-999 / Drv_Hide_And_Camouflage](https://github.com/IcEy-999/Drv_Hide_And_Camouflage) - 
+* 【2023-04-22】[pmret / papermario](https://github.com/pmret/papermario) - Decompilation of Paper Mario
 * 【2023-04-21】[little-brother / sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 * 【2023-04-21】[rvs / planD](https://github.com/rvs/planD) - Plan9 from Containerspace
 * 【2023-04-20】[Jebroll / Bald_Falcon](https://github.com/Jebroll/Bald_Falcon) - 
@@ -404,6 +420,8 @@
 
 ## C#
 
+* 【2023-04-22】[sorabug / ChangeTimestamp](https://github.com/sorabug/ChangeTimestamp) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
+* 【2023-04-22】[SebLague / Ant-Simulation](https://github.com/SebLague/Ant-Simulation) - https://youtu.be/X-iSQQgOd1A
 * 【2023-04-20】[jstedfast / MimeKit](https://github.com/jstedfast/MimeKit) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
 * 【2023-04-19】[huggingface / unity-api](https://github.com/huggingface/unity-api) - 
 * 【2023-04-18】[StephenCleary / StructuredConcurrency](https://github.com/StephenCleary/StructuredConcurrency) - Structured concurrency support for C#
@@ -443,6 +461,8 @@
 
 ## Html
 
+* 【2023-04-22】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground🚀
+* 【2023-04-22】[ClarenceDan / openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI API Key 的余额，支持多个 Key 的查询，并附带了 Cloudflare 反向代理的搭建教程。
 * 【2023-04-21】[yexex / yexex.github.io](https://github.com/yexex/yexex.github.io) - 
 * 【2023-04-19】[TailAdmin / tailadmin-free-tailwind-dashboard-template](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template) - Free and Open-source Tailwind CSS Dashboard Admin Template that comes with all essential dashboard UI components, pages and elements
 * 【2023-04-18】[Global-CS-application / global-cs-application.github.io](https://github.com/Global-CS-application/global-cs-application.github.io) - 欧港新CS留学项目指北
@@ -481,6 +501,9 @@
 
 ## Css
 
+* 【2023-04-22】[jinydev / linux](https://github.com/jinydev/linux) - Learn Linux system
+* 【2023-04-22】[hammerofthor01 / xFiveM-Python-Script-2023-Working](https://github.com/hammerofthor01/xFiveM-Python-Script-2023-Working) - This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
+* 【2023-04-22】[lilichao / vue-course](https://github.com/lilichao/vue-course) - 
 * 【2023-04-21】[Nastassia / ssinventory](https://github.com/Nastassia/ssinventory) - Inventory app for IT
 * 【2023-04-20】[xhunmon / VABlog](https://github.com/xhunmon/VABlog) - YUV/PCM/H264/H265/AAC/FFmpeg/Opengl. 这有丰富的音视频开发的学习资源、开发工具、优秀书籍、教程、面试题和开源项目，旨在帮助开发者和爱好者更好地学习、实践和工作。
 * 【2023-04-19】[maid-cat / PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css) - 像素風格噗浪佈景
@@ -517,6 +540,11 @@
 
 ## Unknown
 
+* 【2023-04-22】[showlab / Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
+* 【2023-04-22】[mckaywrigley / prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
+* 【2023-04-22】[gobysec / Weblogic](https://github.com/gobysec/Weblogic) - Weblogic Serialization Vulnerability
+* 【2023-04-22】[yumingj / Text2Performer](https://github.com/yumingj/Text2Performer) - Code for Text2Performer. Paper: Text2Performer: Text-Driven Human Video Generation
+* 【2023-04-22】[SYaoJun / CPPInterview](https://github.com/SYaoJun/CPPInterview) - C/C++系统开发面试知识汇总
 * 【2023-04-21】[Orange-Cyberdefense / ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps) - Orange Cyberdefense mindmaps
 * 【2023-04-21】[KimJun1010 / WeblogicTool](https://github.com/KimJun1010/WeblogicTool) - WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
 * 【2023-04-21】[t3l3machus / PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible) - A collection of techniques, examples and a little bit of theory for manually obfuscating PowerShell scripts to achieve AV evasion, compiled for educational purposes. The contents of this repository are the result of personal research, including reading materials online and conducting trial-and-error attempts in labs and pentests.
