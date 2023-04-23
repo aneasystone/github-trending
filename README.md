@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-04-23】[sanchit-gandhi / whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
+* 【2023-04-23】[WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+* 【2023-04-23】[zedeus / nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
+* 【2023-04-23】[tkmru / awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) - Awesome EDR Bypass Resources For Ethical Hacking
+* 【2023-04-23】[highlight / highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
 * 【2023-04-22】[Stability-AI / StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 * 【2023-04-22】[a16z / magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
 * 【2023-04-22】[suno-ai / bark](https://github.com/suno-ai/bark) - 🔊Text-Prompted Generative Audio Model
@@ -172,6 +177,10 @@
 
 ## Python
 
+* 【2023-04-23】[lucidrains / naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
+* 【2023-04-23】[boiled-water-tsar / eat-my-entire-trans-ass-andrew-bailey](https://github.com/boiled-water-tsar/eat-my-entire-trans-ass-andrew-bailey) - The purpose of this repository is for trans people not be genocided.
+* 【2023-04-23】[jina-ai / gptdeploy](https://github.com/jina-ai/gptdeploy) - One line to create them all
+* 【2023-04-23】[robusta-dev / krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 * 【2023-04-22】[xhongc / streamflow](https://github.com/xhongc/streamflow) - 任务调用平台+工作流引擎(workflow&workflow-engine)
 * 【2023-04-21】[thomas-yanxin / LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B的针对本地知识库的自动问答
 * 【2023-04-21】[rhohndorf / Auto-Llama-cpp](https://github.com/rhohndorf/Auto-Llama-cpp) - Uses Auto-GPT with Llama.cpp
@@ -240,6 +249,11 @@
 
 ## Javascript
 
+* 【2023-04-23】[saeedezzati / superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
+* 【2023-04-23】[xtekky / chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
+* 【2023-04-23】[0hq / WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+* 【2023-04-23】[reevald / ai-workout-assistant](https://github.com/reevald/ai-workout-assistant) - AI-based pose tracking and repetitions counter to help everyone do the workout.
+* 【2023-04-23】[hmjz100 / Online-disk-direct-link-download-assistant](https://github.com/hmjz100/Online-disk-direct-link-download-assistant) - 可以获取网盘文件真实下载地址。基于【网盘直链下载助手】修改（改自6.0.4版本），原作者：https://www.baiduyun.wiki/ ，自用，去推广。
 * 【2023-04-22】[kiwphi / pop-shoot](https://github.com/kiwphi/pop-shoot) - 🚀Synthwave styled space shooter, inspired by the 80s arcades
 * 【2023-04-22】[patriksimek / vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js
 * 【2023-04-22】[protobufjs / protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
@@ -295,6 +309,8 @@
 
 ## Go
 
+* 【2023-04-23】[go-skynet / LocalAI](https://github.com/go-skynet/LocalAI) - 🤖Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
+* 【2023-04-23】[ABCDEcapital / Understanding-Ethereum-Go-version](https://github.com/ABCDEcapital/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2023-04-22】[bufbuild / connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
 * 【2023-04-22】[googleforgames / agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 * 【2023-04-21】[go-swagger / go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
@@ -340,6 +356,8 @@
 
 ## C
 
+* 【2023-04-23】[huntandhackett / process-cloning](https://github.com/huntandhackett/process-cloning) - The Definitive Guide To Process Cloning on Windows
+* 【2023-04-23】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 * 【2023-04-22】[crazii / SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
 * 【2023-04-22】[IcEy-999 / Drv_Hide_And_Camouflage](https://github.com/IcEy-999/Drv_Hide_And_Camouflage) - 
 * 【2023-04-22】[pmret / papermario](https://github.com/pmret/papermario) - Decompilation of Paper Mario
@@ -461,6 +479,8 @@
 
 ## Html
 
+* 【2023-04-23】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
+* 【2023-04-23】[mountain658 / mountain658.github.io](https://github.com/mountain658/mountain658.github.io) - Mountain Game Games
 * 【2023-04-22】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground🚀
 * 【2023-04-22】[ClarenceDan / openai-billing](https://github.com/ClarenceDan/openai-billing) - This project provides a quick and easy way to check OpenAI API Key balances, supports multiple key checks, and includes a tutorial for setting up a Cloudflare reverse proxy.这个项目提供了一个快速简便的方式来查询 OpenAI API Key 的余额，支持多个 Key 的查询，并附带了 Cloudflare 反向代理的搭建教程。
 * 【2023-04-21】[yexex / yexex.github.io](https://github.com/yexex/yexex.github.io) - 
@@ -501,6 +521,9 @@
 
 ## Css
 
+* 【2023-04-23】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
+* 【2023-04-23】[intern2grow / wikipedia-search-engine](https://github.com/intern2grow/wikipedia-search-engine) - 
+* 【2023-04-23】[flokk / theme-origami](https://github.com/flokk/theme-origami) - Origami Theme for Flokk
 * 【2023-04-22】[jinydev / linux](https://github.com/jinydev/linux) - Learn Linux system
 * 【2023-04-22】[hammerofthor01 / xFiveM-Python-Script-2023-Working](https://github.com/hammerofthor01/xFiveM-Python-Script-2023-Working) - This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
 * 【2023-04-22】[lilichao / vue-course](https://github.com/lilichao/vue-course) - 
@@ -540,6 +563,9 @@
 
 ## Unknown
 
+* 【2023-04-23】[yaodongC / awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+* 【2023-04-23】[BuzzFeedNews / everything](https://github.com/BuzzFeedNews/everything) - An index of all our open-source data, analysis, libraries, tools, and guides.
+* 【2023-04-23】[mianfeifq / share](https://github.com/mianfeifq/share) - 科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily， سرور های جدید V2Ray，سرور فعال V2ray
 * 【2023-04-22】[showlab / Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
 * 【2023-04-22】[mckaywrigley / prompts](https://github.com/mckaywrigley/prompts) - My favorite AI prompts.
 * 【2023-04-22】[gobysec / Weblogic](https://github.com/gobysec/Weblogic) - Weblogic Serialization Vulnerability
