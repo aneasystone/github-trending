@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-04-24】[OpenLMLab / MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
+* 【2023-04-24】[Dogtiti / AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+* 【2023-04-24】[lvwzhen / law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️AI 法律助手
+* 【2023-04-24】[opengeos / segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
+* 【2023-04-24】[peterw / Gumroad-Landing-Page-Generator](https://github.com/peterw/Gumroad-Landing-Page-Generator) - 
+* 【2023-04-24】[quadratichq / quadratic](https://github.com/quadratichq/quadratic) - Quadratic | Data Science Spreadsheet with Python & SQL
+* 【2023-04-24】[OpenGVLab / Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - a simple yet interesting tool for chatting about video with chatGPT, miniGPT4 and StableLM
 * 【2023-04-23】[sanchit-gandhi / whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 * 【2023-04-23】[WhiskeySockets / Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
 * 【2023-04-23】[zedeus / nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
@@ -150,6 +157,9 @@
 
 ## Java
 
+* 【2023-04-24】[FlorianMichael / ViaFabricPlus](https://github.com/FlorianMichael/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay
+* 【2023-04-24】[h2pl / JavaTutorial](https://github.com/h2pl/JavaTutorial) - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
+* 【2023-04-24】[magefree / mage](https://github.com/magefree/mage) - Magic Another Game Engine
 * 【2023-04-21】[tuituidan / team-nav](https://github.com/tuituidan/team-nav) - 前后端完整的网址导航服务，本系统定位于研发团队内部使用，提供多种的卡片图标生成方式，能将上传的原型压缩包自动生成可访问的地址，支持私密卡片，发布倒计时等功能
 * 【2023-04-20】[mrniko / netty-socketio](https://github.com/mrniko/netty-socketio) - Socket.IO server implemented on Java. Realtime java framework
 * 【2023-04-18】[emanuele-f / PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
@@ -177,6 +187,11 @@
 
 ## Python
 
+* 【2023-04-24】[Josh-XT / Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
+* 【2023-04-24】[bhaskatripathi / pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+* 【2023-04-24】[danielgross / LlamaAcademy](https://github.com/danielgross/LlamaAcademy) - A school for camelids
+* 【2023-04-24】[DLLXW / data-science-competition](https://github.com/DLLXW/data-science-competition) - 该仓库用于记录作者本人参加的各大数据科学竞赛的获奖方案源码以及一些新比赛的原创baseline. 主要涵盖：kaggle, 阿里天池，华为云大赛校园赛，百度aistudio，和鲸社区，datafountain等
+* 【2023-04-24】[SimonShi1994 / Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) - 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator
 * 【2023-04-23】[lucidrains / naturalspeech2-pytorch](https://github.com/lucidrains/naturalspeech2-pytorch) - Implementation of Natural Speech 2, Zero-shot Speech and Singing Synthesizer, in Pytorch
 * 【2023-04-23】[boiled-water-tsar / eat-my-entire-trans-ass-andrew-bailey](https://github.com/boiled-water-tsar/eat-my-entire-trans-ass-andrew-bailey) - The purpose of this repository is for trans people not be genocided.
 * 【2023-04-23】[jina-ai / gptdeploy](https://github.com/jina-ai/gptdeploy) - One line to create them all
@@ -249,6 +264,8 @@
 
 ## Javascript
 
+* 【2023-04-24】[adrianhajdin / project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer) - 
+* 【2023-04-24】[NateCC0902 / holdyourfork](https://github.com/NateCC0902/holdyourfork) - REM script that helps you re-add course automatically.
 * 【2023-04-23】[saeedezzati / superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
 * 【2023-04-23】[xtekky / chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI + running on free gpt api's
 * 【2023-04-23】[0hq / WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
@@ -309,6 +326,8 @@
 
 ## Go
 
+* 【2023-04-24】[ublue-os / fleek](https://github.com/ublue-os/fleek) - Own your $HOME
+* 【2023-04-24】[optiv / ScareCrow](https://github.com/optiv/ScareCrow) - ScareCrow - Payload creation framework designed around EDR bypass.
 * 【2023-04-23】[go-skynet / LocalAI](https://github.com/go-skynet/LocalAI) - 🤖Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
 * 【2023-04-23】[ABCDEcapital / Understanding-Ethereum-Go-version](https://github.com/ABCDEcapital/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2023-04-22】[bufbuild / connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
@@ -356,6 +375,7 @@
 
 ## C
 
+* 【2023-04-24】[Totoro97 / f2-nerf](https://github.com/Totoro97/f2-nerf) - Fast neural radiance field training with free camera trajectories
 * 【2023-04-23】[huntandhackett / process-cloning](https://github.com/huntandhackett/process-cloning) - The Definitive Guide To Process Cloning on Windows
 * 【2023-04-23】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
 * 【2023-04-22】[crazii / SBEMU](https://github.com/crazii/SBEMU) - legacy sound blaster emulation for DOS
@@ -393,6 +413,8 @@
 
 ## C++
 
+* 【2023-04-24】[matanki-saito / EU4dll](https://github.com/matanki-saito/EU4dll) - Europa Universalis IV double byte language patch; master:1.34.2, dev:1.35.1
+* 【2023-04-24】[ros-planning / navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack. Code for finding where the robot is and how it can get somewhere else.
 * 【2023-04-21】[mlesniew / PicoMQTT](https://github.com/mlesniew/PicoMQTT) - ESP MQTT client and broker library
 * 【2023-04-21】[daquexian / onnx-simplifier](https://github.com/daquexian/onnx-simplifier) - Simplify your onnx model
 * 【2023-04-19】[Voine / ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile) - 移动版二次元 AI 老婆聊天器
@@ -438,6 +460,7 @@
 
 ## C#
 
+* 【2023-04-24】[daohainam / solid-bad-designs](https://github.com/daohainam/solid-bad-designs) - 
 * 【2023-04-22】[sorabug / ChangeTimestamp](https://github.com/sorabug/ChangeTimestamp) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
 * 【2023-04-22】[SebLague / Ant-Simulation](https://github.com/SebLague/Ant-Simulation) - https://youtu.be/X-iSQQgOd1A
 * 【2023-04-20】[jstedfast / MimeKit](https://github.com/jstedfast/MimeKit) - A .NET MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF and Unix mbox spools.
@@ -479,6 +502,7 @@
 
 ## Html
 
+* 【2023-04-24】[golang-cafe / job-board](https://github.com/golang-cafe/job-board) - Golang Cafe - Go job board with no recruiters and clear salary ranges
 * 【2023-04-23】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
 * 【2023-04-23】[mountain658 / mountain658.github.io](https://github.com/mountain658/mountain658.github.io) - Mountain Game Games
 * 【2023-04-22】[madhuakula / kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground🚀
@@ -521,6 +545,7 @@
 
 ## Css
 
+* 【2023-04-24】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Cairo and Starknet. By the Starknet community
 * 【2023-04-23】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
 * 【2023-04-23】[intern2grow / wikipedia-search-engine](https://github.com/intern2grow/wikipedia-search-engine) - 
 * 【2023-04-23】[flokk / theme-origami](https://github.com/flokk/theme-origami) - Origami Theme for Flokk
@@ -563,6 +588,11 @@
 
 ## Unknown
 
+* 【2023-04-24】[OffcierCia / Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+* 【2023-04-24】[trekhleb / state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
+* 【2023-04-24】[NoorQureshi / kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
+* 【2023-04-24】[coderdreamworld / chatgpt-chatgpt-chatgpt-zh](https://github.com/coderdreamworld/chatgpt-chatgpt-chatgpt-zh) - ChatGPT调教，ChatGPT魔法，ChatGPT咒语，ChatGPT指令，ChatGPT炼丹，ChatGPT Prompt中文调教指南，ChatGPT免费代理网站
+* 【2023-04-24】[bluesky-social / atproto-ecosystem](https://github.com/bluesky-social/atproto-ecosystem) - list of projects and implementations in the AT protocol ecosystem
 * 【2023-04-23】[yaodongC / awesome-instruction-dataset](https://github.com/yaodongC/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 * 【2023-04-23】[BuzzFeedNews / everything](https://github.com/BuzzFeedNews/everything) - An index of all our open-source data, analysis, libraries, tools, and guides.
 * 【2023-04-23】[mianfeifq / share](https://github.com/mianfeifq/share) - 科学上网，免费节点，白嫖节点，免费vpn，免费v2ray，免费Trojan，免费SSR，每日更新，Free VPN，Free v2ray，Free Trojan，Free SSR，Update daily， سرور های جدید V2Ray，سرور فعال V2ray
