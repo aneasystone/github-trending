@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-04-25】[BabylonJS / Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+* 【2023-04-25】[datawhalechina / hugging-llm](https://github.com/datawhalechina/hugging-llm) - HuggingLLM, Hugging Future.
 * 【2023-04-24】[OpenLMLab / MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
 * 【2023-04-24】[Dogtiti / AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 * 【2023-04-24】[lvwzhen / law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️AI 法律助手
@@ -157,6 +159,8 @@
 
 ## Java
 
+* 【2023-04-25】[apache / rocketmq-clients](https://github.com/apache/rocketmq-clients) - RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ
+* 【2023-04-25】[binghe001 / spring-annotation-book](https://github.com/binghe001/spring-annotation-book) - 🔥🔥🔥《Spring核心技术》专栏源码
 * 【2023-04-24】[FlorianMichael / ViaFabricPlus](https://github.com/FlorianMichael/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay
 * 【2023-04-24】[h2pl / JavaTutorial](https://github.com/h2pl/JavaTutorial) - 【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！
 * 【2023-04-24】[magefree / mage](https://github.com/magefree/mage) - Magic Another Game Engine
@@ -187,6 +191,8 @@
 
 ## Python
 
+* 【2023-04-25】[RiseInRose / MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH) - MiniGPT-4 中文部署翻译 完善部署细节
+* 【2023-04-25】[JSv4 / Delphic](https://github.com/JSv4/Delphic) - Starter App to Build Your Own App to Query Doc Collections with Large Language Models (LLMs) using LlamaIndex, Langchain, OpenAI and more (MIT Licensed)
 * 【2023-04-24】[Josh-XT / Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
 * 【2023-04-24】[bhaskatripathi / pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 * 【2023-04-24】[danielgross / LlamaAcademy](https://github.com/danielgross/LlamaAcademy) - A school for camelids
@@ -264,6 +270,7 @@
 
 ## Javascript
 
+* 【2023-04-25】[kheina-com / Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 * 【2023-04-24】[adrianhajdin / project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer) - 
 * 【2023-04-24】[NateCC0902 / holdyourfork](https://github.com/NateCC0902/holdyourfork) - REM script that helps you re-add course automatically.
 * 【2023-04-23】[saeedezzati / superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - Superpower ChatGPT Chrome Extension
@@ -326,6 +333,7 @@
 
 ## Go
 
+* 【2023-04-25】[ariga / atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 * 【2023-04-24】[ublue-os / fleek](https://github.com/ublue-os/fleek) - Own your $HOME
 * 【2023-04-24】[optiv / ScareCrow](https://github.com/optiv/ScareCrow) - ScareCrow - Payload creation framework designed around EDR bypass.
 * 【2023-04-23】[go-skynet / LocalAI](https://github.com/go-skynet/LocalAI) - 🤖Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras
@@ -375,6 +383,8 @@
 
 ## C
 
+* 【2023-04-25】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
+* 【2023-04-25】[huaigu4ng / SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - SysWhispers3WinHttp 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender。
 * 【2023-04-24】[Totoro97 / f2-nerf](https://github.com/Totoro97/f2-nerf) - Fast neural radiance field training with free camera trajectories
 * 【2023-04-23】[huntandhackett / process-cloning](https://github.com/huntandhackett/process-cloning) - The Definitive Guide To Process Cloning on Windows
 * 【2023-04-23】[maharmstone / btrfs](https://github.com/maharmstone/btrfs) - WinBtrfs - an open-source btrfs driver for Windows
@@ -413,6 +423,7 @@
 
 ## C++
 
+* 【2023-04-25】[L8X / Roblox-Client-Optimizer](https://github.com/L8X/Roblox-Client-Optimizer) - Automatically tweaks FFlags to optimize your Roblox client
 * 【2023-04-24】[matanki-saito / EU4dll](https://github.com/matanki-saito/EU4dll) - Europa Universalis IV double byte language patch; master:1.34.2, dev:1.35.1
 * 【2023-04-24】[ros-planning / navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack. Code for finding where the robot is and how it can get somewhere else.
 * 【2023-04-21】[mlesniew / PicoMQTT](https://github.com/mlesniew/PicoMQTT) - ESP MQTT client and broker library
@@ -460,6 +471,8 @@
 
 ## C#
 
+* 【2023-04-25】[MishaProductions / Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
+* 【2023-04-25】[SubnauticaNitrox / Nitrox](https://github.com/SubnauticaNitrox/Nitrox) - An open-source, multiplayer modification for the game Subnautica.
 * 【2023-04-24】[daohainam / solid-bad-designs](https://github.com/daohainam/solid-bad-designs) - 
 * 【2023-04-22】[sorabug / ChangeTimestamp](https://github.com/sorabug/ChangeTimestamp) - 一键修改exe、dll的编译时间、创建时间、修改时间和访问时间
 * 【2023-04-22】[SebLague / Ant-Simulation](https://github.com/SebLague/Ant-Simulation) - https://youtu.be/X-iSQQgOd1A
@@ -502,6 +515,7 @@
 
 ## Html
 
+* 【2023-04-25】[YuehaiTeam / webstatic-extractor](https://github.com/YuehaiTeam/webstatic-extractor) - 一键从原神网页活动中提取spine模型及相关图片素材 Extract static resources from genshin web activity pages in one click!
 * 【2023-04-24】[golang-cafe / job-board](https://github.com/golang-cafe/job-board) - Golang Cafe - Go job board with no recruiters and clear salary ranges
 * 【2023-04-23】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
 * 【2023-04-23】[mountain658 / mountain658.github.io](https://github.com/mountain658/mountain658.github.io) - Mountain Game Games
@@ -545,6 +559,7 @@
 
 ## Css
 
+* 【2023-04-25】[KiritoCheng / openai-public](https://github.com/KiritoCheng/openai-public) - openai-public
 * 【2023-04-24】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Cairo and Starknet. By the Starknet community
 * 【2023-04-23】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
 * 【2023-04-23】[intern2grow / wikipedia-search-engine](https://github.com/intern2grow/wikipedia-search-engine) - 
@@ -588,6 +603,11 @@
 
 ## Unknown
 
+* 【2023-04-25】[formulahendry / awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+* 【2023-04-25】[SamurAIGPT / Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀Introducing🐪CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents🤝collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI,🎮gaming,📚education, and more!🔥
+* 【2023-04-25】[arch3rPro / Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit
+* 【2023-04-25】[CyberSecurityUP / Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists) - Checklists for Testing Security environment
+* 【2023-04-25】[Tyson0314 / Java-learning](https://github.com/Tyson0314/Java-learning) - Java相关知识总结，包括Java基础、MySQL、Springboot、mybatis、Redis、rabbitMQ等等，面试必备！
 * 【2023-04-24】[OffcierCia / Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 * 【2023-04-24】[trekhleb / state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
 * 【2023-04-24】[NoorQureshi / kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers
