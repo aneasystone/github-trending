@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-04-26】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+* 【2023-04-26】[berachain / polaris](https://github.com/berachain/polaris) - Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
+* 【2023-04-26】[LawRefBook / Laws](https://github.com/LawRefBook/Laws) - 
+* 【2023-04-26】[lupantech / chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
+* 【2023-04-26】[ellie / atuin](https://github.com/ellie/atuin) - 🐢Magical shell history
 * 【2023-04-25】[BabylonJS / Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
 * 【2023-04-25】[datawhalechina / hugging-llm](https://github.com/datawhalechina/hugging-llm) - HuggingLLM, Hugging Future.
 * 【2023-04-24】[OpenLMLab / MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
@@ -159,6 +164,7 @@
 
 ## Java
 
+* 【2023-04-26】[micrometer-metrics / tracing](https://github.com/micrometer-metrics/tracing) - Provides tracing abstractions over tracers and tracing system reporters.
 * 【2023-04-25】[apache / rocketmq-clients](https://github.com/apache/rocketmq-clients) - RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ
 * 【2023-04-25】[binghe001 / spring-annotation-book](https://github.com/binghe001/spring-annotation-book) - 🔥🔥🔥《Spring核心技术》专栏源码
 * 【2023-04-24】[FlorianMichael / ViaFabricPlus](https://github.com/FlorianMichael/ViaFabricPlus) - Fabric mod to connect to EVERY Minecraft server version (Release, Beta, Alpha, Classic, Snapshots, Bedrock) with QoL fixes to the gameplay
@@ -270,6 +276,8 @@
 
 ## Javascript
 
+* 【2023-04-26】[emberjs / ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
+* 【2023-04-26】[zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) - ✂️Modern copy to clipboard. No Flash. Just 3kb gzipped📋
 * 【2023-04-25】[kheina-com / Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
 * 【2023-04-24】[adrianhajdin / project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer) - 
 * 【2023-04-24】[NateCC0902 / holdyourfork](https://github.com/NateCC0902/holdyourfork) - REM script that helps you re-add course automatically.
@@ -333,6 +341,7 @@
 
 ## Go
 
+* 【2023-04-26】[bluesky-social / indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services. NOT STABLE (yet)
 * 【2023-04-25】[ariga / atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 * 【2023-04-24】[ublue-os / fleek](https://github.com/ublue-os/fleek) - Own your $HOME
 * 【2023-04-24】[optiv / ScareCrow](https://github.com/optiv/ScareCrow) - ScareCrow - Payload creation framework designed around EDR bypass.
@@ -383,6 +392,7 @@
 
 ## C
 
+* 【2023-04-26】[haileys / doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 * 【2023-04-25】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * 【2023-04-25】[huaigu4ng / SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - SysWhispers3WinHttp 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender。
 * 【2023-04-24】[Totoro97 / f2-nerf](https://github.com/Totoro97/f2-nerf) - Fast neural radiance field training with free camera trajectories
@@ -423,6 +433,7 @@
 
 ## C++
 
+* 【2023-04-26】[introlab / rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 * 【2023-04-25】[L8X / Roblox-Client-Optimizer](https://github.com/L8X/Roblox-Client-Optimizer) - Automatically tweaks FFlags to optimize your Roblox client
 * 【2023-04-24】[matanki-saito / EU4dll](https://github.com/matanki-saito/EU4dll) - Europa Universalis IV double byte language patch; master:1.34.2, dev:1.35.1
 * 【2023-04-24】[ros-planning / navigation](https://github.com/ros-planning/navigation) - ROS Navigation stack. Code for finding where the robot is and how it can get somewhere else.
@@ -471,6 +482,9 @@
 
 ## C#
 
+* 【2023-04-26】[xksoft / OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
+* 【2023-04-26】[xamarin / xamarin-android](https://github.com/xamarin/xamarin-android) - Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
+* 【2023-04-26】[stakira / OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2023-04-25】[MishaProductions / Rectify11Installer](https://github.com/MishaProductions/Rectify11Installer) - A Windows 11 modification to make Windows more consistent.
 * 【2023-04-25】[SubnauticaNitrox / Nitrox](https://github.com/SubnauticaNitrox/Nitrox) - An open-source, multiplayer modification for the game Subnautica.
 * 【2023-04-24】[daohainam / solid-bad-designs](https://github.com/daohainam/solid-bad-designs) - 
@@ -515,6 +529,7 @@
 
 ## Html
 
+* 【2023-04-26】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 * 【2023-04-25】[YuehaiTeam / webstatic-extractor](https://github.com/YuehaiTeam/webstatic-extractor) - 一键从原神网页活动中提取spine模型及相关图片素材 Extract static resources from genshin web activity pages in one click!
 * 【2023-04-24】[golang-cafe / job-board](https://github.com/golang-cafe/job-board) - Golang Cafe - Go job board with no recruiters and clear salary ranges
 * 【2023-04-23】[microsoft / SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) - This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process.
@@ -559,6 +574,8 @@
 
 ## Css
 
+* 【2023-04-26】[Wivik / devops-solutions-map](https://github.com/Wivik/devops-solutions-map) - A tool displaying your DevOps solution map and their adoption for each step of the loop.
+* 【2023-04-26】[Azure-Samples / azure-django-postgres-aca](https://github.com/Azure-Samples/azure-django-postgres-aca) - Creates a Demo Application Deployable to Azure using Azure Container Apps
 * 【2023-04-25】[KiritoCheng / openai-public](https://github.com/KiritoCheng/openai-public) - openai-public
 * 【2023-04-24】[starknet-edu / starknetbook](https://github.com/starknet-edu/starknetbook) - Mastering Cairo and Starknet. By the Starknet community
 * 【2023-04-23】[pickle69420 / picklebox](https://github.com/pickle69420/picklebox) - PickleHub is a hub for students who are bored in school, contained in a bookmarklet!
@@ -603,6 +620,8 @@
 
 ## Unknown
 
+* 【2023-04-26】[hollobit / GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
+* 【2023-04-26】[Effective-Immediately / effective-immediately](https://github.com/Effective-Immediately/effective-immediately) - Layoffs are hard. Help each other— Effective Immediately. Everything an employer, colleague, or job seeker can use for support after layoffs.
 * 【2023-04-25】[formulahendry / awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 * 【2023-04-25】[SamurAIGPT / Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀Introducing🐪CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents🤝collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI,🎮gaming,📚education, and more!🔥
 * 【2023-04-25】[arch3rPro / Pentest-Windows](https://github.com/arch3rPro/Pentest-Windows) - Windows11 Penetration Suite Toolkit
