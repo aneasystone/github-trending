@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2023-04-27】[whoiskatrin / chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
+* 【2023-04-27】[Snaacky / dndserver](https://github.com/Snaacky/dndserver) - Dark and Darker private server implementation written in Python
+* 【2023-04-27】[BigBrotherTrade / trader](https://github.com/BigBrotherTrade/trader) - 交易模块
+* 【2023-04-27】[roboflow / notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.
+* 【2023-04-27】[gmpetrov / databerry](https://github.com/gmpetrov/databerry) - The no-code platform for connecting custom data to large language models
+* 【2023-04-27】[isaiahbjork / Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - 
+* 【2023-04-27】[bullet-train-co / bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template
+* 【2023-04-27】[modal-labs / quillman](https://github.com/modal-labs/quillman) - A chat app that transcribes audio in real-time, streams back a response from a language model, and synthesizes this response as natural-sounding speech.
+* 【2023-04-27】[bethylamine / twitter-archives](https://github.com/bethylamine/twitter-archives) - A collection of archived stuff from Twitter
+* 【2023-04-27】[farizrahman4u / loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 * 【2023-04-26】[mitsuhiko / rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 * 【2023-04-26】[berachain / polaris](https://github.com/berachain/polaris) - Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.
 * 【2023-04-26】[LawRefBook / Laws](https://github.com/LawRefBook/Laws) - 
@@ -197,6 +207,14 @@
 
 ## Python
 
+* 【2023-04-27】[OpenTalker / SadTalker](https://github.com/OpenTalker/SadTalker) - （CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
+* 【2023-04-27】[openai / plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
+* 【2023-04-27】[open-mmlab / mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
+* 【2023-04-27】[ow / samsung-frame-art](https://github.com/ow/samsung-frame-art) - A small script that makes it easy to fling a folder of images onto the Samsung Frame TV
+* 【2023-04-27】[rom1504 / img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
+* 【2023-04-27】[freedmand / semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
+* 【2023-04-27】[Lissy93 / portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢400+ 1-click Portainer app templates
+* 【2023-04-27】[Cytranics / LordGPT](https://github.com/Cytranics/LordGPT) - LordG is an AI Autonomous Agent that can complete a wide range of tasks unassisted. Built using python and OpenAI / Azure GPT Models.
 * 【2023-04-25】[RiseInRose / MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH) - MiniGPT-4 中文部署翻译 完善部署细节
 * 【2023-04-25】[JSv4 / Delphic](https://github.com/JSv4/Delphic) - Starter App to Build Your Own App to Query Doc Collections with Large Language Models (LLMs) using LlamaIndex, Langchain, OpenAI and more (MIT Licensed)
 * 【2023-04-24】[Josh-XT / Agent-LLM](https://github.com/Josh-XT/Agent-LLM) - An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.
@@ -276,6 +294,10 @@
 
 ## Javascript
 
+* 【2023-04-27】[keldenl / gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
+* 【2023-04-27】[tongcheng-security-team / NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
+* 【2023-04-27】[Methexis-Inc / SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
+* 【2023-04-27】[syednomishah / Coffee-App-React-Native](https://github.com/syednomishah/Coffee-App-React-Native) - 
 * 【2023-04-26】[emberjs / ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 * 【2023-04-26】[zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) - ✂️Modern copy to clipboard. No Flash. Just 3kb gzipped📋
 * 【2023-04-25】[kheina-com / Blue-Blocker](https://github.com/kheina-com/Blue-Blocker) - Blocks all Twitter Blue verified users on twitter.com
@@ -341,6 +363,7 @@
 
 ## Go
 
+* 【2023-04-27】[joho / godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 * 【2023-04-26】[bluesky-social / indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services. NOT STABLE (yet)
 * 【2023-04-25】[ariga / atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 * 【2023-04-24】[ublue-os / fleek](https://github.com/ublue-os/fleek) - Own your $HOME
@@ -392,6 +415,7 @@
 
 ## C
 
+* 【2023-04-27】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 * 【2023-04-26】[haileys / doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 * 【2023-04-25】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * 【2023-04-25】[huaigu4ng / SysWhispers3WinHttp](https://github.com/huaigu4ng/SysWhispers3WinHttp) - SysWhispers3WinHttp 基于SysWhispers3项目增添WinHttp分离加载功能，可免杀绕过360核晶与Defender。
@@ -433,6 +457,7 @@
 
 ## C++
 
+* 【2023-04-27】[f3d-app / f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 * 【2023-04-26】[introlab / rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 * 【2023-04-25】[L8X / Roblox-Client-Optimizer](https://github.com/L8X/Roblox-Client-Optimizer) - Automatically tweaks FFlags to optimize your Roblox client
 * 【2023-04-24】[matanki-saito / EU4dll](https://github.com/matanki-saito/EU4dll) - Europa Universalis IV double byte language patch; master:1.34.2, dev:1.35.1
@@ -482,6 +507,9 @@
 
 ## C#
 
+* 【2023-04-27】[sandrohanea / whisper.net](https://github.com/sandrohanea/whisper.net) - Whisper.net. Speech to text made simple using Whisper Models
+* 【2023-04-27】[benaclejames / VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - VRChat OSC App to allow AV3 Avatars to interact with Vive SRanipal Eye and Lip Tracking SDK
+* 【2023-04-27】[maniero / SOpt](https://github.com/maniero/SOpt) - Códigos soltos usados em respostas minhas no Stack Overflow em português
 * 【2023-04-26】[xksoft / OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
 * 【2023-04-26】[xamarin / xamarin-android](https://github.com/xamarin/xamarin-android) - Xamarin.Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
 * 【2023-04-26】[stakira / OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
@@ -529,6 +557,8 @@
 
 ## Html
 
+* 【2023-04-27】[zhong1016 / software-salaries](https://github.com/zhong1016/software-salaries) - 台灣軟體業薪水資訊
+* 【2023-04-27】[six2dez / reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 * 【2023-04-26】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 * 【2023-04-25】[YuehaiTeam / webstatic-extractor](https://github.com/YuehaiTeam/webstatic-extractor) - 一键从原神网页活动中提取spine模型及相关图片素材 Extract static resources from genshin web activity pages in one click!
 * 【2023-04-24】[golang-cafe / job-board](https://github.com/golang-cafe/job-board) - Golang Cafe - Go job board with no recruiters and clear salary ranges
@@ -574,6 +604,8 @@
 
 ## Css
 
+* 【2023-04-27】[hqasmei / tailwindcss-and-nextjs-portfolio](https://github.com/hqasmei/tailwindcss-and-nextjs-portfolio) - A Next.js and Tailwind CSS Portfolio Website.
+* 【2023-04-27】[ewuweblab / certificate-cards](https://github.com/ewuweblab/certificate-cards) - Promotional site to showcase Dept of Design Certificates
 * 【2023-04-26】[Wivik / devops-solutions-map](https://github.com/Wivik/devops-solutions-map) - A tool displaying your DevOps solution map and their adoption for each step of the loop.
 * 【2023-04-26】[Azure-Samples / azure-django-postgres-aca](https://github.com/Azure-Samples/azure-django-postgres-aca) - Creates a Demo Application Deployable to Azure using Azure Container Apps
 * 【2023-04-25】[KiritoCheng / openai-public](https://github.com/KiritoCheng/openai-public) - openai-public
@@ -620,6 +652,11 @@
 
 ## Unknown
 
+* 【2023-04-27】[ARKInvest / ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla
+* 【2023-04-27】[derwiki / layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track.
+* 【2023-04-27】[voidful / awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
+* 【2023-04-27】[Hobr / cp_deprecate](https://github.com/Hobr/cp_deprecate) - 
+* 【2023-04-27】[northwesternfintech / 2024QuantInternships](https://github.com/northwesternfintech/2024QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone.
 * 【2023-04-26】[hollobit / GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 * 【2023-04-26】[Effective-Immediately / effective-immediately](https://github.com/Effective-Immediately/effective-immediately) - Layoffs are hard. Help each other— Effective Immediately. Everything an employer, colleague, or job seeker can use for support after layoffs.
 * 【2023-04-25】[formulahendry / awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
