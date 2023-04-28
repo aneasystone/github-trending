@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-04-28】[gaomingqi / Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+* 【2023-04-28】[GFW-knocker / gfw_resist_tls_proxy](https://github.com/GFW-knocker/gfw_resist_tls_proxy) - knock up GFW sni detection in tls client hello
+* 【2023-04-28】[peterw / Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
+* 【2023-04-28】[sadmann7 / netflx-web](https://github.com/sadmann7/netflx-web) - 
+* 【2023-04-28】[aniskoubaa / rosgpt](https://github.com/aniskoubaa/rosgpt) - 
+* 【2023-04-28】[alaeddine-13 / thinkgpt](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyong its limits
 * 【2023-04-27】[whoiskatrin / chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 * 【2023-04-27】[Snaacky / dndserver](https://github.com/Snaacky/dndserver) - Dark and Darker private server implementation written in Python
 * 【2023-04-27】[BigBrotherTrade / trader](https://github.com/BigBrotherTrade/trader) - 交易模块
@@ -174,6 +180,8 @@
 
 ## Java
 
+* 【2023-04-28】[SolarisNeko / datetime233](https://github.com/SolarisNeko/datetime233) - DateTime233 is a zero-designed DateTime API by flux-style. 重新设计的整套 DateTime API~
+* 【2023-04-28】[FrankCYB / JavaGPT](https://github.com/FrankCYB/JavaGPT) - A Java GUI to interface ChatGPT API
 * 【2023-04-26】[micrometer-metrics / tracing](https://github.com/micrometer-metrics/tracing) - Provides tracing abstractions over tracers and tracing system reporters.
 * 【2023-04-25】[apache / rocketmq-clients](https://github.com/apache/rocketmq-clients) - RocketMQ Clients - Collection of Client Bindings for Apache RocketMQ
 * 【2023-04-25】[binghe001 / spring-annotation-book](https://github.com/binghe001/spring-annotation-book) - 🔥🔥🔥《Spring核心技术》专栏源码
@@ -207,6 +215,8 @@
 
 ## Python
 
+* 【2023-04-28】[deep-diver / LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
+* 【2023-04-28】[NVIDIA / NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 * 【2023-04-27】[OpenTalker / SadTalker](https://github.com/OpenTalker/SadTalker) - （CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 * 【2023-04-27】[openai / plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 * 【2023-04-27】[open-mmlab / mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
@@ -294,6 +304,9 @@
 
 ## Javascript
 
+* 【2023-04-28】[cedricr / 100joursdezbeul](https://github.com/cedricr/100joursdezbeul) - 
+* 【2023-04-28】[syednomishah / Food-Delivery-App-React-Native](https://github.com/syednomishah/Food-Delivery-App-React-Native) - 
+* 【2023-04-28】[enzeberg / tonzhon-music](https://github.com/enzeberg/tonzhon-music) - 铜钟 (Tonzhon): 免费听歌, Web App, 没有社交, 没有广告, 没有干扰, 简洁纯粹, 资源丰富, 体验独特！
 * 【2023-04-27】[keldenl / gpt-llama.cpp](https://github.com/keldenl/gpt-llama.cpp) - A llama.cpp drop-in replacement for OpenAI's GPT endpoints, allowing GPT-powered apps to run off local llama.cpp models instead of OpenAI.
 * 【2023-04-27】[tongcheng-security-team / NextScan](https://github.com/tongcheng-security-team/NextScan) - 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
 * 【2023-04-27】[Methexis-Inc / SocialAGI](https://github.com/Methexis-Inc/SocialAGI) - Create digital souls
@@ -363,6 +376,7 @@
 
 ## Go
 
+* 【2023-04-28】[ConnectAI-E / Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney) - 🍎一套让飞书调用 midjourney 的实现方案
 * 【2023-04-27】[joho / godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 * 【2023-04-26】[bluesky-social / indigo](https://github.com/bluesky-social/indigo) - Go source code for Bluesky's atproto services. NOT STABLE (yet)
 * 【2023-04-25】[ariga / atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
@@ -415,6 +429,8 @@
 
 ## C
 
+* 【2023-04-28】[TheD1rkMtr / PE-Obfuscator](https://github.com/TheD1rkMtr/PE-Obfuscator) - PE obfuscator with Evasion in mind
+* 【2023-04-28】[BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) - Improved version of first ESP32 NerdMiner
 * 【2023-04-27】[MrGlockenspiel / activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 * 【2023-04-26】[haileys / doslinux](https://github.com/haileys/doslinux) - Run Linux programs on DOS
 * 【2023-04-25】[hzqst / VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) - Vmware Hardened VM detection mitigation loader (anti anti-vm)
@@ -457,6 +473,8 @@
 
 ## C++
 
+* 【2023-04-28】[SysSec-KAIST / LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
+* 【2023-04-28】[AcademySoftwareFoundation / MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) - MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 * 【2023-04-27】[f3d-app / f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 * 【2023-04-26】[introlab / rtabmap](https://github.com/introlab/rtabmap) - RTAB-Map library and standalone application
 * 【2023-04-25】[L8X / Roblox-Client-Optimizer](https://github.com/L8X/Roblox-Client-Optimizer) - Automatically tweaks FFlags to optimize your Roblox client
@@ -507,6 +525,10 @@
 
 ## C#
 
+* 【2023-04-28】[dcsoft-yyf / JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) - An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.
+* 【2023-04-28】[github / gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
+* 【2023-04-28】[HaveIBeenPwned / EmailAddressExtractor](https://github.com/HaveIBeenPwned/EmailAddressExtractor) - A project to rapidly extract all email addresses from any files in a given path
+* 【2023-04-28】[shapoco / calctus](https://github.com/shapoco/calctus) - 
 * 【2023-04-27】[sandrohanea / whisper.net](https://github.com/sandrohanea/whisper.net) - Whisper.net. Speech to text made simple using Whisper Models
 * 【2023-04-27】[benaclejames / VRCFaceTracking](https://github.com/benaclejames/VRCFaceTracking) - VRChat OSC App to allow AV3 Avatars to interact with Vive SRanipal Eye and Lip Tracking SDK
 * 【2023-04-27】[maniero / SOpt](https://github.com/maniero/SOpt) - Códigos soltos usados em respostas minhas no Stack Overflow em português
@@ -557,6 +579,8 @@
 
 ## Html
 
+* 【2023-04-28】[Atlas-OS / docs](https://github.com/Atlas-OS/docs) - Atlas documentation hosted on GitHub Pages using MkDocs
+* 【2023-04-28】[mozilla / policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
 * 【2023-04-27】[zhong1016 / software-salaries](https://github.com/zhong1016/software-salaries) - 台灣軟體業薪水資訊
 * 【2023-04-27】[six2dez / reconftw](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
 * 【2023-04-26】[GreyDGL / PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
@@ -604,6 +628,9 @@
 
 ## Css
 
+* 【2023-04-28】[omiras / ping-single-column-exercise-js](https://github.com/omiras/ping-single-column-exercise-js) - 
+* 【2023-04-28】[Sight-wcg / layui-theme-dark](https://github.com/Sight-wcg/layui-theme-dark) - layui 暗色主题
+* 【2023-04-28】[promise-J / LM-tech-Template](https://github.com/promise-J/LM-tech-Template) - jus for testing
 * 【2023-04-27】[hqasmei / tailwindcss-and-nextjs-portfolio](https://github.com/hqasmei/tailwindcss-and-nextjs-portfolio) - A Next.js and Tailwind CSS Portfolio Website.
 * 【2023-04-27】[ewuweblab / certificate-cards](https://github.com/ewuweblab/certificate-cards) - Promotional site to showcase Dept of Design Certificates
 * 【2023-04-26】[Wivik / devops-solutions-map](https://github.com/Wivik/devops-solutions-map) - A tool displaying your DevOps solution map and their adoption for each step of the loop.
@@ -652,6 +679,11 @@
 
 ## Unknown
 
+* 【2023-04-28】[Jumpat / SegmentAnythingin3D](https://github.com/Jumpat/SegmentAnythingin3D) - Segment Anything in 3D with NeRFs
+* 【2023-04-28】[97-things / 97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
+* 【2023-04-28】[gitbito / CLI](https://github.com/gitbito/CLI) - Bito CLI (Command Line Interface) provides a command line interface to the Bito AI chat functionality. Over time, CLI will add more functions and new command options to support complex automation and workflows. This is a very early Alpha version. We would love to get your feedback on the new features or improvements.
+* 【2023-04-28】[eludadev / css-docs](https://github.com/eludadev/css-docs) - CSS Selectors, Flexbox, Grid, Box Model, visually explained.
+* 【2023-04-28】[chatgpt-prompts / ChatGPT-Midjourney-Prompt-Generator](https://github.com/chatgpt-prompts/ChatGPT-Midjourney-Prompt-Generator) - This turns ChatGPT into a prompt generating machine that acceps only predefined inputs and responds with only predefined outputs.
 * 【2023-04-27】[ARKInvest / ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla
 * 【2023-04-27】[derwiki / layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it's easy to miss important tasks. This runbook will help make sure you stay on track.
 * 【2023-04-27】[voidful / awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
