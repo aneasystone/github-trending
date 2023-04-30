@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-04-30】[Mooler0410 / LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - 
+* 【2023-04-30】[IntelligenzaArtificiale / Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
+* 【2023-04-30】[CVI-SZU / Linly](https://github.com/CVI-SZU/Linly) - Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集
+* 【2023-04-30】[deforum-art / deforum-stable-diffusion](https://github.com/deforum-art/deforum-stable-diffusion) - 
+* 【2023-04-30】[X-PLUG / mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl🦉: Modularization Empowers Large Language Models with Multimodality
+* 【2023-04-30】[ratfactor / ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 * 【2023-04-29】[AIGC-Audio / AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 * 【2023-04-29】[apple / swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
 * 【2023-04-29】[deep-floyd / IF](https://github.com/deep-floyd/IF) - 
@@ -187,6 +193,9 @@
 
 ## Java
 
+* 【2023-04-30】[opensearch-project / data-prepper](https://github.com/opensearch-project/data-prepper) - Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
+* 【2023-04-30】[anirudhmalik / xhunter](https://github.com/anirudhmalik/xhunter) - Android Penetration Tool [ RAT for Android ]
+* 【2023-04-30】[AlipayCloudrun / alipaycloudrun-demo-for-springboot](https://github.com/AlipayCloudrun/alipaycloudrun-demo-for-springboot) - 支付宝小程序云托管springboot框架模板
 * 【2023-04-29】[alibaba / Chat2DB](https://github.com/alibaba/Chat2DB) - 一个集成了ChatGPT具备AIGC能力的数据库客户端工具
 * 【2023-04-29】[citerus / dddsample-core](https://github.com/citerus/dddsample-core) - This is the new home of the original DDD Sample app (previously hosted at sf.net)..
 * 【2023-04-28】[SolarisNeko / datetime233](https://github.com/SolarisNeko/datetime233) - DateTime233 is a zero-designed DateTime API by flux-style. 重新设计的整套 DateTime API~
@@ -224,6 +233,9 @@
 
 ## Python
 
+* 【2023-04-30】[farshadz1997 / Microsoft-Rewards-bot](https://github.com/farshadz1997/Microsoft-Rewards-bot) - A simple bot that uses Selenium to farm Microsoft Rewards written in Python
+* 【2023-04-30】[Jun-CEN / SegmentAnyRGBD](https://github.com/Jun-CEN/SegmentAnyRGBD) - Segment Any RGBD
+* 【2023-04-30】[bookfere / Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
 * 【2023-04-29】[yeyupiaoling / MASR](https://github.com/yeyupiaoling/MASR) - Pytorch实现的流式与非流式的自动语音识别框架，同时兼容在线和离线识别，目前支持Conformer、Squeezeformer、DeepSpeech2模型，支持多种数据增强方法。
 * 【2023-04-28】[deep-diver / LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 * 【2023-04-28】[NVIDIA / NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
@@ -314,6 +326,7 @@
 
 ## Javascript
 
+* 【2023-04-30】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 * 【2023-04-29】[mtenenholtz / chat-twitter](https://github.com/mtenenholtz/chat-twitter) - 
 * 【2023-04-29】[sytpb / chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信，无须VPN，速度快
 * 【2023-04-28】[cedricr / 100joursdezbeul](https://github.com/cedricr/100joursdezbeul) - 
@@ -388,6 +401,8 @@
 
 ## Go
 
+* 【2023-04-30】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+* 【2023-04-30】[klothoplatform / klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 * 【2023-04-29】[codingo / dorky](https://github.com/codingo/dorky) - A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
 * 【2023-04-29】[uber / cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 * 【2023-04-28】[ConnectAI-E / Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney) - 🍎一套让飞书调用 midjourney 的实现方案
@@ -488,6 +503,9 @@
 
 ## C++
 
+* 【2023-04-30】[cubefs / cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
+* 【2023-04-30】[i1tao / AheadLibEx](https://github.com/i1tao/AheadLibEx) - 
+* 【2023-04-30】[LordNoteworthy / al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 * 【2023-04-29】[tjumcw / 6.824](https://github.com/tjumcw/6.824) - MIT 6.824 distributed system C++Version
 * 【2023-04-29】[TheD1rkMtr / StackCrypt](https://github.com/TheD1rkMtr/StackCrypt) - Create a new thread that will suspend every thread and encrypt its stack, then going to sleep , then decrypt the stacks and resume threads
 * 【2023-04-29】[harrisonvanderbyl / rwkv-cpp-cuda](https://github.com/harrisonvanderbyl/rwkv-cpp-cuda) - A torchless, c++ rwkv implementation using 8bit quantization, written in cuda
@@ -543,6 +561,7 @@
 
 ## C#
 
+* 【2023-04-30】[TalonZane / mspaintCompanion](https://github.com/TalonZane/mspaintCompanion) - layers for mspaint
 * 【2023-04-29】[night-moon-studio / Template](https://github.com/night-moon-studio/Template) - 
 * 【2023-04-28】[dcsoft-yyf / JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) - An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.
 * 【2023-04-28】[github / gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
@@ -598,6 +617,9 @@
 
 ## Html
 
+* 【2023-04-30】[thecodercoder / fem-dklt-toggle](https://github.com/thecodercoder/fem-dklt-toggle) - 
+* 【2023-04-30】[squidfunk / mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+* 【2023-04-30】[w3c / wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
 * 【2023-04-29】[yntd / changchunzx](https://github.com/yntd/changchunzx) - 
 * 【2023-04-28】[Atlas-OS / docs](https://github.com/Atlas-OS/docs) - Atlas documentation hosted on GitHub Pages using MkDocs
 * 【2023-04-28】[mozilla / policy-templates](https://github.com/mozilla/policy-templates) - Policy Templates for Firefox
@@ -700,6 +722,9 @@
 
 ## Unknown
 
+* 【2023-04-30】[nhivp / Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
+* 【2023-04-30】[cipher387 / Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
+* 【2023-04-30】[netlas-io / netlas-dorks](https://github.com/netlas-io/netlas-dorks) - A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.
 * 【2023-04-29】[stassius / StableHoudini](https://github.com/stassius/StableHoudini) - Stable Diffusion Houdini Toolset
 * 【2023-04-29】[dreamsofcode-io / tmux](https://github.com/dreamsofcode-io/tmux) - 
 * 【2023-04-29】[mbzuai-nlp / LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
