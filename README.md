@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-01】[lamini-ai / lamini](https://github.com/lamini-ai/lamini) - 
+* 【2023-05-01】[gventuri / pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
+* 【2023-05-01】[t3-oss / t3-env](https://github.com/t3-oss/t3-env) - 
 * 【2023-04-30】[Mooler0410 / LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - 
 * 【2023-04-30】[IntelligenzaArtificiale / Free-AUTO-GPT-with-NO-API](https://github.com/IntelligenzaArtificiale/Free-AUTO-GPT-with-NO-API) - Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.
 * 【2023-04-30】[CVI-SZU / Linly](https://github.com/CVI-SZU/Linly) - Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集
@@ -193,6 +196,9 @@
 
 ## Java
 
+* 【2023-05-01】[krlvm / PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
+* 【2023-05-01】[Genymobile / gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+* 【2023-05-01】[limboemu / limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
 * 【2023-04-30】[opensearch-project / data-prepper](https://github.com/opensearch-project/data-prepper) - Data Prepper is a component of the OpenSearch project that accepts, filters, transforms, enriches, and routes data at scale.
 * 【2023-04-30】[anirudhmalik / xhunter](https://github.com/anirudhmalik/xhunter) - Android Penetration Tool [ RAT for Android ]
 * 【2023-04-30】[AlipayCloudrun / alipaycloudrun-demo-for-springboot](https://github.com/AlipayCloudrun/alipaycloudrun-demo-for-springboot) - 支付宝小程序云托管springboot框架模板
@@ -233,6 +239,11 @@
 
 ## Python
 
+* 【2023-05-01】[isaiahbjork / Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
+* 【2023-05-01】[declare-lab / tango](https://github.com/declare-lab/tango) - Codes and Model of the paper "Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model"
+* 【2023-05-01】[mikumifa / biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站 会员购 抢票 cp29 漫展 脚本
+* 【2023-05-01】[Nriver / trilium-translation](https://github.com/Nriver/trilium-translation) - Translation for Trilium Notes. Trilium Notes 中文适配, 体验优化
+* 【2023-05-01】[itamargol / openai](https://github.com/itamargol/openai) - LLMs Best Tricks
 * 【2023-04-30】[farshadz1997 / Microsoft-Rewards-bot](https://github.com/farshadz1997/Microsoft-Rewards-bot) - A simple bot that uses Selenium to farm Microsoft Rewards written in Python
 * 【2023-04-30】[Jun-CEN / SegmentAnyRGBD](https://github.com/Jun-CEN/SegmentAnyRGBD) - Segment Any RGBD
 * 【2023-04-30】[bookfere / Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin) - A Calibre plugin to translate ebook into a specified language.
@@ -326,6 +337,12 @@
 
 ## Javascript
 
+* 【2023-05-01】[samuelweke / react-noteapp](https://github.com/samuelweke/react-noteapp) - A note app built with React that uses browser localStorage to store data
+* 【2023-05-01】[nubank / morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
+* 【2023-05-01】[haibbo / cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+* 【2023-05-01】[lockfale / OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
+* 【2023-05-01】[cobbzilla / yuebing](https://github.com/cobbzilla/yuebing) - 🥮Host your own video sharing site
+* 【2023-05-01】[ShariqAnsari88 / movix](https://github.com/ShariqAnsari88/movix) - 
 * 【2023-04-30】[Z-Siqi / Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) - clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序
 * 【2023-04-29】[mtenenholtz / chat-twitter](https://github.com/mtenenholtz/chat-twitter) - 
 * 【2023-04-29】[sytpb / chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信，无须VPN，速度快
@@ -401,6 +418,8 @@
 
 ## Go
 
+* 【2023-05-01】[imusmanmalik / randomizer](https://github.com/imusmanmalik/randomizer) - GoLang library for generating cryptographically secure random numbers using the crypto/rand package
+* 【2023-05-01】[jo-m / trainbot](https://github.com/jo-m/trainbot) - Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.
 * 【2023-04-30】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 * 【2023-04-30】[klothoplatform / klotho](https://github.com/klothoplatform/klotho) - Klotho - write AWS applications at lightning speed
 * 【2023-04-29】[codingo / dorky](https://github.com/codingo/dorky) - A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon
@@ -458,6 +477,8 @@
 
 ## C
 
+* 【2023-05-01】[Z4ee / StarRail-ACE-B](https://github.com/Z4ee/StarRail-ACE-B) - This repository provides code for bypassing the anti-cheat system in Honkai Star Rail game, allowing players to open Cheat Engine. For informational purposes only. Use at your own risk.
+* 【2023-05-01】[zlib-ng / zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 * 【2023-04-29】[abb128 / LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
 * 【2023-04-28】[TheD1rkMtr / PE-Obfuscator](https://github.com/TheD1rkMtr/PE-Obfuscator) - PE obfuscator with Evasion in mind
 * 【2023-04-28】[BitMaker-hub / NerdMiner_v2](https://github.com/BitMaker-hub/NerdMiner_v2) - Improved version of first ESP32 NerdMiner
@@ -561,6 +582,7 @@
 
 ## C#
 
+* 【2023-05-01】[fifty-six / Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
 * 【2023-04-30】[TalonZane / mspaintCompanion](https://github.com/TalonZane/mspaintCompanion) - layers for mspaint
 * 【2023-04-29】[night-moon-studio / Template](https://github.com/night-moon-studio/Template) - 
 * 【2023-04-28】[dcsoft-yyf / JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) - An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.
@@ -617,6 +639,7 @@
 
 ## Html
 
+* 【2023-05-01】[google / coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 * 【2023-04-30】[thecodercoder / fem-dklt-toggle](https://github.com/thecodercoder/fem-dklt-toggle) - 
 * 【2023-04-30】[squidfunk / mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 * 【2023-04-30】[w3c / wcag](https://github.com/w3c/wcag) - Web Content Accessibility Guidelines
@@ -722,6 +745,12 @@
 
 ## Unknown
 
+* 【2023-05-01】[cqcore / Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - 
+* 【2023-05-01】[emmabostian / developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
+* 【2023-05-01】[integralfx / MemTestHelper](https://github.com/integralfx/MemTestHelper) - C# WPF to automate HCI MemTest
+* 【2023-05-01】[21Z / Microsoft-Office-2021](https://github.com/21Z/Microsoft-Office-2021) - Download and Activate Microsoft Office 2021 (Latest) for free. (Legal)
+* 【2023-05-01】[oobabooga / text-generation-webui-extensions](https://github.com/oobabooga/text-generation-webui-extensions) - 
+* 【2023-05-01】[randorisec / MobileHackingCheatSheet](https://github.com/randorisec/MobileHackingCheatSheet) - Basics on commands/tools/info on how to assess the security of mobile applications
 * 【2023-04-30】[nhivp / Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded) - A curated list of awesome embedded programming.
 * 【2023-04-30】[cipher387 / Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines
 * 【2023-04-30】[netlas-io / netlas-dorks](https://github.com/netlas-io/netlas-dorks) - A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.
