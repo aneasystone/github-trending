@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-05-02】[mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+* 【2023-05-02】[pixiv / ChatVRM](https://github.com/pixiv/ChatVRM) - 
+* 【2023-05-02】[memorysafety / sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
+* 【2023-05-02】[Lissy93 / dashy](https://github.com/Lissy93/dashy) - 🚀A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 * 【2023-05-01】[lamini-ai / lamini](https://github.com/lamini-ai/lamini) - 
 * 【2023-05-01】[gventuri / pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 * 【2023-05-01】[t3-oss / t3-env](https://github.com/t3-oss/t3-env) - 
@@ -239,6 +243,9 @@
 
 ## Python
 
+* 【2023-05-02】[daveebbelaar / langchain-experiments](https://github.com/daveebbelaar/langchain-experiments) - 
+* 【2023-05-02】[PlayVoice / so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
+* 【2023-05-02】[jostmey / NakedAttention](https://github.com/jostmey/NakedAttention) - Revealing example of self-attention, the building block of transformer AI models
 * 【2023-05-01】[isaiahbjork / Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/Auto-GPT-Crypto-Plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
 * 【2023-05-01】[declare-lab / tango](https://github.com/declare-lab/tango) - Codes and Model of the paper "Text-to-Audio Generation using Instruction Tuned LLM and Latent Diffusion Model"
 * 【2023-05-01】[mikumifa / biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站 会员购 抢票 cp29 漫展 脚本
@@ -337,6 +344,8 @@
 
 ## Javascript
 
+* 【2023-05-02】[rauchg / blog](https://github.com/rauchg/blog) - 
+* 【2023-05-02】[aadilkhan08 / CYBERFICTION-SOURCE-CODE](https://github.com/aadilkhan08/CYBERFICTION-SOURCE-CODE) - 
 * 【2023-05-01】[samuelweke / react-noteapp](https://github.com/samuelweke/react-noteapp) - A note app built with React that uses browser localStorage to store data
 * 【2023-05-01】[nubank / morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 * 【2023-05-01】[haibbo / cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
@@ -418,6 +427,7 @@
 
 ## Go
 
+* 【2023-05-02】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
 * 【2023-05-01】[imusmanmalik / randomizer](https://github.com/imusmanmalik/randomizer) - GoLang library for generating cryptographically secure random numbers using the crypto/rand package
 * 【2023-05-01】[jo-m / trainbot](https://github.com/jo-m/trainbot) - Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.
 * 【2023-04-30】[AnalogJ / scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -477,6 +487,8 @@
 
 ## C
 
+* 【2023-05-02】[fortra / nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
+* 【2023-05-02】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 * 【2023-05-01】[Z4ee / StarRail-ACE-B](https://github.com/Z4ee/StarRail-ACE-B) - This repository provides code for bypassing the anti-cheat system in Honkai Star Rail game, allowing players to open Cheat Engine. For informational purposes only. Use at your own risk.
 * 【2023-05-01】[zlib-ng / zlib-ng](https://github.com/zlib-ng/zlib-ng) - zlib replacement with optimizations for "next generation" systems.
 * 【2023-04-29】[abb128 / LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
@@ -524,6 +536,9 @@
 
 ## C++
 
+* 【2023-05-02】[gottingen / search-legend](https://github.com/gottingen/search-legend) - docs for search system and ai infra
+* 【2023-05-02】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
+* 【2023-05-02】[tjfenwick / DIY-Sim-Racing-Active-Pedal](https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal) - This is my Sim Racing DIY Active Pedal prototype, an affordable alternative to the official Simucube pedals that cost over $2,000 per pedal.
 * 【2023-04-30】[cubefs / cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
 * 【2023-04-30】[i1tao / AheadLibEx](https://github.com/i1tao/AheadLibEx) - 
 * 【2023-04-30】[LordNoteworthy / al-khaser](https://github.com/LordNoteworthy/al-khaser) - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
@@ -639,6 +654,7 @@
 
 ## Html
 
+* 【2023-05-02】[Azure-Samples / msdocs-python-flask-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart) - Contains the sample application for the App Service Quickstart in Python using Flask.
 * 【2023-05-01】[google / coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 * 【2023-04-30】[thecodercoder / fem-dklt-toggle](https://github.com/thecodercoder/fem-dklt-toggle) - 
 * 【2023-04-30】[squidfunk / mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
