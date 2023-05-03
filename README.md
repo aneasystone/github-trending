@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-05-03】[irgolic / AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
+* 【2023-05-03】[amigoscode / full-stack-professional](https://github.com/amigoscode/full-stack-professional) - 
+* 【2023-05-03】[datawhalechina / prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 
+* 【2023-05-03】[cirediatpl / FigmaChain](https://github.com/cirediatpl/FigmaChain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
+* 【2023-05-03】[google-research / google-research](https://github.com/google-research/google-research) - Google Research
+* 【2023-05-03】[nvim-tree / nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 * 【2023-05-02】[mlc-ai / mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 * 【2023-05-02】[pixiv / ChatVRM](https://github.com/pixiv/ChatVRM) - 
 * 【2023-05-02】[memorysafety / sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
@@ -200,6 +206,9 @@
 
 ## Java
 
+* 【2023-05-03】[filtershekanha / TLSFragmenter](https://github.com/filtershekanha/TLSFragmenter) - 
+* 【2023-05-03】[Sevtinge / Cemiuiler](https://github.com/Sevtinge/Cemiuiler) - Make MIUI Great Again!
+* 【2023-05-03】[RameshMF / spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) - 100+ Spring Boot Articles, Tutorials, Video tutorials, Projects, Guides, Source code examples etc
 * 【2023-05-01】[krlvm / PowerTunnel-Android](https://github.com/krlvm/PowerTunnel-Android) - Powerful and extensible proxy server with anti-censorship functionality for Android
 * 【2023-05-01】[Genymobile / gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 * 【2023-05-01】[limboemu / limbo](https://github.com/limboemu/limbo) - Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions.
@@ -243,6 +252,9 @@
 
 ## Python
 
+* 【2023-05-03】[ddPn08 / Radiata](https://github.com/ddPn08/Radiata) - Stable diffusion webui based on diffusers.
+* 【2023-05-03】[GitHubDaily / ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
+* 【2023-05-03】[georgia-tech-db / eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
 * 【2023-05-02】[daveebbelaar / langchain-experiments](https://github.com/daveebbelaar/langchain-experiments) - 
 * 【2023-05-02】[PlayVoice / so-vits-svc-5.0](https://github.com/PlayVoice/so-vits-svc-5.0) - Core Engine of Singing Voice Conversion & Singing Voice Clone
 * 【2023-05-02】[jostmey / NakedAttention](https://github.com/jostmey/NakedAttention) - Revealing example of self-attention, the building block of transformer AI models
@@ -344,6 +356,7 @@
 
 ## Javascript
 
+* 【2023-05-03】[firebase / functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 * 【2023-05-02】[rauchg / blog](https://github.com/rauchg/blog) - 
 * 【2023-05-02】[aadilkhan08 / CYBERFICTION-SOURCE-CODE](https://github.com/aadilkhan08/CYBERFICTION-SOURCE-CODE) - 
 * 【2023-05-01】[samuelweke / react-noteapp](https://github.com/samuelweke/react-noteapp) - A note app built with React that uses browser localStorage to store data
@@ -427,6 +440,7 @@
 
 ## Go
 
+* 【2023-05-03】[solo-io / gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * 【2023-05-02】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
 * 【2023-05-01】[imusmanmalik / randomizer](https://github.com/imusmanmalik/randomizer) - GoLang library for generating cryptographically secure random numbers using the crypto/rand package
 * 【2023-05-01】[jo-m / trainbot](https://github.com/jo-m/trainbot) - Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.
@@ -487,6 +501,10 @@
 
 ## C
 
+* 【2023-05-03】[BestRyze / Hexapod](https://github.com/BestRyze/Hexapod) - 
+* 【2023-05-03】[openrazer / openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
+* 【2023-05-03】[Z4ee / StarRail-S-GC](https://github.com/Z4ee/StarRail-S-GC) - This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
+* 【2023-05-03】[OpenStickCommunity / GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - 
 * 【2023-05-02】[fortra / nanodump](https://github.com/fortra/nanodump) - The swiss army knife of LSASS dumping
 * 【2023-05-02】[dethrace-labs / dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
 * 【2023-05-01】[Z4ee / StarRail-ACE-B](https://github.com/Z4ee/StarRail-ACE-B) - This repository provides code for bypassing the anti-cheat system in Honkai Star Rail game, allowing players to open Cheat Engine. For informational purposes only. Use at your own risk.
@@ -536,6 +554,9 @@
 
 ## C++
 
+* 【2023-05-03】[BlocTheWorker / Inworld-Skyrim-Mod](https://github.com/BlocTheWorker/Inworld-Skyrim-Mod) - Source Code of Skyrim's ChatGPT Inworld AI Mod. Contains C++, Papyrus and Typescript code
+* 【2023-05-03】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
+* 【2023-05-03】[tdlib / telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 * 【2023-05-02】[gottingen / search-legend](https://github.com/gottingen/search-legend) - docs for search system and ai infra
 * 【2023-05-02】[nmslib / hnswlib](https://github.com/nmslib/hnswlib) - Header-only C++/python library for fast approximate nearest neighbors
 * 【2023-05-02】[tjfenwick / DIY-Sim-Racing-Active-Pedal](https://github.com/tjfenwick/DIY-Sim-Racing-Active-Pedal) - This is my Sim Racing DIY Active Pedal prototype, an affordable alternative to the official Simucube pedals that cost over $2,000 per pedal.
@@ -597,6 +618,8 @@
 
 ## C#
 
+* 【2023-05-03】[msasanmh / SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
+* 【2023-05-03】[Blank-c / Umbral-Stealer](https://github.com/Blank-c/Umbral-Stealer) - Umbral Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
 * 【2023-05-01】[fifty-six / Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
 * 【2023-04-30】[TalonZane / mspaintCompanion](https://github.com/TalonZane/mspaintCompanion) - layers for mspaint
 * 【2023-04-29】[night-moon-studio / Template](https://github.com/night-moon-studio/Template) - 
@@ -654,6 +677,8 @@
 
 ## Html
 
+* 【2023-05-03】[shuttlenetwork / shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
+* 【2023-05-03】[AIGC-Audio / AudioGPT.github.io](https://github.com/AIGC-Audio/AudioGPT.github.io) - The demo page of AudioGPT
 * 【2023-05-02】[Azure-Samples / msdocs-python-flask-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart) - Contains the sample application for the App Service Quickstart in Python using Flask.
 * 【2023-05-01】[google / coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 * 【2023-04-30】[thecodercoder / fem-dklt-toggle](https://github.com/thecodercoder/fem-dklt-toggle) - 
@@ -709,6 +734,7 @@
 
 ## Css
 
+* 【2023-05-03】[bedimcode / responsive-portfolio-website-patrick](https://github.com/bedimcode/responsive-portfolio-website-patrick) - Responsive Portfolio Website Design Using HTML CSS & JavaScript
 * 【2023-04-29】[code-sujan / mmc_workshop_ci](https://github.com/code-sujan/mmc_workshop_ci) - 
 * 【2023-04-28】[omiras / ping-single-column-exercise-js](https://github.com/omiras/ping-single-column-exercise-js) - 
 * 【2023-04-28】[Sight-wcg / layui-theme-dark](https://github.com/Sight-wcg/layui-theme-dark) - layui 暗色主题
@@ -761,6 +787,10 @@
 
 ## Unknown
 
+* 【2023-05-03】[vpavlenko / study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
+* 【2023-05-03】[nbats / FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
+* 【2023-05-03】[youshandefeiyang / live-Url](https://github.com/youshandefeiyang/live-Url) - live-url
+* 【2023-05-03】[steven2358 / awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 * 【2023-05-01】[cqcore / Telegram-OSINT](https://github.com/cqcore/Telegram-OSINT) - 
 * 【2023-05-01】[emmabostian / developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 * 【2023-05-01】[integralfx / MemTestHelper](https://github.com/integralfx/MemTestHelper) - C# WPF to automate HCI MemTest
