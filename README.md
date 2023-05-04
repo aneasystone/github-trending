@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-05-04】[mishalhossin / Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free) - This is a Python-based Discord bot. This is all free due to the GPT4FREE project
+* 【2023-05-04】[maomao1996 / Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵基于 Vue 的在线音乐播放器 Online music player
 * 【2023-05-03】[irgolic / AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
 * 【2023-05-03】[amigoscode / full-stack-professional](https://github.com/amigoscode/full-stack-professional) - 
 * 【2023-05-03】[datawhalechina / prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 
@@ -206,6 +208,9 @@
 
 ## Java
 
+* 【2023-05-04】[fabienrenaud / java-json-benchmark](https://github.com/fabienrenaud/java-json-benchmark) - Performance testing of serialization and deserialization of Java JSON libraries
+* 【2023-05-04】[DEVOPS-WITH-WEB-DEV / springboot-k8s](https://github.com/DEVOPS-WITH-WEB-DEV/springboot-k8s) - 
+* 【2023-05-04】[jianjianai / NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。
 * 【2023-05-03】[filtershekanha / TLSFragmenter](https://github.com/filtershekanha/TLSFragmenter) - 
 * 【2023-05-03】[Sevtinge / Cemiuiler](https://github.com/Sevtinge/Cemiuiler) - Make MIUI Great Again!
 * 【2023-05-03】[RameshMF / spring-boot-tutorial](https://github.com/RameshMF/spring-boot-tutorial) - 100+ Spring Boot Articles, Tutorials, Video tutorials, Projects, Guides, Source code examples etc
@@ -252,6 +257,11 @@
 
 ## Python
 
+* 【2023-05-04】[gptforfree / gpt4free](https://github.com/gptforfree/gpt4free) - gpt4free repostitory uncensored.
+* 【2023-05-04】[Arize-ai / phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
+* 【2023-05-04】[Luodian / Otter](https://github.com/Luodian/Otter) - 🦦Otter, an instruction-tuned model built upon OpenFlamingo that has been customized for a context.
+* 【2023-05-04】[adieyal / sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts) - A custom script for AUTOMATIC1111/stable-diffusion-webui to implement a tiny template language for random prompt generation
+* 【2023-05-04】[WeOpenML / PandaLM](https://github.com/WeOpenML/PandaLM) - 
 * 【2023-05-03】[ddPn08 / Radiata](https://github.com/ddPn08/Radiata) - Stable diffusion webui based on diffusers.
 * 【2023-05-03】[GitHubDaily / ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
 * 【2023-05-03】[georgia-tech-db / eva](https://github.com/georgia-tech-db/eva) - AI-Relational Database System | SQL meets Deep Learning
@@ -356,6 +366,10 @@
 
 ## Javascript
 
+* 【2023-05-04】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+* 【2023-05-04】[markedjs / marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+* 【2023-05-04】[nock / nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
+* 【2023-05-04】[Nwflower / Atlas](https://github.com/Nwflower/Atlas) - 
 * 【2023-05-03】[firebase / functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 * 【2023-05-02】[rauchg / blog](https://github.com/rauchg/blog) - 
 * 【2023-05-02】[aadilkhan08 / CYBERFICTION-SOURCE-CODE](https://github.com/aadilkhan08/CYBERFICTION-SOURCE-CODE) - 
@@ -440,6 +454,10 @@
 
 ## Go
 
+* 【2023-05-04】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
+* 【2023-05-04】[google / cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+* 【2023-05-04】[Versent / saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+* 【2023-05-04】[direnv / direnv](https://github.com/direnv/direnv) - unclutter your .profile
 * 【2023-05-03】[solo-io / gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * 【2023-05-02】[ardanlabs / service](https://github.com/ardanlabs/service) - Starter code for writing web services in Go using Kubernetes.
 * 【2023-05-01】[imusmanmalik / randomizer](https://github.com/imusmanmalik/randomizer) - GoLang library for generating cryptographically secure random numbers using the crypto/rand package
@@ -501,6 +519,8 @@
 
 ## C
 
+* 【2023-05-04】[cnlohr / cnixxi](https://github.com/cnlohr/cnixxi) - My experiment with nixie tubes.
+* 【2023-05-04】[teco-kit / open-earable](https://github.com/teco-kit/open-earable) - 
 * 【2023-05-03】[BestRyze / Hexapod](https://github.com/BestRyze/Hexapod) - 
 * 【2023-05-03】[openrazer / openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 * 【2023-05-03】[Z4ee / StarRail-S-GC](https://github.com/Z4ee/StarRail-S-GC) - This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.
@@ -554,6 +574,9 @@
 
 ## C++
 
+* 【2023-05-04】[Huntereb / Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
+* 【2023-05-04】[BuildSomeStuff / CompactRoboticArm](https://github.com/BuildSomeStuff/CompactRoboticArm) - Here lies all CAD, STL, and Code files for the Robotic Arm shown in this video: https://youtu.be/5toNqaGsGYs NOTE: Designs and code are FAR from perfect. I’m just sharing my work as it is and it may not work exactly as it does in the video. Files here are FREE, but I would highly appreciate your support through Patreon: patreon.com/BuildSomeStuff
+* 【2023-05-04】[ndeadly / MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
 * 【2023-05-03】[BlocTheWorker / Inworld-Skyrim-Mod](https://github.com/BlocTheWorker/Inworld-Skyrim-Mod) - Source Code of Skyrim's ChatGPT Inworld AI Mod. Contains C++, Papyrus and Typescript code
 * 【2023-05-03】[s60sc / ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD) - ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.
 * 【2023-05-03】[tdlib / telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
@@ -618,6 +641,9 @@
 
 ## C#
 
+* 【2023-05-04】[Unity-Technologies / Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
+* 【2023-05-04】[pdevito3 / QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
+* 【2023-05-04】[project-sbc / Power-Control-Panel-v2](https://github.com/project-sbc/Power-Control-Panel-v2) - 
 * 【2023-05-03】[msasanmh / SecureDNSClient](https://github.com/msasanmh/SecureDNSClient) - A GUI for DNSLookup, DNSProxy, DNSCrypt and GoodbyeDPI.
 * 【2023-05-03】[Blank-c / Umbral-Stealer](https://github.com/Blank-c/Umbral-Stealer) - Umbral Stealer is a fast, lightweight stealer written in C#. The collected data is transferred through discord webhooks.
 * 【2023-05-01】[fifty-six / Scarab](https://github.com/fifty-six/Scarab) - An installer for Hollow Knight mods written in Avalonia.
@@ -677,6 +703,9 @@
 
 ## Html
 
+* 【2023-05-04】[renanlecaro / mermaid-gdocs](https://github.com/renanlecaro/mermaid-gdocs) - Mermaidsjs wrapper for gdocs.
+* 【2023-05-04】[ITI / ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security.
+* 【2023-05-04】[waityousea / xuniren](https://github.com/waityousea/xuniren) - 
 * 【2023-05-03】[shuttlenetwork / shuttle](https://github.com/shuttlenetwork/shuttle) - Experience the global internet using Shuttle, the swiftest and most uncluttered proxy solution. Relish a heightened level of privacy during your online sessions, free from censorship.
 * 【2023-05-03】[AIGC-Audio / AudioGPT.github.io](https://github.com/AIGC-Audio/AudioGPT.github.io) - The demo page of AudioGPT
 * 【2023-05-02】[Azure-Samples / msdocs-python-flask-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart) - Contains the sample application for the App Service Quickstart in Python using Flask.
@@ -734,6 +763,8 @@
 
 ## Css
 
+* 【2023-05-04】[DenioPranatha / SL1](https://github.com/DenioPranatha/SL1) - 
+* 【2023-05-04】[graysonu / eapple](https://github.com/graysonu/eapple) - 
 * 【2023-05-03】[bedimcode / responsive-portfolio-website-patrick](https://github.com/bedimcode/responsive-portfolio-website-patrick) - Responsive Portfolio Website Design Using HTML CSS & JavaScript
 * 【2023-04-29】[code-sujan / mmc_workshop_ci](https://github.com/code-sujan/mmc_workshop_ci) - 
 * 【2023-04-28】[omiras / ping-single-column-exercise-js](https://github.com/omiras/ping-single-column-exercise-js) - 
@@ -787,6 +818,13 @@
 
 ## Unknown
 
+* 【2023-05-04】[pamoroso / free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
+* 【2023-05-04】[daveshap / AI_Tools_and_Papers](https://github.com/daveshap/AI_Tools_and_Papers) - 
+* 【2023-05-04】[jconorgrogan / JamesGPT](https://github.com/jconorgrogan/JamesGPT) - Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias
+* 【2023-05-04】[darkquasar / AIMOD2](https://github.com/darkquasar/AIMOD2) - Adversarial Interception Mission Oriented Discovery and Disruption Framework, or AIMOD2, is a structured threat hunting approach to proactively identify, engage and prevent cyber threats denying or mitigating potential damage to the organization.
+* 【2023-05-04】[Alita-ai / AlitaAI](https://github.com/Alita-ai/AlitaAI) - 
+* 【2023-05-04】[rifkat / pancakeswap-sniper-bot](https://github.com/rifkat/pancakeswap-sniper-bot) - Web3 Pancakeswap Sniper bot written in python3
+* 【2023-05-04】[Techiral / GPT-Jailbreak](https://github.com/Techiral/GPT-Jailbreak) - This repository contains the jailbreaking process for GPT-3, GPT-4, GPT-3.5, ChatGPT, and ChatGPT Plus. By following the instructions in this repository, you will be able to gain access to the inner workings of these language models and modify them to your liking.
 * 【2023-05-03】[vpavlenko / study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses
 * 【2023-05-03】[nbats / FMHYedit](https://github.com/nbats/FMHYedit) - Make changes to FMHY
 * 【2023-05-03】[youshandefeiyang / live-Url](https://github.com/youshandefeiyang/live-Url) - live-url
