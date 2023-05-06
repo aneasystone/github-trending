@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-05-06】[Deci-AI / super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
+* 【2023-05-06】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+* 【2023-05-06】[openlm-research / open_llama](https://github.com/openlm-research/open_llama) - 
+* 【2023-05-06】[richardyc / Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
+* 【2023-05-06】[replit / ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
+* 【2023-05-06】[sindresorhus / awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+* 【2023-05-06】[JushBJJ / Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 * 【2023-05-04】[mishalhossin / Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/Discord-Chatbot-Gpt4Free) - This is a Python-based Discord bot. This is all free due to the GPT4FREE project
 * 【2023-05-04】[maomao1996 / Vue-mmPlayer](https://github.com/maomao1996/Vue-mmPlayer) - 🎵基于 Vue 的在线音乐播放器 Online music player
 * 【2023-05-03】[irgolic / AutoPR](https://github.com/irgolic/AutoPR) - Fix issues with AI-generated pull requests, powered by ChatGPT
@@ -38,6 +45,11 @@
 
 ## Python
 
+* 【2023-05-06】[abertsch72 / unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
+* 【2023-05-06】[furrysalamander / rubedo](https://github.com/furrysalamander/rubedo) - A system for automatically calibrating pressure advance using laser triangulation
+* 【2023-05-06】[mosaicml / diffusion](https://github.com/mosaicml/diffusion) - 
+* 【2023-05-06】[h2oai / h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
+* 【2023-05-06】[jasperan / whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 * 【2023-05-04】[gptforfree / gpt4free](https://github.com/gptforfree/gpt4free) - gpt4free repostitory uncensored.
 * 【2023-05-04】[Arize-ai / phoenix](https://github.com/Arize-ai/phoenix) - ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models
 * 【2023-05-04】[Luodian / Otter](https://github.com/Luodian/Otter) - 🦦Otter, an instruction-tuned model built upon OpenFlamingo that has been customized for a context.
@@ -57,6 +69,11 @@
 
 ## Javascript
 
+* 【2023-05-06】[biuuu / star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
+* 【2023-05-06】[wxtsky / MyWalletScan](https://github.com/wxtsky/MyWalletScan) - 
+* 【2023-05-06】[rauchg / how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal) - A demo of using RSC and Vercel Postgres, legally
+* 【2023-05-06】[mozilla / readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+* 【2023-05-06】[dmscode / Obsidian-Templates](https://github.com/dmscode/Obsidian-Templates) - 我在 Obsidian 中用的各种模板（Dataview，Templater，QuickAdd）
 * 【2023-05-04】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 * 【2023-05-04】[markedjs / marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 * 【2023-05-04】[nock / nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
@@ -73,6 +90,8 @@
 
 ## Go
 
+* 【2023-05-06】[ansible-semaphore / semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+* 【2023-05-06】[umputun / spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 * 【2023-05-04】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-05-04】[google / cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 * 【2023-05-04】[Versent / saml2aws](https://github.com/Versent/saml2aws) - CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
@@ -84,6 +103,8 @@
 
 ## C
 
+* 【2023-05-06】[retrospectmike / MacDock](https://github.com/retrospectmike/MacDock) - Like the macOS Dock... but for System 7
+* 【2023-05-06】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 * 【2023-05-04】[cnlohr / cnixxi](https://github.com/cnlohr/cnixxi) - My experiment with nixie tubes.
 * 【2023-05-04】[teco-kit / open-earable](https://github.com/teco-kit/open-earable) - 
 * 【2023-05-03】[BestRyze / Hexapod](https://github.com/BestRyze/Hexapod) - 
@@ -109,6 +130,7 @@
 
 ## C#
 
+* 【2023-05-06】[nettitude / ETWHash](https://github.com/nettitude/ETWHash) - C# POC to extract NetNTLMv1/v2 hashes from ETW provider
 * 【2023-05-04】[Unity-Technologies / Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 * 【2023-05-04】[pdevito3 / QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
 * 【2023-05-04】[project-sbc / Power-Control-Panel-v2](https://github.com/project-sbc/Power-Control-Panel-v2) - 
@@ -118,6 +140,8 @@
 
 ## Html
 
+* 【2023-05-06】[hewang1an / StarRail-plugin](https://github.com/hewang1an/StarRail-plugin) - 星穹铁道插件
+* 【2023-05-06】[nakowasi / the-sovereign-individuals-cn](https://github.com/nakowasi/the-sovereign-individuals-cn) - 主权个体（中译版）
 * 【2023-05-04】[renanlecaro / mermaid-gdocs](https://github.com/renanlecaro/mermaid-gdocs) - Mermaidsjs wrapper for gdocs.
 * 【2023-05-04】[ITI / ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) - Tools, tips, tricks, and more for exploring ICS Security.
 * 【2023-05-04】[waityousea / xuniren](https://github.com/waityousea/xuniren) - 
@@ -128,12 +152,20 @@
 
 ## Css
 
+* 【2023-05-06】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
+* 【2023-05-06】[sungkwangkim / yarn-berry-test](https://github.com/sungkwangkim/yarn-berry-test) - 
+* 【2023-05-06】[zuzumi-f / Moon-Rabbits-Dream-About-Virtual](https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual) - Theme based on Tsukino mito Album cover Moon Rabbits Dream About Virtual | Support server: https://discord.gg/PsNtzGeHuW
+* 【2023-05-06】[adobe / spectrum-css](https://github.com/adobe/spectrum-css) - The standard CSS implementation of the Spectrum design language.
+* 【2023-05-06】[TheCommieAxolotl / BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) - BetterDiscord Plugins and Themes
 * 【2023-05-04】[DenioPranatha / SL1](https://github.com/DenioPranatha/SL1) - 
 * 【2023-05-04】[graysonu / eapple](https://github.com/graysonu/eapple) - 
 * 【2023-05-03】[bedimcode / responsive-portfolio-website-patrick](https://github.com/bedimcode/responsive-portfolio-website-patrick) - Responsive Portfolio Website Design Using HTML CSS & JavaScript
 
 ## Unknown
 
+* 【2023-05-06】[paypal / data-contract-template](https://github.com/paypal/data-contract-template) - Template for a data contract used in a data mesh.
+* 【2023-05-06】[weekend-project-space / top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+* 【2023-05-06】[bad1dea / NXCheats](https://github.com/bad1dea/NXCheats) - Repository for cheats I've made or worked on for the switch.
 * 【2023-05-04】[pamoroso / free-python-books](https://github.com/pamoroso/free-python-books) - Python books free to read online or download
 * 【2023-05-04】[daveshap / AI_Tools_and_Papers](https://github.com/daveshap/AI_Tools_and_Papers) - 
 * 【2023-05-04】[jconorgrogan / JamesGPT](https://github.com/jconorgrogan/JamesGPT) - Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias
