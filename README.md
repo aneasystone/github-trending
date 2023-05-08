@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-05-08】[openai / shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
+* 【2023-05-08】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
+* 【2023-05-08】[bigcode-project / starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
+* 【2023-05-08】[shchmue / Lockpick](https://github.com/shchmue/Lockpick) - Nintendo Switch encryption key derivation homebrew
 * 【2023-05-07】[qdrant / qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 * 【2023-05-07】[paradigmxyz / artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 * 【2023-05-07】[AprilNEA / ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
@@ -49,6 +53,9 @@
 
 ## Python
 
+* 【2023-05-08】[alejandro-ao / langchain-ask-pdf](https://github.com/alejandro-ao/langchain-ask-pdf) - An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response.
+* 【2023-05-08】[binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
+* 【2023-05-08】[ZrrSkywalker / Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds
 * 【2023-05-07】[mpoon / gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 * 【2023-05-07】[dandelionsllm / pandallm](https://github.com/dandelionsllm/pandallm) - Panda: 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练。
 * 【2023-05-06】[abertsch72 / unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
@@ -75,6 +82,10 @@
 
 ## Javascript
 
+* 【2023-05-08】[ColinEberhardt / langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗This is a very simple re-implementation of LangChain, in ~100 lines of code
+* 【2023-05-08】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨A Markdown Editor
+* 【2023-05-08】[adrianhajdin / project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
+* 【2023-05-08】[scratchfoundation / scratch-gui](https://github.com/scratchfoundation/scratch-gui) - Graphical User Interface for creating and running Scratch 3.0 projects.
 * 【2023-05-07】[supertestnet / breaker-of-jpegs](https://github.com/supertestnet/breaker-of-jpegs) - A tool for increasing the off-by-one bug in ordinal explorers
 * 【2023-05-06】[biuuu / star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
 * 【2023-05-06】[wxtsky / MyWalletScan](https://github.com/wxtsky/MyWalletScan) - 
@@ -97,6 +108,10 @@
 
 ## Go
 
+* 【2023-05-08】[yaklang / yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
+* 【2023-05-08】[piaolin / DetectDee](https://github.com/piaolin/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+* 【2023-05-08】[wwengg / douyin](https://github.com/wwengg/douyin) - 抖音[直播伴侣]推流密钥获取工具 抖音直播间弹幕、进入房间等数据通过Websocket对接Fay
+* 【2023-05-08】[hahwul / dalfox](https://github.com/hahwul/dalfox) - 🌙🦊Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * 【2023-05-07】[unisat-wallet / libbrc20-indexer](https://github.com/unisat-wallet/libbrc20-indexer) - UniSat Indexer (brc-20) library
 * 【2023-05-07】[echosoar / news](https://github.com/echosoar/news) - 热点聚合排序，基于SimHash算法聚合相似内容
 * 【2023-05-06】[ansible-semaphore / semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -112,6 +127,8 @@
 
 ## C
 
+* 【2023-05-08】[xkaneiki / CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
+* 【2023-05-08】[YeeZTech / YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing) - Fidelius - YeeZ Privacy Computing
 * 【2023-05-07】[shchmue / Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) - Nintendo Switch encryption key derivation bare metal RCM payload
 * 【2023-05-06】[retrospectmike / MacDock](https://github.com/retrospectmike/MacDock) - Like the macOS Dock... but for System 7
 * 【2023-05-06】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -128,6 +145,7 @@
 
 ## C++
 
+* 【2023-05-08】[stevenlovegrove / Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 * 【2023-05-04】[Huntereb / Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 * 【2023-05-04】[BuildSomeStuff / CompactRoboticArm](https://github.com/BuildSomeStuff/CompactRoboticArm) - Here lies all CAD, STL, and Code files for the Robotic Arm shown in this video: https://youtu.be/5toNqaGsGYs NOTE: Designs and code are FAR from perfect. I’m just sharing my work as it is and it may not work exactly as it does in the video. Files here are FREE, but I would highly appreciate your support through Patreon: patreon.com/BuildSomeStuff
 * 【2023-05-04】[ndeadly / MissionControl](https://github.com/ndeadly/MissionControl) - Use controllers from other consoles natively on your Nintendo Switch via Bluetooth. No dongles or other external hardware neccessary.
@@ -140,6 +158,7 @@
 
 ## C#
 
+* 【2023-05-08】[Parquelle / WoWRetroLauncher](https://github.com/Parquelle/WoWRetroLauncher) - Customisable classic-styled WoW Launcher
 * 【2023-05-06】[nettitude / ETWHash](https://github.com/nettitude/ETWHash) - C# POC to extract NetNTLMv1/v2 hashes from ETW provider
 * 【2023-05-04】[Unity-Technologies / Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 * 【2023-05-04】[pdevito3 / QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
@@ -150,6 +169,9 @@
 
 ## Html
 
+* 【2023-05-08】[CSStipendRankings / CSStipendRankings](https://github.com/CSStipendRankings/CSStipendRankings) - https://csstipendrankings.org
+* 【2023-05-08】[github / codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) - 
+* 【2023-05-08】[SupaGruen / StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 * 【2023-05-07】[adams549659584 / go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - BingAI 代理服务，演示站点为甲骨文小鸡仔，轻虐。
 * 【2023-05-06】[hewang1an / StarRail-plugin](https://github.com/hewang1an/StarRail-plugin) - 星穹铁道插件
 * 【2023-05-06】[nakowasi / the-sovereign-individuals-cn](https://github.com/nakowasi/the-sovereign-individuals-cn) - 主权个体（中译版）
@@ -163,6 +185,10 @@
 
 ## Css
 
+* 【2023-05-08】[argyleink / transition.css](https://github.com/argyleink/transition.css) - Drop-in CSS transitions
+* 【2023-05-08】[kodekloudhub / kodekloud-engineer](https://github.com/kodekloudhub/kodekloud-engineer) - 
+* 【2023-05-08】[radxa-docs / documentation](https://github.com/radxa-docs/documentation) - Radxa Documentation
+* 【2023-05-08】[barroncraft / barroncraft.com](https://github.com/barroncraft/barroncraft.com) - Website for Barron Minecraft
 * 【2023-05-07】[Nevysha / Cozy-Nest](https://github.com/Nevysha/Cozy-Nest) - A collection of tweak to improve Auto1111 UI//UX
 * 【2023-05-07】[codesandbox / codesandbox-template-vite-react](https://github.com/codesandbox/codesandbox-template-vite-react) - An empty boilerplate template to start a fresh project
 * 【2023-05-07】[1Marc / modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs) - TodoMVC with Modern (ES6+), Vanilla JavaScript
@@ -177,6 +203,9 @@
 
 ## Unknown
 
+* 【2023-05-08】[binarly-io / SupplyChainAttacks](https://github.com/binarly-io/SupplyChainAttacks) - 
+* 【2023-05-08】[eugeneyan / open-llms](https://github.com/eugeneyan/open-llms) - 🤖A list of open LLMs available for commercial use.
+* 【2023-05-08】[mozilla / gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 * 【2023-05-07】[melodysdreamj / WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
 * 【2023-05-07】[thailand-geography-data / thailand-geography-json](https://github.com/thailand-geography-data/thailand-geography-json) - JSON files for Thailand's geography data, including provinces, districts, subdistricts, and postal codes, adhering to best practices for optimal performance, ease of maintenance, and comprehensibility.
 * 【2023-05-07】[holbertonschool / 0x13.c](https://github.com/holbertonschool/0x13.c) - 
