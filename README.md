@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-05-09】[xiangsx / gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
+* 【2023-05-09】[AntonioErdeljac / next13-messenger](https://github.com/AntonioErdeljac/next13-messenger) - 
+* 【2023-05-09】[nadermx / backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+* 【2023-05-09】[SCIR-HI / Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) - Repo for HuaTuo (华驼), Llama-7B tuned with Chinese medical knowledge. 华驼模型仓库，基于中文医学知识的LLaMA模型指令微调
+* 【2023-05-09】[unisat-wallet / extension](https://github.com/unisat-wallet/extension) - The first open-source browser extension wallet for Bitcoin NFTs
 * 【2023-05-08】[openai / shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 * 【2023-05-08】[mosaicml / llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
 * 【2023-05-08】[bigcode-project / starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -53,6 +58,13 @@
 
 ## Python
 
+* 【2023-05-09】[RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data <= 10 mins can also be used to train a good VC model!
+* 【2023-05-09】[CiaraStrawberry / TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
+* 【2023-05-09】[cipher387 / python-for-OSINT-21-days](https://github.com/cipher387/python-for-OSINT-21-days) - In this repository you will find sample code files for each day of the course "Python for OSINT. A 21-day course for beginners".
+* 【2023-05-09】[emmethalm / tuneAI](https://github.com/emmethalm/tuneAI) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation.
+* 【2023-05-09】[Scholar01 / sd-webui-mov2mov](https://github.com/Scholar01/sd-webui-mov2mov) - 适用于Automatic1111/stable-diffusion-webui 的 Mov2mov 插件。
+* 【2023-05-09】[Jxpro / damai-tickets](https://github.com/Jxpro/damai-tickets) - 大麦网抢票脚本案例
+* 【2023-05-09】[lancer-wang / sehuapush](https://github.com/lancer-wang/sehuapush) - sehua堂的新帖推送
 * 【2023-05-08】[alejandro-ao / langchain-ask-pdf](https://github.com/alejandro-ao/langchain-ask-pdf) - An AI-app that allows you to upload a PDF and ask questions about it. It uses OpenAI's LLMs to generate a response.
 * 【2023-05-08】[binary-husky / gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 * 【2023-05-08】[ZrrSkywalker / Personalize-SAM](https://github.com/ZrrSkywalker/Personalize-SAM) - Personalize Segment Anything Model (SAM) with 1 shot in 10 seconds
@@ -82,6 +94,7 @@
 
 ## Javascript
 
+* 【2023-05-09】[yankooliveira / sd-webui-photopea-embed](https://github.com/yankooliveira/sd-webui-photopea-embed) - A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration.
 * 【2023-05-08】[ColinEberhardt / langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗This is a very simple re-implementation of LangChain, in ~100 lines of code
 * 【2023-05-08】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨A Markdown Editor
 * 【2023-05-08】[adrianhajdin / project_next_13_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_13_ai_prompt_sharing) - Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
@@ -158,6 +171,9 @@
 
 ## C#
 
+* 【2023-05-09】[YARC-Official / YARG](https://github.com/YARC-Official/YARG) - Yet Another Rhythm Game inspired off of Rockband, Guitar Hero, Clone Hero, or similar.
+* 【2023-05-09】[JoeKaram78 / amm-frontrun-bot](https://github.com/JoeKaram78/amm-frontrun-bot) - Automated market maker frontrunning bot for common DEXs
+* 【2023-05-09】[Erisa / RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 * 【2023-05-08】[Parquelle / WoWRetroLauncher](https://github.com/Parquelle/WoWRetroLauncher) - Customisable classic-styled WoW Launcher
 * 【2023-05-06】[nettitude / ETWHash](https://github.com/nettitude/ETWHash) - C# POC to extract NetNTLMv1/v2 hashes from ETW provider
 * 【2023-05-04】[Unity-Technologies / Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
@@ -185,6 +201,9 @@
 
 ## Css
 
+* 【2023-05-09】[Kenzie-Academy-Brasil-Developers / maratona_nas_estrelas_kenzie](https://github.com/Kenzie-Academy-Brasil-Developers/maratona_nas_estrelas_kenzie) - 
+* 【2023-05-09】[DimitrisMilonopoulos / mitsugen](https://github.com/DimitrisMilonopoulos/mitsugen) - Material You for Gnome and GTK4 and GTK3
+* 【2023-05-09】[Ritesh20101998 / friendly-cent-7873](https://github.com/Ritesh20101998/friendly-cent-7873) - NXM 201 cloning of a given website/app in CW Project.
 * 【2023-05-08】[argyleink / transition.css](https://github.com/argyleink/transition.css) - Drop-in CSS transitions
 * 【2023-05-08】[kodekloudhub / kodekloud-engineer](https://github.com/kodekloudhub/kodekloud-engineer) - 
 * 【2023-05-08】[radxa-docs / documentation](https://github.com/radxa-docs/documentation) - Radxa Documentation
@@ -203,6 +222,8 @@
 
 ## Unknown
 
+* 【2023-05-09】[dezem / SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
+* 【2023-05-09】[hello-world-1989 / temp](https://github.com/hello-world-1989/temp) - 完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN,好用梯子,白纸运动,白纸革命,分布式vpn,去中心化vpn,拆除防火墙, 拆墙运动
 * 【2023-05-08】[binarly-io / SupplyChainAttacks](https://github.com/binarly-io/SupplyChainAttacks) - 
 * 【2023-05-08】[eugeneyan / open-llms](https://github.com/eugeneyan/open-llms) - 🤖A list of open LLMs available for commercial use.
 * 【2023-05-08】[mozilla / gecko-dev](https://github.com/mozilla/gecko-dev) - Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
