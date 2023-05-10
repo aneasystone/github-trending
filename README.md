@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-05-10】[SCUTlihaoyu / open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
+* 【2023-05-10】[imartinez / privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+* 【2023-05-10】[Starry-Wind / Honkai-Star-Rail](https://github.com/Starry-Wind/Honkai-Star-Rail) - 崩坏：星穹铁道自动锄大地脚本
+* 【2023-05-10】[GFW-knocker / gfw_resist_HTTPS_proxy](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy) - HTTPS proxy with Fragment and DoH
+* 【2023-05-10】[IBM / Dromedary](https://github.com/IBM/Dromedary) - Dromedary: towards helpful, ethical and reliable LLMs.
+* 【2023-05-10】[Anof-cyber / Application-Security](https://github.com/Anof-cyber/Application-Security) - Resources for Application Security including Web, API, Android, iOS and Thick Client
 * 【2023-05-09】[xiangsx / gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
 * 【2023-05-09】[AntonioErdeljac / next13-messenger](https://github.com/AntonioErdeljac/next13-messenger) - 
 * 【2023-05-09】[nadermx / backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
@@ -58,6 +64,9 @@
 
 ## Python
 
+* 【2023-05-10】[SamurAIGPT / ChatGPT-Developer-Plugins](https://github.com/SamurAIGPT/ChatGPT-Developer-Plugins) - Run ChatGPT plugins for free without having access to Plus subscription
+* 【2023-05-10】[getsentry / sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
+* 【2023-05-10】[starsliao / Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
 * 【2023-05-09】[RVC-Project / Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data <= 10 mins can also be used to train a good VC model!
 * 【2023-05-09】[CiaraStrawberry / TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 * 【2023-05-09】[cipher387 / python-for-OSINT-21-days](https://github.com/cipher387/python-for-OSINT-21-days) - In this repository you will find sample code files for each day of the course "Python for OSINT. A 21-day course for beginners".
@@ -94,6 +103,12 @@
 
 ## Javascript
 
+* 【2023-05-10】[horizon-ui / horizon-tailwind-react](https://github.com/horizon-ui/horizon-tailwind-react) - Horizon UI Tailwind CSS React JS❇️The trendiest & innovative Open Source Admin Dashboard Template for Tailwind CSS & React!
+* 【2023-05-10】[vercel / next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
+* 【2023-05-10】[nextcloud / spreed](https://github.com/nextcloud/spreed) - 🗨️Nextcloud Talk – chat, video & audio calls for Nextcloud
+* 【2023-05-10】[docsifyjs / docsify](https://github.com/docsifyjs/docsify) - 🃏A magical documentation site generator.
+* 【2023-05-10】[windmill-labs / windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+* 【2023-05-10】[JimHans / live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等 | An AI Based live2d Kanban for Desktop Users Using Electron
 * 【2023-05-09】[yankooliveira / sd-webui-photopea-embed](https://github.com/yankooliveira/sd-webui-photopea-embed) - A simple Stable Diffusion WebUI extension that adds a Photopea tab and integration.
 * 【2023-05-08】[ColinEberhardt / langchain-mini](https://github.com/ColinEberhardt/langchain-mini) - 🦜️🔗This is a very simple re-implementation of LangChain, in ~100 lines of code
 * 【2023-05-08】[Tencent / cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨A Markdown Editor
@@ -140,6 +155,9 @@
 
 ## C
 
+* 【2023-05-10】[chenaotian / CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386) - CVE-2023-0386 analysis and Exp
+* 【2023-05-10】[rofl0r / proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+* 【2023-05-10】[NctimeAza / StarRail-Cheat](https://github.com/NctimeAza/StarRail-Cheat) - StarRail Cheat
 * 【2023-05-08】[xkaneiki / CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386) - CVE-2023-0386在ubuntu22.04上的提权
 * 【2023-05-08】[YeeZTech / YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing) - Fidelius - YeeZ Privacy Computing
 * 【2023-05-07】[shchmue / Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) - Nintendo Switch encryption key derivation bare metal RCM payload
@@ -158,6 +176,8 @@
 
 ## C++
 
+* 【2023-05-10】[ShiqiYu / CPP](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.
+* 【2023-05-10】[skyline-emu / skyline-dev](https://github.com/skyline-emu/skyline-dev) - 
 * 【2023-05-08】[stevenlovegrove / Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 * 【2023-05-04】[Huntereb / Awoo-Installer](https://github.com/Huntereb/Awoo-Installer) - A No-Bullshit NSP, NSZ, XCI, and XCZ Installer for Nintendo Switch
 * 【2023-05-04】[BuildSomeStuff / CompactRoboticArm](https://github.com/BuildSomeStuff/CompactRoboticArm) - Here lies all CAD, STL, and Code files for the Robotic Arm shown in this video: https://youtu.be/5toNqaGsGYs NOTE: Designs and code are FAR from perfect. I’m just sharing my work as it is and it may not work exactly as it does in the video. Files here are FREE, but I would highly appreciate your support through Patreon: patreon.com/BuildSomeStuff
@@ -171,6 +191,8 @@
 
 ## C#
 
+* 【2023-05-10】[etrupja / complete-ecommerce-aspnet-mvc-application](https://github.com/etrupja/complete-ecommerce-aspnet-mvc-application) - This is the source code of the "ASP.NET MVC | Build a Complete eCommerce App" course on Udemy
+* 【2023-05-10】[akkadotnet / akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 * 【2023-05-09】[YARC-Official / YARG](https://github.com/YARC-Official/YARG) - Yet Another Rhythm Game inspired off of Rockband, Guitar Hero, Clone Hero, or similar.
 * 【2023-05-09】[JoeKaram78 / amm-frontrun-bot](https://github.com/JoeKaram78/amm-frontrun-bot) - Automated market maker frontrunning bot for common DEXs
 * 【2023-05-09】[Erisa / RoundedTB](https://github.com/Erisa/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
@@ -222,6 +244,11 @@
 
 ## Unknown
 
+* 【2023-05-10】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
+* 【2023-05-10】[Syslifters / OSCP-Reporting](https://github.com/Syslifters/OSCP-Reporting) - Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP Exam and Lab Reporting / Note-Taking Tool
+* 【2023-05-10】[3nock / SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web spider/crawler for cyber security professionals
+* 【2023-05-10】[AI4Finance-Foundation / FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT. Open-source for open finance! Revolutionize🔥
+* 【2023-05-10】[dipakpanchal456 / CVE-2022-23808](https://github.com/dipakpanchal456/CVE-2022-23808) - phpMyAdmin XSS
 * 【2023-05-09】[dezem / SAK](https://github.com/dezem/SAK) - Switch Army Knife (SAK)
 * 【2023-05-09】[hello-world-1989 / temp](https://github.com/hello-world-1989/temp) - 完全免费vpn, 免费科学上网, 翻墙,科学上网,免费翻墙, 免费VPN,开源vpn, free vpn,好用VPN,好用梯子,白纸运动,白纸革命,分布式vpn,去中心化vpn,拆除防火墙, 拆墙运动
 * 【2023-05-08】[binarly-io / SupplyChainAttacks](https://github.com/binarly-io/SupplyChainAttacks) - 
