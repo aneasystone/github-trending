@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-05-11】[Orillusion / orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
+* 【2023-05-11】[Cormanz / smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
+* 【2023-05-11】[hkirat / project-ideas](https://github.com/hkirat/project-ideas) - Projects to get you started on full stack
+* 【2023-05-11】[paulpierre / RasaGPT](https://github.com/paulpierre/RasaGPT) - 💬RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
 * 【2023-05-10】[SCUTlihaoyu / open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 * 【2023-05-10】[imartinez / privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 * 【2023-05-10】[Starry-Wind / Honkai-Star-Rail](https://github.com/Starry-Wind/Honkai-Star-Rail) - 崩坏：星穹铁道自动锄大地脚本
@@ -51,6 +55,8 @@
 
 ## Java
 
+* 【2023-05-11】[novicezk / midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
+* 【2023-05-11】[getActivity / EasyWindow](https://github.com/getActivity/EasyWindow) - Android 悬浮窗框架，好用不解释
 * 【2023-05-07】[qiniu / java-sdk](https://github.com/qiniu/java-sdk) - Qiniu Resource (Cloud) Storage SDK for Java
 * 【2023-05-04】[fabienrenaud / java-json-benchmark](https://github.com/fabienrenaud/java-json-benchmark) - Performance testing of serialization and deserialization of Java JSON libraries
 * 【2023-05-04】[DEVOPS-WITH-WEB-DEV / springboot-k8s](https://github.com/DEVOPS-WITH-WEB-DEV/springboot-k8s) - 
@@ -64,6 +70,9 @@
 
 ## Python
 
+* 【2023-05-11】[zixiiu / Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
+* 【2023-05-11】[kemomi / daimai](https://github.com/kemomi/daimai) - 大麦网演唱会抢票脚本
+* 【2023-05-11】[emmethalm / infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
 * 【2023-05-10】[SamurAIGPT / ChatGPT-Developer-Plugins](https://github.com/SamurAIGPT/ChatGPT-Developer-Plugins) - Run ChatGPT plugins for free without having access to Plus subscription
 * 【2023-05-10】[getsentry / sentry-python](https://github.com/getsentry/sentry-python) - The official Python SDK for Sentry.io
 * 【2023-05-10】[starsliao / Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
@@ -103,6 +112,9 @@
 
 ## Javascript
 
+* 【2023-05-11】[SpaceTradersAPI / api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
+* 【2023-05-11】[hackclub / sinerider](https://github.com/hackclub/sinerider) - 💖A game about love and graphing, built by teenagers. Play it now!
+* 【2023-05-11】[marcrobledo / savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
 * 【2023-05-10】[horizon-ui / horizon-tailwind-react](https://github.com/horizon-ui/horizon-tailwind-react) - Horizon UI Tailwind CSS React JS❇️The trendiest & innovative Open Source Admin Dashboard Template for Tailwind CSS & React!
 * 【2023-05-10】[vercel / next-react-server-components](https://github.com/vercel/next-react-server-components) - Demo repository for Next.js + React Server Components
 * 【2023-05-10】[nextcloud / spreed](https://github.com/nextcloud/spreed) - 🗨️Nextcloud Talk – chat, video & audio calls for Nextcloud
@@ -136,6 +148,7 @@
 
 ## Go
 
+* 【2023-05-11】[deweizhu / bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 * 【2023-05-08】[yaklang / yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 * 【2023-05-08】[piaolin / DetectDee](https://github.com/piaolin/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 * 【2023-05-08】[wwengg / douyin](https://github.com/wwengg/douyin) - 抖音[直播伴侣]推流密钥获取工具 抖音直播间弹幕、进入房间等数据通过Websocket对接Fay
@@ -155,6 +168,8 @@
 
 ## C
 
+* 【2023-05-11】[Legrandin / pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
+* 【2023-05-11】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿Fast streaming XML parser written in C99; migrated from SourceForge to GitHub
 * 【2023-05-10】[chenaotian / CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386) - CVE-2023-0386 analysis and Exp
 * 【2023-05-10】[rofl0r / proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 * 【2023-05-10】[NctimeAza / StarRail-Cheat](https://github.com/NctimeAza/StarRail-Cheat) - StarRail Cheat
@@ -207,6 +222,9 @@
 
 ## Html
 
+* 【2023-05-11】[papis / papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
+* 【2023-05-11】[LiangYang666 / ChatGPT-Web](https://github.com/LiangYang666/ChatGPT-Web) - 使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask
+* 【2023-05-11】[rstudio / cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 * 【2023-05-08】[CSStipendRankings / CSStipendRankings](https://github.com/CSStipendRankings/CSStipendRankings) - https://csstipendrankings.org
 * 【2023-05-08】[github / codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) - 
 * 【2023-05-08】[SupaGruen / StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
@@ -223,6 +241,10 @@
 
 ## Css
 
+* 【2023-05-11】[GoogleChrome / web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
+* 【2023-05-11】[nextr0ll / nextr0ll.github.io](https://github.com/nextr0ll/nextr0ll.github.io) - 
+* 【2023-05-11】[creativetimofficial / argon-dashboard-flask](https://github.com/creativetimofficial/argon-dashboard-flask) - Argon Dashboard - Flask Template | Creative-Tim
+* 【2023-05-11】[adobe-basel / summit-emea](https://github.com/adobe-basel/summit-emea) - Franklin site for summit-emea
 * 【2023-05-09】[Kenzie-Academy-Brasil-Developers / maratona_nas_estrelas_kenzie](https://github.com/Kenzie-Academy-Brasil-Developers/maratona_nas_estrelas_kenzie) - 
 * 【2023-05-09】[DimitrisMilonopoulos / mitsugen](https://github.com/DimitrisMilonopoulos/mitsugen) - Material You for Gnome and GTK4 and GTK3
 * 【2023-05-09】[Ritesh20101998 / friendly-cent-7873](https://github.com/Ritesh20101998/friendly-cent-7873) - NXM 201 cloning of a given website/app in CW Project.
@@ -244,6 +266,8 @@
 
 ## Unknown
 
+* 【2023-05-11】[mushan0x0 / AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
+* 【2023-05-11】[alaskasquirrel / Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱📧newsletter RSS 荟萃 News
 * 【2023-05-10】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 * 【2023-05-10】[Syslifters / OSCP-Reporting](https://github.com/Syslifters/OSCP-Reporting) - Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP Exam and Lab Reporting / Note-Taking Tool
 * 【2023-05-10】[3nock / SpiderSuite](https://github.com/3nock/SpiderSuite) - Advance web spider/crawler for cyber security professionals
