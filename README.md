@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-05-15】[sunner / ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+* 【2023-05-15】[dissorial / doc-chatbot](https://github.com/dissorial/doc-chatbot) - Chat app that supports multiple files, topics, chat windows, and chat history — powered by GPT.
+* 【2023-05-15】[Ryan-yang125 / ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server.Powered by web llm
+* 【2023-05-15】[Bing-su / adetailer](https://github.com/Bing-su/adetailer) - Auto detecting, masking and inpainting with detection model.
+* 【2023-05-15】[Alirezad07 / X-Panel-SSH-User-Management](https://github.com/Alirezad07/X-Panel-SSH-User-Management) - SSH Panel User Management
+* 【2023-05-15】[acheong08 / Bard](https://github.com/acheong08/Bard) - Reverse engineering of Google's Bard API
+* 【2023-05-15】[webwhiz-ai / webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
 * 【2023-05-11】[Orillusion / orillusion](https://github.com/Orillusion/orillusion) - Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
 * 【2023-05-11】[Cormanz / smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
 * 【2023-05-11】[hkirat / project-ideas](https://github.com/hkirat/project-ideas) - Projects to get you started on full stack
@@ -55,6 +62,11 @@
 
 ## Java
 
+* 【2023-05-15】[ConsenSys / teku](https://github.com/ConsenSys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
+* 【2023-05-15】[bucket4j / bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm.
+* 【2023-05-15】[kiegroup / optaplanner](https://github.com/kiegroup/optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
+* 【2023-05-15】[jobrunr / jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
+* 【2023-05-15】[springboot4 / Art](https://github.com/springboot4/Art) - 🎉后端基于Spring Boot 3.0、 Spring Cloud & Alibaba、Spring Authorization Server。 前端基于Vue3、Typescript等主流技术栈的微服务RBAC 、SaaS多租户系统。✨✨点个star➕关注更新。🍺🍺欢迎加入交流群。
 * 【2023-05-11】[novicezk / midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
 * 【2023-05-11】[getActivity / EasyWindow](https://github.com/getActivity/EasyWindow) - Android 悬浮窗框架，好用不解释
 * 【2023-05-07】[qiniu / java-sdk](https://github.com/qiniu/java-sdk) - Qiniu Resource (Cloud) Storage SDK for Java
@@ -70,6 +82,14 @@
 
 ## Python
 
+* 【2023-05-15】[magicsword-io / LOLDrivers](https://github.com/magicsword-io/LOLDrivers) - Living Off The Land Drivers
+* 【2023-05-15】[kuleshov-group / llmtune](https://github.com/kuleshov-group/llmtune) - 4-Bit Finetuning of Large Language Models on One Consumer GPU
+* 【2023-05-15】[Docta-ai / docta](https://github.com/Docta-ai/docta) - A Doctor for your data
+* 【2023-05-15】[yxlllc / DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing)
+* 【2023-05-15】[IceClear / StableSR](https://github.com/IceClear/StableSR) - Exploiting Diffusion Prior for Real-World Image Super-Resolution
+* 【2023-05-15】[J3ldo / UGC-Sniper](https://github.com/J3ldo/UGC-Sniper) - J3ldo Sniper, a free powerful, and easy to customize roblox Sniper
+* 【2023-05-15】[csunny / DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT, no data leaks, 100% privately, 100% security
+* 【2023-05-15】[widgetti / solara](https://github.com/widgetti/solara) - A Pure Python, React-style Framework for Scaling Your Jupyter and Web Apps
 * 【2023-05-11】[zixiiu / Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
 * 【2023-05-11】[kemomi / daimai](https://github.com/kemomi/daimai) - 大麦网演唱会抢票脚本
 * 【2023-05-11】[emmethalm / infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
@@ -112,6 +132,11 @@
 
 ## Javascript
 
+* 【2023-05-15】[squarecat / doc-buddy](https://github.com/squarecat/doc-buddy) - GPT chatbot that will learn documents and instruction manuals uploaded to it
+* 【2023-05-15】[alexfoxy / lax.js](https://github.com/alexfoxy/lax.js) - Simple & lightweight (<4kb gzipped) vanilla JavaScript library to create smooth & beautiful animations when you scroll.
+* 【2023-05-15】[meabhisingh / mernProjectEcommerce](https://github.com/meabhisingh/mernProjectEcommerce) - This is MERN Stack Ecommerce Project Made to Teach MERN Stack on YouTube
+* 【2023-05-15】[pea-cake / tbk](https://github.com/pea-cake/tbk) - 淘宝客返利系统-网赚项目（nodejs）：1 .支持 淘宝、京东、拼多多转链 2.微信bot自动回复消息 转链、绑定订单 3.返利订单管理后台
+* 【2023-05-15】[liangxin199045 / code-analysis-ts](https://github.com/liangxin199045/code-analysis-ts) - scan and analysis your typescript code, get a code report，help developers implement code merge interception / code alert
 * 【2023-05-11】[SpaceTradersAPI / api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 * 【2023-05-11】[hackclub / sinerider](https://github.com/hackclub/sinerider) - 💖A game about love and graphing, built by teenagers. Play it now!
 * 【2023-05-11】[marcrobledo / savegame-editors](https://github.com/marcrobledo/savegame-editors) - A compilation of console savegame editors made with HTML5 technologies.
@@ -148,6 +173,10 @@
 
 ## Go
 
+* 【2023-05-15】[charmbracelet / mods](https://github.com/charmbracelet/mods) - AI on the command line
+* 【2023-05-15】[google / buzzer](https://github.com/google/buzzer) - 
+* 【2023-05-15】[ava-labs / avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
+* 【2023-05-15】[apicat / apicat](https://github.com/apicat/apicat) - ApiCat is an API development tool based on AI technology. It analyzes and identifies API requirements input by users, and automatically generates corresponding API documents and codes to help developers develop APIs more quickly and efficiently.
 * 【2023-05-11】[deweizhu / bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 * 【2023-05-08】[yaklang / yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 * 【2023-05-08】[piaolin / DetectDee](https://github.com/piaolin/DetectDee) - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
@@ -168,6 +197,8 @@
 
 ## C
 
+* 【2023-05-15】[nature-lang / nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+* 【2023-05-15】[Slluxx / Picklock_RCM](https://github.com/Slluxx/Picklock_RCM) - Nintendo Switch encryption key derivation bare metal RCM payload (originally made by shchmue)
 * 【2023-05-11】[Legrandin / pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
 * 【2023-05-11】[libexpat / libexpat](https://github.com/libexpat/libexpat) - 🌿Fast streaming XML parser written in C99; migrated from SourceForge to GitHub
 * 【2023-05-10】[chenaotian / CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386) - CVE-2023-0386 analysis and Exp
@@ -191,6 +222,10 @@
 
 ## C++
 
+* 【2023-05-15】[strato-emu / strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
+* 【2023-05-15】[Carbon-Community-Official / Valorant-External](https://github.com/Carbon-Community-Official/Valorant-External) - Valorant Cheat | Aimbot + Esp + Skin Changer
+* 【2023-05-15】[SeriousCache / UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
+* 【2023-05-15】[Korepi / Korepi](https://github.com/Korepi/Korepi) - Korek Api
 * 【2023-05-10】[ShiqiYu / CPP](https://github.com/ShiqiYu/CPP) - Lecture notes, projects and other materials for Course 'CS205 C/C++ Program Design' at Southern University of Science and Technology.
 * 【2023-05-10】[skyline-emu / skyline-dev](https://github.com/skyline-emu/skyline-dev) - 
 * 【2023-05-08】[stevenlovegrove / Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
@@ -206,6 +241,8 @@
 
 ## C#
 
+* 【2023-05-15】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI.
+* 【2023-05-15】[amakvana / YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - YuzuModDownloader - A One-Click Yuzu Mod downloader for Yuzu Game Mods
 * 【2023-05-10】[etrupja / complete-ecommerce-aspnet-mvc-application](https://github.com/etrupja/complete-ecommerce-aspnet-mvc-application) - This is the source code of the "ASP.NET MVC | Build a Complete eCommerce App" course on Udemy
 * 【2023-05-10】[akkadotnet / akka.net](https://github.com/akkadotnet/akka.net) - Canonical actor model implementation for .NET with local + distributed actors in C# and F#.
 * 【2023-05-09】[YARC-Official / YARG](https://github.com/YARC-Official/YARG) - Yet Another Rhythm Game inspired off of Rockband, Guitar Hero, Clone Hero, or similar.
@@ -222,6 +259,13 @@
 
 ## Html
 
+* 【2023-05-15】[thunlp / WebCPM](https://github.com/thunlp/WebCPM) - Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"
+* 【2023-05-15】[InterestingDarkness / ChatSydney](https://github.com/InterestingDarkness/ChatSydney) - 
+* 【2023-05-15】[j00sean / SecBugs](https://github.com/j00sean/SecBugs) - Full disclosures for CVE ids, proofs of concept, exploits, 0day bugs and so on.
+* 【2023-05-15】[the-full-stack / website](https://github.com/the-full-stack/website) - Source for https://fullstackdeeplearning.com
+* 【2023-05-15】[4xmen / Web-Package-RTL](https://github.com/4xmen/Web-Package-RTL) - Full RTL Package - Easy To Use By RTL Direction
+* 【2023-05-15】[taikoxyz / taiko-mono](https://github.com/taikoxyz/taiko-mono) - A decentralized, Ethereum-equivalent ZK-Rollup.🥁
+* 【2023-05-15】[sefyudem / 3D-Parallax-Website-in-JavaScript](https://github.com/sefyudem/3D-Parallax-Website-in-JavaScript) - 
 * 【2023-05-11】[papis / papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
 * 【2023-05-11】[LiangYang666 / ChatGPT-Web](https://github.com/LiangYang666/ChatGPT-Web) - 使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask
 * 【2023-05-11】[rstudio / cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
@@ -241,6 +285,7 @@
 
 ## Css
 
+* 【2023-05-15】[techchipnet / hound](https://github.com/techchipnet/hound) - Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 * 【2023-05-11】[GoogleChrome / web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 * 【2023-05-11】[nextr0ll / nextr0ll.github.io](https://github.com/nextr0ll/nextr0ll.github.io) - 
 * 【2023-05-11】[creativetimofficial / argon-dashboard-flask](https://github.com/creativetimofficial/argon-dashboard-flask) - Argon Dashboard - Flask Template | Creative-Tim
@@ -266,6 +311,10 @@
 
 ## Unknown
 
+* 【2023-05-15】[gitkarma / quantum_computing_course2023](https://github.com/gitkarma/quantum_computing_course2023) - Course Material for the online short course on Quantum Computing Using QSim
+* 【2023-05-15】[THZoria / NX_Firmware](https://github.com/THZoria/NX_Firmware) - Firmware for the Nintendo Switch
+* 【2023-05-15】[brexhq / prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+* 【2023-05-15】[sindresorhus / awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
 * 【2023-05-11】[mushan0x0 / AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 * 【2023-05-11】[alaskasquirrel / Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱📧newsletter RSS 荟萃 News
 * 【2023-05-10】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
