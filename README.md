@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-05-17】[dsdanielpark / Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
+* 【2023-05-17】[ProjektyUstaw / Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT) - 
+* 【2023-05-17】[langgenius / dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+* 【2023-05-17】[Mr-xn / BLACKHAT_Asia2023](https://github.com/Mr-xn/BLACKHAT_Asia2023) - Black Hat Asia 2023 PDF Public
+* 【2023-05-17】[microsoft / guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 * 【2023-05-16】[XTLS / Trojan-killer](https://github.com/XTLS/Trojan-killer) - Detect TLS in TLS.
 * 【2023-05-16】[StanGirard / quivr](https://github.com/StanGirard/quivr) - Dump all your files and thoughts into your GenerativeAI brain and chat with it
 * 【2023-05-15】[sunner / ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
@@ -64,6 +69,7 @@
 
 ## Java
 
+* 【2023-05-17】[tywo45 / t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜
 * 【2023-05-16】[devsuperior / dslist-backend](https://github.com/devsuperior/dslist-backend) - 
 * 【2023-05-15】[ConsenSys / teku](https://github.com/ConsenSys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
 * 【2023-05-15】[bucket4j / bucket4j](https://github.com/bucket4j/bucket4j) - Java rate limiting library based on token-bucket algorithm.
@@ -85,6 +91,10 @@
 
 ## Python
 
+* 【2023-05-17】[HuangJunJie2017 / BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Official code base of the BEVDet series .
+* 【2023-05-17】[microsoft / Cream](https://github.com/microsoft/Cream) - This is a collection of our NAS and Vision Transformer work.
+* 【2023-05-17】[hoochanlon / seikaii](https://github.com/hoochanlon/seikaii) - 💾ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
+* 【2023-05-17】[jiajiaxd / Steamauto](https://github.com/jiajiaxd/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 * 【2023-05-16】[jtsang4 / claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
 * 【2023-05-16】[deforum-art / sd-webui-deforum](https://github.com/deforum-art/sd-webui-deforum) - Deforum extension script for AUTOMATIC1111's Stable Diffusion webui
 * 【2023-05-16】[jimmyyhwu / tidybot](https://github.com/jimmyyhwu/tidybot) - TidyBot: Personalized Robot Assistance with Large Language Models
@@ -139,6 +149,9 @@
 
 ## Javascript
 
+* 【2023-05-17】[Ibit-to / google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
+* 【2023-05-17】[isno / theByteBook](https://github.com/isno/theByteBook) - 跟作者一起学习架构原理与落地实践， 别光 Star 一起学习
+* 【2023-05-17】[chatanywhere / GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 * 【2023-05-16】[debate / debate-ai](https://github.com/debate/debate-ai) - Stream debate rounds and manage research
 * 【2023-05-16】[cloudflare / chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform🤖
 * 【2023-05-16】[hkirat / peetcode](https://github.com/hkirat/peetcode) - 
@@ -183,6 +196,9 @@
 
 ## Go
 
+* 【2023-05-17】[kubernetes / kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+* 【2023-05-17】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
+* 【2023-05-17】[Permify / permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
 * 【2023-05-16】[ANG13T / SatIntel](https://github.com/ANG13T/SatIntel) - SatIntel is an OSINT tool for Satellites🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs🔭
 * 【2023-05-16】[robherley / snips.sh](https://github.com/robherley/snips.sh) - ✂️passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 * 【2023-05-15】[charmbracelet / mods](https://github.com/charmbracelet/mods) - AI on the command line
@@ -209,6 +225,9 @@
 
 ## C
 
+* 【2023-05-17】[GPUOpen-LibrariesAndSDKs / Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin) - AMD ARR team rendering framework
+* 【2023-05-17】[cococry / Ragnar](https://github.com/cococry/Ragnar) - Minimal X Window Manager
+* 【2023-05-17】[solosky / pixl.js](https://github.com/solosky/pixl.js) - An emulator for Amiibo!
 * 【2023-05-16】[gabriellandau / PPLFault](https://github.com/gabriellandau/PPLFault) - 
 * 【2023-05-15】[nature-lang / nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 * 【2023-05-15】[Slluxx / Picklock_RCM](https://github.com/Slluxx/Picklock_RCM) - Nintendo Switch encryption key derivation bare metal RCM payload (originally made by shchmue)
@@ -235,6 +254,7 @@
 
 ## C++
 
+* 【2023-05-17】[haoel / leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * 【2023-05-16】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2023-05-16】[Xyrem / HyperDeceit](https://github.com/Xyrem/HyperDeceit) - HyperDeceit is the ultimate all-in-one library that emulates Hyper-V for Windows, giving you the ability to intercept and manipulate operating system tasks with ease.
 * 【2023-05-16】[RicardaY / yys](https://github.com/RicardaY/yys) - 阴阳师脚本护肝助手，防止头秃，珍爱生命，人人有责
@@ -257,6 +277,9 @@
 
 ## C#
 
+* 【2023-05-17】[DebugST / STNodeEditor](https://github.com/DebugST/STNodeEditor) - 一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性
+* 【2023-05-17】[streamviewerchatbot / Stream-Viewer-Chat-Bot](https://github.com/streamviewerchatbot/Stream-Viewer-Chat-Bot) - Twitch | YouTube | Kick | Facebook Live | Twitter | DLive | Nimo Tv | Trovo Live - Easy to use form application. Forget about the command lines and terminals. Gain chat capable viewers in a couple of minutes. Free stream viewer and chat bot.
+* 【2023-05-17】[Lunatic-Works / Nova](https://github.com/Lunatic-Works/Nova) - Programmer-friendly framework for visual novels (VN) / text-based adventure games (AVG) on Unity
 * 【2023-05-16】[lchmagKekse / TOTK-SaveGame-Editor](https://github.com/lchmagKekse/TOTK-SaveGame-Editor) - Savegame Editor for The Legend of Zelda: Tears of the Kingdom
 * 【2023-05-15】[SciSharp / LLamaSharp](https://github.com/SciSharp/LLamaSharp) - C#/.NET binding of llama.cpp, including LLaMa/GPT model inference and quantization, ASP.NET core integration and UI.
 * 【2023-05-15】[amakvana / YuzuModDownloader](https://github.com/amakvana/YuzuModDownloader) - YuzuModDownloader - A One-Click Yuzu Mod downloader for Yuzu Game Mods
@@ -276,6 +299,10 @@
 
 ## Html
 
+* 【2023-05-17】[Azure-Samples / cosmosdb-chatgpt](https://github.com/Azure-Samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
+* 【2023-05-17】[ninehills / ninehills.github.io](https://github.com/ninehills/ninehills.github.io) - 
+* 【2023-05-17】[devemdobro / projeto-listagem-pokemon](https://github.com/devemdobro/projeto-listagem-pokemon) - 
+* 【2023-05-17】[hackingthemarkets / financial-news-llama-index](https://github.com/hackingthemarkets/financial-news-llama-index) - Financial News Analysis with Llama Index, GPT-4, and Streamlit
 * 【2023-05-16】[Frooodle / Stirling-PDF](https://github.com/Frooodle/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 * 【2023-05-16】[shadawck / awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general that makes changes to a system for the purposes of hiding information.
 * 【2023-05-16】[sechelper / kunge-cybersecurity-learning](https://github.com/sechelper/kunge-cybersecurity-learning) - 全网首创，坤哥网安学习法，最屌没有之一
@@ -306,6 +333,9 @@
 
 ## Css
 
+* 【2023-05-17】[likelionsg / 11th_Django_Assignment](https://github.com/likelionsg/11th_Django_Assignment) - 5월 15일 장고 세션 과제 제출 레포지토리입니다.
+* 【2023-05-17】[HeroCTF / HeroCTF_v5](https://github.com/HeroCTF/HeroCTF_v5) - 
+* 【2023-05-17】[DanWahlin / NodeExpressMongoDBDockerApp](https://github.com/DanWahlin/NodeExpressMongoDBDockerApp) - Node.js with MongoDB Docker App Demo
 * 【2023-05-15】[techchipnet / hound](https://github.com/techchipnet/hound) - Hound is a simple and light tool for information gathering and capture exact GPS coordinates
 * 【2023-05-11】[GoogleChrome / web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 * 【2023-05-11】[nextr0ll / nextr0ll.github.io](https://github.com/nextr0ll/nextr0ll.github.io) - 
@@ -332,6 +362,8 @@
 
 ## Unknown
 
+* 【2023-05-17】[HolographicWings / TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) - Mod repo for TOTK on Yuzu emulator.
+* 【2023-05-17】[deezertidal / freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场分享
 * 【2023-05-16】[Ryujinx / Ryujinx-Games-List](https://github.com/Ryujinx/Ryujinx-Games-List) - List of games & demos tested on Ryujinx
 * 【2023-05-16】[intel / intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 * 【2023-05-16】[yzfly / LangGPT](https://github.com/yzfly/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀
