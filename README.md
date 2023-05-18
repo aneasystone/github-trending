@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-05-18】[smol-ai / developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+* 【2023-05-18】[bluesky-social / social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
+* 【2023-05-18】[toverainc / willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+* 【2023-05-18】[e-johnstonn / BriefGPT](https://github.com/e-johnstonn/BriefGPT) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
 * 【2023-05-17】[dsdanielpark / Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API.
 * 【2023-05-17】[ProjektyUstaw / Ustawy-o-PIT](https://github.com/ProjektyUstaw/Ustawy-o-PIT) - 
 * 【2023-05-17】[langgenius / dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
@@ -91,6 +95,12 @@
 
 ## Python
 
+* 【2023-05-18】[eth-sri / lmql](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
+* 【2023-05-18】[poe-platform / api-bot-tutorial](https://github.com/poe-platform/api-bot-tutorial) - Tutorial for Poe API bots
+* 【2023-05-18】[salesforce / CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
+* 【2023-05-18】[t3l3machus / psudohash](https://github.com/t3l3machus/psudohash) - Generates millions of keyword-based password mutations in seconds.
+* 【2023-05-18】[shibing624 / similarities](https://github.com/shibing624/similarities) - Similarities: a toolkit for similarity calculation and semantic search. 语义相似度计算、匹配搜索工具包，支持文本和图像，开箱即用。
+* 【2023-05-18】[geeeeeeeek / jd-seckill-2023](https://github.com/geeeeeeeek/jd-seckill-2023) - 京东App秒杀抢购流程接口分析，京东茅台抢购最新技术分析
 * 【2023-05-17】[HuangJunJie2017 / BEVDet](https://github.com/HuangJunJie2017/BEVDet) - Official code base of the BEVDet series .
 * 【2023-05-17】[microsoft / Cream](https://github.com/microsoft/Cream) - This is a collection of our NAS and Vision Transformer work.
 * 【2023-05-17】[hoochanlon / seikaii](https://github.com/hoochanlon/seikaii) - 💾ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库
@@ -149,6 +159,10 @@
 
 ## Javascript
 
+* 【2023-05-18】[DarkMakerofc / QUEEN-ELISA-MD](https://github.com/DarkMakerofc/QUEEN-ELISA-MD) - Queen Elisa Whatsapp is, It is a Project that can be called as a Whatsapp 3rd Party Application which you can get at a very good Bot Expirience
+* 【2023-05-18】[LearnPrompt / LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 
+* 【2023-05-18】[pot-app / pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
+* 【2023-05-18】[pengzhile / ChatGPTAuthHelper](https://github.com/pengzhile/ChatGPTAuthHelper) - A simple Chrome extension to help you login ChatGPT.
 * 【2023-05-17】[Ibit-to / google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results
 * 【2023-05-17】[isno / theByteBook](https://github.com/isno/theByteBook) - 跟作者一起学习架构原理与落地实践， 别光 Star 一起学习
 * 【2023-05-17】[chatanywhere / GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（低价），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
@@ -196,6 +210,8 @@
 
 ## Go
 
+* 【2023-05-18】[megaease / easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
+* 【2023-05-18】[Pizz33 / GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - 免杀shellcode加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
 * 【2023-05-17】[kubernetes / kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 * 【2023-05-17】[k0sproject / k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 * 【2023-05-17】[Permify / permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
@@ -225,6 +241,7 @@
 
 ## C
 
+* 【2023-05-18】[yhzhang0128 / egos-2000](https://github.com/yhzhang0128/egos-2000) - A minimal operating system (2K LOC) on QEMU and a RISC-V board
 * 【2023-05-17】[GPUOpen-LibrariesAndSDKs / Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin) - AMD ARR team rendering framework
 * 【2023-05-17】[cococry / Ragnar](https://github.com/cococry/Ragnar) - Minimal X Window Manager
 * 【2023-05-17】[solosky / pixl.js](https://github.com/solosky/pixl.js) - An emulator for Amiibo!
@@ -254,6 +271,10 @@
 
 ## C++
 
+* 【2023-05-18】[PricelessToolkit / Smart-Home-Security-Guardian-Bot](https://github.com/PricelessToolkit/Smart-Home-Security-Guardian-Bot) - 
+* 【2023-05-18】[OpenAtomFoundation / pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
+* 【2023-05-18】[RLE-Foundation / Hsuanwu](https://github.com/RLE-Foundation/Hsuanwu) - Long-Term Evolution Project of Reinforcement Learning
+* 【2023-05-18】[hackerhouse-opensource / CompMgmtLauncher_DLL_UACBypass](https://github.com/hackerhouse-opensource/CompMgmtLauncher_DLL_UACBypass) - CompMgmtLauncher & Sharepoint DLL Search Order hijacking UAC/persist via OneDrive
 * 【2023-05-17】[haoel / leetcode](https://github.com/haoel/leetcode) - LeetCode Problems' Solutions
 * 【2023-05-16】[DamRsn / NeuralNote](https://github.com/DamRsn/NeuralNote) - Audio Plugin for Audio to MIDI transcription using deep learning.
 * 【2023-05-16】[Xyrem / HyperDeceit](https://github.com/Xyrem/HyperDeceit) - HyperDeceit is the ultimate all-in-one library that emulates Hyper-V for Windows, giving you the ability to intercept and manipulate operating system tasks with ease.
@@ -277,6 +298,8 @@
 
 ## C#
 
+* 【2023-05-18】[pilout / YuzuUpdater](https://github.com/pilout/YuzuUpdater) - A auto updater for YUZU EA with changelog.
+* 【2023-05-18】[PacktPublishing / The-Azure-Cloud-Native-Architecture-Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) - The Azure Cloud Native Architecture Mapbook, published by Packt
 * 【2023-05-17】[DebugST / STNodeEditor](https://github.com/DebugST/STNodeEditor) - 一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性
 * 【2023-05-17】[streamviewerchatbot / Stream-Viewer-Chat-Bot](https://github.com/streamviewerchatbot/Stream-Viewer-Chat-Bot) - Twitch | YouTube | Kick | Facebook Live | Twitter | DLive | Nimo Tv | Trovo Live - Easy to use form application. Forget about the command lines and terminals. Gain chat capable viewers in a couple of minutes. Free stream viewer and chat bot.
 * 【2023-05-17】[Lunatic-Works / Nova](https://github.com/Lunatic-Works/Nova) - Programmer-friendly framework for visual novels (VN) / text-based adventure games (AVG) on Unity
@@ -299,6 +322,10 @@
 
 ## Html
 
+* 【2023-05-18】[soulteary / forever-coolshell](https://github.com/soulteary/forever-coolshell) - 酷壳 - CoolShell 电子存档，🕯️谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。
+* 【2023-05-18】[ghostincoolshell / haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
+* 【2023-05-18】[espressif / esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
+* 【2023-05-18】[joshhighet / ransomwatch](https://github.com/joshhighet/ransomwatch) - the original, transparent ransomware claim tracker 🥷🏼🧅🖥️
 * 【2023-05-17】[Azure-Samples / cosmosdb-chatgpt](https://github.com/Azure-Samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
 * 【2023-05-17】[ninehills / ninehills.github.io](https://github.com/ninehills/ninehills.github.io) - 
 * 【2023-05-17】[devemdobro / projeto-listagem-pokemon](https://github.com/devemdobro/projeto-listagem-pokemon) - 
@@ -362,6 +389,10 @@
 
 ## Unknown
 
+* 【2023-05-18】[erdengk / excellent-wheel](https://github.com/erdengk/excellent-wheel) - 收集轮子类项目
+* 【2023-05-18】[snowcra5h / windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets) - A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, interprocess communication, Unicode string manipulation, error handling, Winsock networking operations, and registry operations.
+* 【2023-05-18】[jconorgrogan / CLARKGPT](https://github.com/jconorgrogan/CLARKGPT) - The ultimate LLM prompt: extract the best possible answers with the highest fidelity and lowest error rates
+* 【2023-05-18】[synthesiaresearch / humanrf](https://github.com/synthesiaresearch/humanrf) - Official code for "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion"
 * 【2023-05-17】[HolographicWings / TOTK-Mods-collection](https://github.com/HolographicWings/TOTK-Mods-collection) - Mod repo for TOTK on Yuzu emulator.
 * 【2023-05-17】[deezertidal / freevpn](https://github.com/deezertidal/freevpn) - 免费公益机场分享
 * 【2023-05-16】[Ryujinx / Ryujinx-Games-List](https://github.com/Ryujinx/Ryujinx-Games-List) - List of games & demos tested on Ryujinx
