@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-05-19】[hendricius / the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
+* 【2023-05-19】[megaease / Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
+* 【2023-05-19】[smol-ai / menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
+* 【2023-05-19】[sandipmohapatra / DXC2023](https://github.com/sandipmohapatra/DXC2023) - 
+* 【2023-05-19】[nuxtlabs / ui](https://github.com/nuxtlabs/ui) - Fully styled and customizable components for Nuxt.
+* 【2023-05-19】[rocketseat-education / nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite) - Aplicação de recordação de memórias desenvolvida no NLW 12
+* 【2023-05-19】[creatorsgarten / kaogeek-discord-bot](https://github.com/creatorsgarten/kaogeek-discord-bot) - Discord bot for KaoGeek, built with TypeScript
+* 【2023-05-19】[JackJiang2011 / MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) - 一个原创多端IM通信层框架，轻量级、高度提炼，历经8年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp，服务端基于Netty。
 * 【2023-05-18】[smol-ai / developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
 * 【2023-05-18】[bluesky-social / social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 * 【2023-05-18】[toverainc / willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -95,6 +103,9 @@
 
 ## Python
 
+* 【2023-05-19】[101dotxyz / GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals.
+* 【2023-05-19】[lucidrains / MEGABYTE-pytorch](https://github.com/lucidrains/MEGABYTE-pytorch) - Implementation of MEGABYTE, Predicting Million-byte Sequences with Multiscale Transformers, in Pytorch
+* 【2023-05-19】[homanp / superagent](https://github.com/homanp/superagent) - 🥷SuperAgent - Deploy LLM Agents to production
 * 【2023-05-18】[eth-sri / lmql](https://github.com/eth-sri/lmql) - A query language for programming (large) language models.
 * 【2023-05-18】[poe-platform / api-bot-tutorial](https://github.com/poe-platform/api-bot-tutorial) - Tutorial for Poe API bots
 * 【2023-05-18】[salesforce / CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
@@ -159,6 +170,8 @@
 
 ## Javascript
 
+* 【2023-05-19】[vercel / pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+* 【2023-05-19】[jsdom / jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 * 【2023-05-18】[DarkMakerofc / QUEEN-ELISA-MD](https://github.com/DarkMakerofc/QUEEN-ELISA-MD) - Queen Elisa Whatsapp is, It is a Project that can be called as a Whatsapp 3rd Party Application which you can get at a very good Bot Expirience
 * 【2023-05-18】[LearnPrompt / LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 
 * 【2023-05-18】[pot-app / pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译软件 | A cross-platform translation software
@@ -210,6 +223,11 @@
 
 ## Go
 
+* 【2023-05-19】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+* 【2023-05-19】[darkr4y / geacon](https://github.com/darkr4y/geacon) - Practice Go programming and implement CobaltStrike's Beacon in Go
+* 【2023-05-19】[redis / rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
+* 【2023-05-19】[bufbuild / buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+* 【2023-05-19】[mailhog / MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 * 【2023-05-18】[megaease / easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 * 【2023-05-18】[Pizz33 / GobypassAV-shellcode](https://github.com/Pizz33/GobypassAV-shellcode) - 免杀shellcode加载器，使用go实现，免杀bypass火绒、360、核晶、def等主流杀软
 * 【2023-05-17】[kubernetes / kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
@@ -241,6 +259,11 @@
 
 ## C
 
+* 【2023-05-19】[Liuk3r / CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233) - CVE-2023-32233: Linux内核中的安全漏洞
+* 【2023-05-19】[bigcode-project / starcoder.cpp](https://github.com/bigcode-project/starcoder.cpp) - C++ implementation for💫StarCoder
+* 【2023-05-19】[robdelacruz / lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
+* 【2023-05-19】[hackerschoice / gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
+* 【2023-05-19】[ComparativeGenomicsToolkit / cactus](https://github.com/ComparativeGenomicsToolkit/cactus) - Official home of genome aligner based upon notion of Cactus graphs
 * 【2023-05-18】[yhzhang0128 / egos-2000](https://github.com/yhzhang0128/egos-2000) - A minimal operating system (2K LOC) on QEMU and a RISC-V board
 * 【2023-05-17】[GPUOpen-LibrariesAndSDKs / Capsaicin](https://github.com/GPUOpen-LibrariesAndSDKs/Capsaicin) - AMD ARR team rendering framework
 * 【2023-05-17】[cococry / Ragnar](https://github.com/cococry/Ragnar) - Minimal X Window Manager
@@ -271,6 +294,9 @@
 
 ## C++
 
+* 【2023-05-19】[ByteWelder / Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
+* 【2023-05-19】[UniversalToolCompiler / UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader) - Dynamic liquid shader for UE5.2 using Substrate material.
+* 【2023-05-19】[Blueforcer / awtrix-light](https://github.com/Blueforcer/awtrix-light) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
 * 【2023-05-18】[PricelessToolkit / Smart-Home-Security-Guardian-Bot](https://github.com/PricelessToolkit/Smart-Home-Security-Guardian-Bot) - 
 * 【2023-05-18】[OpenAtomFoundation / pika](https://github.com/OpenAtomFoundation/pika) - Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.
 * 【2023-05-18】[RLE-Foundation / Hsuanwu](https://github.com/RLE-Foundation/Hsuanwu) - Long-Term Evolution Project of Reinforcement Learning
@@ -298,6 +324,7 @@
 
 ## C#
 
+* 【2023-05-19】[vdohney / keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper) - 
 * 【2023-05-18】[pilout / YuzuUpdater](https://github.com/pilout/YuzuUpdater) - A auto updater for YUZU EA with changelog.
 * 【2023-05-18】[PacktPublishing / The-Azure-Cloud-Native-Architecture-Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) - The Azure Cloud Native Architecture Mapbook, published by Packt
 * 【2023-05-17】[DebugST / STNodeEditor](https://github.com/DebugST/STNodeEditor) - 一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性
@@ -322,6 +349,8 @@
 
 ## Html
 
+* 【2023-05-19】[KevinWang15 / fdty](https://github.com/KevinWang15/fdty) - 复旦体育理论考试 自动做题器
+* 【2023-05-19】[widevineleak / Chrome-Widevine-Guesser-2023](https://github.com/widevineleak/Chrome-Widevine-Guesser-2023) - widevine guesser to get mpd and keys from any widevine site
 * 【2023-05-18】[soulteary / forever-coolshell](https://github.com/soulteary/forever-coolshell) - 酷壳 - CoolShell 电子存档，🕯️谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。
 * 【2023-05-18】[ghostincoolshell / haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
 * 【2023-05-18】[espressif / esp-box](https://github.com/espressif/esp-box) - The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.
@@ -360,6 +389,10 @@
 
 ## Css
 
+* 【2023-05-19】[tokhtaraubakirov / dramatic-webapp-strong](https://github.com/tokhtaraubakirov/dramatic-webapp-strong) - 
+* 【2023-05-19】[CommandCrafterHD / DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) - DarkNeon is a blacked out discord theme with bright neon highlights. Made by Bates#7075
+* 【2023-05-19】[tobyisawesome / bing-fluent-skin](https://github.com/tobyisawesome/bing-fluent-skin) - Fluent Stylus skin for Bing.com
+* 【2023-05-19】[OpenContributionsProject / opencontributionssite](https://github.com/OpenContributionsProject/opencontributionssite) - A resource to help advocate for and explain corporate contributions to open source.
 * 【2023-05-17】[likelionsg / 11th_Django_Assignment](https://github.com/likelionsg/11th_Django_Assignment) - 5월 15일 장고 세션 과제 제출 레포지토리입니다.
 * 【2023-05-17】[HeroCTF / HeroCTF_v5](https://github.com/HeroCTF/HeroCTF_v5) - 
 * 【2023-05-17】[DanWahlin / NodeExpressMongoDBDockerApp](https://github.com/DanWahlin/NodeExpressMongoDBDockerApp) - Node.js with MongoDB Docker App Demo
@@ -389,6 +422,12 @@
 
 ## Unknown
 
+* 【2023-05-19】[jrin771 / Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
+* 【2023-05-19】[Az0x7 / vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - 
+* 【2023-05-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - 
+* 【2023-05-19】[ReaVNaiL / New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024!🚀
+* 【2023-05-19】[gdxz123 / AppleGuidelines](https://github.com/gdxz123/AppleGuidelines) - Awesome AppleStore guideline on China
+* 【2023-05-19】[wuwenjie1992 / StarrySky](https://github.com/wuwenjie1992/StarrySky) - 精选了千余项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉等内容。
 * 【2023-05-18】[erdengk / excellent-wheel](https://github.com/erdengk/excellent-wheel) - 收集轮子类项目
 * 【2023-05-18】[snowcra5h / windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets) - A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, interprocess communication, Unicode string manipulation, error handling, Winsock networking operations, and registry operations.
 * 【2023-05-18】[jconorgrogan / CLARKGPT](https://github.com/jconorgrogan/CLARKGPT) - The ultimate LLM prompt: extract the best possible answers with the highest fidelity and lowest error rates
