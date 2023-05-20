@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-20】[Stability-AI / StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
+* 【2023-05-20】[ray-project / llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
+* 【2023-05-20】[UFund-Me / Qbot](https://github.com/UFund-Me/Qbot) - [updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant
 * 【2023-05-19】[hendricius / the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 * 【2023-05-19】[megaease / Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
 * 【2023-05-19】[smol-ai / menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
@@ -103,6 +106,9 @@
 
 ## Python
 
+* 【2023-05-20】[gustavz / DataChad](https://github.com/gustavz/DataChad) - Ask questions about any data source by leveraging langchains
+* 【2023-05-20】[pengxiao-song / LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+* 【2023-05-20】[roboflow / supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools.💜
 * 【2023-05-19】[101dotxyz / GPTeam](https://github.com/101dotxyz/GPTeam) - GPTeam uses GPT-4 to create multiple agents who collaborate to achieve predefined goals.
 * 【2023-05-19】[lucidrains / MEGABYTE-pytorch](https://github.com/lucidrains/MEGABYTE-pytorch) - Implementation of MEGABYTE, Predicting Million-byte Sequences with Multiscale Transformers, in Pytorch
 * 【2023-05-19】[homanp / superagent](https://github.com/homanp/superagent) - 🥷SuperAgent - Deploy LLM Agents to production
@@ -170,6 +176,9 @@
 
 ## Javascript
 
+* 【2023-05-20】[wenda-LLM / wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力
+* 【2023-05-20】[liyf-code / reverse_practice](https://github.com/liyf-code/reverse_practice) - python爬虫练习案例，汇总一些简单的js逆向案例，看准网，网易云评论、房天下，粉笔网，企名片，天翼云，巨潮资讯，tokencap，新榜资讯，公共资源交易，欧科云链，得物等
+* 【2023-05-20】[Keywos / rule](https://github.com/Keywos/rule) - 
 * 【2023-05-19】[vercel / pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 * 【2023-05-19】[jsdom / jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 * 【2023-05-18】[DarkMakerofc / QUEEN-ELISA-MD](https://github.com/DarkMakerofc/QUEEN-ELISA-MD) - Queen Elisa Whatsapp is, It is a Project that can be called as a Whatsapp 3rd Party Application which you can get at a very good Bot Expirience
@@ -294,6 +303,7 @@
 
 ## C++
 
+* 【2023-05-20】[NVIDIA-AI-IOT / Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 * 【2023-05-19】[ByteWelder / Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
 * 【2023-05-19】[UniversalToolCompiler / UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader) - Dynamic liquid shader for UE5.2 using Substrate material.
 * 【2023-05-19】[Blueforcer / awtrix-light](https://github.com/Blueforcer/awtrix-light) - Custom firmware for the Ulanzi Smart Pixel clock or self made awtrix. Getting started is easy as 1-2-3
@@ -324,6 +334,8 @@
 
 ## C#
 
+* 【2023-05-20】[OfficeDev / microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) - Company Communicator app template
+* 【2023-05-20】[linq2db / linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 * 【2023-05-19】[vdohney / keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper) - 
 * 【2023-05-18】[pilout / YuzuUpdater](https://github.com/pilout/YuzuUpdater) - A auto updater for YUZU EA with changelog.
 * 【2023-05-18】[PacktPublishing / The-Azure-Cloud-Native-Architecture-Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) - The Azure Cloud Native Architecture Mapbook, published by Packt
@@ -349,6 +361,10 @@
 
 ## Html
 
+* 【2023-05-20】[duiqt / herta_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
+* 【2023-05-20】[chenshuo / coolshell](https://github.com/chenshuo/coolshell) - Static mirror of coolshell.cn, (c) haoel 2023.
+* 【2023-05-20】[rocketseat-education / nlw12-spacetime-explorer](https://github.com/rocketseat-education/nlw12-spacetime-explorer) - Aplicação de recordação de memórias desenvolvida no NLW 12
+* 【2023-05-20】[kangtegong / self-learning-cs](https://github.com/kangtegong/self-learning-cs) - 집필서적- 『혼자 공부하는 컴퓨터구조 & 운영체제』 (한빛미디어) 심화자료
 * 【2023-05-19】[KevinWang15 / fdty](https://github.com/KevinWang15/fdty) - 复旦体育理论考试 自动做题器
 * 【2023-05-19】[widevineleak / Chrome-Widevine-Guesser-2023](https://github.com/widevineleak/Chrome-Widevine-Guesser-2023) - widevine guesser to get mpd and keys from any widevine site
 * 【2023-05-18】[soulteary / forever-coolshell](https://github.com/soulteary/forever-coolshell) - 酷壳 - CoolShell 电子存档，🕯️谨纪念和保存陈皓先生的公开的技术分享内容，感恩皓叔对中文互联网，尤其是技术领域无私的分享。
@@ -389,6 +405,7 @@
 
 ## Css
 
+* 【2023-05-20】[helenmironova / final-task](https://github.com/helenmironova/final-task) - Quantori JS School final task
 * 【2023-05-19】[tokhtaraubakirov / dramatic-webapp-strong](https://github.com/tokhtaraubakirov/dramatic-webapp-strong) - 
 * 【2023-05-19】[CommandCrafterHD / DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) - DarkNeon is a blacked out discord theme with bright neon highlights. Made by Bates#7075
 * 【2023-05-19】[tobyisawesome / bing-fluent-skin](https://github.com/tobyisawesome/bing-fluent-skin) - Fluent Stylus skin for Bing.com
@@ -422,6 +439,8 @@
 
 ## Unknown
 
+* 【2023-05-20】[fgr178707 / aliyunpan-automation](https://github.com/fgr178707/aliyunpan-automation) - 阿里云盘自动签到脚本 每天凌晨1:30自动签到
+* 【2023-05-20】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 * 【2023-05-19】[jrin771 / Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
 * 【2023-05-19】[Az0x7 / vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) - 
 * 【2023-05-19】[Code4GovTech / C4GT](https://github.com/Code4GovTech/C4GT) - 
