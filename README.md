@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-21】[mit-han-lab / fastcomposer](https://github.com/mit-han-lab/fastcomposer) - 
+* 【2023-05-21】[THUDM / VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
+* 【2023-05-21】[tu-lang / tu](https://github.com/tu-lang/tu) - tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的语言(防秃)。已实现自举
 * 【2023-05-20】[Stability-AI / StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
 * 【2023-05-20】[ray-project / llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 * 【2023-05-20】[UFund-Me / Qbot](https://github.com/UFund-Me/Qbot) - [updating ...] 自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant
@@ -84,6 +87,8 @@
 
 ## Java
 
+* 【2023-05-21】[nickm980 / smallville](https://github.com/nickm980/smallville) - Create Generative Agents for video games and simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior
+* 【2023-05-21】[SAP / abap-cleaner](https://github.com/SAP/abap-cleaner) - ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke
 * 【2023-05-17】[tywo45 / t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜
 * 【2023-05-16】[devsuperior / dslist-backend](https://github.com/devsuperior/dslist-backend) - 
 * 【2023-05-15】[ConsenSys / teku](https://github.com/ConsenSys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
@@ -106,6 +111,10 @@
 
 ## Python
 
+* 【2023-05-21】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+* 【2023-05-21】[blackboxo / CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+* 【2023-05-21】[Syan-Lin / CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) - LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
+* 【2023-05-21】[FinHackCN / finhack](https://github.com/FinHackCN/finhack) - 一个简单的A股量化框架
 * 【2023-05-20】[gustavz / DataChad](https://github.com/gustavz/DataChad) - Ask questions about any data source by leveraging langchains
 * 【2023-05-20】[pengxiao-song / LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 * 【2023-05-20】[roboflow / supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools.💜
@@ -176,6 +185,8 @@
 
 ## Javascript
 
+* 【2023-05-21】[protonemedia / eddy-server-management](https://github.com/protonemedia/eddy-server-management) - Open-Source Solution for Server Provisioning and Zero-Downtime PHP Deployment
+* 【2023-05-21】[choogoo / chatflow](https://github.com/choogoo/chatflow) - 一个使用wechaty构建的机器人业务管理平台
 * 【2023-05-20】[wenda-LLM / wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力
 * 【2023-05-20】[liyf-code / reverse_practice](https://github.com/liyf-code/reverse_practice) - python爬虫练习案例，汇总一些简单的js逆向案例，看准网，网易云评论、房天下，粉笔网，企名片，天翼云，巨潮资讯，tokencap，新榜资讯，公共资源交易，欧科云链，得物等
 * 【2023-05-20】[Keywos / rule](https://github.com/Keywos/rule) - 
@@ -232,6 +243,9 @@
 
 ## Go
 
+* 【2023-05-21】[kubeovn / kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
+* 【2023-05-21】[paypal / junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
+* 【2023-05-21】[kardianos / service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 * 【2023-05-19】[loft-sh / devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
 * 【2023-05-19】[darkr4y / geacon](https://github.com/darkr4y/geacon) - Practice Go programming and implement CobaltStrike's Beacon in Go
 * 【2023-05-19】[redis / rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
@@ -268,6 +282,7 @@
 
 ## C
 
+* 【2023-05-21】[ClemensElflein / OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 * 【2023-05-19】[Liuk3r / CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233) - CVE-2023-32233: Linux内核中的安全漏洞
 * 【2023-05-19】[bigcode-project / starcoder.cpp](https://github.com/bigcode-project/starcoder.cpp) - C++ implementation for💫StarCoder
 * 【2023-05-19】[robdelacruz / lkwebserver](https://github.com/robdelacruz/lkwebserver) - Little Kitten Webserver
@@ -334,6 +349,7 @@
 
 ## C#
 
+* 【2023-05-21】[Stealerium / Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
 * 【2023-05-20】[OfficeDev / microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) - Company Communicator app template
 * 【2023-05-20】[linq2db / linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
 * 【2023-05-19】[vdohney / keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper) - 
@@ -361,6 +377,9 @@
 
 ## Html
 
+* 【2023-05-21】[heejkoo / Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+* 【2023-05-21】[tc39 / proposal-promise-with-resolvers](https://github.com/tc39/proposal-promise-with-resolvers) - 
+* 【2023-05-21】[mumuy / datex](https://github.com/mumuy/datex) - 时间格式化工具 - 日期标准化/时间间隔计算/时间处理/时区切换_datetime format library
 * 【2023-05-20】[duiqt / herta_kuru](https://github.com/duiqt/herta_kuru) - The website for Herta, the cutest genius Honkai: Star Rail character out there.
 * 【2023-05-20】[chenshuo / coolshell](https://github.com/chenshuo/coolshell) - Static mirror of coolshell.cn, (c) haoel 2023.
 * 【2023-05-20】[rocketseat-education / nlw12-spacetime-explorer](https://github.com/rocketseat-education/nlw12-spacetime-explorer) - Aplicação de recordação de memórias desenvolvida no NLW 12
@@ -405,6 +424,9 @@
 
 ## Css
 
+* 【2023-05-21】[CodeWithHarry / chatgpt-clone-youtube](https://github.com/CodeWithHarry/chatgpt-clone-youtube) - CodeWithHarry YouTube video code for ChatGPT Clone
+* 【2023-05-21】[Coding-Club-IITG / Open-Source-Tasks-2023](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) - 
+* 【2023-05-21】[end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland) - unleashing the power of eww!
 * 【2023-05-20】[helenmironova / final-task](https://github.com/helenmironova/final-task) - Quantori JS School final task
 * 【2023-05-19】[tokhtaraubakirov / dramatic-webapp-strong](https://github.com/tokhtaraubakirov/dramatic-webapp-strong) - 
 * 【2023-05-19】[CommandCrafterHD / DiscordDarkNeon](https://github.com/CommandCrafterHD/DiscordDarkNeon) - DarkNeon is a blacked out discord theme with bright neon highlights. Made by Bates#7075
@@ -439,6 +461,9 @@
 
 ## Unknown
 
+* 【2023-05-21】[wervlad / wervlad](https://github.com/wervlad/wervlad) - 
+* 【2023-05-21】[sqfmi / beepberry-hardware](https://github.com/sqfmi/beepberry-hardware) - Beepberry Hardware
+* 【2023-05-21】[PlexPt / chatgpt-corpus](https://github.com/PlexPt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 * 【2023-05-20】[fgr178707 / aliyunpan-automation](https://github.com/fgr178707/aliyunpan-automation) - 阿里云盘自动签到脚本 每天凌晨1:30自动签到
 * 【2023-05-20】[avito-tech / playbook](https://github.com/avito-tech/playbook) - AvitoTech team playbook
 * 【2023-05-19】[jrin771 / Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics) - The world's largest GitHub Repository for LLMs + Robotics
