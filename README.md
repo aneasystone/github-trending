@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-22】[ricklamers / gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
+* 【2023-05-22】[XingangPan / DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
+* 【2023-05-22】[w-okada / voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 * 【2023-05-21】[mit-han-lab / fastcomposer](https://github.com/mit-han-lab/fastcomposer) - 
 * 【2023-05-21】[THUDM / VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 * 【2023-05-21】[tu-lang / tu](https://github.com/tu-lang/tu) - tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的语言(防秃)。已实现自举
@@ -87,6 +90,9 @@
 
 ## Java
 
+* 【2023-05-22】[angryip / ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
+* 【2023-05-22】[Cemiuiler-Development-Team / Cemiuiler](https://github.com/Cemiuiler-Development-Team/Cemiuiler) - Make MIUI Great Again!
+* 【2023-05-22】[storyofdavid / Android-D2HeroGuide](https://github.com/storyofdavid/Android-D2HeroGuide) - Dota 2 Hero Guide Open Source Application
 * 【2023-05-21】[nickm980 / smallville](https://github.com/nickm980/smallville) - Create Generative Agents for video games and simulations in a web browser. Attempt of recreating Generative Agents: Interactive Simulacra of Human Behavior
 * 【2023-05-21】[SAP / abap-cleaner](https://github.com/SAP/abap-cleaner) - ABAP cleaner applies 55+ cleanup rules to ABAP code at a single keystroke
 * 【2023-05-17】[tywo45 / t-io](https://github.com/tywo45/t-io) - 网络编程很苦，用t-io后会很甜
@@ -111,6 +117,11 @@
 
 ## Python
 
+* 【2023-05-22】[pieroit / cheshire-cat](https://github.com/pieroit/cheshire-cat) - Open source and customizable AI architecture
+* 【2023-05-22】[linyiLYi / snake-ai](https://github.com/linyiLYi/snake-ai) - An AI agent that beats the classic game "Snake".
+* 【2023-05-22】[Josh-XT / AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
+* 【2023-05-22】[yebekhe / NETBRIGHT](https://github.com/yebekhe/NETBRIGHT) - Fragment TLS "client Hello" packet into chunks in a simple manner
+* 【2023-05-22】[grimlockx / ADCSKiller](https://github.com/grimlockx/ADCSKiller) - An ADCS Exploitation Automation Tool Weaponizing Certipy and Coercer
 * 【2023-05-21】[iryna-kondr / scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 * 【2023-05-21】[blackboxo / CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 * 【2023-05-21】[Syan-Lin / CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) - LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
@@ -185,6 +196,7 @@
 
 ## Javascript
 
+* 【2023-05-22】[judygab / course-app](https://github.com/judygab/course-app) - 
 * 【2023-05-21】[protonemedia / eddy-server-management](https://github.com/protonemedia/eddy-server-management) - Open-Source Solution for Server Provisioning and Zero-Downtime PHP Deployment
 * 【2023-05-21】[choogoo / chatflow](https://github.com/choogoo/chatflow) - 一个使用wechaty构建的机器人业务管理平台
 * 【2023-05-20】[wenda-LLM / wenda](https://github.com/wenda-LLM/wenda) - 闻达：一个LLM调用平台。为小模型外挂知识库查找和设计自动执行动作，实现不亚于于大模型的生成能力
@@ -243,6 +255,8 @@
 
 ## Go
 
+* 【2023-05-22】[zeabur / zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
+* 【2023-05-22】[kubernetes / release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components
 * 【2023-05-21】[kubeovn / kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
 * 【2023-05-21】[paypal / junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 * 【2023-05-21】[kardianos / service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
@@ -282,6 +296,9 @@
 
 ## C
 
+* 【2023-05-22】[tsoding / nn.h](https://github.com/tsoding/nn.h) - Simple stb-style header-only library for Neural Networks
+* 【2023-05-22】[Xfennec / progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+* 【2023-05-22】[JMBQ / Honkai-Impact-3-mod](https://github.com/JMBQ/Honkai-Impact-3-mod) - 适用于 崩坏3 的悬浮菜单项目 a menu mod of honkai impact 3rd
 * 【2023-05-21】[ClemensElflein / OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 * 【2023-05-19】[Liuk3r / CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233) - CVE-2023-32233: Linux内核中的安全漏洞
 * 【2023-05-19】[bigcode-project / starcoder.cpp](https://github.com/bigcode-project/starcoder.cpp) - C++ implementation for💫StarCoder
@@ -318,6 +335,7 @@
 
 ## C++
 
+* 【2023-05-22】[xiaoyifang / goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 * 【2023-05-20】[NVIDIA-AI-IOT / Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 * 【2023-05-19】[ByteWelder / Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
 * 【2023-05-19】[UniversalToolCompiler / UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader) - Dynamic liquid shader for UE5.2 using Substrate material.
@@ -349,6 +367,8 @@
 
 ## C#
 
+* 【2023-05-22】[KARPED1EM / TownOfHostEdited](https://github.com/KARPED1EM/TownOfHostEdited) - A TOH branch mod
+* 【2023-05-22】[2394425147 / maipaddx](https://github.com/2394425147/maipaddx) - 
 * 【2023-05-21】[Stealerium / Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
 * 【2023-05-20】[OfficeDev / microsoft-teams-apps-company-communicator](https://github.com/OfficeDev/microsoft-teams-apps-company-communicator) - Company Communicator app template
 * 【2023-05-20】[linq2db / linq2db](https://github.com/linq2db/linq2db) - Linq to database provider.
@@ -377,6 +397,9 @@
 
 ## Html
 
+* 【2023-05-22】[NageshMandal / Engineering-Notes-Website](https://github.com/NageshMandal/Engineering-Notes-Website) - Chaibasa Engineering College -Notes Website
+* 【2023-05-22】[DSC-JSS-NOIDA / QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn) - A collection of resources categorised by tech domains, languages, expertise and much more. QuickLearn gives you a quick access to all the resources that you could need at a single place, within a click!
+* 【2023-05-22】[GoFarsi / book](https://github.com/GoFarsi/book) - کتاب آزاد (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
 * 【2023-05-21】[heejkoo / Awesome-Score-based-Diffusion-Models](https://github.com/heejkoo/Awesome-Score-based-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 * 【2023-05-21】[tc39 / proposal-promise-with-resolvers](https://github.com/tc39/proposal-promise-with-resolvers) - 
 * 【2023-05-21】[mumuy / datex](https://github.com/mumuy/datex) - 时间格式化工具 - 日期标准化/时间间隔计算/时间处理/时区切换_datetime format library
@@ -424,6 +447,8 @@
 
 ## Css
 
+* 【2023-05-22】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR🎮
+* 【2023-05-22】[DSC-JSS-NOIDA / blogzen](https://github.com/DSC-JSS-NOIDA/blogzen) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
 * 【2023-05-21】[CodeWithHarry / chatgpt-clone-youtube](https://github.com/CodeWithHarry/chatgpt-clone-youtube) - CodeWithHarry YouTube video code for ChatGPT Clone
 * 【2023-05-21】[Coding-Club-IITG / Open-Source-Tasks-2023](https://github.com/Coding-Club-IITG/Open-Source-Tasks-2023) - 
 * 【2023-05-21】[end-4 / dots-hyprland](https://github.com/end-4/dots-hyprland) - unleashing the power of eww!
@@ -461,6 +486,10 @@
 
 ## Unknown
 
+* 【2023-05-22】[FUE5BASE / FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
+* 【2023-05-22】[alikarakoc / YazilimMulakatSorulari](https://github.com/alikarakoc/YazilimMulakatSorulari) - Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.
+* 【2023-05-22】[akshitagupta15june / Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
+* 【2023-05-22】[tanc7 / hacking-books](https://github.com/tanc7/hacking-books) - 
 * 【2023-05-21】[wervlad / wervlad](https://github.com/wervlad/wervlad) - 
 * 【2023-05-21】[sqfmi / beepberry-hardware](https://github.com/sqfmi/beepberry-hardware) - Beepberry Hardware
 * 【2023-05-21】[PlexPt / chatgpt-corpus](https://github.com/PlexPt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
