@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-23】[Blazity / next-enterprise](https://github.com/Blazity/next-enterprise) - 💼An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+* 【2023-05-23】[NotJoeMartinez / yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line
+* 【2023-05-23】[0nutation / SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
 * 【2023-05-22】[ricklamers / gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 * 【2023-05-22】[XingangPan / DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 * 【2023-05-22】[w-okada / voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
@@ -90,6 +93,9 @@
 
 ## Java
 
+* 【2023-05-23】[timing1337 / Mineplex](https://github.com/timing1337/Mineplex) - Mineplex source code
+* 【2023-05-23】[zalando / logbook](https://github.com/zalando/logbook) - An extensible Java library for HTTP request and response logging
+* 【2023-05-23】[Team-xManager / xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 * 【2023-05-22】[angryip / ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 * 【2023-05-22】[Cemiuiler-Development-Team / Cemiuiler](https://github.com/Cemiuiler-Development-Team/Cemiuiler) - Make MIUI Great Again!
 * 【2023-05-22】[storyofdavid / Android-D2HeroGuide](https://github.com/storyofdavid/Android-D2HeroGuide) - Dota 2 Hero Guide Open Source Application
@@ -117,6 +123,8 @@
 
 ## Python
 
+* 【2023-05-23】[zaivanza / all-in-one-v2](https://github.com/zaivanza/all-in-one-v2) - 
+* 【2023-05-23】[JiauZhang / DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 * 【2023-05-22】[pieroit / cheshire-cat](https://github.com/pieroit/cheshire-cat) - Open source and customizable AI architecture
 * 【2023-05-22】[linyiLYi / snake-ai](https://github.com/linyiLYi/snake-ai) - An AI agent that beats the classic game "Snake".
 * 【2023-05-22】[Josh-XT / AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
@@ -196,6 +204,10 @@
 
 ## Javascript
 
+* 【2023-05-23】[priyankarpal / ProjectsHut](https://github.com/priyankarpal/ProjectsHut) - It's designed to provide a space for individuals to showcase their work and connect with a global audience🌎🌈
+* 【2023-05-23】[beattaher / React-GPT-Convenient-website](https://github.com/beattaher/React-GPT-Convenient-website) - The website provides notes collation, legal advice and other services based on OpenAI API
+* 【2023-05-23】[AlloryDante / Matrix-Rewards-Bot](https://github.com/AlloryDante/Matrix-Rewards-Bot) - Microsoft Rewards Bot is a nodejs automation framework that will allow users to farm Microsoft Rewards Points.This is an educational porpose-only project.
+* 【2023-05-23】[openai-translator / bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 * 【2023-05-22】[judygab / course-app](https://github.com/judygab/course-app) - 
 * 【2023-05-21】[protonemedia / eddy-server-management](https://github.com/protonemedia/eddy-server-management) - Open-Source Solution for Server Provisioning and Zero-Downtime PHP Deployment
 * 【2023-05-21】[choogoo / chatflow](https://github.com/choogoo/chatflow) - 一个使用wechaty构建的机器人业务管理平台
@@ -255,6 +267,10 @@
 
 ## Go
 
+* 【2023-05-23】[benbjohnson / wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
+* 【2023-05-23】[leomos / dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver
+* 【2023-05-23】[go-task / task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+* 【2023-05-23】[yoidea / akamai-t-shirt](https://github.com/yoidea/akamai-t-shirt) - PEACE FOR ALL グラフィックTシャツ（半袖・レギュラーフィット）アカマイ
 * 【2023-05-22】[zeabur / zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
 * 【2023-05-22】[kubernetes / release](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components
 * 【2023-05-21】[kubeovn / kube-ovn](https://github.com/kubeovn/kube-ovn) - A Bridge between SDN and Cloud Native (Project under CNCF)
@@ -296,6 +312,7 @@
 
 ## C
 
+* 【2023-05-23】[rehius / usk](https://github.com/rehius/usk) - 
 * 【2023-05-22】[tsoding / nn.h](https://github.com/tsoding/nn.h) - Simple stb-style header-only library for Neural Networks
 * 【2023-05-22】[Xfennec / progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 * 【2023-05-22】[JMBQ / Honkai-Impact-3-mod](https://github.com/JMBQ/Honkai-Impact-3-mod) - 适用于 崩坏3 的悬浮菜单项目 a menu mod of honkai impact 3rd
@@ -335,6 +352,8 @@
 
 ## C++
 
+* 【2023-05-23】[Kumar-laxmi / Algorithms](https://github.com/Kumar-laxmi/Algorithms) - A Repository for algorithms in C, C++, Python and Java
+* 【2023-05-23】[deepskydetail / AstroSharp](https://github.com/deepskydetail/AstroSharp) - Astrosharp Astronomical Sharpening Tool
 * 【2023-05-22】[xiaoyifang / goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 * 【2023-05-20】[NVIDIA-AI-IOT / Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) - A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 * 【2023-05-19】[ByteWelder / Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC
@@ -367,6 +386,9 @@
 
 ## C#
 
+* 【2023-05-23】[mpvnet-player / mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞mpv.net is a modern media player for Windows that works just like mpv.
+* 【2023-05-23】[builtbybel / JunkCtrl](https://github.com/builtbybel/JunkCtrl) - Declutter Windows 11
+* 【2023-05-23】[dotnet / roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
 * 【2023-05-22】[KARPED1EM / TownOfHostEdited](https://github.com/KARPED1EM/TownOfHostEdited) - A TOH branch mod
 * 【2023-05-22】[2394425147 / maipaddx](https://github.com/2394425147/maipaddx) - 
 * 【2023-05-21】[Stealerium / Stealerium](https://github.com/Stealerium/Stealerium) - Stealer + Clipper + Keylogger
@@ -397,6 +419,13 @@
 
 ## Html
 
+* 【2023-05-23】[akshitagupta15june / Moksh](https://github.com/akshitagupta15june/Moksh) - Unlock your potential and achieve true balance in life with Moksh
+* 【2023-05-23】[AbhiPatel10 / AISKCON-CONSTRUCTION](https://github.com/AbhiPatel10/AISKCON-CONSTRUCTION) - 
+* 【2023-05-23】[liangliangzhuang / R_example](https://github.com/liangliangzhuang/R_example) - 公众号[庄闪闪的成长手册]对应的R资料（代码+数据）
+* 【2023-05-23】[OSCode-Community / OSCodeCommunitySite](https://github.com/OSCode-Community/OSCodeCommunitySite) - 
+* 【2023-05-23】[TanishiNayak / MaaMatters](https://github.com/TanishiNayak/MaaMatters) - 
+* 【2023-05-23】[Anupkjha2601 / food-recipes-website](https://github.com/Anupkjha2601/food-recipes-website) - here i created a food store web app named food Recipe helps the customer to find good food in cheap rates and genuine foods
+* 【2023-05-23】[agamjotsingh18 / codesetgo](https://github.com/agamjotsingh18/codesetgo) - Open Source Website of CodeSetGo
 * 【2023-05-22】[NageshMandal / Engineering-Notes-Website](https://github.com/NageshMandal/Engineering-Notes-Website) - Chaibasa Engineering College -Notes Website
 * 【2023-05-22】[DSC-JSS-NOIDA / QuickLearn](https://github.com/DSC-JSS-NOIDA/QuickLearn) - A collection of resources categorised by tech domains, languages, expertise and much more. QuickLearn gives you a quick access to all the resources that you could need at a single place, within a click!
 * 【2023-05-22】[GoFarsi / book](https://github.com/GoFarsi/book) - کتاب آزاد (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
@@ -447,6 +476,10 @@
 
 ## Css
 
+* 【2023-05-23】[adrianhajdin / project_html_css_website](https://github.com/adrianhajdin/project_html_css_website) - 
+* 【2023-05-23】[ssitvit / Code-Canvas](https://github.com/ssitvit/Code-Canvas) - A hub for innovation through web development projects
+* 【2023-05-23】[rohansx / informatician](https://github.com/rohansx/informatician) - Unleash an open source book platform where literature meets community, and knowledge knows no bounds.
+* 【2023-05-23】[aniketsinha2002 / DataScienceWebsite.github.io](https://github.com/aniketsinha2002/DataScienceWebsite.github.io) - A static educational website (frontend) related to Data Science.
 * 【2023-05-22】[kunjgit / GameZone](https://github.com/kunjgit/GameZone) - This open source repository contains collection of games build on basic tech stacks in web development . Use your creativity and build your own game and contribute to the repository by making PR🎮
 * 【2023-05-22】[DSC-JSS-NOIDA / blogzen](https://github.com/DSC-JSS-NOIDA/blogzen) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
 * 【2023-05-21】[CodeWithHarry / chatgpt-clone-youtube](https://github.com/CodeWithHarry/chatgpt-clone-youtube) - CodeWithHarry YouTube video code for ChatGPT Clone
@@ -486,6 +519,8 @@
 
 ## Unknown
 
+* 【2023-05-23】[Innocentsax / ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE) - These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX
+* 【2023-05-23】[aaryahjolia / dsa_competitive-coding](https://github.com/aaryahjolia/dsa_competitive-coding) - A repository to learn deep competitive coding algorithms along with DSA.
 * 【2023-05-22】[FUE5BASE / FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
 * 【2023-05-22】[alikarakoc / YazilimMulakatSorulari](https://github.com/alikarakoc/YazilimMulakatSorulari) - Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.
 * 【2023-05-22】[akshitagupta15june / Face-X](https://github.com/akshitagupta15june/Face-X) - Demonstration of different algorithms and operations on faces. Star the repo⭐
