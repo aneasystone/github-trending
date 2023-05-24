@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-05-24】[SevaSk / ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
+* 【2023-05-24】[Zeqiang-Lai / DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial implementation of "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+* 【2023-05-24】[anse-app / anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 * 【2023-05-23】[Blazity / next-enterprise](https://github.com/Blazity/next-enterprise) - 💼An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 * 【2023-05-23】[NotJoeMartinez / yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line
 * 【2023-05-23】[0nutation / SpeechGPT](https://github.com/0nutation/SpeechGPT) - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
@@ -93,6 +96,8 @@
 
 ## Java
 
+* 【2023-05-24】[apache / seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+* 【2023-05-24】[Uzemiu / guyunwu](https://github.com/Uzemiu/guyunwu) - 古韵屋
 * 【2023-05-23】[timing1337 / Mineplex](https://github.com/timing1337/Mineplex) - Mineplex source code
 * 【2023-05-23】[zalando / logbook](https://github.com/zalando/logbook) - An extensible Java library for HTTP request and response logging
 * 【2023-05-23】[Team-xManager / xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -123,6 +128,10 @@
 
 ## Python
 
+* 【2023-05-24】[microsoft / muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
+* 【2023-05-24】[Textualize / trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
+* 【2023-05-24】[DivergentAI / dreamGPT](https://github.com/DivergentAI/dreamGPT) - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.
+* 【2023-05-24】[mbzuai-oryx / XrayGPT](https://github.com/mbzuai-oryx/XrayGPT) - XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.
 * 【2023-05-23】[zaivanza / all-in-one-v2](https://github.com/zaivanza/all-in-one-v2) - 
 * 【2023-05-23】[JiauZhang / DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 * 【2023-05-22】[pieroit / cheshire-cat](https://github.com/pieroit/cheshire-cat) - Open source and customizable AI architecture
@@ -204,6 +213,9 @@
 
 ## Javascript
 
+* 【2023-05-24】[MonalikaPatnaik / UMatter](https://github.com/MonalikaPatnaik/UMatter) - View the website here
+* 【2023-05-24】[amupedia2021 / Project-Amupedia](https://github.com/amupedia2021/Project-Amupedia) - Source code of the website.
+* 【2023-05-24】[Zuoqiu-Yingyi / siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款多功能双模式主题 | A multifunctional dual-mode theme of SiYuan Note.
 * 【2023-05-23】[priyankarpal / ProjectsHut](https://github.com/priyankarpal/ProjectsHut) - It's designed to provide a space for individuals to showcase their work and connect with a global audience🌎🌈
 * 【2023-05-23】[beattaher / React-GPT-Convenient-website](https://github.com/beattaher/React-GPT-Convenient-website) - The website provides notes collation, legal advice and other services based on OpenAI API
 * 【2023-05-23】[AlloryDante / Matrix-Rewards-Bot](https://github.com/AlloryDante/Matrix-Rewards-Bot) - Microsoft Rewards Bot is a nodejs automation framework that will allow users to farm Microsoft Rewards Points.This is an educational porpose-only project.
@@ -267,6 +279,7 @@
 
 ## Go
 
+* 【2023-05-24】[cuishuang / explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用
 * 【2023-05-23】[benbjohnson / wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 * 【2023-05-23】[leomos / dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver
 * 【2023-05-23】[go-task / task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
@@ -312,6 +325,9 @@
 
 ## C
 
+* 【2023-05-24】[jm33-m0 / SSH-Harvester](https://github.com/jm33-m0/SSH-Harvester) - Harvest passwords automatically from OpenSSH server
+* 【2023-05-24】[0xkol / badspin](https://github.com/0xkol/badspin) - Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)
+* 【2023-05-24】[lukneu / doom-teletext](https://github.com/lukneu/doom-teletext) - Play DOOM in teletext
 * 【2023-05-23】[rehius / usk](https://github.com/rehius/usk) - 
 * 【2023-05-22】[tsoding / nn.h](https://github.com/tsoding/nn.h) - Simple stb-style header-only library for Neural Networks
 * 【2023-05-22】[Xfennec / progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -352,6 +368,7 @@
 
 ## C++
 
+* 【2023-05-24】[TheMCHK / WindowsXPKg](https://github.com/TheMCHK/WindowsXPKg) - Windows XP keygen
 * 【2023-05-23】[Kumar-laxmi / Algorithms](https://github.com/Kumar-laxmi/Algorithms) - A Repository for algorithms in C, C++, Python and Java
 * 【2023-05-23】[deepskydetail / AstroSharp](https://github.com/deepskydetail/AstroSharp) - Astrosharp Astronomical Sharpening Tool
 * 【2023-05-22】[xiaoyifang / goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
@@ -419,6 +436,9 @@
 
 ## Html
 
+* 【2023-05-24】[jjwbruijn / OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
+* 【2023-05-24】[PricelessToolkit / ESPClicker](https://github.com/PricelessToolkit/ESPClicker) - 
+* 【2023-05-24】[callummcdougall / ARENA_2.0](https://github.com/callummcdougall/ARENA_2.0) - 
 * 【2023-05-23】[akshitagupta15june / Moksh](https://github.com/akshitagupta15june/Moksh) - Unlock your potential and achieve true balance in life with Moksh
 * 【2023-05-23】[AbhiPatel10 / AISKCON-CONSTRUCTION](https://github.com/AbhiPatel10/AISKCON-CONSTRUCTION) - 
 * 【2023-05-23】[liangliangzhuang / R_example](https://github.com/liangliangzhuang/R_example) - 公众号[庄闪闪的成长手册]对应的R资料（代码+数据）
@@ -476,6 +496,7 @@
 
 ## Css
 
+* 【2023-05-24】[prakhartiwari0 / Arito](https://github.com/prakhartiwari0/Arito) - Arito is an Active Open-Source WebApp for practicing mathematical skills.
 * 【2023-05-23】[adrianhajdin / project_html_css_website](https://github.com/adrianhajdin/project_html_css_website) - 
 * 【2023-05-23】[ssitvit / Code-Canvas](https://github.com/ssitvit/Code-Canvas) - A hub for innovation through web development projects
 * 【2023-05-23】[rohansx / informatician](https://github.com/rohansx/informatician) - Unleash an open source book platform where literature meets community, and knowledge knows no bounds.
@@ -519,6 +540,7 @@
 
 ## Unknown
 
+* 【2023-05-24】[themoonbaba / private_templates](https://github.com/themoonbaba/private_templates) - Private Nuclei Templates
 * 【2023-05-23】[Innocentsax / ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE) - These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX
 * 【2023-05-23】[aaryahjolia / dsa_competitive-coding](https://github.com/aaryahjolia/dsa_competitive-coding) - A repository to learn deep competitive coding algorithms along with DSA.
 * 【2023-05-22】[FUE5BASE / FUE5](https://github.com/FUE5BASE/FUE5) - FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.
