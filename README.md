@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-05-25】[kyegomez / tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
+* 【2023-05-25】[kamiyaa / joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+* 【2023-05-25】[Exafunction / codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
+* 【2023-05-25】[ysymyth / tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 * 【2023-05-24】[SevaSk / ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
 * 【2023-05-24】[Zeqiang-Lai / DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial implementation of "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
 * 【2023-05-24】[anse-app / anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
@@ -128,6 +132,10 @@
 
 ## Python
 
+* 【2023-05-25】[CHNZYX / CentOS-LLVM-Fork](https://github.com/CHNZYX/CentOS-LLVM-Fork) - 
+* 【2023-05-25】[sambanova / bloomchat](https://github.com/sambanova/bloomchat) - This repo contains the data preparation, tokenization, training and inference code for BLOOMChat. BLOOMChat is a 176 billion parameter multilingual chat model based on BLOOM.
+* 【2023-05-25】[microsoft / i-Code](https://github.com/microsoft/i-Code) - 
+* 【2023-05-25】[okxapi / python-okx](https://github.com/okxapi/python-okx) - 
 * 【2023-05-24】[microsoft / muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 * 【2023-05-24】[Textualize / trogon](https://github.com/Textualize/trogon) - Easily turn your Click CLI into a powerful terminal application
 * 【2023-05-24】[DivergentAI / dreamGPT](https://github.com/DivergentAI/dreamGPT) - Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.
@@ -213,6 +221,7 @@
 
 ## Javascript
 
+* 【2023-05-25】[vanjs-org / van](https://github.com/vanjs-org/van) - 🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework
 * 【2023-05-24】[MonalikaPatnaik / UMatter](https://github.com/MonalikaPatnaik/UMatter) - View the website here
 * 【2023-05-24】[amupedia2021 / Project-Amupedia](https://github.com/amupedia2021/Project-Amupedia) - Source code of the website.
 * 【2023-05-24】[Zuoqiu-Yingyi / siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus) - 思源笔记的一款多功能双模式主题 | A multifunctional dual-mode theme of SiYuan Note.
@@ -279,6 +288,10 @@
 
 ## Go
 
+* 【2023-05-25】[sjlleo / nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
+* 【2023-05-25】[go-logr / logr](https://github.com/go-logr/logr) - A simple logging interface for Go
+* 【2023-05-25】[google / go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
+* 【2023-05-25】[babyname / fate](https://github.com/babyname/fate) - Fate is a modern science chinese name create tool.
 * 【2023-05-24】[cuishuang / explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用
 * 【2023-05-23】[benbjohnson / wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 * 【2023-05-23】[leomos / dwgd](https://github.com/leomos/dwgd) - Docker WireGuard Driver
@@ -325,6 +338,10 @@
 
 ## C
 
+* 【2023-05-25】[ThusSpokeNomad / GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
+* 【2023-05-25】[libarchive / libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
+* 【2023-05-25】[Heersin / netwhale](https://github.com/Heersin/netwhale) - Listen to network
+* 【2023-05-25】[apache / guacamole-server](https://github.com/apache/guacamole-server) - Mirror of Apache Guacamole Server
 * 【2023-05-24】[jm33-m0 / SSH-Harvester](https://github.com/jm33-m0/SSH-Harvester) - Harvest passwords automatically from OpenSSH server
 * 【2023-05-24】[0xkol / badspin](https://github.com/0xkol/badspin) - Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)
 * 【2023-05-24】[lukneu / doom-teletext](https://github.com/lukneu/doom-teletext) - Play DOOM in teletext
@@ -368,6 +385,8 @@
 
 ## C++
 
+* 【2023-05-25】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse
+* 【2023-05-25】[PlummersSoftwareLLC / NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
 * 【2023-05-24】[TheMCHK / WindowsXPKg](https://github.com/TheMCHK/WindowsXPKg) - Windows XP keygen
 * 【2023-05-23】[Kumar-laxmi / Algorithms](https://github.com/Kumar-laxmi/Algorithms) - A Repository for algorithms in C, C++, Python and Java
 * 【2023-05-23】[deepskydetail / AstroSharp](https://github.com/deepskydetail/AstroSharp) - Astrosharp Astronomical Sharpening Tool
@@ -403,6 +422,10 @@
 
 ## C#
 
+* 【2023-05-25】[Scighost / Starward](https://github.com/Scighost/Starward) - 米家游戏启动器 - Game Launcher for miHoYo
+* 【2023-05-25】[altmann / FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
+* 【2023-05-25】[microsoft / hack-together-teams](https://github.com/microsoft/hack-together-teams) - HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win👇
+* 【2023-05-25】[tmenier / Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
 * 【2023-05-23】[mpvnet-player / mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞mpv.net is a modern media player for Windows that works just like mpv.
 * 【2023-05-23】[builtbybel / JunkCtrl](https://github.com/builtbybel/JunkCtrl) - Declutter Windows 11
 * 【2023-05-23】[dotnet / roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - 
@@ -436,6 +459,7 @@
 
 ## Html
 
+* 【2023-05-25】[hakanyalcinkaya / Sifirdan-Projelerle-Front-End-ve-React-Egitimi](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Front-End-ve-React-Egitimi) - Udemy: Sıfırdan Projelerle Front-End ve React Eğitimi
 * 【2023-05-24】[jjwbruijn / OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 * 【2023-05-24】[PricelessToolkit / ESPClicker](https://github.com/PricelessToolkit/ESPClicker) - 
 * 【2023-05-24】[callummcdougall / ARENA_2.0](https://github.com/callummcdougall/ARENA_2.0) - 
@@ -496,6 +520,9 @@
 
 ## Css
 
+* 【2023-05-25】[chromehackteam / whitespider](https://github.com/chromehackteam/whitespider) - 300+ HTML5, DOS, Flash games unblocked
+* 【2023-05-25】[tobychui / zoraxy](https://github.com/tobychui/zoraxy) - General purpose request (reverse) proxy and forwarding tool for low power devices. Now written in Go!
+* 【2023-05-25】[Csslandia / Csslandia](https://github.com/Csslandia/Csslandia) - Csslandia is a free and open source CSS framework carefully crafted with attention to every detail.
 * 【2023-05-24】[prakhartiwari0 / Arito](https://github.com/prakhartiwari0/Arito) - Arito is an Active Open-Source WebApp for practicing mathematical skills.
 * 【2023-05-23】[adrianhajdin / project_html_css_website](https://github.com/adrianhajdin/project_html_css_website) - 
 * 【2023-05-23】[ssitvit / Code-Canvas](https://github.com/ssitvit/Code-Canvas) - A hub for innovation through web development projects
@@ -540,6 +567,14 @@
 
 ## Unknown
 
+* 【2023-05-25】[lkimuk / the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp) - The Book of Modern C++
+* 【2023-05-25】[OffcierCia / ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
+* 【2023-05-25】[unicodeveloper / awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - 📔📚A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
+* 【2023-05-25】[itsthomthomob / Spring-2024-New-Grads](https://github.com/itsthomthomob/Spring-2024-New-Grads) - A repository of Spring 2024 software engineering new graduate positoins
+* 【2023-05-25】[jqin4749 / MindVideo](https://github.com/jqin4749/MindVideo) - Code Base for MinD-Video
+* 【2023-05-25】[twostraws / wwdc](https://github.com/twostraws/wwdc) - WWDC Community: Learning and sharing together
+* 【2023-05-25】[pengxiao-song / awesome-chinese-legal-resources](https://github.com/pengxiao-song/awesome-chinese-legal-resources) - 📝An Awesome Collection of Chinese Legal Dataset and Relevant Resources. 致力于收集全面的中文法律数据源
+* 【2023-05-25】[acc8226 / acc8226-tech-blog](https://github.com/acc8226/acc8226-tech-blog) - My technology blog src.
 * 【2023-05-24】[themoonbaba / private_templates](https://github.com/themoonbaba/private_templates) - Private Nuclei Templates
 * 【2023-05-23】[Innocentsax / ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE](https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE) - These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX
 * 【2023-05-23】[aaryahjolia / dsa_competitive-coding](https://github.com/aaryahjolia/dsa_competitive-coding) - A repository to learn deep competitive coding algorithms along with DSA.
