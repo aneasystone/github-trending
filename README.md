@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-05-26】[kanboard / kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
+* 【2023-05-26】[microsoft / devhome](https://github.com/microsoft/devhome) - Windows Dev Home Application
+* 【2023-05-26】[dalathegreat / BYD-Battery-Emulator-For-Gen24](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24) - This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery
+* 【2023-05-26】[kreneskyp / ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
+* 【2023-05-26】[OpenGVLab / InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)
+* 【2023-05-26】[Casualtek / Ransomchats](https://github.com/Casualtek/Ransomchats) - 
 * 【2023-05-25】[kyegomez / tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
 * 【2023-05-25】[kamiyaa / joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 * 【2023-05-25】[Exafunction / codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -100,6 +106,7 @@
 
 ## Java
 
+* 【2023-05-26】[SimonHalvdansson / Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - An Android client for Hacker News
 * 【2023-05-24】[apache / seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 * 【2023-05-24】[Uzemiu / guyunwu](https://github.com/Uzemiu/guyunwu) - 古韵屋
 * 【2023-05-23】[timing1337 / Mineplex](https://github.com/timing1337/Mineplex) - Mineplex source code
@@ -132,6 +139,10 @@
 
 ## Python
 
+* 【2023-05-26】[OFA-Sys / ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
+* 【2023-05-26】[microsoft / PodcastCopilot](https://github.com/microsoft/PodcastCopilot) - Build 2023 demo
+* 【2023-05-26】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Build and run useful autonomous agents
+* 【2023-05-26】[LmeSzinc / StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - Star Rail auto script, bot | 星铁副驾驶，崩坏：星穹铁道脚本，基于下一代Alas框架
 * 【2023-05-25】[CHNZYX / CentOS-LLVM-Fork](https://github.com/CHNZYX/CentOS-LLVM-Fork) - 
 * 【2023-05-25】[sambanova / bloomchat](https://github.com/sambanova/bloomchat) - This repo contains the data preparation, tokenization, training and inference code for BLOOMChat. BLOOMChat is a 176 billion parameter multilingual chat model based on BLOOM.
 * 【2023-05-25】[microsoft / i-Code](https://github.com/microsoft/i-Code) - 
@@ -221,6 +232,9 @@
 
 ## Javascript
 
+* 【2023-05-26】[apitube / integrations](https://github.com/apitube/integrations) - Integrations for APITUBE API
+* 【2023-05-26】[WordPress / wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
+* 【2023-05-26】[tl-open-source / tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，中继服务设置，webrtc检测，文字传输，公共聊天，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
 * 【2023-05-25】[vanjs-org / van](https://github.com/vanjs-org/van) - 🍦VanJS (Vanilla JavaScript): World's smallest reactive UI framework
 * 【2023-05-24】[MonalikaPatnaik / UMatter](https://github.com/MonalikaPatnaik/UMatter) - View the website here
 * 【2023-05-24】[amupedia2021 / Project-Amupedia](https://github.com/amupedia2021/Project-Amupedia) - Source code of the website.
@@ -288,6 +302,7 @@
 
 ## Go
 
+* 【2023-05-26】[Workiva / go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 * 【2023-05-25】[sjlleo / nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
 * 【2023-05-25】[go-logr / logr](https://github.com/go-logr/logr) - A simple logging interface for Go
 * 【2023-05-25】[google / go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -338,6 +353,7 @@
 
 ## C
 
+* 【2023-05-26】[Lordwill1 / simple_shell](https://github.com/Lordwill1/simple_shell) - 0x16. C - Simple Shell
 * 【2023-05-25】[ThusSpokeNomad / GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 * 【2023-05-25】[libarchive / libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
 * 【2023-05-25】[Heersin / netwhale](https://github.com/Heersin/netwhale) - Listen to network
@@ -385,6 +401,7 @@
 
 ## C++
 
+* 【2023-05-26】[NootInc / NootedRed](https://github.com/NootInc/NootedRed) - Lilu plugin for AMD Vega iGPUs
 * 【2023-05-25】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse
 * 【2023-05-25】[PlummersSoftwareLLC / NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
 * 【2023-05-24】[TheMCHK / WindowsXPKg](https://github.com/TheMCHK/WindowsXPKg) - Windows XP keygen
@@ -422,6 +439,10 @@
 
 ## C#
 
+* 【2023-05-26】[NightmareXIV / UnbanPluginsCN](https://github.com/NightmareXIV/UnbanPluginsCN) - 
+* 【2023-05-26】[Kneesnap / onstream-data-recovery](https://github.com/Kneesnap/onstream-data-recovery) - A repository detailing data recovery of OnStream tapes.
+* 【2023-05-26】[dr4k0nia / NixImports](https://github.com/dr4k0nia/NixImports) - A .NET malware loader, using API-Hashing to evade static analysis
+* 【2023-05-26】[Azure-Samples / azure-search-openai-demo-csharp](https://github.com/Azure-Samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
 * 【2023-05-25】[Scighost / Starward](https://github.com/Scighost/Starward) - 米家游戏启动器 - Game Launcher for miHoYo
 * 【2023-05-25】[altmann / FluentResults](https://github.com/altmann/FluentResults) - A generalised Result object implementation for .NET/C#
 * 【2023-05-25】[microsoft / hack-together-teams](https://github.com/microsoft/hack-together-teams) - HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win👇
@@ -459,6 +480,8 @@
 
 ## Html
 
+* 【2023-05-26】[18alantom / strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
+* 【2023-05-26】[OWASP / www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Foundation Web Respository
 * 【2023-05-25】[hakanyalcinkaya / Sifirdan-Projelerle-Front-End-ve-React-Egitimi](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Front-End-ve-React-Egitimi) - Udemy: Sıfırdan Projelerle Front-End ve React Eğitimi
 * 【2023-05-24】[jjwbruijn / OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) - 
 * 【2023-05-24】[PricelessToolkit / ESPClicker](https://github.com/PricelessToolkit/ESPClicker) - 
@@ -520,6 +543,11 @@
 
 ## Css
 
+* 【2023-05-26】[adobe-fonts / source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
+* 【2023-05-26】[boyter / go-http-template](https://github.com/boyter/go-http-template) - 
+* 【2023-05-26】[transmission-web-control / transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control
+* 【2023-05-26】[techaddict0x / presalewebsite](https://github.com/techaddict0x/presalewebsite) - presale & airdrop website bsc
+* 【2023-05-26】[ConsenSys / doc.zk-evm](https://github.com/ConsenSys/doc.zk-evm) - zk-EVM documentation
 * 【2023-05-25】[chromehackteam / whitespider](https://github.com/chromehackteam/whitespider) - 300+ HTML5, DOS, Flash games unblocked
 * 【2023-05-25】[tobychui / zoraxy](https://github.com/tobychui/zoraxy) - General purpose request (reverse) proxy and forwarding tool for low power devices. Now written in Go!
 * 【2023-05-25】[Csslandia / Csslandia](https://github.com/Csslandia/Csslandia) - Csslandia is a free and open source CSS framework carefully crafted with attention to every detail.
@@ -567,6 +595,8 @@
 
 ## Unknown
 
+* 【2023-05-26】[YBYBZhang / ControlVideo](https://github.com/YBYBZhang/ControlVideo) - Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation"
+* 【2023-05-26】[kunal-kushwaha / DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 * 【2023-05-25】[lkimuk / the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp) - The Book of Modern C++
 * 【2023-05-25】[OffcierCia / ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 * 【2023-05-25】[unicodeveloper / awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - 📔📚A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
