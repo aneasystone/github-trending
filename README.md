@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-05-27】[artidoro / qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+* 【2023-05-27】[btw-so / open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
+* 【2023-05-27】[microsoft / win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - 
+* 【2023-05-27】[strapi / nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
+* 【2023-05-27】[drboog / ProFusion](https://github.com/drboog/ProFusion) - Code for Enhancing Detail Preservation for Customized Text-to-Image Generation: A Regularization-Free Approach
+* 【2023-05-27】[Cyber-Security-Hub / cyber-security-hub.github.io](https://github.com/Cyber-Security-Hub/cyber-security-hub.github.io) - Cyber Security Trainings
+* 【2023-05-27】[Azure / cognitive-search-vector-pr](https://github.com/Azure/cognitive-search-vector-pr) - The official documentation and code samples for the Vector search feature (preview) in Azure Cognitive Search.
 * 【2023-05-26】[kanboard / kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 * 【2023-05-26】[microsoft / devhome](https://github.com/microsoft/devhome) - Windows Dev Home Application
 * 【2023-05-26】[dalathegreat / BYD-Battery-Emulator-For-Gen24](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24) - This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery
@@ -106,6 +113,8 @@
 
 ## Java
 
+* 【2023-05-27】[bezkoder / spring-boot-spring-security-jwt-authentication](https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication) - Spring Boot + Security: Token Based Authentication example with JWT, Authorization, Spring Data & MySQL
+* 【2023-05-27】[512team / dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用、以应用为中心的云原生DevOps系统，具有持续集成、持续部署、微服务治理等功能，主要特点：部署简单、操作简洁、功能快速。
 * 【2023-05-26】[SimonHalvdansson / Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - An Android client for Hacker News
 * 【2023-05-24】[apache / seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
 * 【2023-05-24】[Uzemiu / guyunwu](https://github.com/Uzemiu/guyunwu) - 古韵屋
@@ -139,6 +148,9 @@
 
 ## Python
 
+* 【2023-05-27】[tatsu-lab / alpaca_farm](https://github.com/tatsu-lab/alpaca_farm) - A Simulation Framework for RLHF and alternatives.
+* 【2023-05-27】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
+* 【2023-05-27】[secretflow / secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
 * 【2023-05-26】[OFA-Sys / ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE) - A general representation modal across vision, audio, language modalities.
 * 【2023-05-26】[microsoft / PodcastCopilot](https://github.com/microsoft/PodcastCopilot) - Build 2023 demo
 * 【2023-05-26】[TransformerOptimus / SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Build and run useful autonomous agents
@@ -232,6 +244,10 @@
 
 ## Javascript
 
+* 【2023-05-27】[amelia-coding / coding](https://github.com/amelia-coding/coding) - 📒【前端】算法Leetcode 常见算法 CSS HTML JavaScript 框架的一些代码实现✏️，欢迎点赞和学习🌆~·
+* 【2023-05-27】[Rocketseat / frontend-challenge](https://github.com/Rocketseat/frontend-challenge) - 
+* 【2023-05-27】[ml5js / ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!🤖
+* 【2023-05-27】[microsoft / fluentui-blazor](https://github.com/microsoft/fluentui-blazor) - Microsoft Fluent UI Blazor components library. For use with .NET 6.0 or higher Blazor applications
 * 【2023-05-26】[apitube / integrations](https://github.com/apitube/integrations) - Integrations for APITUBE API
 * 【2023-05-26】[WordPress / wordpress-playground](https://github.com/WordPress/wordpress-playground) - Run WordPress in the browser via WebAssembly PHP
 * 【2023-05-26】[tl-open-source / tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，中继服务设置，webrtc检测，文字传输，公共聊天，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
@@ -353,6 +369,7 @@
 
 ## C
 
+* 【2023-05-27】[polpo / picogus](https://github.com/polpo/picogus) - Emulation of ISA sound cards on Raspberry Pi Pico (GUS, Adlib, MPU-401, Tandy, CMS)
 * 【2023-05-26】[Lordwill1 / simple_shell](https://github.com/Lordwill1/simple_shell) - 0x16. C - Simple Shell
 * 【2023-05-25】[ThusSpokeNomad / GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
 * 【2023-05-25】[libarchive / libarchive](https://github.com/libarchive/libarchive) - Multi-format archive and compression library
@@ -401,6 +418,8 @@
 
 ## C++
 
+* 【2023-05-27】[apache / incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+* 【2023-05-27】[34736384 / genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 * 【2023-05-26】[NootInc / NootedRed](https://github.com/NootInc/NootedRed) - Lilu plugin for AMD Vega iGPUs
 * 【2023-05-25】[ByConity / ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud-native data warehouse
 * 【2023-05-25】[PlummersSoftwareLLC / NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) - NightDriver client for ESP32
@@ -439,6 +458,10 @@
 
 ## C#
 
+* 【2023-05-27】[PunishXIV / Splatoon](https://github.com/PunishXIV/Splatoon) - Redefining FFXIV navigation with unlimited, precise waymarks.
+* 【2023-05-27】[siriusdeveloper / sirius-crypter](https://github.com/siriusdeveloper/sirius-crypter) - Telegram: @siriusdeveloper
+* 【2023-05-27】[bradygaster / dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023) - 
+* 【2023-05-27】[mongodb / mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - The Official C# .NET Driver for MongoDB
 * 【2023-05-26】[NightmareXIV / UnbanPluginsCN](https://github.com/NightmareXIV/UnbanPluginsCN) - 
 * 【2023-05-26】[Kneesnap / onstream-data-recovery](https://github.com/Kneesnap/onstream-data-recovery) - A repository detailing data recovery of OnStream tapes.
 * 【2023-05-26】[dr4k0nia / NixImports](https://github.com/dr4k0nia/NixImports) - A .NET malware loader, using API-Hashing to evade static analysis
@@ -480,6 +503,8 @@
 
 ## Html
 
+* 【2023-05-27】[threatlabz / ransomware_notes](https://github.com/threatlabz/ransomware_notes) - An archive of ransomware notes past and present
+* 【2023-05-27】[7hugs / Kahoot-Hack](https://github.com/7hugs/Kahoot-Hack) - The one and only working Kahoot answer hack
 * 【2023-05-26】[18alantom / strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
 * 【2023-05-26】[OWASP / www-project-top-10-for-large-language-model-applications](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications) - OWASP Foundation Web Respository
 * 【2023-05-25】[hakanyalcinkaya / Sifirdan-Projelerle-Front-End-ve-React-Egitimi](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Front-End-ve-React-Egitimi) - Udemy: Sıfırdan Projelerle Front-End ve React Eğitimi
@@ -543,6 +568,10 @@
 
 ## Css
 
+* 【2023-05-27】[Bookingjini-Labs / bookingjini-icons](https://github.com/Bookingjini-Labs/bookingjini-icons) - Find hospitality related icons, curated by creators from Bookingjini
+* 【2023-05-27】[m2kar / m2kar.github.io](https://github.com/m2kar/m2kar.github.io) - M2kar的个人主页
+* 【2023-05-27】[Czechitas-podklady-WEB / projekt-nakupy-post](https://github.com/Czechitas-podklady-WEB/projekt-nakupy-post) - Třetí část tréninkové aplikace Nákupy: přidání položky pomocí POST
+* 【2023-05-27】[liuminzhao / liuminzhao.github.com](https://github.com/liuminzhao/liuminzhao.github.com) - 
 * 【2023-05-26】[adobe-fonts / source-sans](https://github.com/adobe-fonts/source-sans) - Sans serif font family for user interface environments
 * 【2023-05-26】[boyter / go-http-template](https://github.com/boyter/go-http-template) - 
 * 【2023-05-26】[transmission-web-control / transmission-web-control](https://github.com/transmission-web-control/transmission-web-control) - maintained fork of ronggang/transmission-web-control
@@ -595,6 +624,10 @@
 
 ## Unknown
 
+* 【2023-05-27】[zakirullin / cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠Cognitive Load Developer's Handbook
+* 【2023-05-27】[Illumine-Labs / Mr.Trans](https://github.com/Illumine-Labs/Mr.Trans) - ChatGPT 翻译助手 Prompt
+* 【2023-05-27】[XTsat / rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
+* 【2023-05-27】[chaitin / xpoc](https://github.com/chaitin/xpoc) - 为供应链漏洞扫描设计的快速应急响应工具 [快速应急] [漏洞扫描] [端口扫描] [xray2.0进行时] A fast emergency response tool designed for supply chain vulnerability scanning.
 * 【2023-05-26】[YBYBZhang / ControlVideo](https://github.com/YBYBZhang/ControlVideo) - Official pytorch implementation of "ControlVideo: Training-free Controllable Text-to-Video Generation"
 * 【2023-05-26】[kunal-kushwaha / DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.
 * 【2023-05-25】[lkimuk / the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp) - The Book of Modern C++
