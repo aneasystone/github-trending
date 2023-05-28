@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-05-28】[gptlink / gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
+* 【2023-05-28】[ThePrimeagen / ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) - 
+* 【2023-05-28】[microsoft / devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices
+* 【2023-05-28】[xorvoid / sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
+* 【2023-05-28】[AggressiveUser / AllForOne](https://github.com/AggressiveUser/AllForOne) - 
+* 【2023-05-28】[GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud
 * 【2023-05-27】[artidoro / qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
 * 【2023-05-27】[btw-so / open-source-alternatives](https://github.com/btw-so/open-source-alternatives) - List of open-source alternatives to everyday SaaS products.
 * 【2023-05-27】[microsoft / win32-app-isolation](https://github.com/microsoft/win32-app-isolation) - 
@@ -113,6 +119,8 @@
 
 ## Java
 
+* 【2023-05-28】[apache / skywalking-java](https://github.com/apache/skywalking-java) - The Java agent for Apache SkyWalking
+* 【2023-05-28】[kby-ai / FaceRecognition-Android](https://github.com/kby-ai/FaceRecognition-Android) - This is a demonstration of face recognition and 3D passive liveness detection. The system functions similarly to a time-attendance system.
 * 【2023-05-27】[bezkoder / spring-boot-spring-security-jwt-authentication](https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication) - Spring Boot + Security: Token Based Authentication example with JWT, Authorization, Spring Data & MySQL
 * 【2023-05-27】[512team / dhorse](https://github.com/512team/dhorse) - DHorse是一个简单易用、以应用为中心的云原生DevOps系统，具有持续集成、持续部署、微服务治理等功能，主要特点：部署简单、操作简洁、功能快速。
 * 【2023-05-26】[SimonHalvdansson / Harmonic-HN](https://github.com/SimonHalvdansson/Harmonic-HN) - An Android client for Hacker News
@@ -148,6 +156,10 @@
 
 ## Python
 
+* 【2023-05-28】[ShishirPatil / gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+* 【2023-05-28】[Liuhong99 / Sophia](https://github.com/Liuhong99/Sophia) - The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”
+* 【2023-05-28】[kyegomez / Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%. New optimizer that is 2x faster than Adam on LLMs.
+* 【2023-05-28】[hoochanlon / hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 * 【2023-05-27】[tatsu-lab / alpaca_farm](https://github.com/tatsu-lab/alpaca_farm) - A Simulation Framework for RLHF and alternatives.
 * 【2023-05-27】[microsoft / Olive](https://github.com/microsoft/Olive) - Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation.
 * 【2023-05-27】[secretflow / secretflow](https://github.com/secretflow/secretflow) - A unified framework for privacy-preserving data analysis and machine learning
@@ -244,6 +256,7 @@
 
 ## Javascript
 
+* 【2023-05-28】[carbon-app / carbon](https://github.com/carbon-app/carbon) - 🖤Create and share beautiful images of your source code
 * 【2023-05-27】[amelia-coding / coding](https://github.com/amelia-coding/coding) - 📒【前端】算法Leetcode 常见算法 CSS HTML JavaScript 框架的一些代码实现✏️，欢迎点赞和学习🌆~·
 * 【2023-05-27】[Rocketseat / frontend-challenge](https://github.com/Rocketseat/frontend-challenge) - 
 * 【2023-05-27】[ml5js / ml5-library](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web!🤖
@@ -318,6 +331,7 @@
 
 ## Go
 
+* 【2023-05-28】[cosmos / ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
 * 【2023-05-26】[Workiva / go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 * 【2023-05-25】[sjlleo / nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
 * 【2023-05-25】[go-logr / logr](https://github.com/go-logr/logr) - A simple logging interface for Go
@@ -369,6 +383,8 @@
 
 ## C
 
+* 【2023-05-28】[WKL-Sec / HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
+* 【2023-05-28】[lh3 / seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats
 * 【2023-05-27】[polpo / picogus](https://github.com/polpo/picogus) - Emulation of ISA sound cards on Raspberry Pi Pico (GUS, Adlib, MPU-401, Tandy, CMS)
 * 【2023-05-26】[Lordwill1 / simple_shell](https://github.com/Lordwill1/simple_shell) - 0x16. C - Simple Shell
 * 【2023-05-25】[ThusSpokeNomad / GameNetworkingResources](https://github.com/ThusSpokeNomad/GameNetworkingResources) - A Curated List of Game Network Programming Resources
@@ -458,6 +474,9 @@
 
 ## C#
 
+* 【2023-05-28】[EdiWang / Moonglade](https://github.com/EdiWang/Moonglade) - The .NET 7 blog system of https://edi.wang, runs on Microsoft Azure
+* 【2023-05-28】[microsoft / devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - 
+* 【2023-05-28】[amakvana / EzYuzu](https://github.com/amakvana/EzYuzu) - EzYuzu - A Portable Yuzu Updater for Standalone versions of Yuzu
 * 【2023-05-27】[PunishXIV / Splatoon](https://github.com/PunishXIV/Splatoon) - Redefining FFXIV navigation with unlimited, precise waymarks.
 * 【2023-05-27】[siriusdeveloper / sirius-crypter](https://github.com/siriusdeveloper/sirius-crypter) - Telegram: @siriusdeveloper
 * 【2023-05-27】[bradygaster / dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023) - 
@@ -503,6 +522,8 @@
 
 ## Html
 
+* 【2023-05-28】[mostafizurhimself / admintoolkit-html](https://github.com/mostafizurhimself/admintoolkit-html) - Admin template based on TailwindCSS and Vanilla JavaScript
+* 【2023-05-28】[adoptium / aqa-tests](https://github.com/adoptium/aqa-tests) - Home of test infrastructure for Adoptium builds
 * 【2023-05-27】[threatlabz / ransomware_notes](https://github.com/threatlabz/ransomware_notes) - An archive of ransomware notes past and present
 * 【2023-05-27】[7hugs / Kahoot-Hack](https://github.com/7hugs/Kahoot-Hack) - The one and only working Kahoot answer hack
 * 【2023-05-26】[18alantom / strawberry](https://github.com/18alantom/strawberry) - Zero-dependency, build-free framework for the artisanal web.
@@ -568,6 +589,7 @@
 
 ## Css
 
+* 【2023-05-28】[argyleink / morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
 * 【2023-05-27】[Bookingjini-Labs / bookingjini-icons](https://github.com/Bookingjini-Labs/bookingjini-icons) - Find hospitality related icons, curated by creators from Bookingjini
 * 【2023-05-27】[m2kar / m2kar.github.io](https://github.com/m2kar/m2kar.github.io) - M2kar的个人主页
 * 【2023-05-27】[Czechitas-podklady-WEB / projekt-nakupy-post](https://github.com/Czechitas-podklady-WEB/projekt-nakupy-post) - Třetí část tréninkové aplikace Nákupy: přidání položky pomocí POST
@@ -624,6 +646,10 @@
 
 ## Unknown
 
+* 【2023-05-28】[zhoubolei / bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
+* 【2023-05-28】[sivaprasadreddy / tomato-architecture](https://github.com/sivaprasadreddy/tomato-architecture) - Tomato Architecture - A common sense driven approach to software architecture
+* 【2023-05-28】[ilmoi / teachyourselfCS-RU](https://github.com/ilmoi/teachyourselfCS-RU) - Russian translation of https://teachyourselfcs.com/
+* 【2023-05-28】[openshift / installer](https://github.com/openshift/installer) - Install an OpenShift 4.x cluster
 * 【2023-05-27】[zakirullin / cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠Cognitive Load Developer's Handbook
 * 【2023-05-27】[Illumine-Labs / Mr.Trans](https://github.com/Illumine-Labs/Mr.Trans) - ChatGPT 翻译助手 Prompt
 * 【2023-05-27】[XTsat / rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
