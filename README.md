@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-05-31】[ClassmateLin / dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
+* 【2023-05-31】[threestudio-project / threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
+* 【2023-05-31】[OpenBMB / CPM-Bee](https://github.com/OpenBMB/CPM-Bee) - 百亿参数的中英文双语基座大模型
+* 【2023-05-31】[PromtEngineer / localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+* 【2023-05-31】[dabit3 / semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
+* 【2023-05-31】[WankkoRee / eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
+* 【2023-05-31】[facebookresearch / ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
+* 【2023-05-31】[mengzonefire / rapid-upload-userscript](https://github.com/mengzonefire/rapid-upload-userscript) - 秒传链接提取脚本, 使用typescript + webpack重构
 * 【2023-05-30】[lucidrains / soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
 * 【2023-05-30】[Akegarasu / lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss's trainer, for diffusion model.
 * 【2023-05-29】[SamurAIGPT / privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
@@ -126,6 +134,12 @@
 
 ## Java
 
+* 【2023-05-31】[MineDojo / MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
+* 【2023-05-31】[mik3y / usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
+* 【2023-05-31】[xuexiangjys / XUI](https://github.com/xuexiangjys/XUI) - 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！)
+* 【2023-05-31】[itwanger / paicoding](https://github.com/itwanger/paicoding) - ⭐️一款好用又强大的开源社区，附详细教程，包括Java、Spring、MySQL、Redis、微服务&分布式、消息队列、操作系统、计算机网络、数据结构与算法等计算机专业核心知识点。学编程，就上技术派😁。
+* 【2023-05-31】[PlayEdu / PlayEdu](https://github.com/PlayEdu/PlayEdu) - PlayEdu 是一款适用于搭建内部培训平台的开源系统，旨在为企业/机构打造自己品牌的内部培训平台。
+* 【2023-05-31】[YYHYlh / Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp) - Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践
 * 【2023-05-30】[zongzibinbin / MallChat](https://github.com/zongzibinbin/MallChat) - mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
 * 【2023-05-30】[amnesica / KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 * 【2023-05-30】[square / javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
@@ -166,6 +180,8 @@
 
 ## Python
 
+* 【2023-05-31】[aiwaves-cn / RecurrentGPT](https://github.com/aiwaves-cn/RecurrentGPT) - Official Code for Paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text
+* 【2023-05-31】[e-johnstonn / wingmanAI](https://github.com/e-johnstonn/wingmanAI) - Real-time transcription of audio, integrated with ChatGPT for interactive use. Save, load, and append transcripts for effective context management in conversations.
 * 【2023-05-30】[Birch-san / mpt-play](https://github.com/Birch-san/mpt-play) - Command-line script for inferencing from models such as MPT-7B-Chat
 * 【2023-05-29】[JingyunLiang / SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 * 【2023-05-29】[MineDojo / Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
@@ -273,6 +289,7 @@
 
 ## Javascript
 
+* 【2023-05-31】[Automattic / wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 * 【2023-05-30】[personoids / personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
 * 【2023-05-30】[blue-pen5805 / sdweb-easy-prompt-selector](https://github.com/blue-pen5805/sdweb-easy-prompt-selector) - 
 * 【2023-05-30】[badlogic / heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
@@ -353,6 +370,8 @@
 
 ## Go
 
+* 【2023-05-31】[bluenviron / mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
+* 【2023-05-31】[gitpod-io / gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 * 【2023-05-30】[ChineseSubFinder / ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 * 【2023-05-29】[JekaMas / crand](https://github.com/JekaMas/crand) - A human-friendly way to use crypto/rand
 * 【2023-05-29】[apache / rocketmq-client-go](https://github.com/apache/rocketmq-client-go) - Apache RocketMQ go client
@@ -408,6 +427,7 @@
 
 ## C
 
+* 【2023-05-31】[H5GG / H5GG](https://github.com/H5GG/H5GG) - an iOS cheat engine for JavaScript APIs & Html5 UI
 * 【2023-05-29】[aers / FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs) - Resources for reverse-engineering the FFXIV client's native classes.
 * 【2023-05-28】[WKL-Sec / HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
 * 【2023-05-28】[lh3 / seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats
@@ -460,6 +480,7 @@
 
 ## C++
 
+* 【2023-05-31】[Endermanch / XPKeygen](https://github.com/Endermanch/XPKeygen) - Windows XP Keygen
 * 【2023-05-29】[ITotalJustice / sys-patch](https://github.com/ITotalJustice/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
 * 【2023-05-29】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 * 【2023-05-27】[apache / incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
@@ -502,6 +523,12 @@
 
 ## C#
 
+* 【2023-05-31】[davidfowl / eStoreLite](https://github.com/davidfowl/eStoreLite) - Simple eStore frontend backend application using ASP.NET Core
+* 【2023-05-31】[shanselman / AsteroidsGame](https://github.com/shanselman/AsteroidsGame) - Asteroids Game generated by Scott and Mark Learn to Code, commited directly as written, just after BUILD 2023 keynote. Many many thanks to Yanan Cai for her help and prompt engineering.
+* 【2023-05-31】[project-sbc / Handheld-Control-Panel](https://github.com/project-sbc/Handheld-Control-Panel) - 
+* 【2023-05-31】[Bluegrams / Vividl](https://github.com/Bluegrams/Vividl) - Modern Windows GUI for youtube-dl/ yt-dlp
+* 【2023-05-31】[blazor-spark / blazor-spark](https://github.com/blazor-spark/blazor-spark) - 
+* 【2023-05-31】[MichaelGrafnetter / DSInternals](https://github.com/MichaelGrafnetter/DSInternals) - Directory Services Internals (DSInternals) PowerShell Module and Framework
 * 【2023-05-29】[KillzXGaming / Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) - A tool to edit many video game file formats
 * 【2023-05-28】[EdiWang / Moonglade](https://github.com/EdiWang/Moonglade) - The .NET 7 blog system of https://edi.wang, runs on Microsoft Azure
 * 【2023-05-28】[microsoft / devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - 
@@ -551,6 +578,7 @@
 
 ## Html
 
+* 【2023-05-31】[tomitokko / django-chatbot](https://github.com/tomitokko/django-chatbot) - 
 * 【2023-05-29】[yusufyilmazfr / tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.
 * 【2023-05-29】[wg-easy / wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 * 【2023-05-29】[xbzstudio / BingAI-Client](https://github.com/xbzstudio/BingAI-Client) - 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
@@ -680,6 +708,7 @@
 
 ## Unknown
 
+* 【2023-05-31】[jerryfane / generative-brc-721](https://github.com/jerryfane/generative-brc-721) - This repository houses the documentation for the proposed Generative BRC-721 Standard, a new concept aimed at optimizing the creation of Non-Fungible Ordinals collections within the Bitcoin ecosystem.
 * 【2023-05-30】[xalgord / Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) - 
 * 【2023-05-30】[thu-ml / prolificdreamer](https://github.com/thu-ml/prolificdreamer) - ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
 * 【2023-05-30】[CorrieOnly / google-dorks](https://github.com/CorrieOnly/google-dorks) - 
