@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-06-01】[s0md3v / roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+* 【2023-06-01】[documenso / documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
+* 【2023-06-01】[lyuchenyang / Macaw-LLM](https://github.com/lyuchenyang/Macaw-LLM) - Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration
+* 【2023-06-01】[makeplane / plane](https://github.com/makeplane/plane) - 🔥🔥🔥Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+* 【2023-06-01】[QiuChenly / MyMacsAppCrack](https://github.com/QiuChenly/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
+* 【2023-06-01】[ctlllll / LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker) - 
+* 【2023-06-01】[fantastic-admin / basic](https://github.com/fantastic-admin/basic) - ⭐⭐⭐⭐⭐一款开箱即用的 Vue 中后台管理系统框架，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2023-05-31】[ClassmateLin / dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。https://t.me/+2EELgNTYiMYxMTFl
 * 【2023-05-31】[threestudio-project / threestudio](https://github.com/threestudio-project/threestudio) - A unified framework for 3D content generation.
 * 【2023-05-31】[OpenBMB / CPM-Bee](https://github.com/OpenBMB/CPM-Bee) - 百亿参数的中英文双语基座大模型
@@ -134,6 +141,7 @@
 
 ## Java
 
+* 【2023-06-01】[apache / incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 * 【2023-05-31】[MineDojo / MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 * 【2023-05-31】[mik3y / usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) - Android USB host serial driver library for CDC, FTDI, Arduino and other devices.
 * 【2023-05-31】[xuexiangjys / XUI](https://github.com/xuexiangjys/XUI) - 💍A simple and elegant Android native UI framework, free your hands! (一个简洁而优雅的Android原生UI框架，解放你的双手！)
@@ -180,6 +188,7 @@
 
 ## Python
 
+* 【2023-06-01】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
 * 【2023-05-31】[aiwaves-cn / RecurrentGPT](https://github.com/aiwaves-cn/RecurrentGPT) - Official Code for Paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text
 * 【2023-05-31】[e-johnstonn / wingmanAI](https://github.com/e-johnstonn/wingmanAI) - Real-time transcription of audio, integrated with ChatGPT for interactive use. Save, load, and append transcripts for effective context management in conversations.
 * 【2023-05-30】[Birch-san / mpt-play](https://github.com/Birch-san/mpt-play) - Command-line script for inferencing from models such as MPT-7B-Chat
@@ -289,6 +298,8 @@
 
 ## Javascript
 
+* 【2023-06-01】[libccy / noname](https://github.com/libccy/noname) - 
+* 【2023-06-01】[cheatsheet1999 / FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection) - Notes for Fullstack Software Engineers. Covers common data structure and algorithms, web concepts, Javascript / TypeScript, React, and more!
 * 【2023-05-31】[Automattic / wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 * 【2023-05-30】[personoids / personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
 * 【2023-05-30】[blue-pen5805 / sdweb-easy-prompt-selector](https://github.com/blue-pen5805/sdweb-easy-prompt-selector) - 
@@ -370,6 +381,7 @@
 
 ## Go
 
+* 【2023-06-01】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
 * 【2023-05-31】[bluenviron / mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
 * 【2023-05-31】[gitpod-io / gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 * 【2023-05-30】[ChineseSubFinder / ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
@@ -427,6 +439,9 @@
 
 ## C
 
+* 【2023-06-01】[S3cur3Th1sSh1t / Ruy-Lopez](https://github.com/S3cur3Th1sSh1t/Ruy-Lopez) - 
+* 【2023-06-01】[jqlang / jq](https://github.com/jqlang/jq) - Command-line JSON processor
+* 【2023-06-01】[Nautilus-Institute / quals-2023](https://github.com/Nautilus-Institute/quals-2023) - 
 * 【2023-05-31】[H5GG / H5GG](https://github.com/H5GG/H5GG) - an iOS cheat engine for JavaScript APIs & Html5 UI
 * 【2023-05-29】[aers / FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs) - Resources for reverse-engineering the FFXIV client's native classes.
 * 【2023-05-28】[WKL-Sec / HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
@@ -480,6 +495,7 @@
 
 ## C++
 
+* 【2023-06-01】[OpenCalib / SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 * 【2023-05-31】[Endermanch / XPKeygen](https://github.com/Endermanch/XPKeygen) - Windows XP Keygen
 * 【2023-05-29】[ITotalJustice / sys-patch](https://github.com/ITotalJustice/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
 * 【2023-05-29】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
@@ -523,6 +539,9 @@
 
 ## C#
 
+* 【2023-06-01】[Fictiverse / Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
+* 【2023-06-01】[letharqic / InstantPipes](https://github.com/letharqic/InstantPipes) - Unity editor tool for quickly generating pipes — with pathfinding
+* 【2023-06-01】[ZiggyCreatures / FusionCache](https://github.com/ZiggyCreatures/FusionCache) - FusionCache is an easy to use, fast and robust cache with advanced resiliency features and an optional distributed 2nd layer.
 * 【2023-05-31】[davidfowl / eStoreLite](https://github.com/davidfowl/eStoreLite) - Simple eStore frontend backend application using ASP.NET Core
 * 【2023-05-31】[shanselman / AsteroidsGame](https://github.com/shanselman/AsteroidsGame) - Asteroids Game generated by Scott and Mark Learn to Code, commited directly as written, just after BUILD 2023 keynote. Many many thanks to Yanan Cai for her help and prompt engineering.
 * 【2023-05-31】[project-sbc / Handheld-Control-Panel](https://github.com/project-sbc/Handheld-Control-Panel) - 
@@ -578,6 +597,8 @@
 
 ## Html
 
+* 【2023-06-01】[mrd0x / file-archiver-in-the-browser](https://github.com/mrd0x/file-archiver-in-the-browser) - 
+* 【2023-06-01】[mame / minesweeper-spoiled-by-ai](https://github.com/mame/minesweeper-spoiled-by-ai) - This Minesweeper AI does the brain-testing part for you. You do the luck-testing part.
 * 【2023-05-31】[tomitokko / django-chatbot](https://github.com/tomitokko/django-chatbot) - 
 * 【2023-05-29】[yusufyilmazfr / tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.
 * 【2023-05-29】[wg-easy / wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
@@ -649,6 +670,9 @@
 
 ## Css
 
+* 【2023-06-01】[bsoc-bitbyte / resource-sharing](https://github.com/bsoc-bitbyte/resource-sharing) - A resource sharing to share course material and previous year papers
+* 【2023-06-01】[hogeschoolnovi / frontend-react-weatherapp-tutorial](https://github.com/hogeschoolnovi/frontend-react-weatherapp-tutorial) - EdHub tutorial
+* 【2023-06-01】[sofdev5-2023-westtigers / task-manager](https://github.com/sofdev5-2023-westtigers/task-manager) - 
 * 【2023-05-29】[40Cakes / pokebot-bizhawk](https://github.com/40Cakes/pokebot-bizhawk) - 
 * 【2023-05-29】[BootstrapDash / skydash-free-bootstrap-admin-template](https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template) - free bootstrap admin template
 * 【2023-05-28】[argyleink / morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
@@ -708,6 +732,7 @@
 
 ## Unknown
 
+* 【2023-06-01】[yzfly / wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 * 【2023-05-31】[jerryfane / generative-brc-721](https://github.com/jerryfane/generative-brc-721) - This repository houses the documentation for the proposed Generative BRC-721 Standard, a new concept aimed at optimizing the creation of Non-Fungible Ordinals collections within the Bitcoin ecosystem.
 * 【2023-05-30】[xalgord / Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) - 
 * 【2023-05-30】[thu-ml / prolificdreamer](https://github.com/thu-ml/prolificdreamer) - ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
