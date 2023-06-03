@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-03】[FurkanGozukara / Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks
+* 【2023-06-03】[saadeghi / daisyui](https://github.com/saadeghi/daisyui) - ⭐️⭐️⭐️⭐️⭐️The most popular, free and open-source Tailwind CSS component library
+* 【2023-06-03】[Chainlit / chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes⚡️
 * 【2023-06-02】[Lissy93 / AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term) - 🛡️Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 * 【2023-06-02】[Evansy / MallChatWeb](https://github.com/Evansy/MallChatWeb) - mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing
 * 【2023-06-02】[moraroy / NonSteamLaunchers-On-Steam-Deck](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Installs the latest GE-Proton and Installs Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Currently Installs... Battle.net, Epic Games, Ubisoft, GOG, Origin, The EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala and the Rockstar Games Launcher. Now with SD Card Support.
@@ -26,11 +29,18 @@
 
 ## Java
 
+* 【2023-06-03】[mouredev / one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
+* 【2023-06-03】[I5N0rth / CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) - 
+* 【2023-06-03】[hiparker / lint-rpc-framework](https://github.com/hiparker/lint-rpc-framework) - 一个轻量级Java RPC 框架, 底层采用Netty实现, 模拟Dubbo运行模式(闲来无事 练习一下)
 * 【2023-06-02】[eyebluecn / smart-classroom-misc](https://github.com/eyebluecn/smart-classroom-misc) - 领域驱动设计DDD从入门到代码实践示例项目
 * 【2023-06-01】[apache / incubator-baremaps](https://github.com/apache/incubator-baremaps) - Create custom vector tiles from OpenStreetMap and other data sources with Postgis and Java.
 
 ## Python
 
+* 【2023-06-03】[jianzhnie / Chinese-Guanaco](https://github.com/jianzhnie/Chinese-Guanaco) - 中文Guanaco(原驼)大语言模型 QLora 量化训练 +本地CPU/GPU部署 (Chinese Guanaco QLoRA: Efficient Finetuning of Quantized LLMs)
+* 【2023-06-03】[openai / prm800k](https://github.com/openai/prm800k) - 800,000 step-level correctness labels on LLM solutions to MATH problems
+* 【2023-06-03】[FreedomIntelligence / HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
+* 【2023-06-03】[thomasasfk / sd-webui-aspect-ratio-helper](https://github.com/thomasasfk/sd-webui-aspect-ratio-helper) - Simple extension to easily maintain aspect ratio while changing dimensions. Install via the extensions tab on the AUTOMATIC1111 webui.
 * 【2023-06-02】[huggingface / text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 * 【2023-06-02】[ajndkr / lanarky](https://github.com/ajndkr/lanarky) - 🚢Ship production-ready LLM projects with FastAPI
 * 【2023-06-01】[jsksxs360 / How-to-use-Transformers](https://github.com/jsksxs360/How-to-use-Transformers) - Transformers 库快速入门教程
@@ -69,6 +79,8 @@
 
 ## Html
 
+* 【2023-06-03】[2004content / 2004content.github.io](https://github.com/2004content/2004content.github.io) - webpage
+* 【2023-06-03】[A10ha / EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
 * 【2023-06-02】[udayRage / PAMI](https://github.com/udayRage/PAMI) - PAMI is a Python library containing 80+ algorithms to discover useful patterns in various databases across multiple computing platforms. (Active)
 * 【2023-06-02】[pengzhile / pandora-cloud](https://github.com/pengzhile/pandora-cloud) - A package for Pandora-ChatGPT
 * 【2023-06-01】[mrd0x / file-archiver-in-the-browser](https://github.com/mrd0x/file-archiver-in-the-browser) - 
@@ -76,6 +88,7 @@
 
 ## Css
 
+* 【2023-06-03】[byarin90 / copyLayout](https://github.com/byarin90/copyLayout) - https://copylayout.netlify.app/
 * 【2023-06-02】[ParisNeo / gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
 * 【2023-06-02】[dfols / framework](https://github.com/dfols/framework) - 
 * 【2023-06-02】[bsoc-bitbyte / IIITians-Space](https://github.com/bsoc-bitbyte/IIITians-Space) - A forum to make connections and learn
@@ -87,6 +100,13 @@
 
 ## Unknown
 
+* 【2023-06-03】[2004content / rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
+* 【2023-06-03】[JDDKCN / KCN-GenshinServer](https://github.com/JDDKCN/KCN-GenshinServer) - 基于GC制作的原神一键GUI多功能服务端。
+* 【2023-06-03】[owen2000wy / owentv](https://github.com/owen2000wy/owentv) - owentv, more stable, more fun.
+* 【2023-06-03】[OAI / moonwalk](https://github.com/OAI/moonwalk) - This repo is highly exploratory and therefore volatile. Radical ideas are here to provoke discussion.
+* 【2023-06-03】[DoctorWebLtd / malware-iocs](https://github.com/DoctorWebLtd/malware-iocs) - 
+* 【2023-06-03】[danhpaiva / una-psc-alg-conta-bancaria-java-poo](https://github.com/danhpaiva/una-psc-alg-conta-bancaria-java-poo) - ➕~ Exercício para fixacao do conteúdo programático de POO
+* 【2023-06-03】[bleach1991 / lede](https://github.com/bleach1991/lede) - 
 * 【2023-06-02】[Illumine-Labs / GreatMaster](https://github.com/Illumine-Labs/GreatMaster) - Master, help us to awaken and enlighten. 大师，我悟了。
 * 【2023-06-02】[PerimeterX / go-project-structure](https://github.com/PerimeterX/go-project-structure) - 
 * 【2023-06-02】[gaboolic / vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
