@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-06-04】[pittcsc / Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
+* 【2023-06-04】[ray-project / aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
+* 【2023-06-04】[shubham-goel / 4D-Humans](https://github.com/shubham-goel/4D-Humans) - 
+* 【2023-06-04】[hazemadelkhalel / Competitive-Programming-Library](https://github.com/hazemadelkhalel/Competitive-Programming-Library) - 
+* 【2023-06-04】[browserless / chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+* 【2023-06-04】[opennaslab / kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.
 * 【2023-06-03】[FurkanGozukara / Stable-Diffusion](https://github.com/FurkanGozukara/Stable-Diffusion) - Best Stable Diffusion and AI Tutorials, Guides, News, Tips and Tricks
 * 【2023-06-03】[saadeghi / daisyui](https://github.com/saadeghi/daisyui) - ⭐️⭐️⭐️⭐️⭐️The most popular, free and open-source Tailwind CSS component library
 * 【2023-06-03】[Chainlit / chainlit](https://github.com/Chainlit/chainlit) - Build Python LLM apps in minutes⚡️
@@ -29,6 +35,8 @@
 
 ## Java
 
+* 【2023-06-04】[adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) - Standardized components to build websites with AEM.
+* 【2023-06-04】[sagframe / sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供分组汇总、同比环比、行列转换、树形排序汇总、多数据库适配、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!
 * 【2023-06-03】[mouredev / one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
 * 【2023-06-03】[I5N0rth / CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246) - 
 * 【2023-06-03】[hiparker / lint-rpc-framework](https://github.com/hiparker/lint-rpc-framework) - 一个轻量级Java RPC 框架, 底层采用Netty实现, 模拟Dubbo运行模式(闲来无事 练习一下)
@@ -37,6 +45,7 @@
 
 ## Python
 
+* 【2023-06-04】[rmihaylov / falcontune](https://github.com/rmihaylov/falcontune) - Tune any FALCON in 4-bit
 * 【2023-06-03】[jianzhnie / Chinese-Guanaco](https://github.com/jianzhnie/Chinese-Guanaco) - 中文Guanaco(原驼)大语言模型 QLora 量化训练 +本地CPU/GPU部署 (Chinese Guanaco QLoRA: Efficient Finetuning of Quantized LLMs)
 * 【2023-06-03】[openai / prm800k](https://github.com/openai/prm800k) - 800,000 step-level correctness labels on LLM solutions to MATH problems
 * 【2023-06-03】[FreedomIntelligence / HuatuoGPT](https://github.com/FreedomIntelligence/HuatuoGPT) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
@@ -47,6 +56,7 @@
 
 ## Javascript
 
+* 【2023-06-04】[safak / nextjs-tutorial](https://github.com/safak/nextjs-tutorial) - 
 * 【2023-06-02】[uidotdev / usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 * 【2023-06-02】[brix / crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 * 【2023-06-01】[libccy / noname](https://github.com/libccy/noname) - 
@@ -59,18 +69,23 @@
 
 ## C
 
+* 【2023-06-04】[ba0gu0 / 520apkhook](https://github.com/ba0gu0/520apkhook) - 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular app. When running the newly generated app, the regular app runs normally and the remote control goes online normally.
 * 【2023-06-01】[S3cur3Th1sSh1t / Ruy-Lopez](https://github.com/S3cur3Th1sSh1t/Ruy-Lopez) - 
 * 【2023-06-01】[jqlang / jq](https://github.com/jqlang/jq) - Command-line JSON processor
 * 【2023-06-01】[Nautilus-Institute / quals-2023](https://github.com/Nautilus-Institute/quals-2023) - 
 
 ## C++
 
+* 【2023-06-04】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
+* 【2023-06-04】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
+* 【2023-06-04】[tensorflow / serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 * 【2023-06-02】[adamritter / fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 * 【2023-06-02】[Beep6581 / RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program
 * 【2023-06-01】[OpenCalib / SurroundCameraCalib](https://github.com/OpenCalib/SurroundCameraCalib) - 
 
 ## C#
 
+* 【2023-06-04】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
 * 【2023-06-02】[serenity-is / Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 * 【2023-06-02】[open-rpa / openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 * 【2023-06-01】[Fictiverse / Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
@@ -79,6 +94,7 @@
 
 ## Html
 
+* 【2023-06-04】[zserge / awfice](https://github.com/zserge/awfice) - The world smallest office suite
 * 【2023-06-03】[2004content / 2004content.github.io](https://github.com/2004content/2004content.github.io) - webpage
 * 【2023-06-03】[A10ha / EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
 * 【2023-06-02】[udayRage / PAMI](https://github.com/udayRage/PAMI) - PAMI is a Python library containing 80+ algorithms to discover useful patterns in various databases across multiple computing platforms. (Active)
@@ -88,6 +104,7 @@
 
 ## Css
 
+* 【2023-06-04】[pronane / shamrocks.github.com](https://github.com/pronane/shamrocks.github.com) - 
 * 【2023-06-03】[byarin90 / copyLayout](https://github.com/byarin90/copyLayout) - https://copylayout.netlify.app/
 * 【2023-06-02】[ParisNeo / gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
 * 【2023-06-02】[dfols / framework](https://github.com/dfols/framework) - 
@@ -100,6 +117,10 @@
 
 ## Unknown
 
+* 【2023-06-04】[coderQuad / New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
+* 【2023-06-04】[kadenzipfel / smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
+* 【2023-06-04】[Zeyad-Azima / Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
+* 【2023-06-04】[Trident-Development / 2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern) - US Tech intern/new-grad positions for 2024
 * 【2023-06-03】[2004content / rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
 * 【2023-06-03】[JDDKCN / KCN-GenshinServer](https://github.com/JDDKCN/KCN-GenshinServer) - 基于GC制作的原神一键GUI多功能服务端。
 * 【2023-06-03】[owen2000wy / owentv](https://github.com/owen2000wy/owentv) - owentv, more stable, more fun.
