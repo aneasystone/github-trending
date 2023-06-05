@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-06-05】[Not-Quite-RARBG / main](https://github.com/Not-Quite-RARBG/main) - Not Quite RARBG's main website.
+* 【2023-06-05】[salesforce / CodeTF](https://github.com/salesforce/CodeTF) - CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
 * 【2023-06-04】[pittcsc / Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
 * 【2023-06-04】[ray-project / aviary](https://github.com/ray-project/aviary) - Ray Aviary - evaluate multiple LLMs easily
 * 【2023-06-04】[shubham-goel / 4D-Humans](https://github.com/shubham-goel/4D-Humans) - 
@@ -35,6 +37,7 @@
 
 ## Java
 
+* 【2023-06-05】[cheese1ne / cheese-repository](https://github.com/cheese1ne/cheese-repository) - 
 * 【2023-06-04】[adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) - Standardized components to build websites with AEM.
 * 【2023-06-04】[sagframe / sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供分组汇总、同比环比、行列转换、树形排序汇总、多数据库适配、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!
 * 【2023-06-03】[mouredev / one-day-one-language](https://github.com/mouredev/one-day-one-language) - Cómo dar en un día tus primeros pasos en cada lenguaje de programación. Introducción, configuración e instalación, usos habituales, fundamentos, sintaxis y próximos pasos.
@@ -45,6 +48,11 @@
 
 ## Python
 
+* 【2023-06-05】[mit-han-lab / llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
+* 【2023-06-05】[facebookresearch / hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
+* 【2023-06-05】[KasperskyLab / triangle_check](https://github.com/KasperskyLab/triangle_check) - 
+* 【2023-06-05】[apple / coremltools](https://github.com/apple/coremltools) - Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+* 【2023-06-05】[emarco177 / ice_breaker](https://github.com/emarco177/ice_breaker) - 
 * 【2023-06-04】[rmihaylov / falcontune](https://github.com/rmihaylov/falcontune) - Tune any FALCON in 4-bit
 * 【2023-06-03】[jianzhnie / Chinese-Guanaco](https://github.com/jianzhnie/Chinese-Guanaco) - 中文Guanaco(原驼)大语言模型 QLora 量化训练 +本地CPU/GPU部署 (Chinese Guanaco QLoRA: Efficient Finetuning of Quantized LLMs)
 * 【2023-06-03】[openai / prm800k](https://github.com/openai/prm800k) - 800,000 step-level correctness labels on LLM solutions to MATH problems
@@ -56,6 +64,8 @@
 
 ## Javascript
 
+* 【2023-06-05】[leoherzog / TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑A website to inspect and edit what's in your Torrent file or Magnet link
+* 【2023-06-05】[Stremio / stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 * 【2023-06-04】[safak / nextjs-tutorial](https://github.com/safak/nextjs-tutorial) - 
 * 【2023-06-02】[uidotdev / usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 * 【2023-06-02】[brix / crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
@@ -64,11 +74,13 @@
 
 ## Go
 
+* 【2023-06-05】[jarvanstack / mysqldump](https://github.com/jarvanstack/mysqldump) - A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
 * 【2023-06-02】[DataDog / terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
 * 【2023-06-01】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
 
 ## C
 
+* 【2023-06-05】[stellar / stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
 * 【2023-06-04】[ba0gu0 / 520apkhook](https://github.com/ba0gu0/520apkhook) - 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular app. When running the newly generated app, the regular app runs normally and the remote control goes online normally.
 * 【2023-06-01】[S3cur3Th1sSh1t / Ruy-Lopez](https://github.com/S3cur3Th1sSh1t/Ruy-Lopez) - 
 * 【2023-06-01】[jqlang / jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -76,6 +88,7 @@
 
 ## C++
 
+* 【2023-06-05】[moonlight-stream / moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 * 【2023-06-04】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 * 【2023-06-04】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
 * 【2023-06-04】[tensorflow / serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
@@ -94,6 +107,8 @@
 
 ## Html
 
+* 【2023-06-05】[youssef-of-web / midone-template-html](https://github.com/youssef-of-web/midone-template-html) - 
+* 【2023-06-05】[kono-dada / Sakuranotoki-Chinese](https://github.com/kono-dada/Sakuranotoki-Chinese) - 樱之刻简中汉化
 * 【2023-06-04】[zserge / awfice](https://github.com/zserge/awfice) - The world smallest office suite
 * 【2023-06-03】[2004content / 2004content.github.io](https://github.com/2004content/2004content.github.io) - webpage
 * 【2023-06-03】[A10ha / EmailSender](https://github.com/A10ha/EmailSender) - 钓鱼邮件便捷发送工具（GUI）
@@ -104,6 +119,7 @@
 
 ## Css
 
+* 【2023-06-05】[anmode / grabtern-frontend](https://github.com/anmode/grabtern-frontend) - Connecting the mentors and creating a network
 * 【2023-06-04】[pronane / shamrocks.github.com](https://github.com/pronane/shamrocks.github.com) - 
 * 【2023-06-03】[byarin90 / copyLayout](https://github.com/byarin90/copyLayout) - https://copylayout.netlify.app/
 * 【2023-06-02】[ParisNeo / gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui
@@ -117,6 +133,11 @@
 
 ## Unknown
 
+* 【2023-06-05】[reactwg / server-components](https://github.com/reactwg/server-components) - 
+* 【2023-06-05】[AlanChen4 / Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday
+* 【2023-06-05】[LNP-BP / layer1](https://github.com/LNP-BP/layer1) - Paper on new bitcoin layer 1 design
+* 【2023-06-05】[mengzehe / TVBox](https://github.com/mengzehe/TVBox) - TVBox自用源以及仓库源、直播源等
+* 【2023-06-05】[ccmuyuu / bilibili-emotes](https://github.com/ccmuyuu/bilibili-emotes) - bilibili已发布的表情包
 * 【2023-06-04】[coderQuad / New-Grad-Positions](https://github.com/coderQuad/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
 * 【2023-06-04】[kadenzipfel / smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods.
 * 【2023-06-04】[Zeyad-Azima / Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - A Huge Learning Resources with Labs For Offensive Security Players
