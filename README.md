@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-06-06】[huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
+* 【2023-06-06】[keyvank / femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
+* 【2023-06-06】[openchatai / OpenChat](https://github.com/openchatai/OpenChat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
+* 【2023-06-06】[SwagSoftware / Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike) - 100% Open Source CSGO
 * 【2023-06-05】[Not-Quite-RARBG / main](https://github.com/Not-Quite-RARBG/main) - Not Quite RARBG's main website.
 * 【2023-06-05】[salesforce / CodeTF](https://github.com/salesforce/CodeTF) - CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
 * 【2023-06-04】[pittcsc / Summer2024-Internships](https://github.com/pittcsc/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
@@ -37,6 +41,8 @@
 
 ## Java
 
+* 【2023-06-06】[RedstoneTools / redstonetools-mod](https://github.com/RedstoneTools/redstonetools-mod) - A Redstone Quality of Life mod.
+* 【2023-06-06】[VazkiiMods / Botania](https://github.com/VazkiiMods/Botania) - A tech mod for Minecraft themed around the magic of nature and plant life.
 * 【2023-06-05】[cheese1ne / cheese-repository](https://github.com/cheese1ne/cheese-repository) - 
 * 【2023-06-04】[adobe / aem-core-wcm-components](https://github.com/adobe/aem-core-wcm-components) - Standardized components to build websites with AEM.
 * 【2023-06-04】[sagframe / sagacity-sqltoy](https://github.com/sagframe/sagacity-sqltoy) - Java真正智慧的ORM框架，除具有JPA功能外，具有最佳的sql编写模式、独创的缓存翻译、最优化的分页、并提供分组汇总、同比环比、行列转换、树形排序汇总、多数据库适配、分库分表、多租户、数据加解密、脱敏等痛点问题的解决方案!
@@ -48,6 +54,7 @@
 
 ## Python
 
+* 【2023-06-06】[poe-platform / poe-protocol](https://github.com/poe-platform/poe-protocol) - The Poe bot protocol
 * 【2023-06-05】[mit-han-lab / llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 * 【2023-06-05】[facebookresearch / hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
 * 【2023-06-05】[KasperskyLab / triangle_check](https://github.com/KasperskyLab/triangle_check) - 
@@ -64,6 +71,8 @@
 
 ## Javascript
 
+* 【2023-06-06】[3cqs-coder / SymBot](https://github.com/3cqs-coder/SymBot) - SymBot is a user friendly, self-hosted and automated DCA (Dollar Cost Averaging) cryptocurrency bot solution
+* 【2023-06-06】[songquanpeng / one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，可用于二次分发 key，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 * 【2023-06-05】[leoherzog / TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑A website to inspect and edit what's in your Torrent file or Magnet link
 * 【2023-06-05】[Stremio / stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 * 【2023-06-04】[safak / nextjs-tutorial](https://github.com/safak/nextjs-tutorial) - 
@@ -74,6 +83,7 @@
 
 ## Go
 
+* 【2023-06-06】[trzsz / trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
 * 【2023-06-05】[jarvanstack / mysqldump](https://github.com/jarvanstack/mysqldump) - A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
 * 【2023-06-02】[DataDog / terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
 * 【2023-06-01】[songquanpeng / wechat-server](https://github.com/songquanpeng/wechat-server) - 微信公众号的后端，为其他系统提供微信登录验证功能
@@ -88,6 +98,7 @@
 
 ## C++
 
+* 【2023-06-06】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * 【2023-06-05】[moonlight-stream / moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 * 【2023-06-04】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
 * 【2023-06-04】[mrousavy / react-native-mmkv](https://github.com/mrousavy/react-native-mmkv) - ⚡️The fastest key/value storage for React Native. ~30x faster than AsyncStorage!
@@ -98,6 +109,7 @@
 
 ## C#
 
+* 【2023-06-06】[paulov-t / SIT.Core](https://github.com/paulov-t/SIT.Core) - An Escape From Tarkov BepInEx module designed to be used with SPT-Aki with the ultimate goal of "Offline" Coop
 * 【2023-06-04】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
 * 【2023-06-02】[serenity-is / Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
 * 【2023-06-02】[open-rpa / openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
@@ -133,6 +145,9 @@
 
 ## Unknown
 
+* 【2023-06-06】[nevermore3d / Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
+* 【2023-06-06】[Tunas1337 / UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
+* 【2023-06-06】[AdmTal / chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
 * 【2023-06-05】[reactwg / server-components](https://github.com/reactwg/server-components) - 
 * 【2023-06-05】[AlanChen4 / Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) - A list of Summer 2024 internships for software engineering, updated automatically everyday
 * 【2023-06-05】[LNP-BP / layer1](https://github.com/LNP-BP/layer1) - Paper on new bitcoin layer 1 design
