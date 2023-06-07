@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-06-07】[foundryzero / binder-trace](https://github.com/foundryzero/binder-trace) - Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
+* 【2023-06-07】[HyperARCo / Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 * 【2023-06-06】[huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
 * 【2023-06-06】[keyvank / femtoGPT](https://github.com/keyvank/femtoGPT) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 * 【2023-06-06】[openchatai / OpenChat](https://github.com/openchatai/OpenChat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
@@ -41,6 +43,11 @@
 
 ## Java
 
+* 【2023-06-07】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
+* 【2023-06-07】[donaldlee2008 / FaceRecognition](https://github.com/donaldlee2008/FaceRecognition) - A FaceRecognition Software Based on Java
+* 【2023-06-07】[apeto2 / gpt-commercial](https://github.com/apeto2/gpt-commercial) - 本项目是一个商用版服务平台，基于Java语言实现服务端功能，前端使用React框架，底层使用官方的ChatGPT API。用户可以通过一键部署方便地使用本平台。除了支持chat对话模型外，还支持openai官方所有api，包括余额查询、模型检索、Completions chatgpt对话、Images 图片模型、模型自定义训练、文件上传自定义模型、微调、文本审核和敏感词鉴别，以及GPT 3.5、4.0和4.0-32k等功能。
+* 【2023-06-07】[metersphere / metersphere-platform-plugin](https://github.com/metersphere/metersphere-platform-plugin) - 该项目是 Metersphere 为支持对接第三方平台缺陷与需求（比如Jira、禅道等），所开发的插件项目
+* 【2023-06-07】[asters1 / tvjar_test](https://github.com/asters1/tvjar_test) - 本仓库可直接用java打开，不需要Android Studio，省时，最后编译调试的时候需要结合Android Studio使用。
 * 【2023-06-06】[RedstoneTools / redstonetools-mod](https://github.com/RedstoneTools/redstonetools-mod) - A Redstone Quality of Life mod.
 * 【2023-06-06】[VazkiiMods / Botania](https://github.com/VazkiiMods/Botania) - A tech mod for Minecraft themed around the magic of nature and plant life.
 * 【2023-06-05】[cheese1ne / cheese-repository](https://github.com/cheese1ne/cheese-repository) - 
@@ -54,6 +61,11 @@
 
 ## Python
 
+* 【2023-06-07】[Lightning-AI / lit-parrot](https://github.com/Lightning-AI/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2023-06-07】[yxuansu / PandaGPT](https://github.com/yxuansu/PandaGPT) - PandaGPT: One Model To Instruction-Follow Them All
+* 【2023-06-07】[reactive-python / reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
+* 【2023-06-07】[mitre / caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
+* 【2023-06-07】[pentilm / FactAI](https://github.com/pentilm/FactAI) - Harnessing the Power of AI to Navigate the Information Age – Uncovering Truth, Promoting Transparency, and Championing Fact-Based Discourse!
 * 【2023-06-06】[poe-platform / poe-protocol](https://github.com/poe-platform/poe-protocol) - The Poe bot protocol
 * 【2023-06-05】[mit-han-lab / llm-awq](https://github.com/mit-han-lab/llm-awq) - AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 * 【2023-06-05】[facebookresearch / hiera](https://github.com/facebookresearch/hiera) - Hiera: A fast, powerful, and simple hierarchical vision transformer.
@@ -71,6 +83,10 @@
 
 ## Javascript
 
+* 【2023-06-07】[xyTom / Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
+* 【2023-06-07】[eggjs / egg](https://github.com/eggjs/egg) - 🥚Born to build better enterprise frameworks and apps with Node.js & Koa
+* 【2023-06-07】[newrelic / docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+* 【2023-06-07】[cesiumlab / XbsjEarthUI](https://github.com/cesiumlab/XbsjEarthUI) - XbsjEarthUI是基于Cesium和EarthSDK的三维GIS/BIM的UI模板，可以基于此定制自己的三维App
 * 【2023-06-06】[3cqs-coder / SymBot](https://github.com/3cqs-coder/SymBot) - SymBot is a user friendly, self-hosted and automated DCA (Dollar Cost Averaging) cryptocurrency bot solution
 * 【2023-06-06】[songquanpeng / one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，可用于二次分发 key，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 * 【2023-06-05】[leoherzog / TorrentParts](https://github.com/leoherzog/TorrentParts) - 📑A website to inspect and edit what's in your Torrent file or Magnet link
@@ -83,6 +99,7 @@
 
 ## Go
 
+* 【2023-06-07】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2023-06-06】[trzsz / trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
 * 【2023-06-05】[jarvanstack / mysqldump](https://github.com/jarvanstack/mysqldump) - A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
 * 【2023-06-02】[DataDog / terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) - Terraform Datadog provider
@@ -90,6 +107,9 @@
 
 ## C
 
+* 【2023-06-07】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
+* 【2023-06-07】[Forairaaaaa / monica](https://github.com/Forairaaaaa/monica) - DIY Watch based on ESP32-S3 and Amoled screen
+* 【2023-06-07】[OpenDriver2 / REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 Playstation game reverse engineering effort
 * 【2023-06-05】[stellar / stellar-core](https://github.com/stellar/stellar-core) - stellar-core is the reference implementation for the peer to peer agent that manages the Stellar network
 * 【2023-06-04】[ba0gu0 / 520apkhook](https://github.com/ba0gu0/520apkhook) - 将安卓远控Apk附加进普通的App中，运行新生成的App时，普通App正常运行，远控正常上线。Attach the Android remote control APK to a regular app. When running the newly generated app, the regular app runs normally and the remote control goes online normally.
 * 【2023-06-01】[S3cur3Th1sSh1t / Ruy-Lopez](https://github.com/S3cur3Th1sSh1t/Ruy-Lopez) - 
@@ -98,6 +118,7 @@
 
 ## C++
 
+* 【2023-06-07】[axmolengine / axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A radical fork of Cocos2d-x-4.0)
 * 【2023-06-06】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * 【2023-06-05】[moonlight-stream / moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 * 【2023-06-04】[jarro2783 / cxxopts](https://github.com/jarro2783/cxxopts) - Lightweight C++ command line option parser
@@ -109,6 +130,7 @@
 
 ## C#
 
+* 【2023-06-07】[unvell / ReoGrid](https://github.com/unvell/ReoGrid) - Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc. Compatible with Excel 2007 (.xlsx) format and working on .NET 3.5 (or client profile), WPF and Android platform.
 * 【2023-06-06】[paulov-t / SIT.Core](https://github.com/paulov-t/SIT.Core) - An Escape From Tarkov BepInEx module designed to be used with SPT-Aki with the ultimate goal of "Offline" Coop
 * 【2023-06-04】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
 * 【2023-06-02】[serenity-is / Serenity](https://github.com/serenity-is/Serenity) - Business Apps Made Simple with Asp.Net Core MVC / TypeScript
@@ -119,6 +141,8 @@
 
 ## Html
 
+* 【2023-06-07】[sleaze / rarbg-db-dumps](https://github.com/sleaze/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
+* 【2023-06-07】[StringManolo / hackingTermux101](https://github.com/StringManolo/hackingTermux101) - Libro sobre hacking básico/avanzado en Termux
 * 【2023-06-05】[youssef-of-web / midone-template-html](https://github.com/youssef-of-web/midone-template-html) - 
 * 【2023-06-05】[kono-dada / Sakuranotoki-Chinese](https://github.com/kono-dada/Sakuranotoki-Chinese) - 樱之刻简中汉化
 * 【2023-06-04】[zserge / awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -145,6 +169,9 @@
 
 ## Unknown
 
+* 【2023-06-07】[InternLM / InternLM-techreport](https://github.com/InternLM/InternLM-techreport) - 
+* 【2023-06-07】[wddadk / Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
+* 【2023-06-07】[chencl1986 / Blog](https://github.com/chencl1986/Blog) - Welcome to lee's blog.
 * 【2023-06-06】[nevermore3d / Nevermore_Micro](https://github.com/nevermore3d/Nevermore_Micro) - Activated Carbon Filters. Bad smells or fumes, or complaints thereof, should not keep you from being a maker!
 * 【2023-06-06】[Tunas1337 / UV-K5-Modded-Firmwares](https://github.com/Tunas1337/UV-K5-Modded-Firmwares) - A collection of modified firmwares for the Quansheng UV-K5 radio.
 * 【2023-06-06】[AdmTal / chat-gpt-games](https://github.com/AdmTal/chat-gpt-games) - Prompts for playable games in ChatGPT
