@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-06-08】[jonasschmedtmann / ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
+* 【2023-06-08】[SysCV / sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
+* 【2023-06-08】[billxbf / ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models
+* 【2023-06-08】[fiatrete / OpenDAN-Personal-AI-OS](https://github.com/fiatrete/OpenDAN-Personal-AI-OS) - OpenDAN is an open source Personal AI OS , which consolidates various AI modules in one place for your personal use.
+* 【2023-06-08】[huggingface / chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 * 【2023-06-07】[foundryzero / binder-trace](https://github.com/foundryzero/binder-trace) - Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
 * 【2023-06-07】[HyperARCo / Mirador](https://github.com/HyperARCo/Mirador) - Mirador makes it easy to build impressive “Point of Interest” AR experiences, on Apple's new RealityKit framework.
 * 【2023-06-06】[huntabyte / shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte.
@@ -61,6 +66,12 @@
 
 ## Python
 
+* 【2023-06-08】[OpenBMB / ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
+* 【2023-06-08】[ChristianLempa / videos](https://github.com/ChristianLempa/videos) - This is my video documentation. Here you'll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos.
+* 【2023-06-08】[argilla-io / argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
+* 【2023-06-08】[salesforce / UniControl](https://github.com/salesforce/UniControl) - Unified Controllable Visual Generation Model
+* 【2023-06-08】[marella / chatdocs](https://github.com/marella/chatdocs) - Chat with your documents offline using AI.
+* 【2023-06-08】[wonderfulsuccess / weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) - 稳定工作4年的微信公众号爬虫 Based on python and vuejs 微信公众号采集 Python爬虫 公众号采集 公众号爬虫 公众号备份
 * 【2023-06-07】[Lightning-AI / lit-parrot](https://github.com/Lightning-AI/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * 【2023-06-07】[yxuansu / PandaGPT](https://github.com/yxuansu/PandaGPT) - PandaGPT: One Model To Instruction-Follow Them All
 * 【2023-06-07】[reactive-python / reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
@@ -83,6 +94,8 @@
 
 ## Javascript
 
+* 【2023-06-08】[ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
+* 【2023-06-08】[sabber-slt / telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
 * 【2023-06-07】[xyTom / Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
 * 【2023-06-07】[eggjs / egg](https://github.com/eggjs/egg) - 🥚Born to build better enterprise frameworks and apps with Node.js & Koa
 * 【2023-06-07】[newrelic / docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
@@ -99,6 +112,7 @@
 
 ## Go
 
+* 【2023-06-08】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-06-07】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2023-06-06】[trzsz / trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
 * 【2023-06-05】[jarvanstack / mysqldump](https://github.com/jarvanstack/mysqldump) - A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
@@ -118,6 +132,7 @@
 
 ## C++
 
+* 【2023-06-08】[ZeroMemoryEx / Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
 * 【2023-06-07】[axmolengine / axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A radical fork of Cocos2d-x-4.0)
 * 【2023-06-06】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 * 【2023-06-05】[moonlight-stream / moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -130,6 +145,9 @@
 
 ## C#
 
+* 【2023-06-08】[Dec0ne / DavRelayUp](https://github.com/Dec0ne/DavRelayUp) - DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
+* 【2023-06-08】[daem0nc0re / PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
+* 【2023-06-08】[SciSharp / TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
 * 【2023-06-07】[unvell / ReoGrid](https://github.com/unvell/ReoGrid) - Fast and powerful .NET spreadsheet component, support data format, freeze, outline, formula calculation, chart, script execution and etc. Compatible with Excel 2007 (.xlsx) format and working on .NET 3.5 (or client profile), WPF and Android platform.
 * 【2023-06-06】[paulov-t / SIT.Core](https://github.com/paulov-t/SIT.Core) - An Escape From Tarkov BepInEx module designed to be used with SPT-Aki with the ultimate goal of "Offline" Coop
 * 【2023-06-04】[izhaorui / Zr.Admin.NET](https://github.com/izhaorui/Zr.Admin.NET) - 🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。
@@ -141,6 +159,7 @@
 
 ## Html
 
+* 【2023-06-08】[LecterChu / nwpu-cram](https://github.com/LecterChu/nwpu-cram) - 西北工业大学/西工大/nwpu/npu软件学院复习(突击)资料！！
 * 【2023-06-07】[sleaze / rarbg-db-dumps](https://github.com/sleaze/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
 * 【2023-06-07】[StringManolo / hackingTermux101](https://github.com/StringManolo/hackingTermux101) - Libro sobre hacking básico/avanzado en Termux
 * 【2023-06-05】[youssef-of-web / midone-template-html](https://github.com/youssef-of-web/midone-template-html) - 
@@ -155,6 +174,10 @@
 
 ## Css
 
+* 【2023-06-08】[chenxudong2020 / Padavan-build](https://github.com/chenxudong2020/Padavan-build) - 
+* 【2023-06-08】[CodeYourFuture / JavaScript-Core-3-Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) - 
+* 【2023-06-08】[zuzumi-f / Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
+* 【2023-06-08】[PlexPt / chatgpt-online-springboot](https://github.com/PlexPt/chatgpt-online-springboot) - chatgpt online demo for springboot. 带前端界面的chatgpt springboot 示例.
 * 【2023-06-05】[anmode / grabtern-frontend](https://github.com/anmode/grabtern-frontend) - Connecting the mentors and creating a network
 * 【2023-06-04】[pronane / shamrocks.github.com](https://github.com/pronane/shamrocks.github.com) - 
 * 【2023-06-03】[byarin90 / copyLayout](https://github.com/byarin90/copyLayout) - https://copylayout.netlify.app/
@@ -169,6 +192,9 @@
 
 ## Unknown
 
+* 【2023-06-08】[Furkan-Gulsen / turkce-go-egitimi](https://github.com/Furkan-Gulsen/turkce-go-egitimi) - Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.
+* 【2023-06-08】[snwfdhmp / awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
+* 【2023-06-08】[h9-tect / ML-DL_Roadmap.](https://github.com/h9-tect/ML-DL_Roadmap.) - 
 * 【2023-06-07】[InternLM / InternLM-techreport](https://github.com/InternLM/InternLM-techreport) - 
 * 【2023-06-07】[wddadk / Offensive-OSINT-Tools](https://github.com/wddadk/Offensive-OSINT-Tools) - OffSec OSINT Pentest/RedTeam Tools
 * 【2023-06-07】[chencl1986 / Blog](https://github.com/chencl1986/Blog) - Welcome to lee's blog.
