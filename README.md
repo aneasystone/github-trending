@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-06-09】[apple / homebrew-apple](https://github.com/apple/homebrew-apple) - 
+* 【2023-06-09】[SynthstromAudible / DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) - 
+* 【2023-06-09】[ciaochaos / qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com
+* 【2023-06-09】[ChristianLempa / boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+* 【2023-06-09】[zsylvester / segmenteverygrain](https://github.com/zsylvester/segmenteverygrain) - A SAM-based model for instance segmentation of images of grains
 * 【2023-06-08】[jonasschmedtmann / ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course) - Starter files, final projects, and FAQ for my Ultimate React course
 * 【2023-06-08】[SysCV / sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
 * 【2023-06-08】[billxbf / ReWOO](https://github.com/billxbf/ReWOO) - Decoupling Reasoning from Observations for Efficient Augmented Language Models
@@ -48,6 +53,7 @@
 
 ## Java
 
+* 【2023-06-09】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 * 【2023-06-07】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 * 【2023-06-07】[donaldlee2008 / FaceRecognition](https://github.com/donaldlee2008/FaceRecognition) - A FaceRecognition Software Based on Java
 * 【2023-06-07】[apeto2 / gpt-commercial](https://github.com/apeto2/gpt-commercial) - 本项目是一个商用版服务平台，基于Java语言实现服务端功能，前端使用React框架，底层使用官方的ChatGPT API。用户可以通过一键部署方便地使用本平台。除了支持chat对话模型外，还支持openai官方所有api，包括余额查询、模型检索、Completions chatgpt对话、Images 图片模型、模型自定义训练、文件上传自定义模型、微调、文本审核和敏感词鉴别，以及GPT 3.5、4.0和4.0-32k等功能。
@@ -66,6 +72,9 @@
 
 ## Python
 
+* 【2023-06-09】[hiyouga / LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)
+* 【2023-06-09】[goldfishh / chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
+* 【2023-06-09】[dreamhunter2333 / python_PlateRecogntion](https://github.com/dreamhunter2333/python_PlateRecogntion) - python opencv 车牌识别 PlateRecogntion
 * 【2023-06-08】[OpenBMB / ToolBench](https://github.com/OpenBMB/ToolBench) - An open platform for training, serving, and evaluating large language model for tool learning.
 * 【2023-06-08】[ChristianLempa / videos](https://github.com/ChristianLempa/videos) - This is my video documentation. Here you'll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos.
 * 【2023-06-08】[argilla-io / argilla](https://github.com/argilla-io/argilla) - ✨Argilla: the open-source data curation platform for LLMs
@@ -94,6 +103,8 @@
 
 ## Javascript
 
+* 【2023-06-09】[NaturalIntelligence / fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
+* 【2023-06-09】[Blockstream / greenlight](https://github.com/Blockstream/greenlight) - 
 * 【2023-06-08】[ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
 * 【2023-06-08】[sabber-slt / telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
 * 【2023-06-07】[xyTom / Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
@@ -112,6 +123,7 @@
 
 ## Go
 
+* 【2023-06-09】[brianvoe / gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 * 【2023-06-08】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-06-07】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
 * 【2023-06-06】[trzsz / trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 内置支持 trzsz ( trz / tsz ) 的 ssh 客户端，支持选择（ 搜索 ）服务器进行登录。
@@ -121,6 +133,7 @@
 
 ## C
 
+* 【2023-06-09】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 * 【2023-06-07】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 * 【2023-06-07】[Forairaaaaa / monica](https://github.com/Forairaaaaa/monica) - DIY Watch based on ESP32-S3 and Amoled screen
 * 【2023-06-07】[OpenDriver2 / REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) - Driver 2 Playstation game reverse engineering effort
@@ -145,6 +158,8 @@
 
 ## C#
 
+* 【2023-06-09】[rafi1212122 / PemukulPaku](https://github.com/rafi1212122/PemukulPaku) - A private server implementation for a third impact game but made in see sharp
+* 【2023-06-09】[neon-nyan / Collapse](https://github.com/neon-nyan/Collapse) - An Advanced Launcher for miHoYo Games
 * 【2023-06-08】[Dec0ne / DavRelayUp](https://github.com/Dec0ne/DavRelayUp) - DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
 * 【2023-06-08】[daem0nc0re / PrivFu](https://github.com/daem0nc0re/PrivFu) - Kernel mode WinDbg extension and PoCs for token privilege investigation.
 * 【2023-06-08】[SciSharp / TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
@@ -159,6 +174,8 @@
 
 ## Html
 
+* 【2023-06-09】[apache / pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site
+* 【2023-06-09】[beejjorgensen / bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 * 【2023-06-08】[LecterChu / nwpu-cram](https://github.com/LecterChu/nwpu-cram) - 西北工业大学/西工大/nwpu/npu软件学院复习(突击)资料！！
 * 【2023-06-07】[sleaze / rarbg-db-dumps](https://github.com/sleaze/rarbg-db-dumps) - My personal RARBG database dumps - R.I.P. rbg and thank you for your service
 * 【2023-06-07】[StringManolo / hackingTermux101](https://github.com/StringManolo/hackingTermux101) - Libro sobre hacking básico/avanzado en Termux
@@ -174,6 +191,7 @@
 
 ## Css
 
+* 【2023-06-09】[PrismLauncher / prismlauncher.org](https://github.com/PrismLauncher/prismlauncher.org) - The Prism Launcher website.
 * 【2023-06-08】[chenxudong2020 / Padavan-build](https://github.com/chenxudong2020/Padavan-build) - 
 * 【2023-06-08】[CodeYourFuture / JavaScript-Core-3-Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) - 
 * 【2023-06-08】[zuzumi-f / Discord-11](https://github.com/zuzumi-f/Discord-11) - Theme based in windows 11 new UI | Support server: https://discord.gg/PsNtzGeHuW
@@ -192,6 +210,7 @@
 
 ## Unknown
 
+* 【2023-06-09】[pseudoyu / yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 * 【2023-06-08】[Furkan-Gulsen / turkce-go-egitimi](https://github.com/Furkan-Gulsen/turkce-go-egitimi) - Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.
 * 【2023-06-08】[snwfdhmp / awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 * 【2023-06-08】[h9-tect / ML-DL_Roadmap.](https://github.com/h9-tect/ML-DL_Roadmap.) - 
