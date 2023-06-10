@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2023-06-10】[MCRcortex / nekodetector](https://github.com/MCRcortex/nekodetector) - Nekoclient infection detector
+* 【2023-06-10】[xinyu1205 / Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) - Code for the Recognize Anything Model and Tag2Text Model
+* 【2023-06-10】[Hufe921 / canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
+* 【2023-06-10】[IsaacMarovitz / Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
+* 【2023-06-10】[fractureiser-investigation / fractureiser](https://github.com/fractureiser-investigation/fractureiser) - Information about the fractureiser malware
+* 【2023-06-10】[BradyFU / Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) - Latest Papers and Datasets on Multimodal Large Language Models
+* 【2023-06-10】[camenduru / text-to-video-synthesis-colab](https://github.com/camenduru/text-to-video-synthesis-colab) - Text To Video Synthesis Colab
+* 【2023-06-10】[Vahe1994 / SpQR](https://github.com/Vahe1994/SpQR) - 
+* 【2023-06-10】[Cyfrin / foundry-full-course-f23](https://github.com/Cyfrin/foundry-full-course-f23) - 
 * 【2023-06-09】[apple / homebrew-apple](https://github.com/apple/homebrew-apple) - 
 * 【2023-06-09】[SynthstromAudible / DelugeFirmware](https://github.com/SynthstromAudible/DelugeFirmware) - 
 * 【2023-06-09】[ciaochaos / qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier. 艺术二维码生成器。https://qrbtf.com
@@ -53,6 +62,8 @@
 
 ## Java
 
+* 【2023-06-10】[clrxbl / NekoClient](https://github.com/clrxbl/NekoClient) - Deobfuscated June 2023 CurseForge malware ("fractureiser") stage 3 payload
+* 【2023-06-10】[FlyJingFish / OpenImage](https://github.com/FlyJingFish/OpenImage) - 🔥🔥🔥查看大图、查看视频、图片浏览器，完美的甚至完胜微信的打开过渡动画，支持手势放大缩小图片，支持下拉手势返回，支持自定义图片加载库，支持自定义视频库，支持自定义所有UI
 * 【2023-06-09】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
 * 【2023-06-07】[openzipkin / zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
 * 【2023-06-07】[donaldlee2008 / FaceRecognition](https://github.com/donaldlee2008/FaceRecognition) - A FaceRecognition Software Based on Java
@@ -72,6 +83,12 @@
 
 ## Python
 
+* 【2023-06-10】[TigerResearch / TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
+* 【2023-06-10】[deepmind / alphadev](https://github.com/deepmind/alphadev) - 
+* 【2023-06-10】[Ma-Lab-Berkeley / CRATE](https://github.com/Ma-Lab-Berkeley/CRATE) - Code for CRATE (Coding RAte reduction TransformEr).
+* 【2023-06-10】[win3zz / CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) - CVE-2023-25157 - GeoServer SQL Injection - PoC
+* 【2023-06-10】[DAMO-NLP-SG / Video-LLaMA](https://github.com/DAMO-NLP-SG/Video-LLaMA) - Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding
+* 【2023-06-10】[mikel-brostrom / yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) - A collection of SOTA real-time, multi-object trackers for object detectors
 * 【2023-06-09】[hiyouga / LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning) - Fine-tuning LLaMA with PEFT (PT+SFT+RLHF with QLoRA)
 * 【2023-06-09】[goldfishh / chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 * 【2023-06-09】[dreamhunter2333 / python_PlateRecogntion](https://github.com/dreamhunter2333/python_PlateRecogntion) - python opencv 车牌识别 PlateRecogntion
@@ -103,6 +120,7 @@
 
 ## Javascript
 
+* 【2023-06-10】[Pulya10c / news-JS](https://github.com/Pulya10c/news-JS) - 
 * 【2023-06-09】[NaturalIntelligence / fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 * 【2023-06-09】[Blockstream / greenlight](https://github.com/Blockstream/greenlight) - 
 * 【2023-06-08】[ryanburgess / engineer-manager](https://github.com/ryanburgess/engineer-manager) - A list of engineering manager resource links.
@@ -123,6 +141,9 @@
 
 ## Go
 
+* 【2023-06-10】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
+* 【2023-06-10】[adeljck / QAX_VPN_Crack](https://github.com/adeljck/QAX_VPN_Crack) - 奇安信VPN任意用户密码重置
+* 【2023-06-10】[argoproj-labs / argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
 * 【2023-06-09】[brianvoe / gofakeit](https://github.com/brianvoe/gofakeit) - Random fake data generator written in go
 * 【2023-06-08】[daeuniverse / dae](https://github.com/daeuniverse/dae) - A Linux high-performance transparent proxy solution based on eBPF.
 * 【2023-06-07】[deepflowio / deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
@@ -133,6 +154,7 @@
 
 ## C
 
+* 【2023-06-10】[Octoberfest7 / DropSpawn_BOF](https://github.com/Octoberfest7/DropSpawn_BOF) - CobaltStrike BOF to spawn Beacons using DLL Application Directory Hijacking
 * 【2023-06-09】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 * 【2023-06-07】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 * 【2023-06-07】[Forairaaaaa / monica](https://github.com/Forairaaaaa/monica) - DIY Watch based on ESP32-S3 and Amoled screen
@@ -158,6 +180,8 @@
 
 ## C#
 
+* 【2023-06-10】[overwolf / detection-tool](https://github.com/overwolf/detection-tool) - 
+* 【2023-06-10】[Azure-Samples / miyagi](https://github.com/Azure-Samples/miyagi) - Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
 * 【2023-06-09】[rafi1212122 / PemukulPaku](https://github.com/rafi1212122/PemukulPaku) - A private server implementation for a third impact game but made in see sharp
 * 【2023-06-09】[neon-nyan / Collapse](https://github.com/neon-nyan/Collapse) - An Advanced Launcher for miHoYo Games
 * 【2023-06-08】[Dec0ne / DavRelayUp](https://github.com/Dec0ne/DavRelayUp) - DavRelayUp - a universal no-fix local privilege escalation in domain-joined windows workstations where LDAP signing is not enforced (the default settings).
@@ -174,6 +198,8 @@
 
 ## Html
 
+* 【2023-06-10】[kargisimos / offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.
+* 【2023-06-10】[reriiasu / speech-to-text](https://github.com/reriiasu/speech-to-text) - Real-time transcription using faster-whisper
 * 【2023-06-09】[apache / pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site
 * 【2023-06-09】[beejjorgensen / bgnet](https://github.com/beejjorgensen/bgnet) - Beej's Guide to Network Programming source
 * 【2023-06-08】[LecterChu / nwpu-cram](https://github.com/LecterChu/nwpu-cram) - 西北工业大学/西工大/nwpu/npu软件学院复习(突击)资料！！
@@ -191,6 +217,9 @@
 
 ## Css
 
+* 【2023-06-10】[kyobero / poster-shop](https://github.com/kyobero/poster-shop) - poster-shop
+* 【2023-06-10】[codepath / site-week1-project1-flixster-starter](https://github.com/codepath/site-week1-project1-flixster-starter) - CURRENT - 2023 SITE Starter code for Flixster assignment
+* 【2023-06-10】[hanameee / mini-signup-form](https://github.com/hanameee/mini-signup-form) - 미니 사전과제 1. 회원가입 폼 for FastCampus
 * 【2023-06-09】[PrismLauncher / prismlauncher.org](https://github.com/PrismLauncher/prismlauncher.org) - The Prism Launcher website.
 * 【2023-06-08】[chenxudong2020 / Padavan-build](https://github.com/chenxudong2020/Padavan-build) - 
 * 【2023-06-08】[CodeYourFuture / JavaScript-Core-3-Challenges](https://github.com/CodeYourFuture/JavaScript-Core-3-Challenges) - 
@@ -210,6 +239,9 @@
 
 ## Unknown
 
+* 【2023-06-10】[UncensoredHiddenWiki / onion-links](https://github.com/UncensoredHiddenWiki/onion-links) - The Hidden Wiki
+* 【2023-06-10】[spekulatius / infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
+* 【2023-06-10】[apple / device-management](https://github.com/apple/device-management) - Device management schema data for MDM.
 * 【2023-06-09】[pseudoyu / yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 * 【2023-06-08】[Furkan-Gulsen / turkce-go-egitimi](https://github.com/Furkan-Gulsen/turkce-go-egitimi) - Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.
 * 【2023-06-08】[snwfdhmp / awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
