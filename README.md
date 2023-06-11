@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-06-11】[christianselig / apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
+* 【2023-06-11】[iv-org / invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+* 【2023-06-11】[Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
+* 【2023-06-11】[QiuChenlyOpenSource / MyMacsAppCrack](https://github.com/QiuChenlyOpenSource/MyMacsAppCrack) - MacBook 自用软件破解（macOS Intel）
+* 【2023-06-11】[FranxYao / chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
 * 【2023-06-10】[MCRcortex / nekodetector](https://github.com/MCRcortex/nekodetector) - Nekoclient infection detector
 * 【2023-06-10】[xinyu1205 / Recognize_Anything-Tag2Text](https://github.com/xinyu1205/Recognize_Anything-Tag2Text) - Code for the Recognize Anything Model and Tag2Text Model
 * 【2023-06-10】[Hufe921 / canvas-editor](https://github.com/Hufe921/canvas-editor) - rich text editor by canvas/svg
@@ -83,6 +88,10 @@
 
 ## Python
 
+* 【2023-06-11】[OpenBuddy / OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
+* 【2023-06-11】[minimaxir / simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
+* 【2023-06-11】[serge-chat / serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+* 【2023-06-11】[xaviviro / refacer](https://github.com/xaviviro/refacer) - Refacer: One-Click Deepfake Multi-Face Swap Tool
 * 【2023-06-10】[TigerResearch / TigerBot](https://github.com/TigerResearch/TigerBot) - TigerBot: A multi-language multi-task LLM
 * 【2023-06-10】[deepmind / alphadev](https://github.com/deepmind/alphadev) - 
 * 【2023-06-10】[Ma-Lab-Berkeley / CRATE](https://github.com/Ma-Lab-Berkeley/CRATE) - Code for CRATE (Coding RAte reduction TransformEr).
@@ -120,6 +129,9 @@
 
 ## Javascript
 
+* 【2023-06-11】[mleoking / PromptAppGPT](https://github.com/mleoking/PromptAppGPT) - A rapid prompt app development framework based on GPT
+* 【2023-06-11】[SillyTavern / SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
+* 【2023-06-11】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
 * 【2023-06-10】[Pulya10c / news-JS](https://github.com/Pulya10c/news-JS) - 
 * 【2023-06-09】[NaturalIntelligence / fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 * 【2023-06-09】[Blockstream / greenlight](https://github.com/Blockstream/greenlight) - 
@@ -141,6 +153,8 @@
 
 ## Go
 
+* 【2023-06-11】[terramate-io / terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
+* 【2023-06-11】[dgrijalva / jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 * 【2023-06-10】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
 * 【2023-06-10】[adeljck / QAX_VPN_Crack](https://github.com/adeljck/QAX_VPN_Crack) - 奇安信VPN任意用户密码重置
 * 【2023-06-10】[argoproj-labs / argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
@@ -154,6 +168,9 @@
 
 ## C
 
+* 【2023-06-11】[tsoding / SmoothLife](https://github.com/tsoding/SmoothLife) - SmoothLife Implementation in C
+* 【2023-06-11】[baiyies / ScreenshotBOFPlus](https://github.com/baiyies/ScreenshotBOFPlus) - Take a screenshot without injection for Cobalt Strike
+* 【2023-06-11】[github / securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
 * 【2023-06-10】[Octoberfest7 / DropSpawn_BOF](https://github.com/Octoberfest7/DropSpawn_BOF) - CobaltStrike BOF to spawn Beacons using DLL Application Directory Hijacking
 * 【2023-06-09】[GNOME / libxml2](https://github.com/GNOME/libxml2) - Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2
 * 【2023-06-07】[marella / ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
@@ -167,6 +184,7 @@
 
 ## C++
 
+* 【2023-06-11】[eversinc33 / Banshee](https://github.com/eversinc33/Banshee) - Experimental Windows x64 Kernel Rootkit.
 * 【2023-06-08】[ZeroMemoryEx / Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
 * 【2023-06-07】[axmolengine / axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A radical fork of Cocos2d-x-4.0)
 * 【2023-06-06】[AntiMicroX / antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
@@ -180,6 +198,10 @@
 
 ## C#
 
+* 【2023-06-11】[florylsk / SignatureGate](https://github.com/florylsk/SignatureGate) - Weaponized HellsGate/SigFlip
+* 【2023-06-11】[overwolf / jar-infection-scanner](https://github.com/overwolf/jar-infection-scanner) - Scan jar files for known infections
+* 【2023-06-11】[crashkonijn / GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity
+* 【2023-06-11】[WWILLV / GodOfHacker](https://github.com/WWILLV/GodOfHacker) - 黑客神器
 * 【2023-06-10】[overwolf / detection-tool](https://github.com/overwolf/detection-tool) - 
 * 【2023-06-10】[Azure-Samples / miyagi](https://github.com/Azure-Samples/miyagi) - Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
 * 【2023-06-09】[rafi1212122 / PemukulPaku](https://github.com/rafi1212122/PemukulPaku) - A private server implementation for a third impact game but made in see sharp
@@ -198,6 +220,7 @@
 
 ## Html
 
+* 【2023-06-11】[rough-stuff / rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 * 【2023-06-10】[kargisimos / offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.
 * 【2023-06-10】[reriiasu / speech-to-text](https://github.com/reriiasu/speech-to-text) - Real-time transcription using faster-whisper
 * 【2023-06-09】[apache / pulsar-site](https://github.com/apache/pulsar-site) - Apache Pulsar Site
@@ -217,6 +240,8 @@
 
 ## Css
 
+* 【2023-06-11】[Q16G / npsmodify](https://github.com/Q16G/npsmodify) - 这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复
+* 【2023-06-11】[ParisNeo / lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 * 【2023-06-10】[kyobero / poster-shop](https://github.com/kyobero/poster-shop) - poster-shop
 * 【2023-06-10】[codepath / site-week1-project1-flixster-starter](https://github.com/codepath/site-week1-project1-flixster-starter) - CURRENT - 2023 SITE Starter code for Flixster assignment
 * 【2023-06-10】[hanameee / mini-signup-form](https://github.com/hanameee/mini-signup-form) - 미니 사전과제 1. 회원가입 폼 for FastCampus
@@ -239,6 +264,13 @@
 
 ## Unknown
 
+* 【2023-06-11】[jenndryden / Canadian-Tech-Internships-Summer-2024](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) - Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2024
+* 【2023-06-11】[Visualize-ML / Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization) - Book_2_《可视之美》 | 鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，预计6月初开始上传新版
+* 【2023-06-11】[devcontainers / spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+* 【2023-06-11】[XiaoxinHe / Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - A collection of AWESOME things about Graph-Related LLMs.
+* 【2023-06-11】[rwaldron / idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* 【2023-06-11】[unAlpha / Sharing](https://github.com/unAlpha/Sharing) - 用于分享散步的彭导视频中的内容
+* 【2023-06-11】[marud1024 / 1024](https://github.com/marud1024/1024) - 
 * 【2023-06-10】[UncensoredHiddenWiki / onion-links](https://github.com/UncensoredHiddenWiki/onion-links) - The Hidden Wiki
 * 【2023-06-10】[spekulatius / infosec-dorks](https://github.com/spekulatius/infosec-dorks) - A Personal Collection of Infosec Dorks
 * 【2023-06-10】[apple / device-management](https://github.com/apple/device-management) - Device management schema data for MDM.
