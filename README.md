@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-06-12】[facebookresearch / audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+* 【2023-06-12】[Licoy / ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
+* 【2023-06-12】[antfu / raycast-multi-translate](https://github.com/antfu/raycast-multi-translate) - A Raycast extension that translates text to multiple languages at once
+* 【2023-06-12】[n4ze3m / dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
+* 【2023-06-12】[CHNZYX / Auto_Simulated_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe) - 崩坏：星穹铁道 模拟宇宙自动化 （Honkai Star Rail - Auto Simulated Universe）
+* 【2023-06-12】[LemmyNet / lemmy-ui](https://github.com/LemmyNet/lemmy-ui) - The official web app for lemmy.
+* 【2023-06-12】[adrianhajdin / project_next13_car_showcase](https://github.com/adrianhajdin/project_next13_car_showcase) - Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+* 【2023-06-12】[iv-org / documentation](https://github.com/iv-org/documentation) - The official Invidious documentation
 * 【2023-06-11】[christianselig / apollo-backend](https://github.com/christianselig/apollo-backend) - Apollo backend server
 * 【2023-06-11】[iv-org / invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 * 【2023-06-11】[Mintplex-Labs / anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
@@ -67,6 +75,10 @@
 
 ## Java
 
+* 【2023-06-12】[discord-jda / JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
+* 【2023-06-12】[UniversalMediaServer / UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
+* 【2023-06-12】[gitbitex / gitbitex-new](https://github.com/gitbitex/gitbitex-new) - an open source cryptocurrency exchange
+* 【2023-06-12】[QuantumBadger / RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 * 【2023-06-10】[clrxbl / NekoClient](https://github.com/clrxbl/NekoClient) - Deobfuscated June 2023 CurseForge malware ("fractureiser") stage 3 payload
 * 【2023-06-10】[FlyJingFish / OpenImage](https://github.com/FlyJingFish/OpenImage) - 🔥🔥🔥查看大图、查看视频、图片浏览器，完美的甚至完胜微信的打开过渡动画，支持手势放大缩小图片，支持下拉手势返回，支持自定义图片加载库，支持自定义视频库，支持自定义所有UI
 * 【2023-06-09】[Sayi / poi-tl](https://github.com/Sayi/poi-tl) - Generate awesome word(docx) with template
@@ -88,6 +100,8 @@
 
 ## Python
 
+* 【2023-06-12】[Safiullah-Rahu / CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and analyze your CSV files in one convenient place.
+* 【2023-06-12】[SHI-Labs / Matting-Anything](https://github.com/SHI-Labs/Matting-Anything) - Matting Anything Model (MAM), an efficient and versatile framework for estimating the alpha matte of any instance in an image with flexible and interactive visual or linguistic user prompt guidance.
 * 【2023-06-11】[OpenBuddy / OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
 * 【2023-06-11】[minimaxir / simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
 * 【2023-06-11】[serge-chat / serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
@@ -129,6 +143,10 @@
 
 ## Javascript
 
+* 【2023-06-12】[idurar / idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+* 【2023-06-12】[Tanza3D / reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
+* 【2023-06-12】[j0be / PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
+* 【2023-06-12】[bradtraversy / proshop-v2](https://github.com/bradtraversy/proshop-v2) - ProShop ecommerce website built with MERN & Redux Toolkit
 * 【2023-06-11】[mleoking / PromptAppGPT](https://github.com/mleoking/PromptAppGPT) - A rapid prompt app development framework based on GPT
 * 【2023-06-11】[SillyTavern / SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 * 【2023-06-11】[Pythagora-io / pythagora](https://github.com/Pythagora-io/pythagora) - Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
@@ -153,6 +171,9 @@
 
 ## Go
 
+* 【2023-06-12】[getzep / zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
+* 【2023-06-12】[tmc / langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
+* 【2023-06-12】[sevtin / lark](https://github.com/sevtin/lark) - Golang千万级IM服务端，支持集群和水平扩展，万人群消息秒达。
 * 【2023-06-11】[terramate-io / terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
 * 【2023-06-11】[dgrijalva / jwt-go](https://github.com/dgrijalva/jwt-go) - ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
 * 【2023-06-10】[apecloud / kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
@@ -168,6 +189,7 @@
 
 ## C
 
+* 【2023-06-12】[dresden-elektronik / deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 * 【2023-06-11】[tsoding / SmoothLife](https://github.com/tsoding/SmoothLife) - SmoothLife Implementation in C
 * 【2023-06-11】[baiyies / ScreenshotBOFPlus](https://github.com/baiyies/ScreenshotBOFPlus) - Take a screenshot without injection for Cobalt Strike
 * 【2023-06-11】[github / securitylab](https://github.com/github/securitylab) - Resources related to GitHub Security Lab
@@ -184,6 +206,7 @@
 
 ## C++
 
+* 【2023-06-12】[acidanthera / AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 * 【2023-06-11】[eversinc33 / Banshee](https://github.com/eversinc33/Banshee) - Experimental Windows x64 Kernel Rootkit.
 * 【2023-06-08】[ZeroMemoryEx / Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
 * 【2023-06-07】[axmolengine / axmol](https://github.com/axmolengine/axmol) - Axmol Engine – A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A radical fork of Cocos2d-x-4.0)
@@ -198,6 +221,10 @@
 
 ## C#
 
+* 【2023-06-12】[andrewmd5 / orion](https://github.com/andrewmd5/orion) - a command-line game launcher for the Game Porting Toolkit
+* 【2023-06-12】[dariogriffo / ApiKeySample](https://github.com/dariogriffo/ApiKeySample) - An API Key api authentication/authorization example
+* 【2023-06-12】[bostrot / PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) - Winget plugin for PowerToys Run
+* 【2023-06-12】[jongeorge1 / FizzBuzzEnterpriseEdition-CSharp](https://github.com/jongeorge1/FizzBuzzEnterpriseEdition-CSharp) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by a serious businessman for serious business purposes. It's a port of the original Java https://github.com/Mikkeren/FizzBuzzEnterpriseEdition
 * 【2023-06-11】[florylsk / SignatureGate](https://github.com/florylsk/SignatureGate) - Weaponized HellsGate/SigFlip
 * 【2023-06-11】[overwolf / jar-infection-scanner](https://github.com/overwolf/jar-infection-scanner) - Scan jar files for known infections
 * 【2023-06-11】[crashkonijn / GOAP](https://github.com/crashkonijn/GOAP) - A multi-threaded GOAP system for Unity
@@ -220,6 +247,9 @@
 
 ## Html
 
+* 【2023-06-12】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
+* 【2023-06-12】[tech2etc / Build-and-Deploy-Ecommerce-Website](https://github.com/tech2etc/Build-and-Deploy-Ecommerce-Website) - Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.
+* 【2023-06-12】[HEIGE-PCloud / DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 * 【2023-06-11】[rough-stuff / rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 * 【2023-06-10】[kargisimos / offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters, malware developers, reverse engineers and anyone who is just interested in infosec topics.
 * 【2023-06-10】[reriiasu / speech-to-text](https://github.com/reriiasu/speech-to-text) - Real-time transcription using faster-whisper
@@ -240,6 +270,7 @@
 
 ## Css
 
+* 【2023-06-12】[tdesign-blazor / TDesignBlazor](https://github.com/tdesign-blazor/TDesignBlazor) - 基于腾讯 TDesign 的 Blazor 组件库
 * 【2023-06-11】[Q16G / npsmodify](https://github.com/Q16G/npsmodify) - 这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复
 * 【2023-06-11】[ParisNeo / lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 * 【2023-06-10】[kyobero / poster-shop](https://github.com/kyobero/poster-shop) - poster-shop
@@ -264,6 +295,9 @@
 
 ## Unknown
 
+* 【2023-06-12】[cert-orangecyberdefense / ransomware_map](https://github.com/cert-orangecyberdefense/ransomware_map) - Map tracking ransomware, by OCD World Watch team
+* 【2023-06-12】[dave1010 / tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
+* 【2023-06-12】[the-markup / xandr-audience-segments](https://github.com/the-markup/xandr-audience-segments) - 
 * 【2023-06-11】[jenndryden / Canadian-Tech-Internships-Summer-2024](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) - Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2024
 * 【2023-06-11】[Visualize-ML / Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization) - Book_2_《可视之美》 | 鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，预计6月初开始上传新版
 * 【2023-06-11】[devcontainers / spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
