@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-13】[apple / sample-backyard-birds](https://github.com/apple/sample-backyard-birds) - 
+* 【2023-06-13】[dessalines / jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
+* 【2023-06-13】[LemmyNet / lemmy](https://github.com/LemmyNet/lemmy) - 🐀A link aggregator and forum for the fediverse
 * 【2023-06-12】[facebookresearch / audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 * 【2023-06-12】[Licoy / ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) - 🎨一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
 * 【2023-06-12】[antfu / raycast-multi-translate](https://github.com/antfu/raycast-multi-translate) - A Raycast extension that translates text to multiple languages at once
@@ -75,6 +78,7 @@
 
 ## Java
 
+* 【2023-06-13】[4ra1n / mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - MySQL Fake Server (纯Java实现，内置常见Java反序列化Payload，支持GUI版和命令行版，提供Dockerfile)
 * 【2023-06-12】[discord-jda / JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 * 【2023-06-12】[UniversalMediaServer / UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 * 【2023-06-12】[gitbitex / gitbitex-new](https://github.com/gitbitex/gitbitex-new) - an open source cryptocurrency exchange
@@ -100,6 +104,13 @@
 
 ## Python
 
+* 【2023-06-13】[xtekky / gpt4free-discord](https://github.com/xtekky/gpt4free-discord) - Gpt4Free basic disord bot, streamed responses, gpt-4 and more
+* 【2023-06-13】[nv-tlabs / NKSR](https://github.com/nv-tlabs/NKSR) - [CVPR 2023 Highlight] Neural Kernel Surface Reconstruction
+* 【2023-06-13】[yasserbdj96 / hiphp](https://github.com/yasserbdj96/hiphp) - The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80's POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security.
+* 【2023-06-13】[OpenAccess-AI-Collective / axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
+* 【2023-06-13】[jtydhr88 / sd-webui-txt-img-to-3d-model](https://github.com/jtydhr88/sd-webui-txt-img-to-3d-model) - A custom extension for sd-webui that allow you to generate 3D model from txt or image, basing on OpenAI Shap-E.
+* 【2023-06-13】[zyddnys / manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
+* 【2023-06-13】[lonerge / tiktok_youtube_douyin_handling](https://github.com/lonerge/tiktok_youtube_douyin_handling) - 爬虫可视化; tiktok无水印视频; youtube无水印视频; 抖音无水印视频 视频搬运: tiktok/youtube的视频搬运到抖音; 抖音的视频搬运到tiktok获取youtube平台 搬运中的发布视频使用的selenium
 * 【2023-06-12】[Safiullah-Rahu / CSV-AI](https://github.com/Safiullah-Rahu/CSV-AI) - CSV-AI is the ultimate app powered by LangChain, OpenAI, and Streamlit that allows you to unlock hidden insights in your CSV files. With CSV-AI, you can effortlessly interact with, summarize, and analyze your CSV files in one convenient place.
 * 【2023-06-12】[SHI-Labs / Matting-Anything](https://github.com/SHI-Labs/Matting-Anything) - Matting Anything Model (MAM), an efficient and versatile framework for estimating the alpha matte of any instance in an image with flexible and interactive visual or linguistic user prompt guidance.
 * 【2023-06-11】[OpenBuddy / OpenBuddy](https://github.com/OpenBuddy/OpenBuddy) - Open Multilingual Chatbot for Everyone
@@ -143,6 +154,11 @@
 
 ## Javascript
 
+* 【2023-06-13】[basir / mern-amazona](https://github.com/basir/mern-amazona) - Build Ecommerce Like Amazon By MERN Stack
+* 【2023-06-13】[mohamedsamara / mern-ecommerce](https://github.com/mohamedsamara/mern-ecommerce) - 🎈Fullstack MERN Ecommerce Application
+* 【2023-06-13】[krausest / js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
+* 【2023-06-13】[evanw / polywasm](https://github.com/evanw/polywasm) - 
+* 【2023-06-13】[qitoqito / kedaya](https://github.com/qitoqito/kedaya) - 
 * 【2023-06-12】[idurar / idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 * 【2023-06-12】[Tanza3D / reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
 * 【2023-06-12】[j0be / PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Power Delete Suite for Reddit
@@ -171,6 +187,8 @@
 
 ## Go
 
+* 【2023-06-13】[STRRL / cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 
+* 【2023-06-13】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan/apply in your CI⚡️
 * 【2023-06-12】[getzep / zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
 * 【2023-06-12】[tmc / langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go
 * 【2023-06-12】[sevtin / lark](https://github.com/sevtin/lark) - Golang千万级IM服务端，支持集群和水平扩展，万人群消息秒达。
@@ -189,6 +207,7 @@
 
 ## C
 
+* 【2023-06-13】[mnurzia / rv](https://github.com/mnurzia/rv) - RV32IMC in ~600 lines of C89
 * 【2023-06-12】[dresden-elektronik / deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 * 【2023-06-11】[tsoding / SmoothLife](https://github.com/tsoding/SmoothLife) - SmoothLife Implementation in C
 * 【2023-06-11】[baiyies / ScreenshotBOFPlus](https://github.com/baiyies/ScreenshotBOFPlus) - Take a screenshot without injection for Cobalt Strike
@@ -206,6 +225,8 @@
 
 ## C++
 
+* 【2023-06-13】[zodiacon / Recon2023](https://github.com/zodiacon/Recon2023) - Recon 2023 slides and code
+* 【2023-06-13】[namazso / MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
 * 【2023-06-12】[acidanthera / AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
 * 【2023-06-11】[eversinc33 / Banshee](https://github.com/eversinc33/Banshee) - Experimental Windows x64 Kernel Rootkit.
 * 【2023-06-08】[ZeroMemoryEx / Terminator](https://github.com/ZeroMemoryEx/Terminator) - Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
@@ -270,6 +291,7 @@
 
 ## Css
 
+* 【2023-06-13】[saint2706 / saint2706.github.io](https://github.com/saint2706/saint2706.github.io) - Not thinking of creating anything yet, this is just to store my custom css that i've compiled over time
 * 【2023-06-12】[tdesign-blazor / TDesignBlazor](https://github.com/tdesign-blazor/TDesignBlazor) - 基于腾讯 TDesign 的 Blazor 组件库
 * 【2023-06-11】[Q16G / npsmodify](https://github.com/Q16G/npsmodify) - 这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复
 * 【2023-06-11】[ParisNeo / lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
@@ -295,6 +317,8 @@
 
 ## Unknown
 
+* 【2023-06-13】[qianqianwang68 / omnimotion](https://github.com/qianqianwang68/omnimotion) - 
+* 【2023-06-13】[luchihoratiu / debug-via-ssh](https://github.com/luchihoratiu/debug-via-ssh) - Here you can find a GitHub Action that allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.
 * 【2023-06-12】[cert-orangecyberdefense / ransomware_map](https://github.com/cert-orangecyberdefense/ransomware_map) - Map tracking ransomware, by OCD World Watch team
 * 【2023-06-12】[dave1010 / tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
 * 【2023-06-12】[the-markup / xandr-audience-segments](https://github.com/the-markup/xandr-audience-segments) - 
