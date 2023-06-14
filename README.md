@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-06-14】[AntonOsika / gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* 【2023-06-14】[openobserve / openobserve](https://github.com/openobserve/openobserve) - 🚀10x easier,🚀140x lower storage cost,🚀high performance,🚀petabyte scale - Elasticsearch/Splunk/Datadog alternative for🚀(logs, metrics, traces).
+* 【2023-06-14】[gopherchina / conference](https://github.com/gopherchina/conference) - 
+* 【2023-06-14】[aidenybai / million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+* 【2023-06-14】[isledecomp / isle](https://github.com/isledecomp/isle) - A work-in-progress decompilation of LEGO Island (1997)
+* 【2023-06-14】[ordinals / ord](https://github.com/ordinals/ord) - 👁‍🗨Rare and exotic sats
 * 【2023-06-13】[apple / sample-backyard-birds](https://github.com/apple/sample-backyard-birds) - 
 * 【2023-06-13】[dessalines / jerboa](https://github.com/dessalines/jerboa) - A native android app for Lemmy
 * 【2023-06-13】[LemmyNet / lemmy](https://github.com/LemmyNet/lemmy) - 🐀A link aggregator and forum for the fediverse
@@ -78,6 +84,9 @@
 
 ## Java
 
+* 【2023-06-14】[vespa-engine / vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
+* 【2023-06-14】[datastax / java-driver](https://github.com/datastax/java-driver) - DataStax Java Driver for Apache Cassandra
+* 【2023-06-14】[TuGraph-family / tugraph-analytics](https://github.com/TuGraph-family/tugraph-analytics) - TuGraph-analytics is a distribute streaming graph computing engine.
 * 【2023-06-13】[4ra1n / mysql-fake-server](https://github.com/4ra1n/mysql-fake-server) - MySQL Fake Server (纯Java实现，内置常见Java反序列化Payload，支持GUI版和命令行版，提供Dockerfile)
 * 【2023-06-12】[discord-jda / JDA](https://github.com/discord-jda/JDA) - Java wrapper for the popular chat & VOIP service: Discord https://discord.com
 * 【2023-06-12】[UniversalMediaServer / UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
@@ -104,6 +113,10 @@
 
 ## Python
 
+* 【2023-06-14】[xinyu1205 / recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
+* 【2023-06-14】[StevenBlack / hosts](https://github.com/StevenBlack/hosts) - 🔒Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+* 【2023-06-14】[yvann-hub / Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot🤖for chat with CSV, PDF, TXT files📄and YTB videos🎥| using Langchain🦜| OpenAI | Streamlit⚡
+* 【2023-06-14】[aliparlakci / bulk-downloader-for-reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads and archives content from reddit
 * 【2023-06-13】[xtekky / gpt4free-discord](https://github.com/xtekky/gpt4free-discord) - Gpt4Free basic disord bot, streamed responses, gpt-4 and more
 * 【2023-06-13】[nv-tlabs / NKSR](https://github.com/nv-tlabs/NKSR) - [CVPR 2023 Highlight] Neural Kernel Surface Reconstruction
 * 【2023-06-13】[yasserbdj96 / hiphp](https://github.com/yasserbdj96/hiphp) - The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80's POST/GET method, users can access a range of activities such as downloading and editing files. It also allows for connecting to Tor networks with password protection for extra security.
@@ -154,6 +167,7 @@
 
 ## Javascript
 
+* 【2023-06-14】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 * 【2023-06-13】[basir / mern-amazona](https://github.com/basir/mern-amazona) - Build Ecommerce Like Amazon By MERN Stack
 * 【2023-06-13】[mohamedsamara / mern-ecommerce](https://github.com/mohamedsamara/mern-ecommerce) - 🎈Fullstack MERN Ecommerce Application
 * 【2023-06-13】[krausest / js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
@@ -207,6 +221,8 @@
 
 ## C
 
+* 【2023-06-14】[yuandaimaahao / AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
+* 【2023-06-14】[SiliconLabs / gecko_sdk](https://github.com/SiliconLabs/gecko_sdk) - The Gecko SDK (GSDK) combines all Silicon Labs 32-bit IoT product software development kits (SDKs) based on Gecko Platform into a single, integrated SDK.
 * 【2023-06-13】[mnurzia / rv](https://github.com/mnurzia/rv) - RV32IMC in ~600 lines of C89
 * 【2023-06-12】[dresden-elektronik / deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices
 * 【2023-06-11】[tsoding / SmoothLife](https://github.com/tsoding/SmoothLife) - SmoothLife Implementation in C
@@ -225,6 +241,7 @@
 
 ## C++
 
+* 【2023-06-14】[vectr-ucla / direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 * 【2023-06-13】[zodiacon / Recon2023](https://github.com/zodiacon/Recon2023) - Recon 2023 slides and code
 * 【2023-06-13】[namazso / MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
 * 【2023-06-12】[acidanthera / AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs
@@ -242,6 +259,10 @@
 
 ## C#
 
+* 【2023-06-14】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
+* 【2023-06-14】[mertdas / SharpTerminator](https://github.com/mertdas/SharpTerminator) - Terminate AV/EDR Processes using kernel driver
+* 【2023-06-14】[tmoonlight / NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
+* 【2023-06-14】[killkimno / MORT](https://github.com/killkimno/MORT) - MORT 번역기 프로젝트 - Real-time game translator with OCR
 * 【2023-06-12】[andrewmd5 / orion](https://github.com/andrewmd5/orion) - a command-line game launcher for the Game Porting Toolkit
 * 【2023-06-12】[dariogriffo / ApiKeySample](https://github.com/dariogriffo/ApiKeySample) - An API Key api authentication/authorization example
 * 【2023-06-12】[bostrot / PowerToysRunPluginWinget](https://github.com/bostrot/PowerToysRunPluginWinget) - Winget plugin for PowerToys Run
@@ -268,6 +289,7 @@
 
 ## Html
 
+* 【2023-06-14】[tikimcfee / LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render Swift source code in AR/VR for macOS and iOS.
 * 【2023-06-12】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
 * 【2023-06-12】[tech2etc / Build-and-Deploy-Ecommerce-Website](https://github.com/tech2etc/Build-and-Deploy-Ecommerce-Website) - Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.
 * 【2023-06-12】[HEIGE-PCloud / DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo.
@@ -291,6 +313,9 @@
 
 ## Css
 
+* 【2023-06-14】[Bali10050 / FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
+* 【2023-06-14】[subframe7536 / maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
+* 【2023-06-14】[comehope / front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of August 2021, 170+ works have been accomplished, challenge yourself each day!
 * 【2023-06-13】[saint2706 / saint2706.github.io](https://github.com/saint2706/saint2706.github.io) - Not thinking of creating anything yet, this is just to store my custom css that i've compiled over time
 * 【2023-06-12】[tdesign-blazor / TDesignBlazor](https://github.com/tdesign-blazor/TDesignBlazor) - 基于腾讯 TDesign 的 Blazor 组件库
 * 【2023-06-11】[Q16G / npsmodify](https://github.com/Q16G/npsmodify) - 这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复
@@ -317,6 +342,13 @@
 
 ## Unknown
 
+* 【2023-06-14】[alan2207 / awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
+* 【2023-06-14】[youssefHosni / Awesome-AI-Data-GitHub-Repos](https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos) - A collection of the most important Github repos for ML, AI & Data science practitioners
+* 【2023-06-14】[damo-vilab / videocomposer](https://github.com/damo-vilab/videocomposer) - 
+* 【2023-06-14】[microsoft / LLaVA-Med](https://github.com/microsoft/LLaVA-Med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
+* 【2023-06-14】[198808xc / Vision-AGI-Survey](https://github.com/198808xc/Vision-AGI-Survey) - A temporary webpage for our survey in AGI for computer vision
+* 【2023-06-14】[0voice / expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍
+* 【2023-06-14】[chika0801 / tuic-install](https://github.com/chika0801/tuic-install) - TUIC 安装指南
 * 【2023-06-13】[qianqianwang68 / omnimotion](https://github.com/qianqianwang68/omnimotion) - 
 * 【2023-06-13】[luchihoratiu / debug-via-ssh](https://github.com/luchihoratiu/debug-via-ssh) - Here you can find a GitHub Action that allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.
 * 【2023-06-12】[cert-orangecyberdefense / ransomware_map](https://github.com/cert-orangecyberdefense/ransomware_map) - Map tracking ransomware, by OCD World Watch team
