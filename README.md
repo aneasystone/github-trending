@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-06-16】[facebookresearch / ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive architecture."
+* 【2023-06-16】[Uniswap / v4-core](https://github.com/Uniswap/v4-core) - 🦄🦄🦄🦄Core smart contracts of Uniswap v4
+* 【2023-06-16】[QiuChenlyOpenSource / InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
+* 【2023-06-16】[pennyliang / ciku](https://github.com/pennyliang/ciku) - 
+* 【2023-06-16】[Uniswap / v4-periphery](https://github.com/Uniswap/v4-periphery) - 🦄🦄🦄🦄Peripheral smart contracts for interacting with Uniswap v4
+* 【2023-06-16】[Victorwz / LongMem](https://github.com/Victorwz/LongMem) - 
 * 【2023-06-15】[camenduru / MusicGen-colab](https://github.com/camenduru/MusicGen-colab) - 
 * 【2023-06-15】[KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 * 【2023-06-15】[100xDevs-hkirat / Week-1-assignment](https://github.com/100xDevs-hkirat/Week-1-assignment) - 
@@ -89,6 +95,8 @@
 
 ## Java
 
+* 【2023-06-16】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
+* 【2023-06-16】[deeplearning4j / deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learni…
 * 【2023-06-14】[vespa-engine / vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
 * 【2023-06-14】[datastax / java-driver](https://github.com/datastax/java-driver) - DataStax Java Driver for Apache Cassandra
 * 【2023-06-14】[TuGraph-family / tugraph-analytics](https://github.com/TuGraph-family/tugraph-analytics) - TuGraph-analytics is a distribute streaming graph computing engine.
@@ -118,6 +126,7 @@
 
 ## Python
 
+* 【2023-06-16】[uzh-rpg / RVT](https://github.com/uzh-rpg/RVT) - Implementation of "Recurrent Vision Transformers for Object Detection with Event Cameras". CVPR 2023
 * 【2023-06-15】[AndrewZhe / lawyer-llama](https://github.com/AndrewZhe/lawyer-llama) - 中文法律LLaMA
 * 【2023-06-15】[plastic-labs / tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for theory-of-mind-powered tutoring.
 * 【2023-06-15】[horizon3ai / CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) - MOVEit CVE-2023-34362
@@ -179,6 +188,8 @@
 
 ## Javascript
 
+* 【2023-06-16】[100xDevs-hkirat / Week-1-assignment-with-tests](https://github.com/100xDevs-hkirat/Week-1-assignment-with-tests) - 
+* 【2023-06-16】[w3f / Grants-Program](https://github.com/w3f/Grants-Program) - Web3 Foundation Grants Program
 * 【2023-06-15】[mysqljs / mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 * 【2023-06-15】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
 * 【2023-06-14】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
@@ -215,6 +226,7 @@
 
 ## Go
 
+* 【2023-06-16】[lmorg / murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * 【2023-06-15】[MatthewJamesBoyle / golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep) - 
 * 【2023-06-15】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2023-06-13】[STRRL / cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 
@@ -237,6 +249,11 @@
 
 ## C
 
+* 【2023-06-16】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
+* 【2023-06-16】[cashapp / zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
+* 【2023-06-16】[ruby / yarp](https://github.com/ruby/yarp) - Yet Another Ruby Parser
+* 【2023-06-16】[ataradov / usb-sniffer](https://github.com/ataradov/usb-sniffer) - Low-cost LS/FS/HS USB sniffer with Wireshark interface
+* 【2023-06-16】[xalicex / Killers](https://github.com/xalicex/Killers) - Exploitation of process killer drivers
 * 【2023-06-15】[snesrev / smw](https://github.com/snesrev/smw) - Smw
 * 【2023-06-14】[yuandaimaahao / AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
 * 【2023-06-14】[SiliconLabs / gecko_sdk](https://github.com/SiliconLabs/gecko_sdk) - The Gecko SDK (GSDK) combines all Silicon Labs 32-bit IoT product software development kits (SDKs) based on Gecko Platform into a single, integrated SDK.
@@ -258,6 +275,7 @@
 
 ## C++
 
+* 【2023-06-16】[jankae / LibreVNA](https://github.com/jankae/LibreVNA) - 100kHz to 6GHz 2 port USB based VNA
 * 【2023-06-14】[vectr-ucla / direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 * 【2023-06-13】[zodiacon / Recon2023](https://github.com/zodiacon/Recon2023) - Recon 2023 slides and code
 * 【2023-06-13】[namazso / MagicSigner](https://github.com/namazso/MagicSigner) - Signtool for expired certificates
@@ -276,6 +294,8 @@
 
 ## C#
 
+* 【2023-06-16】[persistent-security / SMShell](https://github.com/persistent-security/SMShell) - PoC for a SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers
+* 【2023-06-16】[xisuo67 / XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
 * 【2023-06-15】[Unity-Technologies / MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) - Megacity Multiplayer is an action-packed, shooter game based on the original Megacity sample. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously.
 * 【2023-06-15】[Unity-Technologies / com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) - Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.
 * 【2023-06-14】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
@@ -308,6 +328,8 @@
 
 ## Html
 
+* 【2023-06-16】[devsyedmohsin / portfolio-template](https://github.com/devsyedmohsin/portfolio-template) - ⚡️An open-source portfolio template for developers. Give it a star⭐if you find it useful
+* 【2023-06-16】[Vimux / Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme
 * 【2023-06-15】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
 * 【2023-06-15】[alura-es-cursos / 1868-java-servlet-1](https://github.com/alura-es-cursos/1868-java-servlet-1) - Repositorio del curso Servlets 1 de Alura Latam
 * 【2023-06-14】[tikimcfee / LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render Swift source code in AR/VR for macOS and iOS.
@@ -366,6 +388,9 @@
 
 ## Unknown
 
+* 【2023-06-16】[FrontCloudCamp / test-assignment](https://github.com/FrontCloudCamp/test-assignment) - 
+* 【2023-06-16】[V0lk3n / WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.
+* 【2023-06-16】[microsoft / winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 * 【2023-06-15】[RishikeshOps / DevOps-Learning-Resources](https://github.com/RishikeshOps/DevOps-Learning-Resources) - 
 * 【2023-06-15】[grealyve / MDISec-Web-Security-and-Hacking-Notes](https://github.com/grealyve/MDISec-Web-Security-and-Hacking-Notes) - 
 * 【2023-06-15】[SeedV / generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) - 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications
