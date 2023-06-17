@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-17】[krzysztofzablocki / Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
+* 【2023-06-17】[tatsu-lab / alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.
+* 【2023-06-17】[nrwl / nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 * 【2023-06-16】[facebookresearch / ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive architecture."
 * 【2023-06-16】[Uniswap / v4-core](https://github.com/Uniswap/v4-core) - 🦄🦄🦄🦄Core smart contracts of Uniswap v4
 * 【2023-06-16】[QiuChenlyOpenSource / InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
@@ -95,6 +98,7 @@
 
 ## Java
 
+* 【2023-06-17】[horoc / treetops](https://github.com/horoc/treetops) - Fast LightGBM tree model interference Java library which is based on ASM dynamic code generation framework.
 * 【2023-06-16】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 * 【2023-06-16】[deeplearning4j / deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learni…
 * 【2023-06-14】[vespa-engine / vespa](https://github.com/vespa-engine/vespa) - The open big data serving engine. https://vespa.ai
@@ -126,6 +130,9 @@
 
 ## Python
 
+* 【2023-06-17】[Nuitka / Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
+* 【2023-06-17】[THUDM / WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
+* 【2023-06-17】[gaasher / I-JEPA](https://github.com/gaasher/I-JEPA) - Implementation of I-JEPA from "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture"
 * 【2023-06-16】[uzh-rpg / RVT](https://github.com/uzh-rpg/RVT) - Implementation of "Recurrent Vision Transformers for Object Detection with Event Cameras". CVPR 2023
 * 【2023-06-15】[AndrewZhe / lawyer-llama](https://github.com/AndrewZhe/lawyer-llama) - 中文法律LLaMA
 * 【2023-06-15】[plastic-labs / tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for theory-of-mind-powered tutoring.
@@ -188,6 +195,9 @@
 
 ## Javascript
 
+* 【2023-06-17】[ewanhowell5195 / MinecraftTitleGenerator](https://github.com/ewanhowell5195/MinecraftTitleGenerator) - Textures and fonts for the Minecraft Title Generator Blockbench plugin
+* 【2023-06-17】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
+* 【2023-06-17】[josdejong / jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 * 【2023-06-16】[100xDevs-hkirat / Week-1-assignment-with-tests](https://github.com/100xDevs-hkirat/Week-1-assignment-with-tests) - 
 * 【2023-06-16】[w3f / Grants-Program](https://github.com/w3f/Grants-Program) - Web3 Foundation Grants Program
 * 【2023-06-15】[mysqljs / mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
@@ -249,6 +259,7 @@
 
 ## C
 
+* 【2023-06-17】[openSIL / openSIL](https://github.com/openSIL/openSIL) - 
 * 【2023-06-16】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * 【2023-06-16】[cashapp / zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 * 【2023-06-16】[ruby / yarp](https://github.com/ruby/yarp) - Yet Another Ruby Parser
@@ -294,6 +305,7 @@
 
 ## C#
 
+* 【2023-06-17】[zhontai / Admin.Core](https://github.com/zhontai/Admin.Core) - Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
 * 【2023-06-16】[persistent-security / SMShell](https://github.com/persistent-security/SMShell) - PoC for a SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers
 * 【2023-06-16】[xisuo67 / XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
 * 【2023-06-15】[Unity-Technologies / MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) - Megacity Multiplayer is an action-packed, shooter game based on the original Megacity sample. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously.
@@ -328,6 +340,7 @@
 
 ## Html
 
+* 【2023-06-17】[shade-econ / nber-workshop-2023](https://github.com/shade-econ/nber-workshop-2023) - Code for the Spring 2023 NBER heterogeneous-agent macro workshop
 * 【2023-06-16】[devsyedmohsin / portfolio-template](https://github.com/devsyedmohsin/portfolio-template) - ⚡️An open-source portfolio template for developers. Give it a star⭐if you find it useful
 * 【2023-06-16】[Vimux / Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme
 * 【2023-06-15】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
@@ -356,6 +369,9 @@
 
 ## Css
 
+* 【2023-06-17】[Trizwit / FastnUI](https://github.com/Trizwit/FastnUI) - UI component library for Fastn
+* 【2023-06-17】[10-1-pursuit / lab-css-selectors](https://github.com/10-1-pursuit/lab-css-selectors) - 
+* 【2023-06-17】[MellowCo / unocss-preset-weapp](https://github.com/MellowCo/unocss-preset-weapp) - unocss preset for wechat miniprogram，unocss小程序预设，在 taro uniapp 原生小程序 中使用unocss
 * 【2023-06-15】[pulumi / pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi.
 * 【2023-06-15】[codepath / site-week2-lab2-twitter-starter](https://github.com/codepath/site-week2-lab2-twitter-starter) - CURRENT - 2023 SITE Starter code for Twitter Clone Lab
 * 【2023-06-15】[PrimeAcademy / jquery-fungus-fighter](https://github.com/PrimeAcademy/jquery-fungus-fighter) - 
