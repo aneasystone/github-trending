@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-06-18】[baichuan-inc / baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
+* 【2023-06-18】[joschan21 / breadit](https://github.com/joschan21/breadit) - Modern Fullstack Reddit Clone in Next.js 13 & TypeScript
+* 【2023-06-18】[facebookresearch / localrf](https://github.com/facebookresearch/localrf) - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.
+* 【2023-06-18】[shibing624 / MedicalGPT](https://github.com/shibing624/MedicalGPT) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
+* 【2023-06-18】[Sh4yy / cloudflare-email](https://github.com/Sh4yy/cloudflare-email) - This is a simple proxy server that can be used for sending free transactional emails through Cloudflare workers.
+* 【2023-06-18】[lit / lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 * 【2023-06-17】[krzysztofzablocki / Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
 * 【2023-06-17】[tatsu-lab / alpaca_eval](https://github.com/tatsu-lab/alpaca_eval) - A validated automatic evaluator for instruction-following language models. High-quality, cheap, and fast.
 * 【2023-06-17】[nrwl / nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
@@ -98,6 +104,7 @@
 
 ## Java
 
+* 【2023-06-18】[dingodb / dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency.
 * 【2023-06-17】[horoc / treetops](https://github.com/horoc/treetops) - Fast LightGBM tree model interference Java library which is based on ASM dynamic code generation framework.
 * 【2023-06-16】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
 * 【2023-06-16】[deeplearning4j / deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learni…
@@ -130,6 +137,8 @@
 
 ## Python
 
+* 【2023-06-18】[SqueezeAILab / SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM) - SqueezeLLM: Dense-and-Sparse Quantization
+* 【2023-06-18】[chavinlo / musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 * 【2023-06-17】[Nuitka / Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
 * 【2023-06-17】[THUDM / WebGLM](https://github.com/THUDM/WebGLM) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
 * 【2023-06-17】[gaasher / I-JEPA](https://github.com/gaasher/I-JEPA) - Implementation of I-JEPA from "Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture"
@@ -195,6 +204,8 @@
 
 ## Javascript
 
+* 【2023-06-18】[ErickWendel / semana-javascript-expert04](https://github.com/ErickWendel/semana-javascript-expert04) - JS Expert Week 4.0 classes - ClubHouse Clone
+* 【2023-06-18】[Semantic-Org / Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 * 【2023-06-17】[ewanhowell5195 / MinecraftTitleGenerator](https://github.com/ewanhowell5195/MinecraftTitleGenerator) - Textures and fonts for the Minecraft Title Generator Blockbench plugin
 * 【2023-06-17】[vogler / free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
 * 【2023-06-17】[josdejong / jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -259,6 +270,9 @@
 
 ## C
 
+* 【2023-06-18】[benhoyt / inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
+* 【2023-06-18】[winfsp / winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
+* 【2023-06-18】[uTox / uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
 * 【2023-06-17】[openSIL / openSIL](https://github.com/openSIL/openSIL) - 
 * 【2023-06-16】[bluekitchen / btstack](https://github.com/bluekitchen/btstack) - Dual-mode Bluetooth stack, with small memory footprint.
 * 【2023-06-16】[cashapp / zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
@@ -286,6 +300,7 @@
 
 ## C++
 
+* 【2023-06-18】[dingodb / dingo-store](https://github.com/dingodb/dingo-store) - Distributed Key-Value Storage
 * 【2023-06-16】[jankae / LibreVNA](https://github.com/jankae/LibreVNA) - 100kHz to 6GHz 2 port USB based VNA
 * 【2023-06-14】[vectr-ucla / direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
 * 【2023-06-13】[zodiacon / Recon2023](https://github.com/zodiacon/Recon2023) - Recon 2023 slides and code
@@ -369,6 +384,13 @@
 
 ## Css
 
+* 【2023-06-18】[kluein / klue-qa-test-rival](https://github.com/kluein/klue-qa-test-rival) - A static page deployed for QA to test the Klue application
+* 【2023-06-18】[CanTest-IT / app-react-events-automation-place](https://github.com/CanTest-IT/app-react-events-automation-place) - 
+* 【2023-06-18】[SoftUni / Programming-Basics-Book-CSharp-BG](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG) - Textbook for the "Programming Basics" course @ SoftUni (C#, Bulgarian)
+* 【2023-06-18】[10-2-pursuit / lab-css-selectors](https://github.com/10-2-pursuit/lab-css-selectors) - 
+* 【2023-06-18】[VaporousCreeper / BetterDiscord-ThemesAndPlugins](https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins) - Where I store All Of My BetterDiscord Uploads
+* 【2023-06-18】[SoftUni / Programming-Basics-Book-Python-BG](https://github.com/SoftUni/Programming-Basics-Book-Python-BG) - Textbook for the "Programming Basics" course @ SoftUni (Python, Bulgarian)
+* 【2023-06-18】[AikoMidori / SteamSkins](https://github.com/AikoMidori/SteamSkins) - With Steam's new beta and introduction to full css clients, and the removal of VGUI, means a new era of skins.
 * 【2023-06-17】[Trizwit / FastnUI](https://github.com/Trizwit/FastnUI) - UI component library for Fastn
 * 【2023-06-17】[10-1-pursuit / lab-css-selectors](https://github.com/10-1-pursuit/lab-css-selectors) - 
 * 【2023-06-17】[MellowCo / unocss-preset-weapp](https://github.com/MellowCo/unocss-preset-weapp) - unocss preset for wechat miniprogram，unocss小程序预设，在 taro uniapp 原生小程序 中使用unocss
@@ -404,6 +426,11 @@
 
 ## Unknown
 
+* 【2023-06-18】[mhadidg / software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+* 【2023-06-18】[UltimateSec / ultimaste-nuclei-templates](https://github.com/UltimateSec/ultimaste-nuclei-templates) - 极致攻防实验室 nuclei 检测 POC
+* 【2023-06-18】[majinqiawa / xxn](https://github.com/majinqiawa/xxn) - 存储中国大陆各类小仙女案件，欢迎补充（Store all kinds of fairy cases in mainland China, welcome to add）
+* 【2023-06-18】[gnehs / subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️Translate subtitle using ChatGPT
+* 【2023-06-18】[SkyProc / translation](https://github.com/SkyProc/translation) - 
 * 【2023-06-16】[FrontCloudCamp / test-assignment](https://github.com/FrontCloudCamp/test-assignment) - 
 * 【2023-06-16】[V0lk3n / WirelessPentesting-CheatSheet](https://github.com/V0lk3n/WirelessPentesting-CheatSheet) - This repository contain a CheatSheet for OSWP & WiFi Cracking.
 * 【2023-06-16】[microsoft / winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
