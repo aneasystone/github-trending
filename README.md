@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-06-19】[vercel-labs / ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
+* 【2023-06-19】[andrewrk / poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
+* 【2023-06-19】[PostHog / HouseWatch](https://github.com/PostHog/HouseWatch) - Open source tool for monitoring and managing ClickHouse clusters
+* 【2023-06-19】[terhechte / Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 * 【2023-06-18】[baichuan-inc / baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 * 【2023-06-18】[joschan21 / breadit](https://github.com/joschan21/breadit) - Modern Fullstack Reddit Clone in Next.js 13 & TypeScript
 * 【2023-06-18】[facebookresearch / localrf](https://github.com/facebookresearch/localrf) - An algorithm for reconstructing the radiance field of a large-scale scene from a single casually captured video.
@@ -104,6 +108,9 @@
 
 ## Java
 
+* 【2023-06-19】[1095071913 / maozi-cloud-parent](https://github.com/1095071913/maozi-cloud-parent) - 【脚手架】基于 SpringCloud Alibaba Dubbo 二开封装
+* 【2023-06-19】[tangxiaofeng7 / CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass) - rce
+* 【2023-06-19】[MarginaliaSearch / MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 * 【2023-06-18】[dingodb / dingo](https://github.com/dingodb/dingo) - A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency.
 * 【2023-06-17】[horoc / treetops](https://github.com/horoc/treetops) - Fast LightGBM tree model interference Java library which is based on ASM dynamic code generation framework.
 * 【2023-06-16】[deepjavalibrary / djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
@@ -137,6 +144,10 @@
 
 ## Python
 
+* 【2023-06-19】[Anil-matcha / ChatPDF](https://github.com/Anil-matcha/ChatPDF) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
+* 【2023-06-19】[wmariuss / awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
+* 【2023-06-19】[noahshinn024 / reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning
+* 【2023-06-19】[auqhjjqdo / LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的全自动直播录制工具，已支持哔哩哔哩、斗鱼、虎牙、抖音、YouTube、Twitch等
 * 【2023-06-18】[SqueezeAILab / SqueezeLLM](https://github.com/SqueezeAILab/SqueezeLLM) - SqueezeLLM: Dense-and-Sparse Quantization
 * 【2023-06-18】[chavinlo / musicgen_trainer](https://github.com/chavinlo/musicgen_trainer) - simple trainer for musicgen/audiocraft
 * 【2023-06-17】[Nuitka / Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.
@@ -247,6 +258,7 @@
 
 ## Go
 
+* 【2023-06-19】[crazy-max / WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 * 【2023-06-16】[lmorg / murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * 【2023-06-15】[MatthewJamesBoyle / golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep) - 
 * 【2023-06-15】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
@@ -270,6 +282,8 @@
 
 ## C
 
+* 【2023-06-19】[lanleft / CVE2023-1829](https://github.com/lanleft/CVE2023-1829) - 
+* 【2023-06-19】[atar-axis / xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 * 【2023-06-18】[benhoyt / inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
 * 【2023-06-18】[winfsp / winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 * 【2023-06-18】[uTox / uTox](https://github.com/uTox/uTox) - µTox the lightest and fluffiest Tox client
@@ -300,6 +314,9 @@
 
 ## C++
 
+* 【2023-06-19】[DarthTon / Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
+* 【2023-06-19】[UMSKT / UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
+* 【2023-06-19】[dolphindb / Tutorials_CN](https://github.com/dolphindb/Tutorials_CN) - 
 * 【2023-06-18】[dingodb / dingo-store](https://github.com/dingodb/dingo-store) - Distributed Key-Value Storage
 * 【2023-06-16】[jankae / LibreVNA](https://github.com/jankae/LibreVNA) - 100kHz to 6GHz 2 port USB based VNA
 * 【2023-06-14】[vectr-ucla / direct_lidar_inertial_odometry](https://github.com/vectr-ucla/direct_lidar_inertial_odometry) - [IEEE ICRA'23] A new lightweight LiDAR-inertial odometry algorithm with a novel coarse-to-fine approach in constructing continuous-time trajectories for precise motion correction.
@@ -384,6 +401,7 @@
 
 ## Css
 
+* 【2023-06-19】[NsCDE / NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 * 【2023-06-18】[kluein / klue-qa-test-rival](https://github.com/kluein/klue-qa-test-rival) - A static page deployed for QA to test the Klue application
 * 【2023-06-18】[CanTest-IT / app-react-events-automation-place](https://github.com/CanTest-IT/app-react-events-automation-place) - 
 * 【2023-06-18】[SoftUni / Programming-Basics-Book-CSharp-BG](https://github.com/SoftUni/Programming-Basics-Book-CSharp-BG) - Textbook for the "Programming Basics" course @ SoftUni (C#, Bulgarian)
@@ -426,6 +444,10 @@
 
 ## Unknown
 
+* 【2023-06-19】[RManLuo / Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
+* 【2023-06-19】[thecybertix / One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
+* 【2023-06-19】[DiveHQ / backend-internship-task](https://github.com/DiveHQ/backend-internship-task) - 
+* 【2023-06-19】[google / dynibar](https://github.com/google/dynibar) - 
 * 【2023-06-18】[mhadidg / software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
 * 【2023-06-18】[UltimateSec / ultimaste-nuclei-templates](https://github.com/UltimateSec/ultimaste-nuclei-templates) - 极致攻防实验室 nuclei 检测 POC
 * 【2023-06-18】[majinqiawa / xxn](https://github.com/majinqiawa/xxn) - 存储中国大陆各类小仙女案件，欢迎补充（Store all kinds of fairy cases in mainland China, welcome to add）
