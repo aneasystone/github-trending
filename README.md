@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-06-20】[reddit-archive / reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
+* 【2023-06-20】[steven-tey / novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
+* 【2023-06-20】[apna-college / Delta](https://github.com/apna-college/Delta) - 
+* 【2023-06-20】[vercel-labs / ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
+* 【2023-06-20】[jncraton / languagemodels](https://github.com/jncraton/languagemodels) - Explore large language models on any computer with 512MB of RAM
 * 【2023-06-19】[vercel-labs / ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 * 【2023-06-19】[andrewrk / poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 * 【2023-06-19】[PostHog / HouseWatch](https://github.com/PostHog/HouseWatch) - Open source tool for monitoring and managing ClickHouse clusters
@@ -108,6 +113,7 @@
 
 ## Java
 
+* 【2023-06-20】[mezz / JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
 * 【2023-06-19】[1095071913 / maozi-cloud-parent](https://github.com/1095071913/maozi-cloud-parent) - 【脚手架】基于 SpringCloud Alibaba Dubbo 二开封装
 * 【2023-06-19】[tangxiaofeng7 / CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass) - rce
 * 【2023-06-19】[MarginaliaSearch / MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
@@ -144,6 +150,8 @@
 
 ## Python
 
+* 【2023-06-20】[alejandro-ao / ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
+* 【2023-06-20】[spesmilo / electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 * 【2023-06-19】[Anil-matcha / ChatPDF](https://github.com/Anil-matcha/ChatPDF) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
 * 【2023-06-19】[wmariuss / awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources
 * 【2023-06-19】[noahshinn024 / reflexion](https://github.com/noahshinn024/reflexion) - Reflexion: Language Agents with Verbal Reinforcement Learning
@@ -215,6 +223,7 @@
 
 ## Javascript
 
+* 【2023-06-20】[iamcco / markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 * 【2023-06-18】[ErickWendel / semana-javascript-expert04](https://github.com/ErickWendel/semana-javascript-expert04) - JS Expert Week 4.0 classes - ClubHouse Clone
 * 【2023-06-18】[Semantic-Org / Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 * 【2023-06-17】[ewanhowell5195 / MinecraftTitleGenerator](https://github.com/ewanhowell5195/MinecraftTitleGenerator) - Textures and fonts for the Minecraft Title Generator Blockbench plugin
@@ -258,6 +267,10 @@
 
 ## Go
 
+* 【2023-06-20】[assetnote / surf](https://github.com/assetnote/surf) - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
+* 【2023-06-20】[zincsearch / zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+* 【2023-06-20】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+* 【2023-06-20】[hishamk / statetrooper](https://github.com/hishamk/statetrooper) - StateTrooper is a Go package that provides a finite state machine (FSM) for managing states. It allows you to define and enforce state transitions based on predefined rules.
 * 【2023-06-19】[crazy-max / WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 * 【2023-06-16】[lmorg / murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 * 【2023-06-15】[MatthewJamesBoyle / golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep) - 
@@ -337,6 +350,7 @@
 
 ## C#
 
+* 【2023-06-20】[SecHex / SecHex-Spoofy](https://github.com/SecHex/SecHex-Spoofy) - C# HWID Changer 🔑︎ Disk, Guid, Mac, Gpu, Pc-Name, Win-ID, EFI, SMBIOS Spoofing
 * 【2023-06-17】[zhontai / Admin.Core](https://github.com/zhontai/Admin.Core) - Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
 * 【2023-06-16】[persistent-security / SMShell](https://github.com/persistent-security/SMShell) - PoC for a SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers
 * 【2023-06-16】[xisuo67 / XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
@@ -401,6 +415,7 @@
 
 ## Css
 
+* 【2023-06-20】[developerrahulofficial / Roses-are-rosie](https://github.com/developerrahulofficial/Roses-are-rosie) - Created with CodeSandbox
 * 【2023-06-19】[NsCDE / NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 * 【2023-06-18】[kluein / klue-qa-test-rival](https://github.com/kluein/klue-qa-test-rival) - A static page deployed for QA to test the Klue application
 * 【2023-06-18】[CanTest-IT / app-react-events-automation-place](https://github.com/CanTest-IT/app-react-events-automation-place) - 
@@ -444,6 +459,8 @@
 
 ## Unknown
 
+* 【2023-06-20】[garyvalue / chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总34个Chatgpt商业版及提供更多的变现方式
+* 【2023-06-20】[youquanl / Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 * 【2023-06-19】[RManLuo / Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
 * 【2023-06-19】[thecybertix / One-Liner-Collections](https://github.com/thecybertix/One-Liner-Collections) - This Repositories contains list of One Liners with Descriptions and Installation requirements
 * 【2023-06-19】[DiveHQ / backend-internship-task](https://github.com/DiveHQ/backend-internship-task) - 
