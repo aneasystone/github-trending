@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-06-21】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+* 【2023-06-21】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
+* 【2023-06-21】[linux-china / chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
+* 【2023-06-21】[AI4Finance-Foundation / FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
+* 【2023-06-21】[josStorer / RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
+* 【2023-06-21】[zellij-org / zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+* 【2023-06-21】[chakra-ui / panda](https://github.com/chakra-ui/panda) - 🐼Universal, Type-Safe, CSS-in-JS Framework for Product Teams⚡️
 * 【2023-06-20】[reddit-archive / reddit1.0](https://github.com/reddit-archive/reddit1.0) - 
 * 【2023-06-20】[steven-tey / novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletions
 * 【2023-06-20】[apna-college / Delta](https://github.com/apna-college/Delta) - 
@@ -150,6 +157,9 @@
 
 ## Python
 
+* 【2023-06-21】[maltfield / awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
+* 【2023-06-21】[s0md3v / sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui
+* 【2023-06-21】[marticliment / WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 * 【2023-06-20】[alejandro-ao / ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs) - A Langchain app that allows you to chat with multiple PDFs
 * 【2023-06-20】[spesmilo / electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 * 【2023-06-19】[Anil-matcha / ChatPDF](https://github.com/Anil-matcha/ChatPDF) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
@@ -223,6 +233,8 @@
 
 ## Javascript
 
+* 【2023-06-21】[Anshita-Bhasin / Cypress_Examples](https://github.com/Anshita-Bhasin/Cypress_Examples) - Repo for practising QA Automation
+* 【2023-06-21】[vuejs / eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 * 【2023-06-20】[iamcco / markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 * 【2023-06-18】[ErickWendel / semana-javascript-expert04](https://github.com/ErickWendel/semana-javascript-expert04) - JS Expert Week 4.0 classes - ClubHouse Clone
 * 【2023-06-18】[Semantic-Org / Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -267,6 +279,7 @@
 
 ## Go
 
+* 【2023-06-21】[MrEmpy / mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 * 【2023-06-20】[assetnote / surf](https://github.com/assetnote/surf) - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 * 【2023-06-20】[zincsearch / zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 * 【2023-06-20】[dutchcoders / transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -295,6 +308,9 @@
 
 ## C
 
+* 【2023-06-21】[Wh04m1001 / CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343) - 
+* 【2023-06-21】[dalathegreat / Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade) - Software and guides for upgrading LEAFs to bigger and newer batteries
+* 【2023-06-21】[darkk / redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
 * 【2023-06-19】[lanleft / CVE2023-1829](https://github.com/lanleft/CVE2023-1829) - 
 * 【2023-06-19】[atar-axis / xpadneo](https://github.com/atar-axis/xpadneo) - Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 * 【2023-06-18】[benhoyt / inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
@@ -327,6 +343,9 @@
 
 ## C++
 
+* 【2023-06-21】[g3tsyst3m / elevationstation](https://github.com/g3tsyst3m/elevationstation) - elevate to SYSTEM any way we can! Metasploit and PSEXEC getsystem alternative
+* 【2023-06-21】[ztxz16 / fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，chatglm-6B级模型单卡可达10000+token / s，支持moss, chatglm, baichuan模型，手机端流畅运行
+* 【2023-06-21】[us3rT0m / OnlyUP-Trainer](https://github.com/us3rT0m/OnlyUP-Trainer) - 
 * 【2023-06-19】[DarthTon / Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library
 * 【2023-06-19】[UMSKT / UMSKT](https://github.com/UMSKT/UMSKT) - Universal MS Key Toolkit
 * 【2023-06-19】[dolphindb / Tutorials_CN](https://github.com/dolphindb/Tutorials_CN) - 
@@ -350,6 +369,9 @@
 
 ## C#
 
+* 【2023-06-21】[dotnetcore / BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor
+* 【2023-06-21】[Danily07 / Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
+* 【2023-06-21】[ThePBone / GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
 * 【2023-06-20】[SecHex / SecHex-Spoofy](https://github.com/SecHex/SecHex-Spoofy) - C# HWID Changer 🔑︎ Disk, Guid, Mac, Gpu, Pc-Name, Win-ID, EFI, SMBIOS Spoofing
 * 【2023-06-17】[zhontai / Admin.Core](https://github.com/zhontai/Admin.Core) - Admin后端，前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、事件总线、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。
 * 【2023-06-16】[persistent-security / SMShell](https://github.com/persistent-security/SMShell) - PoC for a SMS-based shell. Send commands and receive responses over SMS from mobile broadband capable computers
@@ -415,6 +437,7 @@
 
 ## Css
 
+* 【2023-06-21】[sb2nov / week2-devops](https://github.com/sb2nov/week2-devops) - 
 * 【2023-06-20】[developerrahulofficial / Roses-are-rosie](https://github.com/developerrahulofficial/Roses-are-rosie) - Created with CodeSandbox
 * 【2023-06-19】[NsCDE / NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
 * 【2023-06-18】[kluein / klue-qa-test-rival](https://github.com/kluein/klue-qa-test-rival) - A static page deployed for QA to test the Klue application
@@ -459,6 +482,9 @@
 
 ## Unknown
 
+* 【2023-06-21】[RamiKrispin / vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
+* 【2023-06-21】[Lesabotsy / bootcamp](https://github.com/Lesabotsy/bootcamp) - 
+* 【2023-06-21】[CLUEbenchmark / SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
 * 【2023-06-20】[garyvalue / chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总34个Chatgpt商业版及提供更多的变现方式
 * 【2023-06-20】[youquanl / Segment-Any-Point-Cloud](https://github.com/youquanl/Segment-Any-Point-Cloud) - Segment Any Point Cloud Sequences by Distilling Vision Foundation Models
 * 【2023-06-19】[RManLuo / Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
