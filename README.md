@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-06-22】[techleadhd / chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
+* 【2023-06-22】[ONEARMY / community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
+* 【2023-06-22】[OpenLMLab / LOMO](https://github.com/OpenLMLab/LOMO) - LOMO: LOw-Memory Optimization
+* 【2023-06-22】[HqWu-HITCS / Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 * 【2023-06-21】[bentoml / OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 * 【2023-06-21】[princeton-vl / infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
 * 【2023-06-21】[linux-china / chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
@@ -120,6 +124,8 @@
 
 ## Java
 
+* 【2023-06-22】[IridiumIdentity / iridium](https://github.com/IridiumIdentity/iridium) - A low-code, customer identity and access management (CIAM) system for social provider integration
+* 【2023-06-22】[datavane / datasophon](https://github.com/datavane/datasophon) - It is committed to rapidly implementing the deployment, management, monitoring and automatic operation and maintenance of the big data cloud native platform, helping you quickly build a stable, efficient, elastic and scalable big data cloud native platform.
 * 【2023-06-20】[mezz / JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
 * 【2023-06-19】[1095071913 / maozi-cloud-parent](https://github.com/1095071913/maozi-cloud-parent) - 【脚手架】基于 SpringCloud Alibaba Dubbo 二开封装
 * 【2023-06-19】[tangxiaofeng7 / CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass) - rce
@@ -157,6 +163,9 @@
 
 ## Python
 
+* 【2023-06-22】[secdev / scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+* 【2023-06-22】[N0rz3 / Zehef](https://github.com/N0rz3/Zehef) - Zehef is an osint tool to track emails
+* 【2023-06-22】[e-johnstonn / FableForge](https://github.com/e-johnstonn/FableForge) - Generate a picture book from a single prompt using OpenAI function calling, replicate, and Deep Lake
 * 【2023-06-21】[maltfield / awesome-lemmy-instances](https://github.com/maltfield/awesome-lemmy-instances) - Comparison of different Lemmy Instances
 * 【2023-06-21】[s0md3v / sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui
 * 【2023-06-21】[marticliment / WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
@@ -279,6 +288,7 @@
 
 ## Go
 
+* 【2023-06-22】[devfullcycle / imersao13](https://github.com/devfullcycle/imersao13) - 
 * 【2023-06-21】[MrEmpy / mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 * 【2023-06-20】[assetnote / surf](https://github.com/assetnote/surf) - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
 * 【2023-06-20】[zincsearch / zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -308,6 +318,9 @@
 
 ## C
 
+* 【2023-06-22】[appspa / app-space](https://github.com/appspa/app-space) - APP内测平台|应用分发| https://app-space.up.railway.app |内网部署|增量热更新|类似蒲公英 fir IOS超级签名免签 ,支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库
+* 【2023-06-22】[AliAlgur / Ania](https://github.com/AliAlgur/Ania) - 
+* 【2023-06-22】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
 * 【2023-06-21】[Wh04m1001 / CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343) - 
 * 【2023-06-21】[dalathegreat / Nissan-LEAF-Battery-Upgrade](https://github.com/dalathegreat/Nissan-LEAF-Battery-Upgrade) - Software and guides for upgrading LEAFs to bigger and newer batteries
 * 【2023-06-21】[darkk / redsocks](https://github.com/darkk/redsocks) - transparent TCP-to-proxy redirector
@@ -369,6 +382,7 @@
 
 ## C#
 
+* 【2023-06-22】[Mapsui / Mapsui](https://github.com/Mapsui/Mapsui) - Mapsui is a .NET Map component for: MAUI, WPF, Avalonia, Uno, Blazor, WinUI, Xamarin and Eto
 * 【2023-06-21】[dotnetcore / BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor
 * 【2023-06-21】[Danily07 / Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
 * 【2023-06-21】[ThePBone / GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows and Linux
@@ -408,6 +422,9 @@
 
 ## Html
 
+* 【2023-06-22】[GyverLibs / GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
+* 【2023-06-22】[metagood / OCM-Dimensions](https://github.com/metagood/OCM-Dimensions) - Tools for inscribing ordinals using OCM Dimensions and the three.js and p5.js libraries
+* 【2023-06-22】[bmarsh9 / gapps](https://github.com/bmarsh9/gapps) - Security compliance platform - SOC2, CMMC, ASVS, ISO27001, HIPAA, NIST CSF, NIST 800-53, CSC CIS 18, PCI DSS, SSF tracking. https://web-gapps.pages.dev
 * 【2023-06-17】[shade-econ / nber-workshop-2023](https://github.com/shade-econ/nber-workshop-2023) - Code for the Spring 2023 NBER heterogeneous-agent macro workshop
 * 【2023-06-16】[devsyedmohsin / portfolio-template](https://github.com/devsyedmohsin/portfolio-template) - ⚡️An open-source portfolio template for developers. Give it a star⭐if you find it useful
 * 【2023-06-16】[Vimux / Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme
@@ -482,6 +499,8 @@
 
 ## Unknown
 
+* 【2023-06-22】[iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
+* 【2023-06-22】[dtinth / superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 * 【2023-06-21】[RamiKrispin / vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
 * 【2023-06-21】[Lesabotsy / bootcamp](https://github.com/Lesabotsy/bootcamp) - 
 * 【2023-06-21】[CLUEbenchmark / SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
