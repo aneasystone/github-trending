@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-06-23】[ykdojo / kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
+* 【2023-06-23】[Linen-dev / linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
+* 【2023-06-23】[refuel-ai / autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
+* 【2023-06-23】[microsoft / sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
+* 【2023-06-23】[iamvucms / x-gram](https://github.com/iamvucms/x-gram) - 
 * 【2023-06-22】[techleadhd / chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
 * 【2023-06-22】[ONEARMY / community-platform](https://github.com/ONEARMY/community-platform) - A platform to build useful communities that aim to tackle global problems
 * 【2023-06-22】[OpenLMLab / LOMO](https://github.com/OpenLMLab/LOMO) - LOMO: LOw-Memory Optimization
@@ -124,6 +129,10 @@
 
 ## Java
 
+* 【2023-06-23】[datavane / datavines](https://github.com/datavane/datavines) - Know your data better！Datavines is Next-gen Data Observability Platform, supprt metadata manage and data quality.
+* 【2023-06-23】[chat2db / Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+* 【2023-06-23】[datavane / tis](https://github.com/datavane/tis) - Support agile DataOps Based on Flink, DataX and Flink-CDC, Chunjun with Web-UI
+* 【2023-06-23】[xuxiaowei-cloud / xuxiaowei-cloud](https://github.com/xuxiaowei-cloud/xuxiaowei-cloud) - 基于 JDK 8/11、Spring Boot 2.7.x、OAuth 2.1、Vite 4、Vue 3、Element Plus 的微服务。支持支付宝、钉钉、码云、QQ、微信、企业微信、微博等第三方登录。包含基于 GitLab Runner 的 kubernetes（k8s）、Docker、Shell 等 CI/CD 流水线进行自动构建、制作 Docker 镜像、发布。永久免费开源
 * 【2023-06-22】[IridiumIdentity / iridium](https://github.com/IridiumIdentity/iridium) - A low-code, customer identity and access management (CIAM) system for social provider integration
 * 【2023-06-22】[datavane / datasophon](https://github.com/datavane/datasophon) - It is committed to rapidly implementing the deployment, management, monitoring and automatic operation and maintenance of the big data cloud native platform, helping you quickly build a stable, efficient, elastic and scalable big data cloud native platform.
 * 【2023-06-20】[mezz / JustEnoughItems](https://github.com/mezz/JustEnoughItems) - Item and Recipe viewing mod for Minecraft
@@ -163,6 +172,12 @@
 
 ## Python
 
+* 【2023-06-23】[huchenxucs / ChatDB](https://github.com/huchenxucs/ChatDB) - The official repository of "ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory".
+* 【2023-06-23】[yuchenlin / LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the weaknesses through ranking and integrate the strengths through fusing generation to enhance the capability of LLMs.
+* 【2023-06-23】[vllm-project / vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+* 【2023-06-23】[ur-whitelab / chemcrow-public](https://github.com/ur-whitelab/chemcrow-public) - Chemcrow
+* 【2023-06-23】[zjunlp / DeepKE](https://github.com/zjunlp/DeepKE) - An Open Toolkit for Knowledge Graph Extraction and Construction published at EMNLP2022 System Demonstrations.
+* 【2023-06-23】[imhuay / studies](https://github.com/imhuay/studies) - Notes of Develop/NLP/DeepLearning/Algorithms/LeetCodes
 * 【2023-06-22】[secdev / scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 * 【2023-06-22】[N0rz3 / Zehef](https://github.com/N0rz3/Zehef) - Zehef is an osint tool to track emails
 * 【2023-06-22】[e-johnstonn / FableForge](https://github.com/e-johnstonn/FableForge) - Generate a picture book from a single prompt using OpenAI function calling, replicate, and Deep Lake
@@ -242,6 +257,11 @@
 
 ## Javascript
 
+* 【2023-06-23】[soundjester / lemmy_monkey](https://github.com/soundjester/lemmy_monkey) - *monkey scripts for Lemmy
+* 【2023-06-23】[100xDevs-hkirat / Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments) - 
+* 【2023-06-23】[sveltejs / svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+* 【2023-06-23】[paralleldrive / cuid2](https://github.com/paralleldrive/cuid2) - Next generation guids. Secure, collision-resistant ids optimized for horizontal scaling and performance.
+* 【2023-06-23】[janpaepke / ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 * 【2023-06-21】[Anshita-Bhasin / Cypress_Examples](https://github.com/Anshita-Bhasin/Cypress_Examples) - Repo for practising QA Automation
 * 【2023-06-21】[vuejs / eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 * 【2023-06-20】[iamcco / markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
@@ -318,6 +338,7 @@
 
 ## C
 
+* 【2023-06-23】[yuos-bit / Padavan](https://github.com/yuos-bit/Padavan) - This is Padavan for XiaoMi with yuos
 * 【2023-06-22】[appspa / app-space](https://github.com/appspa/app-space) - APP内测平台|应用分发| https://app-space.up.railway.app |内网部署|增量热更新|类似蒲公英 fir IOS超级签名免签 ,支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库
 * 【2023-06-22】[AliAlgur / Ania](https://github.com/AliAlgur/Ania) - 
 * 【2023-06-22】[3proxy / 3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
@@ -382,6 +403,9 @@
 
 ## C#
 
+* 【2023-06-23】[MicrosoftLearning / AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for AI-102 - AI Engineer
+* 【2023-06-23】[puff / EazyDevirt](https://github.com/puff/EazyDevirt) - A tool that automatically restores the original IL code from an assembly virtualized with Eazfuscator.NET
+* 【2023-06-23】[elastic / apm-agent-dotnet](https://github.com/elastic/apm-agent-dotnet) - Elastic APM .NET Agent
 * 【2023-06-22】[Mapsui / Mapsui](https://github.com/Mapsui/Mapsui) - Mapsui is a .NET Map component for: MAUI, WPF, Avalonia, Uno, Blazor, WinUI, Xamarin and Eto
 * 【2023-06-21】[dotnetcore / BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor) - A set of enterprise-class UI components based on Bootstrap and Blazor
 * 【2023-06-21】[Danily07 / Translumo](https://github.com/Danily07/Translumo) - Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.
@@ -422,6 +446,10 @@
 
 ## Html
 
+* 【2023-06-23】[CursoIBM / Repo1](https://github.com/CursoIBM/Repo1) - 
+* 【2023-06-23】[souying / vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
+* 【2023-06-23】[Colt / TheWebDeveloperBootcampSolutions](https://github.com/Colt/TheWebDeveloperBootcampSolutions) - 
+* 【2023-06-23】[okta / okta-sdk-java](https://github.com/okta/okta-sdk-java) - Java SDK for Okta Resource Management
 * 【2023-06-22】[GyverLibs / GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
 * 【2023-06-22】[metagood / OCM-Dimensions](https://github.com/metagood/OCM-Dimensions) - Tools for inscribing ordinals using OCM Dimensions and the three.js and p5.js libraries
 * 【2023-06-22】[bmarsh9 / gapps](https://github.com/bmarsh9/gapps) - Security compliance platform - SOC2, CMMC, ASVS, ISO27001, HIPAA, NIST CSF, NIST 800-53, CSC CIS 18, PCI DSS, SSF tracking. https://web-gapps.pages.dev
@@ -454,6 +482,8 @@
 
 ## Css
 
+* 【2023-06-23】[maticnetwork / zkevm-docs](https://github.com/maticnetwork/zkevm-docs) - The official documentation for Polygon zkEVM.
+* 【2023-06-23】[Xiumuzaidiao / Day-night-toggle-button](https://github.com/Xiumuzaidiao/Day-night-toggle-button) - 最近很火的折磨人挑战，复刻了一下，放到期末作业博客里了，大概有90%还原度(确实太折磨人了)
 * 【2023-06-21】[sb2nov / week2-devops](https://github.com/sb2nov/week2-devops) - 
 * 【2023-06-20】[developerrahulofficial / Roses-are-rosie](https://github.com/developerrahulofficial/Roses-are-rosie) - Created with CodeSandbox
 * 【2023-06-19】[NsCDE / NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
@@ -499,6 +529,10 @@
 
 ## Unknown
 
+* 【2023-06-23】[SpeechifyInc / Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
+* 【2023-06-23】[ProbiusOfficial / SecTool](https://github.com/ProbiusOfficial/SecTool) - Cybersecurity tool repository / Wiki 收录常用 / 前沿 的安全工具以及其文档，致力于减少工具收藏行为ww
+* 【2023-06-23】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
+* 【2023-06-23】[ctripxchuang / dotnetfly](https://github.com/ctripxchuang/dotnetfly) - 关注 windbg 在 .NET 领域下的探究，带你一起解读程序的用户态和内核态！
 * 【2023-06-22】[iam-veeramalla / aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) - AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
 * 【2023-06-22】[dtinth / superwhite](https://github.com/dtinth/superwhite) - display a very bright white color on HDR-enabled displays
 * 【2023-06-21】[RamiKrispin / vscode-python](https://github.com/RamiKrispin/vscode-python) - Setting Python Development Environment with VScode and Docker
