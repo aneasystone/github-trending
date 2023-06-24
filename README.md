@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-06-24】[a16z-infra / ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
+* 【2023-06-24】[figma / plugin-samples](https://github.com/figma/plugin-samples) - 🔌Sample Figma plugins.
+* 【2023-06-24】[SkalskiP / top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - This repository is a curated collection of the most exciting and influential CVPR 2023 papers.🔥[Paper + Code]
+* 【2023-06-24】[pmkol / easymosdns](https://github.com/pmkol/easymosdns) - 简化Mosdns基本功能使用的辅助脚本，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器
 * 【2023-06-23】[ykdojo / kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
 * 【2023-06-23】[Linen-dev / linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 * 【2023-06-23】[refuel-ai / autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs. Discord: https://discord.gg/fweVnRx6CU
@@ -129,6 +133,8 @@
 
 ## Java
 
+* 【2023-06-24】[bruce-pang / pRPC](https://github.com/bruce-pang/pRPC) - A lightweight and easy-to-use RPC framework created by Bruce Pang
+* 【2023-06-24】[thaycacac / java](https://github.com/thaycacac/java) - All source java, data structures and algorithms, lab java...
 * 【2023-06-23】[datavane / datavines](https://github.com/datavane/datavines) - Know your data better！Datavines is Next-gen Data Observability Platform, supprt metadata manage and data quality.
 * 【2023-06-23】[chat2db / Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 * 【2023-06-23】[datavane / tis](https://github.com/datavane/tis) - Support agile DataOps Based on Flink, DataX and Flink-CDC, Chunjun with Web-UI
@@ -172,6 +178,11 @@
 
 ## Python
 
+* 【2023-06-24】[ramonvc / freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+* 【2023-06-24】[jxnl / openai_function_call](https://github.com/jxnl/openai_function_call) - Helper functions to create openai function calls w/ pydantic
+* 【2023-06-24】[ShadowWhisperer / Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
+* 【2023-06-24】[deepmind / tapnet](https://github.com/deepmind/tapnet) - 
+* 【2023-06-24】[Lightning-AI / lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Implementation of Falcon, StableLM, Pythia, INCITE language models based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 * 【2023-06-23】[huchenxucs / ChatDB](https://github.com/huchenxucs/ChatDB) - The official repository of "ChatDB: Augmenting LLMs with Databases as Their Symbolic Memory".
 * 【2023-06-23】[yuchenlin / LLM-Blender](https://github.com/yuchenlin/LLM-Blender) - [ACL2023] We introduce LLM-Blender, an innovative ensembling framework to attain consistently superior performance by leveraging the diverse strengths of multiple open-source LLMs. LLM-Blender cut the weaknesses through ranking and integrate the strengths through fusing generation to enhance the capability of LLMs.
 * 【2023-06-23】[vllm-project / vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -257,6 +268,11 @@
 
 ## Javascript
 
+* 【2023-06-24】[SharpAI / DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
+* 【2023-06-24】[Nextjs-kr / Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr) - Next.js Docs 한글화 작업
+* 【2023-06-24】[AnkitJodhani / 2nd10WeeksofCloudOps](https://github.com/AnkitJodhani/2nd10WeeksofCloudOps) - this repository is created to learn and deploy 3-tire application on aws cloud. this project contain three layer and database mysql
+* 【2023-06-24】[azukaar / Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️Secure and Easy Self-hosted platform. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot, ...)
+* 【2023-06-24】[insoxin / API](https://github.com/insoxin/API) - API For Docker 一个基于多种编程语言开源免费不限制提供生活常用,出行服务,开发工具,金融服务,通讯服务和公益大数据的平台.
 * 【2023-06-23】[soundjester / lemmy_monkey](https://github.com/soundjester/lemmy_monkey) - *monkey scripts for Lemmy
 * 【2023-06-23】[100xDevs-hkirat / Week-2-Assignments](https://github.com/100xDevs-hkirat/Week-2-Assignments) - 
 * 【2023-06-23】[sveltejs / svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -308,6 +324,7 @@
 
 ## Go
 
+* 【2023-06-24】[Snowflake-Labs / terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Terraform provider for managing Snowflake accounts
 * 【2023-06-22】[devfullcycle / imersao13](https://github.com/devfullcycle/imersao13) - 
 * 【2023-06-21】[MrEmpy / mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
 * 【2023-06-20】[assetnote / surf](https://github.com/assetnote/surf) - Escalate your SSRF vulnerabilities on Modern Cloud Environments. `surf` allows you to filter a list of hosts, returning a list of viable SSRF candidates.
@@ -338,6 +355,9 @@
 
 ## C
 
+* 【2023-06-24】[jjshoots / RemoteIDSpoofer](https://github.com/jjshoots/RemoteIDSpoofer) - NodeMCU RemoteID Spoofer
+* 【2023-06-24】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
+* 【2023-06-24】[huanghongxun / HMCL-PE](https://github.com/huanghongxun/HMCL-PE) - Hello Minecraft! Launcher for Android
 * 【2023-06-23】[yuos-bit / Padavan](https://github.com/yuos-bit/Padavan) - This is Padavan for XiaoMi with yuos
 * 【2023-06-22】[appspa / app-space](https://github.com/appspa/app-space) - APP内测平台|应用分发| https://app-space.up.railway.app |内网部署|增量热更新|类似蒲公英 fir IOS超级签名免签 ,支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库
 * 【2023-06-22】[AliAlgur / Ania](https://github.com/AliAlgur/Ania) - 
@@ -377,6 +397,13 @@
 
 ## C++
 
+* 【2023-06-24】[Wh04m1001 / CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) - 
+* 【2023-06-24】[microsoft / cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
+* 【2023-06-24】[mawww / kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
+* 【2023-06-24】[Windscribe / Desktop-App](https://github.com/Windscribe/Desktop-App) - Windscribe 2.0 desktop client for Windows, Mac and Linux
+* 【2023-06-24】[cocomelonc / meow](https://github.com/cocomelonc/meow) - Cybersecurity research results. Simple C/C++ and Python implementations
+* 【2023-06-24】[jgromes / RadioLib](https://github.com/jgromes/RadioLib) - Universal wireless communication library for embedded devices
+* 【2023-06-24】[mbucchia / Meta-Foveated](https://github.com/mbucchia/Meta-Foveated) - An OpenXR API layer to emulate quad views and foveated rendering support on Quest Pro.
 * 【2023-06-21】[g3tsyst3m / elevationstation](https://github.com/g3tsyst3m/elevationstation) - elevate to SYSTEM any way we can! Metasploit and PSEXEC getsystem alternative
 * 【2023-06-21】[ztxz16 / fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，chatglm-6B级模型单卡可达10000+token / s，支持moss, chatglm, baichuan模型，手机端流畅运行
 * 【2023-06-21】[us3rT0m / OnlyUP-Trainer](https://github.com/us3rT0m/OnlyUP-Trainer) - 
@@ -403,6 +430,7 @@
 
 ## C#
 
+* 【2023-06-24】[trustedsec / CS_COFFLoader](https://github.com/trustedsec/CS_COFFLoader) - 
 * 【2023-06-23】[MicrosoftLearning / AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for AI-102 - AI Engineer
 * 【2023-06-23】[puff / EazyDevirt](https://github.com/puff/EazyDevirt) - A tool that automatically restores the original IL code from an assembly virtualized with Eazfuscator.NET
 * 【2023-06-23】[elastic / apm-agent-dotnet](https://github.com/elastic/apm-agent-dotnet) - Elastic APM .NET Agent
@@ -446,6 +474,7 @@
 
 ## Html
 
+* 【2023-06-24】[linuxmobile / hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄Hyprland Cute Dotfiles
 * 【2023-06-23】[CursoIBM / Repo1](https://github.com/CursoIBM/Repo1) - 
 * 【2023-06-23】[souying / vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 * 【2023-06-23】[Colt / TheWebDeveloperBootcampSolutions](https://github.com/Colt/TheWebDeveloperBootcampSolutions) - 
@@ -482,6 +511,8 @@
 
 ## Css
 
+* 【2023-06-24】[joy-of-react / hello-next](https://github.com/joy-of-react/hello-next) - 
+* 【2023-06-24】[isonnymichael / isonnymichael.github.io](https://github.com/isonnymichael/isonnymichael.github.io) - Portofolio
 * 【2023-06-23】[maticnetwork / zkevm-docs](https://github.com/maticnetwork/zkevm-docs) - The official documentation for Polygon zkEVM.
 * 【2023-06-23】[Xiumuzaidiao / Day-night-toggle-button](https://github.com/Xiumuzaidiao/Day-night-toggle-button) - 最近很火的折磨人挑战，复刻了一下，放到期末作业博客里了，大概有90%还原度(确实太折磨人了)
 * 【2023-06-21】[sb2nov / week2-devops](https://github.com/sb2nov/week2-devops) - 
@@ -529,6 +560,9 @@
 
 ## Unknown
 
+* 【2023-06-24】[aaronjense / Learn-Embedded-Systems](https://github.com/aaronjense/Learn-Embedded-Systems) - Resources to learn embedded systems engineering.
+* 【2023-06-24】[rshipp / awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
+* 【2023-06-24】[google / dreambooth](https://github.com/google/dreambooth) - 
 * 【2023-06-23】[SpeechifyInc / Meta-voicebox](https://github.com/SpeechifyInc/Meta-voicebox) - Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.
 * 【2023-06-23】[ProbiusOfficial / SecTool](https://github.com/ProbiusOfficial/SecTool) - Cybersecurity tool repository / Wiki 收录常用 / 前沿 的安全工具以及其文档，致力于减少工具收藏行为ww
 * 【2023-06-23】[qd-today / templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
