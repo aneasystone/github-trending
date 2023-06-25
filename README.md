@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-06-25】[Stability-AI / generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+* 【2023-06-25】[CASIA-IVA-Lab / FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
+* 【2023-06-25】[MustardChef / WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
+* 【2023-06-25】[joamag / boytacean](https://github.com/joamag/boytacean) - A GB emulator that is written in Rust🦀!
+* 【2023-06-25】[sebastianbergmann / phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
+* 【2023-06-25】[DSPBluePrints / FactoryBluePrints](https://github.com/DSPBluePrints/FactoryBluePrints) - 游戏戴森球计划的**工厂**蓝图仓库
 * 【2023-06-24】[a16z-infra / ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 * 【2023-06-24】[figma / plugin-samples](https://github.com/figma/plugin-samples) - 🔌Sample Figma plugins.
 * 【2023-06-24】[SkalskiP / top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - This repository is a curated collection of the most exciting and influential CVPR 2023 papers.🔥[Paper + Code]
@@ -133,6 +139,7 @@
 
 ## Java
 
+* 【2023-06-25】[JabRef / jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 * 【2023-06-24】[bruce-pang / pRPC](https://github.com/bruce-pang/pRPC) - A lightweight and easy-to-use RPC framework created by Bruce Pang
 * 【2023-06-24】[thaycacac / java](https://github.com/thaycacac/java) - All source java, data structures and algorithms, lab java...
 * 【2023-06-23】[datavane / datavines](https://github.com/datavane/datavines) - Know your data better！Datavines is Next-gen Data Observability Platform, supprt metadata manage and data quality.
@@ -178,6 +185,9 @@
 
 ## Python
 
+* 【2023-06-25】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+* 【2023-06-25】[locuslab / wanda](https://github.com/locuslab/wanda) - A simple and effective LLM pruning approach.
+* 【2023-06-25】[allenai / visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023)
 * 【2023-06-24】[ramonvc / freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
 * 【2023-06-24】[jxnl / openai_function_call](https://github.com/jxnl/openai_function_call) - Helper functions to create openai function calls w/ pydantic
 * 【2023-06-24】[ShadowWhisperer / Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge) - Uninstall Microsoft Edge silently, through an executable or batch script.
@@ -268,6 +278,7 @@
 
 ## Javascript
 
+* 【2023-06-25】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * 【2023-06-24】[SharpAI / DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 * 【2023-06-24】[Nextjs-kr / Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr) - Next.js Docs 한글화 작업
 * 【2023-06-24】[AnkitJodhani / 2nd10WeeksofCloudOps](https://github.com/AnkitJodhani/2nd10WeeksofCloudOps) - this repository is created to learn and deploy 3-tire application on aws cloud. this project contain three layer and database mysql
@@ -324,6 +335,7 @@
 
 ## Go
 
+* 【2023-06-25】[openmeterio / openmeter](https://github.com/openmeterio/openmeter) - Real-Time and Scalable Usage Metering
 * 【2023-06-24】[Snowflake-Labs / terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Terraform provider for managing Snowflake accounts
 * 【2023-06-22】[devfullcycle / imersao13](https://github.com/devfullcycle/imersao13) - 
 * 【2023-06-21】[MrEmpy / mantra](https://github.com/MrEmpy/mantra) - 「🔑」A tool used to hunt down API key leaks in JS files and pages
@@ -430,6 +442,7 @@
 
 ## C#
 
+* 【2023-06-25】[TradeOnSolutions / Steam-Desktop-Authenticator](https://github.com/TradeOnSolutions/Steam-Desktop-Authenticator) - 
 * 【2023-06-24】[trustedsec / CS_COFFLoader](https://github.com/trustedsec/CS_COFFLoader) - 
 * 【2023-06-23】[MicrosoftLearning / AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for AI-102 - AI Engineer
 * 【2023-06-23】[puff / EazyDevirt](https://github.com/puff/EazyDevirt) - A tool that automatically restores the original IL code from an assembly virtualized with Eazfuscator.NET
@@ -474,6 +487,8 @@
 
 ## Html
 
+* 【2023-06-25】[thedevdojo / pines](https://github.com/thedevdojo/pines) - The Pines UI library
+* 【2023-06-25】[asharbinkhalil / intellitoolz](https://github.com/asharbinkhalil/intellitoolz) - I am using these OSINT tools. This list include important domains of OSINT and their respective tools.
 * 【2023-06-24】[linuxmobile / hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄Hyprland Cute Dotfiles
 * 【2023-06-23】[CursoIBM / Repo1](https://github.com/CursoIBM/Repo1) - 
 * 【2023-06-23】[souying / vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
@@ -511,6 +526,9 @@
 
 ## Css
 
+* 【2023-06-25】[Eby-Tom / Tech-Utsav-ChristUniversity](https://github.com/Eby-Tom/Tech-Utsav-ChristUniversity) - Christ University Tech-Utsav Website
+* 【2023-06-25】[Eby-Tom / Project](https://github.com/Eby-Tom/Project) - 
+* 【2023-06-25】[Eby-Tom / Foobar-7-ChristUniversity](https://github.com/Eby-Tom/Foobar-7-ChristUniversity) - 
 * 【2023-06-24】[joy-of-react / hello-next](https://github.com/joy-of-react/hello-next) - 
 * 【2023-06-24】[isonnymichael / isonnymichael.github.io](https://github.com/isonnymichael/isonnymichael.github.io) - Portofolio
 * 【2023-06-23】[maticnetwork / zkevm-docs](https://github.com/maticnetwork/zkevm-docs) - The official documentation for Polygon zkEVM.
@@ -560,6 +578,9 @@
 
 ## Unknown
 
+* 【2023-06-25】[DevOps-Nirvana / Grafana-Dashboards](https://github.com/DevOps-Nirvana/Grafana-Dashboards) - A variety of open-source Grafana dashboards typically for AWS and Kubernetes
+* 【2023-06-25】[vishesh92 / pg-primer](https://github.com/vishesh92/pg-primer) - Beginner's guide to administering/managing postgresql
+* 【2023-06-25】[in28minutes / java-tutorial-for-beginners](https://github.com/in28minutes/java-tutorial-for-beginners) - Java Tutorial For Beginners with 500 Code Examples
 * 【2023-06-24】[aaronjense / Learn-Embedded-Systems](https://github.com/aaronjense/Learn-Embedded-Systems) - Resources to learn embedded systems engineering.
 * 【2023-06-24】[rshipp / awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
 * 【2023-06-24】[google / dreambooth](https://github.com/google/dreambooth) - 
