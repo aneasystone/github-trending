@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-26】[sadmann7 / skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
+* 【2023-06-26】[zksync / credo](https://github.com/zksync/credo) - 
+* 【2023-06-26】[embedchain / embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
 * 【2023-06-25】[Stability-AI / generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 * 【2023-06-25】[CASIA-IVA-Lab / FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 * 【2023-06-25】[MustardChef / WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (OpenGApps/ MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -139,6 +142,8 @@
 
 ## Java
 
+* 【2023-06-26】[PlayPro / CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
+* 【2023-06-26】[mindedsecurity / semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) - A collection of Semgrep rules derived from the OWASP MASTG specifically for Android applications.
 * 【2023-06-25】[JabRef / jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
 * 【2023-06-24】[bruce-pang / pRPC](https://github.com/bruce-pang/pRPC) - A lightweight and easy-to-use RPC framework created by Bruce Pang
 * 【2023-06-24】[thaycacac / java](https://github.com/thaycacac/java) - All source java, data structures and algorithms, lab java...
@@ -185,6 +190,8 @@
 
 ## Python
 
+* 【2023-06-26】[SizheAn / PanoHead](https://github.com/SizheAn/PanoHead) - Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
+* 【2023-06-26】[eric-mitchell / direct-preference-optimization](https://github.com/eric-mitchell/direct-preference-optimization) - Reference implementation for DPO (Direct Preference Optimization)
 * 【2023-06-25】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 * 【2023-06-25】[locuslab / wanda](https://github.com/locuslab/wanda) - A simple and effective LLM pruning approach.
 * 【2023-06-25】[allenai / visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023)
@@ -367,6 +374,7 @@
 
 ## C
 
+* 【2023-06-26】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 * 【2023-06-24】[jjshoots / RemoteIDSpoofer](https://github.com/jjshoots/RemoteIDSpoofer) - NodeMCU RemoteID Spoofer
 * 【2023-06-24】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
 * 【2023-06-24】[huanghongxun / HMCL-PE](https://github.com/huanghongxun/HMCL-PE) - Hello Minecraft! Launcher for Android
@@ -409,6 +417,7 @@
 
 ## C++
 
+* 【2023-06-26】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 * 【2023-06-24】[Wh04m1001 / CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) - 
 * 【2023-06-24】[microsoft / cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
 * 【2023-06-24】[mawww / kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -442,6 +451,8 @@
 
 ## C#
 
+* 【2023-06-26】[SnaffCon / Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
+* 【2023-06-26】[JasperFx / wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 * 【2023-06-25】[TradeOnSolutions / Steam-Desktop-Authenticator](https://github.com/TradeOnSolutions/Steam-Desktop-Authenticator) - 
 * 【2023-06-24】[trustedsec / CS_COFFLoader](https://github.com/trustedsec/CS_COFFLoader) - 
 * 【2023-06-23】[MicrosoftLearning / AI-102-AIEngineer](https://github.com/MicrosoftLearning/AI-102-AIEngineer) - Lab files for AI-102 - AI Engineer
@@ -487,6 +498,9 @@
 
 ## Html
 
+* 【2023-06-26】[oobabooga / oobabooga.github.io](https://github.com/oobabooga/oobabooga.github.io) - 
+* 【2023-06-26】[Bionus / imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
+* 【2023-06-26】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
 * 【2023-06-25】[thedevdojo / pines](https://github.com/thedevdojo/pines) - The Pines UI library
 * 【2023-06-25】[asharbinkhalil / intellitoolz](https://github.com/asharbinkhalil/intellitoolz) - I am using these OSINT tools. This list include important domains of OSINT and their respective tools.
 * 【2023-06-24】[linuxmobile / hyprland-dots](https://github.com/linuxmobile/hyprland-dots) - 🦄Hyprland Cute Dotfiles
@@ -526,6 +540,7 @@
 
 ## Css
 
+* 【2023-06-26】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音视频/图集/音频/直播下载工具
 * 【2023-06-25】[Eby-Tom / Tech-Utsav-ChristUniversity](https://github.com/Eby-Tom/Tech-Utsav-ChristUniversity) - Christ University Tech-Utsav Website
 * 【2023-06-25】[Eby-Tom / Project](https://github.com/Eby-Tom/Project) - 
 * 【2023-06-25】[Eby-Tom / Foobar-7-ChristUniversity](https://github.com/Eby-Tom/Foobar-7-ChristUniversity) - 
@@ -578,6 +593,9 @@
 
 ## Unknown
 
+* 【2023-06-26】[e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+* 【2023-06-26】[RoseSecurity / Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
+* 【2023-06-26】[TinrLin / NaiveProxy-installation](https://github.com/TinrLin/NaiveProxy-installation) - This construction method supports custom ports
 * 【2023-06-25】[DevOps-Nirvana / Grafana-Dashboards](https://github.com/DevOps-Nirvana/Grafana-Dashboards) - A variety of open-source Grafana dashboards typically for AWS and Kubernetes
 * 【2023-06-25】[vishesh92 / pg-primer](https://github.com/vishesh92/pg-primer) - Beginner's guide to administering/managing postgresql
 * 【2023-06-25】[in28minutes / java-tutorial-for-beginners](https://github.com/in28minutes/java-tutorial-for-beginners) - Java Tutorial For Beginners with 500 Code Examples
