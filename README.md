@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-06-28】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+* 【2023-06-28】[xitanggg / open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * 【2023-06-27】[binpash / try](https://github.com/binpash/try) - "Do, or do not. There is no try." We're setting out to change that: `try cmd` and commit---or not.
 * 【2023-06-27】[sb-ocr / diy-spacemouse](https://github.com/sb-ocr/diy-spacemouse) - A DIY navigation device for Fusion360
 * 【2023-06-27】[adrianhajdin / project_nextjs13_flexibble](https://github.com/adrianhajdin/project_nextjs13_flexibble) - 
@@ -145,6 +147,7 @@
 
 ## Java
 
+* 【2023-06-28】[OpenIMSDK / Open-IM-SDK-Android](https://github.com/OpenIMSDK/Open-IM-SDK-Android) - 即时通讯IM Android
 * 【2023-06-26】[PlayPro / CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
 * 【2023-06-26】[mindedsecurity / semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) - A collection of Semgrep rules derived from the OWASP MASTG specifically for Android applications.
 * 【2023-06-25】[JabRef / jabref](https://github.com/JabRef/jabref) - Graphical Java application for managing BibTeX and biblatex (.bib) databases
@@ -193,6 +196,10 @@
 
 ## Python
 
+* 【2023-06-28】[mosaicml / streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
+* 【2023-06-28】[hiyouga / ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) - Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调
+* 【2023-06-28】[NVlabs / stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
+* 【2023-06-28】[TermuxHackz / X-osint](https://github.com/TermuxHackz/X-osint) - This is an Open source intelligent framework ie an osint tool which gathers valid information about a phone number, user's email address, perform VIN Osint, and reverse, perform subdomain enumeration, able to find email from a name, and so much more. Best osint tool for Termux and linux
 * 【2023-06-26】[SizheAn / PanoHead](https://github.com/SizheAn/PanoHead) - Code Repository for CVPR 2023 Paper "PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 degree"
 * 【2023-06-26】[eric-mitchell / direct-preference-optimization](https://github.com/eric-mitchell/direct-preference-optimization) - Reference implementation for DPO (Direct Preference Optimization)
 * 【2023-06-25】[magic-wormhole / magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -288,6 +295,7 @@
 
 ## Javascript
 
+* 【2023-06-28】[HabitRPG / habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 * 【2023-06-27】[zotero / zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 * 【2023-06-27】[ArtVentureX / sd-webui-agent-scheduler](https://github.com/ArtVentureX/sd-webui-agent-scheduler) - 
 * 【2023-06-25】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -347,6 +355,7 @@
 
 ## Go
 
+* 【2023-06-28】[rosedblabs / rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 * 【2023-06-27】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
 * 【2023-06-27】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - 
 * 【2023-06-27】[youshandefeiyang / LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
@@ -382,6 +391,9 @@
 
 ## C
 
+* 【2023-06-28】[df308 / x9](https://github.com/df308/x9) - high performance message passing library
+* 【2023-06-28】[jfedor2 / flatbox](https://github.com/jfedor2/flatbox) - Low profile hitbox-layout fightstick
+* 【2023-06-28】[MichaelFinance / CTP_DEV_NOTE](https://github.com/MichaelFinance/CTP_DEV_NOTE) - 
 * 【2023-06-27】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 * 【2023-06-26】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 * 【2023-06-24】[jjshoots / RemoteIDSpoofer](https://github.com/jjshoots/RemoteIDSpoofer) - NodeMCU RemoteID Spoofer
@@ -426,6 +438,7 @@
 
 ## C++
 
+* 【2023-06-28】[Puellaquae / Desktop-Snake](https://github.com/Puellaquae/Desktop-Snake) - A Snake Game Play With Desktop Icons
 * 【2023-06-26】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 * 【2023-06-24】[Wh04m1001 / CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) - 
 * 【2023-06-24】[microsoft / cppwinrt](https://github.com/microsoft/cppwinrt) - C++/WinRT
@@ -460,6 +473,8 @@
 
 ## C#
 
+* 【2023-06-28】[MakcStudio / SteamDesktopAuthenticator](https://github.com/MakcStudio/SteamDesktopAuthenticator) - 
+* 【2023-06-28】[FDlucifer / Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :)
 * 【2023-06-26】[SnaffCon / Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
 * 【2023-06-26】[JasperFx / wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 * 【2023-06-25】[TradeOnSolutions / Steam-Desktop-Authenticator](https://github.com/TradeOnSolutions/Steam-Desktop-Authenticator) - 
@@ -507,6 +522,7 @@
 
 ## Html
 
+* 【2023-06-28】[Mixtape-Sessions / Advanced-DID](https://github.com/Mixtape-Sessions/Advanced-DID) - Advanced Differnce-in-Differences Mixtape Track taught by Jonathan Roth
 * 【2023-06-27】[praveensirvi1212 / DevOps_MasterPiece-CI-with-Jenkins](https://github.com/praveensirvi1212/DevOps_MasterPiece-CI-with-Jenkins) - DevOps-MasterPiece Project using Git, GitHub, Jenkins, Maven, JUnit, SonarQube, Jfrog Artifactory, Docker, Trivy, AWS S3, Docker Hub, GitHub CLI, EKS, ArgoCD, Prometheus, Grafana, Slack and Hashicorp Vault
 * 【2023-06-26】[oobabooga / oobabooga.github.io](https://github.com/oobabooga/oobabooga.github.io) - 
 * 【2023-06-26】[Bionus / imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
@@ -550,6 +566,10 @@
 
 ## Css
 
+* 【2023-06-28】[dhjddcn / halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly🦋
+* 【2023-06-28】[felipethomas / site-portfolio](https://github.com/felipethomas/site-portfolio) - Site que representa o portfólio de Felipe Thomas
+* 【2023-06-28】[TykTechnologies / tyk-docs](https://github.com/TykTechnologies/tyk-docs) - Docs for Tyk Open source API gateway and API management platform. 100% Cloud native
+* 【2023-06-28】[fikrcamp / vowels-app](https://github.com/fikrcamp/vowels-app) - 
 * 【2023-06-27】[Colt / CSSGridTutorial](https://github.com/Colt/CSSGridTutorial) - 
 * 【2023-06-26】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音视频/图集/音频/直播下载工具
 * 【2023-06-25】[Eby-Tom / Tech-Utsav-ChristUniversity](https://github.com/Eby-Tom/Tech-Utsav-ChristUniversity) - Christ University Tech-Utsav Website
@@ -604,6 +624,11 @@
 
 ## Unknown
 
+* 【2023-06-28】[wgwang / LLMs-In-China](https://github.com/wgwang/LLMs-In-China) - 中国大模型
+* 【2023-06-28】[DataScienceNigeria / DSN-50-days-of-learning-2023](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023) - 
+* 【2023-06-28】[eatingurtoes / g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
+* 【2023-06-28】[DSXiangLi / DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) - 总结Prompt&LLM论文，开源数据&模型，AIGC应用
+* 【2023-06-28】[filipecalegario / awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
 * 【2023-06-26】[e2b-dev / awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 * 【2023-06-26】[RoseSecurity / Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs) - Useful Techniques, Tactics, and Procedures for red teamers and defenders, alike!
 * 【2023-06-26】[TinrLin / NaiveProxy-installation](https://github.com/TinrLin/NaiveProxy-installation) - This construction method supports custom ports
