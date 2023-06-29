@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-29】[steven-tey / chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
+* 【2023-06-29】[alexbei / telegram-groups](https://github.com/alexbei/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
+* 【2023-06-29】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed
 * 【2023-06-28】[THUDM / ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 * 【2023-06-28】[xitanggg / open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * 【2023-06-27】[binpash / try](https://github.com/binpash/try) - "Do, or do not. There is no try." We're setting out to change that: `try cmd` and commit---or not.
@@ -196,6 +199,9 @@
 
 ## Python
 
+* 【2023-06-29】[salesforce / PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
+* 【2023-06-29】[WilliamStar007 / ClashX-V2Ray-TopFreeProxy](https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy) - Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]
+* 【2023-06-29】[OpenGVLab / DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 * 【2023-06-28】[mosaicml / streaming](https://github.com/mosaicml/streaming) - A Data Streaming Library for Efficient Neural Network Training
 * 【2023-06-28】[hiyouga / ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) - Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调
 * 【2023-06-28】[NVlabs / stylegan3](https://github.com/NVlabs/stylegan3) - Official PyTorch implementation of StyleGAN3
@@ -295,6 +301,9 @@
 
 ## Javascript
 
+* 【2023-06-29】[Lunakepio / death-star-trench-run](https://github.com/Lunakepio/death-star-trench-run) - 
+* 【2023-06-29】[uuidjs / uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
+* 【2023-06-29】[Adamant-im / adamant-coinoptimus](https://github.com/Adamant-im/adamant-coinoptimus) - Free self-hosted cryptocurrency trade bot for non-professional traders
 * 【2023-06-28】[HabitRPG / habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 * 【2023-06-27】[zotero / zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 * 【2023-06-27】[ArtVentureX / sd-webui-agent-scheduler](https://github.com/ArtVentureX/sd-webui-agent-scheduler) - 
@@ -438,6 +447,7 @@
 
 ## C++
 
+* 【2023-06-29】[colind0pe / AV-Bypass-Learning](https://github.com/colind0pe/AV-Bypass-Learning) - 免杀学习笔记
 * 【2023-06-28】[Puellaquae / Desktop-Snake](https://github.com/Puellaquae/Desktop-Snake) - A Snake Game Play With Desktop Icons
 * 【2023-06-26】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 * 【2023-06-24】[Wh04m1001 / CVE-2023-20178](https://github.com/Wh04m1001/CVE-2023-20178) - 
@@ -473,6 +483,8 @@
 
 ## C#
 
+* 【2023-06-29】[dotnet / roslyn-sdk](https://github.com/dotnet/roslyn-sdk) - Roslyn-SDK templates and Syntax Visualizer
+* 【2023-06-29】[nozzlegear / ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores.
 * 【2023-06-28】[MakcStudio / SteamDesktopAuthenticator](https://github.com/MakcStudio/SteamDesktopAuthenticator) - 
 * 【2023-06-28】[FDlucifer / Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) - proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :)
 * 【2023-06-26】[SnaffCon / Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
@@ -522,6 +534,8 @@
 
 ## Html
 
+* 【2023-06-29】[cure53 / HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
+* 【2023-06-29】[duckduckgo / iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 * 【2023-06-28】[Mixtape-Sessions / Advanced-DID](https://github.com/Mixtape-Sessions/Advanced-DID) - Advanced Differnce-in-Differences Mixtape Track taught by Jonathan Roth
 * 【2023-06-27】[praveensirvi1212 / DevOps_MasterPiece-CI-with-Jenkins](https://github.com/praveensirvi1212/DevOps_MasterPiece-CI-with-Jenkins) - DevOps-MasterPiece Project using Git, GitHub, Jenkins, Maven, JUnit, SonarQube, Jfrog Artifactory, Docker, Trivy, AWS S3, Docker Hub, GitHub CLI, EKS, ArgoCD, Prometheus, Grafana, Slack and Hashicorp Vault
 * 【2023-06-26】[oobabooga / oobabooga.github.io](https://github.com/oobabooga/oobabooga.github.io) - 
@@ -566,6 +580,12 @@
 
 ## Css
 
+* 【2023-06-29】[codepath / site-week4-project3-lifetracker-starter](https://github.com/codepath/site-week4-project3-lifetracker-starter) - CURRENT - 2023 SITE Starter Code for LifeTracker Assignment starter code
+* 【2023-06-29】[elixir-europe-training / CodeReproducibility](https://github.com/elixir-europe-training/CodeReproducibility) - Current URL: https://elixir-europe-training.github.io/CodeReproducibility/
+* 【2023-06-29】[evilseye / Zoop-Hacktoberfest](https://github.com/evilseye/Zoop-Hacktoberfest) - Zoop is all about connecting :D
+* 【2023-06-29】[reworkcss / css](https://github.com/reworkcss/css) - CSS parser / stringifier for Node.js
+* 【2023-06-29】[codervivek5 / VigyBag](https://github.com/codervivek5/VigyBag) - A location-based shopping website uses GPS to show users nearby businesses offering products/services they search for. Users can compare prices and make purchases through the site, making it helpful for local shopping and finding location-specific items.
+* 【2023-06-29】[pylabview / Buonos-Pizza_v2](https://github.com/pylabview/Buonos-Pizza_v2) - 
 * 【2023-06-28】[dhjddcn / halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly🦋
 * 【2023-06-28】[felipethomas / site-portfolio](https://github.com/felipethomas/site-portfolio) - Site que representa o portfólio de Felipe Thomas
 * 【2023-06-28】[TykTechnologies / tyk-docs](https://github.com/TykTechnologies/tyk-docs) - Docs for Tyk Open source API gateway and API management platform. 100% Cloud native
@@ -624,6 +644,8 @@
 
 ## Unknown
 
+* 【2023-06-29】[OpenMotionLab / MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
+* 【2023-06-29】[tauri-apps / awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀Awesome Tauri Apps, Plugins and Resources
 * 【2023-06-28】[wgwang / LLMs-In-China](https://github.com/wgwang/LLMs-In-China) - 中国大模型
 * 【2023-06-28】[DataScienceNigeria / DSN-50-days-of-learning-2023](https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023) - 
 * 【2023-06-28】[eatingurtoes / g1lbertCFW](https://github.com/eatingurtoes/g1lbertCFW) - The first untethered jailbreak for all versions of iOS 5.
