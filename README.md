@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-06-30】[ChaoningZhang / MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight
+* 【2023-06-30】[sohamkamani / javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
+* 【2023-06-30】[fuqiuluo / unidbg-fetch-qsign](https://github.com/fuqiuluo/unidbg-fetch-qsign) - 获取QQSign通过Unidbg
 * 【2023-06-29】[steven-tey / chathn](https://github.com/steven-tey/chathn) - Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
 * 【2023-06-29】[alexbei / telegram-groups](https://github.com/alexbei/telegram-groups) - 经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在issue中留言或提交pull requests。感谢您的关注！
 * 【2023-06-29】[cvg / LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed
@@ -199,6 +202,9 @@
 
 ## Python
 
+* 【2023-06-30】[aolofsson / awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
+* 【2023-06-30】[abacaj / mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) - Run inference on MPT-30B using CPU
+* 【2023-06-30】[GitHubSecurityLab / actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions
 * 【2023-06-29】[salesforce / PyRCA](https://github.com/salesforce/PyRCA) - PyRCA: A Python Machine Learning Library for Root Cause Analysis
 * 【2023-06-29】[WilliamStar007 / ClashX-V2Ray-TopFreeProxy](https://github.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy) - Top free VPN (ClashX & V2Ray proxy) with subscription links. [免费VPN、免费梯子、免费科学上网、免费订阅链接、免费节点、精选、ClashX & V2Ray 教程]
 * 【2023-06-29】[OpenGVLab / DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
@@ -301,6 +307,8 @@
 
 ## Javascript
 
+* 【2023-06-30】[100xDevs-hkirat / all-assignments](https://github.com/100xDevs-hkirat/all-assignments) - 
+* 【2023-06-30】[cytoscape / cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 * 【2023-06-29】[Lunakepio / death-star-trench-run](https://github.com/Lunakepio/death-star-trench-run) - 
 * 【2023-06-29】[uuidjs / uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript
 * 【2023-06-29】[Adamant-im / adamant-coinoptimus](https://github.com/Adamant-im/adamant-coinoptimus) - Free self-hosted cryptocurrency trade bot for non-professional traders
@@ -364,6 +372,7 @@
 
 ## Go
 
+* 【2023-06-30】[KubeDev / idc-ms-chatgpt](https://github.com/KubeDev/idc-ms-chatgpt) - 
 * 【2023-06-28】[rosedblabs / rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 * 【2023-06-27】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
 * 【2023-06-27】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - 
@@ -400,6 +409,10 @@
 
 ## C
 
+* 【2023-06-30】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
+* 【2023-06-30】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
+* 【2023-06-30】[antirez / kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
+* 【2023-06-30】[tinycorelinux / tinyx](https://github.com/tinycorelinux/tinyx) - 
 * 【2023-06-28】[df308 / x9](https://github.com/df308/x9) - high performance message passing library
 * 【2023-06-28】[jfedor2 / flatbox](https://github.com/jfedor2/flatbox) - Low profile hitbox-layout fightstick
 * 【2023-06-28】[MichaelFinance / CTP_DEV_NOTE](https://github.com/MichaelFinance/CTP_DEV_NOTE) - 
@@ -483,6 +496,10 @@
 
 ## C#
 
+* 【2023-06-30】[AbkarinoMHM / PS4SysconTools](https://github.com/AbkarinoMHM/PS4SysconTools) - PS4 Syscon Tools is a free solution that allow you to manipulate original PlayStation 4 Syscon chip (Renesas RL78/G13).
+* 【2023-06-30】[oqtane / oqtane.framework](https://github.com/oqtane/oqtane.framework) - CMS & Application Framework for Blazor & .NET MAUI
+* 【2023-06-30】[MessagePack-CSharp / MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
+* 【2023-06-30】[dotnet-state-machine / stateless](https://github.com/dotnet-state-machine/stateless) - A simple library for creating state machines in C# code
 * 【2023-06-29】[dotnet / roslyn-sdk](https://github.com/dotnet/roslyn-sdk) - Roslyn-SDK templates and Syntax Visualizer
 * 【2023-06-29】[nozzlegear / ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - ShopifySharp is a .NET library that helps developers easily authenticate with and manage Shopify stores.
 * 【2023-06-28】[MakcStudio / SteamDesktopAuthenticator](https://github.com/MakcStudio/SteamDesktopAuthenticator) - 
@@ -534,6 +551,7 @@
 
 ## Html
 
+* 【2023-06-30】[rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 * 【2023-06-29】[cure53 / HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 * 【2023-06-29】[duckduckgo / iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
 * 【2023-06-28】[Mixtape-Sessions / Advanced-DID](https://github.com/Mixtape-Sessions/Advanced-DID) - Advanced Differnce-in-Differences Mixtape Track taught by Jonathan Roth
@@ -580,6 +598,11 @@
 
 ## Css
 
+* 【2023-06-30】[yandinovriandi / WMH](https://github.com/yandinovriandi/WMH) - Wifi Monitoring Hotspot
+* 【2023-06-30】[lcrowther-snyk / mongoose](https://github.com/lcrowther-snyk/mongoose) - 
+* 【2023-06-30】[chartchai / 331-Lab01-Intro-to-vue](https://github.com/chartchai/331-Lab01-Intro-to-vue) - Inital code for Introdcution to vue
+* 【2023-06-30】[lcrowther-snyk / file-explorer](https://github.com/lcrowther-snyk/file-explorer) - 
+* 【2023-06-30】[oldinaction / ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP) - （**承接各类小程序开发**）基于ChatGPT实现的微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。
 * 【2023-06-29】[codepath / site-week4-project3-lifetracker-starter](https://github.com/codepath/site-week4-project3-lifetracker-starter) - CURRENT - 2023 SITE Starter Code for LifeTracker Assignment starter code
 * 【2023-06-29】[elixir-europe-training / CodeReproducibility](https://github.com/elixir-europe-training/CodeReproducibility) - Current URL: https://elixir-europe-training.github.io/CodeReproducibility/
 * 【2023-06-29】[evilseye / Zoop-Hacktoberfest](https://github.com/evilseye/Zoop-Hacktoberfest) - Zoop is all about connecting :D
@@ -644,6 +667,8 @@
 
 ## Unknown
 
+* 【2023-06-30】[nomi-sec / PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.
+* 【2023-06-30】[chinaBerg / awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 * 【2023-06-29】[OpenMotionLab / MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
 * 【2023-06-29】[tauri-apps / awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀Awesome Tauri Apps, Plugins and Resources
 * 【2023-06-28】[wgwang / LLMs-In-China](https://github.com/wgwang/LLMs-In-China) - 中国大模型
