@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-02】[OpenDriveLab / End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
+* 【2023-07-02】[teslamotors / fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) - 
+* 【2023-07-02】[jetpack-io / typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 * 【2023-07-01】[slarkvan / Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet.
 * 【2023-07-01】[WeMakeDevs / open-source-course](https://github.com/WeMakeDevs/open-source-course) - 
 * 【2023-07-01】[mengjian-github / copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 
@@ -159,6 +162,8 @@
 
 ## Java
 
+* 【2023-07-02】[AlmasB / FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
+* 【2023-07-02】[sksalahuddin2828 / Java](https://github.com/sksalahuddin2828/Java) - Explore something new
 * 【2023-06-28】[OpenIMSDK / Open-IM-SDK-Android](https://github.com/OpenIMSDK/Open-IM-SDK-Android) - 即时通讯IM Android
 * 【2023-06-26】[PlayPro / CoreProtect](https://github.com/PlayPro/CoreProtect) - CoreProtect is a blazing fast data logging and anti-griefing tool for Minecraft servers.
 * 【2023-06-26】[mindedsecurity / semgrep-rules-android-security](https://github.com/mindedsecurity/semgrep-rules-android-security) - A collection of Semgrep rules derived from the OWASP MASTG specifically for Android applications.
@@ -208,6 +213,10 @@
 
 ## Python
 
+* 【2023-07-02】[databrickslabs / pyspark-ai](https://github.com/databrickslabs/pyspark-ai) - English SDK for Apache Spark
+* 【2023-07-02】[firmai / financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
+* 【2023-07-02】[IMOSR / Media-LLaMA](https://github.com/IMOSR/Media-LLaMA) - 中文的自媒体大语言模型
+* 【2023-07-02】[thunlp / UltraChat](https://github.com/thunlp/UltraChat) - Large-scale, Informative, and Diverse Multi-round Chat Data (and Models)
 * 【2023-07-01】[databricks / databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
 * 【2023-07-01】[Uminosachi / sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.
 * 【2023-07-01】[WKL-Sec / WMIExec](https://github.com/WKL-Sec/WMIExec) - Set of python scripts which perform different ways of command execution via WMI protocol.
@@ -320,6 +329,7 @@
 
 ## Javascript
 
+* 【2023-07-02】[kudoai / chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖A powerful client-side JavaScript library for ChatGPT
 * 【2023-07-01】[painebenjamin / app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp
 * 【2023-07-01】[alexcasalboni / aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
 * 【2023-07-01】[adamyi / wechrome](https://github.com/adamyi/wechrome) - Chrome extension to unblock web wechat
@@ -390,6 +400,7 @@
 
 ## Go
 
+* 【2023-07-02】[openark / orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 * 【2023-07-01】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 * 【2023-07-01】[prebid / prebid-server](https://github.com/prebid/prebid-server) - Server side component to offload prebid processing to the cloud
 * 【2023-07-01】[gotenberg / gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
@@ -430,6 +441,10 @@
 
 ## C
 
+* 【2023-07-02】[oracle-samples / bpftune](https://github.com/oracle-samples/bpftune) - bpftune uses BPF to auto-tune Linux systems
+* 【2023-07-02】[TurtleARM / CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338) - Linux kernel LPE practice with an NPD vulnerability
+* 【2023-07-02】[rockchip-linux / mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
+* 【2023-07-02】[alx-tools / make_magic_happen](https://github.com/alx-tools/make_magic_happen) - Make Magic Happen
 * 【2023-07-01】[galbraithmedia1 / Mini-Tv-ESP32](https://github.com/galbraithmedia1/Mini-Tv-ESP32) - Project Files for ESP32 Mini TV
 * 【2023-07-01】[libvips / libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 * 【2023-06-30】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
@@ -483,6 +498,9 @@
 
 ## C++
 
+* 【2023-07-02】[XaFF-XaFF / Kernel-Process-Hollowing](https://github.com/XaFF-XaFF/Kernel-Process-Hollowing) - Windows x64 kernel mode rootkit process hollowing POC.
+* 【2023-07-02】[manticoresoftware / manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+* 【2023-07-02】[sksalahuddin2828 / C_Plus_Plus](https://github.com/sksalahuddin2828/C_Plus_Plus) - Explore something new
 * 【2023-07-01】[apache / kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 * 【2023-07-01】[chichengcn / gici-open](https://github.com/chichengcn/gici-open) - GNSS/INS/Camera Integrated Navigation Library
 * 【2023-06-29】[colind0pe / AV-Bypass-Learning](https://github.com/colind0pe/AV-Bypass-Learning) - 免杀学习笔记
@@ -521,6 +539,8 @@
 
 ## C#
 
+* 【2023-07-02】[SunnyDesignor / PowerfulWindSlickedBackHairCS-LX_Improve](https://github.com/SunnyDesignor/PowerfulWindSlickedBackHairCS-LX_Improve) - 
+* 【2023-07-02】[Eimaen / JustAsPlanned](https://github.com/Eimaen/JustAsPlanned) - Muse Dash DLC unlocking meme for Steam version. Maybe you shouldn't pay for pixel Reimu?
 * 【2023-07-01】[werdhaihai / AtlasReaper](https://github.com/werdhaihai/AtlasReaper) - A command-line tool for reconnaissance and targeted write operations on Confluence and Jira instances.
 * 【2023-07-01】[geel9 / SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality
 * 【2023-07-01】[AliBharwani / Drecon](https://github.com/AliBharwani/Drecon) - Drecon implementation
@@ -579,6 +599,7 @@
 
 ## Html
 
+* 【2023-07-02】[swagkarna / Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images exact location device info and much more
 * 【2023-07-01】[cdfmlr / muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 * 【2023-06-30】[rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 * 【2023-06-29】[cure53 / HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
@@ -698,6 +719,11 @@
 
 ## Unknown
 
+* 【2023-07-02】[PKU-YuanGroup / ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
+* 【2023-07-02】[PortSwigger / BChecks](https://github.com/PortSwigger/BChecks) - BChecks collection for Burp Suite Professional
+* 【2023-07-02】[jassics / awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
+* 【2023-07-02】[Threekiii / Vulhub-Reproduce](https://github.com/Threekiii/Vulhub-Reproduce) - 一个Vulhub漏洞复现知识库
+* 【2023-07-02】[getActivity / AndroidGithubBoss](https://github.com/getActivity/AndroidGithubBoss) - Github Android 个人技术开源影响力排行榜
 * 【2023-07-01】[ahmetbersoz / chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
 * 【2023-07-01】[davidlinsley / DragonBasic](https://github.com/davidlinsley/DragonBasic) - This repository contains the source code for the Dragon 64 versions of the Microsoft 16K BASIC Interpreter for the Motorola 6809 (aka BASIC-69 and Extended Color BASIC).
 * 【2023-07-01】[Citi / citi-ospo](https://github.com/Citi/citi-ospo) - A collection of guidelines and resources from Citi's Open Source Program Office
