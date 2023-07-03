@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-03】[EthanArbuckle / Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) - Tweak to use your own reddit API credentials in Apollo
+* 【2023-07-03】[aeharding / wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
+* 【2023-07-03】[Orange-OpenSource / hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 * 【2023-07-02】[OpenDriveLab / End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving) - All you need for End-to-end Autonomous Driving
 * 【2023-07-02】[teslamotors / fleet-telemetry](https://github.com/teslamotors/fleet-telemetry) - 
 * 【2023-07-02】[jetpack-io / typeid](https://github.com/jetpack-io/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -162,6 +165,7 @@
 
 ## Java
 
+* 【2023-07-03】[NEZNAMY / TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
 * 【2023-07-02】[AlmasB / FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 * 【2023-07-02】[sksalahuddin2828 / Java](https://github.com/sksalahuddin2828/Java) - Explore something new
 * 【2023-06-28】[OpenIMSDK / Open-IM-SDK-Android](https://github.com/OpenIMSDK/Open-IM-SDK-Android) - 即时通讯IM Android
@@ -213,6 +217,8 @@
 
 ## Python
 
+* 【2023-07-03】[geekan / MetaGPT](https://github.com/geekan/MetaGPT) - Given Boss Requirement, return PRD, Design, Tasks, Repo
+* 【2023-07-03】[RedKatz / SocialMediaHackingToolkit](https://github.com/RedKatz/SocialMediaHackingToolkit) - Social Media Hacking Toolkit is a collection of tools designed to carry out attacks such as brute-force attacks, mass reporting, and phishing on social media platforms including Instagram, Facebook, Twitter, and Gmail.
 * 【2023-07-02】[databrickslabs / pyspark-ai](https://github.com/databrickslabs/pyspark-ai) - English SDK for Apache Spark
 * 【2023-07-02】[firmai / financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications.
 * 【2023-07-02】[IMOSR / Media-LLaMA](https://github.com/IMOSR/Media-LLaMA) - 中文的自媒体大语言模型
@@ -329,6 +335,7 @@
 
 ## Javascript
 
+* 【2023-07-03】[3Kmfi6HP / EDtunnel](https://github.com/3Kmfi6HP/EDtunnel) - 
 * 【2023-07-02】[kudoai / chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖A powerful client-side JavaScript library for ChatGPT
 * 【2023-07-01】[painebenjamin / app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp
 * 【2023-07-01】[alexcasalboni / aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
@@ -400,6 +407,8 @@
 
 ## Go
 
+* 【2023-07-03】[miguelmota / golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
+* 【2023-07-03】[stealthrocket / timecraft](https://github.com/stealthrocket/timecraft) - The WebAssembly Time Machine
 * 【2023-07-02】[openark / orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
 * 【2023-07-01】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 * 【2023-07-01】[prebid / prebid-server](https://github.com/prebid/prebid-server) - Server side component to offload prebid processing to the cloud
@@ -441,6 +450,8 @@
 
 ## C
 
+* 【2023-07-03】[fortra / CVE-2023-28252](https://github.com/fortra/CVE-2023-28252) - 
+* 【2023-07-03】[sksalahuddin2828 / C_Programming](https://github.com/sksalahuddin2828/C_Programming) - Testing in CPython
 * 【2023-07-02】[oracle-samples / bpftune](https://github.com/oracle-samples/bpftune) - bpftune uses BPF to auto-tune Linux systems
 * 【2023-07-02】[TurtleARM / CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338) - Linux kernel LPE practice with an NPD vulnerability
 * 【2023-07-02】[rockchip-linux / mpp](https://github.com/rockchip-linux/mpp) - Media Process Platform (MPP) module
@@ -599,6 +610,8 @@
 
 ## Html
 
+* 【2023-07-03】[SHSSEDU / shssedu.github.io](https://github.com/SHSSEDU/shssedu.github.io) - 山河大学官方网站
+* 【2023-07-03】[OpenUnited / ux-prototype](https://github.com/OpenUnited/ux-prototype) - 
 * 【2023-07-02】[swagkarna / Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images exact location device info and much more
 * 【2023-07-01】[cdfmlr / muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 * 【2023-06-30】[rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
@@ -648,6 +661,8 @@
 
 ## Css
 
+* 【2023-07-03】[Dinil-Thilakarathne / 50-css-projects](https://github.com/Dinil-Thilakarathne/50-css-projects) - You can find all source codes for all 50+ css projects here
+* 【2023-07-03】[jigar-sable / Portfolio-Website](https://github.com/jigar-sable/Portfolio-Website) - Portfolio Website build using HTML5, CSS3, JavaScript and jQuery
 * 【2023-07-01】[AsmrProg-YT / Dashboard-Designs](https://github.com/AsmrProg-YT/Dashboard-Designs) - AsmrProg Youtube Channel Dashboard Designs Code Collection
 * 【2023-07-01】[poole / poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 * 【2023-06-30】[yandinovriandi / WMH](https://github.com/yandinovriandi/WMH) - Wifi Monitoring Hotspot
@@ -719,6 +734,10 @@
 
 ## Unknown
 
+* 【2023-07-03】[One-2-3-45 / One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - 
+* 【2023-07-03】[lahin31 / system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
+* 【2023-07-03】[chinmay-farkya / solidity-notes](https://github.com/chinmay-farkya/solidity-notes) - 
+* 【2023-07-03】[xdite / learn-hack](https://github.com/xdite/learn-hack) - 打造超人學習
 * 【2023-07-02】[PKU-YuanGroup / ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
 * 【2023-07-02】[PortSwigger / BChecks](https://github.com/PortSwigger/BChecks) - BChecks collection for Burp Suite Professional
 * 【2023-07-02】[jassics / awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security
