@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-04】[StrongPC123 / Far-Cry-1-Source-Full](https://github.com/StrongPC123/Far-Cry-1-Source-Full) - Far Cry 1 Full Source (Developed by CryTek). For NON COMMERCIAL Purposes only. Leaked.
+* 【2023-07-04】[antfu / qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - Anthony's QR Code Toolkit for AI generated QR Codes
+* 【2023-07-04】[ArchiveBox / ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 * 【2023-07-03】[EthanArbuckle / Apollo-CustomApiCredentials](https://github.com/EthanArbuckle/Apollo-CustomApiCredentials) - Tweak to use your own reddit API credentials in Apollo
 * 【2023-07-03】[aeharding / wefwef](https://github.com/aeharding/wefwef) - wefwef — a mobile-first Lemmy web client
 * 【2023-07-03】[Orange-OpenSource / hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -165,6 +168,7 @@
 
 ## Java
 
+* 【2023-07-04】[webbukkit / dynmap](https://github.com/webbukkit/dynmap) - A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.
 * 【2023-07-03】[NEZNAMY / TAB](https://github.com/NEZNAMY/TAB) - "That" TAB plugin.
 * 【2023-07-02】[AlmasB / FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
 * 【2023-07-02】[sksalahuddin2828 / Java](https://github.com/sksalahuddin2828/Java) - Explore something new
@@ -217,6 +221,8 @@
 
 ## Python
 
+* 【2023-07-04】[paul-gauthier / aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
+* 【2023-07-04】[0xpayne / gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 * 【2023-07-03】[geekan / MetaGPT](https://github.com/geekan/MetaGPT) - Given Boss Requirement, return PRD, Design, Tasks, Repo
 * 【2023-07-03】[RedKatz / SocialMediaHackingToolkit](https://github.com/RedKatz/SocialMediaHackingToolkit) - Social Media Hacking Toolkit is a collection of tools designed to carry out attacks such as brute-force attacks, mass reporting, and phishing on social media platforms including Instagram, Facebook, Twitter, and Gmail.
 * 【2023-07-02】[databrickslabs / pyspark-ai](https://github.com/databrickslabs/pyspark-ai) - English SDK for Apache Spark
@@ -407,6 +413,7 @@
 
 ## Go
 
+* 【2023-07-04】[xxjwxc / shares](https://github.com/xxjwxc/shares) - A-share quantitative system. A股量化系统
 * 【2023-07-03】[miguelmota / golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 * 【2023-07-03】[stealthrocket / timecraft](https://github.com/stealthrocket/timecraft) - The WebAssembly Time Machine
 * 【2023-07-02】[openark / orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and HA
@@ -509,6 +516,9 @@
 
 ## C++
 
+* 【2023-07-04】[RPCSX / rpcsx](https://github.com/RPCSX/rpcsx) - 
+* 【2023-07-04】[jgbit / vuda](https://github.com/jgbit/vuda) - VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+* 【2023-07-04】[Pajenicko / Picopad](https://github.com/Pajenicko/Picopad) - 
 * 【2023-07-02】[XaFF-XaFF / Kernel-Process-Hollowing](https://github.com/XaFF-XaFF/Kernel-Process-Hollowing) - Windows x64 kernel mode rootkit process hollowing POC.
 * 【2023-07-02】[manticoresoftware / manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 * 【2023-07-02】[sksalahuddin2828 / C_Plus_Plus](https://github.com/sksalahuddin2828/C_Plus_Plus) - Explore something new
@@ -550,6 +560,7 @@
 
 ## C#
 
+* 【2023-07-04】[baranacikgoz / PaginatedSearchAndFilter](https://github.com/baranacikgoz/PaginatedSearchAndFilter) - A lightweight and flexible library designed to provide advanced search and advanced filter functionality along with pagination for .NET Core applications.
 * 【2023-07-02】[SunnyDesignor / PowerfulWindSlickedBackHairCS-LX_Improve](https://github.com/SunnyDesignor/PowerfulWindSlickedBackHairCS-LX_Improve) - 
 * 【2023-07-02】[Eimaen / JustAsPlanned](https://github.com/Eimaen/JustAsPlanned) - Muse Dash DLC unlocking meme for Steam version. Maybe you shouldn't pay for pixel Reimu?
 * 【2023-07-01】[werdhaihai / AtlasReaper](https://github.com/werdhaihai/AtlasReaper) - A command-line tool for reconnaissance and targeted write operations on Confluence and Jira instances.
@@ -610,6 +621,8 @@
 
 ## Html
 
+* 【2023-07-04】[egstad-construct / detect-scroll](https://github.com/egstad-construct/detect-scroll) - 
+* 【2023-07-04】[ColorlibHQ / gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
 * 【2023-07-03】[SHSSEDU / shssedu.github.io](https://github.com/SHSSEDU/shssedu.github.io) - 山河大学官方网站
 * 【2023-07-03】[OpenUnited / ux-prototype](https://github.com/OpenUnited/ux-prototype) - 
 * 【2023-07-02】[swagkarna / Nivistealer](https://github.com/swagkarna/Nivistealer) - steal victim images exact location device info and much more
@@ -734,6 +747,8 @@
 
 ## Unknown
 
+* 【2023-07-04】[zhaoyun0071 / DragGAN-Windows-GUI](https://github.com/zhaoyun0071/DragGAN-Windows-GUI) - 
+* 【2023-07-04】[bluesky-social / proposals](https://github.com/bluesky-social/proposals) - Bluesky proposal discussions
 * 【2023-07-03】[One-2-3-45 / One-2-3-45](https://github.com/One-2-3-45/One-2-3-45) - 
 * 【2023-07-03】[lahin31 / system-design-bangla](https://github.com/lahin31/system-design-bangla) - System Design Tutorial in Bangla
 * 【2023-07-03】[chinmay-farkya / solidity-notes](https://github.com/chinmay-farkya/solidity-notes) - 
