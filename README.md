@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-07】[gibbok / typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+* 【2023-07-07】[FuelLabs / sway](https://github.com/FuelLabs/sway) - 🌴Empowering everyone to build reliable and efficient smart contracts.
+* 【2023-07-07】[FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 * 【2023-07-06】[bacen / pilotord-kit-onboarding](https://github.com/bacen/pilotord-kit-onboarding) - Documentação e arquivos de configuração para participação no Piloto do Real Digital
 * 【2023-07-06】[Tohrusky / Final2x](https://github.com/Tohrusky/Final2x) - 2^x Image Super-Resolution
 * 【2023-07-06】[austinsonger / Incident-Playbook](https://github.com/austinsonger/Incident-Playbook) - GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]
@@ -179,6 +182,7 @@
 
 ## Java
 
+* 【2023-07-07】[open-job / openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
 * 【2023-07-06】[darbyluv2code / spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners) - Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners
 * 【2023-07-06】[qiutiandefeng / yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统 云帆在线学习vue培训java考试系统是一款基于JAVA开发的，使用SpringBoot+Vue开发的一款多角色在线培训考试系统平台，系统集成了用户管理、角色管理、部门管理、题库管理、试题管理、试题导入导出、考试管理、在线考试、错题训练等功能，考试流程完善，易用性强。电话/微信：18710213152
 * 【2023-07-05】[epcdiy / timemachineplus](https://github.com/epcdiy/timemachineplus) - 苹果timemachine复刻，超越，可支持本地磁盘数据和局域网拉取备份其他电脑，支持多备份硬盘分布式存储，java开发，全平台支持
@@ -236,6 +240,13 @@
 
 ## Python
 
+* 【2023-07-07】[zideliu / StyleDrop-PyTorch](https://github.com/zideliu/StyleDrop-PyTorch) - Unoffical implement for [StyleDrop](https://arxiv.org/abs/2306.00983)
+* 【2023-07-07】[danswer-ai / danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise QA
+* 【2023-07-07】[sdan / vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
+* 【2023-07-07】[techwithtim / Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) - An automated price tracker that uses bright data, playwright, react and flask.
+* 【2023-07-07】[kyegomez / swarms](https://github.com/kyegomez/swarms) - Automating all digital activities with AI Agents
+* 【2023-07-07】[Wangt-CN / DisCo](https://github.com/Wangt-CN/DisCo) - DisCo: Referring Human Dance Generation in Real World
+* 【2023-07-07】[sweepai / sweep](https://github.com/sweepai/sweep) - Sweep is an AI junior developer
 * 【2023-07-06】[dbeley / awesome-lemmy](https://github.com/dbeley/awesome-lemmy) - A community driven list of useful apps, tools and websites for the Lemmy federated social network.
 * 【2023-07-06】[Octoberfest7 / TeamsPhisher](https://github.com/Octoberfest7/TeamsPhisher) - Send phishing messages and attachments to Microsoft Teams users
 * 【2023-07-06】[shikras / shikra](https://github.com/shikras/shikra) - 
@@ -366,6 +377,10 @@
 
 ## Javascript
 
+* 【2023-07-07】[mo-jinran / LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
+* 【2023-07-07】[KelvinTegelaar / CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
+* 【2023-07-07】[sksalahuddin2828 / JavaScript](https://github.com/sksalahuddin2828/JavaScript) - Education Purpose Only
+* 【2023-07-07】[arkime / arkime](https://github.com/arkime/arkime) - Arkime is an open source, large scale, full packet capturing, indexing, and database system.
 * 【2023-07-06】[aschmelyun / diode](https://github.com/aschmelyun/diode) - A WASM-powered local development environment for Laravel
 * 【2023-07-06】[antfu / sd-webui-qrcode-toolkit](https://github.com/antfu/sd-webui-qrcode-toolkit) - Anthony's QR Toolkit for Stable Diffusion WebUI
 * 【2023-07-05】[danny-avila / LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, PaLM 2, AI model switching, message search, langchain, ChatGPT Plugins, OpenAI Functions, Multi-User System, Presets, completely open-source for self-hosting. More features in development
@@ -441,6 +456,9 @@
 
 ## Go
 
+* 【2023-07-07】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
+* 【2023-07-07】[canonical / lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
+* 【2023-07-07】[ThreeDotsLabs / watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 * 【2023-07-06】[distribworks / dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
 * 【2023-07-06】[caarlos0 / env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
 * 【2023-07-06】[fluid-cloudnative / fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
@@ -489,6 +507,8 @@
 
 ## C
 
+* 【2023-07-07】[bigbrodude6119 / flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
+* 【2023-07-07】[Tencent / wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 * 【2023-07-06】[klonyyy / STMViewer](https://github.com/klonyyy/STMViewer) - Real-time STM32 variable viewer
 * 【2023-07-06】[arduino / ArduinoCore-renesas](https://github.com/arduino/ArduinoCore-renesas) - 
 * 【2023-07-06】[fgkeepalive / AndroidKeepAlive](https://github.com/fgkeepalive/AndroidKeepAlive) - 2023年最新 Android 高可用黑科技应用保活，实现终极目标，最高适配Android 13 小米 华为 Oppo vivo 等最新机型 拒绝强杀 开机自启动
@@ -604,6 +624,7 @@
 
 ## C#
 
+* 【2023-07-07】[oldboy21 / JayFinder](https://github.com/oldboy21/JayFinder) - Find DLLs with RWX section
 * 【2023-07-06】[commandlineparser / commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized *nix getopt style, for .NET. Includes F# support
 * 【2023-07-06】[jasontaylordev / flexible-aspnetcore-authorization](https://github.com/jasontaylordev/flexible-aspnetcore-authorization) - 
 * 【2023-07-05】[hassanhabib / EntityIntelligence.POC](https://github.com/hassanhabib/EntityIntelligence.POC) - 
@@ -673,6 +694,8 @@
 
 ## Html
 
+* 【2023-07-07】[diff-usion / Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
+* 【2023-07-07】[open-source-labs / ReacType](https://github.com/open-source-labs/ReacType) - 🧪Prototyping Tool for exporting React/Typescript Applications!
 * 【2023-07-05】[Mariotek / better-understanding-of-javascript](https://github.com/Mariotek/better-understanding-of-javascript) - کتاب یادگیری اصولی جاواسکریپت پایه
 * 【2023-07-05】[WildCodeSchool / quest-security-xss-basics-prevent](https://github.com/WildCodeSchool/quest-security-xss-basics-prevent) - 
 * 【2023-07-05】[eveningwater / code-segment](https://github.com/eveningwater/code-segment) - 一个代码片段的集合
@@ -729,6 +752,10 @@
 
 ## Css
 
+* 【2023-07-07】[serfrontend / CursoWebFundamentosV2](https://github.com/serfrontend/CursoWebFundamentosV2) - Curso web fundamentos (HTML e CSS) v2
+* 【2023-07-07】[ajinabraham / nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
+* 【2023-07-07】[MUKAPP / LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - BetterQQNT 主题，优雅 · 粉粉 · 细致
+* 【2023-07-07】[Astromations / Hazy](https://github.com/Astromations/Hazy) - Transparent spicetify theme
 * 【2023-07-06】[ethtweet / ethtweet](https://github.com/ethtweet/ethtweet) - 
 * 【2023-07-05】[GRUMOS / DESAFIO_6](https://github.com/GRUMOS/DESAFIO_6) - 
 * 【2023-07-03】[Dinil-Thilakarathne / 50-css-projects](https://github.com/Dinil-Thilakarathne/50-css-projects) - You can find all source codes for all 50+ css projects here
@@ -804,6 +831,7 @@
 
 ## Unknown
 
+* 【2023-07-07】[SysCV / sam-pt](https://github.com/SysCV/sam-pt) - SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking.
 * 【2023-07-06】[guochengqian / Magic123](https://github.com/guochengqian/Magic123) - Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
 * 【2023-07-06】[luminexord / brc69](https://github.com/luminexord/brc69) - 
 * 【2023-07-06】[BetterQQNT / BetterQQNT](https://github.com/BetterQQNT/BetterQQNT) - QQNT/Electron 插件
