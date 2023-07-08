@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-07-08】[vercel / platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+* 【2023-07-08】[lyogavin / Anima](https://github.com/lyogavin/Anima) - 第一个开源的基于QLoRA的33B中文大语言模型First QLoRA based open source 33B Chinese LLM
 * 【2023-07-07】[gibbok / typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 * 【2023-07-07】[FuelLabs / sway](https://github.com/FuelLabs/sway) - 🌴Empowering everyone to build reliable and efficient smart contracts.
 * 【2023-07-07】[FuelLabs / fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
@@ -182,6 +184,7 @@
 
 ## Java
 
+* 【2023-07-08】[c0olw / NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
 * 【2023-07-07】[open-job / openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
 * 【2023-07-06】[darbyluv2code / spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners) - Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners
 * 【2023-07-06】[qiutiandefeng / yfexam-exam](https://github.com/qiutiandefeng/yfexam-exam) - 在线考试系统 云帆在线学习vue培训java考试系统是一款基于JAVA开发的，使用SpringBoot+Vue开发的一款多角色在线培训考试系统平台，系统集成了用户管理、角色管理、部门管理、题库管理、试题管理、试题导入导出、考试管理、在线考试、错题训练等功能，考试流程完善，易用性强。电话/微信：18710213152
@@ -240,6 +243,10 @@
 
 ## Python
 
+* 【2023-07-08】[zwq2018 / Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
+* 【2023-07-08】[guofei9987 / blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+* 【2023-07-08】[princeton-nlp / tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
+* 【2023-07-08】[xz-zone / Webpackfind](https://github.com/xz-zone/Webpackfind) - Webpack自动化信息收集
 * 【2023-07-07】[zideliu / StyleDrop-PyTorch](https://github.com/zideliu/StyleDrop-PyTorch) - Unoffical implement for [StyleDrop](https://arxiv.org/abs/2306.00983)
 * 【2023-07-07】[danswer-ai / danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise QA
 * 【2023-07-07】[sdan / vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
@@ -456,6 +463,9 @@
 
 ## Go
 
+* 【2023-07-08】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
+* 【2023-07-08】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
+* 【2023-07-08】[Masterminds / sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 * 【2023-07-07】[go-nunu / nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 * 【2023-07-07】[canonical / lxd](https://github.com/canonical/lxd) - Powerful system container and virtual machine manager
 * 【2023-07-07】[ThreeDotsLabs / watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
@@ -507,6 +517,8 @@
 
 ## C
 
+* 【2023-07-08】[rockchip-linux / rknpu2](https://github.com/rockchip-linux/rknpu2) - 
+* 【2023-07-08】[g0mxxm / Anti-Obfuscation](https://github.com/g0mxxm/Anti-Obfuscation) - The tool can be used to eliminate redundant instructions in a basic block.
 * 【2023-07-07】[bigbrodude6119 / flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
 * 【2023-07-07】[Tencent / wcdb](https://github.com/Tencent/wcdb) - WCDB is a cross-platform database framework developed by WeChat.
 * 【2023-07-06】[klonyyy / STMViewer](https://github.com/klonyyy/STMViewer) - Real-time STM32 variable viewer
@@ -624,6 +636,9 @@
 
 ## C#
 
+* 【2023-07-08】[emgucv / emgucv](https://github.com/emgucv/emgucv) - Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.
+* 【2023-07-08】[Azure / azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
+* 【2023-07-08】[AvaloniaUI / Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
 * 【2023-07-07】[oldboy21 / JayFinder](https://github.com/oldboy21/JayFinder) - Find DLLs with RWX section
 * 【2023-07-06】[commandlineparser / commandline](https://github.com/commandlineparser/commandline) - The best C# command line parser that brings standardized *nix getopt style, for .NET. Includes F# support
 * 【2023-07-06】[jasontaylordev / flexible-aspnetcore-authorization](https://github.com/jasontaylordev/flexible-aspnetcore-authorization) - 
@@ -694,6 +709,8 @@
 
 ## Html
 
+* 【2023-07-08】[gias-uddin-swe / digital-products-b8](https://github.com/gias-uddin-swe/digital-products-b8) - 
+* 【2023-07-08】[gias-uddin-swe / Digital-Product-b8-test](https://github.com/gias-uddin-swe/Digital-Product-b8-test) - 
 * 【2023-07-07】[diff-usion / Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 * 【2023-07-07】[open-source-labs / ReacType](https://github.com/open-source-labs/ReacType) - 🧪Prototyping Tool for exporting React/Typescript Applications!
 * 【2023-07-05】[Mariotek / better-understanding-of-javascript](https://github.com/Mariotek/better-understanding-of-javascript) - کتاب یادگیری اصولی جاواسکریپت پایه
@@ -752,6 +769,11 @@
 
 ## Css
 
+* 【2023-07-08】[sushank3 / CI_CD-portfolio](https://github.com/sushank3/CI_CD-portfolio) - 
+* 【2023-07-08】[Madelena / hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
+* 【2023-07-08】[akshkgd / how-to-css](https://github.com/akshkgd/how-to-css) - 
+* 【2023-07-08】[doubleangels / NextDNSManager](https://github.com/doubleangels/NextDNSManager) - Manage your NextDNS settings easily with this Android app!
+* 【2023-07-08】[runteq / mokumoku](https://github.com/runteq/mokumoku) - 
 * 【2023-07-07】[serfrontend / CursoWebFundamentosV2](https://github.com/serfrontend/CursoWebFundamentosV2) - Curso web fundamentos (HTML e CSS) v2
 * 【2023-07-07】[ajinabraham / nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
 * 【2023-07-07】[MUKAPP / LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme) - BetterQQNT 主题，优雅 · 粉粉 · 细致
@@ -831,6 +853,9 @@
 
 ## Unknown
 
+* 【2023-07-08】[agefanscom / website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
+* 【2023-07-08】[bacen / pix-api](https://github.com/bacen/pix-api) - API Pix: a API do Arranjo de Pagamentos Instantâneos Brasileiro, Pix, criado pelo Banco Central do Brasil.
+* 【2023-07-08】[li-jia-nan / Learning-notes](https://github.com/li-jia-nan/Learning-notes) - 前端学习笔记 & 踩坑日记 & 冷知识，记录一些工作中遇到的问题，长期更新
 * 【2023-07-07】[SysCV / sam-pt](https://github.com/SysCV/sam-pt) - SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking.
 * 【2023-07-06】[guochengqian / Magic123](https://github.com/guochengqian/Magic123) - Official PyTorch Implementation of Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors
 * 【2023-07-06】[luminexord / brc69](https://github.com/luminexord/brc69) - 
