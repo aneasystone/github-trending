@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-09】[InternLM / InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
+* 【2023-07-09】[piotr022 / UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
+* 【2023-07-09】[lrh2000 / StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
 * 【2023-07-08】[vercel / platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
 * 【2023-07-08】[lyogavin / Anima](https://github.com/lyogavin/Anima) - 第一个开源的基于QLoRA的33B中文大语言模型First QLoRA based open source 33B Chinese LLM
 * 【2023-07-07】[gibbok / typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -184,6 +187,7 @@
 
 ## Java
 
+* 【2023-07-09】[game-town / ioGame](https://github.com/game-town/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-07-08】[c0olw / NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
 * 【2023-07-07】[open-job / openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
 * 【2023-07-06】[darbyluv2code / spring-boot-3-spring-6-hibernate-for-beginners](https://github.com/darbyluv2code/spring-boot-3-spring-6-hibernate-for-beginners) - Source code for the course: Spring Boot 3, Spring 6 and Hibernate for Beginners
@@ -243,6 +247,8 @@
 
 ## Python
 
+* 【2023-07-09】[198808xc / Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
+* 【2023-07-09】[AssassinUKG / googleSearcher](https://github.com/AssassinUKG/googleSearcher) - A custom Google search (to bypass some limitations on google and VPNs)
 * 【2023-07-08】[zwq2018 / Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
 * 【2023-07-08】[guofei9987 / blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 * 【2023-07-08】[princeton-nlp / tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - Official Implementation of "Tree of Thoughts: Deliberate Problem Solving with Large Language Models"
@@ -384,6 +390,8 @@
 
 ## Javascript
 
+* 【2023-07-09】[cloudera / hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
+* 【2023-07-09】[m3u8playlist / dp](https://github.com/m3u8playlist/dp) - 
 * 【2023-07-07】[mo-jinran / LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2023-07-07】[KelvinTegelaar / CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
 * 【2023-07-07】[sksalahuddin2828 / JavaScript](https://github.com/sksalahuddin2828/JavaScript) - Education Purpose Only
@@ -463,6 +471,7 @@
 
 ## Go
 
+* 【2023-07-09】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2023-07-08】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 * 【2023-07-08】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
 * 【2023-07-08】[Masterminds / sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
@@ -587,6 +596,9 @@
 
 ## C++
 
+* 【2023-07-09】[PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
+* 【2023-07-09】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
+* 【2023-07-09】[MAZHARMIK / Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
 * 【2023-07-06】[SatDump / SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 * 【2023-07-06】[TheD1rkMtr / TakeMyRDP](https://github.com/TheD1rkMtr/TakeMyRDP) - A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.exe and CredentialUIBroker.exe)
 * 【2023-07-05】[primihub / primihub](https://github.com/primihub/primihub) - Privacy-Preserving Computing Platform 由密码学专家团队打造的开源隐私计算平台，支持安全多方计算、联邦学习、隐私求交、隐私查询等。
@@ -709,6 +721,7 @@
 
 ## Html
 
+* 【2023-07-09】[MiyakoYakota / search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
 * 【2023-07-08】[gias-uddin-swe / digital-products-b8](https://github.com/gias-uddin-swe/digital-products-b8) - 
 * 【2023-07-08】[gias-uddin-swe / Digital-Product-b8-test](https://github.com/gias-uddin-swe/Digital-Product-b8-test) - 
 * 【2023-07-07】[diff-usion / Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
@@ -769,6 +782,7 @@
 
 ## Css
 
+* 【2023-07-09】[xcruxiex / themes](https://github.com/xcruxiex/themes) - Spectra used to run this repo, after his departure he gave this repo to me and wiz, we will do our best to honor his years spent here, love you spectra!
 * 【2023-07-08】[sushank3 / CI_CD-portfolio](https://github.com/sushank3/CI_CD-portfolio) - 
 * 【2023-07-08】[Madelena / hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
 * 【2023-07-08】[akshkgd / how-to-css](https://github.com/akshkgd/how-to-css) - 
@@ -853,6 +867,10 @@
 
 ## Unknown
 
+* 【2023-07-09】[TomTCoder / Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot](https://github.com/TomTCoder/Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot) - Effortlessly snipe valuable NFTs on Opensea, Raribles, and Coinbase using this advanced Opensoruce-Javascript-based sniper.
+* 【2023-07-09】[MC-E / DragonDiffusion](https://github.com/MC-E/DragonDiffusion) - 
+* 【2023-07-09】[kmsfury / FURY-AUTO-KMS](https://github.com/kmsfury/FURY-AUTO-KMS) - Free KMS Activator for Windows 8/10/11 and Office 2013-2021
+* 【2023-07-09】[dipjul / Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 * 【2023-07-08】[agefanscom / website](https://github.com/agefanscom/website) - AGE animation official website URL release page（AGE动漫官网网址发布页）
 * 【2023-07-08】[bacen / pix-api](https://github.com/bacen/pix-api) - API Pix: a API do Arranjo de Pagamentos Instantâneos Brasileiro, Pix, criado pelo Banco Central do Brasil.
 * 【2023-07-08】[li-jia-nan / Learning-notes](https://github.com/li-jia-nan/Learning-notes) - 前端学习笔记 & 踩坑日记 & 冷知识，记录一些工作中遇到的问题，长期更新
