@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-07-10】[facebook / igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
+* 【2023-07-10】[dmytrostriletskyi / threads-net](https://github.com/dmytrostriletskyi/threads-net) - Threads (threads.net) Python API wrapper (unofficial and reverse-engineered).
+* 【2023-07-10】[threadsjs / threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
+* 【2023-07-10】[junhoyeo / threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Supports Read and Write. Web UI Included.
+* 【2023-07-10】[surprisetalk / blogs.hn](https://github.com/surprisetalk/blogs.hn) - tiny directory of tech blogs
+* 【2023-07-10】[felipemotarocha / fullstackweek-trips](https://github.com/felipemotarocha/fullstackweek-trips) - 
 * 【2023-07-09】[InternLM / InternLM](https://github.com/InternLM/InternLM) - InternLM has open-sourced a 7 billion parameter base model, a chat model tailored for practical scenarios and the training system.
 * 【2023-07-09】[piotr022 / UV_K5_playground](https://github.com/piotr022/UV_K5_playground) - 
 * 【2023-07-09】[lrh2000 / StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
@@ -187,6 +193,7 @@
 
 ## Java
 
+* 【2023-07-10】[SleepyTrousers / EnderIO-Rewrite](https://github.com/SleepyTrousers/EnderIO-Rewrite) - EnderIO Rewritten for Modern Minecraft.
 * 【2023-07-09】[game-town / ioGame](https://github.com/game-town/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-07-08】[c0olw / NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
 * 【2023-07-07】[open-job / openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework
@@ -247,6 +254,11 @@
 
 ## Python
 
+* 【2023-07-10】[kyegomez / LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
+* 【2023-07-10】[khoj-ai / khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
+* 【2023-07-10】[Paulescu / hands-on-train-and-deploy-ml](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train an ML model to predict crypto prices and deploy it as a REST API.
+* 【2023-07-10】[andrewmcgr / klipper_tmc_autotune](https://github.com/andrewmcgr/klipper_tmc_autotune) - TMC stepper driver autotuning Klipper python extra
+* 【2023-07-10】[wxy1343 / DepotManifestGen](https://github.com/wxy1343/DepotManifestGen) - steam仓库清单文件生成
 * 【2023-07-09】[198808xc / Pangu-Weather](https://github.com/198808xc/Pangu-Weather) - An official implementation of Pangu-Weather
 * 【2023-07-09】[AssassinUKG / googleSearcher](https://github.com/AssassinUKG/googleSearcher) - A custom Google search (to bypass some limitations on google and VPNs)
 * 【2023-07-08】[zwq2018 / Data-Copilot](https://github.com/zwq2018/Data-Copilot) - Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
@@ -390,6 +402,9 @@
 
 ## Javascript
 
+* 【2023-07-10】[chxm1023 / Rewrite](https://github.com/chxm1023/Rewrite) - 
+* 【2023-07-10】[go-shiori / shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+* 【2023-07-10】[web3templates / nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
 * 【2023-07-09】[cloudera / hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 * 【2023-07-09】[m3u8playlist / dp](https://github.com/m3u8playlist/dp) - 
 * 【2023-07-07】[mo-jinran / LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
@@ -471,6 +486,7 @@
 
 ## Go
 
+* 【2023-07-10】[maaslalani / invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 * 【2023-07-09】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2023-07-08】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 * 【2023-07-08】[golang / crypto](https://github.com/golang/crypto) - [mirror] Go supplementary cryptography libraries
@@ -526,6 +542,7 @@
 
 ## C
 
+* 【2023-07-10】[CoretechR / OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 * 【2023-07-08】[rockchip-linux / rknpu2](https://github.com/rockchip-linux/rknpu2) - 
 * 【2023-07-08】[g0mxxm / Anti-Obfuscation](https://github.com/g0mxxm/Anti-Obfuscation) - The tool can be used to eliminate redundant instructions in a basic block.
 * 【2023-07-07】[bigbrodude6119 / flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal) - Evil portal app for the flipper zero + WiFi dev board
@@ -596,6 +613,7 @@
 
 ## C++
 
+* 【2023-07-10】[facebook / redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 * 【2023-07-09】[PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 * 【2023-07-09】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
 * 【2023-07-09】[MAZHARMIK / Interview_DS_Algo](https://github.com/MAZHARMIK/Interview_DS_Algo) - Super Repository for Coding Interview Preperation
@@ -648,6 +666,7 @@
 
 ## C#
 
+* 【2023-07-10】[h8man / NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
 * 【2023-07-08】[emgucv / emgucv](https://github.com/emgucv/emgucv) - Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.
 * 【2023-07-08】[Azure / azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
 * 【2023-07-08】[AvaloniaUI / Avalonia.Samples](https://github.com/AvaloniaUI/Avalonia.Samples) - Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help getting new users started.
@@ -721,6 +740,11 @@
 
 ## Html
 
+* 【2023-07-10】[ProgrammingHero1 / webdeveloper-portfolio](https://github.com/ProgrammingHero1/webdeveloper-portfolio) - 
+* 【2023-07-10】[daveshap / Quickly_Extract_Science_Papers](https://github.com/daveshap/Quickly_Extract_Science_Papers) - Scientific papers are coming out TOO DAMN FAST so we need a way to very quickly extract useful information.
+* 【2023-07-10】[seintpl / osint](https://github.com/seintpl/osint) - Useful OSINT hints and links
+* 【2023-07-10】[javascript-tutorial / fa.javascript.info](https://github.com/javascript-tutorial/fa.javascript.info) - Modern JavaScript Tutorial in Persian (Farsi)
+* 【2023-07-10】[atherosai / ui](https://github.com/atherosai/ui) - Simple UI examples from my social media
 * 【2023-07-09】[MiyakoYakota / search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) - 
 * 【2023-07-08】[gias-uddin-swe / digital-products-b8](https://github.com/gias-uddin-swe/digital-products-b8) - 
 * 【2023-07-08】[gias-uddin-swe / Digital-Product-b8-test](https://github.com/gias-uddin-swe/Digital-Product-b8-test) - 
@@ -782,6 +806,7 @@
 
 ## Css
 
+* 【2023-07-10】[saarthack / sidcup-family-golf](https://github.com/saarthack/sidcup-family-golf) - 
 * 【2023-07-09】[xcruxiex / themes](https://github.com/xcruxiex/themes) - Spectra used to run this repo, after his departure he gave this repo to me and wiz, we will do our best to honor his years spent here, love you spectra!
 * 【2023-07-08】[sushank3 / CI_CD-portfolio](https://github.com/sushank3/CI_CD-portfolio) - 
 * 【2023-07-08】[Madelena / hass-config-public](https://github.com/Madelena/hass-config-public) - My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!
@@ -867,6 +892,8 @@
 
 ## Unknown
 
+* 【2023-07-10】[MLGroupJLU / LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey) - The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models".
+* 【2023-07-10】[LiJunYi2 / navicat-keygen-16V](https://github.com/LiJunYi2/navicat-keygen-16V) - Navicat16最新版本的注册机
 * 【2023-07-09】[TomTCoder / Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot](https://github.com/TomTCoder/Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot) - Effortlessly snipe valuable NFTs on Opensea, Raribles, and Coinbase using this advanced Opensoruce-Javascript-based sniper.
 * 【2023-07-09】[MC-E / DragonDiffusion](https://github.com/MC-E/DragonDiffusion) - 
 * 【2023-07-09】[kmsfury / FURY-AUTO-KMS](https://github.com/kmsfury/FURY-AUTO-KMS) - Free KMS Activator for Windows 8/10/11 and Office 2013-2021
