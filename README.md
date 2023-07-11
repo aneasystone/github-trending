@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-07-11】[iina / iina](https://github.com/iina/iina) - The modern video player for macOS.
 * 【2023-07-10】[facebook / igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 * 【2023-07-10】[dmytrostriletskyi / threads-net](https://github.com/dmytrostriletskyi/threads-net) - Threads (threads.net) Python API wrapper (unofficial and reverse-engineered).
 * 【2023-07-10】[threadsjs / threads.js](https://github.com/threadsjs/threads.js) - A Node.js library for the Threads API
@@ -193,6 +194,8 @@
 
 ## Java
 
+* 【2023-07-11】[kshitijmishra23 / low-level-design-concepts](https://github.com/kshitijmishra23/low-level-design-concepts) - Code Samples to understand SOLID design principles and Design Patterns in JAVA.
+* 【2023-07-11】[Skocimis / opensms](https://github.com/Skocimis/opensms) - Open-source solution to programmatically send SMS using your own SIM cards
 * 【2023-07-10】[SleepyTrousers / EnderIO-Rewrite](https://github.com/SleepyTrousers/EnderIO-Rewrite) - EnderIO Rewritten for Modern Minecraft.
 * 【2023-07-09】[game-town / ioGame](https://github.com/game-town/ioGame) - 无锁异步化、事件驱动架构设计的 java netty 网络游戏服务器框架； 轻量级，无需依赖任何第三方中间件或数据库就能支持集群、分布式； 通过 ioGame 你可以很容易的搭建出一个集群无中心节点、集群自动化、分步式的网络游戏服务器！
 * 【2023-07-08】[c0olw / NacosRce](https://github.com/c0olw/NacosRce) - Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
@@ -254,6 +257,12 @@
 
 ## Python
 
+* 【2023-07-11】[lablab-ai / Google-VertexAI-FastAPI](https://github.com/lablab-ai/Google-VertexAI-FastAPI) - Simple boilerplate to get started with Generative AI models from Google Vertex AI based on FastAPI
+* 【2023-07-11】[ringa-tech / asistente-virtual](https://github.com/ringa-tech/asistente-virtual) - 
+* 【2023-07-11】[JiauZhang / DragDiffusion](https://github.com/JiauZhang/DragDiffusion) - Implementation of DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing
+* 【2023-07-11】[ZYKsslm / BlackStone_Music_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
+* 【2023-07-11】[gfdgd-xi / deep-wine-runner](https://github.com/gfdgd-xi/deep-wine-runner) - 一个能让Linux用户更加方便运行Windows应用的程序，内置了对wine图形化的支持和各种Wine工具和自制Wine程序打包器、运行库安装工具等等。同时也内置了基于VirtualBox制作的小白Windows虚拟机安装工具，可以做到只需要用户下载系统镜像并点击安装即可，无需顾及虚拟机安装、创建、虚拟机的分区等等
+* 【2023-07-11】[SilverComet7 / yolov5-DNF](https://github.com/SilverComet7/yolov5-DNF) - 基于yolov5识别算法实现的DNF自动脚本
 * 【2023-07-10】[kyegomez / LongNet](https://github.com/kyegomez/LongNet) - Implementation of plug in and play Attention from "LongNet: Scaling Transformers to 1,000,000,000 Tokens"
 * 【2023-07-10】[khoj-ai / khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 * 【2023-07-10】[Paulescu / hands-on-train-and-deploy-ml](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train an ML model to predict crypto prices and deploy it as a REST API.
@@ -402,6 +411,9 @@
 
 ## Javascript
 
+* 【2023-07-11】[kgretzky / evilqr](https://github.com/kgretzky/evilqr) - Proof-of-concept to demonstrate dynamic QR swap phishing attacks in practice.
+* 【2023-07-11】[gauravghai / weatherApp-Reactjs](https://github.com/gauravghai/weatherApp-Reactjs) - How To Create Weather App Using React.js With Current Location & Search City
+* 【2023-07-11】[qiutiandefeng / yfdoc](https://github.com/qiutiandefeng/yfdoc) - 文档管理系统-电子文件合同管理系统
 * 【2023-07-10】[chxm1023 / Rewrite](https://github.com/chxm1023/Rewrite) - 
 * 【2023-07-10】[go-shiori / shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 * 【2023-07-10】[web3templates / nextly-template](https://github.com/web3templates/nextly-template) - Nextly Landing Page Template built with Next.js & TailwindCSS
@@ -486,6 +498,8 @@
 
 ## Go
 
+* 【2023-07-11】[bitquark / shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
+* 【2023-07-11】[kelindar / column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go
 * 【2023-07-10】[maaslalani / invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 * 【2023-07-09】[rancher / local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
 * 【2023-07-08】[boltdb / bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
@@ -542,6 +556,7 @@
 
 ## C
 
+* 【2023-07-11】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
 * 【2023-07-10】[CoretechR / OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 * 【2023-07-08】[rockchip-linux / rknpu2](https://github.com/rockchip-linux/rknpu2) - 
 * 【2023-07-08】[g0mxxm / Anti-Obfuscation](https://github.com/g0mxxm/Anti-Obfuscation) - The tool can be used to eliminate redundant instructions in a basic block.
@@ -666,6 +681,8 @@
 
 ## C#
 
+* 【2023-07-11】[Lidarr / Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+* 【2023-07-11】[Cinchoo / ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
 * 【2023-07-10】[h8man / NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
 * 【2023-07-08】[emgucv / emgucv](https://github.com/emgucv/emgucv) - Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.
 * 【2023-07-08】[Azure / azure-functions-host](https://github.com/Azure/azure-functions-host) - The host/runtime that powers Azure Functions
@@ -740,6 +757,7 @@
 
 ## Html
 
+* 【2023-07-11】[rust-lang / rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 * 【2023-07-10】[ProgrammingHero1 / webdeveloper-portfolio](https://github.com/ProgrammingHero1/webdeveloper-portfolio) - 
 * 【2023-07-10】[daveshap / Quickly_Extract_Science_Papers](https://github.com/daveshap/Quickly_Extract_Science_Papers) - Scientific papers are coming out TOO DAMN FAST so we need a way to very quickly extract useful information.
 * 【2023-07-10】[seintpl / osint](https://github.com/seintpl/osint) - Useful OSINT hints and links
@@ -892,6 +910,9 @@
 
 ## Unknown
 
+* 【2023-07-11】[m1guelpf / threads-re](https://github.com/m1guelpf/threads-re) - Reverse-engineering Instagram's Threads private APIs.
+* 【2023-07-11】[CyberSecurityUP / OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
+* 【2023-07-11】[iam-veeramalla / Docker-Zero-to-Hero](https://github.com/iam-veeramalla/Docker-Zero-to-Hero) - Repo to learn Docker with examples. Contributions are most welcome.
 * 【2023-07-10】[MLGroupJLU / LLM-eval-survey](https://github.com/MLGroupJLU/LLM-eval-survey) - The official GitHub page for the survey paper "A Survey on Evaluation of Large Language Models".
 * 【2023-07-10】[LiJunYi2 / navicat-keygen-16V](https://github.com/LiJunYi2/navicat-keygen-16V) - Navicat16最新版本的注册机
 * 【2023-07-09】[TomTCoder / Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot](https://github.com/TomTCoder/Coinbase-Javascript-NFT-sniper-raribles-opensea-opensoruce-bot) - Effortlessly snipe valuable NFTs on Opensea, Raribles, and Coinbase using this advanced Opensoruce-Javascript-based sniper.
