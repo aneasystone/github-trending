@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-07-12】[CStanKonrad / long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
+* 【2023-07-12】[markshust / docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
+* 【2023-07-12】[hyperium / hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+* 【2023-07-12】[baptisteArno / typebot.io](https://github.com/baptisteArno/typebot.io) - 💬Typebot is a powerful chatbot builder that you can self-host.
 * 【2023-07-11】[iina / iina](https://github.com/iina/iina) - The modern video player for macOS.
 * 【2023-07-10】[facebook / igl](https://github.com/facebook/igl) - Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).
 * 【2023-07-10】[dmytrostriletskyi / threads-net](https://github.com/dmytrostriletskyi/threads-net) - Threads (threads.net) Python API wrapper (unofficial and reverse-engineered).
@@ -194,6 +198,7 @@
 
 ## Java
 
+* 【2023-07-12】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 * 【2023-07-11】[kshitijmishra23 / low-level-design-concepts](https://github.com/kshitijmishra23/low-level-design-concepts) - Code Samples to understand SOLID design principles and Design Patterns in JAVA.
 * 【2023-07-11】[Skocimis / opensms](https://github.com/Skocimis/opensms) - Open-source solution to programmatically send SMS using your own SIM cards
 * 【2023-07-10】[SleepyTrousers / EnderIO-Rewrite](https://github.com/SleepyTrousers/EnderIO-Rewrite) - EnderIO Rewritten for Modern Minecraft.
@@ -257,6 +262,9 @@
 
 ## Python
 
+* 【2023-07-12】[lifeisboringsoprogramming / sd-webui-xldemo-txt2img](https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img) - Stable Diffusion XL 0.9 Demo webui extension
+* 【2023-07-12】[pydantic / bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2♻
+* 【2023-07-12】[jshilong / GPT4RoI](https://github.com/jshilong/GPT4RoI) - GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest
 * 【2023-07-11】[lablab-ai / Google-VertexAI-FastAPI](https://github.com/lablab-ai/Google-VertexAI-FastAPI) - Simple boilerplate to get started with Generative AI models from Google Vertex AI based on FastAPI
 * 【2023-07-11】[ringa-tech / asistente-virtual](https://github.com/ringa-tech/asistente-virtual) - 
 * 【2023-07-11】[JiauZhang / DragDiffusion](https://github.com/JiauZhang/DragDiffusion) - Implementation of DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing
@@ -411,6 +419,7 @@
 
 ## Javascript
 
+* 【2023-07-12】[ltdrdata / ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - 
 * 【2023-07-11】[kgretzky / evilqr](https://github.com/kgretzky/evilqr) - Proof-of-concept to demonstrate dynamic QR swap phishing attacks in practice.
 * 【2023-07-11】[gauravghai / weatherApp-Reactjs](https://github.com/gauravghai/weatherApp-Reactjs) - How To Create Weather App Using React.js With Current Location & Search City
 * 【2023-07-11】[qiutiandefeng / yfdoc](https://github.com/qiutiandefeng/yfdoc) - 文档管理系统-电子文件合同管理系统
@@ -556,6 +565,8 @@
 
 ## C
 
+* 【2023-07-12】[Pithikos / C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C
+* 【2023-07-12】[lh3 / pangene](https://github.com/lh3/pangene) - WIP: Constructing a pangenome gene graph
 * 【2023-07-11】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
 * 【2023-07-10】[CoretechR / OMOTE](https://github.com/CoretechR/OMOTE) - Open Source Remote Using ESP32 and LVGL
 * 【2023-07-08】[rockchip-linux / rknpu2](https://github.com/rockchip-linux/rknpu2) - 
@@ -628,6 +639,9 @@
 
 ## C++
 
+* 【2023-07-12】[pentilm / StellarSolver](https://github.com/pentilm/StellarSolver) - 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
+* 【2023-07-12】[cyrusbehr / YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) - YOLOv8 TensorRT C++ Implementation
+* 【2023-07-12】[wheremyfoodat / Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
 * 【2023-07-10】[facebook / redex](https://github.com/facebook/redex) - A bytecode optimizer for Android apps
 * 【2023-07-09】[PixarAnimationStudios / OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD) - Universal Scene Description
 * 【2023-07-09】[chromiumembedded / cef](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework (CEF). A simple framework for embedding Chromium-based browsers in other applications.
@@ -681,6 +695,8 @@
 
 ## C#
 
+* 【2023-07-12】[dotnet / Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
+* 【2023-07-12】[NovaUI-Unity / AppleXRConcept](https://github.com/NovaUI-Unity/AppleXRConcept) - Source code for Nova Apple XR concept video
 * 【2023-07-11】[Lidarr / Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 * 【2023-07-11】[Cinchoo / ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI
 * 【2023-07-10】[h8man / NavMeshPlus](https://github.com/h8man/NavMeshPlus) - Unity NavMesh 2D Pathfinding
@@ -757,6 +773,7 @@
 
 ## Html
 
+* 【2023-07-12】[comfyanonymous / ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 * 【2023-07-11】[rust-lang / rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 * 【2023-07-10】[ProgrammingHero1 / webdeveloper-portfolio](https://github.com/ProgrammingHero1/webdeveloper-portfolio) - 
 * 【2023-07-10】[daveshap / Quickly_Extract_Science_Papers](https://github.com/daveshap/Quickly_Extract_Science_Papers) - Scientific papers are coming out TOO DAMN FAST so we need a way to very quickly extract useful information.
@@ -824,6 +841,7 @@
 
 ## Css
 
+* 【2023-07-12】[kuronekony4n / astream](https://github.com/kuronekony4n/astream) - A very epic anime streaming website. No Ads.
 * 【2023-07-10】[saarthack / sidcup-family-golf](https://github.com/saarthack/sidcup-family-golf) - 
 * 【2023-07-09】[xcruxiex / themes](https://github.com/xcruxiex/themes) - Spectra used to run this repo, after his departure he gave this repo to me and wiz, we will do our best to honor his years spent here, love you spectra!
 * 【2023-07-08】[sushank3 / CI_CD-portfolio](https://github.com/sushank3/CI_CD-portfolio) - 
@@ -910,6 +928,9 @@
 
 ## Unknown
 
+* 【2023-07-12】[CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5.0 format
+* 【2023-07-12】[mattcorey / indie-dev-sales](https://github.com/mattcorey/indie-dev-sales) - List of Indie Dev Sales Events
+* 【2023-07-12】[imhq / rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
 * 【2023-07-11】[m1guelpf / threads-re](https://github.com/m1guelpf/threads-re) - Reverse-engineering Instagram's Threads private APIs.
 * 【2023-07-11】[CyberSecurityUP / OSCE3-Complete-Guide](https://github.com/CyberSecurityUP/OSCE3-Complete-Guide) - OSWE, OSEP, OSED, OSEE
 * 【2023-07-11】[iam-veeramalla / Docker-Zero-to-Hero](https://github.com/iam-veeramalla/Docker-Zero-to-Hero) - Repo to learn Docker with examples. Contributions are most welcome.
