@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-07-13】[mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
+* 【2023-07-13】[mazzzystar / Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
+* 【2023-07-13】[graphdeco-inria / gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+* 【2023-07-13】[ministryofjustice / modernisation-platform](https://github.com/ministryofjustice/modernisation-platform) - A place for the core work of the Modernisation Platform • This repository is defined and managed in Terraform
+* 【2023-07-13】[assafelovic / gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+* 【2023-07-13】[rasbt / scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning) - 
+* 【2023-07-13】[apple / swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
 * 【2023-07-12】[CStanKonrad / long_llama](https://github.com/CStanKonrad/long_llama) - LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.
 * 【2023-07-12】[markshust / docker-magento](https://github.com/markshust/docker-magento) - Mark Shust's Docker Configuration for Magento
 * 【2023-07-12】[hyperium / hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -262,6 +269,10 @@
 
 ## Python
 
+* 【2023-07-13】[Yujun-Shi / DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) - Official code for DragDiffusion
+* 【2023-07-13】[baichuan-inc / Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
+* 【2023-07-13】[pynecone-io / reflex](https://github.com/pynecone-io/reflex) - 🕸Web apps in pure Python🐍
+* 【2023-07-13】[hiyouga / FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
 * 【2023-07-12】[lifeisboringsoprogramming / sd-webui-xldemo-txt2img](https://github.com/lifeisboringsoprogramming/sd-webui-xldemo-txt2img) - Stable Diffusion XL 0.9 Demo webui extension
 * 【2023-07-12】[pydantic / bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2♻
 * 【2023-07-12】[jshilong / GPT4RoI](https://github.com/jshilong/GPT4RoI) - GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest
@@ -419,6 +430,9 @@
 
 ## Javascript
 
+* 【2023-07-13】[prebid / Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
+* 【2023-07-13】[Vincenius / workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
+* 【2023-07-13】[deepch / RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
 * 【2023-07-12】[ltdrdata / ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - 
 * 【2023-07-11】[kgretzky / evilqr](https://github.com/kgretzky/evilqr) - Proof-of-concept to demonstrate dynamic QR swap phishing attacks in practice.
 * 【2023-07-11】[gauravghai / weatherApp-Reactjs](https://github.com/gauravghai/weatherApp-Reactjs) - How To Create Weather App Using React.js With Current Location & Search City
@@ -565,6 +579,9 @@
 
 ## C
 
+* 【2023-07-13】[sksalahuddin2828 / C](https://github.com/sksalahuddin2828/C) - Educational Purpose only
+* 【2023-07-13】[mkirchner / hamt](https://github.com/mkirchner/hamt) - A hash array-mapped trie implementation in C
+* 【2023-07-13】[containers / bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 * 【2023-07-12】[Pithikos / C-Thread-Pool](https://github.com/Pithikos/C-Thread-Pool) - A minimal but powerful thread pool in ANSI C
 * 【2023-07-12】[lh3 / pangene](https://github.com/lh3/pangene) - WIP: Constructing a pangenome gene graph
 * 【2023-07-11】[lem0nSec / ShellGhost](https://github.com/lem0nSec/ShellGhost) - A memory-based evasion technique which makes shellcode invisible from process start to end.
@@ -639,6 +656,7 @@
 
 ## C++
 
+* 【2023-07-13】[Yufccode / Multiplexing-high-performance-IO-server](https://github.com/Yufccode/Multiplexing-high-performance-IO-server) - Here are three types of high-performance IO servers, implemented through multiplexing. They are select, poll, and epoll, respectively.
 * 【2023-07-12】[pentilm / StellarSolver](https://github.com/pentilm/StellarSolver) - 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
 * 【2023-07-12】[cyrusbehr / YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) - YOLOv8 TensorRT C++ Implementation
 * 【2023-07-12】[wheremyfoodat / Panda3DS](https://github.com/wheremyfoodat/Panda3DS) - HLE 3DS emulator
@@ -695,6 +713,8 @@
 
 ## C#
 
+* 【2023-07-13】[kawser2133 / clean-structured-project](https://github.com/kawser2133/clean-structured-project) - Clean structured ASP.NET Core web project, follows the Clean Architecture principles, SOLID design principles, and implements the Dependency Injection, Repository, and Unit of Work design pattern, and utilizes Entity Framework Core for data access.
+* 【2023-07-13】[sksalahuddin2828 / C_Sharp](https://github.com/sksalahuddin2828/C_Sharp) - Explore something new
 * 【2023-07-12】[dotnet / Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
 * 【2023-07-12】[NovaUI-Unity / AppleXRConcept](https://github.com/NovaUI-Unity/AppleXRConcept) - Source code for Nova Apple XR concept video
 * 【2023-07-11】[Lidarr / Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -773,6 +793,9 @@
 
 ## Html
 
+* 【2023-07-13】[aletheap / ai_on_threads](https://github.com/aletheap/ai_on_threads) - 
+* 【2023-07-13】[TheOriginalAyaka / sekai-stickers](https://github.com/TheOriginalAyaka/sekai-stickers) - Project Sekai sticker maker
+* 【2023-07-13】[loveBabbar / CodehelpYTWebDev](https://github.com/loveBabbar/CodehelpYTWebDev) - Welcome to our concise web development course on the MERN stack! Learn how to build modern web applications using MongoDB, Express.js, React, and Node.js. From setup to deployment, master front-end and back-end development, APIs, and more. Join us and unlock the power of the MERN stack! Link: https://bit.ly/3NVveYl
 * 【2023-07-12】[comfyanonymous / ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 * 【2023-07-11】[rust-lang / rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) - A guide to how rustc works and how to contribute to it.
 * 【2023-07-10】[ProgrammingHero1 / webdeveloper-portfolio](https://github.com/ProgrammingHero1/webdeveloper-portfolio) - 
@@ -841,6 +864,9 @@
 
 ## Css
 
+* 【2023-07-13】[nileane / TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI.🍊🐘
+* 【2023-07-13】[creativetimofficial / material-dashboard-laravel-bs4](https://github.com/creativetimofficial/material-dashboard-laravel-bs4) - 
+* 【2023-07-13】[starknet-io / starknet-docs](https://github.com/starknet-io/starknet-docs) - The main repo for Starknet's documentation
 * 【2023-07-12】[kuronekony4n / astream](https://github.com/kuronekony4n/astream) - A very epic anime streaming website. No Ads.
 * 【2023-07-10】[saarthack / sidcup-family-golf](https://github.com/saarthack/sidcup-family-golf) - 
 * 【2023-07-09】[xcruxiex / themes](https://github.com/xcruxiex/themes) - Spectra used to run this repo, after his departure he gave this repo to me and wiz, we will do our best to honor his years spent here, love you spectra!
@@ -928,6 +954,12 @@
 
 ## Unknown
 
+* 【2023-07-13】[NAOSI-DLUT / Campus2024](https://github.com/NAOSI-DLUT/Campus2024) - 2024届互联网校招信息汇总
+* 【2023-07-13】[yongfook / saas-growth-articles](https://github.com/yongfook/saas-growth-articles) - A list of articles about growing SaaS businesses
+* 【2023-07-13】[sksalahuddin2828 / sksalahuddin2828](https://github.com/sksalahuddin2828/sksalahuddin2828) - Config files for my GitHub profile.
+* 【2023-07-13】[SkalskiP / awesome-chatgpt-code-interpreter-experiments](https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments) - Awesome things you can do with ChatGPT + Code Interpreter combo🔥
+* 【2023-07-13】[SytanSD / Sytan-SDXL-ComfyUI](https://github.com/SytanSD/Sytan-SDXL-ComfyUI) - A hub dedicated to development and upkeep of the Sytan SDXL workflow for ComfyUI
+* 【2023-07-13】[elidianaandrade / dio-lab-open-source](https://github.com/elidianaandrade/dio-lab-open-source) - Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
 * 【2023-07-12】[CVEProject / cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5.0 format
 * 【2023-07-12】[mattcorey / indie-dev-sales](https://github.com/mattcorey/indie-dev-sales) - List of Indie Dev Sales Events
 * 【2023-07-12】[imhq / rust-interview-handbook](https://github.com/imhq/rust-interview-handbook) - A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.
