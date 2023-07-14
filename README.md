@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-07-14】[baichuan-inc / Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
+* 【2023-07-14】[guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
+* 【2023-07-14】[mikepound / cubes](https://github.com/mikepound/cubes) - This code calculates all the variations of 3D polycubes for any size (time permitting!)
+* 【2023-07-14】[OpenLMLab / MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF) - MOSS-RLHF
 * 【2023-07-13】[mshumer / gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 * 【2023-07-13】[mazzzystar / Queryable](https://github.com/mazzzystar/Queryable) - Run OpenAI's CLIP model on iPhone to search photos.
 * 【2023-07-13】[graphdeco-inria / gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
@@ -269,6 +273,11 @@
 
 ## Python
 
+* 【2023-07-14】[jxxghp / MoviePilot](https://github.com/jxxghp/MoviePilot) - 
+* 【2023-07-14】[keras-team / keras-core](https://github.com/keras-team/keras-core) - A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
+* 【2023-07-14】[zjunlp / KnowLM](https://github.com/zjunlp/KnowLM) - Knowledgable Large Language Model Framework.
+* 【2023-07-14】[fengx1a0 / Bilibili_show_ticket_auto_order](https://github.com/fengx1a0/Bilibili_show_ticket_auto_order) - 
+* 【2023-07-14】[huggingface / autotrain-advanced](https://github.com/huggingface/autotrain-advanced) - 🤗AutoTrain Advanced
 * 【2023-07-13】[Yujun-Shi / DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) - Official code for DragDiffusion
 * 【2023-07-13】[baichuan-inc / Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 * 【2023-07-13】[pynecone-io / reflex](https://github.com/pynecone-io/reflex) - 🕸Web apps in pure Python🐍
@@ -430,6 +439,8 @@
 
 ## Javascript
 
+* 【2023-07-14】[Script-Hub-Org / Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
+* 【2023-07-14】[thomaspark / bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 * 【2023-07-13】[prebid / Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
 * 【2023-07-13】[Vincenius / workout-lol](https://github.com/Vincenius/workout-lol) - A simple way to create a workout plan
 * 【2023-07-13】[deepch / RTSPtoWeb](https://github.com/deepch/RTSPtoWeb) - RTSP Stream to WebBrowser
@@ -521,6 +532,7 @@
 
 ## Go
 
+* 【2023-07-14】[koderover / zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 * 【2023-07-11】[bitquark / shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
 * 【2023-07-11】[kelindar / column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go
 * 【2023-07-10】[maaslalani / invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
@@ -579,6 +591,7 @@
 
 ## C
 
+* 【2023-07-14】[openmv / openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
 * 【2023-07-13】[sksalahuddin2828 / C](https://github.com/sksalahuddin2828/C) - Educational Purpose only
 * 【2023-07-13】[mkirchner / hamt](https://github.com/mkirchner/hamt) - A hash array-mapped trie implementation in C
 * 【2023-07-13】[containers / bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -656,6 +669,7 @@
 
 ## C++
 
+* 【2023-07-14】[brndnmtthws / conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 * 【2023-07-13】[Yufccode / Multiplexing-high-performance-IO-server](https://github.com/Yufccode/Multiplexing-high-performance-IO-server) - Here are three types of high-performance IO servers, implemented through multiplexing. They are select, poll, and epoll, respectively.
 * 【2023-07-12】[pentilm / StellarSolver](https://github.com/pentilm/StellarSolver) - 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
 * 【2023-07-12】[cyrusbehr / YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) - YOLOv8 TensorRT C++ Implementation
@@ -793,6 +807,7 @@
 
 ## Html
 
+* 【2023-07-14】[letianzj / quanttrader](https://github.com/letianzj/quanttrader) - Backtest and live trading in Python
 * 【2023-07-13】[aletheap / ai_on_threads](https://github.com/aletheap/ai_on_threads) - 
 * 【2023-07-13】[TheOriginalAyaka / sekai-stickers](https://github.com/TheOriginalAyaka/sekai-stickers) - Project Sekai sticker maker
 * 【2023-07-13】[loveBabbar / CodehelpYTWebDev](https://github.com/loveBabbar/CodehelpYTWebDev) - Welcome to our concise web development course on the MERN stack! Learn how to build modern web applications using MongoDB, Express.js, React, and Node.js. From setup to deployment, master front-end and back-end development, APIs, and more. Join us and unlock the power of the MERN stack! Link: https://bit.ly/3NVveYl
@@ -864,6 +879,10 @@
 
 ## Css
 
+* 【2023-07-14】[Me163 / rusty_llama](https://github.com/Me163/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
+* 【2023-07-14】[LPengYang / FreeDrag](https://github.com/LPengYang/FreeDrag) - Official Implementation of FreeDrag
+* 【2023-07-14】[artemsheludko / flexton](https://github.com/artemsheludko/flexton) - Flexton is an ultra-minimalist and responsive theme for Jekyll
+* 【2023-07-14】[DevEvil99 / Azurite-Discord-Theme](https://github.com/DevEvil99/Azurite-Discord-Theme) - Bring a new look to your Discord with Azurite, A dark and customizable theme
 * 【2023-07-13】[nileane / TangerineUI-for-Mastodon](https://github.com/nileane/TangerineUI-for-Mastodon) - A Tangerine redesign for Mastodon's Web UI.🍊🐘
 * 【2023-07-13】[creativetimofficial / material-dashboard-laravel-bs4](https://github.com/creativetimofficial/material-dashboard-laravel-bs4) - 
 * 【2023-07-13】[starknet-io / starknet-docs](https://github.com/starknet-io/starknet-docs) - The main repo for Starknet's documentation
@@ -954,6 +973,8 @@
 
 ## Unknown
 
+* 【2023-07-14】[blackav / smart-home-binary](https://github.com/blackav/smart-home-binary) - Smart-home problem demo server binary releases
+* 【2023-07-14】[1n7erface / Template](https://github.com/1n7erface/Template) - Next generation RedTeam heuristic intranet scanning | 下一代RedTeam启发式内网扫描
 * 【2023-07-13】[NAOSI-DLUT / Campus2024](https://github.com/NAOSI-DLUT/Campus2024) - 2024届互联网校招信息汇总
 * 【2023-07-13】[yongfook / saas-growth-articles](https://github.com/yongfook/saas-growth-articles) - A list of articles about growing SaaS businesses
 * 【2023-07-13】[sksalahuddin2828 / sksalahuddin2828](https://github.com/sksalahuddin2828/sksalahuddin2828) - Config files for my GitHub profile.
