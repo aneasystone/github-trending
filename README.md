@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-07-15】[a16z-infra / companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
+* 【2023-07-15】[ldpreload / BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
+* 【2023-07-15】[grossartig / vanmoof-encryption-key-exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter) - Export all bike details (such as encryption key) of your VanMoof bikes.
+* 【2023-07-15】[ASHWIN990 / ADB-Toolkit](https://github.com/ASHWIN990/ADB-Toolkit) - ADB-Toolkit V2 for easy ADB tricks with many perks in all one. ENJOY!
+* 【2023-07-15】[safak / react-admin-ui](https://github.com/safak/react-admin-ui) - 
+* 【2023-07-15】[highcharts / highcharts](https://github.com/highcharts/highcharts) - Highcharts JS, the JavaScript charting framework
+* 【2023-07-15】[alx-tools / Betty](https://github.com/alx-tools/Betty) - Holberton-style C code checker written in Perl
 * 【2023-07-14】[baichuan-inc / Baichuan-13B](https://github.com/baichuan-inc/Baichuan-13B) - A 13B large language model developed by Baichuan Intelligent Technology
 * 【2023-07-14】[guoyww / AnimateDiff](https://github.com/guoyww/AnimateDiff) - Official implementation of AnimateDiff.
 * 【2023-07-14】[mikepound / cubes](https://github.com/mikepound/cubes) - This code calculates all the variations of 3D polycubes for any size (time permitting!)
@@ -209,6 +216,7 @@
 
 ## Java
 
+* 【2023-07-15】[docker-java / docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client
 * 【2023-07-12】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 * 【2023-07-11】[kshitijmishra23 / low-level-design-concepts](https://github.com/kshitijmishra23/low-level-design-concepts) - Code Samples to understand SOLID design principles and Design Patterns in JAVA.
 * 【2023-07-11】[Skocimis / opensms](https://github.com/Skocimis/opensms) - Open-source solution to programmatically send SMS using your own SIM cards
@@ -273,6 +281,11 @@
 
 ## Python
 
+* 【2023-07-15】[huawei-noah / VanillaNet](https://github.com/huawei-noah/VanillaNet) - 
+* 【2023-07-15】[UX-Decoder / Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - 
+* 【2023-07-15】[reflex-dev / reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone)🕸Web apps in pure Python🐍
+* 【2023-07-15】[pengzhile / pandora-cloud-serverless](https://github.com/pengzhile/pandora-cloud-serverless) - 一个简单的仓库，用于Serverless部署Pandora-Cloud。
+* 【2023-07-15】[raminmh / liquid_time_constant_networks](https://github.com/raminmh/liquid_time_constant_networks) - Code Repository for Liquid Time-Constant Networks (LTCs)
 * 【2023-07-14】[jxxghp / MoviePilot](https://github.com/jxxghp/MoviePilot) - 
 * 【2023-07-14】[keras-team / keras-core](https://github.com/keras-team/keras-core) - A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
 * 【2023-07-14】[zjunlp / KnowLM](https://github.com/zjunlp/KnowLM) - Knowledgable Large Language Model Framework.
@@ -439,6 +452,7 @@
 
 ## Javascript
 
+* 【2023-07-15】[ruudmens / LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 * 【2023-07-14】[Script-Hub-Org / Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
 * 【2023-07-14】[thomaspark / bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
 * 【2023-07-13】[prebid / Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
@@ -591,6 +605,8 @@
 
 ## C
 
+* 【2023-07-15】[ldpreload / Medusa](https://github.com/ldpreload/Medusa) - LD_PRELOAD Rootkit
+* 【2023-07-15】[rgerganov / ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
 * 【2023-07-14】[openmv / openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
 * 【2023-07-13】[sksalahuddin2828 / C](https://github.com/sksalahuddin2828/C) - Educational Purpose only
 * 【2023-07-13】[mkirchner / hamt](https://github.com/mkirchner/hamt) - A hash array-mapped trie implementation in C
@@ -669,6 +685,7 @@
 
 ## C++
 
+* 【2023-07-15】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 * 【2023-07-14】[brndnmtthws / conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 * 【2023-07-13】[Yufccode / Multiplexing-high-performance-IO-server](https://github.com/Yufccode/Multiplexing-high-performance-IO-server) - Here are three types of high-performance IO servers, implemented through multiplexing. They are select, poll, and epoll, respectively.
 * 【2023-07-12】[pentilm / StellarSolver](https://github.com/pentilm/StellarSolver) - 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
@@ -727,6 +744,8 @@
 
 ## C#
 
+* 【2023-07-15】[FritzAndFriends / TagzApp](https://github.com/FritzAndFriends/TagzApp) - An application that discovers content on social media for hashtags
+* 【2023-07-15】[NewLifeX / Stardust](https://github.com/NewLifeX/Stardust) - 星尘，轻量级分布式服务框架。配置中心、集群管理、远程自动发布、服务治理。服务自动注册和发现，负载均衡，动态伸缩，故障转移，性能监控。
 * 【2023-07-13】[kawser2133 / clean-structured-project](https://github.com/kawser2133/clean-structured-project) - Clean structured ASP.NET Core web project, follows the Clean Architecture principles, SOLID design principles, and implements the Dependency Injection, Repository, and Unit of Work design pattern, and utilizes Entity Framework Core for data access.
 * 【2023-07-13】[sksalahuddin2828 / C_Sharp](https://github.com/sksalahuddin2828/C_Sharp) - Explore something new
 * 【2023-07-12】[dotnet / Open-XML-SDK](https://github.com/dotnet/Open-XML-SDK) - Open XML SDK by Microsoft
@@ -807,6 +826,7 @@
 
 ## Html
 
+* 【2023-07-15】[OCA / knowledge](https://github.com/OCA/knowledge) - Odoo Document & Knowledge Management
 * 【2023-07-14】[letianzj / quanttrader](https://github.com/letianzj/quanttrader) - Backtest and live trading in Python
 * 【2023-07-13】[aletheap / ai_on_threads](https://github.com/aletheap/ai_on_threads) - 
 * 【2023-07-13】[TheOriginalAyaka / sekai-stickers](https://github.com/TheOriginalAyaka/sekai-stickers) - Project Sekai sticker maker
@@ -879,6 +899,8 @@
 
 ## Css
 
+* 【2023-07-15】[WebDevSimplified / logical.so-scroll-animation](https://github.com/WebDevSimplified/logical.so-scroll-animation) - 
+* 【2023-07-15】[joy-of-react / hit-counter](https://github.com/joy-of-react/hit-counter) - 
 * 【2023-07-14】[Me163 / rusty_llama](https://github.com/Me163/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
 * 【2023-07-14】[LPengYang / FreeDrag](https://github.com/LPengYang/FreeDrag) - Official Implementation of FreeDrag
 * 【2023-07-14】[artemsheludko / flexton](https://github.com/artemsheludko/flexton) - Flexton is an ultra-minimalist and responsive theme for Jekyll
@@ -973,6 +995,8 @@
 
 ## Unknown
 
+* 【2023-07-15】[stkeky / best-of-scala](https://github.com/stkeky/best-of-scala) - 🏆A ranked list of awesome Scala libraries. Updated weekly.
+* 【2023-07-15】[jhaddix / tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
 * 【2023-07-14】[blackav / smart-home-binary](https://github.com/blackav/smart-home-binary) - Smart-home problem demo server binary releases
 * 【2023-07-14】[1n7erface / Template](https://github.com/1n7erface/Template) - Next generation RedTeam heuristic intranet scanning | 下一代RedTeam启发式内网扫描
 * 【2023-07-13】[NAOSI-DLUT / Campus2024](https://github.com/NAOSI-DLUT/Campus2024) - 2024届互联网校招信息汇总
