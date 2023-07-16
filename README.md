@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-07-16】[bazingagin / npc_gzip](https://github.com/bazingagin/npc_gzip) - 
+* 【2023-07-16】[system76 / virgo](https://github.com/system76/virgo) - System76 Virgo Laptop Project
+* 【2023-07-16】[Visualize-ML / Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；开始上传PDF草稿、Jupyter笔记。文件还会经过至少两轮修改，改动会很大，大家注意下载最新版本。请多提意见，谢谢
+* 【2023-07-16】[medusajs / nextjs-starter-medusa](https://github.com/medusajs/nextjs-starter-medusa) - A performant e-commerce starter template with Next.js 13 and Medusa.
 * 【2023-07-15】[a16z-infra / companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 * 【2023-07-15】[ldpreload / BlackLotus](https://github.com/ldpreload/BlackLotus) - BlackLotus UEFI Windows Bootkit
 * 【2023-07-15】[grossartig / vanmoof-encryption-key-exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter) - Export all bike details (such as encryption key) of your VanMoof bikes.
@@ -216,6 +220,9 @@
 
 ## Java
 
+* 【2023-07-16】[neoforged / NeoForge](https://github.com/neoforged/NeoForge) - 
+* 【2023-07-16】[baidu / bifromq](https://github.com/baidu/bifromq) - A MQTT broker implementation adopting serverless architecture
+* 【2023-07-16】[zuihou / lamp-boot](https://github.com/zuihou/lamp-boot) - lamp-boot 基于Jdk11 + SpringBoot的前后分离的快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框架使用。
 * 【2023-07-15】[docker-java / docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client
 * 【2023-07-12】[helidon-io / helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 * 【2023-07-11】[kshitijmishra23 / low-level-design-concepts](https://github.com/kshitijmishra23/low-level-design-concepts) - Code Samples to understand SOLID design principles and Design Patterns in JAVA.
@@ -281,6 +288,7 @@
 
 ## Python
 
+* 【2023-07-16】[baaivision / Emu](https://github.com/baaivision/Emu) - Emu: An Open Multimodal Generalist
 * 【2023-07-15】[huawei-noah / VanillaNet](https://github.com/huawei-noah/VanillaNet) - 
 * 【2023-07-15】[UX-Decoder / Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - 
 * 【2023-07-15】[reflex-dev / reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone)🕸Web apps in pure Python🐍
@@ -452,6 +460,8 @@
 
 ## Javascript
 
+* 【2023-07-16】[Klerith / mas-talento](https://github.com/Klerith/mas-talento) - Repositorio con las hojas de atajo y presentaciones de mis cursos
+* 【2023-07-16】[greensock / GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 * 【2023-07-15】[ruudmens / LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
 * 【2023-07-14】[Script-Hub-Org / Script-Hub](https://github.com/Script-Hub-Org/Script-Hub) - Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换
 * 【2023-07-14】[thomaspark / bootswatch](https://github.com/thomaspark/bootswatch) - Themes for Bootstrap
@@ -546,6 +556,7 @@
 
 ## Go
 
+* 【2023-07-16】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node.💾⏰💪
 * 【2023-07-14】[koderover / zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 * 【2023-07-11】[bitquark / shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
 * 【2023-07-11】[kelindar / column](https://github.com/kelindar/column) - High-performance, columnar, in-memory store with bitmap indexing in Go
@@ -605,6 +616,7 @@
 
 ## C
 
+* 【2023-07-16】[neondatabase / pg_embedding](https://github.com/neondatabase/pg_embedding) - Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
 * 【2023-07-15】[ldpreload / Medusa](https://github.com/ldpreload/Medusa) - LD_PRELOAD Rootkit
 * 【2023-07-15】[rgerganov / ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
 * 【2023-07-14】[openmv / openmv](https://github.com/openmv/openmv) - OpenMV Camera Module
@@ -685,6 +697,7 @@
 
 ## C++
 
+* 【2023-07-16】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 * 【2023-07-15】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 * 【2023-07-14】[brndnmtthws / conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 * 【2023-07-13】[Yufccode / Multiplexing-high-performance-IO-server](https://github.com/Yufccode/Multiplexing-high-performance-IO-server) - Here are three types of high-performance IO servers, implemented through multiplexing. They are select, poll, and epoll, respectively.
@@ -744,6 +757,8 @@
 
 ## C#
 
+* 【2023-07-16】[REvorker1 / Phemedrone-Stealer](https://github.com/REvorker1/Phemedrone-Stealer) - The Best open source Stealer with sending logs to Telegram
+* 【2023-07-16】[dotnet / iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
 * 【2023-07-15】[FritzAndFriends / TagzApp](https://github.com/FritzAndFriends/TagzApp) - An application that discovers content on social media for hashtags
 * 【2023-07-15】[NewLifeX / Stardust](https://github.com/NewLifeX/Stardust) - 星尘，轻量级分布式服务框架。配置中心、集群管理、远程自动发布、服务治理。服务自动注册和发现，负载均衡，动态伸缩，故障转移，性能监控。
 * 【2023-07-13】[kawser2133 / clean-structured-project](https://github.com/kawser2133/clean-structured-project) - Clean structured ASP.NET Core web project, follows the Clean Architecture principles, SOLID design principles, and implements the Dependency Injection, Repository, and Unit of Work design pattern, and utilizes Entity Framework Core for data access.
@@ -826,6 +841,7 @@
 
 ## Html
 
+* 【2023-07-16】[ecaps1038 / yike-design-dev](https://github.com/ecaps1038/yike-design-dev) - Vue3+Ts+Less 开发的前端UI框架
 * 【2023-07-15】[OCA / knowledge](https://github.com/OCA/knowledge) - Odoo Document & Knowledge Management
 * 【2023-07-14】[letianzj / quanttrader](https://github.com/letianzj/quanttrader) - Backtest and live trading in Python
 * 【2023-07-13】[aletheap / ai_on_threads](https://github.com/aletheap/ai_on_threads) - 
@@ -899,6 +915,7 @@
 
 ## Css
 
+* 【2023-07-16】[Qihoo360 / WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 * 【2023-07-15】[WebDevSimplified / logical.so-scroll-animation](https://github.com/WebDevSimplified/logical.so-scroll-animation) - 
 * 【2023-07-15】[joy-of-react / hit-counter](https://github.com/joy-of-react/hit-counter) - 
 * 【2023-07-14】[Me163 / rusty_llama](https://github.com/Me163/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
@@ -995,6 +1012,7 @@
 
 ## Unknown
 
+* 【2023-07-16】[easychen / one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 * 【2023-07-15】[stkeky / best-of-scala](https://github.com/stkeky/best-of-scala) - 🏆A ranked list of awesome Scala libraries. Updated weekly.
 * 【2023-07-15】[jhaddix / tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
 * 【2023-07-14】[blackav / smart-home-binary](https://github.com/blackav/smart-home-binary) - Smart-home problem demo server binary releases
