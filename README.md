@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-07-17】[Shaunwei / RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime(All in One Codebase!). Have a natural seamless conversation with AI everywhere(mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
+* 【2023-07-17】[midudev / pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas) - Pruebas técnicas donde la comunidad participa con sus soluciones
+* 【2023-07-17】[filip-michalsky / SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
+* 【2023-07-17】[easychen / lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
+* 【2023-07-17】[webdevcody / code-racer](https://github.com/webdevcody/code-racer) - 
 * 【2023-07-16】[bazingagin / npc_gzip](https://github.com/bazingagin/npc_gzip) - 
 * 【2023-07-16】[system76 / virgo](https://github.com/system76/virgo) - System76 Virgo Laptop Project
 * 【2023-07-16】[Visualize-ML / Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners) - Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；开始上传PDF草稿、Jupyter笔记。文件还会经过至少两轮修改，改动会很大，大家注意下载最新版本。请多提意见，谢谢
@@ -220,6 +225,8 @@
 
 ## Java
 
+* 【2023-07-17】[tgscan-dev / tgscan](https://github.com/tgscan-dev/tgscan) - Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.
+* 【2023-07-17】[mekanism / Mekanism](https://github.com/mekanism/Mekanism) - A mod for Minecraft
 * 【2023-07-16】[neoforged / NeoForge](https://github.com/neoforged/NeoForge) - 
 * 【2023-07-16】[baidu / bifromq](https://github.com/baidu/bifromq) - A MQTT broker implementation adopting serverless architecture
 * 【2023-07-16】[zuihou / lamp-boot](https://github.com/zuihou/lamp-boot) - lamp-boot 基于Jdk11 + SpringBoot的前后分离的快速开发平台，其中的可配置的SaaS功能尤其闪耀， 具备RBAC功能、网关统一鉴权、Xss防跨站攻击、自动代码生成、多种存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。代码简洁，注释齐全，架构清晰，非常适合学习和企业作为基础框架使用。
@@ -288,6 +295,10 @@
 
 ## Python
 
+* 【2023-07-17】[Codium-ai / pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered🤖Tool for Automated PR Analysis, Feedback, Suggestions and More!💻🔍
+* 【2023-07-17】[amnemonic / Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
+* 【2023-07-17】[jina-ai / vectordb](https://github.com/jina-ai/vectordb) - A Python vector database you just need - no more, no less.
+* 【2023-07-17】[MarginalClan / sushiswap-sniper-bot](https://github.com/MarginalClan/sushiswap-sniper-bot) - Fast sniping
 * 【2023-07-16】[baaivision / Emu](https://github.com/baaivision/Emu) - Emu: An Open Multimodal Generalist
 * 【2023-07-15】[huawei-noah / VanillaNet](https://github.com/huawei-noah/VanillaNet) - 
 * 【2023-07-15】[UX-Decoder / Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - 
@@ -460,6 +471,8 @@
 
 ## Javascript
 
+* 【2023-07-17】[Explosion-Scratch / claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
+* 【2023-07-17】[MarginalClan / UniSwap-sniper-bot](https://github.com/MarginalClan/UniSwap-sniper-bot) - Optimized, fast and safe Uniswap sniping bot for buying new listings.
 * 【2023-07-16】[Klerith / mas-talento](https://github.com/Klerith/mas-talento) - Repositorio con las hojas de atajo y presentaciones de mis cursos
 * 【2023-07-16】[greensock / GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
 * 【2023-07-15】[ruudmens / LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
@@ -556,6 +569,8 @@
 
 ## Go
 
+* 【2023-07-17】[gorse-io / gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
+* 【2023-07-17】[deep-project / moss](https://github.com/deep-project/moss) - moss is a simple and lightweight web content management system(cms)🍀moss是一个简单轻量的内容管理系统
 * 【2023-07-16】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node.💾⏰💪
 * 【2023-07-14】[koderover / zadig](https://github.com/koderover/zadig) - Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
 * 【2023-07-11】[bitquark / shortscan](https://github.com/bitquark/shortscan) - An IIS short filename enumeration tool
@@ -697,6 +712,8 @@
 
 ## C++
 
+* 【2023-07-17】[CognisysGroup / HadesLdr](https://github.com/CognisysGroup/HadesLdr) - Shellcode Loader Implementing Indirect Dynamic Syscall , API Hashing, Fileless Shellcode retrieving using Winsock2
+* 【2023-07-17】[Faran-17 / Windows-Internals](https://github.com/Faran-17/Windows-Internals) - Important notes and topics on my journey towards mastering Windows Internals
 * 【2023-07-16】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 * 【2023-07-15】[randombit / botan](https://github.com/randombit/botan) - Cryptography Toolkit
 * 【2023-07-14】[brndnmtthws / conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
@@ -757,6 +774,7 @@
 
 ## C#
 
+* 【2023-07-17】[misprit7 / WireHead](https://github.com/misprit7/WireHead) - A Terrarria mod that reimplements the wiring system more efficiently
 * 【2023-07-16】[REvorker1 / Phemedrone-Stealer](https://github.com/REvorker1/Phemedrone-Stealer) - The Best open source Stealer with sending logs to Telegram
 * 【2023-07-16】[dotnet / iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
 * 【2023-07-15】[FritzAndFriends / TagzApp](https://github.com/FritzAndFriends/TagzApp) - An application that discovers content on social media for hashtags
@@ -841,6 +859,8 @@
 
 ## Html
 
+* 【2023-07-17】[Ayushparikh-code / Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨& cool web development beginner-friendly✌️projects!
+* 【2023-07-17】[fmhy / FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 * 【2023-07-16】[ecaps1038 / yike-design-dev](https://github.com/ecaps1038/yike-design-dev) - Vue3+Ts+Less 开发的前端UI框架
 * 【2023-07-15】[OCA / knowledge](https://github.com/OCA/knowledge) - Odoo Document & Knowledge Management
 * 【2023-07-14】[letianzj / quanttrader](https://github.com/letianzj/quanttrader) - Backtest and live trading in Python
@@ -915,6 +935,8 @@
 
 ## Css
 
+* 【2023-07-17】[1amSimp1e / dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization💫
+* 【2023-07-17】[thirdweb-example / token-bound-account-app](https://github.com/thirdweb-example/token-bound-account-app) - Create a frontend for users to create erc-6551 smart wallets for their NFTs & claim erc-20 tokens!
 * 【2023-07-16】[Qihoo360 / WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
 * 【2023-07-15】[WebDevSimplified / logical.so-scroll-animation](https://github.com/WebDevSimplified/logical.so-scroll-animation) - 
 * 【2023-07-15】[joy-of-react / hit-counter](https://github.com/joy-of-react/hit-counter) - 
@@ -1012,6 +1034,11 @@
 
 ## Unknown
 
+* 【2023-07-17】[aman0046 / Which-companies-hires-offCampus-and-through-which-platform](https://github.com/aman0046/Which-companies-hires-offCampus-and-through-which-platform) - 
+* 【2023-07-17】[CodeWithMohaimin / Web-Developers-Figma-Resources](https://github.com/CodeWithMohaimin/Web-Developers-Figma-Resources) - This repository helps those people who started to learning web development. And struggle for design templates.
+* 【2023-07-17】[scroll-tech / contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) - This repository guides developers wanting to contribute to the Scroll ecosystem.
+* 【2023-07-17】[polymorphic / tesla-model-y-checklist](https://github.com/polymorphic/tesla-model-y-checklist) - Checklist for Tesla Model Y
+* 【2023-07-17】[zemmsoares / awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 * 【2023-07-16】[easychen / one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 * 【2023-07-15】[stkeky / best-of-scala](https://github.com/stkeky/best-of-scala) - 🏆A ranked list of awesome Scala libraries. Updated weekly.
 * 【2023-07-15】[jhaddix / tbhm](https://github.com/jhaddix/tbhm) - The Bug Hunters Methodology
