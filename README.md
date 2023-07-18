@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-07-18】[Yazdun / react-ts-fcc-tutorial](https://github.com/Yazdun/react-ts-fcc-tutorial) - typescript tutorial for react developers
+* 【2023-07-18】[bradfitz / issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 * 【2023-07-17】[Shaunwei / RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime(All in One Codebase!). Have a natural seamless conversation with AI everywhere(mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
 * 【2023-07-17】[midudev / pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas) - Pruebas técnicas donde la comunidad participa con sus soluciones
 * 【2023-07-17】[filip-michalsky / SalesGPT](https://github.com/filip-michalsky/SalesGPT) - Context-aware AI Sales Agent to automate sales outreach.
@@ -225,6 +227,11 @@
 
 ## Java
 
+* 【2023-07-18】[19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
+* 【2023-07-18】[alipay / fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
+* 【2023-07-18】[constanline / XQuickEnergy](https://github.com/constanline/XQuickEnergy) - 
+* 【2023-07-18】[lx5555 / mePush](https://github.com/lx5555/mePush) - 
+* 【2023-07-18】[WangDaYeeeeee / GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
 * 【2023-07-17】[tgscan-dev / tgscan](https://github.com/tgscan-dev/tgscan) - Streamline Your Telegram Searches: Find Channels, Groups, and Chat History Effortlessly.
 * 【2023-07-17】[mekanism / Mekanism](https://github.com/mekanism/Mekanism) - A mod for Minecraft
 * 【2023-07-16】[neoforged / NeoForge](https://github.com/neoforged/NeoForge) - 
@@ -295,6 +302,8 @@
 
 ## Python
 
+* 【2023-07-18】[shroominic / codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter👾
+* 【2023-07-18】[RayVentura / ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬ShortGPT - An experimental AI framework for automated short/video content. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 * 【2023-07-17】[Codium-ai / pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered🤖Tool for Automated PR Analysis, Feedback, Suggestions and More!💻🔍
 * 【2023-07-17】[amnemonic / Quansheng_UV-K5_Firmware](https://github.com/amnemonic/Quansheng_UV-K5_Firmware) - Quansheng UV-K5 Firmware
 * 【2023-07-17】[jina-ai / vectordb](https://github.com/jina-ai/vectordb) - A Python vector database you just need - no more, no less.
@@ -471,6 +480,8 @@
 
 ## Javascript
 
+* 【2023-07-18】[edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+* 【2023-07-18】[easydiffusion / easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 * 【2023-07-17】[Explosion-Scratch / claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
 * 【2023-07-17】[MarginalClan / UniSwap-sniper-bot](https://github.com/MarginalClan/UniSwap-sniper-bot) - Optimized, fast and safe Uniswap sniping bot for buying new listings.
 * 【2023-07-16】[Klerith / mas-talento](https://github.com/Klerith/mas-talento) - Repositorio con las hojas de atajo y presentaciones de mis cursos
@@ -569,6 +580,8 @@
 
 ## Go
 
+* 【2023-07-18】[FourCoreLabs / LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) - 
+* 【2023-07-18】[nextdns / nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 * 【2023-07-17】[gorse-io / gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 * 【2023-07-17】[deep-project / moss](https://github.com/deep-project/moss) - moss is a simple and lightweight web content management system(cms)🍀moss是一个简单轻量的内容管理系统
 * 【2023-07-16】[spacemeshos / go-spacemesh](https://github.com/spacemeshos/go-spacemesh) - Go Implementation of the Spacemesh protocol full node.💾⏰💪
@@ -631,6 +644,7 @@
 
 ## C
 
+* 【2023-07-18】[hfiref0x / WubbabooMark](https://github.com/hfiref0x/WubbabooMark) - Debugger Anti-Detection Benchmark
 * 【2023-07-16】[neondatabase / pg_embedding](https://github.com/neondatabase/pg_embedding) - Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
 * 【2023-07-15】[ldpreload / Medusa](https://github.com/ldpreload/Medusa) - LD_PRELOAD Rootkit
 * 【2023-07-15】[rgerganov / ggtag](https://github.com/rgerganov/ggtag) - programmable e-paper tag with RFID
@@ -712,6 +726,8 @@
 
 ## C++
 
+* 【2023-07-18】[kite03 / echoac-poc](https://github.com/kite03/echoac-poc) - 
+* 【2023-07-18】[MinhasKamal / TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 * 【2023-07-17】[CognisysGroup / HadesLdr](https://github.com/CognisysGroup/HadesLdr) - Shellcode Loader Implementing Indirect Dynamic Syscall , API Hashing, Fileless Shellcode retrieving using Winsock2
 * 【2023-07-17】[Faran-17 / Windows-Internals](https://github.com/Faran-17/Windows-Internals) - Important notes and topics on my journey towards mastering Windows Internals
 * 【2023-07-16】[ggerganov / ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -1034,6 +1050,9 @@
 
 ## Unknown
 
+* 【2023-07-18】[hkirat / project-ideas-v2](https://github.com/hkirat/project-ideas-v2) - Project ideas with prompts
+* 【2023-07-18】[saifaustcse / nodejs-developer-roadmap](https://github.com/saifaustcse/nodejs-developer-roadmap) - A roadmap to becoming a Node.js developer
+* 【2023-07-18】[abhishekkrthakur / approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
 * 【2023-07-17】[aman0046 / Which-companies-hires-offCampus-and-through-which-platform](https://github.com/aman0046/Which-companies-hires-offCampus-and-through-which-platform) - 
 * 【2023-07-17】[CodeWithMohaimin / Web-Developers-Figma-Resources](https://github.com/CodeWithMohaimin/Web-Developers-Figma-Resources) - This repository helps those people who started to learning web development. And struggle for design templates.
 * 【2023-07-17】[scroll-tech / contribute-to-scroll](https://github.com/scroll-tech/contribute-to-scroll) - This repository guides developers wanting to contribute to the Scroll ecosystem.
