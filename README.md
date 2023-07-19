@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-07-19】[orioledb / orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)🇺🇦
+* 【2023-07-19】[Lissy93 / web-check](https://github.com/Lissy93/web-check) - 🌐All-in-one website OSINT tool for analysing any website
+* 【2023-07-19】[LazyVim / starter](https://github.com/LazyVim/starter) - Starter template for LazyVim
+* 【2023-07-19】[yuankunzhang / charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 * 【2023-07-18】[Yazdun / react-ts-fcc-tutorial](https://github.com/Yazdun/react-ts-fcc-tutorial) - typescript tutorial for react developers
 * 【2023-07-18】[bradfitz / issue-tracker-behaviors](https://github.com/bradfitz/issue-tracker-behaviors) - 
 * 【2023-07-17】[Shaunwei / RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime(All in One Codebase!). Have a natural seamless conversation with AI everywhere(mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
@@ -302,6 +306,8 @@
 
 ## Python
 
+* 【2023-07-19】[Dao-AILab / flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
+* 【2023-07-19】[databricks-academy / large-language-models](https://github.com/databricks-academy/large-language-models) - Notebooks for Large Language Models (LLMs) Specialization
 * 【2023-07-18】[shroominic / codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter👾
 * 【2023-07-18】[RayVentura / ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬ShortGPT - An experimental AI framework for automated short/video content. Enables creators to rapidly produce, manage, and deliver content using AI and automation.
 * 【2023-07-17】[Codium-ai / pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered🤖Tool for Automated PR Analysis, Feedback, Suggestions and More!💻🔍
@@ -480,6 +486,7 @@
 
 ## Javascript
 
+* 【2023-07-19】[catvod / CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
 * 【2023-07-18】[edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 * 【2023-07-18】[easydiffusion / easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 * 【2023-07-17】[Explosion-Scratch / claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
@@ -580,6 +587,9 @@
 
 ## Go
 
+* 【2023-07-19】[IBM / sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
+* 【2023-07-19】[WuKongIM / WuKongIM](https://github.com/WuKongIM/WuKongIM) - 8年积累，沉淀出来的高性能通用通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，物联网通讯，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景。High-performance universal communication service that supports instant messaging, message push, IoT communication, audio and video signaling, live broadcasting with bullet comments, customer service systems
+* 【2023-07-19】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
 * 【2023-07-18】[FourCoreLabs / LolDriverScan](https://github.com/FourCoreLabs/LolDriverScan) - 
 * 【2023-07-18】[nextdns / nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 * 【2023-07-17】[gorse-io / gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -644,6 +654,7 @@
 
 ## C
 
+* 【2023-07-19】[cilium / pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 * 【2023-07-18】[hfiref0x / WubbabooMark](https://github.com/hfiref0x/WubbabooMark) - Debugger Anti-Detection Benchmark
 * 【2023-07-16】[neondatabase / pg_embedding](https://github.com/neondatabase/pg_embedding) - Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
 * 【2023-07-15】[ldpreload / Medusa](https://github.com/ldpreload/Medusa) - LD_PRELOAD Rootkit
@@ -726,6 +737,9 @@
 
 ## C++
 
+* 【2023-07-19】[ValveSoftware / GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
+* 【2023-07-19】[giuspen / cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
+* 【2023-07-19】[gem5 / gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
 * 【2023-07-18】[kite03 / echoac-poc](https://github.com/kite03/echoac-poc) - 
 * 【2023-07-18】[MinhasKamal / TrojanCockroach](https://github.com/MinhasKamal/TrojanCockroach) - A Stealthy Trojan Spyware
 * 【2023-07-17】[CognisysGroup / HadesLdr](https://github.com/CognisysGroup/HadesLdr) - Shellcode Loader Implementing Indirect Dynamic Syscall , API Hashing, Fileless Shellcode retrieving using Winsock2
@@ -790,6 +804,7 @@
 
 ## C#
 
+* 【2023-07-19】[ComponentFactory / Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
 * 【2023-07-17】[misprit7 / WireHead](https://github.com/misprit7/WireHead) - A Terrarria mod that reimplements the wiring system more efficiently
 * 【2023-07-16】[REvorker1 / Phemedrone-Stealer](https://github.com/REvorker1/Phemedrone-Stealer) - The Best open source Stealer with sending logs to Telegram
 * 【2023-07-16】[dotnet / iot](https://github.com/dotnet/iot) - This repo includes .NET Core implementations for various IoT boards, chips, displays and PCBs.
@@ -875,6 +890,11 @@
 
 ## Html
 
+* 【2023-07-19】[jgraph / mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
+* 【2023-07-19】[Rutuja927 / Disney-Hostar-website](https://github.com/Rutuja927/Disney-Hostar-website) - 
+* 【2023-07-19】[pengp25 / RateMySupervisor](https://github.com/pengp25/RateMySupervisor) - 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
+* 【2023-07-19】[tc39 / proposal-array-grouping](https://github.com/tc39/proposal-array-grouping) - A proposal to make grouping of array items easier
+* 【2023-07-19】[puzzlet / seshat](https://github.com/puzzlet/seshat) - Code like an Egyptian
 * 【2023-07-17】[Ayushparikh-code / Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects) - The repository contains the list of awesome✨& cool web development beginner-friendly✌️projects!
 * 【2023-07-17】[fmhy / FMHYedit](https://github.com/fmhy/FMHYedit) - Make changes to FMHY
 * 【2023-07-16】[ecaps1038 / yike-design-dev](https://github.com/ecaps1038/yike-design-dev) - Vue3+Ts+Less 开发的前端UI框架
@@ -951,6 +971,8 @@
 
 ## Css
 
+* 【2023-07-19】[b374k / b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
+* 【2023-07-19】[app-generator / rocket-builder](https://github.com/app-generator/rocket-builder) - Rocket Builder - Open-Source DnD Builder | AppSeed
 * 【2023-07-17】[1amSimp1e / dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization💫
 * 【2023-07-17】[thirdweb-example / token-bound-account-app](https://github.com/thirdweb-example/token-bound-account-app) - Create a frontend for users to create erc-6551 smart wallets for their NFTs & claim erc-20 tokens!
 * 【2023-07-16】[Qihoo360 / WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0) - WatchAD2.0是一款针对域威胁的日志分析与监控系统
@@ -1050,6 +1072,9 @@
 
 ## Unknown
 
+* 【2023-07-19】[remote-es / remotes](https://github.com/remote-es/remotes) - This is a repository listing companies which offer full-time remote jobs with Spanish contracts
+* 【2023-07-19】[novysodope / fupo_for_yonyou](https://github.com/novysodope/fupo_for_yonyou) - 用友漏洞检测，持续更新漏洞检测模块
+* 【2023-07-19】[pengsida / learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
 * 【2023-07-18】[hkirat / project-ideas-v2](https://github.com/hkirat/project-ideas-v2) - Project ideas with prompts
 * 【2023-07-18】[saifaustcse / nodejs-developer-roadmap](https://github.com/saifaustcse/nodejs-developer-roadmap) - A roadmap to becoming a Node.js developer
 * 【2023-07-18】[abhishekkrthakur / approachingalmost](https://github.com/abhishekkrthakur/approachingalmost) - Approaching (Almost) Any Machine Learning Problem
