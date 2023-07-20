@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-07-20】[charmbracelet / pop](https://github.com/charmbracelet/pop) - Send emails from your terminal📬
+* 【2023-07-20】[Uniswap / UniswapX](https://github.com/Uniswap/UniswapX) - 🦄Gasless ERC20 swap settlement protocol🦄
+* 【2023-07-20】[stalwartlabs / mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+* 【2023-07-20】[okx / go-wallet-sdk](https://github.com/okx/go-wallet-sdk) - Multi-chain golang signature sdk, supports bitcoin, ethereum, aptos, cosmos, etc.
 * 【2023-07-19】[orioledb / orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)🇺🇦
 * 【2023-07-19】[Lissy93 / web-check](https://github.com/Lissy93/web-check) - 🌐All-in-one website OSINT tool for analysing any website
 * 【2023-07-19】[LazyVim / starter](https://github.com/LazyVim/starter) - Starter template for LazyVim
@@ -306,6 +310,10 @@
 
 ## Python
 
+* 【2023-07-20】[dabeaz-course / python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
+* 【2023-07-20】[rany2 / edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+* 【2023-07-20】[Nerogar / OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
+* 【2023-07-20】[huggingface / optimum](https://github.com/huggingface/optimum) - 🚀Accelerate training and inference of🤗Transformers and🤗Diffusers with easy to use hardware optimization tools
 * 【2023-07-19】[Dao-AILab / flash-attention](https://github.com/Dao-AILab/flash-attention) - Fast and memory-efficient exact attention
 * 【2023-07-19】[databricks-academy / large-language-models](https://github.com/databricks-academy/large-language-models) - Notebooks for Large Language Models (LLMs) Specialization
 * 【2023-07-18】[shroominic / codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter👾
@@ -486,6 +494,8 @@
 
 ## Javascript
 
+* 【2023-07-20】[ErickWendel / processing-large-reports-in-the-browser](https://github.com/ErickWendel/processing-large-reports-in-the-browser) - Examples from my video about processing large reports in the browser without any backend
+* 【2023-07-20】[yokoffing / Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 * 【2023-07-19】[catvod / CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
 * 【2023-07-18】[edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 * 【2023-07-18】[easydiffusion / easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
@@ -587,6 +597,7 @@
 
 ## Go
 
+* 【2023-07-20】[mariocandela / beelzebub](https://github.com/mariocandela/beelzebub) - Go based low code Honeypot Framework with Enhanced Security, leveraging OpenAI GPT for System Virtualization
 * 【2023-07-19】[IBM / sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
 * 【2023-07-19】[WuKongIM / WuKongIM](https://github.com/WuKongIM/WuKongIM) - 8年积累，沉淀出来的高性能通用通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，物联网通讯，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景。High-performance universal communication service that supports instant messaging, message push, IoT communication, audio and video signaling, live broadcasting with bullet comments, customer service systems
 * 【2023-07-19】[Velocidex / velociraptor](https://github.com/Velocidex/velociraptor) - Digging Deeper....
@@ -654,6 +665,7 @@
 
 ## C
 
+* 【2023-07-20】[HeroWO-js / Workbench](https://github.com/HeroWO-js/Workbench) - Workspace for running HeroWO game client and generating databanks and maps
 * 【2023-07-19】[cilium / pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 * 【2023-07-18】[hfiref0x / WubbabooMark](https://github.com/hfiref0x/WubbabooMark) - Debugger Anti-Detection Benchmark
 * 【2023-07-16】[neondatabase / pg_embedding](https://github.com/neondatabase/pg_embedding) - Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
@@ -737,6 +749,9 @@
 
 ## C++
 
+* 【2023-07-20】[vitoplantamura / OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)
+* 【2023-07-20】[AcademySoftwareFoundation / openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
+* 【2023-07-20】[swig / swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 * 【2023-07-19】[ValveSoftware / GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.
 * 【2023-07-19】[giuspen / cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
 * 【2023-07-19】[gem5 / gem5](https://github.com/gem5/gem5) - The official repository for the gem5 computer-system architecture simulator.
@@ -890,6 +905,7 @@
 
 ## Html
 
+* 【2023-07-20】[hassanzhd / FAST-Resources](https://github.com/hassanzhd/FAST-Resources) - Resources of FAST-NUCES 2018-2022
 * 【2023-07-19】[jgraph / mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 * 【2023-07-19】[Rutuja927 / Disney-Hostar-website](https://github.com/Rutuja927/Disney-Hostar-website) - 
 * 【2023-07-19】[pengp25 / RateMySupervisor](https://github.com/pengp25/RateMySupervisor) - 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
@@ -971,6 +987,7 @@
 
 ## Css
 
+* 【2023-07-20】[fintechees / FiSDK](https://github.com/fintechees/FiSDK) - FiSDK is an API toolkit developed by Fintechee for managing and controlling the backend of the Fintechee trading platform.
 * 【2023-07-19】[b374k / b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 * 【2023-07-19】[app-generator / rocket-builder](https://github.com/app-generator/rocket-builder) - Rocket Builder - Open-Source DnD Builder | AppSeed
 * 【2023-07-17】[1amSimp1e / dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization💫
@@ -1072,6 +1089,13 @@
 
 ## Unknown
 
+* 【2023-07-20】[emmethalm / AI](https://github.com/emmethalm/AI) - The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas.
+* 【2023-07-20】[jiji262 / tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
+* 【2023-07-20】[skills / copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) - Develop with AI-powered code suggestions using GitHub Copilot and VS Code
+* 【2023-07-20】[wipeout-phantom-edition / wipeout-phantom-edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) - An enhanced PC source port of the original WipeOut.
+* 【2023-07-20】[markscanlonucd / ChatGPT-for-Digital-Forensics](https://github.com/markscanlonucd/ChatGPT-for-Digital-Forensics) - 
+* 【2023-07-20】[Lissy93 / awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄A curated list of privacy & security-focused software and services
+* 【2023-07-20】[anamariarojas123 / Qiskit-Global-Summer-School-2023](https://github.com/anamariarojas123/Qiskit-Global-Summer-School-2023) - 
 * 【2023-07-19】[remote-es / remotes](https://github.com/remote-es/remotes) - This is a repository listing companies which offer full-time remote jobs with Spanish contracts
 * 【2023-07-19】[novysodope / fupo_for_yonyou](https://github.com/novysodope/fupo_for_yonyou) - 用友漏洞检测，持续更新漏洞检测模块
 * 【2023-07-19】[pengsida / learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
