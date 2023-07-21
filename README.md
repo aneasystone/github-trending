@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-07-21】[facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
+* 【2023-07-21】[hiteshchoudhary / apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
+* 【2023-07-21】[a16z-infra / llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) - LLaMA v2 Chatbot
+* 【2023-07-21】[jmorganca / ollama](https://github.com/jmorganca/ollama) - Run and package large language models on macOS
+* 【2023-07-21】[scaleapi / llm-engine](https://github.com/scaleapi/llm-engine) - Scale LLM Engine public repository
+* 【2023-07-21】[Bernardus / openmoof](https://github.com/Bernardus/openmoof) - 
+* 【2023-07-21】[oldratlee / useful-scripts](https://github.com/oldratlee/useful-scripts) - 🐌useful scripts for making developer's everyday life easier and happier, involved java, shell etc.
 * 【2023-07-20】[charmbracelet / pop](https://github.com/charmbracelet/pop) - Send emails from your terminal📬
 * 【2023-07-20】[Uniswap / UniswapX](https://github.com/Uniswap/UniswapX) - 🦄Gasless ERC20 swap settlement protocol🦄
 * 【2023-07-20】[stalwartlabs / mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
@@ -310,6 +317,7 @@
 
 ## Python
 
+* 【2023-07-21】[Forethought-Technologies / AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 * 【2023-07-20】[dabeaz-course / python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 * 【2023-07-20】[rany2 / edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 * 【2023-07-20】[Nerogar / OneTrainer](https://github.com/Nerogar/OneTrainer) - OneTrainer is a one-stop solution for all your stable diffusion training needs.
@@ -494,6 +502,7 @@
 
 ## Javascript
 
+* 【2023-07-21】[anshuopinion / React-10-Projects](https://github.com/anshuopinion/React-10-Projects) - 
 * 【2023-07-20】[ErickWendel / processing-large-reports-in-the-browser](https://github.com/ErickWendel/processing-large-reports-in-the-browser) - Examples from my video about processing large reports in the browser without any backend
 * 【2023-07-20】[yokoffing / Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
 * 【2023-07-19】[catvod / CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
@@ -597,6 +606,7 @@
 
 ## Go
 
+* 【2023-07-21】[uber-go / ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 * 【2023-07-20】[mariocandela / beelzebub](https://github.com/mariocandela/beelzebub) - Go based low code Honeypot Framework with Enhanced Security, leveraging OpenAI GPT for System Virtualization
 * 【2023-07-19】[IBM / sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
 * 【2023-07-19】[WuKongIM / WuKongIM](https://github.com/WuKongIM/WuKongIM) - 8年积累，沉淀出来的高性能通用通讯服务，支持即时通讯（聊天软件）(IM)(Chat)，消息推送，物联网通讯，音视频信令，直播弹幕，客服系统，AI通讯，即时社区等场景。High-performance universal communication service that supports instant messaging, message push, IoT communication, audio and video signaling, live broadcasting with bullet comments, customer service systems
@@ -665,6 +675,7 @@
 
 ## C
 
+* 【2023-07-21】[fenwii / OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
 * 【2023-07-20】[HeroWO-js / Workbench](https://github.com/HeroWO-js/Workbench) - Workspace for running HeroWO game client and generating databanks and maps
 * 【2023-07-19】[cilium / pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 * 【2023-07-18】[hfiref0x / WubbabooMark](https://github.com/hfiref0x/WubbabooMark) - Debugger Anti-Detection Benchmark
@@ -749,6 +760,8 @@
 
 ## C++
 
+* 【2023-07-21】[outobugi / Terrain3D](https://github.com/outobugi/Terrain3D) - An editable terrain system for Godot 4, written in C++
+* 【2023-07-21】[ZikangYuan / sr_lio](https://github.com/ZikangYuan/sr_lio) - A LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
 * 【2023-07-20】[vitoplantamura / OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)
 * 【2023-07-20】[AcademySoftwareFoundation / openvdb](https://github.com/AcademySoftwareFoundation/openvdb) - OpenVDB - Sparse volume data structure and tools
 * 【2023-07-20】[swig / swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
@@ -819,6 +832,7 @@
 
 ## C#
 
+* 【2023-07-21】[NoBugCn / ActionEditor](https://github.com/NoBugCn/ActionEditor) - unity技能编辑器，Buff编辑器，场景编辑器
 * 【2023-07-19】[ComponentFactory / Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
 * 【2023-07-17】[misprit7 / WireHead](https://github.com/misprit7/WireHead) - A Terrarria mod that reimplements the wiring system more efficiently
 * 【2023-07-16】[REvorker1 / Phemedrone-Stealer](https://github.com/REvorker1/Phemedrone-Stealer) - The Best open source Stealer with sending logs to Telegram
@@ -905,6 +919,8 @@
 
 ## Html
 
+* 【2023-07-21】[JPCERTCC / MemoryForensic-on-Cloud](https://github.com/JPCERTCC/MemoryForensic-on-Cloud) - Memory Forensic System on Cloud
+* 【2023-07-21】[hackforla / website](https://github.com/hackforla/website) - Hack for LA's website
 * 【2023-07-20】[hassanzhd / FAST-Resources](https://github.com/hassanzhd/FAST-Resources) - Resources of FAST-NUCES 2018-2022
 * 【2023-07-19】[jgraph / mxgraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library
 * 【2023-07-19】[Rutuja927 / Disney-Hostar-website](https://github.com/Rutuja927/Disney-Hostar-website) - 
@@ -987,6 +1003,8 @@
 
 ## Css
 
+* 【2023-07-21】[InoveAlumnos / css_responsive_web](https://github.com/InoveAlumnos/css_responsive_web) - Introducción a CSS Responsivo
+* 【2023-07-21】[firtman / coffeemasters-vanilla](https://github.com/firtman/coffeemasters-vanilla) - 
 * 【2023-07-20】[fintechees / FiSDK](https://github.com/fintechees/FiSDK) - FiSDK is an API toolkit developed by Fintechee for managing and controlling the backend of the Fintechee trading platform.
 * 【2023-07-19】[b374k / b374k](https://github.com/b374k/b374k) - PHP Webshell with handy features
 * 【2023-07-19】[app-generator / rocket-builder](https://github.com/app-generator/rocket-builder) - Rocket Builder - Open-Source DnD Builder | AppSeed
@@ -1089,6 +1107,11 @@
 
 ## Unknown
 
+* 【2023-07-21】[cxli233 / Online_R_learning](https://github.com/cxli233/Online_R_learning) - Online R learning for applied statistics
+* 【2023-07-21】[mkosir / typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide) - ⚙️TypeScript & React Style Guide. Concise set of conventions and best practices used to create consistent, maintainable code.
+* 【2023-07-21】[ProgrammingHero1 / B8A2-Gamer-Zone](https://github.com/ProgrammingHero1/B8A2-Gamer-Zone) - 
+* 【2023-07-21】[laravel / docs](https://github.com/laravel/docs) - The Laravel documentation.
+* 【2023-07-21】[yichensec / yichen_Password_dictionary](https://github.com/yichensec/yichen_Password_dictionary) - 逸尘的字典 渗透测试个人专用的字典，搜索网上，及自己平常收集的一些路径，其中信息包括HVV中常见的各大厂商的弱密码，web常见漏洞测试，会遇到的邮箱，密码，服务弱口令，中间件，子域名，漏洞路径，账户密码，等等，这些内容都是基于本人在实战中收集到的，其中包含Github上公布的密码字典整合，堪称最经典的字典，用这个足以满足日常src，渗透测试，资产梳理，红蓝对抗等前期探测工作。
 * 【2023-07-20】[emmethalm / AI](https://github.com/emmethalm/AI) - The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas.
 * 【2023-07-20】[jiji262 / tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
 * 【2023-07-20】[skills / copilot-codespaces-vscode](https://github.com/skills/copilot-codespaces-vscode) - Develop with AI-powered code suggestions using GitHub Copilot and VS Code
