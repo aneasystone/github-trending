@@ -8,6 +8,17 @@
 
 ## All language
 
+* 【2023-07-23】[FlagAlpha / Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - 最好的中文Llama大模型，完全开源可商用
+* 【2023-07-23】[midudev / curso-node-js](https://github.com/midudev/curso-node-js) - Curso de Node.js desde cero
+* 【2023-07-23】[microsoft / TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+* 【2023-07-23】[StudioCherno / Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
+* 【2023-07-23】[rdeepak2002 / reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/)
+* 【2023-07-23】[Fadi002 / unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
+* 【2023-07-23】[kennethleungty / Llama-2-Open-Source-LLM-CPU-Inference](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference) - Running Llama 2 and other Open-Source LLMs on CPU Inference Locally for Document Q&A
+* 【2023-07-23】[livewire / livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+* 【2023-07-23】[Jamie-Stirling / RetNet](https://github.com/Jamie-Stirling/RetNet) - An implementation of "Retentive Network: A Successor to Transformer for Large Language Models"
+* 【2023-07-23】[andreabergia / rjvm](https://github.com/andreabergia/rjvm) - A tiny JVM written in Rust. Learning project
+* 【2023-07-23】[lchen001 / LLMDrift](https://github.com/lchen001/LLMDrift) - 
 * 【2023-07-22】[SamsungLabs / NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut) - 
 * 【2023-07-22】[twentyhq / twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce.🌟You can star to support our work!
 * 【2023-07-22】[Swordfish90 / cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -250,6 +261,8 @@
 
 ## Java
 
+* 【2023-07-23】[oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署
+* 【2023-07-23】[AliyunContainerService / scaler](https://github.com/AliyunContainerService/scaler) - 
 * 【2023-07-18】[19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
 * 【2023-07-18】[alipay / fury](https://github.com/alipay/fury) - A blazing fast multi-language serialization framework powered by jit and zero-copy
 * 【2023-07-18】[constanline / XQuickEnergy](https://github.com/constanline/XQuickEnergy) - 
@@ -325,6 +338,8 @@
 
 ## Python
 
+* 【2023-07-23】[JayZeeDesign / researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
+* 【2023-07-23】[psychic-api / rag-stack](https://github.com/psychic-api/rag-stack) - 🤖Deploy a private ChatGPT alternative hosted within your VPC.🔮Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
 * 【2023-07-22】[a16z-infra / cog-llama-template](https://github.com/a16z-infra/cog-llama-template) - LLaMA Cog template
 * 【2023-07-22】[SergeyPirogov / webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 * 【2023-07-22】[yangjianxin1 / Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)，支持微调Llma2、Llama、Baichuan、InternLM、Ziya、Bloom等大模型
@@ -514,6 +529,9 @@
 
 ## Javascript
 
+* 【2023-07-23】[destinygg / dgg-place](https://github.com/destinygg/dgg-place) - 
+* 【2023-07-23】[qd-today / qd](https://github.com/qd-today/qd) - QD [v20230718] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+* 【2023-07-23】[bpampuch / pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 * 【2023-07-22】[GoogleChromeLabs / chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
 * 【2023-07-21】[anshuopinion / React-10-Projects](https://github.com/anshuopinion/React-10-Projects) - 
 * 【2023-07-20】[ErickWendel / processing-large-reports-in-the-browser](https://github.com/ErickWendel/processing-large-reports-in-the-browser) - Examples from my video about processing large reports in the browser without any backend
@@ -619,6 +637,9 @@
 
 ## Go
 
+* 【2023-07-23】[anyproto / any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
+* 【2023-07-23】[hueristiq / xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
+* 【2023-07-23】[ANG13T / DroneXtract](https://github.com/ANG13T/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones🔍. Analyze sensor values, visualize flight maps, and audit for criminal activity🗺
 * 【2023-07-21】[uber-go / ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
 * 【2023-07-20】[mariocandela / beelzebub](https://github.com/mariocandela/beelzebub) - Go based low code Honeypot Framework with Enhanced Security, leveraging OpenAI GPT for System Virtualization
 * 【2023-07-19】[IBM / sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
@@ -688,6 +709,10 @@
 
 ## C
 
+* 【2023-07-23】[bartobri / no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
+* 【2023-07-23】[ossec / ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
+* 【2023-07-23】[avaneev / lzav](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm (in C)
+* 【2023-07-23】[mpaland / printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 * 【2023-07-22】[Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
 * 【2023-07-22】[mandiant / msi-search](https://github.com/mandiant/msi-search) - 
 * 【2023-07-22】[ventoy / PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
@@ -776,6 +801,7 @@
 
 ## C++
 
+* 【2023-07-23】[InternLM / lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLM
 * 【2023-07-22】[nu11secur1ty / Windows11Exploits](https://github.com/nu11secur1ty/Windows11Exploits) - 
 * 【2023-07-22】[risc0 / risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 * 【2023-07-22】[yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android) - 
@@ -940,6 +966,10 @@
 
 ## Html
 
+* 【2023-07-23】[codrops / ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations) - An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
+* 【2023-07-23】[guifaChild / text_to_vedio](https://github.com/guifaChild/text_to_vedio) - 这是一个由文本直接生成视频的项目
+* 【2023-07-23】[zhangwenboi / daimaiqr](https://github.com/zhangwenboi/daimaiqr) - 抢票助手,将大麦要抢得场次复制转换为二维码,大麦app扫码进入
+* 【2023-07-23】[godbasin / godbasin.github.io](https://github.com/godbasin/godbasin.github.io) - 被删前端博客--喜欢请star
 * 【2023-07-22】[pa3gsb / Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 * 【2023-07-22】[skills / code-with-codespaces](https://github.com/skills/code-with-codespaces) - Develop code using GitHub Codespaces and Visual Studio Code!
 * 【2023-07-21】[JPCERTCC / MemoryForensic-on-Cloud](https://github.com/JPCERTCC/MemoryForensic-on-Cloud) - Memory Forensic System on Cloud
@@ -1133,6 +1163,14 @@
 
 ## Unknown
 
+* 【2023-07-23】[dharmx / walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
+* 【2023-07-23】[0x4D31 / detection-and-response-pipeline](https://github.com/0x4D31/detection-and-response-pipeline) - ✨A compilation of suggested tools/services for each component in a detection and response pipeline, along with real-world examples. The purpose is to create a reference hub for designing effective threat detection and response pipelines.👷🏗
+* 【2023-07-23】[justjavac / auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.
+* 【2023-07-23】[ddd-crew / ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+* 【2023-07-23】[philippranzhin / peredelanoconf](https://github.com/philippranzhin/peredelanoconf) - Здесь хранится документация международных экспатских конф
+* 【2023-07-23】[Jetereting / idea-activate](https://github.com/Jetereting/idea-activate) - idea激活，2023最新IDEA激活方式，超级稳定
+* 【2023-07-23】[YvanYin / Metric3D](https://github.com/YvanYin/Metric3D) - 
+* 【2023-07-23】[internsathi / frontend-assignment](https://github.com/internsathi/frontend-assignment) - 
 * 【2023-07-22】[matteocourthoud / awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - A curated list of causal inference libraries, resources, and applications.
 * 【2023-07-22】[D3Ext / aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 * 【2023-07-22】[hello-earth / cloudflare-better-ip](https://github.com/hello-earth/cloudflare-better-ip) - 
