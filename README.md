@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-07-24】[SebLague / Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58
+* 【2023-07-24】[NativePHP / laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
+* 【2023-07-24】[iggy-rs / iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
+* 【2023-07-24】[michaelshumshum / r-placer](https://github.com/michaelshumshum/r-placer) - bot for 2022 r/place
+* 【2023-07-24】[tavianator / bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 * 【2023-07-23】[FlagAlpha / Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - 最好的中文Llama大模型，完全开源可商用
 * 【2023-07-23】[midudev / curso-node-js](https://github.com/midudev/curso-node-js) - Curso de Node.js desde cero
 * 【2023-07-23】[microsoft / TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
@@ -261,6 +266,7 @@
 
 ## Java
 
+* 【2023-07-24】[hkhcoder / vprofile-project](https://github.com/hkhcoder/vprofile-project) - 
 * 【2023-07-23】[oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署
 * 【2023-07-23】[AliyunContainerService / scaler](https://github.com/AliyunContainerService/scaler) - 
 * 【2023-07-18】[19MisterX98 / SeedcrackerX](https://github.com/19MisterX98/SeedcrackerX) - 
@@ -338,6 +344,8 @@
 
 ## Python
 
+* 【2023-07-24】[soulteary / docker-llama2-chat](https://github.com/soulteary/docker-llama2-chat) - Play LLaMA2 (official / 中文版 / INT4 / llama2.cpp) Together! ONLY 3 STEPS! ( non GPU / 5GB vRAM / 8~14GB vRAM)
+* 【2023-07-24】[tinygrad / tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad!❤️
 * 【2023-07-23】[JayZeeDesign / researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
 * 【2023-07-23】[psychic-api / rag-stack](https://github.com/psychic-api/rag-stack) - 🤖Deploy a private ChatGPT alternative hosted within your VPC.🔮Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
 * 【2023-07-22】[a16z-infra / cog-llama-template](https://github.com/a16z-infra/cog-llama-template) - LLaMA Cog template
@@ -529,6 +537,9 @@
 
 ## Javascript
 
+* 【2023-07-24】[PlaceNL / Userscript](https://github.com/PlaceNL/Userscript) - The easiest way to run our automated placer, right from your browser
+* 【2023-07-24】[PlaceDE-Official / zinnsoldat](https://github.com/PlaceDE-Official/zinnsoldat) - Bookmarklet to inject the placeDE bot client into your browser.
+* 【2023-07-24】[hiteshchoudhary / js-hindi-youtube](https://github.com/hiteshchoudhary/js-hindi-youtube) - A code repo for javascript series at Chai aur code youtube channel
 * 【2023-07-23】[destinygg / dgg-place](https://github.com/destinygg/dgg-place) - 
 * 【2023-07-23】[qd-today / qd](https://github.com/qd-today/qd) - QD [v20230718] —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 * 【2023-07-23】[bpampuch / pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
@@ -637,6 +648,9 @@
 
 ## Go
 
+* 【2023-07-24】[ecodeclub / ekit](https://github.com/ecodeclub/ekit) - 支持泛型的工具库
+* 【2023-07-24】[woodpecker-ci / woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
+* 【2023-07-24】[hr3lxphr6j / bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
 * 【2023-07-23】[anyproto / any-sync](https://github.com/anyproto/any-sync) - An open-source protocol designed to create high-performance, local-first, peer-to-peer, end-to-end encrypted applications that facilitate seamless collaboration among multiple users and devices
 * 【2023-07-23】[hueristiq / xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from curated passive online sources.
 * 【2023-07-23】[ANG13T / DroneXtract](https://github.com/ANG13T/DroneXtract) - DroneXtract is a digital forensics suite for DJI drones🔍. Analyze sensor values, visualize flight maps, and audit for criminal activity🗺
@@ -709,6 +723,7 @@
 
 ## C
 
+* 【2023-07-24】[felix-pb / kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 * 【2023-07-23】[bartobri / no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * 【2023-07-23】[ossec / ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
 * 【2023-07-23】[avaneev / lzav](https://github.com/avaneev/lzav) - Fast In-Memory Data Compression Algorithm (in C)
@@ -801,6 +816,7 @@
 
 ## C++
 
+* 【2023-07-24】[Maknee / minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp) - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)
 * 【2023-07-23】[InternLM / lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLM
 * 【2023-07-22】[nu11secur1ty / Windows11Exploits](https://github.com/nu11secur1ty/Windows11Exploits) - 
 * 【2023-07-22】[risc0 / risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
@@ -877,6 +893,7 @@
 
 ## C#
 
+* 【2023-07-24】[Viralmaniar / BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 * 【2023-07-22】[ViewFaceCore / ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
 * 【2023-07-22】[danielpalme / ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
 * 【2023-07-21】[NoBugCn / ActionEditor](https://github.com/NoBugCn/ActionEditor) - unity技能编辑器，Buff编辑器，场景编辑器
@@ -966,6 +983,9 @@
 
 ## Html
 
+* 【2023-07-24】[PlaceDE-Official / pixel](https://github.com/PlaceDE-Official/pixel) - Amtsprache ist Deutsch
+* 【2023-07-24】[shaanaliyev / r-placer](https://github.com/shaanaliyev/r-placer) - Pixel art placer for Reddit Place event.
+* 【2023-07-24】[spotify / web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
 * 【2023-07-23】[codrops / ScrollBasedLayoutAnimations](https://github.com/codrops/ScrollBasedLayoutAnimations) - An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
 * 【2023-07-23】[guifaChild / text_to_vedio](https://github.com/guifaChild/text_to_vedio) - 这是一个由文本直接生成视频的项目
 * 【2023-07-23】[zhangwenboi / daimaiqr](https://github.com/zhangwenboi/daimaiqr) - 抢票助手,将大麦要抢得场次复制转换为二维码,大麦app扫码进入
@@ -1163,6 +1183,9 @@
 
 ## Unknown
 
+* 【2023-07-24】[invictus717 / MetaTransformer](https://github.com/invictus717/MetaTransformer) - Meta-Transformer for Unified Multimodal Learning
+* 【2023-07-24】[WickedBobbyC / JavaScript-v4-Yield-Farming-Bot-for-DEX](https://github.com/WickedBobbyC/JavaScript-v4-Yield-Farming-Bot-for-DEX) - Automate your trading with our open-source JavaScript bot that performs Yield Farming on DEX's. Simple to use and profitable, start making money now.
+* 【2023-07-24】[l1ubai / DDBscan](https://github.com/l1ubai/DDBscan) - DDBscan
 * 【2023-07-23】[dharmx / walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 * 【2023-07-23】[0x4D31 / detection-and-response-pipeline](https://github.com/0x4D31/detection-and-response-pipeline) - ✨A compilation of suggested tools/services for each component in a detection and response pipeline, along with real-world examples. The purpose is to create a reference hub for designing effective threat detection and response pipelines.👷🏗
 * 【2023-07-23】[justjavac / auto-green](https://github.com/justjavac/auto-green) - 自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.
