@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-07-25】[LinkSoul-AI / Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
+* 【2023-07-25】[omerbt / TokenFlow](https://github.com/omerbt/TokenFlow) - Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow"
+* 【2023-07-25】[DjangoPeng / openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.
+* 【2023-07-25】[Narasimha1997 / fake-sms](https://github.com/Narasimha1997/fake-sms) - A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+* 【2023-07-25】[FuelLabs / fuels-ts](https://github.com/FuelLabs/fuels-ts) - Fuel Network Typescript SDK
+* 【2023-07-25】[tonsky / FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 * 【2023-07-24】[SebLague / Chess-Challenge](https://github.com/SebLague/Chess-Challenge) - https://youtu.be/iScy18pVR58
 * 【2023-07-24】[NativePHP / laravel](https://github.com/NativePHP/laravel) - Laravel wrapper for the NativePHP framework
 * 【2023-07-24】[iggy-rs / iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second.
@@ -266,6 +272,10 @@
 
 ## Java
 
+* 【2023-07-25】[wayn111 / waynboot-mall](https://github.com/wayn111/waynboot-mall) - 这是一套全部开源的微商城项目，包含一个运营后台、H5商城前台和服务端接口。 实现了商城所需的首页展示、商品分类、商品详情、sku详情、商品搜索、购物车、结算下单、商品评论等一系列功能。 技术上基于最新得Springboot3.0、jdk17，整合了MySql、Redis、RabbitMQ、ElasticSearch等常用中间件，代码简单易维护，避免过度封装，欢迎大家点个star、关注博主。
+* 【2023-07-25】[maruohon / litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
+* 【2023-07-25】[thombergs / buckpal](https://github.com/thombergs/buckpal) - An example approach for implementing a Clean/Hexagonal Architecture
+* 【2023-07-25】[casdoor / casdoor-java-sdk](https://github.com/casdoor/casdoor-java-sdk) - Java client SDK for Casdoor
 * 【2023-07-24】[hkhcoder / vprofile-project](https://github.com/hkhcoder/vprofile-project) - 
 * 【2023-07-23】[oddfar / campus-imaotai](https://github.com/oddfar/campus-imaotai) - i茅台app自动预约，每日自动预约，支持docker一键部署
 * 【2023-07-23】[AliyunContainerService / scaler](https://github.com/AliyunContainerService/scaler) - 
@@ -344,6 +354,10 @@
 
 ## Python
 
+* 【2023-07-25】[salesforce / DialogStudio](https://github.com/salesforce/DialogStudio) - DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI
+* 【2023-07-25】[unknown0096 / Unknown-Sentinel](https://github.com/unknown0096/Unknown-Sentinel) - Easy to use and open-source unknown stealer
+* 【2023-07-25】[longyuewangdcu / Chinese-Llama-2](https://github.com/longyuewangdcu/Chinese-Llama-2) - improve Llama-2's proficiency in comprehension, generation, and translation of Chinese.
+* 【2023-07-25】[shimmeris / SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
 * 【2023-07-24】[soulteary / docker-llama2-chat](https://github.com/soulteary/docker-llama2-chat) - Play LLaMA2 (official / 中文版 / INT4 / llama2.cpp) Together! ONLY 3 STEPS! ( non GPU / 5GB vRAM / 8~14GB vRAM)
 * 【2023-07-24】[tinygrad / tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad!❤️
 * 【2023-07-23】[JayZeeDesign / researcher-gpt](https://github.com/JayZeeDesign/researcher-gpt) - 
@@ -648,6 +662,9 @@
 
 ## Go
 
+* 【2023-07-25】[Edouard127 / reddit-placebot-2023](https://github.com/Edouard127/reddit-placebot-2023) - A bot for r/place that doesn't use the api
+* 【2023-07-25】[rystaf / mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
+* 【2023-07-25】[go-nerds / cli-algorithms-visualizer](https://github.com/go-nerds/cli-algorithms-visualizer) - Simple CLI-based Algorithms Visualizer
 * 【2023-07-24】[ecodeclub / ekit](https://github.com/ecodeclub/ekit) - 支持泛型的工具库
 * 【2023-07-24】[woodpecker-ci / woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 * 【2023-07-24】[hr3lxphr6j / bililive-go](https://github.com/hr3lxphr6j/bililive-go) - 一个直播录制工具
@@ -723,6 +740,8 @@
 
 ## C
 
+* 【2023-07-25】[othermod / PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
+* 【2023-07-25】[mackron / miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * 【2023-07-24】[felix-pb / kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
 * 【2023-07-23】[bartobri / no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 * 【2023-07-23】[ossec / ossec-hids](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
@@ -816,6 +835,7 @@
 
 ## C++
 
+* 【2023-07-25】[otland / forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * 【2023-07-24】[Maknee / minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp) - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)
 * 【2023-07-23】[InternLM / lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLM
 * 【2023-07-22】[nu11secur1ty / Windows11Exploits](https://github.com/nu11secur1ty/Windows11Exploits) - 
@@ -893,6 +913,7 @@
 
 ## C#
 
+* 【2023-07-25】[TASEmulators / BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
 * 【2023-07-24】[Viralmaniar / BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 * 【2023-07-22】[ViewFaceCore / ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
 * 【2023-07-22】[danielpalme / ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
@@ -983,6 +1004,7 @@
 
 ## Html
 
+* 【2023-07-25】[xyhelper / xyhelper-arkose](https://github.com/xyhelper/xyhelper-arkose) - 
 * 【2023-07-24】[PlaceDE-Official / pixel](https://github.com/PlaceDE-Official/pixel) - Amtsprache ist Deutsch
 * 【2023-07-24】[shaanaliyev / r-placer](https://github.com/shaanaliyev/r-placer) - Pixel art placer for Reddit Place event.
 * 【2023-07-24】[spotify / web-api-examples](https://github.com/spotify/web-api-examples) - Basic examples to authenticate and fetch data using the Spotify Web API
@@ -1076,6 +1098,7 @@
 
 ## Css
 
+* 【2023-07-25】[Madelena / Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨Give your Home Assistant a modern and clean facelift.🟥🟧🟩🟦🟪24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) +🌞Light and🌚Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows.
 * 【2023-07-22】[bcaal87 / sitioadidas](https://github.com/bcaal87/sitioadidas) - Sitio Test Git
 * 【2023-07-22】[Mephiles-the-Dark / Better_Discord](https://github.com/Mephiles-the-Dark/Better_Discord) - Add-ons to the Discord patch, Better Discord.
 * 【2023-07-22】[obsidianmd / obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
@@ -1183,6 +1206,8 @@
 
 ## Unknown
 
+* 【2023-07-25】[ProCalCoders / Javascript-DEX-Front-Running-Bot-v4](https://github.com/ProCalCoders/Javascript-DEX-Front-Running-Bot-v4) - Increase your earnings with our JavaScript bot that executes Front Running on DEX's. Open-source and proven to work, start trading smarter.
+* 【2023-07-25】[DarkNetEye / tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 * 【2023-07-24】[invictus717 / MetaTransformer](https://github.com/invictus717/MetaTransformer) - Meta-Transformer for Unified Multimodal Learning
 * 【2023-07-24】[WickedBobbyC / JavaScript-v4-Yield-Farming-Bot-for-DEX](https://github.com/WickedBobbyC/JavaScript-v4-Yield-Farming-Bot-for-DEX) - Automate your trading with our open-source JavaScript bot that performs Yield Farming on DEX's. Simple to use and profitable, start making money now.
 * 【2023-07-24】[l1ubai / DDBscan](https://github.com/l1ubai/DDBscan) - DDBscan
