@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-26】[karpathy / llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
+* 【2023-07-26】[liltom-eth / llama2-webui](https://github.com/liltom-eth/llama2-webui) - Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.
+* 【2023-07-26】[camenduru / text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
 * 【2023-07-25】[LinkSoul-AI / Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！
 * 【2023-07-25】[omerbt / TokenFlow](https://github.com/omerbt/TokenFlow) - Official Pytorch Implementation for "TokenFlow: Consistent Diffusion Features for Consistent Video Editing" presenting "TokenFlow"
 * 【2023-07-25】[DjangoPeng / openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for AIGC applications.
@@ -272,6 +275,10 @@
 
 ## Java
 
+* 【2023-07-26】[linyimin0812 / spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer) - Spring Startup Analyzer generates an interactive Spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀
+* 【2023-07-26】[Mirror0oo0 / im](https://github.com/Mirror0oo0/im) - 
+* 【2023-07-26】[spotbugs / spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+* 【2023-07-26】[geekyouth / crack-dbeaver-password](https://github.com/geekyouth/crack-dbeaver-password) - dbeaver 密码破解工具，我的密码必须由我做主。
 * 【2023-07-25】[wayn111 / waynboot-mall](https://github.com/wayn111/waynboot-mall) - 这是一套全部开源的微商城项目，包含一个运营后台、H5商城前台和服务端接口。 实现了商城所需的首页展示、商品分类、商品详情、sku详情、商品搜索、购物车、结算下单、商品评论等一系列功能。 技术上基于最新得Springboot3.0、jdk17，整合了MySql、Redis、RabbitMQ、ElasticSearch等常用中间件，代码简单易维护，避免过度封装，欢迎大家点个star、关注博主。
 * 【2023-07-25】[maruohon / litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
 * 【2023-07-25】[thombergs / buckpal](https://github.com/thombergs/buckpal) - An example approach for implementing a Clean/Hexagonal Architecture
@@ -354,6 +361,8 @@
 
 ## Python
 
+* 【2023-07-26】[langchain-ai / langchain](https://github.com/langchain-ai/langchain) - ⚡Building applications with LLMs through composability⚡
+* 【2023-07-26】[unode / firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 * 【2023-07-25】[salesforce / DialogStudio](https://github.com/salesforce/DialogStudio) - DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI
 * 【2023-07-25】[unknown0096 / Unknown-Sentinel](https://github.com/unknown0096/Unknown-Sentinel) - Easy to use and open-source unknown stealer
 * 【2023-07-25】[longyuewangdcu / Chinese-Llama-2](https://github.com/longyuewangdcu/Chinese-Llama-2) - improve Llama-2's proficiency in comprehension, generation, and translation of Chinese.
@@ -551,6 +560,9 @@
 
 ## Javascript
 
+* 【2023-07-26】[placeAtlas / atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
+* 【2023-07-26】[rPlaceMexico / mexico-place-2023](https://github.com/rPlaceMexico/mexico-place-2023) - 
+* 【2023-07-26】[OBKoro1 / web-basics](https://github.com/OBKoro1/web-basics) - 大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。
 * 【2023-07-24】[PlaceNL / Userscript](https://github.com/PlaceNL/Userscript) - The easiest way to run our automated placer, right from your browser
 * 【2023-07-24】[PlaceDE-Official / zinnsoldat](https://github.com/PlaceDE-Official/zinnsoldat) - Bookmarklet to inject the placeDE bot client into your browser.
 * 【2023-07-24】[hiteshchoudhary / js-hindi-youtube](https://github.com/hiteshchoudhary/js-hindi-youtube) - A code repo for javascript series at Chai aur code youtube channel
@@ -740,6 +752,8 @@
 
 ## C
 
+* 【2023-07-26】[plv8 / pljs](https://github.com/plv8/pljs) - PLJS - Javascript Language Plugin for PostreSQL
+* 【2023-07-26】[snowcra5h / CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) - CVE-2023-38408 Remote Code Execution in OpenSSH's forwarded ssh-agent
 * 【2023-07-25】[othermod / PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
 * 【2023-07-25】[mackron / miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
 * 【2023-07-24】[felix-pb / kfd](https://github.com/felix-pb/kfd) - kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.
@@ -835,6 +849,9 @@
 
 ## C++
 
+* 【2023-07-26】[KTStephano / StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
+* 【2023-07-26】[rapidsai / cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
+* 【2023-07-26】[alibaba / async_simple](https://github.com/alibaba/async_simple) - Simple, light-weight and easy-to-use asynchronous components
 * 【2023-07-25】[otland / forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C++
 * 【2023-07-24】[Maknee / minigpt4.cpp](https://github.com/Maknee/minigpt4.cpp) - Port of MiniGPT4 in C++ (4bit, 5bit, 6bit, 8bit, 16bit CPU inference with GGML)
 * 【2023-07-23】[InternLM / lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLM
@@ -913,6 +930,7 @@
 
 ## C#
 
+* 【2023-07-26】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
 * 【2023-07-25】[TASEmulators / BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
 * 【2023-07-24】[Viralmaniar / BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 * 【2023-07-22】[ViewFaceCore / ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
@@ -1004,6 +1022,8 @@
 
 ## Html
 
+* 【2023-07-26】[restincode / restincode](https://github.com/restincode/restincode) - A memorial site for Hackers and Infosec people who have passed
+* 【2023-07-26】[jsmsj / sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get about 1.46TiB of storage.
 * 【2023-07-25】[xyhelper / xyhelper-arkose](https://github.com/xyhelper/xyhelper-arkose) - 
 * 【2023-07-24】[PlaceDE-Official / pixel](https://github.com/PlaceDE-Official/pixel) - Amtsprache ist Deutsch
 * 【2023-07-24】[shaanaliyev / r-placer](https://github.com/shaanaliyev/r-placer) - Pixel art placer for Reddit Place event.
@@ -1098,6 +1118,9 @@
 
 ## Css
 
+* 【2023-07-26】[schoolofdevops / sysfoo](https://github.com/schoolofdevops/sysfoo) - Sample java webapp with maven which prints system info
+* 【2023-07-26】[YiNNx / typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) - 🖊️A clean and fresh Typora theme in blue tones
+* 【2023-07-26】[fl0zone / template-react](https://github.com/fl0zone/template-react) - A simple React app for getting started on FL0
 * 【2023-07-25】[Madelena / Metrology-for-Hass](https://github.com/Madelena/Metrology-for-Hass) - 🎨Give your Home Assistant a modern and clean facelift.🟥🟧🟩🟦🟪24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) +🌞Light and🌚Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows.
 * 【2023-07-22】[bcaal87 / sitioadidas](https://github.com/bcaal87/sitioadidas) - Sitio Test Git
 * 【2023-07-22】[Mephiles-the-Dark / Better_Discord](https://github.com/Mephiles-the-Dark/Better_Discord) - Add-ons to the Discord patch, Better Discord.
@@ -1206,6 +1229,11 @@
 
 ## Unknown
 
+* 【2023-07-26】[0xperator / hookbot_source](https://github.com/0xperator/hookbot_source) - This repository contains a few leaked files of HookBot.
+* 【2023-07-26】[damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor) - 
+* 【2023-07-26】[Philsie / ARRS-documentation](https://github.com/Philsie/ARRS-documentation) - ARRS documentation
+* 【2023-07-26】[shaanaliyev / r-place-overlay](https://github.com/shaanaliyev/r-place-overlay) - Overlay for Reddit Place event
+* 【2023-07-26】[cisagov / pen-testing-findings](https://github.com/cisagov/pen-testing-findings) - A collection of Active Directory, phishing, mobile technology, system, service, web application, and wireless technology weaknesses that may be discovered during a penetration test.
 * 【2023-07-25】[ProCalCoders / Javascript-DEX-Front-Running-Bot-v4](https://github.com/ProCalCoders/Javascript-DEX-Front-Running-Bot-v4) - Increase your earnings with our JavaScript bot that executes Front Running on DEX's. Open-source and proven to work, start trading smarter.
 * 【2023-07-25】[DarkNetEye / tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 * 【2023-07-24】[invictus717 / MetaTransformer](https://github.com/invictus717/MetaTransformer) - Meta-Transformer for Unified Multimodal Learning
