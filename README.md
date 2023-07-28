@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-07-28】[THUDM / CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
+* 【2023-07-28】[srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
+* 【2023-07-28】[Heroic-Games-Launcher / HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 * 【2023-07-27】[Project-Sloth / ps-housing](https://github.com/Project-Sloth/ps-housing) - Advanced housing system for QBCore.
 * 【2023-07-27】[kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 * 【2023-07-26】[karpathy / llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
@@ -364,6 +367,10 @@
 
 ## Python
 
+* 【2023-07-28】[eosphoros-ai / DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+* 【2023-07-28】[alantech / marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
+* 【2023-07-28】[n1nj4sec / pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
+* 【2023-07-28】[pantom2077 / aljcscan](https://github.com/pantom2077/aljcscan) - 基于爬虫工具批量暗链检查、敏感信息泄露、敏感关键字检查。
 * 【2023-07-27】[dvruette / sd-webui-fabric](https://github.com/dvruette/sd-webui-fabric) - 
 * 【2023-07-27】[WKL-Sec / dcomhijack](https://github.com/WKL-Sec/dcomhijack) - Lateral Movement Using DCOM and DLL Hijacking
 * 【2023-07-27】[CodeAlchemyAI / ViLT-GPT](https://github.com/CodeAlchemyAI/ViLT-GPT) - 
@@ -567,6 +574,7 @@
 
 ## Javascript
 
+* 【2023-07-28】[LaniJ / invoice-dragon](https://github.com/LaniJ/invoice-dragon) - 
 * 【2023-07-26】[placeAtlas / atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
 * 【2023-07-26】[rPlaceMexico / mexico-place-2023](https://github.com/rPlaceMexico/mexico-place-2023) - 
 * 【2023-07-26】[OBKoro1 / web-basics](https://github.com/OBKoro1/web-basics) - 大厂前端需要掌握的JS基础能力，大厂场景题、大厂面试真题欢迎提issue和PR来丰富场景题。
@@ -681,6 +689,7 @@
 
 ## Go
 
+* 【2023-07-28】[artie-labs / transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs
 * 【2023-07-27】[TangSengDaoDao / TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) - IM即时通讯,聊天
 * 【2023-07-25】[Edouard127 / reddit-placebot-2023](https://github.com/Edouard127/reddit-placebot-2023) - A bot for r/place that doesn't use the api
 * 【2023-07-25】[rystaf / mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
@@ -760,6 +769,7 @@
 
 ## C
 
+* 【2023-07-28】[interkosmos / xroach](https://github.com/interkosmos/xroach) - Classic xroach game for X11
 * 【2023-07-27】[steineggerlab / foldseek](https://github.com/steineggerlab/foldseek) - Foldseek enables fast and sensitive comparisons of large structure sets.
 * 【2023-07-26】[plv8 / pljs](https://github.com/plv8/pljs) - PLJS - Javascript Language Plugin for PostreSQL
 * 【2023-07-26】[snowcra5h / CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) - CVE-2023-38408 Remote Code Execution in OpenSSH's forwarded ssh-agent
@@ -858,6 +868,7 @@
 
 ## C++
 
+* 【2023-07-28】[tihmstar / libpatchfinder](https://github.com/tihmstar/libpatchfinder) - A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3
 * 【2023-07-26】[KTStephano / StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 * 【2023-07-26】[rapidsai / cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 * 【2023-07-26】[alibaba / async_simple](https://github.com/alibaba/async_simple) - Simple, light-weight and easy-to-use asynchronous components
@@ -939,6 +950,7 @@
 
 ## C#
 
+* 【2023-07-28】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 * 【2023-07-27】[T0biasCZe / AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Fast Android <-> Windows file manager using ADB protocol
 * 【2023-07-26】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
 * 【2023-07-25】[TASEmulators / BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
@@ -1032,6 +1044,8 @@
 
 ## Html
 
+* 【2023-07-28】[mazzzystar / api-usage](https://github.com/mazzzystar/api-usage) - Track your OpenAI API token usage & cost.
+* 【2023-07-28】[theonlyNischal / Ultimate-Notes-Books-Resources-for-NCIT](https://github.com/theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT) - Curated list of notes, books and other resources for the student of Nepal College of Information and Technology(NCIT) - Pokhara University, Nepal
 * 【2023-07-27】[digitalinnovationone / santander-dev-week-angular-home](https://github.com/digitalinnovationone/santander-dev-week-angular-home) - Repo base para live de Angular da Dev week
 * 【2023-07-26】[restincode / restincode](https://github.com/restincode/restincode) - A memorial site for Hackers and Infosec people who have passed
 * 【2023-07-26】[jsmsj / sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get about 1.46TiB of storage.
@@ -1129,6 +1143,7 @@
 
 ## Css
 
+* 【2023-07-28】[breatheco-de / breatheco-de](https://github.com/breatheco-de/breatheco-de) - 
 * 【2023-07-27】[app-generator / free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 * 【2023-07-27】[cgisky1980 / ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - A localized open-source AI server that is better than ChatGPT.
 * 【2023-07-27】[squee666 / Discord-Themes](https://github.com/squee666/Discord-Themes) - Themes for Discord
@@ -1243,6 +1258,10 @@
 
 ## Unknown
 
+* 【2023-07-28】[veltman / clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
+* 【2023-07-28】[TakSec / google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) - A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
+* 【2023-07-28】[bizz84 / fluttercon_23_resources](https://github.com/bizz84/fluttercon_23_resources) - List of talks from FlutterCon 23
+* 【2023-07-28】[CS-BAOYAN / CSYuTuiMian2023](https://github.com/CS-BAOYAN/CSYuTuiMian2023) - 
 * 【2023-07-27】[spurin / KCNA-Study-Group](https://github.com/spurin/KCNA-Study-Group) - Kubernetes and Cloud Native Associate - Study Group
 * 【2023-07-26】[0xperator / hookbot_source](https://github.com/0xperator/hookbot_source) - This repository contains a few leaked files of HookBot.
 * 【2023-07-26】[damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor) - 
