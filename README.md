@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-07-29】[biobootloader / mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
+* 【2023-07-29】[DUOMO / TransGPT](https://github.com/DUOMO/TransGPT) - 
+* 【2023-07-29】[mybatis-flex / mybatis-flex](https://github.com/mybatis-flex/mybatis-flex) - mybatis-flex is an elegant Mybatis Enhancement Framework
+* 【2023-07-29】[jestjs / jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
+* 【2023-07-29】[withastro / docs](https://github.com/withastro/docs) - Astro documentation
+* 【2023-07-29】[ionic-team / ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+* 【2023-07-29】[fabian-hiller / valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data🤖
 * 【2023-07-28】[THUDM / CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 * 【2023-07-28】[srbhr / Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
 * 【2023-07-28】[Heroic-Games-Launcher / HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
@@ -280,6 +287,7 @@
 
 ## Java
 
+* 【2023-07-29】[mikeroyal / AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 * 【2023-07-27】[AutohomeCorp / frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
 * 【2023-07-26】[linyimin0812 / spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer) - Spring Startup Analyzer generates an interactive Spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀
 * 【2023-07-26】[Mirror0oo0 / im](https://github.com/Mirror0oo0/im) - 
@@ -367,6 +375,7 @@
 
 ## Python
 
+* 【2023-07-29】[continuedev / continue](https://github.com/continuedev/continue) - ⏩the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 * 【2023-07-28】[eosphoros-ai / DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 * 【2023-07-28】[alantech / marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
 * 【2023-07-28】[n1nj4sec / pupy](https://github.com/n1nj4sec/pupy) - Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) C2 and post-exploitation framework written in python and C
@@ -574,6 +583,7 @@
 
 ## Javascript
 
+* 【2023-07-29】[srobbin01 / daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 * 【2023-07-28】[LaniJ / invoice-dragon](https://github.com/LaniJ/invoice-dragon) - 
 * 【2023-07-26】[placeAtlas / atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
 * 【2023-07-26】[rPlaceMexico / mexico-place-2023](https://github.com/rPlaceMexico/mexico-place-2023) - 
@@ -868,6 +878,8 @@
 
 ## C++
 
+* 【2023-07-29】[hasherezade / exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
+* 【2023-07-29】[bluewhalesystems / sold](https://github.com/bluewhalesystems/sold) - The sold linker
 * 【2023-07-28】[tihmstar / libpatchfinder](https://github.com/tihmstar/libpatchfinder) - A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3
 * 【2023-07-26】[KTStephano / StratusGFX](https://github.com/KTStephano/StratusGFX) - Realtime 3D rendering engine
 * 【2023-07-26】[rapidsai / cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
@@ -950,6 +962,8 @@
 
 ## C#
 
+* 【2023-07-29】[Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
+* 【2023-07-29】[keijiro / ECS-PhysicsTest](https://github.com/keijiro/ECS-PhysicsTest) - Unity Physics (ECS) samples
 * 【2023-07-28】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
 * 【2023-07-27】[T0biasCZe / AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Fast Android <-> Windows file manager using ADB protocol
 * 【2023-07-26】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
@@ -1044,6 +1058,8 @@
 
 ## Html
 
+* 【2023-07-29】[rootsongjc / awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials. - https://jimmysong.io/awesome-cloud-native/
+* 【2023-07-29】[geeeeeeeek / videoproject](https://github.com/geeeeeeeek/videoproject) - 基于python的视频点播网站，视频点播系统，python+Django开发的视频管理系统
 * 【2023-07-28】[mazzzystar / api-usage](https://github.com/mazzzystar/api-usage) - Track your OpenAI API token usage & cost.
 * 【2023-07-28】[theonlyNischal / Ultimate-Notes-Books-Resources-for-NCIT](https://github.com/theonlyNischal/Ultimate-Notes-Books-Resources-for-NCIT) - Curated list of notes, books and other resources for the student of Nepal College of Information and Technology(NCIT) - Pokhara University, Nepal
 * 【2023-07-27】[digitalinnovationone / santander-dev-week-angular-home](https://github.com/digitalinnovationone/santander-dev-week-angular-home) - Repo base para live de Angular da Dev week
@@ -1143,6 +1159,8 @@
 
 ## Css
 
+* 【2023-07-29】[yong-s / alms](https://github.com/yong-s/alms) - 7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱
+* 【2023-07-29】[karthiks3000 / postman-doc-gen](https://github.com/karthiks3000/postman-doc-gen) - Generate API documentation from a postman collection
 * 【2023-07-28】[breatheco-de / breatheco-de](https://github.com/breatheco-de/breatheco-de) - 
 * 【2023-07-27】[app-generator / free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 * 【2023-07-27】[cgisky1980 / ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - A localized open-source AI server that is better than ChatGPT.
@@ -1258,6 +1276,11 @@
 
 ## Unknown
 
+* 【2023-07-29】[OvertureMaps / data](https://github.com/OvertureMaps/data) - 
+* 【2023-07-29】[data-goblin / powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox) - Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..
+* 【2023-07-29】[AmoghDabholkar / GRE_PREP](https://github.com/AmoghDabholkar/GRE_PREP) - This is a guide for how one can prepare for GRE within a month's duration.
+* 【2023-07-29】[Stability-AI / ModelSpec](https://github.com/Stability-AI/ModelSpec) - Stability.AI Model Metadata Standard Specification
+* 【2023-07-29】[NVIDIA / nvtrust](https://github.com/NVIDIA/nvtrust) - Ancillary open source software to support confidential computing on NVIDIA GPUs
 * 【2023-07-28】[veltman / clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 * 【2023-07-28】[TakSec / google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty) - A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting
 * 【2023-07-28】[bizz84 / fluttercon_23_resources](https://github.com/bizz84/fluttercon_23_resources) - List of talks from FlutterCon 23
