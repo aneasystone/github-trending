@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-07-30】[bloomberg / blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 * 【2023-07-29】[biobootloader / mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
 * 【2023-07-29】[DUOMO / TransGPT](https://github.com/DUOMO/TransGPT) - 
 * 【2023-07-29】[mybatis-flex / mybatis-flex](https://github.com/mybatis-flex/mybatis-flex) - mybatis-flex is an elegant Mybatis Enhancement Framework
@@ -287,6 +288,8 @@
 
 ## Java
 
+* 【2023-07-30】[androidx / media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+* 【2023-07-30】[geektcp / everwar](https://github.com/geektcp/everwar) - wow game server
 * 【2023-07-29】[mikeroyal / AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
 * 【2023-07-27】[AutohomeCorp / frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
 * 【2023-07-26】[linyimin0812 / spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer) - Spring Startup Analyzer generates an interactive Spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀
@@ -375,6 +378,10 @@
 
 ## Python
 
+* 【2023-07-30】[GAIR-NLP / factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
+* 【2023-07-30】[llm-attacks / llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
+* 【2023-07-30】[jiawen-zhu / HQTrack](https://github.com/jiawen-zhu/HQTrack) - Tracking Anything in High Quality
+* 【2023-07-30】[langchain-ai / web-explorer](https://github.com/langchain-ai/web-explorer) - 
 * 【2023-07-29】[continuedev / continue](https://github.com/continuedev/continue) - ⏩the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 * 【2023-07-28】[eosphoros-ai / DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 * 【2023-07-28】[alantech / marsha](https://github.com/alantech/marsha) - Marsha is a functional, higher-level, English-based programming language that gets compiled into tested Python software by an LLM
@@ -583,6 +590,8 @@
 
 ## Javascript
 
+* 【2023-07-30】[gaboolic / nodejs-proxy](https://github.com/gaboolic/nodejs-proxy) - nodejs实现vless fork的同时帮我点点star
+* 【2023-07-30】[namastedev / namaste-react](https://github.com/namastedev/namaste-react) - 
 * 【2023-07-29】[srobbin01 / daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
 * 【2023-07-28】[LaniJ / invoice-dragon](https://github.com/LaniJ/invoice-dragon) - 
 * 【2023-07-26】[placeAtlas / atlas-2023](https://github.com/placeAtlas/atlas-2023) - The 2023 r/place Atlas is a project aiming to chart all the artworks created during the r/place April Fools event on Reddit in 2023.
@@ -699,6 +708,8 @@
 
 ## Go
 
+* 【2023-07-30】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
+* 【2023-07-30】[dstotijn / hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 * 【2023-07-28】[artie-labs / transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs
 * 【2023-07-27】[TangSengDaoDao / TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) - IM即时通讯,聊天
 * 【2023-07-25】[Edouard127 / reddit-placebot-2023](https://github.com/Edouard127/reddit-placebot-2023) - A bot for r/place that doesn't use the api
@@ -779,6 +790,9 @@
 
 ## C
 
+* 【2023-07-30】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
+* 【2023-07-30】[BenjaminHornbeck6 / KFD-Offsets](https://github.com/BenjaminHornbeck6/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
+* 【2023-07-30】[tomojitakasu / PocketSDR](https://github.com/tomojitakasu/PocketSDR) - 
 * 【2023-07-28】[interkosmos / xroach](https://github.com/interkosmos/xroach) - Classic xroach game for X11
 * 【2023-07-27】[steineggerlab / foldseek](https://github.com/steineggerlab/foldseek) - Foldseek enables fast and sensitive comparisons of large structure sets.
 * 【2023-07-26】[plv8 / pljs](https://github.com/plv8/pljs) - PLJS - Javascript Language Plugin for PostreSQL
@@ -878,6 +892,8 @@
 
 ## C++
 
+* 【2023-07-30】[S12cybersecurity / WinDefenderKiller](https://github.com/S12cybersecurity/WinDefenderKiller) - Windows Defender Killer | C++ Code Disabling Permanently Windows Defender using Registry Keys
+* 【2023-07-30】[LordNoteworthy / windows-exploitation](https://github.com/LordNoteworthy/windows-exploitation) - My notes while studying Windows exploitation
 * 【2023-07-29】[hasherezade / exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
 * 【2023-07-29】[bluewhalesystems / sold](https://github.com/bluewhalesystems/sold) - The sold linker
 * 【2023-07-28】[tihmstar / libpatchfinder](https://github.com/tihmstar/libpatchfinder) - A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3
@@ -962,6 +978,9 @@
 
 ## C#
 
+* 【2023-07-30】[slemire / WSPCoerce](https://github.com/slemire/WSPCoerce) - PoC to coerce authentication from Windows hosts using MS-WSP
+* 【2023-07-30】[wh0amitz / KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass) - UAC Bypass By Abusing Kerberos Tickets
+* 【2023-07-30】[sdcb / Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) - A modern .NET library that can PInvoke to gmp and mpfr, that enable both high performance and best .NET convenience.
 * 【2023-07-29】[Stability-AI / StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI) - StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * 【2023-07-29】[keijiro / ECS-PhysicsTest](https://github.com/keijiro/ECS-PhysicsTest) - Unity Physics (ECS) samples
 * 【2023-07-28】[elastic / elasticsearch-net](https://github.com/elastic/elasticsearch-net) - This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.
@@ -1058,6 +1077,7 @@
 
 ## Html
 
+* 【2023-07-30】[val-lang / val-lang.github.io](https://github.com/val-lang/val-lang.github.io) - Landing page for Val
 * 【2023-07-29】[rootsongjc / awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials. - https://jimmysong.io/awesome-cloud-native/
 * 【2023-07-29】[geeeeeeeek / videoproject](https://github.com/geeeeeeeek/videoproject) - 基于python的视频点播网站，视频点播系统，python+Django开发的视频管理系统
 * 【2023-07-28】[mazzzystar / api-usage](https://github.com/mazzzystar/api-usage) - Track your OpenAI API token usage & cost.
@@ -1159,6 +1179,8 @@
 
 ## Css
 
+* 【2023-07-30】[xpanel-cp / XPanel-SSH-User-Management](https://github.com/xpanel-cp/XPanel-SSH-User-Management) - 
+* 【2023-07-30】[Viglino / font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
 * 【2023-07-29】[yong-s / alms](https://github.com/yong-s/alms) - 7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱
 * 【2023-07-29】[karthiks3000 / postman-doc-gen](https://github.com/karthiks3000/postman-doc-gen) - Generate API documentation from a postman collection
 * 【2023-07-28】[breatheco-de / breatheco-de](https://github.com/breatheco-de/breatheco-de) - 
@@ -1276,6 +1298,14 @@
 
 ## Unknown
 
+* 【2023-07-30】[pushsecurity / saas-attacks](https://github.com/pushsecurity/saas-attacks) - Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
+* 【2023-07-30】[awaisrauf / Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) - 
+* 【2023-07-30】[Audio-AGI / WavJourney](https://github.com/Audio-AGI/WavJourney) - WavJourney: Compositional Audio Creation with LLMs
+* 【2023-07-30】[TodePond / C](https://github.com/TodePond/C) - perfect programming language
+* 【2023-07-30】[evanmiller / LLM-Reading-List](https://github.com/evanmiller/LLM-Reading-List) - LLM papers I'm reading, mostly on inference and model compression
+* 【2023-07-30】[m3y54m / Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - A roadmap for those who want to build a career as an Embedded Systems Engineer
+* 【2023-07-30】[abstractart / learn-system-design](https://github.com/abstractart/learn-system-design) - Всё, что нужно знать о System Design для прохождения интервью и не только👨‍💻
+* 【2023-07-30】[osintambition / Social-Media-OSINT-Tools-Collection](https://github.com/osintambition/Social-Media-OSINT-Tools-Collection) - A collection of most useful osint tools for SOCINT.
 * 【2023-07-29】[OvertureMaps / data](https://github.com/OvertureMaps/data) - 
 * 【2023-07-29】[data-goblin / powerbi-macguyver-toolbox](https://github.com/data-goblin/powerbi-macguyver-toolbox) - Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..
 * 【2023-07-29】[AmoghDabholkar / GRE_PREP](https://github.com/AmoghDabholkar/GRE_PREP) - This is a guide for how one can prepare for GRE within a month's duration.
