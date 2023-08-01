@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-08-01】[dogboy21 / serializationisbad](https://github.com/dogboy21/serializationisbad) - A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods
+* 【2023-08-01】[GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
+* 【2023-08-01】[nix-community / home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix [maintainer=@rycee]
+* 【2023-08-01】[satoshi0212 / visionOS_30Days](https://github.com/satoshi0212/visionOS_30Days) - visionOS 30 days challenge.
 * 【2023-07-31】[Vectorized / solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
 * 【2023-07-31】[HariSekhon / DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 * 【2023-07-30】[bloomberg / blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
@@ -290,6 +294,8 @@
 
 ## Java
 
+* 【2023-08-01】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
+* 【2023-08-01】[mq-soft-tech / comp2000_2023](https://github.com/mq-soft-tech/comp2000_2023) - 
 * 【2023-07-31】[linkedin / ambry](https://github.com/linkedin/ambry) - Distributed object store
 * 【2023-07-31】[raphaelLacerda / java-treino-programacao](https://github.com/raphaelLacerda/java-treino-programacao) - 
 * 【2023-07-31】[langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
@@ -383,6 +389,9 @@
 
 ## Python
 
+* 【2023-08-01】[Deadshot0x7 / 007-TheBond](https://github.com/Deadshot0x7/007-TheBond) - This Script will help you to gather information about your victim or friend.
+* 【2023-08-01】[vchan-in / CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC) - CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC
+* 【2023-08-01】[vyperlang / vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 * 【2023-07-30】[GAIR-NLP / factool](https://github.com/GAIR-NLP/factool) - FacTool: Factuality Detection in Generative AI
 * 【2023-07-30】[llm-attacks / llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 * 【2023-07-30】[jiawen-zhu / HQTrack](https://github.com/jiawen-zhu/HQTrack) - Tracking Anything in High Quality
@@ -595,6 +604,9 @@
 
 ## Javascript
 
+* 【2023-08-01】[yonggekkk / CF-workers-vless](https://github.com/yonggekkk/CF-workers-vless) - cf-worker-vless脚本、优选域名一键脚本。懒人小白必备的代理神器两件套
+* 【2023-08-01】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
+* 【2023-08-01】[jaegertracing / jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger
 * 【2023-07-31】[dev-lu / osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
 * 【2023-07-31】[saiteja-madha / discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 * 【2023-07-30】[gaboolic / nodejs-proxy](https://github.com/gaboolic/nodejs-proxy) - nodejs实现vless fork的同时帮我点点star
@@ -715,6 +727,7 @@
 
 ## Go
 
+* 【2023-08-01】[Foxboron / ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - 💻🔑ssh-tpm-agent
 * 【2023-07-31】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 * 【2023-07-31】[haqq-network / haqq](https://github.com/haqq-network/haqq) - Shariah-compliant web3 platform
 * 【2023-07-30】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
@@ -902,6 +915,7 @@
 
 ## C++
 
+* 【2023-08-01】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 * 【2023-07-31】[bsnes-emu / bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 * 【2023-07-30】[S12cybersecurity / WinDefenderKiller](https://github.com/S12cybersecurity/WinDefenderKiller) - Windows Defender Killer | C++ Code Disabling Permanently Windows Defender using Registry Keys
 * 【2023-07-30】[LordNoteworthy / windows-exploitation](https://github.com/LordNoteworthy/windows-exploitation) - My notes while studying Windows exploitation
@@ -989,6 +1003,7 @@
 
 ## C#
 
+* 【2023-08-01】[noio / games.noio.planter](https://github.com/noio/games.noio.planter) - The plant simulation from Cloud Gardens as a Unity package for level design.
 * 【2023-07-31】[Rectify11 / Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 * 【2023-07-30】[slemire / WSPCoerce](https://github.com/slemire/WSPCoerce) - PoC to coerce authentication from Windows hosts using MS-WSP
 * 【2023-07-30】[wh0amitz / KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass) - UAC Bypass By Abusing Kerberos Tickets
@@ -1089,6 +1104,9 @@
 
 ## Html
 
+* 【2023-08-01】[tc39 / proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
+* 【2023-08-01】[elementary-data / elementary](https://github.com/elementary-data/elementary) - Open-source data observability for analytics engineers.
+* 【2023-08-01】[ajitpal / BookBank](https://github.com/ajitpal/BookBank) - Books
 * 【2023-07-31】[Devalphaspace / beautiful-portfolio-website](https://github.com/Devalphaspace/beautiful-portfolio-website) - 
 * 【2023-07-30】[val-lang / val-lang.github.io](https://github.com/val-lang/val-lang.github.io) - Landing page for Val
 * 【2023-07-29】[rootsongjc / awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials. - https://jimmysong.io/awesome-cloud-native/
@@ -1192,6 +1210,8 @@
 
 ## Css
 
+* 【2023-08-01】[sheryislive / cynthiaugwu](https://github.com/sheryislive/cynthiaugwu) - 
+* 【2023-08-01】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 * 【2023-07-31】[noriaku / firefox-monolite](https://github.com/noriaku/firefox-monolite) - Minimal theme & startpage for geek people. Monochromatic & pastel colors. Keyboard centered.
 * 【2023-07-30】[xpanel-cp / XPanel-SSH-User-Management](https://github.com/xpanel-cp/XPanel-SSH-User-Management) - 
 * 【2023-07-30】[Viglino / font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
@@ -1312,6 +1332,9 @@
 
 ## Unknown
 
+* 【2023-08-01】[CoderXext / Javascript-DEX-Front-Running-Bot-v4](https://github.com/CoderXext/Javascript-DEX-Front-Running-Bot-v4) - Want to boost your returns? Our 100% JavaScript bot performs Front Running on DEX's for optimal profits. Open-source and user-friendly, get started today!
+* 【2023-08-01】[urazakgul / python-portfoy-yonetimi-dersleri](https://github.com/urazakgul/python-portfoy-yonetimi-dersleri) - 
+* 【2023-08-01】[aboelkassem / References_Books](https://github.com/aboelkassem/References_Books) - My reference books
 * 【2023-07-31】[domfarolino / observable](https://github.com/domfarolino/observable) - Observable API proposal
 * 【2023-07-31】[GaryYufei / AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - Aligning Large Language Models with Human: A Survey
 * 【2023-07-31】[Taotaotao666 / SGK_Sites_and_Bots](https://github.com/Taotaotao666/SGK_Sites_and_Bots) - 社工库分享。免费好用的 社工库网站 和 Telegram社工库机器人，查询帐号、密码、邮箱、手机号、身份证及各种隐私数据是否泄露。
