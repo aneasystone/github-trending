@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-02】[Manisso / fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
+* 【2023-08-02】[lcompilers / lpython](https://github.com/lcompilers/lpython) - Python compiler
+* 【2023-08-02】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
 * 【2023-08-01】[dogboy21 / serializationisbad](https://github.com/dogboy21/serializationisbad) - A Minecraft coremod / Java Agent aiming to patch serious security vulnerabilities found in many different mods
 * 【2023-08-01】[GraphiteEditor / Graphite](https://github.com/GraphiteEditor/Graphite) - 2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow.
 * 【2023-08-01】[nix-community / home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix [maintainer=@rycee]
@@ -389,6 +392,9 @@
 
 ## Python
 
+* 【2023-08-02】[bps-statistics / stadata](https://github.com/bps-statistics/stadata) - STADATA is a Python package that simplifies access to statistical data provided by BPS - Statistics Indonesia
+* 【2023-08-02】[kelvins / awesome-mlops](https://github.com/kelvins/awesome-mlops) - 😎A curated list of awesome MLOps tools
+* 【2023-08-02】[chapyter / chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
 * 【2023-08-01】[Deadshot0x7 / 007-TheBond](https://github.com/Deadshot0x7/007-TheBond) - This Script will help you to gather information about your victim or friend.
 * 【2023-08-01】[vchan-in / CVE-2023-35078-Exploit-POC](https://github.com/vchan-in/CVE-2023-35078-Exploit-POC) - CVE-2023-35078 Remote Unauthenticated API Access Vulnerability Exploit POC
 * 【2023-08-01】[vyperlang / vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
@@ -604,6 +610,7 @@
 
 ## Javascript
 
+* 【2023-08-02】[localForage / localForage](https://github.com/localForage/localForage) - 💾Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * 【2023-08-01】[yonggekkk / CF-workers-vless](https://github.com/yonggekkk/CF-workers-vless) - cf-worker-vless脚本、优选域名一键脚本。懒人小白必备的代理神器两件套
 * 【2023-08-01】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
 * 【2023-08-01】[jaegertracing / jaeger-ui](https://github.com/jaegertracing/jaeger-ui) - Web UI for Jaeger
@@ -812,6 +819,8 @@
 
 ## C
 
+* 【2023-08-02】[brunodev85 / winlator](https://github.com/brunodev85/winlator) - 
+* 【2023-08-02】[ianlancetaylor / libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 * 【2023-07-31】[RfidResearchGroup / ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 * 【2023-07-30】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing + Api resolving from TIB + API hashing
 * 【2023-07-30】[BenjaminHornbeck6 / KFD-Offsets](https://github.com/BenjaminHornbeck6/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
@@ -1003,6 +1012,8 @@
 
 ## C#
 
+* 【2023-08-02】[Razzmatazzz / RemnantSaveGuardian](https://github.com/Razzmatazzz/RemnantSaveGuardian) - Tool to backup your saves and view your world rolls
+* 【2023-08-02】[wh0amitz / S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
 * 【2023-08-01】[noio / games.noio.planter](https://github.com/noio/games.noio.planter) - The plant simulation from Cloud Gardens as a Unity package for level design.
 * 【2023-07-31】[Rectify11 / Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 * 【2023-07-30】[slemire / WSPCoerce](https://github.com/slemire/WSPCoerce) - PoC to coerce authentication from Windows hosts using MS-WSP
@@ -1104,6 +1115,9 @@
 
 ## Html
 
+* 【2023-08-02】[amiaopensource / ffmprovisr](https://github.com/amiaopensource/ffmprovisr) - Repository of useful FFmpeg commands for archivists!
+* 【2023-08-02】[UdayLab / PAMI](https://github.com/UdayLab/PAMI) - PAMI is a Python library containing 80+ algorithms to discover useful patterns in various databases across multiple computing platforms. (Active)
+* 【2023-08-02】[cameronmcnz / rock-paper-scissors](https://github.com/cameronmcnz/rock-paper-scissors) - The aggregate of all the cool little Rock-Paper-Scissors Git submodules I create.
 * 【2023-08-01】[tc39 / proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
 * 【2023-08-01】[elementary-data / elementary](https://github.com/elementary-data/elementary) - Open-source data observability for analytics engineers.
 * 【2023-08-01】[ajitpal / BookBank](https://github.com/ajitpal/BookBank) - Books
@@ -1210,6 +1224,8 @@
 
 ## Css
 
+* 【2023-08-02】[rafaelmardojai / thunderbird-gnome-theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME👣theme for Thunderbird📨
+* 【2023-08-02】[creativetimofficial / material-dashboard-django](https://github.com/creativetimofficial/material-dashboard-django) - Material Dashboard - Django Template | Creative-Tim
 * 【2023-08-01】[sheryislive / cynthiaugwu](https://github.com/sheryislive/cynthiaugwu) - 
 * 【2023-08-01】[KillYoy / DiscordNight](https://github.com/KillYoy/DiscordNight) - An actual Dark/Nightmode Theme for Discord/BetterDiscord
 * 【2023-07-31】[noriaku / firefox-monolite](https://github.com/noriaku/firefox-monolite) - Minimal theme & startpage for geek people. Monochromatic & pastel colors. Keyboard centered.
@@ -1332,6 +1348,11 @@
 
 ## Unknown
 
+* 【2023-08-02】[tshemsedinov / NodeJS-Interview-Questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions) - NodeJS✨🐢🚀✨вопросы для собеседований
+* 【2023-08-02】[youngyangyang04 / kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions) - 卡码网题解全集
+* 【2023-08-02】[malvuln / RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption.
+* 【2023-08-02】[0xPugazh / One-Liners](https://github.com/0xPugazh/One-Liners) - A collection of awesome one-liners for bug bounty hunting.
+* 【2023-08-02】[miklgraf / UniSwap-sniper-bot](https://github.com/miklgraf/UniSwap-sniper-bot) - Optimized, fast and safe Uniswap sniping bot for buying new listings.
 * 【2023-08-01】[CoderXext / Javascript-DEX-Front-Running-Bot-v4](https://github.com/CoderXext/Javascript-DEX-Front-Running-Bot-v4) - Want to boost your returns? Our 100% JavaScript bot performs Front Running on DEX's for optimal profits. Open-source and user-friendly, get started today!
 * 【2023-08-01】[urazakgul / python-portfoy-yonetimi-dersleri](https://github.com/urazakgul/python-portfoy-yonetimi-dersleri) - 
 * 【2023-08-01】[aboelkassem / References_Books](https://github.com/aboelkassem/References_Books) - My reference books
