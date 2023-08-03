@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-08-03】[zanfranceschi / rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
+* 【2023-08-03】[Alpha-VLLM / LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
+* 【2023-08-03】[linkwarden / linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
+* 【2023-08-03】[openstatusHQ / openstatus](https://github.com/openstatusHQ/openstatus) - The open-source status page
+* 【2023-08-03】[base-org / withdrawer](https://github.com/base-org/withdrawer) - Golang utility for proving and finalizing withdrawals from op-stack chains.
+* 【2023-08-03】[nextui-org / nextui](https://github.com/nextui-org/nextui) - 🚀Beautiful, fast and modern React UI library.
+* 【2023-08-03】[allenymt / PrivacySentry](https://github.com/allenymt/PrivacySentry) - 工信部-Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案
 * 【2023-08-02】[Manisso / fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 * 【2023-08-02】[lcompilers / lpython](https://github.com/lcompilers/lpython) - Python compiler
 * 【2023-08-02】[starsliao / TenSunS](https://github.com/starsliao/TenSunS) - 🦄后羿 - TenSunS(原ConsulManager)：基于Consul的运维平台：更优雅的Consul管理UI&多云与自建ECS/MySQL/Redis同步Prometheus/JumpServer&ECS/MySQL/Redis云监控指标采集&Blackbox站点监控维护&漏洞通知/资源到期余额告警&各类资源Grafana看板展示
@@ -392,6 +399,10 @@
 
 ## Python
 
+* 【2023-08-03】[bregman-arie / python-exercises](https://github.com/bregman-arie/python-exercises) - 
+* 【2023-08-03】[hegelai / prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
+* 【2023-08-03】[Mebus / cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
+* 【2023-08-03】[snap-stanford / med-flamingo](https://github.com/snap-stanford/med-flamingo) - 
 * 【2023-08-02】[bps-statistics / stadata](https://github.com/bps-statistics/stadata) - STADATA is a Python package that simplifies access to statistical data provided by BPS - Statistics Indonesia
 * 【2023-08-02】[kelvins / awesome-mlops](https://github.com/kelvins/awesome-mlops) - 😎A curated list of awesome MLOps tools
 * 【2023-08-02】[chapyter / chapyter](https://github.com/chapyter/chapyter) - Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks
@@ -610,6 +621,7 @@
 
 ## Javascript
 
+* 【2023-08-03】[OpenBMB / AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖AgentVerse🪐provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 * 【2023-08-02】[localForage / localForage](https://github.com/localForage/localForage) - 💾Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * 【2023-08-01】[yonggekkk / CF-workers-vless](https://github.com/yonggekkk/CF-workers-vless) - cf-worker-vless脚本、优选域名一键脚本。懒人小白必备的代理神器两件套
 * 【2023-08-01】[iptv-org / database](https://github.com/iptv-org/database) - User editable database for TV channels.
@@ -734,6 +746,7 @@
 
 ## Go
 
+* 【2023-08-03】[Masterminds / squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 * 【2023-08-01】[Foxboron / ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - 💻🔑ssh-tpm-agent
 * 【2023-07-31】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
 * 【2023-07-31】[haqq-network / haqq](https://github.com/haqq-network/haqq) - Shariah-compliant web3 platform
@@ -819,6 +832,8 @@
 
 ## C
 
+* 【2023-08-03】[RahulSChand / llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies) - Step by step explanation/tutorial of llama2.c
+* 【2023-08-03】[prusa3d / Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa XL and the Original Prusa XL 3D printers by Prusa Research.
 * 【2023-08-02】[brunodev85 / winlator](https://github.com/brunodev85/winlator) - 
 * 【2023-08-02】[ianlancetaylor / libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - A C library that may be linked into a C/C++ program to produce symbolic backtraces
 * 【2023-07-31】[RfidResearchGroup / ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
@@ -924,6 +939,8 @@
 
 ## C++
 
+* 【2023-08-03】[triton-inference-server / python_backend](https://github.com/triton-inference-server/python_backend) - Triton backend that enables pre-process, post-processing and other logic to be implemented in Python.
+* 【2023-08-03】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
 * 【2023-08-01】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 * 【2023-07-31】[bsnes-emu / bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 * 【2023-07-30】[S12cybersecurity / WinDefenderKiller](https://github.com/S12cybersecurity/WinDefenderKiller) - Windows Defender Killer | C++ Code Disabling Permanently Windows Defender using Registry Keys
@@ -1012,6 +1029,7 @@
 
 ## C#
 
+* 【2023-08-03】[SebLague / Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
 * 【2023-08-02】[Razzmatazzz / RemnantSaveGuardian](https://github.com/Razzmatazzz/RemnantSaveGuardian) - Tool to backup your saves and view your world rolls
 * 【2023-08-02】[wh0amitz / S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
 * 【2023-08-01】[noio / games.noio.planter](https://github.com/noio/games.noio.planter) - The plant simulation from Cloud Gardens as a Unity package for level design.
@@ -1115,6 +1133,8 @@
 
 ## Html
 
+* 【2023-08-03】[doka-guide / content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
+* 【2023-08-03】[microsoft / CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 * 【2023-08-02】[amiaopensource / ffmprovisr](https://github.com/amiaopensource/ffmprovisr) - Repository of useful FFmpeg commands for archivists!
 * 【2023-08-02】[UdayLab / PAMI](https://github.com/UdayLab/PAMI) - PAMI is a Python library containing 80+ algorithms to discover useful patterns in various databases across multiple computing platforms. (Active)
 * 【2023-08-02】[cameronmcnz / rock-paper-scissors](https://github.com/cameronmcnz/rock-paper-scissors) - The aggregate of all the cool little Rock-Paper-Scissors Git submodules I create.
@@ -1224,6 +1244,7 @@
 
 ## Css
 
+* 【2023-08-03】[Saltssaumure / ieytd-discord-theme](https://github.com/Saltssaumure/ieytd-discord-theme) - A tri-tone Discord theme inspired by IEYTD.
 * 【2023-08-02】[rafaelmardojai / thunderbird-gnome-theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME👣theme for Thunderbird📨
 * 【2023-08-02】[creativetimofficial / material-dashboard-django](https://github.com/creativetimofficial/material-dashboard-django) - Material Dashboard - Django Template | Creative-Tim
 * 【2023-08-01】[sheryislive / cynthiaugwu](https://github.com/sheryislive/cynthiaugwu) - 
@@ -1348,6 +1369,12 @@
 
 ## Unknown
 
+* 【2023-08-03】[SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
+* 【2023-08-03】[iam-veeramalla / devops-interview-preparation-guide](https://github.com/iam-veeramalla/devops-interview-preparation-guide) - Share your interview questions and help others. Let's build this interview preparation guide together.
+* 【2023-08-03】[suljov / Windows-and-Active-Directory](https://github.com/suljov/Windows-and-Active-Directory) - 
+* 【2023-08-03】[88ys / website](https://github.com/88ys/website) - A high-quality online free video site
+* 【2023-08-03】[laurencedawson / sync-for-lemmy](https://github.com/laurencedawson/sync-for-lemmy) - Issue tracker for the app Sync for Lemmy
+* 【2023-08-03】[lafabi / Genobiostoic](https://github.com/lafabi/Genobiostoic) - Taller para estudiantes de pregrado o postgrado cuyo objetivo principal o secundario involucre estudios genómicos
 * 【2023-08-02】[tshemsedinov / NodeJS-Interview-Questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions) - NodeJS✨🐢🚀✨вопросы для собеседований
 * 【2023-08-02】[youngyangyang04 / kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions) - 卡码网题解全集
 * 【2023-08-02】[malvuln / RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption.
