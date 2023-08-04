@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-08-04】[axilla-io / ax](https://github.com/axilla-io/ax) - A comprehensive AI framework for TypeScript
 * 【2023-08-03】[zanfranceschi / rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 * 【2023-08-03】[Alpha-VLLM / LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
 * 【2023-08-03】[linkwarden / linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted, open-source collaborative bookmark manager to collect, organize and archive webpages.
@@ -304,6 +305,7 @@
 
 ## Java
 
+* 【2023-08-04】[hncboy / ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 * 【2023-08-01】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 * 【2023-08-01】[mq-soft-tech / comp2000_2023](https://github.com/mq-soft-tech/comp2000_2023) - 
 * 【2023-07-31】[linkedin / ambry](https://github.com/linkedin/ambry) - Distributed object store
@@ -399,6 +401,9 @@
 
 ## Python
 
+* 【2023-08-04】[chatchat-space / langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
+* 【2023-08-04】[wcde / sd-webui-refiner](https://github.com/wcde/sd-webui-refiner) - Webui Extension for integration refiner in generation process
+* 【2023-08-04】[gorilla-llm / gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
 * 【2023-08-03】[bregman-arie / python-exercises](https://github.com/bregman-arie/python-exercises) - 
 * 【2023-08-03】[hegelai / prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate).
 * 【2023-08-03】[Mebus / cupp](https://github.com/Mebus/cupp) - Common User Passwords Profiler (CUPP)
@@ -621,6 +626,10 @@
 
 ## Javascript
 
+* 【2023-08-04】[enquirer / enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.…
+* 【2023-08-04】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+* 【2023-08-04】[sindresorhus / ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+* 【2023-08-04】[emotion-js / emotion](https://github.com/emotion-js/emotion) - 👩‍🎤CSS-in-JS library designed for high performance style composition
 * 【2023-08-03】[OpenBMB / AgentVerse](https://github.com/OpenBMB/AgentVerse) - 🤖AgentVerse🪐provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 * 【2023-08-02】[localForage / localForage](https://github.com/localForage/localForage) - 💾Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * 【2023-08-01】[yonggekkk / CF-workers-vless](https://github.com/yonggekkk/CF-workers-vless) - cf-worker-vless脚本、优选域名一键脚本。懒人小白必备的代理神器两件套
@@ -746,6 +755,8 @@
 
 ## Go
 
+* 【2023-08-04】[bazelbuild / bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+* 【2023-08-04】[olivere / elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 * 【2023-08-03】[Masterminds / squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 * 【2023-08-01】[Foxboron / ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - 💻🔑ssh-tpm-agent
 * 【2023-07-31】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
@@ -832,6 +843,7 @@
 
 ## C
 
+* 【2023-08-04】[yeyupiaoling / Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - 微调Whisper语音识别模型，支持无时间戳数据训练，有时间戳数据训练、无语音数据训练。加速推理，支持Web部署、Windows桌面部署和Android部署
 * 【2023-08-03】[RahulSChand / llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies) - Step by step explanation/tutorial of llama2.c
 * 【2023-08-03】[prusa3d / Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa XL and the Original Prusa XL 3D printers by Prusa Research.
 * 【2023-08-02】[brunodev85 / winlator](https://github.com/brunodev85/winlator) - 
@@ -1029,6 +1041,8 @@
 
 ## C#
 
+* 【2023-08-04】[lisongkun / hygge-imaotai](https://github.com/lisongkun/hygge-imaotai) - i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！
+* 【2023-08-04】[moq / moq](https://github.com/moq/moq) - The most popular and friendly mocking framework for .NET
 * 【2023-08-03】[SebLague / Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
 * 【2023-08-02】[Razzmatazzz / RemnantSaveGuardian](https://github.com/Razzmatazzz/RemnantSaveGuardian) - Tool to backup your saves and view your world rolls
 * 【2023-08-02】[wh0amitz / S4UTomato](https://github.com/wh0amitz/S4UTomato) - Escalate Service Account To LocalSystem via Kerberos
@@ -1133,6 +1147,8 @@
 
 ## Html
 
+* 【2023-08-04】[ahmadbilaldev / langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+* 【2023-08-04】[arm-university / VLSI-Fundamentals-A-Practical-Approach-Education-Kit](https://github.com/arm-university/VLSI-Fundamentals-A-Practical-Approach-Education-Kit) - Gain an understanding of the fundamentals of Very Large-Scale Integration (VLSI), including how the theories and concepts can be applied in the design of simple logic circuits and in the physical implementation of a simplified microprocessor
 * 【2023-08-03】[doka-guide / content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
 * 【2023-08-03】[microsoft / CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) - Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 * 【2023-08-02】[amiaopensource / ffmprovisr](https://github.com/amiaopensource/ffmprovisr) - Repository of useful FFmpeg commands for archivists!
@@ -1244,6 +1260,9 @@
 
 ## Css
 
+* 【2023-08-04】[AllStarCodeOrg / week3.day1.userInput](https://github.com/AllStarCodeOrg/week3.day1.userInput) - 
+* 【2023-08-04】[WOLFRIEND / skeleton-mammoth](https://github.com/WOLFRIEND/skeleton-mammoth) - Skeleton Mammoth - a powerful JavaScript library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of a website while data is being loaded in the background.
+* 【2023-08-04】[zero-to-mastery / CSS-Art](https://github.com/zero-to-mastery/CSS-Art) - General Edition - A CSS art challenge, for all skill levels
 * 【2023-08-03】[Saltssaumure / ieytd-discord-theme](https://github.com/Saltssaumure/ieytd-discord-theme) - A tri-tone Discord theme inspired by IEYTD.
 * 【2023-08-02】[rafaelmardojai / thunderbird-gnome-theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - A GNOME👣theme for Thunderbird📨
 * 【2023-08-02】[creativetimofficial / material-dashboard-django](https://github.com/creativetimofficial/material-dashboard-django) - Material Dashboard - Django Template | Creative-Tim
@@ -1369,6 +1388,8 @@
 
 ## Unknown
 
+* 【2023-08-04】[NFTTraderKing / Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker](https://github.com/NFTTraderKing/Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker) - Enhance your NFT trading skills with Opensoruce-Javascript, your ultimate sniper for Opensea, Raribles, and Coinbase.
+* 【2023-08-04】[lordmyshepherd-edu / wanted-pre-onboardung-backend-selection-assignment](https://github.com/lordmyshepherd-edu/wanted-pre-onboardung-backend-selection-assignment) - Wanted Pre-Onboarding Backend Internship Selection Assignment
 * 【2023-08-03】[SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
 * 【2023-08-03】[iam-veeramalla / devops-interview-preparation-guide](https://github.com/iam-veeramalla/devops-interview-preparation-guide) - Share your interview questions and help others. Let's build this interview preparation guide together.
 * 【2023-08-03】[suljov / Windows-and-Active-Directory](https://github.com/suljov/Windows-and-Active-Directory) - 
