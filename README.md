@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-08-05】[codecov / codecov-api](https://github.com/codecov/codecov-api) - Code for the API of Codecov
+* 【2023-08-05】[microsoft / azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖Azure ChatGPT: Private & secure ChatGPT for internal enterprise use💼
+* 【2023-08-05】[DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+* 【2023-08-05】[RicardoValdovinos / vite-react-boilerplate](https://github.com/RicardoValdovinos/vite-react-boilerplate) - A production ready, scalable starter template for Vite + React
+* 【2023-08-05】[segmind / distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
+* 【2023-08-05】[rrousselGit / riverpod](https://github.com/rrousselGit/riverpod) - A simple way to access state while robust and testable.
+* 【2023-08-05】[rlabbe / Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
 * 【2023-08-04】[axilla-io / ax](https://github.com/axilla-io/ax) - A comprehensive AI framework for TypeScript
 * 【2023-08-03】[zanfranceschi / rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 * 【2023-08-03】[Alpha-VLLM / LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory) - An Open-source Toolkit for LLM Development
@@ -26,12 +33,15 @@
 
 ## Java
 
+* 【2023-08-05】[Kolhax / Vape-V4-Source](https://github.com/Kolhax/Vape-V4-Source) - 
 * 【2023-08-04】[hncboy / ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 * 【2023-08-01】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 * 【2023-08-01】[mq-soft-tech / comp2000_2023](https://github.com/mq-soft-tech/comp2000_2023) - 
 
 ## Python
 
+* 【2023-08-05】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+* 【2023-08-05】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 * 【2023-08-04】[chatchat-space / langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 * 【2023-08-04】[wcde / sd-webui-refiner](https://github.com/wcde/sd-webui-refiner) - Webui Extension for integration refiner in generation process
 * 【2023-08-04】[gorilla-llm / gorilla-cli](https://github.com/gorilla-llm/gorilla-cli) - LLMs for your CLI
@@ -48,6 +58,8 @@
 
 ## Javascript
 
+* 【2023-08-05】[effectiveaccelerationism / text-to-banger](https://github.com/effectiveaccelerationism/text-to-banger) - A simple API converting a user's proposed tweet into a veritable banger.
+* 【2023-08-05】[step-security / github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 * 【2023-08-04】[enquirer / enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.…
 * 【2023-08-04】[bvaughn / react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * 【2023-08-04】[sindresorhus / ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
@@ -60,6 +72,7 @@
 
 ## Go
 
+* 【2023-08-05】[Altinity / clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 * 【2023-08-04】[bazelbuild / bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 * 【2023-08-04】[olivere / elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
 * 【2023-08-03】[Masterminds / squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
@@ -67,6 +80,8 @@
 
 ## C
 
+* 【2023-08-05】[slippedandmissed / XLSL](https://github.com/slippedandmissed/XLSL) - A rendering engine for Microsoft Excel
+* 【2023-08-05】[paxo-rch / paxos_8](https://github.com/paxo-rch/paxos_8) - 
 * 【2023-08-04】[yeyupiaoling / Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - 微调Whisper语音识别模型，支持无时间戳数据训练，有时间戳数据训练、无语音数据训练。加速推理，支持Web部署、Windows桌面部署和Android部署
 * 【2023-08-03】[RahulSChand / llama2.c-for-dummies](https://github.com/RahulSChand/llama2.c-for-dummies) - Step by step explanation/tutorial of llama2.c
 * 【2023-08-03】[prusa3d / Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa XL and the Original Prusa XL 3D printers by Prusa Research.
@@ -81,6 +96,9 @@
 
 ## C#
 
+* 【2023-08-05】[SimonCropp / WinDebloat](https://github.com/SimonCropp/WinDebloat) - A dotnet tool that removes the bloat in Windows 11
+* 【2023-08-05】[IgorMundstein / WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to clear memory areas. Sometimes, programs do not release the allocated memory, making the computer slow. That is when you use Windows Memory Cleaner to optimize the memory, so you can keep working without wasting time restarting your system.
+* 【2023-08-05】[kodlamaio-projects / nArchitecture](https://github.com/kodlamaio-projects/nArchitecture) - Inspired by Clean Architecture, nArchitecture is a monolith project which uses advanced techniques.
 * 【2023-08-04】[lisongkun / hygge-imaotai](https://github.com/lisongkun/hygge-imaotai) - i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！
 * 【2023-08-04】[moq / moq](https://github.com/moq/moq) - The most popular and friendly mocking framework for .NET
 * 【2023-08-03】[SebLague / Chess-Coding-Adventure](https://github.com/SebLague/Chess-Coding-Adventure) - A work-in-progress chess bot written in C#
@@ -90,6 +108,9 @@
 
 ## Html
 
+* 【2023-08-05】[woodchen-ink / openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card.
+* 【2023-08-05】[fadynakhla / dr-claude](https://github.com/fadynakhla/dr-claude) - Anthropic Claude2 Hackathon:Building MCTS with Claude for optimal action prediction during patient/doctor interactions.
+* 【2023-08-05】[mixmark-io / turndown](https://github.com/mixmark-io/turndown) - 🛏An HTML to Markdown converter written in JavaScript
 * 【2023-08-04】[ahmadbilaldev / langui](https://github.com/ahmadbilaldev/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2023-08-04】[arm-university / VLSI-Fundamentals-A-Practical-Approach-Education-Kit](https://github.com/arm-university/VLSI-Fundamentals-A-Practical-Approach-Education-Kit) - Gain an understanding of the fundamentals of Very Large-Scale Integration (VLSI), including how the theories and concepts can be applied in the design of simple logic circuits and in the physical implementation of a simplified microprocessor
 * 【2023-08-03】[doka-guide / content](https://github.com/doka-guide/content) - Контент Доки: статьи, картинки, демки и документация для авторов
@@ -114,6 +135,9 @@
 
 ## Unknown
 
+* 【2023-08-05】[CodingAIDatasets / DEX-Triangular-Arbitrage-Bot-V5-Bot](https://github.com/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot) - Our open-source JavaScript bot performs Triangular Arbitrage on DEX's, allowing you to maximize your profits. Easy to use and effective, start trading better.
+* 【2023-08-05】[iuricode / desafios-frontend](https://github.com/iuricode/desafios-frontend) - Desafios frontend do Codelândia
+* 【2023-08-05】[zlida5818 / AutoClicker](https://github.com/zlida5818/AutoClicker) - loves automation
 * 【2023-08-04】[NFTTraderKing / Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker](https://github.com/NFTTraderKing/Opensea-Javascript-NFT-sniper-raribles-coinbase-opensoruce-tracker) - Enhance your NFT trading skills with Opensoruce-Javascript, your ultimate sniper for Opensea, Raribles, and Coinbase.
 * 【2023-08-04】[lordmyshepherd-edu / wanted-pre-onboardung-backend-selection-assignment](https://github.com/lordmyshepherd-edu/wanted-pre-onboardung-backend-selection-assignment) - Wanted Pre-Onboarding Backend Internship Selection Assignment
 * 【2023-08-03】[SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
