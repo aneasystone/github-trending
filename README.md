@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-08-06】[QwenLM / Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
+* 【2023-08-06】[kuafuai / DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. convert natural language requirements into working software.
+* 【2023-08-06】[liyupi / sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
+* 【2023-08-06】[donno2048 / snake](https://github.com/donno2048/snake) - A minimal snake in assembly
+* 【2023-08-06】[cyphar / incus](https://github.com/cyphar/incus) - Powerful system container and virtual machine manager
+* 【2023-08-06】[labring / FastGPT](https://github.com/labring/FastGPT) - A platform that uses the OpenAI API to quickly build an AI knowledge base, supporting many-to-many relationships.
+* 【2023-08-06】[focus-editor / focus](https://github.com/focus-editor/focus) - A simple and fast text editor
 * 【2023-08-05】[codecov / codecov-api](https://github.com/codecov/codecov-api) - Code for the API of Codecov
 * 【2023-08-05】[microsoft / azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖Azure ChatGPT: Private & secure ChatGPT for internal enterprise use💼
 * 【2023-08-05】[DioxusLabs / dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
@@ -33,6 +40,7 @@
 
 ## Java
 
+* 【2023-08-06】[Konloch / bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 * 【2023-08-05】[Kolhax / Vape-V4-Source](https://github.com/Kolhax/Vape-V4-Source) - 
 * 【2023-08-04】[hncboy / ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
 * 【2023-08-01】[AppliedEnergistics / Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
@@ -58,6 +66,8 @@
 
 ## Javascript
 
+* 【2023-08-06】[ValveSoftware / counter-strike](https://github.com/ValveSoftware/counter-strike) - CS:GO
+* 【2023-08-06】[xiaolin / react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support🖼
 * 【2023-08-05】[effectiveaccelerationism / text-to-banger](https://github.com/effectiveaccelerationism/text-to-banger) - A simple API converting a user's proposed tweet into a veritable banger.
 * 【2023-08-05】[step-security / github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 * 【2023-08-04】[enquirer / enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.…
@@ -80,6 +90,8 @@
 
 ## C
 
+* 【2023-08-06】[hydradatabase / hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
+* 【2023-08-06】[leminlimez / Chicken-Butt](https://github.com/leminlimez/Chicken-Butt) - KFD Customization Tool for iOS 16.0-16.6b1
 * 【2023-08-05】[slippedandmissed / XLSL](https://github.com/slippedandmissed/XLSL) - A rendering engine for Microsoft Excel
 * 【2023-08-05】[paxo-rch / paxos_8](https://github.com/paxo-rch/paxos_8) - 
 * 【2023-08-04】[yeyupiaoling / Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune) - 微调Whisper语音识别模型，支持无时间戳数据训练，有时间戳数据训练、无语音数据训练。加速推理，支持Web部署、Windows桌面部署和Android部署
@@ -96,6 +108,7 @@
 
 ## C#
 
+* 【2023-08-06】[Belphemur / SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 * 【2023-08-05】[SimonCropp / WinDebloat](https://github.com/SimonCropp/WinDebloat) - A dotnet tool that removes the bloat in Windows 11
 * 【2023-08-05】[IgorMundstein / WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to clear memory areas. Sometimes, programs do not release the allocated memory, making the computer slow. That is when you use Windows Memory Cleaner to optimize the memory, so you can keep working without wasting time restarting your system.
 * 【2023-08-05】[kodlamaio-projects / nArchitecture](https://github.com/kodlamaio-projects/nArchitecture) - Inspired by Clean Architecture, nArchitecture is a monolith project which uses advanced techniques.
@@ -108,6 +121,8 @@
 
 ## Html
 
+* 【2023-08-06】[fkasler / cuddlephish](https://github.com/fkasler/cuddlephish) - Weaponized Browser-in-the-Middle (BitM) for Penetration Testers
+* 【2023-08-06】[srcrs / rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
 * 【2023-08-05】[woodchen-ink / openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card.
 * 【2023-08-05】[fadynakhla / dr-claude](https://github.com/fadynakhla/dr-claude) - Anthropic Claude2 Hackathon:Building MCTS with Claude for optimal action prediction during patient/doctor interactions.
 * 【2023-08-05】[mixmark-io / turndown](https://github.com/mixmark-io/turndown) - 🛏An HTML to Markdown converter written in JavaScript
@@ -124,6 +139,8 @@
 
 ## Css
 
+* 【2023-08-06】[chrultrabook / docs](https://github.com/chrultrabook/docs) - Centralized project documentation - WIP
+* 【2023-08-06】[Martin2877 / btab](https://github.com/Martin2877/btab) - Blue team analyisis box is a tool for blue team security analyisis.
 * 【2023-08-04】[AllStarCodeOrg / week3.day1.userInput](https://github.com/AllStarCodeOrg/week3.day1.userInput) - 
 * 【2023-08-04】[WOLFRIEND / skeleton-mammoth](https://github.com/WOLFRIEND/skeleton-mammoth) - Skeleton Mammoth - a powerful JavaScript library designed to enhance user experience by displaying UI skeleton loaders, also known as placeholders. It allows you to simulate the layout or elements of a website while data is being loaded in the background.
 * 【2023-08-04】[zero-to-mastery / CSS-Art](https://github.com/zero-to-mastery/CSS-Art) - General Edition - A CSS art challenge, for all skill levels
@@ -135,6 +152,8 @@
 
 ## Unknown
 
+* 【2023-08-06】[The-Code-Dose / html-css-challenges](https://github.com/The-Code-Dose/html-css-challenges) - A collection of beginner friendly practice exercises on HTML & CSS topics.
+* 【2023-08-06】[BlueArchiveCN / Anti-Harmony](https://github.com/BlueArchiveCN/Anti-Harmony) - This is a blue archive China server anti-harmony warehouse
 * 【2023-08-05】[CodingAIDatasets / DEX-Triangular-Arbitrage-Bot-V5-Bot](https://github.com/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot) - Our open-source JavaScript bot performs Triangular Arbitrage on DEX's, allowing you to maximize your profits. Easy to use and effective, start trading better.
 * 【2023-08-05】[iuricode / desafios-frontend](https://github.com/iuricode/desafios-frontend) - Desafios frontend do Codelândia
 * 【2023-08-05】[zlida5818 / AutoClicker](https://github.com/zlida5818/AutoClicker) - loves automation
