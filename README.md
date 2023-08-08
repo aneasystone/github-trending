@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-08-08】[vim / vim](https://github.com/vim/vim) - The official Vim repository
+* 【2023-08-08】[burn-rs / burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 * 【2023-08-07】[ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊Application to use ReVanced on Android
 * 【2023-08-07】[adrianhajdin / threads](https://github.com/adrianhajdin/threads) - Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
 * 【2023-08-07】[musabgultekin / functionary](https://github.com/musabgultekin/functionary) - Chat language model that can interpret and execute functions/plugins
@@ -43,6 +45,10 @@
 
 ## Java
 
+* 【2023-08-08】[amuthansakthivel / TheOneFramework](https://github.com/amuthansakthivel/TheOneFramework) - Web, Mobile and Api Automation using Selenide, Rest Assured, Junit5 and Allure
+* 【2023-08-08】[SpigotMC / BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
+* 【2023-08-08】[google / google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
+* 【2023-08-08】[CubeWhyMC / LunarClient-CN](https://github.com/CubeWhyMC/LunarClient-CN) - LunarClient for China
 * 【2023-08-06】[Konloch / bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
 * 【2023-08-05】[Kolhax / Vape-V4-Source](https://github.com/Kolhax/Vape-V4-Source) - 
 * 【2023-08-04】[hncboy / ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing、文心一言等等
@@ -51,6 +57,11 @@
 
 ## Python
 
+* 【2023-08-08】[MeetKai / functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
+* 【2023-08-08】[BishopFox / CVE-2023-3519](https://github.com/BishopFox/CVE-2023-3519) - RCE exploit for CVE-2023-3519
+* 【2023-08-08】[YiVal / YiVal](https://github.com/YiVal/YiVal) - AI evaluation tool for streamlined and comprehensive comparison of prompts, models, and parameters across various modalities
+* 【2023-08-08】[daprofiler / DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs. On a specified subject in a limited time. DaProfiler is desi…
+* 【2023-08-08】[melih-unsal / DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create🦜️🔗LangChain apps by just using prompts with the power of Llama 2🌟Star to support our work! | 只需使用句子即可创建 LangChain 应用程序。 给个star支持我们的工作吧！
 * 【2023-08-07】[ModelSurge / sd-webui-comfyui](https://github.com/ModelSurge/sd-webui-comfyui) - An extension to integrate ComfyUI workflows into the Webui's pipeline
 * 【2023-08-07】[hwchase17 / chat-your-data](https://github.com/hwchase17/chat-your-data) - 
 * 【2023-08-07】[Gallopsled / pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
@@ -72,6 +83,8 @@
 
 ## Javascript
 
+* 【2023-08-08】[layer5io / layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
+* 【2023-08-08】[tw93 / Maple](https://github.com/tw93/Maple) - 🍁Hide the bookmark bar, use Maple Bookmarks to surf smoothly.🍁隐藏书签栏，使用枫叶书签让你行云流水。
 * 【2023-08-07】[thisjam / sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - 
 * 【2023-08-07】[r0ysue / MobileCTF](https://github.com/r0ysue/MobileCTF) - 体系化、实战化、step by step、目标清晰且具体的一个打怪升级、成长路径规划图
 * 【2023-08-07】[Miracles666 / Frida-Beautify-Output](https://github.com/Miracles666/Frida-Beautify-Output) - 基于Vue，快速进行Android Frida Hook并将结果美化打印到web端，方便逆向分析
@@ -91,6 +104,10 @@
 
 ## Go
 
+* 【2023-08-08】[lxc / incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
+* 【2023-08-08】[PuerkitoBio / goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+* 【2023-08-08】[uoosef / bepass](https://github.com/uoosef/bepass) - A simple DPI bypass tool written in go
+* 【2023-08-08】[yonahd / kor](https://github.com/yonahd/kor) - A Tool to discover unused Kubernetes Resources
 * 【2023-08-05】[Altinity / clickhouse-operator](https://github.com/Altinity/clickhouse-operator) - Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
 * 【2023-08-04】[bazelbuild / bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle) - Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
 * 【2023-08-04】[olivere / elastic](https://github.com/olivere/elastic) - Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
@@ -99,6 +116,7 @@
 
 ## C
 
+* 【2023-08-08】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * 【2023-08-06】[hydradatabase / hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 * 【2023-08-06】[leminlimez / Chicken-Butt](https://github.com/leminlimez/Chicken-Butt) - KFD Customization Tool for iOS 16.0-16.6b1
 * 【2023-08-05】[slippedandmissed / XLSL](https://github.com/slippedandmissed/XLSL) - A rendering engine for Microsoft Excel
@@ -119,6 +137,7 @@
 
 ## C#
 
+* 【2023-08-08】[space-syndicate / space-station-14](https://github.com/space-syndicate/space-station-14) - 🚀Билд русскоязычного сервера Space Station 14
 * 【2023-08-07】[Norbyte / lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 * 【2023-08-07】[Tyrrrz / LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 * 【2023-08-06】[Belphemur / SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
@@ -154,6 +173,7 @@
 
 ## Css
 
+* 【2023-08-08】[bedimcode / responsive-portfolio-website-rian](https://github.com/bedimcode/responsive-portfolio-website-rian) - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 * 【2023-08-07】[stevekinney / name-badges](https://github.com/stevekinney/name-badges) - 
 * 【2023-08-07】[brunasilvaraujo / Login-Form](https://github.com/brunasilvaraujo/Login-Form) - Animated Glassmorphism Login Form using Html & CSS
 * 【2023-08-06】[chrultrabook / docs](https://github.com/chrultrabook/docs) - Centralized project documentation - WIP
@@ -169,6 +189,9 @@
 
 ## Unknown
 
+* 【2023-08-08】[sergiomarotco / Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
+* 【2023-08-08】[devanshbatham / Vulnerabilities-Unmasked](https://github.com/devanshbatham/Vulnerabilities-Unmasked) - This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
+* 【2023-08-08】[sefdeer / ads_zuoshou](https://github.com/sefdeer/ads_zuoshou) - 
 * 【2023-08-07】[techiescamp / devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
 * 【2023-08-07】[abbodi1406 / vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 * 【2023-08-06】[The-Code-Dose / html-css-challenges](https://github.com/The-Code-Dose/html-css-challenges) - A collection of beginner friendly practice exercises on HTML & CSS topics.
