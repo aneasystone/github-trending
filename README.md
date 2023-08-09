@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-09】[supabase / postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
+* 【2023-08-09】[jamesmurdza / awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
+* 【2023-08-09】[AutomaApp / automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 * 【2023-08-08】[vim / vim](https://github.com/vim/vim) - The official Vim repository
 * 【2023-08-08】[burn-rs / burn](https://github.com/burn-rs/burn) - Burn - A Flexible and Comprehensive Deep Learning Framework in Rust
 * 【2023-08-07】[ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊Application to use ReVanced on Android
@@ -57,6 +60,13 @@
 
 ## Python
 
+* 【2023-08-09】[IDEA-Research / DWPose](https://github.com/IDEA-Research/DWPose) - Official implementation of the paper "Effective Whole-body Pose Estimation with Two-stages Distillation"
+* 【2023-08-09】[xusenlinzy / api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen etc. 开源大模型的统一后端接口
+* 【2023-08-09】[OpenGenerativeAI / GenossGPT](https://github.com/OpenGenerativeAI/GenossGPT) - One API for all LLMs either Private or Public (Anthropic, Llama V2, GPT 3.5/4, Vertex, GPT4ALL, HuggingFace ...)🌈🐂Replace OpenAI GPT with any LLMs in your app with one line.
+* 【2023-08-09】[Gozargah / Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
+* 【2023-08-09】[alibaba-damo-academy / FunASR](https://github.com/alibaba-damo-academy/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit
+* 【2023-08-09】[mealie-recipes / mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+* 【2023-08-09】[liucongg / ChatGLM-Finetuning](https://github.com/liucongg/ChatGLM-Finetuning) - 基于ChatGLM-6B、ChatGLM2-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
 * 【2023-08-08】[MeetKai / functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
 * 【2023-08-08】[BishopFox / CVE-2023-3519](https://github.com/BishopFox/CVE-2023-3519) - RCE exploit for CVE-2023-3519
 * 【2023-08-08】[YiVal / YiVal](https://github.com/YiVal/YiVal) - AI evaluation tool for streamlined and comprehensive comparison of prompts, models, and parameters across various modalities
@@ -83,6 +93,8 @@
 
 ## Javascript
 
+* 【2023-08-09】[paradite / frontend-encyclopedia](https://github.com/paradite/frontend-encyclopedia) - Frontend Encyclopedia
+* 【2023-08-09】[MuiseDestiny / style-for-zotero](https://github.com/MuiseDestiny/style-for-zotero) - A Zotero plugin for creating a personal Zotero Style.
 * 【2023-08-08】[layer5io / layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 * 【2023-08-08】[tw93 / Maple](https://github.com/tw93/Maple) - 🍁Hide the bookmark bar, use Maple Bookmarks to surf smoothly.🍁隐藏书签栏，使用枫叶书签让你行云流水。
 * 【2023-08-07】[thisjam / sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - 
@@ -104,6 +116,8 @@
 
 ## Go
 
+* 【2023-08-09】[hakluke / hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
+* 【2023-08-09】[stellar / go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 * 【2023-08-08】[lxc / incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 * 【2023-08-08】[PuerkitoBio / goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
 * 【2023-08-08】[uoosef / bepass](https://github.com/uoosef/bepass) - A simple DPI bypass tool written in go
@@ -116,6 +130,9 @@
 
 ## C
 
+* 【2023-08-09】[f0rb1dd3n / Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
+* 【2023-08-09】[lucavallin / barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
+* 【2023-08-09】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
 * 【2023-08-08】[moonlight-stream / moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 * 【2023-08-06】[hydradatabase / hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes.
 * 【2023-08-06】[leminlimez / Chicken-Butt](https://github.com/leminlimez/Chicken-Butt) - KFD Customization Tool for iOS 16.0-16.6b1
@@ -129,6 +146,11 @@
 
 ## C++
 
+* 【2023-08-09】[luxonis / depthai-python](https://github.com/luxonis/depthai-python) - DepthAI Python Library
+* 【2023-08-09】[epsilla-cloud / vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System
+* 【2023-08-09】[RtlDallas / KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
+* 【2023-08-09】[FEX-Emu / FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
+* 【2023-08-09】[Mq-b / Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork) - 卢瑟们的作业展示
 * 【2023-08-07】[SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 * 【2023-08-07】[google / cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 * 【2023-08-03】[triton-inference-server / python_backend](https://github.com/triton-inference-server/python_backend) - Triton backend that enables pre-process, post-processing and other logic to be implemented in Python.
@@ -137,6 +159,9 @@
 
 ## C#
 
+* 【2023-08-09】[Richasy / Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理
+* 【2023-08-09】[icsharpcode / SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+* 【2023-08-09】[rnwood / smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
 * 【2023-08-08】[space-syndicate / space-station-14](https://github.com/space-syndicate/space-station-14) - 🚀Билд русскоязычного сервера Space Station 14
 * 【2023-08-07】[Norbyte / lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
 * 【2023-08-07】[Tyrrrz / LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
@@ -153,6 +178,11 @@
 
 ## Html
 
+* 【2023-08-09】[PacktPublishing / Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP) - Building Low Latency Applications with CPP by Packt Publishing
+* 【2023-08-09】[ckane / CS7038-Malware-Analysis](https://github.com/ckane/CS7038-Malware-Analysis) - Course Repository for University of Cincinnati Malware Analysis Class (CS[567]038)
+* 【2023-08-09】[Azure-Samples / contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript
+* 【2023-08-09】[0dayCTF / reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
+* 【2023-08-09】[shidahuilang / shuyuan](https://github.com/shidahuilang/shuyuan) - 香色闺阁+安卓阅读书源
 * 【2023-08-07】[Architeuthis-Flux / Jumperless](https://github.com/Architeuthis-Flux/Jumperless) - A jumperless breadboard
 * 【2023-08-07】[kwmorris / DnD](https://github.com/kwmorris/DnD) - Kyle's DnD stuff
 * 【2023-08-06】[fkasler / cuddlephish](https://github.com/fkasler/cuddlephish) - Weaponized Browser-in-the-Middle (BitM) for Penetration Testers
@@ -189,6 +219,9 @@
 
 ## Unknown
 
+* 【2023-08-09】[rootusercop / Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
+* 【2023-08-09】[JoeGCoder / Javascript-Crypto-DEX-Front-Running-Bot-v4](https://github.com/JoeGCoder/Javascript-Crypto-DEX-Front-Running-Bot-v4) - Take your trading to the next level with our JavaScript bot that executes Front Running on DEX's. Open-source and profitable, get started now!
+* 【2023-08-09】[OpenGVLab / all-seeing](https://github.com/OpenGVLab/all-seeing) - This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World"
 * 【2023-08-08】[sergiomarotco / Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 * 【2023-08-08】[devanshbatham / Vulnerabilities-Unmasked](https://github.com/devanshbatham/Vulnerabilities-Unmasked) - This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
 * 【2023-08-08】[sefdeer / ads_zuoshou](https://github.com/sefdeer/ads_zuoshou) - 
