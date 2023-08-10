@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-08-10】[huggingface / candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
+* 【2023-08-10】[vercel / commerce](https://github.com/vercel/commerce) - Next.js Commerce
+* 【2023-08-10】[wangdoc / typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
+* 【2023-08-10】[benjamincrozat / benjamincrozat.com](https://github.com/benjamincrozat/benjamincrozat.com) - Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 20K monthly visitors.
+* 【2023-08-10】[shadcn-ui / ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+* 【2023-08-10】[xverse-ai / XVERSE-13B](https://github.com/xverse-ai/XVERSE-13B) - XVERSE-13B: A multilingual large language model developed by XVERSE Technology Inc.
+* 【2023-08-10】[idoavrah / terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI
 * 【2023-08-09】[supabase / postgres_lsp](https://github.com/supabase/postgres_lsp) - A Language Server for Postgres
 * 【2023-08-09】[jamesmurdza / awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 * 【2023-08-09】[AutomaApp / automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
@@ -48,6 +55,7 @@
 
 ## Java
 
+* 【2023-08-10】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on Device Face Detection & Recognition And Alive Detect SDK 。🧒离线版Android人脸识别，动作活体检测，静默活体检测 SDK 封装
 * 【2023-08-08】[amuthansakthivel / TheOneFramework](https://github.com/amuthansakthivel/TheOneFramework) - Web, Mobile and Api Automation using Selenide, Rest Assured, Junit5 and Allure
 * 【2023-08-08】[SpigotMC / BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
 * 【2023-08-08】[google / google-java-format](https://github.com/google/google-java-format) - Reformats Java source code to comply with Google Java Style.
@@ -60,6 +68,9 @@
 
 ## Python
 
+* 【2023-08-10】[modal-labs / devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
+* 【2023-08-10】[lancedb / lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+* 【2023-08-10】[huggingface / safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 * 【2023-08-09】[IDEA-Research / DWPose](https://github.com/IDEA-Research/DWPose) - Official implementation of the paper "Effective Whole-body Pose Estimation with Two-stages Distillation"
 * 【2023-08-09】[xusenlinzy / api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen etc. 开源大模型的统一后端接口
 * 【2023-08-09】[OpenGenerativeAI / GenossGPT](https://github.com/OpenGenerativeAI/GenossGPT) - One API for all LLMs either Private or Public (Anthropic, Llama V2, GPT 3.5/4, Vertex, GPT4ALL, HuggingFace ...)🌈🐂Replace OpenAI GPT with any LLMs in your app with one line.
@@ -93,6 +104,7 @@
 
 ## Javascript
 
+* 【2023-08-10】[infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 * 【2023-08-09】[paradite / frontend-encyclopedia](https://github.com/paradite/frontend-encyclopedia) - Frontend Encyclopedia
 * 【2023-08-09】[MuiseDestiny / style-for-zotero](https://github.com/MuiseDestiny/style-for-zotero) - A Zotero plugin for creating a personal Zotero Style.
 * 【2023-08-08】[layer5io / layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
@@ -116,6 +128,8 @@
 
 ## Go
 
+* 【2023-08-10】[sa7mon / S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
+* 【2023-08-10】[NVIDIA / k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 * 【2023-08-09】[hakluke / hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 * 【2023-08-09】[stellar / go](https://github.com/stellar/go) - Stellar's public monorepo of go code
 * 【2023-08-08】[lxc / incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
@@ -130,6 +144,9 @@
 
 ## C
 
+* 【2023-08-10】[qewer33 / qpaperOS](https://github.com/qewer33/qpaperOS) - Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
+* 【2023-08-10】[infinet / xt_wgobfs](https://github.com/infinet/xt_wgobfs) - Iptables WireGuard obfuscation extension
+* 【2023-08-10】[mario-deluna / php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP.🔋Batteries included (Math Functions, Texture Loaders, etc..)
 * 【2023-08-09】[f0rb1dd3n / Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 * 【2023-08-09】[lucavallin / barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C.
 * 【2023-08-09】[GPUOpen-LibrariesAndSDKs / VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) - Easy to integrate Vulkan memory allocation library
@@ -178,6 +195,7 @@
 
 ## Html
 
+* 【2023-08-10】[rdorrani / PowerApps](https://github.com/rdorrani/PowerApps) - 
 * 【2023-08-09】[PacktPublishing / Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP) - Building Low Latency Applications with CPP by Packt Publishing
 * 【2023-08-09】[ckane / CS7038-Malware-Analysis](https://github.com/ckane/CS7038-Malware-Analysis) - Course Repository for University of Cincinnati Malware Analysis Class (CS[567]038)
 * 【2023-08-09】[Azure-Samples / contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript
@@ -203,6 +221,9 @@
 
 ## Css
 
+* 【2023-08-10】[avenger11 / Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
+* 【2023-08-10】[Consensys / doc.zk-evm](https://github.com/Consensys/doc.zk-evm) - zk-EVM documentation
+* 【2023-08-10】[jaiswaladi246 / Petclinic](https://github.com/jaiswaladi246/Petclinic) - 
 * 【2023-08-08】[bedimcode / responsive-portfolio-website-rian](https://github.com/bedimcode/responsive-portfolio-website-rian) - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 * 【2023-08-07】[stevekinney / name-badges](https://github.com/stevekinney/name-badges) - 
 * 【2023-08-07】[brunasilvaraujo / Login-Form](https://github.com/brunasilvaraujo/Login-Form) - Animated Glassmorphism Login Form using Html & CSS
@@ -219,6 +240,8 @@
 
 ## Unknown
 
+* 【2023-08-10】[RightNightCoder / DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript](https://github.com/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript) - Take your trading to the next level with our JavaScript bot that executes Triangular Arbitrage on DEX's. Open-source and profitable, get started now!
+* 【2023-08-10】[DuckbillGroup / aws-ipv6-gaps](https://github.com/DuckbillGroup/aws-ipv6-gaps) - An ongoing accounting of what AWS's service gaps are in their IPv6 coverage, specifically those that have economic impact.
 * 【2023-08-09】[rootusercop / Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
 * 【2023-08-09】[JoeGCoder / Javascript-Crypto-DEX-Front-Running-Bot-v4](https://github.com/JoeGCoder/Javascript-Crypto-DEX-Front-Running-Bot-v4) - Take your trading to the next level with our JavaScript bot that executes Front Running on DEX's. Open-source and profitable, get started now!
 * 【2023-08-09】[OpenGVLab / all-seeing](https://github.com/OpenGVLab/all-seeing) - This is the official implementation of the paper "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World"
