@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-08-11】[joonspk-research / generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
+* 【2023-08-11】[haoheliu / AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
+* 【2023-08-11】[radix-ui / themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
+* 【2023-08-11】[charlesbel / Microsoft-Rewards-Farmer](https://github.com/charlesbel/Microsoft-Rewards-Farmer) - A simple bot that uses selenium to farm Microsoft Rewards written in Python
 * 【2023-08-10】[huggingface / candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 * 【2023-08-10】[vercel / commerce](https://github.com/vercel/commerce) - Next.js Commerce
 * 【2023-08-10】[wangdoc / typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
@@ -68,6 +72,11 @@
 
 ## Python
 
+* 【2023-08-11】[FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Open-source Embeddings
+* 【2023-08-11】[huggingface / trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
+* 【2023-08-11】[NomaDamas / KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) - 수능 국어 1등급에 도전하는 AI
+* 【2023-08-11】[conan-io / conan-center-index](https://github.com/conan-io/conan-center-index) - Recipes for the ConanCenter repository
+* 【2023-08-11】[morph-labs / rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 * 【2023-08-10】[modal-labs / devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 * 【2023-08-10】[lancedb / lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
 * 【2023-08-10】[huggingface / safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
@@ -104,6 +113,7 @@
 
 ## Javascript
 
+* 【2023-08-11】[avscms / avscms](https://github.com/avscms/avscms) - avscms
 * 【2023-08-10】[infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 * 【2023-08-09】[paradite / frontend-encyclopedia](https://github.com/paradite/frontend-encyclopedia) - Frontend Encyclopedia
 * 【2023-08-09】[MuiseDestiny / style-for-zotero](https://github.com/MuiseDestiny/style-for-zotero) - A Zotero plugin for creating a personal Zotero Style.
@@ -128,6 +138,8 @@
 
 ## Go
 
+* 【2023-08-11】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
+* 【2023-08-11】[openfga / openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 * 【2023-08-10】[sa7mon / S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
 * 【2023-08-10】[NVIDIA / k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 * 【2023-08-09】[hakluke / hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
@@ -144,6 +156,10 @@
 
 ## C
 
+* 【2023-08-11】[flowyroll / downfall](https://github.com/flowyroll/downfall) - 
+* 【2023-08-11】[nakst / gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
+* 【2023-08-11】[Xinyuan-LilyGO / TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
+* 【2023-08-11】[pandax381 / microps](https://github.com/pandax381/microps) - An implementation of a small TCP/IP protocol stack for learning.
 * 【2023-08-10】[qewer33 / qpaperOS](https://github.com/qewer33/qpaperOS) - Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
 * 【2023-08-10】[infinet / xt_wgobfs](https://github.com/infinet/xt_wgobfs) - Iptables WireGuard obfuscation extension
 * 【2023-08-10】[mario-deluna / php-glfw](https://github.com/mario-deluna/php-glfw) - 🪐A fully-featured OpenGL and GLFW extension for PHP.🔋Batteries included (Math Functions, Texture Loaders, etc..)
@@ -163,6 +179,8 @@
 
 ## C++
 
+* 【2023-08-11】[THUDM / AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
+* 【2023-08-11】[sonic-net / sonic-swss](https://github.com/sonic-net/sonic-swss) - SONiC Switch State Service (SwSS)
 * 【2023-08-09】[luxonis / depthai-python](https://github.com/luxonis/depthai-python) - DepthAI Python Library
 * 【2023-08-09】[epsilla-cloud / vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System
 * 【2023-08-09】[RtlDallas / KrakenMask](https://github.com/RtlDallas/KrakenMask) - Sleep obfuscation
@@ -176,6 +194,8 @@
 
 ## C#
 
+* 【2023-08-11】[nsubstitute / NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
+* 【2023-08-11】[ikvmnet / ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 * 【2023-08-09】[Richasy / Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理
 * 【2023-08-09】[icsharpcode / SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 * 【2023-08-09】[rnwood / smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing
@@ -195,6 +215,8 @@
 
 ## Html
 
+* 【2023-08-11】[watson-developer-cloud / assistant-toolkit](https://github.com/watson-developer-cloud/assistant-toolkit) - Toolkit for experimentation with Watson Assistant
+* 【2023-08-11】[Gogh-Co / Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 * 【2023-08-10】[rdorrani / PowerApps](https://github.com/rdorrani/PowerApps) - 
 * 【2023-08-09】[PacktPublishing / Building-Low-Latency-Applications-with-CPP](https://github.com/PacktPublishing/Building-Low-Latency-Applications-with-CPP) - Building Low Latency Applications with CPP by Packt Publishing
 * 【2023-08-09】[ckane / CS7038-Malware-Analysis](https://github.com/ckane/CS7038-Malware-Analysis) - Course Repository for University of Cincinnati Malware Analysis Class (CS[567]038)
@@ -240,6 +262,11 @@
 
 ## Unknown
 
+* 【2023-08-11】[SleepyLakeCoder / Javascript-Crypto-DEX-Front-Running-Bot-Version-4](https://github.com/SleepyLakeCoder/Javascript-Crypto-DEX-Front-Running-Bot-Version-4) - Our open-source JavaScript bot performs Front Running on DEX's, giving you maximum profit potential. Easy to use and effective, start trading smarter.
+* 【2023-08-11】[continuousml / Awesome-Out-Of-Distribution-Detection](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection) - A professionally curated list of papers, tutorials, books, videos, articles and open-source libraries etc for Out-of-distribution detection, robustness, and generalization
+* 【2023-08-11】[esbatmop / MNBVC](https://github.com/esbatmop/MNBVC) - MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
+* 【2023-08-11】[alicangunduz / yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin) - 👋🏻 Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan⭐butonunu kullanabilirsiniz. Sponsorumuz olan @kamp-us çok teşekkürler💖
+* 【2023-08-11】[vaggelis-sudo / SMS-Location-Identification-Attack](https://github.com/vaggelis-sudo/SMS-Location-Identification-Attack) - 
 * 【2023-08-10】[RightNightCoder / DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript](https://github.com/RightNightCoder/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript) - Take your trading to the next level with our JavaScript bot that executes Triangular Arbitrage on DEX's. Open-source and profitable, get started now!
 * 【2023-08-10】[DuckbillGroup / aws-ipv6-gaps](https://github.com/DuckbillGroup/aws-ipv6-gaps) - An ongoing accounting of what AWS's service gaps are in their IPv6 coverage, specifically those that have economic impact.
 * 【2023-08-09】[rootusercop / Free-DevOps-Books-1](https://github.com/rootusercop/Free-DevOps-Books-1) - A curated collection of free DevOps related eBooks
