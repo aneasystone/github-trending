@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-08-12】[clockworklabs / SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+* 【2023-08-12】[hackclub / putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
+* 【2023-08-12】[kognise / arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
+* 【2023-08-12】[t3dotgg / paycheck-extension](https://github.com/t3dotgg/paycheck-extension) - poorly guess how much money a tweet is worth
+* 【2023-08-12】[dvlab-research / LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
+* 【2023-08-12】[zhongsp / TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 * 【2023-08-11】[joonspk-research / generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 * 【2023-08-11】[haoheliu / AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
 * 【2023-08-11】[radix-ui / themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
@@ -72,6 +78,8 @@
 
 ## Python
 
+* 【2023-08-12】[henry-richard7 / Browser-password-stealer](https://github.com/henry-richard7/Browser-password-stealer) - This python program gets all the saved passwords, credit cards and bookmarks from chromium based browsers supports chromium 80 and above!
+* 【2023-08-12】[microsoft / Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) - 
 * 【2023-08-11】[FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Open-source Embeddings
 * 【2023-08-11】[huggingface / trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 * 【2023-08-11】[NomaDamas / KICE_slayer_AI_Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean) - 수능 국어 1등급에 도전하는 AI
@@ -113,6 +121,9 @@
 
 ## Javascript
 
+* 【2023-08-12】[google / typograms](https://github.com/google/typograms) - 
+* 【2023-08-12】[riolubruh / YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes and use cross-server and gif emotes!
+* 【2023-08-12】[buxia97 / RuleApp](https://github.com/buxia97/RuleApp) - 开源多功能社区程序APP客户端
 * 【2023-08-11】[avscms / avscms](https://github.com/avscms/avscms) - avscms
 * 【2023-08-10】[infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 * 【2023-08-09】[paradite / frontend-encyclopedia](https://github.com/paradite/frontend-encyclopedia) - Frontend Encyclopedia
@@ -138,6 +149,7 @@
 
 ## Go
 
+* 【2023-08-12】[zknill / sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
 * 【2023-08-11】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 * 【2023-08-11】[openfga / openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 * 【2023-08-10】[sa7mon / S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for misconfigured S3 buckets across S3-compatible APIs!
@@ -156,6 +168,8 @@
 
 ## C
 
+* 【2023-08-12】[lico-n / ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
+* 【2023-08-12】[jadijadi / Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices) - A collection of programming exercises to help you practice your new language
 * 【2023-08-11】[flowyroll / downfall](https://github.com/flowyroll/downfall) - 
 * 【2023-08-11】[nakst / gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 * 【2023-08-11】[Xinyuan-LilyGO / TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) - 
@@ -179,6 +193,8 @@
 
 ## C++
 
+* 【2023-08-12】[JPCERTCC / YAMA](https://github.com/JPCERTCC/YAMA) - Yet Another Memory Analyzer for malware detection
+* 【2023-08-12】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
 * 【2023-08-11】[THUDM / AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 * 【2023-08-11】[sonic-net / sonic-swss](https://github.com/sonic-net/sonic-swss) - SONiC Switch State Service (SwSS)
 * 【2023-08-09】[luxonis / depthai-python](https://github.com/luxonis/depthai-python) - DepthAI Python Library
@@ -194,6 +210,8 @@
 
 ## C#
 
+* 【2023-08-12】[obfuscar / obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
+* 【2023-08-12】[shalzuth / BG3Cam](https://github.com/shalzuth/BG3Cam) - Baldur's Gate 3 camera mod to zoom and tilt the camera
 * 【2023-08-11】[nsubstitute / NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
 * 【2023-08-11】[ikvmnet / ikvm](https://github.com/ikvmnet/ikvm) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET
 * 【2023-08-09】[Richasy / Bili.Copilot](https://github.com/Richasy/Bili.Copilot) - 哔哩哔哩用户的个人助理
@@ -215,6 +233,8 @@
 
 ## Html
 
+* 【2023-08-12】[b2git / WPS-0DAY-20230809](https://github.com/b2git/WPS-0DAY-20230809) - WPS-Office 1-Click RCE exp 202308091546
+* 【2023-08-12】[mspnp / AzureNamingTool](https://github.com/mspnp/AzureNamingTool) - The Azure Naming Tool is a .NET 7 Blazor application, with a RESTful API. The UI consists of several pages to allow the configuration and generation of Azure Resource names. The API provides a programmatic interface for the functionality.
 * 【2023-08-11】[watson-developer-cloud / assistant-toolkit](https://github.com/watson-developer-cloud/assistant-toolkit) - Toolkit for experimentation with Watson Assistant
 * 【2023-08-11】[Gogh-Co / Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 * 【2023-08-10】[rdorrani / PowerApps](https://github.com/rdorrani/PowerApps) - 
@@ -243,6 +263,13 @@
 
 ## Css
 
+* 【2023-08-12】[codingstella / projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
+* 【2023-08-12】[gwcx / imgdalao](https://github.com/gwcx/imgdalao) - 大佬图床
+* 【2023-08-12】[edic-nus / Basic-HTML-CSS-and-JS-Docs](https://github.com/edic-nus/Basic-HTML-CSS-and-JS-Docs) - 
+* 【2023-08-12】[silviosnjr / UltimoPapoFormativo](https://github.com/silviosnjr/UltimoPapoFormativo) - Último papo formativo
+* 【2023-08-12】[OpenClassrooms-Student-Center / Print-it-JS](https://github.com/OpenClassrooms-Student-Center/Print-it-JS) - Projet découverte JS
+* 【2023-08-12】[xiaoxuan6 / chatgpt-server](https://github.com/xiaoxuan6/chatgpt-server) - ChatGPT 在线免费网站
+* 【2023-08-12】[Neikon / Fox11](https://github.com/Neikon/Fox11) - 
 * 【2023-08-10】[avenger11 / Apple-HomePlay](https://github.com/avenger11/Apple-HomePlay) - Custom Apple theme and configuration for Home Assistant
 * 【2023-08-10】[Consensys / doc.zk-evm](https://github.com/Consensys/doc.zk-evm) - zk-EVM documentation
 * 【2023-08-10】[jaiswaladi246 / Petclinic](https://github.com/jaiswaladi246/Petclinic) - 
@@ -262,6 +289,9 @@
 
 ## Unknown
 
+* 【2023-08-12】[ChenCrazyHome / JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX](https://github.com/ChenCrazyHome/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX) - Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and easy to use, start trading smarter.
+* 【2023-08-12】[ethereum-optimism / ecosystem-contributions](https://github.com/ethereum-optimism/ecosystem-contributions) - Find ways to contribute to the Optimism Collective
+* 【2023-08-12】[coreb1t / awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
 * 【2023-08-11】[SleepyLakeCoder / Javascript-Crypto-DEX-Front-Running-Bot-Version-4](https://github.com/SleepyLakeCoder/Javascript-Crypto-DEX-Front-Running-Bot-Version-4) - Our open-source JavaScript bot performs Front Running on DEX's, giving you maximum profit potential. Easy to use and effective, start trading smarter.
 * 【2023-08-11】[continuousml / Awesome-Out-Of-Distribution-Detection](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection) - A professionally curated list of papers, tutorials, books, videos, articles and open-source libraries etc for Out-of-distribution detection, robustness, and generalization
 * 【2023-08-11】[esbatmop / MNBVC](https://github.com/esbatmop/MNBVC) - MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
