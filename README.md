@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-08-13】[mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
+* 【2023-08-13】[dominant-strategies / go-quai](https://github.com/dominant-strategies/go-quai) - Official Go Implementation of the Quai Network
+* 【2023-08-13】[nammayatri / nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+* 【2023-08-13】[RonaldJEN / FinanceChatGLM](https://github.com/RonaldJEN/FinanceChatGLM) - SMP 2023 ChatGLM金融大模型挑战赛 60 分baseline思路介绍
 * 【2023-08-12】[clockworklabs / SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 * 【2023-08-12】[hackclub / putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu) - A technical explainer by @kognise of how your computer runs programs, from start to finish.
 * 【2023-08-12】[kognise / arpchat](https://github.com/kognise/arpchat) - Answering the question nobody asked: what if you wanted to text your friends using only ARP?
@@ -65,6 +69,8 @@
 
 ## Java
 
+* 【2023-08-13】[Sinytra / Connector](https://github.com/Sinytra/Connector) - A compatibility layer that allows running Fabric mods on MinecraftForge
+* 【2023-08-13】[power721 / alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search. https://t.me/alist_tvbox_group
 * 【2023-08-10】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on Device Face Detection & Recognition And Alive Detect SDK 。🧒离线版Android人脸识别，动作活体检测，静默活体检测 SDK 封装
 * 【2023-08-08】[amuthansakthivel / TheOneFramework](https://github.com/amuthansakthivel/TheOneFramework) - Web, Mobile and Api Automation using Selenide, Rest Assured, Junit5 and Allure
 * 【2023-08-08】[SpigotMC / BungeeCord](https://github.com/SpigotMC/BungeeCord) - BungeeCord, the 6th in a generation of server portal suites. Efficiently proxies and maintains connections and transport between multiple Minecraft servers.
@@ -78,6 +84,10 @@
 
 ## Python
 
+* 【2023-08-13】[AzatAI / cs_books](https://github.com/AzatAI/cs_books) - Computer science books Recommended by AzatAI. (Education ONLY)
+* 【2023-08-13】[infobyte / emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
+* 【2023-08-13】[autogluon / autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
+* 【2023-08-13】[mmmwhy / algorithm_code](https://github.com/mmmwhy/algorithm_code) - leetcode 日常刷题
 * 【2023-08-12】[henry-richard7 / Browser-password-stealer](https://github.com/henry-richard7/Browser-password-stealer) - This python program gets all the saved passwords, credit cards and bookmarks from chromium based browsers supports chromium 80 and above!
 * 【2023-08-12】[microsoft / Llama-2-Onnx](https://github.com/microsoft/Llama-2-Onnx) - 
 * 【2023-08-11】[FlagOpen / FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Open-source Embeddings
@@ -121,6 +131,8 @@
 
 ## Javascript
 
+* 【2023-08-13】[Devalphaspace / animated_portfolio_website](https://github.com/Devalphaspace/animated_portfolio_website) - 
+* 【2023-08-13】[xiaomaoJT / QxScript](https://github.com/xiaomaoJT/QxScript) - QuantumultX 规则学习记录；请不要fork项目!!!
 * 【2023-08-12】[google / typograms](https://github.com/google/typograms) - 
 * 【2023-08-12】[riolubruh / YABDP4Nitro](https://github.com/riolubruh/YABDP4Nitro) - Yet Another BetterDiscord Plugin for Nitro features. Unlock screensharing modes and use cross-server and gif emotes!
 * 【2023-08-12】[buxia97 / RuleApp](https://github.com/buxia97/RuleApp) - 开源多功能社区程序APP客户端
@@ -149,6 +161,7 @@
 
 ## Go
 
+* 【2023-08-13】[Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 * 【2023-08-12】[zknill / sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
 * 【2023-08-11】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
 * 【2023-08-11】[openfga / openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
@@ -168,6 +181,10 @@
 
 ## C
 
+* 【2023-08-13】[id-Software / quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) - 
+* 【2023-08-13】[phoboslab / wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
+* 【2023-08-13】[Water-Melon / Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous high-performance C framework, including a lot of components and a new coroutine script language Melang.
+* 【2023-08-13】[id-Software / Quake](https://github.com/id-Software/Quake) - Quake GPL Source Release
 * 【2023-08-12】[lico-n / ZygiskFrida](https://github.com/lico-n/ZygiskFrida) - Injects frida gadget using zygisk to bypass anti-tamper checks.
 * 【2023-08-12】[jadijadi / Practical-Programming-Practices](https://github.com/jadijadi/Practical-Programming-Practices) - A collection of programming exercises to help you practice your new language
 * 【2023-08-11】[flowyroll / downfall](https://github.com/flowyroll/downfall) - 
@@ -193,6 +210,7 @@
 
 ## C++
 
+* 【2023-08-13】[laverdet / isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 * 【2023-08-12】[JPCERTCC / YAMA](https://github.com/JPCERTCC/YAMA) - Yet Another Memory Analyzer for malware detection
 * 【2023-08-12】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
 * 【2023-08-11】[THUDM / AgentBench](https://github.com/THUDM/AgentBench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
@@ -233,6 +251,8 @@
 
 ## Html
 
+* 【2023-08-13】[cncf / tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
+* 【2023-08-13】[xperiments / p1touch](https://github.com/xperiments/p1touch) - Bambulab P1 Series Touch Screen
 * 【2023-08-12】[b2git / WPS-0DAY-20230809](https://github.com/b2git/WPS-0DAY-20230809) - WPS-Office 1-Click RCE exp 202308091546
 * 【2023-08-12】[mspnp / AzureNamingTool](https://github.com/mspnp/AzureNamingTool) - The Azure Naming Tool is a .NET 7 Blazor application, with a RESTful API. The UI consists of several pages to allow the configuration and generation of Azure Resource names. The API provides a programmatic interface for the functionality.
 * 【2023-08-11】[watson-developer-cloud / assistant-toolkit](https://github.com/watson-developer-cloud/assistant-toolkit) - Toolkit for experimentation with Watson Assistant
@@ -263,6 +283,8 @@
 
 ## Css
 
+* 【2023-08-13】[streetwriters / notesnook-themes](https://github.com/streetwriters/notesnook-themes) - 
+* 【2023-08-13】[CC6-Pancake / portfolio](https://github.com/CC6-Pancake/portfolio) - 
 * 【2023-08-12】[codingstella / projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
 * 【2023-08-12】[gwcx / imgdalao](https://github.com/gwcx/imgdalao) - 大佬图床
 * 【2023-08-12】[edic-nus / Basic-HTML-CSS-and-JS-Docs](https://github.com/edic-nus/Basic-HTML-CSS-and-JS-Docs) - 
@@ -289,6 +311,10 @@
 
 ## Unknown
 
+* 【2023-08-13】[Audio-AGI / AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
+* 【2023-08-13】[Bo0oM / fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
+* 【2023-08-13】[sAjibuu / Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - File upload restrictions bypass, by using different bug bounty techniques covered in Hacktricks.
+* 【2023-08-13】[TommyZihao / Awesome](https://github.com/TommyZihao/Awesome) - Github Trending榜高赞与趣味项目速览。主理人：同济子豪兄
 * 【2023-08-12】[ChenCrazyHome / JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX](https://github.com/ChenCrazyHome/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEX) - Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and easy to use, start trading smarter.
 * 【2023-08-12】[ethereum-optimism / ecosystem-contributions](https://github.com/ethereum-optimism/ecosystem-contributions) - Find ways to contribute to the Optimism Collective
 * 【2023-08-12】[coreb1t / awesome-pentest-cheat-sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of the cheat sheets useful for pentesting
