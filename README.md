@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-14】[modelscope / facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
+* 【2023-08-14】[DeBankDeFi / DeBankChain](https://github.com/DeBankDeFi/DeBankChain) - 
+* 【2023-08-14】[YBIFoundation / Fundamental](https://github.com/YBIFoundation/Fundamental) - Jupyter Notebook
 * 【2023-08-13】[mshumer / gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - 
 * 【2023-08-13】[dominant-strategies / go-quai](https://github.com/dominant-strategies/go-quai) - Official Go Implementation of the Quai Network
 * 【2023-08-13】[nammayatri / nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
@@ -84,6 +87,9 @@
 
 ## Python
 
+* 【2023-08-14】[sybrenjansen / mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
+* 【2023-08-14】[MiuLab / Taiwan-LLaMa](https://github.com/MiuLab/Taiwan-LLaMa) - Traditional Mandarin LLMs for Taiwan
+* 【2023-08-14】[Jack-Cherish / dsi](https://github.com/Jack-Cherish/dsi) - Do Something Interesting缩写，做一些有趣的事
 * 【2023-08-13】[AzatAI / cs_books](https://github.com/AzatAI/cs_books) - Computer science books Recommended by AzatAI. (Education ONLY)
 * 【2023-08-13】[infobyte / emploleaks](https://github.com/infobyte/emploleaks) - An OSINT tool that helps detect members of a company with leaked credentials
 * 【2023-08-13】[autogluon / autogluon](https://github.com/autogluon/autogluon) - AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data
@@ -131,6 +137,8 @@
 
 ## Javascript
 
+* 【2023-08-14】[tangyoha / telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+* 【2023-08-14】[cristianmihai01 / ethan-portfolio-starter](https://github.com/cristianmihai01/ethan-portfolio-starter) - 
 * 【2023-08-13】[Devalphaspace / animated_portfolio_website](https://github.com/Devalphaspace/animated_portfolio_website) - 
 * 【2023-08-13】[xiaomaoJT / QxScript](https://github.com/xiaomaoJT/QxScript) - QuantumultX 规则学习记录；请不要fork项目!!!
 * 【2023-08-12】[google / typograms](https://github.com/google/typograms) - 
@@ -161,6 +169,7 @@
 
 ## Go
 
+* 【2023-08-14】[hakaioffsec / navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 * 【2023-08-13】[Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 * 【2023-08-12】[zknill / sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
 * 【2023-08-11】[SpecterOps / BloodHound](https://github.com/SpecterOps/BloodHound) - Six Degrees of Domain Admin
@@ -181,6 +190,7 @@
 
 ## C
 
+* 【2023-08-14】[id-Software / Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 * 【2023-08-13】[id-Software / quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) - 
 * 【2023-08-13】[phoboslab / wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
 * 【2023-08-13】[Water-Melon / Melon](https://github.com/Water-Melon/Melon) - A generic cross-platform asynchronous high-performance C framework, including a lot of components and a new coroutine script language Melang.
@@ -210,6 +220,7 @@
 
 ## C++
 
+* 【2023-08-14】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 * 【2023-08-13】[laverdet / isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 * 【2023-08-12】[JPCERTCC / YAMA](https://github.com/JPCERTCC/YAMA) - Yet Another Memory Analyzer for malware detection
 * 【2023-08-12】[googleapis / google-cloud-cpp](https://github.com/googleapis/google-cloud-cpp) - C++ Client Libraries for Google Cloud Services
@@ -228,6 +239,8 @@
 
 ## C#
 
+* 【2023-08-14】[RoundedTB / RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+* 【2023-08-14】[deadspyexx / airdrop-hunt-bot](https://github.com/deadspyexx/airdrop-hunt-bot) - Automated coin transfers, token swaps, token transfers, and logical transaction routes provide an exceptional solution for achieving high transaction volumes on Ethereum Virtual Machine (EVM) chains. This comprehensive system allows for seamless and efficient movement of coins and tokens, enabling users to conduct large-scale transactions
 * 【2023-08-12】[obfuscar / obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
 * 【2023-08-12】[shalzuth / BG3Cam](https://github.com/shalzuth/BG3Cam) - Baldur's Gate 3 camera mod to zoom and tilt the camera
 * 【2023-08-11】[nsubstitute / NSubstitute](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking libraries.
@@ -283,6 +296,7 @@
 
 ## Css
 
+* 【2023-08-14】[nikohoffren / fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
 * 【2023-08-13】[streetwriters / notesnook-themes](https://github.com/streetwriters/notesnook-themes) - 
 * 【2023-08-13】[CC6-Pancake / portfolio](https://github.com/CC6-Pancake/portfolio) - 
 * 【2023-08-12】[codingstella / projects](https://github.com/codingstella/projects) - Source Code of all projects that I upload on Instagram
@@ -311,6 +325,8 @@
 
 ## Unknown
 
+* 【2023-08-14】[XiaoMi / MiLM-6B](https://github.com/XiaoMi/MiLM-6B) - 
+* 【2023-08-14】[Thinkright20 / Profile-Badges](https://github.com/Thinkright20/Profile-Badges) - 🛡️A list of all profile badges and how to obtain each one🛡️
 * 【2023-08-13】[Audio-AGI / AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
 * 【2023-08-13】[Bo0oM / fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 * 【2023-08-13】[sAjibuu / Upload_Bypass](https://github.com/sAjibuu/Upload_Bypass) - File upload restrictions bypass, by using different bug bounty techniques covered in Hacktricks.
