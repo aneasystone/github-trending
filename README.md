@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-15】[lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+* 【2023-08-15】[NVlabs / neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
+* 【2023-08-15】[facebookincubator / TTPForge](https://github.com/facebookincubator/TTPForge) - The TTPForge is a Framework created to facilitate the development, automation, and execution of Tactics, Techniques, and Procedures (TTPs).
 * 【2023-08-14】[modelscope / facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 * 【2023-08-14】[DeBankDeFi / DeBankChain](https://github.com/DeBankDeFi/DeBankChain) - 
 * 【2023-08-14】[YBIFoundation / Fundamental](https://github.com/YBIFoundation/Fundamental) - Jupyter Notebook
@@ -72,6 +75,7 @@
 
 ## Java
 
+* 【2023-08-15】[apache / storm](https://github.com/apache/storm) - Apache Storm
 * 【2023-08-13】[Sinytra / Connector](https://github.com/Sinytra/Connector) - A compatibility layer that allows running Fabric mods on MinecraftForge
 * 【2023-08-13】[power721 / alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search. https://t.me/alist_tvbox_group
 * 【2023-08-10】[AnyLifeZLB / FaceVerificationSDK](https://github.com/AnyLifeZLB/FaceVerificationSDK) - Android on Device Face Detection & Recognition And Alive Detect SDK 。🧒离线版Android人脸识别，动作活体检测，静默活体检测 SDK 封装
@@ -87,6 +91,7 @@
 
 ## Python
 
+* 【2023-08-15】[SeargeDP / SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) - Custom nodes and workflows for SDXL in ComfyUI
 * 【2023-08-14】[sybrenjansen / mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 * 【2023-08-14】[MiuLab / Taiwan-LLaMa](https://github.com/MiuLab/Taiwan-LLaMa) - Traditional Mandarin LLMs for Taiwan
 * 【2023-08-14】[Jack-Cherish / dsi](https://github.com/Jack-Cherish/dsi) - Do Something Interesting缩写，做一些有趣的事
@@ -137,6 +142,8 @@
 
 ## Javascript
 
+* 【2023-08-15】[byt3bl33d3r / SpamChannel](https://github.com/byt3bl33d3r/SpamChannel) - Spoof emails from any of the +2 Million domains using MailChannels (DEFCON 31 Talk)
+* 【2023-08-15】[Edwardsoen / Leetcode-Premium-Unlocker](https://github.com/Edwardsoen/Leetcode-Premium-Unlocker) - 
 * 【2023-08-14】[tangyoha / telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 * 【2023-08-14】[cristianmihai01 / ethan-portfolio-starter](https://github.com/cristianmihai01/ethan-portfolio-starter) - 
 * 【2023-08-13】[Devalphaspace / animated_portfolio_website](https://github.com/Devalphaspace/animated_portfolio_website) - 
@@ -190,6 +197,8 @@
 
 ## C
 
+* 【2023-08-15】[VirtualAlllocEx / DEFCON-31-Syscalls-Workshop](https://github.com/VirtualAlllocEx/DEFCON-31-Syscalls-Workshop) - Contains all the material from the DEF CON 31 workshop "(In)direct Syscalls: A Journey from High to Low".
+* 【2023-08-15】[id-Software / Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
 * 【2023-08-14】[id-Software / Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 * 【2023-08-13】[id-Software / quake2-rerelease-dll](https://github.com/id-Software/quake2-rerelease-dll) - 
 * 【2023-08-13】[phoboslab / wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
@@ -264,6 +273,7 @@
 
 ## Html
 
+* 【2023-08-15】[x-dr / telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 * 【2023-08-13】[cncf / tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 * 【2023-08-13】[xperiments / p1touch](https://github.com/xperiments/p1touch) - Bambulab P1 Series Touch Screen
 * 【2023-08-12】[b2git / WPS-0DAY-20230809](https://github.com/b2git/WPS-0DAY-20230809) - WPS-Office 1-Click RCE exp 202308091546
@@ -296,6 +306,10 @@
 
 ## Css
 
+* 【2023-08-15】[google / dfiq](https://github.com/google/dfiq) - DFIQ is a collection of investigative questions and the approaches for answering them
+* 【2023-08-15】[Rainbell129 / Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
+* 【2023-08-15】[mehedirm6244 / Miserable_Xfce](https://github.com/mehedirm6244/Miserable_Xfce) - My miserable dotfiles for Xfce
+* 【2023-08-15】[VedantTarale / SiliconMaze2023-GitTask](https://github.com/VedantTarale/SiliconMaze2023-GitTask) - 
 * 【2023-08-14】[nikohoffren / fork-commit-merge](https://github.com/nikohoffren/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
 * 【2023-08-13】[streetwriters / notesnook-themes](https://github.com/streetwriters/notesnook-themes) - 
 * 【2023-08-13】[CC6-Pancake / portfolio](https://github.com/CC6-Pancake/portfolio) - 
@@ -325,6 +339,10 @@
 
 ## Unknown
 
+* 【2023-08-15】[ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
+* 【2023-08-15】[onhexgroup / Conferences](https://github.com/onhexgroup/Conferences) - Conference slides
+* 【2023-08-15】[ibaiw / 2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~
+* 【2023-08-15】[HuskyDG / magisk-files](https://github.com/HuskyDG/magisk-files) - 
 * 【2023-08-14】[XiaoMi / MiLM-6B](https://github.com/XiaoMi/MiLM-6B) - 
 * 【2023-08-14】[Thinkright20 / Profile-Badges](https://github.com/Thinkright20/Profile-Badges) - 🛡️A list of all profile badges and how to obtain each one🛡️
 * 【2023-08-13】[Audio-AGI / AudioSep](https://github.com/Audio-AGI/AudioSep) - Official implementation of "Separate Anything You Describe"
