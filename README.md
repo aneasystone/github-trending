@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-08-16】[llSourcell / DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+* 【2023-08-16】[chatchat-space / Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答
 * 【2023-08-15】[lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 * 【2023-08-15】[NVlabs / neuralangelo](https://github.com/NVlabs/neuralangelo) - Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
 * 【2023-08-15】[facebookincubator / TTPForge](https://github.com/facebookincubator/TTPForge) - The TTPForge is a Framework created to facilitate the development, automation, and execution of Tactics, Techniques, and Procedures (TTPs).
@@ -91,6 +93,8 @@
 
 ## Python
 
+* 【2023-08-16】[QiuChenlyOpenSource / QQFlacMusicDownloader](https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载
+* 【2023-08-16】[spandanb / learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch.
 * 【2023-08-15】[SeargeDP / SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) - Custom nodes and workflows for SDXL in ComfyUI
 * 【2023-08-14】[sybrenjansen / mpire](https://github.com/sybrenjansen/mpire) - A Python package for easy multiprocessing, but faster than multiprocessing
 * 【2023-08-14】[MiuLab / Taiwan-LLaMa](https://github.com/MiuLab/Taiwan-LLaMa) - Traditional Mandarin LLMs for Taiwan
@@ -197,6 +201,7 @@
 
 ## C
 
+* 【2023-08-16】[fenwii / C](https://github.com/fenwii/C) - 伴你技术入门系列，致力于用最简单高效的工程化方式学习编程，采用Flowgorithm流程图交互式图形软件实现，官方支持25种语言，3种伪代码，C语言模版为个人修改添加，支持C语言绝大多数基本功能，除了学习C，还可以学习C++，Java, Python等等
 * 【2023-08-15】[VirtualAlllocEx / DEFCON-31-Syscalls-Workshop](https://github.com/VirtualAlllocEx/DEFCON-31-Syscalls-Workshop) - Contains all the material from the DEF CON 31 workshop "(In)direct Syscalls: A Journey from High to Low".
 * 【2023-08-15】[id-Software / Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
 * 【2023-08-14】[id-Software / Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
@@ -229,6 +234,8 @@
 
 ## C++
 
+* 【2023-08-16】[chaitin / safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+* 【2023-08-16】[JerryAZR / InstaOrder](https://github.com/JerryAZR/InstaOrder) - Place order instantly when online shopping - 快速下单小助手
 * 【2023-08-14】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 * 【2023-08-13】[laverdet / isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs
 * 【2023-08-12】[JPCERTCC / YAMA](https://github.com/JPCERTCC/YAMA) - Yet Another Memory Analyzer for malware detection
@@ -248,6 +255,7 @@
 
 ## C#
 
+* 【2023-08-16】[open-telemetry / opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 * 【2023-08-14】[RoundedTB / RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 * 【2023-08-14】[deadspyexx / airdrop-hunt-bot](https://github.com/deadspyexx/airdrop-hunt-bot) - Automated coin transfers, token swaps, token transfers, and logical transaction routes provide an exceptional solution for achieving high transaction volumes on Ethereum Virtual Machine (EVM) chains. This comprehensive system allows for seamless and efficient movement of coins and tokens, enabling users to conduct large-scale transactions
 * 【2023-08-12】[obfuscar / obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies
@@ -273,6 +281,7 @@
 
 ## Html
 
+* 【2023-08-16】[meichthys / foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 * 【2023-08-15】[x-dr / telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 * 【2023-08-13】[cncf / tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
 * 【2023-08-13】[xperiments / p1touch](https://github.com/xperiments/p1touch) - Bambulab P1 Series Touch Screen
@@ -306,6 +315,9 @@
 
 ## Css
 
+* 【2023-08-16】[GuangLun2000 / GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io) - Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+* 【2023-08-16】[derekeder / csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - 🔽Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
+* 【2023-08-16】[caris-events / baka-invade](https://github.com/caris-events/baka-invade) - 👾only baka invades the others.
 * 【2023-08-15】[google / dfiq](https://github.com/google/dfiq) - DFIQ is a collection of investigative questions and the approaches for answering them
 * 【2023-08-15】[Rainbell129 / Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 * 【2023-08-15】[mehedirm6244 / Miserable_Xfce](https://github.com/mehedirm6244/Miserable_Xfce) - My miserable dotfiles for Xfce
@@ -339,6 +351,10 @@
 
 ## Unknown
 
+* 【2023-08-16】[jhuangtw / xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
+* 【2023-08-16】[RonPlusTammy / DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript](https://github.com/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript) - Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX's for easy profits. Open-source and reliable, start using it today!
+* 【2023-08-16】[AabyssZG / WebShell-Bypass-Guide](https://github.com/AabyssZG/WebShell-Bypass-Guide) - 从零学习Webshell免杀手册
+* 【2023-08-16】[kakathic / YT-AT](https://github.com/kakathic/YT-AT) - Tool to build YouTube ReVanced online automatically.
 * 【2023-08-15】[ProfSynapse / Synapse_CoR](https://github.com/ProfSynapse/Synapse_CoR) - 
 * 【2023-08-15】[onhexgroup / Conferences](https://github.com/onhexgroup/Conferences) - Conference slides
 * 【2023-08-15】[ibaiw / 2023Hvv](https://github.com/ibaiw/2023Hvv) - 2023 HVV情报速递~
