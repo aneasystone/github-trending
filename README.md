@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-08-17】[normal-computing / outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
+* 【2023-08-17】[DroidKaigi / conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - 
+* 【2023-08-17】[dnakov / little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor other extensions' network calls
+* 【2023-08-17】[Dicklesworthstone / llama_embeddings_fastapi_service](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service) - 
+* 【2023-08-17】[EranBoudjnah / CleanArchitectureForAndroid](https://github.com/EranBoudjnah/CleanArchitectureForAndroid) - Clean Architecture for Android - a sample project
+* 【2023-08-17】[zouzhibin / vue-admin-perfect](https://github.com/zouzhibin/vue-admin-perfect) - 系统基于vite+vue3+pinia+element-plus+ts后台管理系统、一款开箱即用的 Vue 中后台管理系统框架， 兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统
 * 【2023-08-16】[llSourcell / DoctorGPT](https://github.com/llSourcell/DoctorGPT) - DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 * 【2023-08-16】[chatchat-space / Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) - Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain ｜ 基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答
 * 【2023-08-15】[lllyasviel / Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -93,6 +99,8 @@
 
 ## Python
 
+* 【2023-08-17】[docker / docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+* 【2023-08-17】[plbrault / youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 * 【2023-08-16】[QiuChenlyOpenSource / QQFlacMusicDownloader](https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载
 * 【2023-08-16】[spandanb / learndb-py](https://github.com/spandanb/learndb-py) - Learn database internals by implementing it from scratch.
 * 【2023-08-15】[SeargeDP / SeargeSDXL](https://github.com/SeargeDP/SeargeSDXL) - Custom nodes and workflows for SDXL in ComfyUI
@@ -146,6 +154,10 @@
 
 ## Javascript
 
+* 【2023-08-17】[jamiewilson / form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
+* 【2023-08-17】[iGaoWei / BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
+* 【2023-08-17】[hjdhnx / dr_py](https://github.com/hjdhnx/dr_py) - A webServer convert web and x5 movie sites to cms api data
+* 【2023-08-17】[josdejong / mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 * 【2023-08-15】[byt3bl33d3r / SpamChannel](https://github.com/byt3bl33d3r/SpamChannel) - Spoof emails from any of the +2 Million domains using MailChannels (DEFCON 31 Talk)
 * 【2023-08-15】[Edwardsoen / Leetcode-Premium-Unlocker](https://github.com/Edwardsoen/Leetcode-Premium-Unlocker) - 
 * 【2023-08-14】[tangyoha / telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
@@ -180,6 +192,7 @@
 
 ## Go
 
+* 【2023-08-17】[Jinnrry / PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 * 【2023-08-14】[hakaioffsec / navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 * 【2023-08-13】[Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
 * 【2023-08-12】[zknill / sqledge](https://github.com/zknill/sqledge) - Replicate postgres to SQLite on the edge
@@ -201,6 +214,8 @@
 
 ## C
 
+* 【2023-08-17】[deepinstinct / NoFilter](https://github.com/deepinstinct/NoFilter) - 
+* 【2023-08-17】[leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 * 【2023-08-16】[fenwii / C](https://github.com/fenwii/C) - 伴你技术入门系列，致力于用最简单高效的工程化方式学习编程，采用Flowgorithm流程图交互式图形软件实现，官方支持25种语言，3种伪代码，C语言模版为个人修改添加，支持C语言绝大多数基本功能，除了学习C，还可以学习C++，Java, Python等等
 * 【2023-08-15】[VirtualAlllocEx / DEFCON-31-Syscalls-Workshop](https://github.com/VirtualAlllocEx/DEFCON-31-Syscalls-Workshop) - Contains all the material from the DEF CON 31 workshop "(In)direct Syscalls: A Journey from High to Low".
 * 【2023-08-15】[id-Software / Quake-2](https://github.com/id-Software/Quake-2) - Quake 2 GPL Source Release
@@ -255,6 +270,7 @@
 
 ## C#
 
+* 【2023-08-17】[ardalis / ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
 * 【2023-08-16】[open-telemetry / opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 * 【2023-08-14】[RoundedTB / RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
 * 【2023-08-14】[deadspyexx / airdrop-hunt-bot](https://github.com/deadspyexx/airdrop-hunt-bot) - Automated coin transfers, token swaps, token transfers, and logical transaction routes provide an exceptional solution for achieving high transaction volumes on Ethereum Virtual Machine (EVM) chains. This comprehensive system allows for seamless and efficient movement of coins and tokens, enabling users to conduct large-scale transactions
@@ -281,6 +297,7 @@
 
 ## Html
 
+* 【2023-08-17】[opentffoundation / manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
 * 【2023-08-16】[meichthys / foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 * 【2023-08-15】[x-dr / telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 * 【2023-08-13】[cncf / tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!
@@ -315,6 +332,9 @@
 
 ## Css
 
+* 【2023-08-17】[csfive / composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🚧CS61A 教材《Composing Programs》即《计算机程序的构造与解释》Python 版本的中文翻译
+* 【2023-08-17】[twilson63 / html2haml](https://github.com/twilson63/html2haml) - Convert HTML Snippets to Haml
+* 【2023-08-17】[boolean-uk / js-dom-greengrocers](https://github.com/boolean-uk/js-dom-greengrocers) - 
 * 【2023-08-16】[GuangLun2000 / GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io) - Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 * 【2023-08-16】[derekeder / csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - 🔽Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
 * 【2023-08-16】[caris-events / baka-invade](https://github.com/caris-events/baka-invade) - 👾only baka invades the others.
@@ -351,6 +371,10 @@
 
 ## Unknown
 
+* 【2023-08-17】[seudonam / open-college-courses](https://github.com/seudonam/open-college-courses) - 😄Courses with open lecture notes and assignments. DO NOT pull requests.
+* 【2023-08-17】[PicPay / picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
+* 【2023-08-17】[dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅Curated list of resources for college students
+* 【2023-08-17】[phil-barrett / PicoCNC](https://github.com/phil-barrett/PicoCNC) - Raspberry Pi Pico based grblHAL Controller
 * 【2023-08-16】[jhuangtw / xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 * 【2023-08-16】[RonPlusTammy / DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript](https://github.com/RonPlusTammy/DEX-Triangular-Arbitrage-Bot-V4-using-pure-Javascript) - Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX's for easy profits. Open-source and reliable, start using it today!
 * 【2023-08-16】[AabyssZG / WebShell-Bypass-Guide](https://github.com/AabyssZG/WebShell-Bypass-Guide) - 从零学习Webshell免杀手册
