@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-08-18】[a16z-infra / ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+* 【2023-08-18】[varunshenoy / opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI👨‍🎨
 * 【2023-08-17】[normal-computing / outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
 * 【2023-08-17】[DroidKaigi / conference-app-2023](https://github.com/DroidKaigi/conference-app-2023) - 
 * 【2023-08-17】[dnakov / little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor other extensions' network calls
@@ -154,6 +156,8 @@
 
 ## Javascript
 
+* 【2023-08-18】[ishtms / learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) - Master Nodejs and backend development by creating a backend web framework from scratch.
+* 【2023-08-18】[sidorares / node-mysql2](https://github.com/sidorares/node-mysql2) - ⚡fast mysqljs/mysql compatible mysql driver for node.js
 * 【2023-08-17】[jamiewilson / form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
 * 【2023-08-17】[iGaoWei / BigDataView](https://github.com/iGaoWei/BigDataView) - 100+套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中
 * 【2023-08-17】[hjdhnx / dr_py](https://github.com/hjdhnx/dr_py) - A webServer convert web and x5 movie sites to cms api data
@@ -214,6 +218,7 @@
 
 ## C
 
+* 【2023-08-18】[immortalwrt-collections / lean-lede](https://github.com/immortalwrt-collections/lean-lede) - Mirror of Lean's OpenWrt Source
 * 【2023-08-17】[deepinstinct / NoFilter](https://github.com/deepinstinct/NoFilter) - 
 * 【2023-08-17】[leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
 * 【2023-08-16】[fenwii / C](https://github.com/fenwii/C) - 伴你技术入门系列，致力于用最简单高效的工程化方式学习编程，采用Flowgorithm流程图交互式图形软件实现，官方支持25种语言，3种伪代码，C语言模版为个人修改添加，支持C语言绝大多数基本功能，除了学习C，还可以学习C++，Java, Python等等
@@ -249,6 +254,7 @@
 
 ## C++
 
+* 【2023-08-18】[ShorSec / DllNotificationInjection](https://github.com/ShorSec/DllNotificationInjection) - A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.
 * 【2023-08-16】[chaitin / safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 * 【2023-08-16】[JerryAZR / InstaOrder](https://github.com/JerryAZR/InstaOrder) - Place order instantly when online shopping - 快速下单小助手
 * 【2023-08-14】[badaix / snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
@@ -270,6 +276,8 @@
 
 ## C#
 
+* 【2023-08-18】[microsoft / semantic-memory](https://github.com/microsoft/semantic-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
+* 【2023-08-18】[nuke-build / nuke](https://github.com/nuke-build/nuke) - 🏗The AKEless Build System for C#/.NET
 * 【2023-08-17】[ardalis / ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
 * 【2023-08-16】[open-telemetry / opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 * 【2023-08-14】[RoundedTB / RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
@@ -297,6 +305,9 @@
 
 ## Html
 
+* 【2023-08-18】[pddon / pddon-win](https://github.com/pddon/pddon-win) - PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN, Venn diagram, database model diagram, whiteboard drawing, infinite canvas, and more
+* 【2023-08-18】[PCrnjak / PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm) - 
+* 【2023-08-18】[go101 / go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 * 【2023-08-17】[opentffoundation / manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
 * 【2023-08-16】[meichthys / foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 * 【2023-08-15】[x-dr / telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
@@ -332,6 +343,8 @@
 
 ## Css
 
+* 【2023-08-18】[waltermolina / ExpertoChuao](https://github.com/waltermolina/ExpertoChuao) - 
+* 【2023-08-18】[susandi / TutorMe](https://github.com/susandi/TutorMe) - 
 * 【2023-08-17】[csfive / composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🚧CS61A 教材《Composing Programs》即《计算机程序的构造与解释》Python 版本的中文翻译
 * 【2023-08-17】[twilson63 / html2haml](https://github.com/twilson63/html2haml) - Convert HTML Snippets to Haml
 * 【2023-08-17】[boolean-uk / js-dom-greengrocers](https://github.com/boolean-uk/js-dom-greengrocers) - 
@@ -371,6 +384,10 @@
 
 ## Unknown
 
+* 【2023-08-18】[Ahmed-AL-Maghraby / SIEM-Cheat-Sheet](https://github.com/Ahmed-AL-Maghraby/SIEM-Cheat-Sheet) - SIEM Cheat Sheet
+* 【2023-08-18】[592767809 / video_server](https://github.com/592767809/video_server) - 视频拦截下载工具
+* 【2023-08-18】[dmcke5 / NucDeck](https://github.com/dmcke5/NucDeck) - The Open Source DIY Handheld Gaming PC!
+* 【2023-08-18】[zhangkaiitugithub / passcro](https://github.com/zhangkaiitugithub/passcro) - clash节点为网路收集。持续更新。
 * 【2023-08-17】[seudonam / open-college-courses](https://github.com/seudonam/open-college-courses) - 😄Courses with open lecture notes and assignments. DO NOT pull requests.
 * 【2023-08-17】[PicPay / picpay-desafio-backend](https://github.com/PicPay/picpay-desafio-backend) - Desafio técnico - Backend
 * 【2023-08-17】[dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅Curated list of resources for college students
