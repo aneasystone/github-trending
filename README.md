@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2023-08-19】[getumbrel / llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
+* 【2023-08-19】[apple / ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization"
+* 【2023-08-19】[systeminit / si](https://github.com/systeminit/si) - The System Initiative software
+* 【2023-08-19】[ubicloud / ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), and virtual networking services in public alpha.
+* 【2023-08-19】[ill-inc / biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
+* 【2023-08-19】[jiran214 / GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
+* 【2023-08-19】[SkyAsor / JavaScript-DEX-Triangular-Arbitrage-Bot-v5](https://github.com/SkyAsor/JavaScript-DEX-Triangular-Arbitrage-Bot-v5) - Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and easy to use, start trading smarter.
+* 【2023-08-19】[wangshusen / SearchEngine](https://github.com/wangshusen/SearchEngine) - 搜索引擎原理
+* 【2023-08-19】[Kotlin / kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin multiplatform / multi-format serialization
 * 【2023-08-18】[a16z-infra / ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
 * 【2023-08-18】[varunshenoy / opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI👨‍🎨
 * 【2023-08-17】[normal-computing / outlines](https://github.com/normal-computing/outlines) - Generative Model Programming
@@ -85,6 +94,8 @@
 
 ## Java
 
+* 【2023-08-19】[snowflakedb / snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
+* 【2023-08-19】[microsoft / mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
 * 【2023-08-15】[apache / storm](https://github.com/apache/storm) - Apache Storm
 * 【2023-08-13】[Sinytra / Connector](https://github.com/Sinytra/Connector) - A compatibility layer that allows running Fabric mods on MinecraftForge
 * 【2023-08-13】[power721 / alist-tvbox](https://github.com/power721/alist-tvbox) - AList proxy server for TvBox, support playlist and search. https://t.me/alist_tvbox_group
@@ -101,6 +112,9 @@
 
 ## Python
 
+* 【2023-08-19】[RobustNLP / CipherChat](https://github.com/RobustNLP/CipherChat) - A framework to evaluate the generalization capability of safety alignment for LLMs
+* 【2023-08-19】[google / visualblocks](https://github.com/google/visualblocks) - Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations.
+* 【2023-08-19】[eliben / pycparser](https://github.com/eliben/pycparser) - 🐍 Complete C99 parser in pure Python
 * 【2023-08-17】[docker / docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 * 【2023-08-17】[plbrault / youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 * 【2023-08-16】[QiuChenlyOpenSource / QQFlacMusicDownloader](https://github.com/QiuChenlyOpenSource/QQFlacMusicDownloader) - [秋城落叶] QQ 音乐源无损歌曲下载
@@ -156,6 +170,9 @@
 
 ## Javascript
 
+* 【2023-08-19】[robinkarlberg / transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - Transfer files securely between browsers using WebRTC peer2peer
+* 【2023-08-19】[auth0-samples / auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) - Auth0 Integration Samples for React Applications
+* 【2023-08-19】[openstyles / stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 * 【2023-08-18】[ishtms / learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way) - Master Nodejs and backend development by creating a backend web framework from scratch.
 * 【2023-08-18】[sidorares / node-mysql2](https://github.com/sidorares/node-mysql2) - ⚡fast mysqljs/mysql compatible mysql driver for node.js
 * 【2023-08-17】[jamiewilson / form-to-google-sheets](https://github.com/jamiewilson/form-to-google-sheets) - Store HTML form submissions in Google Sheets.
@@ -196,6 +213,8 @@
 
 ## Go
 
+* 【2023-08-19】[ankitpokhrel / jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥Feature-rich interactive Jira command line.
+* 【2023-08-19】[wasmerio / wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️WebAssembly runtime for Go
 * 【2023-08-17】[Jinnrry / PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 * 【2023-08-14】[hakaioffsec / navgix](https://github.com/hakaioffsec/navgix) - navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities
 * 【2023-08-13】[Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang.
@@ -218,6 +237,8 @@
 
 ## C
 
+* 【2023-08-19】[InJeCTrL / ClickRun](https://github.com/InJeCTrL/ClickRun) - ClickRun鼠标连点器
+* 【2023-08-19】[nxp-imx / linux-imx](https://github.com/nxp-imx/linux-imx) - i.MX Linux kernel
 * 【2023-08-18】[immortalwrt-collections / lean-lede](https://github.com/immortalwrt-collections/lean-lede) - Mirror of Lean's OpenWrt Source
 * 【2023-08-17】[deepinstinct / NoFilter](https://github.com/deepinstinct/NoFilter) - 
 * 【2023-08-17】[leejet / stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C++
@@ -254,6 +275,7 @@
 
 ## C++
 
+* 【2023-08-19】[OpenImageIO / oiio](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 * 【2023-08-18】[ShorSec / DllNotificationInjection](https://github.com/ShorSec/DllNotificationInjection) - A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.
 * 【2023-08-16】[chaitin / safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 * 【2023-08-16】[JerryAZR / InstaOrder](https://github.com/JerryAZR/InstaOrder) - Place order instantly when online shopping - 快速下单小助手
@@ -276,6 +298,8 @@
 
 ## C#
 
+* 【2023-08-19】[scrtwpns / mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
+* 【2023-08-19】[microsoft / Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 * 【2023-08-18】[microsoft / semantic-memory](https://github.com/microsoft/semantic-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
 * 【2023-08-18】[nuke-build / nuke](https://github.com/nuke-build/nuke) - 🏗The AKEless Build System for C#/.NET
 * 【2023-08-17】[ardalis / ApiEndpoints](https://github.com/ardalis/ApiEndpoints) - A project for supporting API Endpoints in ASP.NET Core web applications.
@@ -343,6 +367,11 @@
 
 ## Css
 
+* 【2023-08-19】[vendorsec / mvsp](https://github.com/vendorsec/mvsp) - Minimum Viable Secure Product mvsp.dev
+* 【2023-08-19】[Gentleman-Programming / React_Desde_0_Avanzado](https://github.com/Gentleman-Programming/React_Desde_0_Avanzado) - 
+* 【2023-08-19】[tejusmdn / Cafe_Coming_Soon](https://github.com/tejusmdn/Cafe_Coming_Soon) - 
+* 【2023-08-19】[Sofiita / pepinitos-web](https://github.com/Sofiita/pepinitos-web) - Proyecto de una web para banda de Reggae.
+* 【2023-08-19】[mahmoud-ap / cyber-panel](https://github.com/mahmoud-ap/cyber-panel) - 
 * 【2023-08-18】[waltermolina / ExpertoChuao](https://github.com/waltermolina/ExpertoChuao) - 
 * 【2023-08-18】[susandi / TutorMe](https://github.com/susandi/TutorMe) - 
 * 【2023-08-17】[csfive / composing-programs-zh](https://github.com/csfive/composing-programs-zh) - 🚧CS61A 教材《Composing Programs》即《计算机程序的构造与解释》Python 版本的中文翻译
@@ -384,6 +413,12 @@
 
 ## Unknown
 
+* 【2023-08-19】[EuropeanRemote / european-remote-software-companies](https://github.com/EuropeanRemote/european-remote-software-companies) - List of the remote software companies hiring in Europe
+* 【2023-08-19】[thunder439 / QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
+* 【2023-08-19】[djytmdj / Network-security-study-notes](https://github.com/djytmdj/Network-security-study-notes) - 主要记录网络安全学习笔记，包含WEB基础、提权、APP渗透、内网横向移动、工具学习等
+* 【2023-08-19】[elidianaandrade / dio-curso-git-github](https://github.com/elidianaandrade/dio-curso-git-github) - Repositório do curso Versionamento de Código com Git e GitHub da Digital Innovation One.
+* 【2023-08-19】[integrations / slack](https://github.com/integrations/slack) - Bring your code to the conversations you care about with the GitHub and Slack integration
+* 【2023-08-19】[fewwwww / awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-hooks) - A curated list of awesome Uniswap v4 hooks resources.
 * 【2023-08-18】[Ahmed-AL-Maghraby / SIEM-Cheat-Sheet](https://github.com/Ahmed-AL-Maghraby/SIEM-Cheat-Sheet) - SIEM Cheat Sheet
 * 【2023-08-18】[592767809 / video_server](https://github.com/592767809/video_server) - 视频拦截下载工具
 * 【2023-08-18】[dmcke5 / NucDeck](https://github.com/dmcke5/NucDeck) - The Open Source DIY Handheld Gaming PC!
