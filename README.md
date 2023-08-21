@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-21】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
+* 【2023-08-21】[serde-rs / serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+* 【2023-08-21】[smol-ai / GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 * 【2023-08-20】[qiuyu96 / CoDeF](https://github.com/qiuyu96/CoDeF) - Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
 * 【2023-08-20】[digininja / DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 * 【2023-08-19】[getumbrel / llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
@@ -96,6 +99,8 @@
 
 ## Java
 
+* 【2023-08-21】[MoKee / android_packages_apps_WarpShare](https://github.com/MoKee/android_packages_apps_WarpShare) - 
+* 【2023-08-21】[getmoneynote / moneynote-api](https://github.com/getmoneynote/moneynote-api) - 开源免费的个人记账解决方案
 * 【2023-08-20】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 * 【2023-08-19】[snowflakedb / snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
 * 【2023-08-19】[microsoft / mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
@@ -115,6 +120,8 @@
 
 ## Python
 
+* 【2023-08-21】[internetarchive / openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
+* 【2023-08-21】[dekrypted / discord-image-logger](https://github.com/dekrypted/discord-image-logger) - IP Logger that uses discord's "Open Original" feature to steal IP's.
 * 【2023-08-20】[arielnlee / Platypus](https://github.com/arielnlee/Platypus) - Code for fine-tuning Platypus fam LLMs using LoRA
 * 【2023-08-20】[silvanmelchior / IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Llama 2.
 * 【2023-08-19】[RobustNLP / CipherChat](https://github.com/RobustNLP/CipherChat) - A framework to evaluate the generalization capability of safety alignment for LLMs
@@ -175,6 +182,8 @@
 
 ## Javascript
 
+* 【2023-08-21】[adrianhajdin / nike_landing_page](https://github.com/adrianhajdin/nike_landing_page) - Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+* 【2023-08-21】[Misaka-blog / cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点
 * 【2023-08-20】[yonggekkk / Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) - cf-worker-pages-vless脚本、CF-CDN优选域名、优选反代IP多平台一键脚本。懒人小白必备的vless代理神器
 * 【2023-08-20】[mistymntncop / CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) - 
 * 【2023-08-19】[robinkarlberg / transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - Transfer files securely between browsers using WebRTC peer2peer
@@ -220,6 +229,8 @@
 
 ## Go
 
+* 【2023-08-21】[IBM / fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
+* 【2023-08-21】[bootun / veronica](https://github.com/bootun/veronica) - Go项目差异构建工具
 * 【2023-08-20】[tailwarden / komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level💰
 * 【2023-08-19】[ankitpokhrel / jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥Feature-rich interactive Jira command line.
 * 【2023-08-19】[wasmerio / wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️WebAssembly runtime for Go
@@ -284,6 +295,9 @@
 
 ## C++
 
+* 【2023-08-21】[RuanJY / SLAMesh](https://github.com/RuanJY/SLAMesh) - Code of SLAMesh, a real-time LiDAR simultaneous localization and meshing method.
+* 【2023-08-21】[flexflow / FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework.
+* 【2023-08-21】[GameTechDev / PresentMon](https://github.com/GameTechDev/PresentMon) - Tool for collection and processing of ETW events related to frame presentation on Windows.
 * 【2023-08-20】[S12cybersecurity / RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
 * 【2023-08-19】[OpenImageIO / oiio](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 * 【2023-08-18】[ShorSec / DllNotificationInjection](https://github.com/ShorSec/DllNotificationInjection) - A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.
@@ -308,6 +322,8 @@
 
 ## C#
 
+* 【2023-08-21】[boy1dr / SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
+* 【2023-08-21】[Heart-Sky / ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
 * 【2023-08-20】[bunszr / Mesh-Peeling](https://github.com/bunszr/Mesh-Peeling) - 
 * 【2023-08-20】[PlagueVRC / AntiRip](https://github.com/PlagueVRC/AntiRip) - AntiRip (Kanna Protecc) - Free and insanely strong VRChat Anti Rip. Let us rid of rippers, together.
 * 【2023-08-19】[scrtwpns / mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
@@ -341,6 +357,9 @@
 
 ## Html
 
+* 【2023-08-21】[rosetta-rs / string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
+* 【2023-08-21】[themeselection / sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers!🚀
+* 【2023-08-21】[bytedance / SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
 * 【2023-08-18】[pddon / pddon-win](https://github.com/pddon/pddon-win) - PDDON is a daily drawing tool that supports low code for learning or office use. It can be used for flowchart, mind map, UML diagram, ER diagram, network topology diagram, BPMN, Venn diagram, database model diagram, whiteboard drawing, infinite canvas, and more
 * 【2023-08-18】[PCrnjak / PAROL6-Desktop-robot-arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm) - 
 * 【2023-08-18】[go101 / go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
@@ -379,6 +398,7 @@
 
 ## Css
 
+* 【2023-08-21】[Godiesc / firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 * 【2023-08-20】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
 * 【2023-08-20】[cleitonmendonca / instagram](https://github.com/cleitonmendonca/instagram) - Tela de login do instragram
 * 【2023-08-20】[shashikanth-t / digital](https://github.com/shashikanth-t/digital) - digital marketing website
@@ -430,6 +450,10 @@
 
 ## Unknown
 
+* 【2023-08-21】[Clooos / Bubble-Card](https://github.com/Clooos/Bubble-Card) - WIP
+* 【2023-08-21】[bootun / go-analysis](https://github.com/bootun/go-analysis) - 通过汇编和图解，深入浅出Go内部实现
+* 【2023-08-21】[ClashForIOS / ClashPro](https://github.com/ClashForIOS/ClashPro) - windows, iOS, MacOS released
+* 【2023-08-21】[osurf / lzdy](https://github.com/osurf/lzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2023-08-20】[readyplayerme / animation-library](https://github.com/readyplayerme/animation-library) - Ready Player Me Animation Library
 * 【2023-08-20】[bnb-chain / whitepaper](https://github.com/bnb-chain/whitepaper) - BNB Smart Chain
 * 【2023-08-19】[EuropeanRemote / european-remote-software-companies](https://github.com/EuropeanRemote/european-remote-software-companies) - List of the remote software companies hiring in Europe
