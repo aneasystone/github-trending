@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-08-22】[facefusion / facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 * 【2023-08-21】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
 * 【2023-08-21】[serde-rs / serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
 * 【2023-08-21】[smol-ai / GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -99,6 +100,9 @@
 
 ## Java
 
+* 【2023-08-22】[Team-Cemiuiler / Cemiuiler](https://github.com/Team-Cemiuiler/Cemiuiler) - Make MIUI Great Again!
+* 【2023-08-22】[lazypatient / Handwritten-jdk-source-code](https://github.com/lazypatient/Handwritten-jdk-source-code) - 
+* 【2023-08-22】[slackapi / java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
 * 【2023-08-21】[MoKee / android_packages_apps_WarpShare](https://github.com/MoKee/android_packages_apps_WarpShare) - 
 * 【2023-08-21】[getmoneynote / moneynote-api](https://github.com/getmoneynote/moneynote-api) - 开源免费的个人记账解决方案
 * 【2023-08-20】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
@@ -120,6 +124,11 @@
 
 ## Python
 
+* 【2023-08-22】[dot-agent / openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
+* 【2023-08-22】[davidteather / TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
+* 【2023-08-22】[KianBrose / smtp_mail_bot_server](https://github.com/KianBrose/smtp_mail_bot_server) - A repository for automating incoming mail messages
+* 【2023-08-22】[N0rz3 / Eyes](https://github.com/N0rz3/Eyes) - 🕵️ Email osint tool
+* 【2023-08-22】[1299172402 / BBDown_GUI](https://github.com/1299172402/BBDown_GUI) - BBDown的图形化版本
 * 【2023-08-21】[internetarchive / openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 * 【2023-08-21】[dekrypted / discord-image-logger](https://github.com/dekrypted/discord-image-logger) - IP Logger that uses discord's "Open Original" feature to steal IP's.
 * 【2023-08-20】[arielnlee / Platypus](https://github.com/arielnlee/Platypus) - Code for fine-tuning Platypus fam LLMs using LoRA
@@ -182,6 +191,7 @@
 
 ## Javascript
 
+* 【2023-08-22】[LiHongyao / JavaScript](https://github.com/LiHongyao/JavaScript) - JavaScript
 * 【2023-08-21】[adrianhajdin / nike_landing_page](https://github.com/adrianhajdin/nike_landing_page) - Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
 * 【2023-08-21】[Misaka-blog / cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点
 * 【2023-08-20】[yonggekkk / Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) - cf-worker-pages-vless脚本、CF-CDN优选域名、优选反代IP多平台一键脚本。懒人小白必备的vless代理神器
@@ -229,6 +239,7 @@
 
 ## Go
 
+* 【2023-08-22】[GoesToEleven / GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 * 【2023-08-21】[IBM / fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 * 【2023-08-21】[bootun / veronica](https://github.com/bootun/veronica) - Go项目差异构建工具
 * 【2023-08-20】[tailwarden / komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level💰
@@ -322,6 +333,7 @@
 
 ## C#
 
+* 【2023-08-22】[asadullahrifat89 / dotnet-essential-services](https://github.com/asadullahrifat89/dotnet-essential-services) - Some essential services required to build a software that involves identity, authentication, blob storage, emails, notifications, and ui language management.
 * 【2023-08-21】[boy1dr / SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 * 【2023-08-21】[Heart-Sky / ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
 * 【2023-08-20】[bunszr / Mesh-Peeling](https://github.com/bunszr/Mesh-Peeling) - 
@@ -357,6 +369,8 @@
 
 ## Html
 
+* 【2023-08-22】[Ade-mir / html-css-js-portfolio-tutorial-2](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2) - 
+* 【2023-08-22】[xbzstudio / Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
 * 【2023-08-21】[rosetta-rs / string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
 * 【2023-08-21】[themeselection / sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers!🚀
 * 【2023-08-21】[bytedance / SALMONN](https://github.com/bytedance/SALMONN) - SALMONN: Speech Audio Language Music Open Neural Network
@@ -398,6 +412,7 @@
 
 ## Css
 
+* 【2023-08-22】[xpanel-cp / Xcs-Multi-Management-XPanel](https://github.com/xpanel-cp/Xcs-Multi-Management-XPanel) - SSH Panel User Management Multi Server
 * 【2023-08-21】[Godiesc / firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 * 【2023-08-20】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
 * 【2023-08-20】[cleitonmendonca / instagram](https://github.com/cleitonmendonca/instagram) - Tela de login do instragram
@@ -450,6 +465,9 @@
 
 ## Unknown
 
+* 【2023-08-22】[fatihes1 / AWS-ile-Bulut-Bilisimin-Temelleri](https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri) - 
+* 【2023-08-22】[rajucs / Book-For-Programmers](https://github.com/rajucs/Book-For-Programmers) - 
+* 【2023-08-22】[jingyi0000 / VLM_survey](https://github.com/jingyi0000/VLM_survey) - Vision-Language Models for Vision Tasks: A Survey
 * 【2023-08-21】[Clooos / Bubble-Card](https://github.com/Clooos/Bubble-Card) - WIP
 * 【2023-08-21】[bootun / go-analysis](https://github.com/bootun/go-analysis) - 通过汇编和图解，深入浅出Go内部实现
 * 【2023-08-21】[ClashForIOS / ClashPro](https://github.com/ClashForIOS/ClashPro) - windows, iOS, MacOS released
