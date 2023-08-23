@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-23】[jackyzha0 / quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+* 【2023-08-23】[rivet-gg / rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
+* 【2023-08-23】[tencent-ailab / IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 * 【2023-08-22】[facefusion / facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 * 【2023-08-21】[dimdenGD / OldTweetDeck](https://github.com/dimdenGD/OldTweetDeck) - Returns old TweetDeck, for free!
 * 【2023-08-21】[serde-rs / serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
@@ -100,6 +103,8 @@
 
 ## Java
 
+* 【2023-08-23】[digitalinnovationone / trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico) - 
+* 【2023-08-23】[mongodb / mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - The official MongoDB drivers for Java, Kotlin, and Scala
 * 【2023-08-22】[Team-Cemiuiler / Cemiuiler](https://github.com/Team-Cemiuiler/Cemiuiler) - Make MIUI Great Again!
 * 【2023-08-22】[lazypatient / Handwritten-jdk-source-code](https://github.com/lazypatient/Handwritten-jdk-source-code) - 
 * 【2023-08-22】[slackapi / java-slack-sdk](https://github.com/slackapi/java-slack-sdk) - Slack Developer Kit (including Bolt for Java) for any JVM language
@@ -124,6 +129,9 @@
 
 ## Python
 
+* 【2023-08-23】[Qiskit / qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms.
+* 【2023-08-23】[py499372727 / AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
+* 【2023-08-23】[neuml / txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 * 【2023-08-22】[dot-agent / openagent](https://github.com/dot-agent/openagent) - Microservices approach to AGI. Modular components for AI apps or AGI agents. (... and solving some wicked LLM problems like ⚡ 2X faster LLaMA 2)
 * 【2023-08-22】[davidteather / TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 * 【2023-08-22】[KianBrose / smtp_mail_bot_server](https://github.com/KianBrose/smtp_mail_bot_server) - A repository for automating incoming mail messages
@@ -191,6 +199,7 @@
 
 ## Javascript
 
+* 【2023-08-23】[nerfies / nerfies.github.io](https://github.com/nerfies/nerfies.github.io) - 
 * 【2023-08-22】[LiHongyao / JavaScript](https://github.com/LiHongyao/JavaScript) - JavaScript
 * 【2023-08-21】[adrianhajdin / nike_landing_page](https://github.com/adrianhajdin/nike_landing_page) - Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
 * 【2023-08-21】[Misaka-blog / cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless) - 在 CloudFlare Workers 或 Pages 部署 vless 节点
@@ -239,6 +248,7 @@
 
 ## Go
 
+* 【2023-08-23】[projectdiscovery / naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 * 【2023-08-22】[GoesToEleven / GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 * 【2023-08-21】[IBM / fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 * 【2023-08-21】[bootun / veronica](https://github.com/bootun/veronica) - Go项目差异构建工具
@@ -267,6 +277,10 @@
 
 ## C
 
+* 【2023-08-23】[profdc9 / RFBitBanger](https://github.com/profdc9/RFBitBanger) - A QRP digital transceiver created from readily available parts for off-the-grid maintenance
+* 【2023-08-23】[nanobyte-dev / nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os) - OS tutorial from Nanobyte YouTube channel.
+* 【2023-08-23】[InterstellarNetwork / Interstellar](https://github.com/InterstellarNetwork/Interstellar) - Interstellar is one of the best proxies with blazing fasts speeds and tons of games.
+* 【2023-08-23】[google / AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer
 * 【2023-08-20】[ipxe / ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 * 【2023-08-19】[InJeCTrL / ClickRun](https://github.com/InJeCTrL/ClickRun) - ClickRun鼠标连点器
 * 【2023-08-19】[nxp-imx / linux-imx](https://github.com/nxp-imx/linux-imx) - i.MX Linux kernel
@@ -306,6 +320,7 @@
 
 ## C++
 
+* 【2023-08-23】[zer0condition / NVDrv](https://github.com/zer0condition/NVDrv) - Abusing nvidia driver (nvoclock.sys) for physical/virtual memory and control register manipulation.
 * 【2023-08-21】[RuanJY / SLAMesh](https://github.com/RuanJY/SLAMesh) - Code of SLAMesh, a real-time LiDAR simultaneous localization and meshing method.
 * 【2023-08-21】[flexflow / FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework.
 * 【2023-08-21】[GameTechDev / PresentMon](https://github.com/GameTechDev/PresentMon) - Tool for collection and processing of ETW events related to frame presentation on Windows.
@@ -412,6 +427,9 @@
 
 ## Css
 
+* 【2023-08-23】[CodeCrafter11 / css-projects](https://github.com/CodeCrafter11/css-projects) - You can find all source codes for all css projects here
+* 【2023-08-23】[Kalvium-Program / shape_generator_boilerplate](https://github.com/Kalvium-Program/shape_generator_boilerplate) - 
+* 【2023-08-23】[cassidoo / cardstock](https://github.com/cassidoo/cardstock) - A clean Obsidian theme
 * 【2023-08-22】[xpanel-cp / Xcs-Multi-Management-XPanel](https://github.com/xpanel-cp/Xcs-Multi-Management-XPanel) - SSH Panel User Management Multi Server
 * 【2023-08-21】[Godiesc / firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 * 【2023-08-20】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
@@ -465,6 +483,10 @@
 
 ## Unknown
 
+* 【2023-08-23】[NomaDamas / awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm) - Awesome list of Korean Large Language Models.
+* 【2023-08-23】[kwai / KwaiYii](https://github.com/kwai/KwaiYii) - 
+* 【2023-08-23】[notfromstatefarm / nvflashk](https://github.com/notfromstatefarm/nvflashk) - Flash (almost) any vBIOS to (almost) any nVIDIA GPU
+* 【2023-08-23】[ethsonliu / stackoverflow-top-cpp](https://github.com/ethsonliu/stackoverflow-top-cpp) - stackoverflow 上对 C/C++ 问题的整理、总结和翻译。
 * 【2023-08-22】[fatihes1 / AWS-ile-Bulut-Bilisimin-Temelleri](https://github.com/fatihes1/AWS-ile-Bulut-Bilisimin-Temelleri) - 
 * 【2023-08-22】[rajucs / Book-For-Programmers](https://github.com/rajucs/Book-For-Programmers) - 
 * 【2023-08-22】[jingyi0000 / VLM_survey](https://github.com/jingyi0000/VLM_survey) - Vision-Language Models for Vision Tasks: A Survey
