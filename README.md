@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-08-24】[tinygrad / teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
+* 【2023-08-24】[googlesamples / mediapipe](https://github.com/googlesamples/mediapipe) - 
+* 【2023-08-24】[launchbadge / sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+* 【2023-08-24】[cgpotts / cs224u](https://github.com/cgpotts/cs224u) - Code for Stanford CS224u
 * 【2023-08-23】[jackyzha0 / quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * 【2023-08-23】[rivet-gg / rivet](https://github.com/rivet-gg/rivet) - Open-source solution to deploy, scale, and operate your multiplayer game
 * 【2023-08-23】[tencent-ailab / IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
@@ -103,6 +107,8 @@
 
 ## Java
 
+* 【2023-08-24】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-13](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-13) - 원티드 프리온보딩 백엔드 챌린지 사전과제
+* 【2023-08-24】[bonigarcia / webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management and other helper features for Selenium WebDriver in Java
 * 【2023-08-23】[digitalinnovationone / trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico) - 
 * 【2023-08-23】[mongodb / mongo-java-driver](https://github.com/mongodb/mongo-java-driver) - The official MongoDB drivers for Java, Kotlin, and Scala
 * 【2023-08-22】[Team-Cemiuiler / Cemiuiler](https://github.com/Team-Cemiuiler/Cemiuiler) - Make MIUI Great Again!
@@ -129,6 +135,11 @@
 
 ## Python
 
+* 【2023-08-24】[DLLXW / baby-llama2-chinese](https://github.com/DLLXW/baby-llama2-chinese) - 用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.
+* 【2023-08-24】[xdite / note-hack](https://github.com/xdite/note-hack) - 打造超人筆記
+* 【2023-08-24】[rese1f / StableVideo](https://github.com/rese1f/StableVideo) - [ICCV 2023] StableVideo: Text-driven Consistency-aware Diffusion Video Editing
+* 【2023-08-24】[ricklamers / shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generate and run CLI
+* 【2023-08-24】[tin2tin / Generative_AI](https://github.com/tin2tin/Generative_AI) - Text, video or image to video, image and audio in Blender Video Sequence Editor using Zeroscope (SD, XL, upscale to XL), Animov, Potat1, Stable Diffusion(1.5, 2.0, XL), Deep Floyd IF, AudioLDM2 and Bark.
 * 【2023-08-23】[Qiskit / qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and algorithms.
 * 【2023-08-23】[py499372727 / AgentSims](https://github.com/py499372727/AgentSims) - AgentSims is an easy-to-use infrastructure for researchers from all disciplines to test the specific capacities they are interested in.
 * 【2023-08-23】[neuml / txtai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
@@ -199,6 +210,9 @@
 
 ## Javascript
 
+* 【2023-08-24】[codehub666 / 94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
+* 【2023-08-24】[mingukkang / GigaGAN](https://github.com/mingukkang/GigaGAN) - 
+* 【2023-08-24】[piyushgarg-dev / piyushgargdev-nextjs](https://github.com/piyushgarg-dev/piyushgargdev-nextjs) - 
 * 【2023-08-23】[nerfies / nerfies.github.io](https://github.com/nerfies/nerfies.github.io) - 
 * 【2023-08-22】[LiHongyao / JavaScript](https://github.com/LiHongyao/JavaScript) - JavaScript
 * 【2023-08-21】[adrianhajdin / nike_landing_page](https://github.com/adrianhajdin/nike_landing_page) - Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
@@ -248,6 +262,7 @@
 
 ## Go
 
+* 【2023-08-24】[ergomake / layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 * 【2023-08-23】[projectdiscovery / naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
 * 【2023-08-22】[GoesToEleven / GolangTraining](https://github.com/GoesToEleven/GolangTraining) - Training for Golang (go language)
 * 【2023-08-21】[IBM / fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
@@ -277,6 +292,7 @@
 
 ## C
 
+* 【2023-08-24】[MrNeRF / gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - This project aims to reimplement the wonderful paper gaussian splatting with C++ and Cuda from scratch. This is a learning endeavor. Lets see how far we come.
 * 【2023-08-23】[profdc9 / RFBitBanger](https://github.com/profdc9/RFBitBanger) - A QRP digital transceiver created from readily available parts for off-the-grid maintenance
 * 【2023-08-23】[nanobyte-dev / nanobyte_os](https://github.com/nanobyte-dev/nanobyte_os) - OS tutorial from Nanobyte YouTube channel.
 * 【2023-08-23】[InterstellarNetwork / Interstellar](https://github.com/InterstellarNetwork/Interstellar) - Interstellar is one of the best proxies with blazing fasts speeds and tons of games.
@@ -320,6 +336,9 @@
 
 ## C++
 
+* 【2023-08-24】[d0rb / CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) - CVE-2023-36874 PoC
+* 【2023-08-24】[bytedance / Fastbot_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
+* 【2023-08-24】[deepinstinct / ContainYourself](https://github.com/deepinstinct/ContainYourself) - A POC of the ContainYourself research presented in DEF CON 31, which abuses the Windows containers framework to bypass EDRs.
 * 【2023-08-23】[zer0condition / NVDrv](https://github.com/zer0condition/NVDrv) - Abusing nvidia driver (nvoclock.sys) for physical/virtual memory and control register manipulation.
 * 【2023-08-21】[RuanJY / SLAMesh](https://github.com/RuanJY/SLAMesh) - Code of SLAMesh, a real-time LiDAR simultaneous localization and meshing method.
 * 【2023-08-21】[flexflow / FlexFlow](https://github.com/flexflow/FlexFlow) - A distributed deep learning framework.
@@ -348,6 +367,10 @@
 
 ## C#
 
+* 【2023-08-24】[LykosAI / StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
+* 【2023-08-24】[sunshineioxzc / amm-frontrun-bot](https://github.com/sunshineioxzc/amm-frontrun-bot) - Automated market maker frontrunning bot for common DEXs
+* 【2023-08-24】[Azure / azure-functions-openapi-extension](https://github.com/Azure/azure-functions-openapi-extension) - This extension provides an Azure Functions app with Open API capability for better discoverability to consuming parties
+* 【2023-08-24】[Giannoudis / TimePeriodLibrary](https://github.com/Giannoudis/TimePeriodLibrary) - Extensive time period calculations and individual calendar periods.
 * 【2023-08-22】[asadullahrifat89 / dotnet-essential-services](https://github.com/asadullahrifat89/dotnet-essential-services) - Some essential services required to build a software that involves identity, authentication, blob storage, emails, notifications, and ui language management.
 * 【2023-08-21】[boy1dr / SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 * 【2023-08-21】[Heart-Sky / ListRDPConnections](https://github.com/Heart-Sky/ListRDPConnections) - C# 读取本机对外RDP连接记录和其他主机对该主机的连接记录，从而在内网渗透中获取更多可通内网网段信息以及定位运维管理人员主机
@@ -384,6 +407,7 @@
 
 ## Html
 
+* 【2023-08-24】[timb-machine / linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 * 【2023-08-22】[Ade-mir / html-css-js-portfolio-tutorial-2](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2) - 
 * 【2023-08-22】[xbzstudio / Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
 * 【2023-08-21】[rosetta-rs / string-rosetta-rs](https://github.com/rosetta-rs/string-rosetta-rs) - Comparison of Rust string types
@@ -427,6 +451,9 @@
 
 ## Css
 
+* 【2023-08-24】[jd-solanki / slidev-theme-dracula](https://github.com/jd-solanki/slidev-theme-dracula) - Dracula theme for slidev 🧛
+* 【2023-08-24】[yazan-abuhammad / php_project_5](https://github.com/yazan-abuhammad/php_project_5) - 
+* 【2023-08-24】[FrancescoXX / contentbox](https://github.com/FrancescoXX/contentbox) - The organized solution for Content Creators.
 * 【2023-08-23】[CodeCrafter11 / css-projects](https://github.com/CodeCrafter11/css-projects) - You can find all source codes for all css projects here
 * 【2023-08-23】[Kalvium-Program / shape_generator_boilerplate](https://github.com/Kalvium-Program/shape_generator_boilerplate) - 
 * 【2023-08-23】[cassidoo / cardstock](https://github.com/cassidoo/cardstock) - A clean Obsidian theme
@@ -483,6 +510,9 @@
 
 ## Unknown
 
+* 【2023-08-24】[Eltirosto / Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization) - Degrees of Lewdity 游戏的授权中文社区本地化版本
+* 【2023-08-24】[runbear-io / awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
+* 【2023-08-24】[DmitryRyumin / INTERSPEECH-2023-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) - INTERSPEECH 2023 Papers: A complete collection of influential and exciting research papers from the INTERSPEECH 2023 conference. Explore the latest advances in speech and language processing. Code included. Star the repository to support the advancement of speech technology!
 * 【2023-08-23】[NomaDamas / awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm) - Awesome list of Korean Large Language Models.
 * 【2023-08-23】[kwai / KwaiYii](https://github.com/kwai/KwaiYii) - 
 * 【2023-08-23】[notfromstatefarm / nvflashk](https://github.com/notfromstatefarm/nvflashk) - Flash (almost) any vBIOS to (almost) any nVIDIA GPU
