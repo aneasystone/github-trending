@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-08-26】[ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
+* 【2023-08-26】[microsoft / python-in-excel](https://github.com/microsoft/python-in-excel) - Python in Microsoft Excel
 * 【2023-08-25】[facebookresearch / seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 * 【2023-08-25】[devfullcycle / imersao14](https://github.com/devfullcycle/imersao14) - 
 * 【2023-08-25】[TrionesType / zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋：开源正文仿宋字库计划
@@ -116,6 +118,8 @@
 
 ## Java
 
+* 【2023-08-26】[Snoopy1866 / LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
+* 【2023-08-26】[cami-la / collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023) - Este repositório é referente ao curso "Collection Framework API Java" e é uma valiosa contribuição para a comunidade de desenvolvedores Java, fornecendo exemplos práticos e recursos educacionais relacionados à poderosa API de coleções da linguagem Java.
 * 【2023-08-25】[spring-projects-experimental / spring-ai](https://github.com/spring-projects-experimental/spring-ai) - The Spring AI project aims to streamline the development of applications that incorporate artificial intelligence functionality without unnecessary complexity.
 * 【2023-08-24】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-13](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-13) - 원티드 프리온보딩 백엔드 챌린지 사전과제
 * 【2023-08-24】[bonigarcia / webdrivermanager](https://github.com/bonigarcia/webdrivermanager) - Automated driver management and other helper features for Selenium WebDriver in Java
@@ -145,6 +149,10 @@
 
 ## Python
 
+* 【2023-08-26】[zhihaiLLM / wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory) - 
+* 【2023-08-26】[glucauze / sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab) - Extended faceswap extension for StableDiffusion web-ui with multiple faceswaps, inpainting, checkpoints, ....
+* 【2023-08-26】[Dataherald / dataherald](https://github.com/Dataherald/dataherald) - 
+* 【2023-08-26】[abacusai / Long-Context](https://github.com/abacusai/Long-Context) - This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.
 * 【2023-08-25】[Pythagora-io / gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - 
 * 【2023-08-25】[mrwadams / attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details.
 * 【2023-08-25】[opencopilotdev / opencopilot](https://github.com/opencopilotdev/opencopilot) - 🕊️ Build and embed open-source AI Copilots into your product with ease
@@ -224,6 +232,8 @@
 
 ## Javascript
 
+* 【2023-08-26】[ahsan-chy / React-JS-Advance-Folder-Structure](https://github.com/ahsan-chy/React-JS-Advance-Folder-Structure) - React JS Advanced Folder Structure - Boilerplate
+* 【2023-08-26】[CycloneDX / cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server.
 * 【2023-08-25】[enchanted-sword / dashboard-unfucker](https://github.com/enchanted-sword/dashboard-unfucker) - unfucks the twitterification of tumblr's dashboard
 * 【2023-08-24】[codehub666 / 94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
 * 【2023-08-24】[mingukkang / GigaGAN](https://github.com/mingukkang/GigaGAN) - 
@@ -277,6 +287,7 @@
 
 ## Go
 
+* 【2023-08-26】[devanshbatham / rayder](https://github.com/devanshbatham/rayder) - A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 * 【2023-08-25】[juicity / juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
 * 【2023-08-25】[antonmedv / walk](https://github.com/antonmedv/walk) - Terminal file manager
 * 【2023-08-25】[argoproj-labs / argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) - Argo-CD Autopilot
@@ -310,6 +321,8 @@
 
 ## C
 
+* 【2023-08-26】[0x90 / wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
+* 【2023-08-26】[pgaudit / pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 * 【2023-08-25】[mrousavy / react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration
 * 【2023-08-24】[MrNeRF / gaussian-splatting-cuda](https://github.com/MrNeRF/gaussian-splatting-cuda) - This project aims to reimplement the wonderful paper gaussian splatting with C++ and Cuda from scratch. This is a learning endeavor. Lets see how far we come.
 * 【2023-08-23】[profdc9 / RFBitBanger](https://github.com/profdc9/RFBitBanger) - A QRP digital transceiver created from readily available parts for off-the-grid maintenance
@@ -355,6 +368,8 @@
 
 ## C++
 
+* 【2023-08-26】[Wh04m1001 / CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) - 
+* 【2023-08-26】[BabitMF / bmf](https://github.com/BabitMF/bmf) - Cross-platform, customizable multimedia/video processing framework. With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high performance, the framework is ideal for transcoding, AI inference, algorithm integration, live video streaming, and more.
 * 【2023-08-24】[d0rb / CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) - CVE-2023-36874 PoC
 * 【2023-08-24】[bytedance / Fastbot_Android](https://github.com/bytedance/Fastbot_Android) - Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 * 【2023-08-24】[deepinstinct / ContainYourself](https://github.com/deepinstinct/ContainYourself) - A POC of the ContainYourself research presented in DEF CON 31, which abuses the Windows containers framework to bypass EDRs.
@@ -427,6 +442,7 @@
 
 ## Html
 
+* 【2023-08-26】[OCA / stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
 * 【2023-08-25】[Euronymou5 / Doxxer-Toolkit](https://github.com/Euronymou5/Doxxer-Toolkit) - Todo lo necesario que un doxxer debe de tener siempre a mano
 * 【2023-08-24】[timb-machine / linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
 * 【2023-08-22】[Ade-mir / html-css-js-portfolio-tutorial-2](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2) - 
@@ -472,6 +488,9 @@
 
 ## Css
 
+* 【2023-08-26】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
+* 【2023-08-26】[VijayIyer / skool-clone](https://github.com/VijayIyer/skool-clone) - 
+* 【2023-08-26】[luckymark / CCpp2016](https://github.com/luckymark/CCpp2016) - 用于C/C++教学
 * 【2023-08-24】[jd-solanki / slidev-theme-dracula](https://github.com/jd-solanki/slidev-theme-dracula) - Dracula theme for slidev 🧛
 * 【2023-08-24】[yazan-abuhammad / php_project_5](https://github.com/yazan-abuhammad/php_project_5) - 
 * 【2023-08-24】[FrancescoXX / contentbox](https://github.com/FrancescoXX/contentbox) - The organized solution for Content Creators.
@@ -531,6 +550,7 @@
 
 ## Unknown
 
+* 【2023-08-26】[LearningKijo / SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note) - Cover various security approaches to attack techniques and also provides new discoveries about security breaches.
 * 【2023-08-25】[sandpipes / opusenphone](https://github.com/sandpipes/opusenphone) - Allows you to reload the OPUS card with your phone's NFC
 * 【2023-08-24】[Eltirosto / Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization) - Degrees of Lewdity 游戏的授权中文社区本地化版本
 * 【2023-08-24】[runbear-io / awesome-runbook](https://github.com/runbear-io/awesome-runbook) - A curated list of awesome runbook documents, guidebooks, software and resources.
