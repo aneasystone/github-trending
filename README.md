@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-08-27】[facebookresearch / codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
+* 【2023-08-27】[QwenLM / Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
+* 【2023-08-27】[acheong08 / rev-obsidian-sync](https://github.com/acheong08/rev-obsidian-sync) - Reverse engineering of the native Obsidian sync server
+* 【2023-08-27】[evmcheb / friendrekt](https://github.com/evmcheb/friendrekt) - friend.tech mempool sniper
+* 【2023-08-27】[platypusguy / jacobin](https://github.com/platypusguy/jacobin) - A more than minimal JVM written in Go and capable of running Java 17 classes.
+* 【2023-08-27】[neulab / prompt2model](https://github.com/neulab/prompt2model) - prompt2model - Generate Deployable Models from Natural Language Instructions
 * 【2023-08-26】[ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
 * 【2023-08-26】[microsoft / python-in-excel](https://github.com/microsoft/python-in-excel) - Python in Microsoft Excel
 * 【2023-08-25】[facebookresearch / seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
@@ -118,6 +124,9 @@
 
 ## Java
 
+* 【2023-08-27】[OWASP / wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
+* 【2023-08-27】[zfdang / Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
+* 【2023-08-27】[graphql-java / graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
 * 【2023-08-26】[Snoopy1866 / LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) - 李跳跳自定义规则
 * 【2023-08-26】[cami-la / collections-java-api-2023](https://github.com/cami-la/collections-java-api-2023) - Este repositório é referente ao curso "Collection Framework API Java" e é uma valiosa contribuição para a comunidade de desenvolvedores Java, fornecendo exemplos práticos e recursos educacionais relacionados à poderosa API de coleções da linguagem Java.
 * 【2023-08-25】[spring-projects-experimental / spring-ai](https://github.com/spring-projects-experimental/spring-ai) - The Spring AI project aims to streamline the development of applications that incorporate artificial intelligence functionality without unnecessary complexity.
@@ -149,6 +158,9 @@
 
 ## Python
 
+* 【2023-08-27】[Plachtaa / VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+* 【2023-08-27】[stephansturges / WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
+* 【2023-08-27】[mechsihao / FaissSearcher](https://github.com/mechsihao/FaissSearcher) - a common faiss searcher
 * 【2023-08-26】[zhihaiLLM / wisdomInterrogatory](https://github.com/zhihaiLLM/wisdomInterrogatory) - 
 * 【2023-08-26】[glucauze / sd-webui-faceswaplab](https://github.com/glucauze/sd-webui-faceswaplab) - Extended faceswap extension for StableDiffusion web-ui with multiple faceswaps, inpainting, checkpoints, ....
 * 【2023-08-26】[Dataherald / dataherald](https://github.com/Dataherald/dataherald) - 
@@ -232,6 +244,8 @@
 
 ## Javascript
 
+* 【2023-08-27】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
+* 【2023-08-27】[jasmine / jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 * 【2023-08-26】[ahsan-chy / React-JS-Advance-Folder-Structure](https://github.com/ahsan-chy/React-JS-Advance-Folder-Structure) - React JS Advanced Folder Structure - Boilerplate
 * 【2023-08-26】[CycloneDX / cdxgen](https://github.com/CycloneDX/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server.
 * 【2023-08-25】[enchanted-sword / dashboard-unfucker](https://github.com/enchanted-sword/dashboard-unfucker) - unfucks the twitterification of tumblr's dashboard
@@ -287,6 +301,9 @@
 
 ## Go
 
+* 【2023-08-27】[Databingo / aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Source | Research | Academic Assistance )
+* 【2023-08-27】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
+* 【2023-08-27】[tobycroft / gorose-pro](https://github.com/tobycroft/gorose-pro) - More powerful Golang ORM, just like Laraval or Thinkphp's eloquent ORM framework, Use easily but highly secure and performance enhanced in the core
 * 【2023-08-26】[devanshbatham / rayder](https://github.com/devanshbatham/rayder) - A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
 * 【2023-08-25】[juicity / juicity](https://github.com/juicity/juicity) - juicity is a quic-based proxy protocol implementation.
 * 【2023-08-25】[antonmedv / walk](https://github.com/antonmedv/walk) - Terminal file manager
@@ -321,6 +338,7 @@
 
 ## C
 
+* 【2023-08-27】[paxo-phone / paxos_8](https://github.com/paxo-phone/paxos_8) - 
 * 【2023-08-26】[0x90 / wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
 * 【2023-08-26】[pgaudit / pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
 * 【2023-08-25】[mrousavy / react-native-fast-tflite](https://github.com/mrousavy/react-native-fast-tflite) - 🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration
@@ -368,6 +386,8 @@
 
 ## C++
 
+* 【2023-08-27】[chaitin / SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+* 【2023-08-27】[goldendict / goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * 【2023-08-26】[Wh04m1001 / CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) - 
 * 【2023-08-26】[BabitMF / bmf](https://github.com/BabitMF/bmf) - Cross-platform, customizable multimedia/video processing framework. With strong GPU acceleration, heterogeneous design, multi-language support, easy to use, multi-framework compatible and high performance, the framework is ideal for transcoding, AI inference, algorithm integration, live video streaming, and more.
 * 【2023-08-24】[d0rb / CVE-2023-36874](https://github.com/d0rb/CVE-2023-36874) - CVE-2023-36874 PoC
@@ -401,6 +421,9 @@
 
 ## C#
 
+* 【2023-08-27】[dmcxblue / SharpBlackout](https://github.com/dmcxblue/SharpBlackout) - Terminate AV/EDR leveraging BYOVD attack
+* 【2023-08-27】[bhrugen / Bulky_MVC](https://github.com/bhrugen/Bulky_MVC) - 
+* 【2023-08-27】[coverlet-coverage / coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
 * 【2023-08-25】[sendgrid / sendgrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library
 * 【2023-08-24】[LykosAI / StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 * 【2023-08-24】[sunshineioxzc / amm-frontrun-bot](https://github.com/sunshineioxzc/amm-frontrun-bot) - Automated market maker frontrunning bot for common DEXs
@@ -442,6 +465,8 @@
 
 ## Html
 
+* 【2023-08-27】[WordPress / twentytwentyfour](https://github.com/WordPress/twentytwentyfour) - 
+* 【2023-08-27】[05Konz / Blooket-Cheats](https://github.com/05Konz/Blooket-Cheats) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
 * 【2023-08-26】[OCA / stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
 * 【2023-08-25】[Euronymou5 / Doxxer-Toolkit](https://github.com/Euronymou5/Doxxer-Toolkit) - Todo lo necesario que un doxxer debe de tener siempre a mano
 * 【2023-08-24】[timb-machine / linux-malware](https://github.com/timb-machine/linux-malware) - Tracking interesting Linux (and UNIX) malware. Send PRs
@@ -488,6 +513,8 @@
 
 ## Css
 
+* 【2023-08-27】[Dyzean / Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
+* 【2023-08-27】[redhat-developer-demos / quarkus-petclinic](https://github.com/redhat-developer-demos/quarkus-petclinic) - 
 * 【2023-08-26】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
 * 【2023-08-26】[VijayIyer / skool-clone](https://github.com/VijayIyer/skool-clone) - 
 * 【2023-08-26】[luckymark / CCpp2016](https://github.com/luckymark/CCpp2016) - 用于C/C++教学
@@ -550,6 +577,8 @@
 
 ## Unknown
 
+* 【2023-08-27】[eddlez / litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份
+* 【2023-08-27】[avito-tech / backend-trainee-assignment-2023](https://github.com/avito-tech/backend-trainee-assignment-2023) - 
 * 【2023-08-26】[LearningKijo / SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note) - Cover various security approaches to attack techniques and also provides new discoveries about security breaches.
 * 【2023-08-25】[sandpipes / opusenphone](https://github.com/sandpipes/opusenphone) - Allows you to reload the OPUS card with your phone's NFC
 * 【2023-08-24】[Eltirosto / Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization) - Degrees of Lewdity 游戏的授权中文社区本地化版本
