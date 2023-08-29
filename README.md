@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-08-29】[paradigmxyz / rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 * 【2023-08-28】[mehdihadeli / go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 * 【2023-08-28】[microsoft / lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
 * 【2023-08-28】[paritytech / polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
@@ -127,6 +128,7 @@
 
 ## Java
 
+* 【2023-08-29】[kiegroup / kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 * 【2023-08-28】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 * 【2023-08-27】[OWASP / wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 * 【2023-08-27】[zfdang / Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
@@ -162,6 +164,8 @@
 
 ## Python
 
+* 【2023-08-29】[RadeonOpenCompute / ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
+* 【2023-08-29】[satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 * 【2023-08-28】[fastapi-users / fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 * 【2023-08-27】[Plachtaa / VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 * 【2023-08-27】[stephansturges / WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
@@ -249,6 +253,7 @@
 
 ## Javascript
 
+* 【2023-08-29】[ollama-ui / ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 * 【2023-08-28】[szimek / sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * 【2023-08-28】[EddieHubCommunity / BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 * 【2023-08-27】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
@@ -308,6 +313,7 @@
 
 ## Go
 
+* 【2023-08-29】[osteele / gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
 * 【2023-08-27】[Databingo / aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Source | Research | Academic Assistance )
 * 【2023-08-27】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 * 【2023-08-27】[tobycroft / gorose-pro](https://github.com/tobycroft/gorose-pro) - More powerful Golang ORM, just like Laraval or Thinkphp's eloquent ORM framework, Use easily but highly secure and performance enhanced in the core
@@ -345,6 +351,7 @@
 
 ## C
 
+* 【2023-08-29】[rswier / c4](https://github.com/rswier/c4) - C in four functions
 * 【2023-08-28】[json-c / json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c. See the wiki for release tarballs for download. API docs at http://json-c.github.io/json-c/
 * 【2023-08-27】[paxo-phone / paxos_8](https://github.com/paxo-phone/paxos_8) - 
 * 【2023-08-26】[0x90 / wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
@@ -524,6 +531,7 @@
 
 ## Css
 
+* 【2023-08-29】[pagers-org / react-world](https://github.com/pagers-org/react-world) - "The mother of all demo apps" — 리얼 월드 to 리액트 월드🫶
 * 【2023-08-27】[Dyzean / Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 * 【2023-08-27】[redhat-developer-demos / quarkus-petclinic](https://github.com/redhat-developer-demos/quarkus-petclinic) - 
 * 【2023-08-26】[whosmatt / uvmod](https://github.com/whosmatt/uvmod) - Web-based firmware patcher for various Quansheng radios
@@ -588,6 +596,9 @@
 
 ## Unknown
 
+* 【2023-08-29】[carlcastanas / Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap) - 
+* 【2023-08-29】[BoredHackerBlog / winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) - lazy way to create CVE-2023-38831 winrar file for testing
+* 【2023-08-29】[jthack / PIPE](https://github.com/jthack/PIPE) - Prompt Injection Primer for Engineers
 * 【2023-08-28】[yaelwrites / Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 * 【2023-08-28】[opentffoundation / roadmap](https://github.com/opentffoundation/roadmap) - 
 * 【2023-08-28】[xjorma / EarthMeshHoudini](https://github.com/xjorma/EarthMeshHoudini) - Generate real world meshes in Houdini using the Google API.
