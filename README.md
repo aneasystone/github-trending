@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-08-30】[b1tg / CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit) - CVE-2023-38831 winrar exploit generator
 * 【2023-08-29】[paradigmxyz / rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 * 【2023-08-28】[mehdihadeli / go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
 * 【2023-08-28】[microsoft / lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
@@ -164,6 +165,9 @@
 
 ## Python
 
+* 【2023-08-30】[plotly / dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+* 【2023-08-30】[hastagAB / Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
+* 【2023-08-30】[watchtowrlabs / juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) - 
 * 【2023-08-29】[RadeonOpenCompute / ROCm](https://github.com/RadeonOpenCompute/ROCm) - AMD ROCm™ Platform - GitHub Home
 * 【2023-08-29】[satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 * 【2023-08-28】[fastapi-users / fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
@@ -253,6 +257,8 @@
 
 ## Javascript
 
+* 【2023-08-30】[levinunnink / html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2023 Script Editor)
+* 【2023-08-30】[tensorflow / tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 * 【2023-08-29】[ollama-ui / ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
 * 【2023-08-28】[szimek / sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 * 【2023-08-28】[EddieHubCommunity / BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
@@ -351,6 +357,7 @@
 
 ## C
 
+* 【2023-08-30】[liam-ilan / crumb](https://github.com/liam-ilan/crumb) - The Crumb Programming Language
 * 【2023-08-29】[rswier / c4](https://github.com/rswier/c4) - C in four functions
 * 【2023-08-28】[json-c / json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c. See the wiki for release tarballs for download. API docs at http://json-c.github.io/json-c/
 * 【2023-08-27】[paxo-phone / paxos_8](https://github.com/paxo-phone/paxos_8) - 
@@ -401,6 +408,7 @@
 
 ## C++
 
+* 【2023-08-30】[florylsk / NtRemoteLoad](https://github.com/florylsk/NtRemoteLoad) - Remote Shellcode Injector
 * 【2023-08-28】[Octoberfest7 / CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) - Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE
 * 【2023-08-28】[shuai132 / rpc_core](https://github.com/shuai132/rpc_core) - a tiny c++11 rpc library, support all platform even microchips(Arduino、STM32、ESP32/ESP8266 ...)
 * 【2023-08-27】[chaitin / SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
@@ -438,6 +446,8 @@
 
 ## C#
 
+* 【2023-08-30】[DarkCoderSc / SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe) - This lightweight C# demo application showcases interactive remote shell access via named pipes and the SMB protocol.
+* 【2023-08-30】[pdone / FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备。
 * 【2023-08-27】[dmcxblue / SharpBlackout](https://github.com/dmcxblue/SharpBlackout) - Terminate AV/EDR leveraging BYOVD attack
 * 【2023-08-27】[bhrugen / Bulky_MVC](https://github.com/bhrugen/Bulky_MVC) - 
 * 【2023-08-27】[coverlet-coverage / coverlet](https://github.com/coverlet-coverage/coverlet) - Cross platform code coverage for .NET
@@ -482,6 +492,7 @@
 
 ## Html
 
+* 【2023-08-30】[wangzhe3224 / awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 * 【2023-08-28】[brunoborges / rinha-app](https://github.com/brunoborges/rinha-app) - 
 * 【2023-08-27】[WordPress / twentytwentyfour](https://github.com/WordPress/twentytwentyfour) - 
 * 【2023-08-27】[05Konz / Blooket-Cheats](https://github.com/05Konz/Blooket-Cheats) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
@@ -531,6 +542,8 @@
 
 ## Css
 
+* 【2023-08-30】[dbarzin / deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
+* 【2023-08-30】[caio-ribeiro-pereira / livro-nodejs](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Repositório público com códigos de exemplos do livro: Aplicações web real-time com Node.js
 * 【2023-08-29】[pagers-org / react-world](https://github.com/pagers-org/react-world) - "The mother of all demo apps" — 리얼 월드 to 리액트 월드🫶
 * 【2023-08-27】[Dyzean / Tokyo-Night](https://github.com/Dyzean/Tokyo-Night) - A clean, dark Discord theme that celebrates the lights of Downtown Tokyo at night.
 * 【2023-08-27】[redhat-developer-demos / quarkus-petclinic](https://github.com/redhat-developer-demos/quarkus-petclinic) - 
@@ -596,6 +609,13 @@
 
 ## Unknown
 
+* 【2023-08-30】[rodolfomarianocy / OSCP-Tricks-2023](https://github.com/rodolfomarianocy/OSCP-Tricks-2023) - OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines
+* 【2023-08-30】[TriedCoderX / JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs](https://github.com/TriedCoderX/JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs) - Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and reliable, start earning more today!
+* 【2023-08-30】[m1-llie / TUMCC](https://github.com/m1-llie/TUMCC) - Telegram地下市场中文黑话识别语料集。Telegram Underground Market Chinese Corpus. Paper: Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features (IP&M, 2022).
+* 【2023-08-30】[Ahmed-AL-Maghraby / Windows-Registry-Analysis-Cheat-Sheet](https://github.com/Ahmed-AL-Maghraby/Windows-Registry-Analysis-Cheat-Sheet) - 
+* 【2023-08-30】[OpenDriveLab / DriveLM](https://github.com/OpenDriveLab/DriveLM) - DriveLM: Drive on Language
+* 【2023-08-30】[AduraK2 / Intranet-Movement-Kit](https://github.com/AduraK2/Intranet-Movement-Kit) - 内网横向移动工具箱
+* 【2023-08-30】[skot / bitaxe](https://github.com/skot/bitaxe) - Open source Bitcoin miner hardware using BM1397 ASICs
 * 【2023-08-29】[carlcastanas / Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap) - 
 * 【2023-08-29】[BoredHackerBlog / winrar_CVE-2023-38831_lazy_poc](https://github.com/BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc) - lazy way to create CVE-2023-38831 winrar file for testing
 * 【2023-08-29】[jthack / PIPE](https://github.com/jthack/PIPE) - Prompt Injection Primer for Engineers
