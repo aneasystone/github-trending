@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-08-31】[BEPb / BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
+* 【2023-08-31】[withfig / autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
+* 【2023-08-31】[edarchimbaud / awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 * 【2023-08-30】[b1tg / CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit) - CVE-2023-38831 winrar exploit generator
 * 【2023-08-29】[paradigmxyz / rivet](https://github.com/paradigmxyz/rivet) - Developer Wallet & DevTools for Anvil
 * 【2023-08-28】[mehdihadeli / go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
@@ -129,6 +132,7 @@
 
 ## Java
 
+* 【2023-08-31】[steve-community / steve](https://github.com/steve-community/steve) - SteVe - OCPP server implementation in Java
 * 【2023-08-29】[kiegroup / kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 * 【2023-08-28】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 * 【2023-08-27】[OWASP / wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
@@ -165,6 +169,9 @@
 
 ## Python
 
+* 【2023-08-31】[openvinotoolkit / anomalib](https://github.com/openvinotoolkit/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
+* 【2023-08-31】[miloyip / game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
+* 【2023-08-31】[ignis-sec / CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE) - An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23
 * 【2023-08-30】[plotly / dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 * 【2023-08-30】[hastagAB / Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 * 【2023-08-30】[watchtowrlabs / juniper-rce_cve-2023-36844](https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844) - 
@@ -257,6 +264,8 @@
 
 ## Javascript
 
+* 【2023-08-31】[i18next / react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+* 【2023-08-31】[palxiao / poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
 * 【2023-08-30】[levinunnink / html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2023 Script Editor)
 * 【2023-08-30】[tensorflow / tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js
 * 【2023-08-29】[ollama-ui / ollama-ui](https://github.com/ollama-ui/ollama-ui) - Simple HTML UI for Ollama
@@ -319,6 +328,7 @@
 
 ## Go
 
+* 【2023-08-31】[hybridgroup / gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 * 【2023-08-29】[osteele / gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
 * 【2023-08-27】[Databingo / aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Source | Research | Academic Assistance )
 * 【2023-08-27】[dop251 / goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
@@ -408,6 +418,7 @@
 
 ## C++
 
+* 【2023-08-31】[hanickadot / compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - Compile Time Regular Expression in C++
 * 【2023-08-30】[florylsk / NtRemoteLoad](https://github.com/florylsk/NtRemoteLoad) - Remote Shellcode Injector
 * 【2023-08-28】[Octoberfest7 / CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) - Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE
 * 【2023-08-28】[shuai132 / rpc_core](https://github.com/shuai132/rpc_core) - a tiny c++11 rpc library, support all platform even microchips(Arduino、STM32、ESP32/ESP8266 ...)
@@ -492,6 +503,7 @@
 
 ## Html
 
+* 【2023-08-31】[mthcht / ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
 * 【2023-08-30】[wangzhe3224 / awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 * 【2023-08-28】[brunoborges / rinha-app](https://github.com/brunoborges/rinha-app) - 
 * 【2023-08-27】[WordPress / twentytwentyfour](https://github.com/WordPress/twentytwentyfour) - 
@@ -542,6 +554,9 @@
 
 ## Css
 
+* 【2023-08-31】[kevinsullivan / cs2120f23](https://github.com/kevinsullivan/cs2120f23) - UVa Discrete Mathematics CS2120 Fall 2023
+* 【2023-08-31】[joy-of-react / project-wordle](https://github.com/joy-of-react/project-wordle) - 
+* 【2023-08-31】[SamPandey001 / Secktor-Qr-Md](https://github.com/SamPandey001/Secktor-Qr-Md) - Secktor userbot's session generator
 * 【2023-08-30】[dbarzin / deming](https://github.com/dbarzin/deming) - Management tool for the information security management system / Outil de gestion du système de management de la sécurité de l'information
 * 【2023-08-30】[caio-ribeiro-pereira / livro-nodejs](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Repositório público com códigos de exemplos do livro: Aplicações web real-time com Node.js
 * 【2023-08-29】[pagers-org / react-world](https://github.com/pagers-org/react-world) - "The mother of all demo apps" — 리얼 월드 to 리액트 월드🫶
@@ -609,6 +624,8 @@
 
 ## Unknown
 
+* 【2023-08-31】[aman0046 / LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) - Here is the last minute revision notes of Object Oriented Programming
+* 【2023-08-31】[magic-research / magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 * 【2023-08-30】[rodolfomarianocy / OSCP-Tricks-2023](https://github.com/rodolfomarianocy/OSCP-Tricks-2023) - OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines
 * 【2023-08-30】[TriedCoderX / JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs](https://github.com/TriedCoderX/JavaScript-Triangular-Arbitrage-Bot-V5-for-Decentralize-DEXs) - Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and reliable, start earning more today!
 * 【2023-08-30】[m1-llie / TUMCC](https://github.com/m1-llie/TUMCC) - Telegram地下市场中文黑话识别语料集。Telegram Underground Market Chinese Corpus. Paper: Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features (IP&M, 2022).
