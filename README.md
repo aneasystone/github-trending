@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-09-02】[mylxsw / aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+* 【2023-09-02】[microsoft / BatteryML](https://github.com/microsoft/BatteryML) - 
 * 【2023-09-01】[facebookresearch / nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 * 【2023-09-01】[Roblox / creator-docs](https://github.com/Roblox/creator-docs) - Open Source Creator Documentation
 * 【2023-09-01】[langfuse / langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications
@@ -177,6 +179,8 @@
 
 ## Python
 
+* 【2023-09-02】[apple / axlearn](https://github.com/apple/axlearn) - 
+* 【2023-09-02】[KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 * 【2023-09-01】[W01fh4cker / VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
 * 【2023-08-31】[openvinotoolkit / anomalib](https://github.com/openvinotoolkit/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2023-08-31】[miloyip / game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
@@ -273,6 +277,10 @@
 
 ## Javascript
 
+* 【2023-09-02】[chartbrew / chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more 📈📊
+* 【2023-09-02】[phith0n / vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
+* 【2023-09-02】[helloextend / react-challenge](https://github.com/helloextend/react-challenge) - A React challenge for Extend front end candidates
+* 【2023-09-02】[fishjar / kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script (一个简约的双语网页翻译扩展 & 油猴脚本。)
 * 【2023-09-01】[94xy / miniprogram-privacy](https://github.com/94xy/miniprogram-privacy) - 小程序用户隐私保护授权弹窗组件
 * 【2023-08-31】[i18next / react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 * 【2023-08-31】[palxiao / poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
@@ -338,6 +346,7 @@
 
 ## Go
 
+* 【2023-09-02】[aandrew-me / tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 * 【2023-09-01】[antlabs / quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法
 * 【2023-08-31】[hybridgroup / gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 * 【2023-08-29】[osteele / gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
@@ -378,6 +387,8 @@
 
 ## C
 
+* 【2023-09-02】[OtterHacker / Conferences](https://github.com/OtterHacker/Conferences) - 
+* 【2023-09-02】[hackerschoice / thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 * 【2023-09-01】[lastpass / lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 * 【2023-09-01】[gabriellandau / EDRSandblast-GodFault](https://github.com/gabriellandau/EDRSandblast-GodFault) - EDRSandblast-GodFault
 * 【2023-09-01】[Azure / azure-c-shared-utility](https://github.com/Azure/azure-c-shared-utility) - Azure C SDKs common code
@@ -432,6 +443,7 @@
 
 ## C++
 
+* 【2023-09-02】[TheScienceElf / Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 * 【2023-09-01】[Alwaysssssss / nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 * 【2023-08-31】[hanickadot / compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - Compile Time Regular Expression in C++
 * 【2023-08-30】[florylsk / NtRemoteLoad](https://github.com/florylsk/NtRemoteLoad) - Remote Shellcode Injector
@@ -472,6 +484,7 @@
 
 ## C#
 
+* 【2023-09-02】[YMoonRiver / hybridclr_addressable](https://github.com/YMoonRiver/hybridclr_addressable) - 开箱即用的商业游戏框架，集成了主流的开发工具。将主流的GameFramework修改，支持Addressable和AssetBundle，已完善打包工具和流程。
 * 【2023-08-30】[DarkCoderSc / SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe) - This lightweight C# demo application showcases interactive remote shell access via named pipes and the SMB protocol.
 * 【2023-08-30】[pdone / FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备。
 * 【2023-08-27】[dmcxblue / SharpBlackout](https://github.com/dmcxblue/SharpBlackout) - Terminate AV/EDR leveraging BYOVD attack
@@ -518,6 +531,7 @@
 
 ## Html
 
+* 【2023-09-02】[leommxj / prebuilt-multiarch-bin](https://github.com/leommxj/prebuilt-multiarch-bin) - prebuilt binaries for multiple architeture
 * 【2023-09-01】[kananinirav / AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) - AWS Certified Cloud Practitioner Short Notes And Practice Exams
 * 【2023-08-31】[mthcht / ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
 * 【2023-08-30】[wangzhe3224 / awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
@@ -570,6 +584,7 @@
 
 ## Css
 
+* 【2023-09-02】[practicehealth / assignemnt](https://github.com/practicehealth/assignemnt) - 
 * 【2023-09-01】[truong-van-an / totinhcrush](https://github.com/truong-van-an/totinhcrush) - 
 * 【2023-09-01】[WebStackAcademy2023 / WSA-Internship](https://github.com/WebStackAcademy2023/WSA-Internship) - 
 * 【2023-09-01】[interactive-structures / pui-materials](https://github.com/interactive-structures/pui-materials) - 
@@ -643,6 +658,10 @@
 
 ## Unknown
 
+* 【2023-09-02】[FlyByCoders / JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS](https://github.com/FlyByCoders/JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS) - Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and easy to use, start trading smarter.
+* 【2023-09-02】[connext / community-sybil-reports](https://github.com/connext/community-sybil-reports) - 
+* 【2023-09-02】[alx-tools / Jobs](https://github.com/alx-tools/Jobs) - ALX SE team - job board
+* 【2023-09-02】[codicate / underclassmen-internships](https://github.com/codicate/underclassmen-internships) - Curated list of internships/externships/fellowships exclusive for CS freshman and sophomore (2024)
 * 【2023-09-01】[CoderRonX / JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs](https://github.com/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs) - Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and reliable, start earning more today!
 * 【2023-09-01】[magic-research / magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
 * 【2023-09-01】[knight0x07 / WinRAR-Code-Execution-Vulnerability-CVE-2023-38831](https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831) - Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)
