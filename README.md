@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-09-03】[OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software with Natural Language Ideas
+* 【2023-09-03】[NetEase / tango](https://github.com/NetEase/tango) - A source code based low-code builder without private schema. Integrate low-code into your local development workflow seamlessly.
+* 【2023-09-03】[ghostfolio / ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 * 【2023-09-02】[mylxsw / aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 * 【2023-09-02】[microsoft / BatteryML](https://github.com/microsoft/BatteryML) - 
 * 【2023-09-01】[facebookresearch / nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
@@ -179,6 +182,8 @@
 
 ## Python
 
+* 【2023-09-03】[InternLM / xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
+* 【2023-09-03】[Night-stars-1 / Auto_Star_Rail](https://github.com/Night-stars-1/Auto_Star_Rail) - 基于小地图的自动锄大地（未完工）
 * 【2023-09-02】[apple / axlearn](https://github.com/apple/axlearn) - 
 * 【2023-09-02】[KillianLucas / open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally.
 * 【2023-09-01】[W01fh4cker / VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
@@ -346,6 +351,9 @@
 
 ## Go
 
+* 【2023-09-03】[eclipse / paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
+* 【2023-09-03】[nickvourd / Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryption tool.
+* 【2023-09-03】[hashicorp / go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 * 【2023-09-02】[aandrew-me / tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 * 【2023-09-01】[antlabs / quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法
 * 【2023-08-31】[hybridgroup / gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
@@ -387,6 +395,7 @@
 
 ## C
 
+* 【2023-09-03】[FrenkelS / Doom8088](https://github.com/FrenkelS/Doom8088) - Doom for 16-bit DOS computers
 * 【2023-09-02】[OtterHacker / Conferences](https://github.com/OtterHacker/Conferences) - 
 * 【2023-09-02】[hackerschoice / thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 * 【2023-09-01】[lastpass / lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
@@ -443,6 +452,8 @@
 
 ## C++
 
+* 【2023-09-03】[starkware-libs / stone-prover](https://github.com/starkware-libs/stone-prover) - 
+* 【2023-09-03】[prajna-lang / prajna](https://github.com/prajna-lang/prajna) - a program language for AI infrastructure
 * 【2023-09-02】[TheScienceElf / Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 * 【2023-09-01】[Alwaysssssss / nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 * 【2023-08-31】[hanickadot / compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - Compile Time Regular Expression in C++
@@ -484,6 +495,7 @@
 
 ## C#
 
+* 【2023-09-03】[Nexus-Mods / NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 * 【2023-09-02】[YMoonRiver / hybridclr_addressable](https://github.com/YMoonRiver/hybridclr_addressable) - 开箱即用的商业游戏框架，集成了主流的开发工具。将主流的GameFramework修改，支持Addressable和AssetBundle，已完善打包工具和流程。
 * 【2023-08-30】[DarkCoderSc / SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe) - This lightweight C# demo application showcases interactive remote shell access via named pipes and the SMB protocol.
 * 【2023-08-30】[pdone / FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备。
@@ -584,6 +596,10 @@
 
 ## Css
 
+* 【2023-09-03】[SAKTHEESWARI-B / Guvi](https://github.com/SAKTHEESWARI-B/Guvi) - 
+* 【2023-09-03】[santheesh52 / login](https://github.com/santheesh52/login) - 
+* 【2023-09-03】[riptano / docs-ui](https://github.com/riptano/docs-ui) - The UI and theme for the DataStax documentation site.
+* 【2023-09-03】[AravinthSrini / Portfolio](https://github.com/AravinthSrini/Portfolio) - 
 * 【2023-09-02】[practicehealth / assignemnt](https://github.com/practicehealth/assignemnt) - 
 * 【2023-09-01】[truong-van-an / totinhcrush](https://github.com/truong-van-an/totinhcrush) - 
 * 【2023-09-01】[WebStackAcademy2023 / WSA-Internship](https://github.com/WebStackAcademy2023/WSA-Internship) - 
@@ -658,6 +674,10 @@
 
 ## Unknown
 
+* 【2023-09-03】[offTheWallsCoder / JavaScript-DEX-Front-Running-Bot-V-4](https://github.com/offTheWallsCoder/JavaScript-DEX-Front-Running-Bot-V-4) - Looking to maximize your earnings? Our 100% JavaScript bot executes Front Running on DEX's for easy profits. Open-source and reliable, start using it today!
+* 【2023-09-03】[mylxsw / aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+* 【2023-09-03】[aman0046 / Which-companies-hires-when-and-through-which-platform](https://github.com/aman0046/Which-companies-hires-when-and-through-which-platform) - 
+* 【2023-09-03】[nodesource / distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 * 【2023-09-02】[FlyByCoders / JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS](https://github.com/FlyByCoders/JavaScript-Triangular-Arbitrage-Bot-V4-for-DEXS) - Save time and maximize your profits with our JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and easy to use, start trading smarter.
 * 【2023-09-02】[connext / community-sybil-reports](https://github.com/connext/community-sybil-reports) - 
 * 【2023-09-02】[alx-tools / Jobs](https://github.com/alx-tools/Jobs) - ALX SE team - job board
