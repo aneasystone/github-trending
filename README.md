@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-09-04】[biomejs / biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
+* 【2023-09-04】[luban-agi / Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
+* 【2023-09-04】[cofactoryai / textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
 * 【2023-09-03】[OpenBMB / ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software with Natural Language Ideas
 * 【2023-09-03】[NetEase / tango](https://github.com/NetEase/tango) - A source code based low-code builder without private schema. Integrate low-code into your local development workflow seamlessly.
 * 【2023-09-03】[ghostfolio / ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
@@ -182,6 +185,8 @@
 
 ## Python
 
+* 【2023-09-04】[estebanpdl / osintgpt](https://github.com/estebanpdl/osintgpt) - An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing
+* 【2023-09-04】[APT64 / EternalHushFramework](https://github.com/APT64/EternalHushFramework) - EternalHush - new free advanced open-source c2 framework
 * 【2023-09-03】[InternLM / xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
 * 【2023-09-03】[Night-stars-1 / Auto_Star_Rail](https://github.com/Night-stars-1/Auto_Star_Rail) - 基于小地图的自动锄大地（未完工）
 * 【2023-09-02】[apple / axlearn](https://github.com/apple/axlearn) - 
@@ -282,6 +287,7 @@
 
 ## Javascript
 
+* 【2023-09-04】[nz-m / SocialEcho](https://github.com/nz-m/SocialEcho) - Social networking platform with automated content moderation and context-based authentication system using the MERN stack
 * 【2023-09-02】[chartbrew / chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more 📈📊
 * 【2023-09-02】[phith0n / vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
 * 【2023-09-02】[helloextend / react-challenge](https://github.com/helloextend/react-challenge) - A React challenge for Extend front end candidates
@@ -351,6 +357,7 @@
 
 ## Go
 
+* 【2023-09-04】[tastypepperoni / PPLBlade](https://github.com/tastypepperoni/PPLBlade) - Protected Process Dumper Tool
 * 【2023-09-03】[eclipse / paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 * 【2023-09-03】[nickvourd / Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryption tool.
 * 【2023-09-03】[hashicorp / go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
@@ -452,6 +459,7 @@
 
 ## C++
 
+* 【2023-09-04】[ianpatt / sfse](https://github.com/ianpatt/sfse) - Starfield Script Extender
 * 【2023-09-03】[starkware-libs / stone-prover](https://github.com/starkware-libs/stone-prover) - 
 * 【2023-09-03】[prajna-lang / prajna](https://github.com/prajna-lang/prajna) - a program language for AI infrastructure
 * 【2023-09-02】[TheScienceElf / Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
@@ -543,6 +551,9 @@
 
 ## Html
 
+* 【2023-09-04】[WestHealth / pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
+* 【2023-09-04】[Trixarian / NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
+* 【2023-09-04】[judge0 / judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 * 【2023-09-02】[leommxj / prebuilt-multiarch-bin](https://github.com/leommxj/prebuilt-multiarch-bin) - prebuilt binaries for multiple architeture
 * 【2023-09-01】[kananinirav / AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) - AWS Certified Cloud Practitioner Short Notes And Practice Exams
 * 【2023-08-31】[mthcht / ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
@@ -596,6 +607,7 @@
 
 ## Css
 
+* 【2023-09-04】[imfing / hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 * 【2023-09-03】[SAKTHEESWARI-B / Guvi](https://github.com/SAKTHEESWARI-B/Guvi) - 
 * 【2023-09-03】[santheesh52 / login](https://github.com/santheesh52/login) - 
 * 【2023-09-03】[riptano / docs-ui](https://github.com/riptano/docs-ui) - The UI and theme for the DataStax documentation site.
@@ -674,6 +686,13 @@
 
 ## Unknown
 
+* 【2023-09-04】[scaleracademy / scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge) - 
+* 【2023-09-04】[wukongdaily / allinonescript](https://github.com/wukongdaily/allinonescript) - 在软路由命令行中一键安装多个插件
+* 【2023-09-04】[MV-Dream / MVDream](https://github.com/MV-Dream/MVDream) - code page placeholder
+* 【2023-09-04】[SimplifyJobs / New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of New Grad full time roles in SWE, Quant, and PM.
+* 【2023-09-04】[JimMeetCode / JavaScript-Yield-Farming-Bot-v4-with-Stoploss](https://github.com/JimMeetCode/JavaScript-Yield-Farming-Bot-v4-with-Stoploss) - Increase your earnings with our JavaScript bot that executes Yield Farming on DEX's. Open-source and proven to work, start trading smarter.
+* 【2023-09-04】[Starfield-Community-Patch / Starfield-Community-Patch](https://github.com/Starfield-Community-Patch/Starfield-Community-Patch) - The Community Patch project for Starfield.
+* 【2023-09-04】[MAnggiarMustofa / GI-Download-Library](https://github.com/MAnggiarMustofa/GI-Download-Library) - Library of a certain Anime Game's Release, Beta and Audio files
 * 【2023-09-03】[offTheWallsCoder / JavaScript-DEX-Front-Running-Bot-V-4](https://github.com/offTheWallsCoder/JavaScript-DEX-Front-Running-Bot-V-4) - Looking to maximize your earnings? Our 100% JavaScript bot executes Front Running on DEX's for easy profits. Open-source and reliable, start using it today!
 * 【2023-09-03】[mylxsw / aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 * 【2023-09-03】[aman0046 / Which-companies-hires-when-and-through-which-platform](https://github.com/aman0046/Which-companies-hires-when-and-through-which-platform) - 
