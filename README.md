@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-09-05】[armbian / build](https://github.com/armbian/build) - Armbian Linux Build Framework
 * 【2023-09-04】[biomejs / biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 * 【2023-09-04】[luban-agi / Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
 * 【2023-09-04】[cofactoryai / textbase](https://github.com/cofactoryai/textbase) - ✨ Textbase is a simple framework for building AI chatbots. ✨
@@ -147,6 +148,8 @@
 
 ## Java
 
+* 【2023-09-05】[FRANKSTEIN11 / socket_kafka](https://github.com/FRANKSTEIN11/socket_kafka) - websocket + kafka , websocket to chat , kafka to do something you define
+* 【2023-09-05】[kevin-wayne / algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
 * 【2023-09-01】[redplanetlabs / twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon) - Twitter-scale Mastodon implementation in only 10k lines of code
 * 【2023-08-31】[steve-community / steve](https://github.com/steve-community/steve) - SteVe - OCPP server implementation in Java
 * 【2023-08-29】[kiegroup / kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
@@ -185,6 +188,9 @@
 
 ## Python
 
+* 【2023-09-05】[sinsinology / CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) - VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)
+* 【2023-09-05】[HernanRodriguez1 / Dorks-Shodan-2023](https://github.com/HernanRodriguez1/Dorks-Shodan-2023) - Shodan Dorks 2023
+* 【2023-09-05】[hellonlp / classifier-multi-label](https://github.com/hellonlp/classifier-multi-label) - 多标签文本分类，多标签分类，文本分类, multi-label, classifier, text classification, BERT, seq2seq，attention, multi-label-classification
 * 【2023-09-04】[estebanpdl / osintgpt](https://github.com/estebanpdl/osintgpt) - An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing
 * 【2023-09-04】[APT64 / EternalHushFramework](https://github.com/APT64/EternalHushFramework) - EternalHush - new free advanced open-source c2 framework
 * 【2023-09-03】[InternLM / xtuner](https://github.com/InternLM/xtuner) - XTuner is a toolkit for efficiently fine-tuning LLM
@@ -287,6 +293,9 @@
 
 ## Javascript
 
+* 【2023-09-05】[kasmiyouness / youthumb](https://github.com/kasmiyouness/youthumb) - 
+* 【2023-09-05】[vish4395 / laravel-file-viewer](https://github.com/vish4395/laravel-file-viewer) - A basic file viewer for Laravel projects.
+* 【2023-09-05】[sangammukherjee / NextJS-Ecommerce-2023](https://github.com/sangammukherjee/NextJS-Ecommerce-2023) - 
 * 【2023-09-04】[nz-m / SocialEcho](https://github.com/nz-m/SocialEcho) - Social networking platform with automated content moderation and context-based authentication system using the MERN stack
 * 【2023-09-02】[chartbrew / chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more 📈📊
 * 【2023-09-02】[phith0n / vueinfo](https://github.com/phith0n/vueinfo) - Extract website information from Vue
@@ -357,6 +366,8 @@
 
 ## Go
 
+* 【2023-09-05】[go-vgo / robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation @vcaesar
+* 【2023-09-05】[synacktiv / CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) - Pwn2Own Vancouver 2023 Ubuntu LPE exploit
 * 【2023-09-04】[tastypepperoni / PPLBlade](https://github.com/tastypepperoni/PPLBlade) - Protected Process Dumper Tool
 * 【2023-09-03】[eclipse / paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) - 
 * 【2023-09-03】[nickvourd / Supernova](https://github.com/nickvourd/Supernova) - Real fucking shellcode encryption tool.
@@ -402,6 +413,8 @@
 
 ## C
 
+* 【2023-09-05】[tsoding / musializer](https://github.com/tsoding/musializer) - Music Visualizer
+* 【2023-09-05】[ledoge / autohdr_force](https://github.com/ledoge/autohdr_force) - Force enable Auto HDR per application via registry
 * 【2023-09-03】[FrenkelS / Doom8088](https://github.com/FrenkelS/Doom8088) - Doom for 16-bit DOS computers
 * 【2023-09-02】[OtterHacker / Conferences](https://github.com/OtterHacker/Conferences) - 
 * 【2023-09-02】[hackerschoice / thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
@@ -503,6 +516,7 @@
 
 ## C#
 
+* 【2023-09-05】[scripthookvdotnet / scripthookvdotnet](https://github.com/scripthookvdotnet/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.
 * 【2023-09-03】[Nexus-Mods / NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 * 【2023-09-02】[YMoonRiver / hybridclr_addressable](https://github.com/YMoonRiver/hybridclr_addressable) - 开箱即用的商业游戏框架，集成了主流的开发工具。将主流的GameFramework修改，支持Addressable和AssetBundle，已完善打包工具和流程。
 * 【2023-08-30】[DarkCoderSc / SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe) - This lightweight C# demo application showcases interactive remote shell access via named pipes and the SMB protocol.
@@ -551,6 +565,9 @@
 
 ## Html
 
+* 【2023-09-05】[infogulch / xrss](https://github.com/infogulch/xrss) - 
+* 【2023-09-05】[argyleink / open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
+* 【2023-09-05】[TheAlgorithms / TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
 * 【2023-09-04】[WestHealth / pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
 * 【2023-09-04】[Trixarian / NetherSX2-patch](https://github.com/Trixarian/NetherSX2-patch) - Unofficial Patches for NetherSX2
 * 【2023-09-04】[judge0 / judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
@@ -686,6 +703,8 @@
 
 ## Unknown
 
+* 【2023-09-05】[ProGailCoders / JavaScript-DEXs-Triangular-Arbitrage-Bot-V4](https://github.com/ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4) - Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX's for easy profits. Open-source and reliable, start using it today!
+* 【2023-09-05】[iam-veeramalla / terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) - Master Terraform in 7 days using this Zero to Hero course.
 * 【2023-09-04】[scaleracademy / scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge) - 
 * 【2023-09-04】[wukongdaily / allinonescript](https://github.com/wukongdaily/allinonescript) - 在软路由命令行中一键安装多个插件
 * 【2023-09-04】[MV-Dream / MVDream](https://github.com/MV-Dream/MVDream) - code page placeholder
