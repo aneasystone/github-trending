@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-09-06】[firezone / firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 * 【2023-09-05】[armbian / build](https://github.com/armbian/build) - Armbian Linux Build Framework
 * 【2023-09-04】[biomejs / biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
 * 【2023-09-04】[luban-agi / Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
@@ -148,6 +149,8 @@
 
 ## Java
 
+* 【2023-09-06】[kumaransg / LLD](https://github.com/kumaransg/LLD) - Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.
+* 【2023-09-06】[kousiknath / LowLevelDesign](https://github.com/kousiknath/LowLevelDesign) - Various Low Level Object Oriented System Design problems are discussed in this space
 * 【2023-09-05】[FRANKSTEIN11 / socket_kafka](https://github.com/FRANKSTEIN11/socket_kafka) - websocket + kafka , websocket to chat , kafka to do something you define
 * 【2023-09-05】[kevin-wayne / algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
 * 【2023-09-01】[redplanetlabs / twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon) - Twitter-scale Mastodon implementation in only 10k lines of code
@@ -188,6 +191,7 @@
 
 ## Python
 
+* 【2023-09-06】[qutebrowser / qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 * 【2023-09-05】[sinsinology / CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) - VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)
 * 【2023-09-05】[HernanRodriguez1 / Dorks-Shodan-2023](https://github.com/HernanRodriguez1/Dorks-Shodan-2023) - Shodan Dorks 2023
 * 【2023-09-05】[hellonlp / classifier-multi-label](https://github.com/hellonlp/classifier-multi-label) - 多标签文本分类，多标签分类，文本分类, multi-label, classifier, text classification, BERT, seq2seq，attention, multi-label-classification
@@ -293,6 +297,8 @@
 
 ## Javascript
 
+* 【2023-09-06】[Maplemx / Agently](https://github.com/Maplemx/Agently) - 🚀 A fast way to build LLM Agent based Application 🤵 A light weight framework helps developers to create amazing LLM based applications. 🎭 You can use it to create an LLM based agent instance with role set and memory easily. ⚙️ You can use Agently agent instance just like an async function and put it anywhere in your code.
+* 【2023-09-06】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 * 【2023-09-05】[kasmiyouness / youthumb](https://github.com/kasmiyouness/youthumb) - 
 * 【2023-09-05】[vish4395 / laravel-file-viewer](https://github.com/vish4395/laravel-file-viewer) - A basic file viewer for Laravel projects.
 * 【2023-09-05】[sangammukherjee / NextJS-Ecommerce-2023](https://github.com/sangammukherjee/NextJS-Ecommerce-2023) - 
@@ -366,6 +372,9 @@
 
 ## Go
 
+* 【2023-09-06】[italiaremote / awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
+* 【2023-09-06】[AdminTurnedDevOps / kubernetes-examples](https://github.com/AdminTurnedDevOps/kubernetes-examples) - This repo contains a bunch of Kubernetes examples
+* 【2023-09-06】[publicsuffix / list](https://github.com/publicsuffix/list) - The Public Suffix List
 * 【2023-09-05】[go-vgo / robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation @vcaesar
 * 【2023-09-05】[synacktiv / CVE-2023-35001](https://github.com/synacktiv/CVE-2023-35001) - Pwn2Own Vancouver 2023 Ubuntu LPE exploit
 * 【2023-09-04】[tastypepperoni / PPLBlade](https://github.com/tastypepperoni/PPLBlade) - Protected Process Dumper Tool
@@ -413,6 +422,10 @@
 
 ## C
 
+* 【2023-09-06】[wangfly-me / LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
+* 【2023-09-06】[FiniteSingularity / obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur) - A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.
+* 【2023-09-06】[samboy / MaraDNS](https://github.com/samboy/MaraDNS) - MaraDNS: A small open-source DNS server
+* 【2023-09-06】[lcp0578 / book-note](https://github.com/lcp0578/book-note) - 📖 book note,读书笔记
 * 【2023-09-05】[tsoding / musializer](https://github.com/tsoding/musializer) - Music Visualizer
 * 【2023-09-05】[ledoge / autohdr_force](https://github.com/ledoge/autohdr_force) - Force enable Auto HDR per application via registry
 * 【2023-09-03】[FrenkelS / Doom8088](https://github.com/FrenkelS/Doom8088) - Doom for 16-bit DOS computers
@@ -472,6 +485,8 @@
 
 ## C++
 
+* 【2023-09-06】[pbek / QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+* 【2023-09-06】[ThirteenAG / Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
 * 【2023-09-04】[ianpatt / sfse](https://github.com/ianpatt/sfse) - Starfield Script Extender
 * 【2023-09-03】[starkware-libs / stone-prover](https://github.com/starkware-libs/stone-prover) - 
 * 【2023-09-03】[prajna-lang / prajna](https://github.com/prajna-lang/prajna) - a program language for AI infrastructure
@@ -516,6 +531,7 @@
 
 ## C#
 
+* 【2023-09-06】[matterpreter / OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
 * 【2023-09-05】[scripthookvdotnet / scripthookvdotnet](https://github.com/scripthookvdotnet/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.
 * 【2023-09-03】[Nexus-Mods / NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
 * 【2023-09-02】[YMoonRiver / hybridclr_addressable](https://github.com/YMoonRiver/hybridclr_addressable) - 开箱即用的商业游戏框架，集成了主流的开发工具。将主流的GameFramework修改，支持Addressable和AssetBundle，已完善打包工具和流程。
@@ -565,6 +581,8 @@
 
 ## Html
 
+* 【2023-09-06】[ballerina-platform / ballerina-dev-website](https://github.com/ballerina-platform/ballerina-dev-website) - Dev version of the ballerina.io website
+* 【2023-09-06】[frwololo / PS4_PS5-ESP8266-Server](https://github.com/frwololo/PS4_PS5-ESP8266-Server) - A WebServer+Wifi Repeater+Fake DNS Server to Host PS4/PS5 Exploits on ESP8266
 * 【2023-09-05】[infogulch / xrss](https://github.com/infogulch/xrss) - 
 * 【2023-09-05】[argyleink / open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 * 【2023-09-05】[TheAlgorithms / TheAlgorithms.github.io](https://github.com/TheAlgorithms/TheAlgorithms.github.io) - This website is deprecated. The new website is https://the-algorithms.com. You can see the old website by going to https://thealgorithms.github.io/index-old.html
@@ -624,6 +642,7 @@
 
 ## Css
 
+* 【2023-09-06】[qdrant / landing_page](https://github.com/qdrant/landing_page) - Landing page for qdrant.tech
 * 【2023-09-04】[imfing / hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 * 【2023-09-03】[SAKTHEESWARI-B / Guvi](https://github.com/SAKTHEESWARI-B/Guvi) - 
 * 【2023-09-03】[santheesh52 / login](https://github.com/santheesh52/login) - 
