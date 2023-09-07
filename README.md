@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-09-07】[pengzhile / cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。
+* 【2023-09-07】[jzhang38 / TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+* 【2023-09-07】[safak / next-blog](https://github.com/safak/next-blog) - 
+* 【2023-09-07】[magento / magento2](https://github.com/magento/magento2) - Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.
+* 【2023-09-07】[aigc-apps / sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
+* 【2023-09-07】[shadowsocks / shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+* 【2023-09-07】[linuxdeepin / deepin-unioncode](https://github.com/linuxdeepin/deepin-unioncode) - IDE authored by deepin
 * 【2023-09-06】[firezone / firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
 * 【2023-09-05】[armbian / build](https://github.com/armbian/build) - Armbian Linux Build Framework
 * 【2023-09-04】[biomejs / biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.
@@ -191,6 +198,10 @@
 
 ## Python
 
+* 【2023-09-07】[ReshotAI / gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
+* 【2023-09-07】[georgian-io / LLM-Finetuning-Hub](https://github.com/georgian-io/LLM-Finetuning-Hub) - Repository that contains LLM fine-tuning and deployment scripts along with our research findings.
+* 【2023-09-07】[botesjuan / Burp-Suite-Certified-Practitioner-Exam-Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study) - Burp Suite Certified Practitioner Exam Study
+* 【2023-09-07】[lonnyzhang423 / douyin-hot-hub](https://github.com/lonnyzhang423/douyin-hot-hub) - 记录抖音热榜、明星榜、直播榜、音乐榜和品牌榜，每小时更新，按天归档。
 * 【2023-09-06】[qutebrowser / qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
 * 【2023-09-05】[sinsinology / CVE-2023-34039](https://github.com/sinsinology/CVE-2023-34039) - VMWare Aria Operations for Networks (vRealize Network Insight) Static SSH key RCE (CVE-2023-34039)
 * 【2023-09-05】[HernanRodriguez1 / Dorks-Shodan-2023](https://github.com/HernanRodriguez1/Dorks-Shodan-2023) - Shodan Dorks 2023
@@ -297,6 +308,8 @@
 
 ## Javascript
 
+* 【2023-09-07】[akshaymarch7 / netflix-gpt](https://github.com/akshaymarch7/netflix-gpt) - 
+* 【2023-09-07】[mwilliamson / mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 * 【2023-09-06】[Maplemx / Agently](https://github.com/Maplemx/Agently) - 🚀 A fast way to build LLM Agent based Application 🤵 A light weight framework helps developers to create amazing LLM based applications. 🎭 You can use it to create an LLM based agent instance with role set and memory easily. ⚙️ You can use Agently agent instance just like an async function and put it anywhere in your code.
 * 【2023-09-06】[appium / appium-inspector](https://github.com/appium/appium-inspector) - A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server
 * 【2023-09-05】[kasmiyouness / youthumb](https://github.com/kasmiyouness/youthumb) - 
@@ -372,6 +385,8 @@
 
 ## Go
 
+* 【2023-09-07】[dustin / go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
+* 【2023-09-07】[lotusdblabs / lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value store written in Go, extremely fast, compatible with LSM tree and B+ tree, optimization of badger and bbolt.
 * 【2023-09-06】[italiaremote / awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
 * 【2023-09-06】[AdminTurnedDevOps / kubernetes-examples](https://github.com/AdminTurnedDevOps/kubernetes-examples) - This repo contains a bunch of Kubernetes examples
 * 【2023-09-06】[publicsuffix / list](https://github.com/publicsuffix/list) - The Public Suffix List
@@ -422,6 +437,8 @@
 
 ## C
 
+* 【2023-09-07】[Y3A / CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) - 
+* 【2023-09-07】[adrianseeley / FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and battery powered devices.
 * 【2023-09-06】[wangfly-me / LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
 * 【2023-09-06】[FiniteSingularity / obs-composite-blur](https://github.com/FiniteSingularity/obs-composite-blur) - A comprehensive blur plugin for OBS that provides several different blur algorithms, and proper compositing.
 * 【2023-09-06】[samboy / MaraDNS](https://github.com/samboy/MaraDNS) - MaraDNS: A small open-source DNS server
@@ -581,6 +598,7 @@
 
 ## Html
 
+* 【2023-09-07】[lonnyzhang423 / weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
 * 【2023-09-06】[ballerina-platform / ballerina-dev-website](https://github.com/ballerina-platform/ballerina-dev-website) - Dev version of the ballerina.io website
 * 【2023-09-06】[frwololo / PS4_PS5-ESP8266-Server](https://github.com/frwololo/PS4_PS5-ESP8266-Server) - A WebServer+Wifi Repeater+Fake DNS Server to Host PS4/PS5 Exploits on ESP8266
 * 【2023-09-05】[infogulch / xrss](https://github.com/infogulch/xrss) - 
@@ -642,6 +660,8 @@
 
 ## Css
 
+* 【2023-09-07】[ue12-p23 / intro](https://github.com/ue12-p23/intro) - 
+* 【2023-09-07】[zhangxinxu / html5Validate](https://github.com/zhangxinxu/html5Validate) - 基于HTML5新特性新规范的表单验证jQuery插件
 * 【2023-09-06】[qdrant / landing_page](https://github.com/qdrant/landing_page) - Landing page for qdrant.tech
 * 【2023-09-04】[imfing / hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 * 【2023-09-03】[SAKTHEESWARI-B / Guvi](https://github.com/SAKTHEESWARI-B/Guvi) - 
@@ -722,6 +742,7 @@
 
 ## Unknown
 
+* 【2023-09-07】[LetsDefend / awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) - Useful resources for SOC Analyst and SOC Analyst candidates.
 * 【2023-09-05】[ProGailCoders / JavaScript-DEXs-Triangular-Arbitrage-Bot-V4](https://github.com/ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4) - Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX's for easy profits. Open-source and reliable, start using it today!
 * 【2023-09-05】[iam-veeramalla / terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) - Master Terraform in 7 days using this Zero to Hero course.
 * 【2023-09-04】[scaleracademy / scaler-open-source-september-challenge](https://github.com/scaleracademy/scaler-open-source-september-challenge) - 
