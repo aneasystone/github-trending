@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-09-08】[opentffoundation / opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
+* 【2023-09-08】[run-llama / sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
+* 【2023-09-08】[EmNudge / watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
+* 【2023-09-08】[measuredco / puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
+* 【2023-09-08】[YavorGIvanov / sam.cpp](https://github.com/YavorGIvanov/sam.cpp) - 
+* 【2023-09-08】[microsoft / promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+* 【2023-09-08】[datawhalechina / thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch) - PyTorch入门教程，在线阅读地址：https://datawhalechina.github.io/thorough-pytorch/
 * 【2023-09-07】[pengzhile / cocopilot](https://github.com/pengzhile/cocopilot) - 你可以把它称为：联合副驾驶。
 * 【2023-09-07】[jzhang38 / TinyLlama](https://github.com/jzhang38/TinyLlama) - The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
 * 【2023-09-07】[safak / next-blog](https://github.com/safak/next-blog) - 
@@ -156,6 +163,10 @@
 
 ## Java
 
+* 【2023-09-08】[mas-elkhanza / SIMRS-Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia
+* 【2023-09-08】[fuhao0536 / box-im-master](https://github.com/fuhao0536/box-im-master) - 
+* 【2023-09-08】[jaygajera17 / E-commerce-project-springBoot](https://github.com/jaygajera17/E-commerce-project-springBoot) - This a web application Java Based Beginner level project To developing the e-commerce website to Buy/sell the Food Item. We use the Spring Boot to build the back-end part
+* 【2023-09-08】[dromara / disjob](https://github.com/dromara/disjob) - Disjob is a distributed job scheduling framework
 * 【2023-09-06】[kumaransg / LLD](https://github.com/kumaransg/LLD) - Curated Collection of all Low level design Questions and implementation asked in major Tech companies , Get yourself prepared for the LLD round and ace the interview.
 * 【2023-09-06】[kousiknath / LowLevelDesign](https://github.com/kousiknath/LowLevelDesign) - Various Low Level Object Oriented System Design problems are discussed in this space
 * 【2023-09-05】[FRANKSTEIN11 / socket_kafka](https://github.com/FRANKSTEIN11/socket_kafka) - websocket + kafka , websocket to chat , kafka to do something you define
@@ -198,6 +209,10 @@
 
 ## Python
 
+* 【2023-09-08】[XPixelGroup / DiffBIR](https://github.com/XPixelGroup/DiffBIR) - 
+* 【2023-09-08】[databricks / databricks-ml-examples](https://github.com/databricks/databricks-ml-examples) - 
+* 【2023-09-08】[smallcloudai / refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
+* 【2023-09-08】[xuebinqin / U-2-Net](https://github.com/xuebinqin/U-2-Net) - The code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection."
 * 【2023-09-07】[ReshotAI / gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
 * 【2023-09-07】[georgian-io / LLM-Finetuning-Hub](https://github.com/georgian-io/LLM-Finetuning-Hub) - Repository that contains LLM fine-tuning and deployment scripts along with our research findings.
 * 【2023-09-07】[botesjuan / Burp-Suite-Certified-Practitioner-Exam-Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study) - Burp Suite Certified Practitioner Exam Study
@@ -385,6 +400,9 @@
 
 ## Go
 
+* 【2023-09-08】[rigdev / rig](https://github.com/rigdev/rig) - Rig.dev is a developer-centric application platform for Kubernetes ⛵
+* 【2023-09-08】[oklog / ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
+* 【2023-09-08】[gonum / gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
 * 【2023-09-07】[dustin / go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 * 【2023-09-07】[lotusdblabs / lotusdb](https://github.com/lotusdblabs/lotusdb) - Most advanced key-value store written in Go, extremely fast, compatible with LSM tree and B+ tree, optimization of badger and bbolt.
 * 【2023-09-06】[italiaremote / awesome-italia-remote](https://github.com/italiaremote/awesome-italia-remote) - A list of remote-friendly or full-remote companies that targets Italian talents.
@@ -437,6 +455,7 @@
 
 ## C
 
+* 【2023-09-08】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2023-09-07】[Y3A / CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) - 
 * 【2023-09-07】[adrianseeley / FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and battery powered devices.
 * 【2023-09-06】[wangfly-me / LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
@@ -502,6 +521,8 @@
 
 ## C++
 
+* 【2023-09-08】[aras-p / UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
+* 【2023-09-08】[rasta-mouse / SCMUACBypass](https://github.com/rasta-mouse/SCMUACBypass) - 
 * 【2023-09-06】[pbek / QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 * 【2023-09-06】[ThirteenAG / Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) - ASI Loader is the tool that loads custom libraries with the file extension .asi into any game process.
 * 【2023-09-04】[ianpatt / sfse](https://github.com/ianpatt/sfse) - Starfield Script Extender
@@ -548,6 +569,9 @@
 
 ## C#
 
+* 【2023-09-08】[xuetaolu / URP_ASE_Tutorial](https://github.com/xuetaolu/URP_ASE_Tutorial) - Amplify Shader Editor Tutorial with Universal Render Pipeline
+* 【2023-09-08】[ascpixi / smolsharp](https://github.com/ascpixi/smolsharp) - 🐜 Extremely small standalone C# executables using NativeAOT
+* 【2023-09-08】[googleads / googleads-mobile-unity](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
 * 【2023-09-06】[matterpreter / OffensiveCSharp](https://github.com/matterpreter/OffensiveCSharp) - Collection of Offensive C# Tooling
 * 【2023-09-05】[scripthookvdotnet / scripthookvdotnet](https://github.com/scripthookvdotnet/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language on the .NET Framework runtime in-game.
 * 【2023-09-03】[Nexus-Mods / NexusMods.App](https://github.com/Nexus-Mods/NexusMods.App) - Home of the development of the Nexus Mods App
@@ -598,6 +622,7 @@
 
 ## Html
 
+* 【2023-09-08】[hammadojh / Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course) - Contains the course files and exercises
 * 【2023-09-07】[lonnyzhang423 / weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
 * 【2023-09-06】[ballerina-platform / ballerina-dev-website](https://github.com/ballerina-platform/ballerina-dev-website) - Dev version of the ballerina.io website
 * 【2023-09-06】[frwololo / PS4_PS5-ESP8266-Server](https://github.com/frwololo/PS4_PS5-ESP8266-Server) - A WebServer+Wifi Repeater+Fake DNS Server to Host PS4/PS5 Exploits on ESP8266
@@ -660,6 +685,8 @@
 
 ## Css
 
+* 【2023-09-08】[codedlabs / UC-web-cw-6](https://github.com/codedlabs/UC-web-cw-6) - 
+* 【2023-09-08】[CartWebApp / cart-profile](https://github.com/CartWebApp/cart-profile) - Cart Profile Example Code
 * 【2023-09-07】[ue12-p23 / intro](https://github.com/ue12-p23/intro) - 
 * 【2023-09-07】[zhangxinxu / html5Validate](https://github.com/zhangxinxu/html5Validate) - 基于HTML5新特性新规范的表单验证jQuery插件
 * 【2023-09-06】[qdrant / landing_page](https://github.com/qdrant/landing_page) - Landing page for qdrant.tech
@@ -742,6 +769,8 @@
 
 ## Unknown
 
+* 【2023-09-08】[farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
+* 【2023-09-08】[runningcheese / MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 * 【2023-09-07】[LetsDefend / awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) - Useful resources for SOC Analyst and SOC Analyst candidates.
 * 【2023-09-05】[ProGailCoders / JavaScript-DEXs-Triangular-Arbitrage-Bot-V4](https://github.com/ProGailCoders/JavaScript-DEXs-Triangular-Arbitrage-Bot-V4) - Looking to maximize your earnings? Our 100% JavaScript bot executes Triangular Arbitrage on DEX's for easy profits. Open-source and reliable, start using it today!
 * 【2023-09-05】[iam-veeramalla / terraform-zero-to-hero](https://github.com/iam-veeramalla/terraform-zero-to-hero) - Master Terraform in 7 days using this Zero to Hero course.
