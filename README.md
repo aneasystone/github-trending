@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-09-10】[bradtraversy / traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges) - Challenges & docs from JS Algorithms & Data Structures course
+* 【2023-09-10】[eth-infinitism / account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
+* 【2023-09-10】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
+* 【2023-09-10】[wechatpay-apiv3 / wechatpay-php](https://github.com/wechatpay-apiv3/wechatpay-php) - 微信支付 APIv3 的官方 PHP Library，同时也支持 APIv2
 * 【2023-09-09】[baichuan-inc / Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
 * 【2023-09-09】[aripiprazole / rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 * 【2023-09-09】[leandromoreira / linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
@@ -168,6 +172,8 @@
 
 ## Java
 
+* 【2023-09-10】[apache / incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
+* 【2023-09-10】[linkedin / coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 * 【2023-09-09】[eclipse / jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 * 【2023-09-09】[microsoft / ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) - Application Insights for Java
 * 【2023-09-08】[mas-elkhanza / SIMRS-Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia
@@ -216,6 +222,9 @@
 
 ## Python
 
+* 【2023-09-10】[aws-powertools / powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
+* 【2023-09-10】[OpenGVLab / LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+* 【2023-09-10】[Limitly / Free-Copilot](https://github.com/Limitly/Free-Copilot) - Get Github Copilot for free
 * 【2023-09-09】[Azure / azure-cli-extensions](https://github.com/Azure/azure-cli-extensions) - Public Repository for Extensions of Azure CLI.
 * 【2023-09-09】[modelscope / modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
 * 【2023-09-09】[weaviate / Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
@@ -335,6 +344,10 @@
 
 ## Javascript
 
+* 【2023-09-10】[ckolderup / postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
+* 【2023-09-10】[leeoniya / uDSV](https://github.com/leeoniya/uDSV) - A faster CSV parser in 5KB (min)
+* 【2023-09-10】[AllJavi / tartarus-startpage](https://github.com/AllJavi/tartarus-startpage) - Clean and functional startpage for firefox and chrome with material gruvbox style
+* 【2023-09-10】[SuhailTechInfo / Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md) - meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖
 * 【2023-09-09】[hotwired / turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 * 【2023-09-09】[developer-job-simulation / javascript-login-form](https://github.com/developer-job-simulation/javascript-login-form) - 
 * 【2023-09-09】[hiteshchoudhary / chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react) - chai aur react series on youtube
@@ -415,6 +428,7 @@
 
 ## Go
 
+* 【2023-09-10】[sqlc-dev / sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 * 【2023-09-08】[rigdev / rig](https://github.com/rigdev/rig) - Rig.dev is a developer-centric application platform for Kubernetes ⛵
 * 【2023-09-08】[oklog / ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
 * 【2023-09-08】[gonum / gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -470,6 +484,7 @@
 
 ## C
 
+* 【2023-09-10】[ByteOverlord / Watch_Quake2](https://github.com/ByteOverlord/Watch_Quake2) - Quake 2 port for Apple Watch
 * 【2023-09-09】[ddosify / alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
 * 【2023-09-08】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2023-09-07】[Y3A / CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) - 
@@ -537,6 +552,8 @@
 
 ## C++
 
+* 【2023-09-10】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
+* 【2023-09-10】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 * 【2023-09-09】[google-deepmind / mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * 【2023-09-08】[aras-p / UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
 * 【2023-09-08】[rasta-mouse / SCMUACBypass](https://github.com/rasta-mouse/SCMUACBypass) - 
@@ -586,6 +603,7 @@
 
 ## C#
 
+* 【2023-09-10】[MixedRealityToolkit / MixedRealityToolkit-Unity](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity) - This repository holds the third generation of the Mixed Reality Toolkit for Unity. The latest version of the MRTK can be found here.
 * 【2023-09-09】[bitfoundation / bitplatform](https://github.com/bitfoundation/bitplatform) - Build everything for everywhere using what you already know and love ❤️
 * 【2023-09-08】[xuetaolu / URP_ASE_Tutorial](https://github.com/xuetaolu/URP_ASE_Tutorial) - Amplify Shader Editor Tutorial with Universal Render Pipeline
 * 【2023-09-08】[ascpixi / smolsharp](https://github.com/ascpixi/smolsharp) - 🐜 Extremely small standalone C# executables using NativeAOT
@@ -640,6 +658,7 @@
 
 ## Html
 
+* 【2023-09-10】[kagisearch / smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 * 【2023-09-09】[platzi / curso-react-intro](https://github.com/platzi/curso-react-intro) - 
 * 【2023-09-08】[hammadojh / Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course) - Contains the course files and exercises
 * 【2023-09-07】[lonnyzhang423 / weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
@@ -704,6 +723,8 @@
 
 ## Css
 
+* 【2023-09-10】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
+* 【2023-09-10】[devopsbyraham / jenkins-java-project](https://github.com/devopsbyraham/jenkins-java-project) - 
 * 【2023-09-09】[supabase / gotrue-js](https://github.com/supabase/gotrue-js) - An isomorphic Javascript library for GoTrue.
 * 【2023-09-09】[sure-trust / G14_FSD](https://github.com/sure-trust/G14_FSD) - 
 * 【2023-09-09】[intel / appframework](https://github.com/intel/appframework) - The definitive HTML5 mobile javascript framework
@@ -794,6 +815,9 @@
 
 ## Unknown
 
+* 【2023-09-10】[2TimesMeta / Javdb-Top250](https://github.com/2TimesMeta/Javdb-Top250) - Javdb.com top 250 movies collection
+* 【2023-09-10】[okcar-os / android](https://github.com/okcar-os/android) - 
+* 【2023-09-10】[alaskasquirrel / Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 科讯、编程、设计、Vlog、音乐、访谈、博客...
 * 【2023-09-09】[protosphinx / in](https://github.com/protosphinx/in) - 
 * 【2023-09-09】[mitre / caldera-ot](https://github.com/mitre/caldera-ot) - Caldera OT Plugin & Capabilities
 * 【2023-09-09】[madebygps / projects](https://github.com/madebygps/projects) - 
