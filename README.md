@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-09-15】[rocketseat-education / nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
+* 【2023-09-15】[FL33TW00D / whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Whisper on the web - turbocharged by your GPU 🏎️
+* 【2023-09-15】[dataelement / bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
+* 【2023-09-15】[microsoft / azurechat](https://github.com/microsoft/azurechat) - 🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service
+* 【2023-09-15】[turboderp / exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+* 【2023-09-15】[TryQuiet / quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+* 【2023-09-15】[tairov / llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
+* 【2023-09-15】[OpenPipe / OpenPipe](https://github.com/OpenPipe/OpenPipe) - Turn expensive prompts into cheap fine-tuned models
 * 【2023-09-14】[tldraw / tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 * 【2023-09-14】[makepad / makepad](https://github.com/makepad/makepad) - Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl
 * 【2023-09-14】[FasterDecoding / Medusa](https://github.com/FasterDecoding/Medusa) - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads
@@ -236,6 +244,9 @@
 
 ## Python
 
+* 【2023-09-15】[n0a / telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
+* 【2023-09-15】[ZiwenZhuang / parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
+* 【2023-09-15】[mos9527 / pyncm](https://github.com/mos9527/pyncm) - 网易云音乐 Python API / 下载工具
 * 【2023-09-14】[pnnl / neuromancer](https://github.com/pnnl/neuromancer) - Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification, and parametric model predictive control.
 * 【2023-09-14】[shibing624 / pytextclassifier](https://github.com/shibing624/pytextclassifier) - pytextclassifier is a toolkit for text classification. 文本分类，LR，Xgboost，TextCNN，FastText，TextRNN，BERT等分类模型实现，开箱即用。
 * 【2023-09-13】[codefuse-ai / MFTCoder](https://github.com/codefuse-ai/MFTCoder) - 
@@ -371,6 +382,8 @@
 
 ## Javascript
 
+* 【2023-09-15】[devias-io / material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
+* 【2023-09-15】[antimatter15 / splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 * 【2023-09-14】[Szymou / NNBS](https://github.com/Szymou/NNBS) - 1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等
 * 【2023-09-13】[processing / p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
 * 【2023-09-13】[google / closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
@@ -522,6 +535,7 @@
 
 ## C
 
+* 【2023-09-15】[CrealityOfficial / K1_Series_Klipper](https://github.com/CrealityOfficial/K1_Series_Klipper) - clone from https://github.com/Klipper3d/klipper/
 * 【2023-09-14】[redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 * 【2023-09-13】[joshr120 / open-deck](https://github.com/joshr120/open-deck) - 
 * 【2023-09-13】[marcoslucianops / DeepStream-Yolo-Pose](https://github.com/marcoslucianops/DeepStream-Yolo-Pose) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 application for YOLO-Pose models
@@ -647,6 +661,12 @@
 
 ## C#
 
+* 【2023-09-15】[isadorasophia / murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
+* 【2023-09-15】[oxyplot / oxyplot](https://github.com/oxyplot/oxyplot) - A cross-platform plotting library for .NET
+* 【2023-09-15】[nxrighthere / UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
+* 【2023-09-15】[nefarius / Legacinator](https://github.com/nefarius/Legacinator) - The one and only Legacinator
+* 【2023-09-15】[jetstyle / Apple-Vision-Pro-UI-Kit](https://github.com/jetstyle/Apple-Vision-Pro-UI-Kit) - 
+* 【2023-09-15】[FNA-XNA / FNA](https://github.com/FNA-XNA/FNA) - FNA - Accuracy-focused XNA4 reimplementation for open platforms
 * 【2023-09-13】[paolosalvatori / ServiceBusExplorer](https://github.com/paolosalvatori/ServiceBusExplorer) - The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
 * 【2023-09-12】[SteamDesktopAuthenticatorrr / SteamDesktopAuthenticator](https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 * 【2023-09-12】[LuemmelSec / PMP-Decrypter](https://github.com/LuemmelSec/PMP-Decrypter) - 
@@ -706,6 +726,9 @@
 
 ## Html
 
+* 【2023-09-15】[SarangKumar / IO-LearnHub](https://github.com/SarangKumar/IO-LearnHub) - Your 12-day web development journey starts here. Master HTML, CSS, JS, Tailwind, MongoDB, GSAP, React, and Next.js. Daily lessons, hands-on assignments, solutions, and challenges. Engage with a community, showcase projects, and contribute resources. Fork, learn, and code with us!
+* 【2023-09-15】[w3c / sustyweb](https://github.com/w3c/sustyweb) - Sustainable Web Design Community Group
+* 【2023-09-15】[OutRed / outredgames](https://github.com/OutRed/outredgames) - One of the most professional and best game websites there is out there.
 * 【2023-09-14】[nevesnunes / ghidra-plays-mario](https://github.com/nevesnunes/ghidra-plays-mario) - Playing NES ROMs with Ghidra's PCode Emulator
 * 【2023-09-14】[fulifb / fulifb.github.io](https://github.com/fulifb/fulifb.github.io) - 福利发布页-永久地址发布页-最新地址发布页
 * 【2023-09-13】[mavroudisv / plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
@@ -880,6 +903,8 @@
 
 ## Unknown
 
+* 【2023-09-15】[carlcastanas / IT-curriculum-guide](https://github.com/carlcastanas/IT-curriculum-guide) - 
+* 【2023-09-15】[godotengine / awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 * 【2023-09-14】[transmissions11 / solcurity](https://github.com/transmissions11/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
 * 【2023-09-14】[Galxe / protocol-whitepaper](https://github.com/Galxe/protocol-whitepaper) - 
 * 【2023-09-14】[nodejs / performance](https://github.com/nodejs/performance) - Node.js team focusing on performance
