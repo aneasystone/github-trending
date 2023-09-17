@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-09-17】[ray-project / llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
+* 【2023-09-17】[stevearc / conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 * 【2023-09-16】[yoheinakajima / instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 * 【2023-09-16】[godotengine / godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 * 【2023-09-16】[nicolas-hbt / pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips
@@ -247,6 +249,9 @@
 
 ## Python
 
+* 【2023-09-17】[facebookresearch / belebele](https://github.com/facebookresearch/belebele) - Repo for the Belebele dataset, a massively multilingual reading comprehension dataset.
+* 【2023-09-17】[microsoft / evodiff](https://github.com/microsoft/evodiff) - Generation of protein sequences and evolutionary alignments via discrete diffusion models
+* 【2023-09-17】[laiyer-ai / llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
 * 【2023-09-16】[ansible-collections / amazon.aws](https://github.com/ansible-collections/amazon.aws) - Ansible Collection for Amazon AWS
 * 【2023-09-16】[zhile-io / pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.
 * 【2023-09-16】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with bert
@@ -390,6 +395,7 @@
 
 ## Javascript
 
+* 【2023-09-17】[qk44077907 / simple-wxmp-vueify](https://github.com/qk44077907/simple-wxmp-vueify) - a simple lib to let you code js in wechat miniprogram like vue
 * 【2023-09-16】[daymade / Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
 * 【2023-09-15】[devias-io / material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 * 【2023-09-15】[antimatter15 / splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
@@ -482,6 +488,7 @@
 
 ## Go
 
+* 【2023-09-17】[cloudflare / terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 * 【2023-09-16】[FynnFbc / TunnelProxyPool](https://github.com/FynnFbc/TunnelProxyPool) - http代理池 隧道代理 动态代理IP
 * 【2023-09-14】[letsencrypt / boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 * 【2023-09-12】[Shpota / goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
@@ -545,6 +552,9 @@
 
 ## C
 
+* 【2023-09-17】[grafana / beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services
+* 【2023-09-17】[samtools / htslib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats
+* 【2023-09-17】[S3cur3Th1sSh1t / Caro-Kann](https://github.com/S3cur3Th1sSh1t/Caro-Kann) - Encrypted shellcode Injection to avoid Kernel triggered memory scans
 * 【2023-09-16】[codazoda / hub-ctrl.c](https://github.com/codazoda/hub-ctrl.c) - Control USB power on a port by port basis on some USB hubs.
 * 【2023-09-16】[PokerFacowaty / isfri](https://github.com/PokerFacowaty/isfri) - A Linux kernel module that spawns a char device which tells the user whether it's Friday
 * 【2023-09-15】[CrealityOfficial / K1_Series_Klipper](https://github.com/CrealityOfficial/K1_Series_Klipper) - clone from https://github.com/Klipper3d/klipper/
@@ -674,6 +684,10 @@
 
 ## C#
 
+* 【2023-09-17】[gabe-k / themebleed](https://github.com/gabe-k/themebleed) - Proof-of-Concept for CVE-2023-38146 ("ThemeBleed")
+* 【2023-09-17】[YOLOP0wn / EchoDrv](https://github.com/YOLOP0wn/EchoDrv) - Exploitation of echo_driver.sys
+* 【2023-09-17】[godotengine / godot-csharp-visualstudio](https://github.com/godotengine/godot-csharp-visualstudio) - Godot C# extension for Visual Studio
+* 【2023-09-17】[YOLOP0wn / POSTDump](https://github.com/YOLOP0wn/POSTDump) - 
 * 【2023-09-16】[Anthogonyst / UnityToGodot](https://github.com/Anthogonyst/UnityToGodot) - An open source initiative to fully convert Unity projects into Godot projects
 * 【2023-09-16】[Zylann / unity_to_godot_converter](https://github.com/Zylann/unity_to_godot_converter) - An experimental converter from Unity to Godot game engines
 * 【2023-09-15】[isadorasophia / murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
@@ -741,6 +755,10 @@
 
 ## Html
 
+* 【2023-09-17】[iaghapour / freehope](https://github.com/iaghapour/freehope) - نقشه راه دسترسی به اینترنت آزاد
+* 【2023-09-17】[salaboy / platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
+* 【2023-09-17】[hniksic / emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
+* 【2023-09-17】[CybroOdoo / CybroAddons](https://github.com/CybroOdoo/CybroAddons) - 
 * 【2023-09-16】[dwarvesf / df-frontend-2023](https://github.com/dwarvesf/df-frontend-2023) - 
 * 【2023-09-16】[Tacogamerman / ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
 * 【2023-09-16】[aleff-github / my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
@@ -816,6 +834,9 @@
 
 ## Css
 
+* 【2023-09-17】[dmystical-coder / circle-35-assignment-02](https://github.com/dmystical-coder/circle-35-assignment-02) - Leveraging AltSchool circles, we are to build a very basic calculator with Javascript.
+* 【2023-09-17】[yaoyao-liu / minimal-light](https://github.com/yaoyao-liu/minimal-light) - A simple and elegant Jekyll theme for an academic personal homepage
+* 【2023-09-17】[tachyons-css / tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 * 【2023-09-16】[lowcoding / lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT
 * 【2023-09-16】[shuhongfan / sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品： - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
 * 【2023-09-14】[zhile-io / ChatGPTAuthHelper](https://github.com/zhile-io/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
@@ -923,6 +944,8 @@
 
 ## Unknown
 
+* 【2023-09-17】[Il-Libro-Open-Source / book](https://github.com/Il-Libro-Open-Source/book) - An open-source book created by the community for the community.
+* 【2023-09-17】[waylau / harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
 * 【2023-09-16】[TodePond / WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite](https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite) - perfect programming language
 * 【2023-09-16】[JaredC01 / Galileo2](https://github.com/JaredC01/Galileo2) - 
 * 【2023-09-16】[gnobitab / InstaFlow](https://github.com/gnobitab/InstaFlow) - ⚡ InstaFlow! One-Step Stable Diffusion with Rectified Flow
