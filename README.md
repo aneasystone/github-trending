@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-09-19】[langchain-ai / langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
+* 【2023-09-19】[KenneyNL / Starter-Kit-3D-Platformer](https://github.com/KenneyNL/Starter-Kit-3D-Platformer) - Godot
+* 【2023-09-19】[89luca89 / distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 * 【2023-09-18】[aiwaves-cn / agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 * 【2023-09-18】[nuejs / nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte
 * 【2023-09-18】[sxyazi / yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -200,6 +203,9 @@
 
 ## Java
 
+* 【2023-09-19】[wanam / YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
+* 【2023-09-19】[dicodingacademy / a14-android-fundamental-labs](https://github.com/dicodingacademy/a14-android-fundamental-labs) - Repository ini merupakan salah satu studi kasus dari kelas Belajar Fundamental Aplikasi Android.
+* 【2023-09-19】[jetlinks / jetlinks-official-protocol](https://github.com/jetlinks/jetlinks-official-protocol) - jetlinks 官方设备接入协议
 * 【2023-09-18】[ch4mpy / spring-addons](https://github.com/ch4mpy/spring-addons) - Ease spring OAuth2 resource-servers configuration and testing
 * 【2023-09-12】[openremote / openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 * 【2023-09-12】[Card-Forge / forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
@@ -254,6 +260,10 @@
 
 ## Python
 
+* 【2023-09-19】[kbre93 / every-breath-you-take](https://github.com/kbre93/every-breath-you-take) - Heart Rate Variability Training with the Polar H10 Monitor
+* 【2023-09-19】[opengeos / leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
+* 【2023-09-19】[JoelGMSec / HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell
+* 【2023-09-19】[junruxiong / IncarnaMind](https://github.com/junruxiong/IncarnaMind) - Connect and chat with your multiple documents (pdf and txt) through GPT and Claude LLMs in a minute
 * 【2023-09-18】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 * 【2023-09-18】[KasperskyLab / TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…
 * 【2023-09-18】[LoganCome / ROS-Chain](https://github.com/LoganCome/ROS-Chain) - 
@@ -404,6 +414,7 @@
 
 ## Javascript
 
+* 【2023-09-19】[idurar / erp-crm](https://github.com/idurar/erp-crm) - IDURAR ERP CRM | Node Js React MERN
 * 【2023-09-18】[WebSheets / websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
 * 【2023-09-17】[qk44077907 / simple-wxmp-vueify](https://github.com/qk44077907/simple-wxmp-vueify) - a simple lib to let you code js in wechat miniprogram like vue
 * 【2023-09-16】[daymade / Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
@@ -498,6 +509,7 @@
 
 ## Go
 
+* 【2023-09-19】[jesseduffield / horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 * 【2023-09-18】[runabol / tork](https://github.com/runabol/tork) - A distributed workflow engine
 * 【2023-09-18】[mmcgrana / gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 * 【2023-09-18】[42wim / matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
@@ -703,6 +715,10 @@
 
 ## C#
 
+* 【2023-09-19】[malcomvetter / Periscope](https://github.com/malcomvetter/Periscope) - Fully Integrated Adversarial Operations Toolkit (C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation)
+* 【2023-09-19】[ProtonVPN / win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
+* 【2023-09-19】[chunliu / AzureDesignStudio](https://github.com/chunliu/AzureDesignStudio) - A web app that helps you create the architecture design diagram for your Azure solutions and automatically generate IaC code from it.
+* 【2023-09-19】[microsoft / FeatureManagement-Dotnet](https://github.com/microsoft/FeatureManagement-Dotnet) - Microsoft.FeatureManagement provides standardized APIs for enabling feature flags within applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.
 * 【2023-09-18】[glazerdesktop / GlazeWM](https://github.com/glazerdesktop/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
 * 【2023-09-17】[gabe-k / themebleed](https://github.com/gabe-k/themebleed) - Proof-of-Concept for CVE-2023-38146 ("ThemeBleed")
 * 【2023-09-17】[YOLOP0wn / EchoDrv](https://github.com/YOLOP0wn/EchoDrv) - Exploitation of echo_driver.sys
@@ -775,6 +791,7 @@
 
 ## Html
 
+* 【2023-09-19】[techwithlucy / youtube](https://github.com/techwithlucy/youtube) - 
 * 【2023-09-18】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
 * 【2023-09-18】[nuejs / www](https://github.com/nuejs/www) - Content for nuejs.org
 * 【2023-09-18】[SpecterOps / TierZeroTable](https://github.com/SpecterOps/TierZeroTable) - About Table of AD and Azure assets and whether they belong to Tier Zero
@@ -857,6 +874,7 @@
 
 ## Css
 
+* 【2023-09-19】[thundercoding07 / Smoke-Effect-on-Your-Name-CSS-Animation](https://github.com/thundercoding07/Smoke-Effect-on-Your-Name-CSS-Animation) - 
 * 【2023-09-18】[CodeWithHarry / email-validator](https://github.com/CodeWithHarry/email-validator) - This project can be used to validate emails using the emailvalidation api
 * 【2023-09-17】[dmystical-coder / circle-35-assignment-02](https://github.com/dmystical-coder/circle-35-assignment-02) - Leveraging AltSchool circles, we are to build a very basic calculator with Javascript.
 * 【2023-09-17】[yaoyao-liu / minimal-light](https://github.com/yaoyao-liu/minimal-light) - A simple and elegant Jekyll theme for an academic personal homepage
@@ -968,6 +986,9 @@
 
 ## Unknown
 
+* 【2023-09-19】[WooooDyy / LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
+* 【2023-09-19】[daveshap / ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework
+* 【2023-09-19】[uber-archive / coding-challenge-tools](https://github.com/uber-archive/coding-challenge-tools) - Uber's tools team coding challenge
 * 【2023-09-18】[ReactNativeNews / React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. Curation curtesy of
 * 【2023-09-18】[KenneyNL / Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - Over 30 splash screens to use in Godot
 * 【2023-09-18】[CloudHustlers / Google_Cloud_Computing_Foundations](https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations) - 
