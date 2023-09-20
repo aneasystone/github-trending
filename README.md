@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-09-20】[williamyang1991 / Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
+* 【2023-09-20】[NExT-GPT / NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
+* 【2023-09-20】[apache / incubator-kie-drools](https://github.com/apache/incubator-kie-drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
+* 【2023-09-20】[Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 * 【2023-09-19】[langchain-ai / langchain-nextjs-template](https://github.com/langchain-ai/langchain-nextjs-template) - LangChain + Next.js starter template
 * 【2023-09-19】[KenneyNL / Starter-Kit-3D-Platformer](https://github.com/KenneyNL/Starter-Kit-3D-Platformer) - Godot
 * 【2023-09-19】[89luca89 / distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
@@ -203,6 +207,8 @@
 
 ## Java
 
+* 【2023-09-20】[digitalinnovationone / santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api) - RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+* 【2023-09-20】[Liubsyy / HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient和HotSecondsServer，理论上来说可以热更新任何文件(java/xml/html/css/js等)，也支持常用框架(Spring，MyBatis)的热更新，可以节省大量的传统部署java项目的时间。
 * 【2023-09-19】[wanam / YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
 * 【2023-09-19】[dicodingacademy / a14-android-fundamental-labs](https://github.com/dicodingacademy/a14-android-fundamental-labs) - Repository ini merupakan salah satu studi kasus dari kelas Belajar Fundamental Aplikasi Android.
 * 【2023-09-19】[jetlinks / jetlinks-official-protocol](https://github.com/jetlinks/jetlinks-official-protocol) - jetlinks 官方设备接入协议
@@ -260,6 +266,9 @@
 
 ## Python
 
+* 【2023-09-20】[langchain-ai / chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
+* 【2023-09-20】[grays42 / reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT-based reddit profile analyzer. BYO api key
+* 【2023-09-20】[haoheliu / versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -> 48kHz) with AudioSR.
 * 【2023-09-19】[kbre93 / every-breath-you-take](https://github.com/kbre93/every-breath-you-take) - Heart Rate Variability Training with the Polar H10 Monitor
 * 【2023-09-19】[opengeos / leafmap](https://github.com/opengeos/leafmap) - A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment
 * 【2023-09-19】[JoelGMSec / HTTP-Shell](https://github.com/JoelGMSec/HTTP-Shell) - MultiPlatform HTTP Reverse Shell
@@ -414,6 +423,7 @@
 
 ## Javascript
 
+* 【2023-09-20】[blueagler / QuillBot-Premium-Crack](https://github.com/blueagler/QuillBot-Premium-Crack) - Unlock: Paraphrase unlimited words, 7 Writing mode , 4 Synonyms options, 6000 Summarizer word limit, 15 Sentences processed at once, Unlimited Freeze Words and phrases (101k active users' choices)
 * 【2023-09-19】[idurar / erp-crm](https://github.com/idurar/erp-crm) - IDURAR ERP CRM | Node Js React MERN
 * 【2023-09-18】[WebSheets / websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
 * 【2023-09-17】[qk44077907 / simple-wxmp-vueify](https://github.com/qk44077907/simple-wxmp-vueify) - a simple lib to let you code js in wechat miniprogram like vue
@@ -509,6 +519,7 @@
 
 ## Go
 
+* 【2023-09-20】[cortexproject / cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 * 【2023-09-19】[jesseduffield / horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 * 【2023-09-18】[runabol / tork](https://github.com/runabol/tork) - A distributed workflow engine
 * 【2023-09-18】[mmcgrana / gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
@@ -578,6 +589,7 @@
 
 ## C
 
+* 【2023-09-20】[lambertjamesd / n64brew2023](https://github.com/lambertjamesd/n64brew2023) - Ultrarare's entry for 2023 n64 game jam
 * 【2023-09-18】[UnknownShadow200 / ClassiCube](https://github.com/UnknownShadow200/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
 * 【2023-09-18】[tsoding / nobuild](https://github.com/tsoding/nobuild) - Header only library for writing build recipes in C.
 * 【2023-09-18】[premake / premake-core](https://github.com/premake/premake-core) - Premake
@@ -715,6 +727,7 @@
 
 ## C#
 
+* 【2023-09-20】[microsoft / OSSGadget](https://github.com/microsoft/OSSGadget) - Collection of tools for analyzing open source packages.
 * 【2023-09-19】[malcomvetter / Periscope](https://github.com/malcomvetter/Periscope) - Fully Integrated Adversarial Operations Toolkit (C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation)
 * 【2023-09-19】[ProtonVPN / win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
 * 【2023-09-19】[chunliu / AzureDesignStudio](https://github.com/chunliu/AzureDesignStudio) - A web app that helps you create the architecture design diagram for your Azure solutions and automatically generate IaC code from it.
@@ -791,6 +804,7 @@
 
 ## Html
 
+* 【2023-09-20】[posit-conf-2023 / quarto-r](https://github.com/posit-conf-2023/quarto-r) - 
 * 【2023-09-19】[techwithlucy / youtube](https://github.com/techwithlucy/youtube) - 
 * 【2023-09-18】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
 * 【2023-09-18】[nuejs / www](https://github.com/nuejs/www) - Content for nuejs.org
@@ -874,6 +888,8 @@
 
 ## Css
 
+* 【2023-09-20】[AirCodeLabs / documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+* 【2023-09-20】[serverwentdown / thebunniesinc](https://github.com/serverwentdown/thebunniesinc) - [INCOMPLETE] The Bunnies, Inc.
 * 【2023-09-19】[thundercoding07 / Smoke-Effect-on-Your-Name-CSS-Animation](https://github.com/thundercoding07/Smoke-Effect-on-Your-Name-CSS-Animation) - 
 * 【2023-09-18】[CodeWithHarry / email-validator](https://github.com/CodeWithHarry/email-validator) - This project can be used to validate emails using the emailvalidation api
 * 【2023-09-17】[dmystical-coder / circle-35-assignment-02](https://github.com/dmystical-coder/circle-35-assignment-02) - Leveraging AltSchool circles, we are to build a very basic calculator with Javascript.
@@ -986,6 +1002,8 @@
 
 ## Unknown
 
+* 【2023-09-20】[xiaomabenten / system_architect](https://github.com/xiaomabenten/system_architect) - 💯目前全网最全面的2023年系统架构设计师（软考高级）备考资源库。仅供个人学习，请勿用于商业
+* 【2023-09-20】[joelparkerhenderson / queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 * 【2023-09-19】[WooooDyy / LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
 * 【2023-09-19】[daveshap / ACE_Framework](https://github.com/daveshap/ACE_Framework) - Public repo for my latest and greatest cognitive architecture ACE (Autonomous Cognitive Entity) Framework
 * 【2023-09-19】[uber-archive / coding-challenge-tools](https://github.com/uber-archive/coding-challenge-tools) - Uber's tools team coding challenge
