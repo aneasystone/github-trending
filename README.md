@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-09-21】[hyperdxio / hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
+* 【2023-09-21】[AntonioErdeljac / next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform) - 
+* 【2023-09-21】[basecamp / kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
+* 【2023-09-21】[duckduckgo / tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 * 【2023-09-20】[williamyang1991 / Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
 * 【2023-09-20】[NExT-GPT / NExT-GPT](https://github.com/NExT-GPT/NExT-GPT) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
 * 【2023-09-20】[apache / incubator-kie-drools](https://github.com/apache/incubator-kie-drools) - Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.
@@ -266,6 +270,7 @@
 
 ## Python
 
+* 【2023-09-21】[mit-han-lab / efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
 * 【2023-09-20】[langchain-ai / chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 * 【2023-09-20】[grays42 / reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT-based reddit profile analyzer. BYO api key
 * 【2023-09-20】[haoheliu / versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -> 48kHz) with AudioSR.
@@ -423,6 +428,8 @@
 
 ## Javascript
 
+* 【2023-09-21】[4TWIGGERS / React-Native-Reflective-UI](https://github.com/4TWIGGERS/React-Native-Reflective-UI) - 
+* 【2023-09-21】[js-cookie / js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * 【2023-09-20】[blueagler / QuillBot-Premium-Crack](https://github.com/blueagler/QuillBot-Premium-Crack) - Unlock: Paraphrase unlimited words, 7 Writing mode , 4 Synonyms options, 6000 Summarizer word limit, 15 Sentences processed at once, Unlimited Freeze Words and phrases (101k active users' choices)
 * 【2023-09-19】[idurar / erp-crm](https://github.com/idurar/erp-crm) - IDURAR ERP CRM | Node Js React MERN
 * 【2023-09-18】[WebSheets / websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
@@ -519,6 +526,7 @@
 
 ## Go
 
+* 【2023-09-21】[akuity / kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 * 【2023-09-20】[cortexproject / cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 * 【2023-09-19】[jesseduffield / horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 * 【2023-09-18】[runabol / tork](https://github.com/runabol/tork) - A distributed workflow engine
@@ -589,6 +597,7 @@
 
 ## C
 
+* 【2023-09-21】[Hamlib / Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 * 【2023-09-20】[lambertjamesd / n64brew2023](https://github.com/lambertjamesd/n64brew2023) - Ultrarare's entry for 2023 n64 game jam
 * 【2023-09-18】[UnknownShadow200 / ClassiCube](https://github.com/UnknownShadow200/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
 * 【2023-09-18】[tsoding / nobuild](https://github.com/tsoding/nobuild) - Header only library for writing build recipes in C.
@@ -671,6 +680,9 @@
 
 ## C++
 
+* 【2023-09-21】[facontidavide / Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid
+* 【2023-09-21】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
+* 【2023-09-21】[fnc12 / sqlite_orm](https://github.com/fnc12/sqlite_orm) - ❤️ SQLite ORM light header only library for modern C++
 * 【2023-09-18】[TokisanGames / Terrain3D](https://github.com/TokisanGames/Terrain3D) - An editable terrain system for Godot 4, written in C++
 * 【2023-09-18】[godot-jolt / godot-jolt](https://github.com/godot-jolt/godot-jolt) - Godot Jolt – Godot extension that integrates the Jolt physics engine
 * 【2023-09-16】[ConfettiFX / The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
@@ -727,6 +739,7 @@
 
 ## C#
 
+* 【2023-09-21】[laochiangx / Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 * 【2023-09-20】[microsoft / OSSGadget](https://github.com/microsoft/OSSGadget) - Collection of tools for analyzing open source packages.
 * 【2023-09-19】[malcomvetter / Periscope](https://github.com/malcomvetter/Periscope) - Fully Integrated Adversarial Operations Toolkit (C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation)
 * 【2023-09-19】[ProtonVPN / win-app](https://github.com/ProtonVPN/win-app) - Official ProtonVPN Windows app
@@ -804,6 +817,7 @@
 
 ## Html
 
+* 【2023-09-21】[D3ch / hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo thx
 * 【2023-09-20】[posit-conf-2023 / quarto-r](https://github.com/posit-conf-2023/quarto-r) - 
 * 【2023-09-19】[techwithlucy / youtube](https://github.com/techwithlucy/youtube) - 
 * 【2023-09-18】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
@@ -1002,6 +1016,10 @@
 
 ## Unknown
 
+* 【2023-09-21】[madibabaiasl / modern-robotics-I-course](https://github.com/madibabaiasl/modern-robotics-I-course) - This repository is all the lessons for Modern Robotics I.
+* 【2023-09-21】[yiyins2 / cs320-lab2-datasets](https://github.com/yiyins2/cs320-lab2-datasets) - 
+* 【2023-09-21】[DOI-DO / dcat-us](https://github.com/DOI-DO/dcat-us) - Data Catalog Vocabulary (DCAT) - United States Profile Chief Data Officers Council & Federal Committee on Statistical Methodology
+* 【2023-09-21】[Pawkishi / PAWSWAPtoken](https://github.com/Pawkishi/PAWSWAPtoken) - Token code for PAWSWAP ($PAW)
 * 【2023-09-20】[xiaomabenten / system_architect](https://github.com/xiaomabenten/system_architect) - 💯目前全网最全面的2023年系统架构设计师（软考高级）备考资源库。仅供个人学习，请勿用于商业
 * 【2023-09-20】[joelparkerhenderson / queueing-theory](https://github.com/joelparkerhenderson/queueing-theory) - Queueing theory: an introduction for software development
 * 【2023-09-19】[WooooDyy / LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
