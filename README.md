@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-09-22】[opentofu / opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
+* 【2023-09-22】[ProjectUnifree / unifree](https://github.com/ProjectUnifree/unifree) - 
+* 【2023-09-22】[zhudotexe / kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool usage/function calling.
 * 【2023-09-21】[hyperdxio / hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 * 【2023-09-21】[AntonioErdeljac / next13-lms-platform](https://github.com/AntonioErdeljac/next13-lms-platform) - 
 * 【2023-09-21】[basecamp / kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
@@ -270,6 +273,11 @@
 
 ## Python
 
+* 【2023-09-22】[aharley / pips2](https://github.com/aharley/pips2) - PIPs++
+* 【2023-09-22】[OWASP / owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
+* 【2023-09-22】[deepmind / alphamissense](https://github.com/deepmind/alphamissense) - 
+* 【2023-09-22】[google-deepmind / alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
+* 【2023-09-22】[yl4579 / HiFTNet](https://github.com/yl4579/HiFTNet) - 
 * 【2023-09-21】[mit-han-lab / efficientvit](https://github.com/mit-han-lab/efficientvit) - EfficientViT is a new family of vision models for efficient high-resolution vision.
 * 【2023-09-20】[langchain-ai / chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 * 【2023-09-20】[grays42 / reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT-based reddit profile analyzer. BYO api key
@@ -428,6 +436,9 @@
 
 ## Javascript
 
+* 【2023-09-22】[Tencent / LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
+* 【2023-09-22】[facebook / jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+* 【2023-09-22】[faisalman / ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 * 【2023-09-21】[4TWIGGERS / React-Native-Reflective-UI](https://github.com/4TWIGGERS/React-Native-Reflective-UI) - 
 * 【2023-09-21】[js-cookie / js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 * 【2023-09-20】[blueagler / QuillBot-Premium-Crack](https://github.com/blueagler/QuillBot-Premium-Crack) - Unlock: Paraphrase unlimited words, 7 Writing mode , 4 Synonyms options, 6000 Summarizer word limit, 15 Sentences processed at once, Unlimited Freeze Words and phrases (101k active users' choices)
@@ -597,6 +608,9 @@
 
 ## C
 
+* 【2023-09-22】[input-leap / input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
+* 【2023-09-22】[phillbush / jvm](https://github.com/phillbush/jvm) - simple java virtual machine
+* 【2023-09-22】[Odyssey-Team / Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
 * 【2023-09-21】[Hamlib / Hamlib](https://github.com/Hamlib/Hamlib) - Ham radio control library for rigs, rotators, tuners, and amplifiers
 * 【2023-09-20】[lambertjamesd / n64brew2023](https://github.com/lambertjamesd/n64brew2023) - Ultrarare's entry for 2023 n64 game jam
 * 【2023-09-18】[UnknownShadow200 / ClassiCube](https://github.com/UnknownShadow200/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
@@ -680,6 +694,7 @@
 
 ## C++
 
+* 【2023-09-22】[RamadhanAmizudin / malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com
 * 【2023-09-21】[facontidavide / Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid
 * 【2023-09-21】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
 * 【2023-09-21】[fnc12 / sqlite_orm](https://github.com/fnc12/sqlite_orm) - ❤️ SQLite ORM light header only library for modern C++
@@ -739,6 +754,7 @@
 
 ## C#
 
+* 【2023-09-22】[master131 / iFakeLocation](https://github.com/master131/iFakeLocation) - Simulate locations on iOS devices on Windows, Mac and Ubuntu.
 * 【2023-09-21】[laochiangx / Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 * 【2023-09-20】[microsoft / OSSGadget](https://github.com/microsoft/OSSGadget) - Collection of tools for analyzing open source packages.
 * 【2023-09-19】[malcomvetter / Periscope](https://github.com/malcomvetter/Periscope) - Fully Integrated Adversarial Operations Toolkit (C2, stagers, agents, ephemeral infrastructure, phishing engine, and automation)
@@ -817,6 +833,9 @@
 
 ## Html
 
+* 【2023-09-22】[opentofu / manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+* 【2023-09-22】[godotengine / godot-website](https://github.com/godotengine/godot-website) - The code for the official Godot Engine website. A static site built using Jekyll.
+* 【2023-09-22】[radmanplays / radmanplays.github.io](https://github.com/radmanplays/radmanplays.github.io) - Play Minecraft in any browser!
 * 【2023-09-21】[D3ch / hell](https://github.com/D3ch/hell) - 260+ unblocked games and ultraviolet. star this repo thx
 * 【2023-09-20】[posit-conf-2023 / quarto-r](https://github.com/posit-conf-2023/quarto-r) - 
 * 【2023-09-19】[techwithlucy / youtube](https://github.com/techwithlucy/youtube) - 
@@ -902,6 +921,8 @@
 
 ## Css
 
+* 【2023-09-22】[contensis / razor-page-leif-example](https://github.com/contensis/razor-page-leif-example) - 
+* 【2023-09-22】[webcrumbs-community / webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify React websites and applications with a no-code interface and powerful plugins, enriched by the community. 🌟 Star to support our work!
 * 【2023-09-20】[AirCodeLabs / documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
 * 【2023-09-20】[serverwentdown / thebunniesinc](https://github.com/serverwentdown/thebunniesinc) - [INCOMPLETE] The Bunnies, Inc.
 * 【2023-09-19】[thundercoding07 / Smoke-Effect-on-Your-Name-CSS-Animation](https://github.com/thundercoding07/Smoke-Effect-on-Your-Name-CSS-Animation) - 
@@ -1016,6 +1037,10 @@
 
 ## Unknown
 
+* 【2023-09-22】[hamutama / LifeReloaded](https://github.com/hamutama/LifeReloaded) - 由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
+* 【2023-09-22】[Audiotronix / Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
+* 【2023-09-22】[itaymigdal / awesome-injection](https://github.com/itaymigdal/awesome-injection) - Centralized resource for listing and organizing known injection techniques and POCs
+* 【2023-09-22】[paypal / paypal-rest-api-specifications](https://github.com/paypal/paypal-rest-api-specifications) - This repository contains the specification files for PayPal REST APIs.
 * 【2023-09-21】[madibabaiasl / modern-robotics-I-course](https://github.com/madibabaiasl/modern-robotics-I-course) - This repository is all the lessons for Modern Robotics I.
 * 【2023-09-21】[yiyins2 / cs320-lab2-datasets](https://github.com/yiyins2/cs320-lab2-datasets) - 
 * 【2023-09-21】[DOI-DO / dcat-us](https://github.com/DOI-DO/dcat-us) - Data Catalog Vocabulary (DCAT) - United States Profile Chief Data Officers Council & Federal Committee on Statistical Methodology
