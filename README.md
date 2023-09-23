@@ -273,6 +273,7 @@
 
 ## Python
 
+* 【2023-09-23】[google-deepmind / alphamissense](https://github.com/google-deepmind/alphamissense) - 
 * 【2023-09-22】[aharley / pips2](https://github.com/aharley/pips2) - PIPs++
 * 【2023-09-22】[OWASP / owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 * 【2023-09-22】[deepmind / alphamissense](https://github.com/deepmind/alphamissense) - 
