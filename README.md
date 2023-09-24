@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-09-24】[krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) - 
+* 【2023-09-24】[harness / gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+* 【2023-09-24】[apple / swift-testing](https://github.com/apple/swift-testing) - 
+* 【2023-09-24】[tikkid / JetbrainKiller](https://github.com/tikkid/JetbrainKiller) - A new tool for unlimited 30-day trial of JetBrains series software, supporting the latest version.
+* 【2023-09-24】[GuoXiCheng / SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+* 【2023-09-24】[Xwin-LM / Xwin-LM](https://github.com/Xwin-LM/Xwin-LM) - Xwin-LM: Powerful, Stable, and Reproducible LLM Alignment
+* 【2023-09-24】[atomicals / atomicals-js](https://github.com/atomicals/atomicals-js) - Atomicals CLI and Javascript Library
 * 【2023-09-22】[opentofu / opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 * 【2023-09-22】[ProjectUnifree / unifree](https://github.com/ProjectUnifree/unifree) - 
 * 【2023-09-22】[zhudotexe / kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool usage/function calling.
@@ -214,6 +221,7 @@
 
 ## Java
 
+* 【2023-09-24】[ddd-by-examples / library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * 【2023-09-20】[digitalinnovationone / santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api) - RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 * 【2023-09-20】[Liubsyy / HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient和HotSecondsServer，理论上来说可以热更新任何文件(java/xml/html/css/js等)，也支持常用框架(Spring，MyBatis)的热更新，可以节省大量的传统部署java项目的时间。
 * 【2023-09-19】[wanam / YouTubeAdAway](https://github.com/wanam/YouTubeAdAway) - Xposed module to block YouTube ads on the official YouTube Android App
@@ -273,6 +281,8 @@
 
 ## Python
 
+* 【2023-09-24】[stas00 / ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
+* 【2023-09-24】[Dicklesworthstone / automatic_log_collector_and_analyzer](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer) - Replace Splunk in your small company with this one weird trick!
 * 【2023-09-23】[google-deepmind / alphamissense](https://github.com/google-deepmind/alphamissense) - 
 * 【2023-09-22】[aharley / pips2](https://github.com/aharley/pips2) - PIPs++
 * 【2023-09-22】[OWASP / owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
@@ -437,6 +447,8 @@
 
 ## Javascript
 
+* 【2023-09-24】[sunlabuiuc / TextbookKG](https://github.com/sunlabuiuc/TextbookKG) - Knowledge Graph Generation for Any PDFs
+* 【2023-09-24】[AalianKhan / mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 * 【2023-09-22】[Tencent / LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
 * 【2023-09-22】[facebook / jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
 * 【2023-09-22】[faisalman / ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
@@ -538,6 +550,7 @@
 
 ## Go
 
+* 【2023-09-24】[selinuxG / Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、子域名扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具
 * 【2023-09-21】[akuity / kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 * 【2023-09-20】[cortexproject / cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
 * 【2023-09-19】[jesseduffield / horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -609,6 +622,7 @@
 
 ## C
 
+* 【2023-09-24】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 * 【2023-09-22】[input-leap / input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 * 【2023-09-22】[phillbush / jvm](https://github.com/phillbush/jvm) - simple java virtual machine
 * 【2023-09-22】[Odyssey-Team / Taurine](https://github.com/Odyssey-Team/Taurine) - iOS 14 semi-untethered jailbreak
@@ -695,6 +709,7 @@
 
 ## C++
 
+* 【2023-09-24】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
 * 【2023-09-22】[RamadhanAmizudin / malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com
 * 【2023-09-21】[facontidavide / Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid
 * 【2023-09-21】[nghttp2 / nghttp2](https://github.com/nghttp2/nghttp2) - nghttp2 - HTTP/2 C Library and tools
@@ -755,6 +770,8 @@
 
 ## C#
 
+* 【2023-09-24】[SlejmUr / PayCheck3](https://github.com/SlejmUr/PayCheck3) - PayDay 3 Server Emulator Attempt
+* 【2023-09-24】[Crypto137 / MHServerEmu](https://github.com/Crypto137/MHServerEmu) - A server emulator for Marvel Heroes
 * 【2023-09-22】[master131 / iFakeLocation](https://github.com/master131/iFakeLocation) - Simulate locations on iOS devices on Windows, Mac and Ubuntu.
 * 【2023-09-21】[laochiangx / Common.Utility](https://github.com/laochiangx/Common.Utility) - Various helper class
 * 【2023-09-20】[microsoft / OSSGadget](https://github.com/microsoft/OSSGadget) - Collection of tools for analyzing open source packages.
@@ -834,6 +851,7 @@
 
 ## Html
 
+* 【2023-09-24】[Programith / html](https://github.com/Programith/html) - HTML files used in videos for social media
 * 【2023-09-22】[opentofu / manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
 * 【2023-09-22】[godotengine / godot-website](https://github.com/godotengine/godot-website) - The code for the official Godot Engine website. A static site built using Jekyll.
 * 【2023-09-22】[radmanplays / radmanplays.github.io](https://github.com/radmanplays/radmanplays.github.io) - Play Minecraft in any browser!
@@ -922,6 +940,10 @@
 
 ## Css
 
+* 【2023-09-24】[EBAS-ID / lpkarum_software_developer](https://github.com/EBAS-ID/lpkarum_software_developer) - Modul pelatihan untuk lpk arum software developer
+* 【2023-09-24】[leonjza / frida-boot](https://github.com/leonjza/frida-boot) - Frida Boot 👢- A binary instrumentation workshop, with Frida, for beginners!
+* 【2023-09-24】[Sommerwiesel / invidious](https://github.com/Sommerwiesel/invidious) - Invidious fork with customizations for invidious.nerdvpn.de
+* 【2023-09-24】[nutzam / nutzam](https://github.com/nutzam/nutzam) - Nutz手册
 * 【2023-09-22】[contensis / razor-page-leif-example](https://github.com/contensis/razor-page-leif-example) - 
 * 【2023-09-22】[webcrumbs-community / webcrumbs](https://github.com/webcrumbs-community/webcrumbs) - Create and modify React websites and applications with a no-code interface and powerful plugins, enriched by the community. 🌟 Star to support our work!
 * 【2023-09-20】[AirCodeLabs / documate](https://github.com/AirCodeLabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
@@ -1038,6 +1060,9 @@
 
 ## Unknown
 
+* 【2023-09-24】[ChenyangSi / FreeU](https://github.com/ChenyangSi/FreeU) - FreeU: Free Lunch in Diffusion U-Net
+* 【2023-09-24】[dark-kingA / cloudTools](https://github.com/dark-kingA/cloudTools) - 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务器工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务器工具主要是针对ecs服务器的管理，查看、执行命令等等
+* 【2023-09-24】[pureqh / Hyacinth](https://github.com/pureqh/Hyacinth) - 一款java漏洞集合工具
 * 【2023-09-22】[hamutama / LifeReloaded](https://github.com/hamutama/LifeReloaded) - 由GPT4的Advanced Data Analysis功能驱动的人生重来模拟器，给您人生第二春。
 * 【2023-09-22】[Audiotronix / Positron_LT](https://github.com/Audiotronix/Positron_LT) - RepRap Version of the Positron V3 3D-Printer, improved design, no machined parts, integrated PSU
 * 【2023-09-22】[itaymigdal / awesome-injection](https://github.com/itaymigdal/awesome-injection) - Centralized resource for listing and organizing known injection techniques and POCs
