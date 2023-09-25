@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-09-25】[jaytaph / gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser
+* 【2023-09-25】[ananthakumaran / paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo: https://demo.paisa.fyi
+* 【2023-09-25】[dvlab-research / LongLoRA](https://github.com/dvlab-research/LongLoRA) - Efficient long-context fine-tuning, supervised fine-tuning, LongQA dataset.
+* 【2023-09-25】[Unity-Technologies / TermsOfService](https://github.com/Unity-Technologies/TermsOfService) - Current and prior versions of the terms that apply to your use of the Unity Editor software.
 * 【2023-09-24】[krishnaik06 / The-Grand-Complete-Data-Science-Materials](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials) - 
 * 【2023-09-24】[harness / gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 * 【2023-09-24】[apple / swift-testing](https://github.com/apple/swift-testing) - 
@@ -221,6 +225,8 @@
 
 ## Java
 
+* 【2023-09-25】[lakesoul-io / LakeSoul](https://github.com/lakesoul-io/LakeSoul) - LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.
+* 【2023-09-25】[jsorrell / CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
 * 【2023-09-24】[ddd-by-examples / library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 * 【2023-09-20】[digitalinnovationone / santander-dev-week-2023-api](https://github.com/digitalinnovationone/santander-dev-week-2023-api) - RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 * 【2023-09-20】[Liubsyy / HotSecondsIDEA](https://github.com/Liubsyy/HotSecondsIDEA) - HotSeconds是一款Java远程热部署的插件，可实现秒级一键化热更新。插件分为HotSecondsClient和HotSecondsServer，理论上来说可以热更新任何文件(java/xml/html/css/js等)，也支持常用框架(Spring，MyBatis)的热更新，可以节省大量的传统部署java项目的时间。
@@ -281,6 +287,9 @@
 
 ## Python
 
+* 【2023-09-25】[irsl / curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
+* 【2023-09-25】[TIGER-AI-Lab / MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
+* 【2023-09-25】[daveshap / Medical_Intake](https://github.com/daveshap/Medical_Intake) - Automated pipeline for medical intake, diagnosis, tests, etc.
 * 【2023-09-24】[stas00 / ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
 * 【2023-09-24】[Dicklesworthstone / automatic_log_collector_and_analyzer](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer) - Replace Splunk in your small company with this one weird trick!
 * 【2023-09-23】[google-deepmind / alphamissense](https://github.com/google-deepmind/alphamissense) - 
@@ -447,6 +456,9 @@
 
 ## Javascript
 
+* 【2023-09-25】[BrowserBox / BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular webpage. Multiplayer embeddable browsers, open source!
+* 【2023-09-25】[Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* 【2023-09-25】[ashutosh1919 / masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 * 【2023-09-24】[sunlabuiuc / TextbookKG](https://github.com/sunlabuiuc/TextbookKG) - Knowledge Graph Generation for Any PDFs
 * 【2023-09-24】[AalianKhan / mushroom-strategy](https://github.com/AalianKhan/mushroom-strategy) - A strategy to automatically generate a dashboard using mushroom cards
 * 【2023-09-22】[Tencent / LightDiffusionFlow](https://github.com/Tencent/LightDiffusionFlow) - This extension is developed for AUTOMATIC1111's Stable Diffusion web UI that provides import/export options for parameters.
@@ -550,6 +562,7 @@
 
 ## Go
 
+* 【2023-09-25】[ardanlabs / gotour](https://github.com/ardanlabs/gotour) - 
 * 【2023-09-24】[selinuxG / Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、子域名扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具
 * 【2023-09-21】[akuity / kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 * 【2023-09-20】[cortexproject / cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
@@ -622,6 +635,8 @@
 
 ## C
 
+* 【2023-09-25】[Maldev-Academy / MaldevAcademyLdr.1](https://github.com/Maldev-Academy/MaldevAcademyLdr.1) - 
+* 【2023-09-25】[mistymntncop / CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) - 
 * 【2023-09-24】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 * 【2023-09-22】[input-leap / input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 * 【2023-09-22】[phillbush / jvm](https://github.com/phillbush/jvm) - simple java virtual machine
@@ -709,6 +724,8 @@
 
 ## C++
 
+* 【2023-09-25】[cmu-db / 15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C++.
+* 【2023-09-25】[timeplus-io / proton](https://github.com/timeplus-io/proton) - a unified streaming and historical data processing engine in a single binary, powered by ClickHouse
 * 【2023-09-24】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
 * 【2023-09-22】[RamadhanAmizudin / malware](https://github.com/RamadhanAmizudin/malware) - Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com
 * 【2023-09-21】[facontidavide / Bonxai](https://github.com/facontidavide/Bonxai) - Fast, hierarchical, sparse Voxel Grid
@@ -770,6 +787,7 @@
 
 ## C#
 
+* 【2023-09-25】[csutorasa / XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
 * 【2023-09-24】[SlejmUr / PayCheck3](https://github.com/SlejmUr/PayCheck3) - PayDay 3 Server Emulator Attempt
 * 【2023-09-24】[Crypto137 / MHServerEmu](https://github.com/Crypto137/MHServerEmu) - A server emulator for Marvel Heroes
 * 【2023-09-22】[master131 / iFakeLocation](https://github.com/master131/iFakeLocation) - Simulate locations on iOS devices on Windows, Mac and Ubuntu.
