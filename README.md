@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-09-27】[lobehub / lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+* 【2023-09-27】[fastai / lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models
+* 【2023-09-27】[QwenLM / Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+* 【2023-09-27】[bitwarden / clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+* 【2023-09-27】[huawei-noah / Efficient-Computing](https://github.com/huawei-noah/Efficient-Computing) - Efficient computing methods developed by Huawei Noah's Ark Lab
 * 【2023-09-25】[jaytaph / gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser
 * 【2023-09-25】[ananthakumaran / paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. demo: https://demo.paisa.fyi
 * 【2023-09-25】[dvlab-research / LongLoRA](https://github.com/dvlab-research/LongLoRA) - Efficient long-context fine-tuning, supervised fine-tuning, LongQA dataset.
@@ -225,6 +230,8 @@
 
 ## Java
 
+* 【2023-09-27】[xerial / snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
+* 【2023-09-27】[pedroSG94 / RootEncoder](https://github.com/pedroSG94/RootEncoder) - RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP and SRT with all code written in Java/Kotlin
 * 【2023-09-25】[lakesoul-io / LakeSoul](https://github.com/lakesoul-io/LakeSoul) - LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.
 * 【2023-09-25】[jsorrell / CarpetSkyAdditions](https://github.com/jsorrell/CarpetSkyAdditions) - Empty world generation with new ways to obtain resources
 * 【2023-09-24】[ddd-by-examples / library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
@@ -287,6 +294,7 @@
 
 ## Python
 
+* 【2023-09-27】[jacklevin74 / xenminer](https://github.com/jacklevin74/xenminer) - 
 * 【2023-09-25】[irsl / curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
 * 【2023-09-25】[TIGER-AI-Lab / MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
 * 【2023-09-25】[daveshap / Medical_Intake](https://github.com/daveshap/Medical_Intake) - Automated pipeline for medical intake, diagnosis, tests, etc.
@@ -562,6 +570,7 @@
 
 ## Go
 
+* 【2023-09-27】[moabukar / tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions in Tech!
 * 【2023-09-25】[ardanlabs / gotour](https://github.com/ardanlabs/gotour) - 
 * 【2023-09-24】[selinuxG / Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、子域名扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具
 * 【2023-09-21】[akuity / kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
@@ -635,6 +644,9 @@
 
 ## C
 
+* 【2023-09-27】[labwc / labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
+* 【2023-09-27】[PortAudio / portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
+* 【2023-09-27】[shauninman / MinUI](https://github.com/shauninman/MinUI) - A custom launcher for the Trimui Smart, Miyoo Mini(s), and Anbernic RG35XX with more to come...
 * 【2023-09-25】[Maldev-Academy / MaldevAcademyLdr.1](https://github.com/Maldev-Academy/MaldevAcademyLdr.1) - 
 * 【2023-09-25】[mistymntncop / CVE-2023-4863](https://github.com/mistymntncop/CVE-2023-4863) - 
 * 【2023-09-24】[risinek / esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
@@ -869,6 +881,9 @@
 
 ## Html
 
+* 【2023-09-27】[msojocs / fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - 
+* 【2023-09-27】[CTI-Driven / LOLBins](https://github.com/CTI-Driven/LOLBins) - The LOLBins CTI-Driven (Living-Off-the-Land Binaries Cyber Threat Intelligence Driven) is a project that aims to help cyber defenders understand how LOLBin binaries are used by threat actors during an intrusion in a graphical and digestible format for the TIPs platform using the STIX format.
+* 【2023-09-27】[arm-university / Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Gain an understanding of the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
 * 【2023-09-24】[Programith / html](https://github.com/Programith/html) - HTML files used in videos for social media
 * 【2023-09-22】[opentofu / manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
 * 【2023-09-22】[godotengine / godot-website](https://github.com/godotengine/godot-website) - The code for the official Godot Engine website. A static site built using Jekyll.
@@ -958,6 +973,9 @@
 
 ## Css
 
+* 【2023-09-27】[OS-GEI-IGUALADA-2223 / HandsOn](https://github.com/OS-GEI-IGUALADA-2223/HandsOn) - Llibre enfocat per als estudiants que desitgen ampliar els seus coneixements en sistemes operatius mitjançant una aproximació pràctica i orientada a Debian.
+* 【2023-09-27】[nickcoutsos / metronome](https://github.com/nickcoutsos/metronome) - A JavaScript and CSS3 based Metronome.
+* 【2023-09-27】[obsidian-community / obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
 * 【2023-09-24】[EBAS-ID / lpkarum_software_developer](https://github.com/EBAS-ID/lpkarum_software_developer) - Modul pelatihan untuk lpk arum software developer
 * 【2023-09-24】[leonjza / frida-boot](https://github.com/leonjza/frida-boot) - Frida Boot 👢- A binary instrumentation workshop, with Frida, for beginners!
 * 【2023-09-24】[Sommerwiesel / invidious](https://github.com/Sommerwiesel/invidious) - Invidious fork with customizations for invidious.nerdvpn.de
@@ -1078,6 +1096,9 @@
 
 ## Unknown
 
+* 【2023-09-27】[ranlo / osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit
+* 【2023-09-27】[RunpeiDong / DreamLLM](https://github.com/RunpeiDong/DreamLLM) - DreamLLM: Synergistic Multimodal Comprehension and Creation
+* 【2023-09-27】[MilesCranmer / awesome-ml-demos](https://github.com/MilesCranmer/awesome-ml-demos) - Curated list of interactive ML demos
 * 【2023-09-24】[ChenyangSi / FreeU](https://github.com/ChenyangSi/FreeU) - FreeU: Free Lunch in Diffusion U-Net
 * 【2023-09-24】[dark-kingA / cloudTools](https://github.com/dark-kingA/cloudTools) - 云资产管理工具 目前工具定位是云安全相关工具，目前是两个模块 云存储工具、云服务器工具， 云存储工具主要是针对oss存储、查看、删除、上传、下载、预览等等 云服务器工具主要是针对ecs服务器的管理，查看、执行命令等等
 * 【2023-09-24】[pureqh / Hyacinth](https://github.com/pureqh/Hyacinth) - 一款java漏洞集合工具
