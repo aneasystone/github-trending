@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-09-28】[google / bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 * 【2023-09-27】[lobehub / lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 * 【2023-09-27】[fastai / lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models
 * 【2023-09-27】[QwenLM / Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
@@ -464,6 +465,7 @@
 
 ## Javascript
 
+* 【2023-09-28】[abinnz / jdlite-server](https://github.com/abinnz/jdlite-server) - 京东 抢券 log参数
 * 【2023-09-25】[BrowserBox / BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular webpage. Multiplayer embeddable browsers, open source!
 * 【2023-09-25】[Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * 【2023-09-25】[ashutosh1919 / masterPortfolio](https://github.com/ashutosh1919/masterPortfolio) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
@@ -644,6 +646,11 @@
 
 ## C
 
+* 【2023-09-28】[ColinIanKing / stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
+* 【2023-09-28】[OneOfEleven / uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
+* 【2023-09-28】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
+* 【2023-09-28】[tursodatabase / libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+* 【2023-09-28】[Avangelista / CowabungaLiteWindows](https://github.com/Avangelista/CowabungaLiteWindows) - Cowabunga Lite for Windows
 * 【2023-09-27】[labwc / labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor
 * 【2023-09-27】[PortAudio / portaudio](https://github.com/PortAudio/portaudio) - PortAudio is a cross-platform, open-source C language library for real-time audio input and output.
 * 【2023-09-27】[shauninman / MinUI](https://github.com/shauninman/MinUI) - A custom launcher for the Trimui Smart, Miyoo Mini(s), and Anbernic RG35XX with more to come...
@@ -736,6 +743,8 @@
 
 ## C++
 
+* 【2023-09-28】[ossamamehmood / Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) - Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉
+* 【2023-09-28】[casper-hansen / AutoAWQ](https://github.com/casper-hansen/AutoAWQ) - AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference.
 * 【2023-09-25】[cmu-db / 15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C++.
 * 【2023-09-25】[timeplus-io / proton](https://github.com/timeplus-io/proton) - a unified streaming and historical data processing engine in a single binary, powered by ClickHouse
 * 【2023-09-24】[AngusJohnson / Clipper2](https://github.com/AngusJohnson/Clipper2) - Polygon Clipping and Offsetting - C++, C# and Delphi
@@ -799,6 +808,7 @@
 
 ## C#
 
+* 【2023-09-28】[flytkgl / PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
 * 【2023-09-25】[csutorasa / XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
 * 【2023-09-24】[SlejmUr / PayCheck3](https://github.com/SlejmUr/PayCheck3) - PayDay 3 Server Emulator Attempt
 * 【2023-09-24】[Crypto137 / MHServerEmu](https://github.com/Crypto137/MHServerEmu) - A server emulator for Marvel Heroes
@@ -881,6 +891,7 @@
 
 ## Html
 
+* 【2023-09-28】[bitwig / dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 * 【2023-09-27】[msojocs / fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - 
 * 【2023-09-27】[CTI-Driven / LOLBins](https://github.com/CTI-Driven/LOLBins) - The LOLBins CTI-Driven (Living-Off-the-Land Binaries Cyber Threat Intelligence Driven) is a project that aims to help cyber defenders understand how LOLBin binaries are used by threat actors during an intrusion in a graphical and digestible format for the TIPs platform using the STIX format.
 * 【2023-09-27】[arm-university / Introduction-to-Computer-Architecture-Education-Kit](https://github.com/arm-university/Introduction-to-Computer-Architecture-Education-Kit) - Gain an understanding of the fundamental topics and concepts of computer architecture including the application of these with modern Arm processors
@@ -973,6 +984,11 @@
 
 ## Css
 
+* 【2023-09-28】[joy-of-react / project-toast](https://github.com/joy-of-react/project-toast) - 
+* 【2023-09-28】[woowacourse / jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc) - 
+* 【2023-09-28】[FilipJirsak-Czechitas / j2w-ukol02](https://github.com/FilipJirsak-Czechitas/j2w-ukol02) - Zadání úkolu č. 2.
+* 【2023-09-28】[gngpp / luci-theme-design](https://github.com/gngpp/luci-theme-design) - LuCI design theme (Suitable for lede and OpenWrt)
+* 【2023-09-28】[levxyca / diciotech](https://github.com/levxyca/diciotech) - Um dicionário tech para pessoas que querem aprender mais sobre termos técnicos dentro da tecnologia 📖
 * 【2023-09-27】[OS-GEI-IGUALADA-2223 / HandsOn](https://github.com/OS-GEI-IGUALADA-2223/HandsOn) - Llibre enfocat per als estudiants que desitgen ampliar els seus coneixements en sistemes operatius mitjançant una aproximació pràctica i orientada a Debian.
 * 【2023-09-27】[nickcoutsos / metronome](https://github.com/nickcoutsos/metronome) - A JavaScript and CSS3 based Metronome.
 * 【2023-09-27】[obsidian-community / obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
@@ -1096,6 +1112,11 @@
 
 ## Unknown
 
+* 【2023-09-28】[saisathvik1 / OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet by Sai Sathvik
+* 【2023-09-28】[iuricode / vagas-frontend](https://github.com/iuricode/vagas-frontend) - Vagas de desenvolvimento frontend
+* 【2023-09-28】[bgp / autopeer](https://github.com/bgp/autopeer) - 
+* 【2023-09-28】[UptraderTestTask / Junior-frontend](https://github.com/UptraderTestTask/Junior-frontend) - 
+* 【2023-09-28】[neohaskell / NeoHaskell](https://github.com/neohaskell/NeoHaskell) - ⏩ NeoHaskell is a dialect of Haskell that is focused on newcomer-friendliness and productivity.
 * 【2023-09-27】[ranlo / osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit
 * 【2023-09-27】[RunpeiDong / DreamLLM](https://github.com/RunpeiDong/DreamLLM) - DreamLLM: Synergistic Multimodal Comprehension and Creation
 * 【2023-09-27】[MilesCranmer / awesome-ml-demos](https://github.com/MilesCranmer/awesome-ml-demos) - Curated list of interactive ML demos
