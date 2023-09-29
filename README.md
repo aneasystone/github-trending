@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-09-29】[datalens-tech / datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
+* 【2023-09-29】[microsoft / autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+* 【2023-09-29】[opentiny / tiny-engine](https://github.com/opentiny/tiny-engine) - TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。
+* 【2023-09-29】[asdcorp / ohook](https://github.com/asdcorp/ohook) - An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
+* 【2023-09-29】[macOScontainers / rund](https://github.com/macOScontainers/rund) - OCI Container Runtime for macOS
+* 【2023-09-29】[amplication / amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
+* 【2023-09-29】[KenneyNL / Starter-Kit-City-Builder](https://github.com/KenneyNL/Starter-Kit-City-Builder) - 
 * 【2023-09-28】[google / bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
 * 【2023-09-27】[lobehub / lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 * 【2023-09-27】[fastai / lm-hackers](https://github.com/fastai/lm-hackers) - Hackers' Guide to Language Models
@@ -295,6 +302,8 @@
 
 ## Python
 
+* 【2023-09-29】[jackmpcollins / magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+* 【2023-09-29】[mlfoundations / open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
 * 【2023-09-27】[jacklevin74 / xenminer](https://github.com/jacklevin74/xenminer) - 
 * 【2023-09-25】[irsl / curlshell](https://github.com/irsl/curlshell) - reverse shell using curl
 * 【2023-09-25】[TIGER-AI-Lab / MAmmoTH](https://github.com/TIGER-AI-Lab/MAmmoTH) - This repo contains the code and data for "MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning"
@@ -465,6 +474,7 @@
 
 ## Javascript
 
+* 【2023-09-29】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 * 【2023-09-28】[abinnz / jdlite-server](https://github.com/abinnz/jdlite-server) - 京东 抢券 log参数
 * 【2023-09-25】[BrowserBox / BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular webpage. Multiplayer embeddable browsers, open source!
 * 【2023-09-25】[Significant-Gravitas / AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -646,6 +656,7 @@
 
 ## C
 
+* 【2023-09-29】[M01N-Team / HeaderLessPE](https://github.com/M01N-Team/HeaderLessPE) - 
 * 【2023-09-28】[ColinIanKing / stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 * 【2023-09-28】[OneOfEleven / uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
 * 【2023-09-28】[linux-rdma / rdma-core](https://github.com/linux-rdma/rdma-core) - RDMA core userspace libraries and daemons
@@ -808,6 +819,10 @@
 
 ## C#
 
+* 【2023-09-29】[mertdas / RedPersist](https://github.com/mertdas/RedPersist) - 
+* 【2023-09-29】[maliming / Abp.GeneralTree](https://github.com/maliming/Abp.GeneralTree) - For Abp vNext
+* 【2023-09-29】[ONLYOFFICE / CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
+* 【2023-09-29】[Azure-Samples / communication-services-AI-customer-service-sample](https://github.com/Azure-Samples/communication-services-AI-customer-service-sample) - A sample app for the customer support center running in Azure, using Azure Communication Services and Azure OpenAI for text and voice bots.
 * 【2023-09-28】[flytkgl / PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
 * 【2023-09-25】[csutorasa / XOutput](https://github.com/csutorasa/XOutput) - DirectInput to XInput wrapper
 * 【2023-09-24】[SlejmUr / PayCheck3](https://github.com/SlejmUr/PayCheck3) - PayDay 3 Server Emulator Attempt
@@ -891,6 +906,7 @@
 
 ## Html
 
+* 【2023-09-29】[haozi-team / panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
 * 【2023-09-28】[bitwig / dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 * 【2023-09-27】[msojocs / fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - 
 * 【2023-09-27】[CTI-Driven / LOLBins](https://github.com/CTI-Driven/LOLBins) - The LOLBins CTI-Driven (Living-Off-the-Land Binaries Cyber Threat Intelligence Driven) is a project that aims to help cyber defenders understand how LOLBin binaries are used by threat actors during an intrusion in a graphical and digestible format for the TIPs platform using the STIX format.
@@ -984,6 +1000,10 @@
 
 ## Css
 
+* 【2023-09-29】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | Hacktoberfest 2023
+* 【2023-09-29】[nbuntsch / exercice-bootstrap-2-layout-responsive](https://github.com/nbuntsch/exercice-bootstrap-2-layout-responsive) - 
+* 【2023-09-29】[nbuntsch / exercice-bootstrap-1-layout-desktop](https://github.com/nbuntsch/exercice-bootstrap-1-layout-desktop) - 
+* 【2023-09-29】[Artado-Project / artadosearch](https://github.com/Artado-Project/artadosearch) - Artado Search is open source and private search engine.
 * 【2023-09-28】[joy-of-react / project-toast](https://github.com/joy-of-react/project-toast) - 
 * 【2023-09-28】[woowacourse / jwp-dashboard-jdbc](https://github.com/woowacourse/jwp-dashboard-jdbc) - 
 * 【2023-09-28】[FilipJirsak-Czechitas / j2w-ukol02](https://github.com/FilipJirsak-Czechitas/j2w-ukol02) - Zadání úkolu č. 2.
@@ -1112,6 +1132,8 @@
 
 ## Unknown
 
+* 【2023-09-29】[LetsDefend / incident-response-playbooks](https://github.com/LetsDefend/incident-response-playbooks) - 
+* 【2023-09-29】[gxh27954 / damai_requests](https://github.com/gxh27954/damai_requests) - 大麦网H5、小程序、APP抢票解决
 * 【2023-09-28】[saisathvik1 / OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet by Sai Sathvik
 * 【2023-09-28】[iuricode / vagas-frontend](https://github.com/iuricode/vagas-frontend) - Vagas de desenvolvimento frontend
 * 【2023-09-28】[bgp / autopeer](https://github.com/bgp/autopeer) - 
