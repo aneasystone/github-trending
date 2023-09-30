@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-09-30】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+* 【2023-09-30】[CodeWithHarry / Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
+* 【2023-09-30】[VASTDynamics / Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) - Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin
+* 【2023-09-30】[lee1080 / CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
 * 【2023-09-29】[datalens-tech / datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 * 【2023-09-29】[microsoft / autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 * 【2023-09-29】[opentiny / tiny-engine](https://github.com/opentiny/tiny-engine) - TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。
@@ -238,6 +242,7 @@
 
 ## Java
 
+* 【2023-09-30】[openrewrite / rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 * 【2023-09-27】[xerial / snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
 * 【2023-09-27】[pedroSG94 / RootEncoder](https://github.com/pedroSG94/RootEncoder) - RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP and SRT with all code written in Java/Kotlin
 * 【2023-09-25】[lakesoul-io / LakeSoul](https://github.com/lakesoul-io/LakeSoul) - LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.
@@ -474,6 +479,8 @@
 
 ## Javascript
 
+* 【2023-09-30】[redwanul10 / React-Native-Animations](https://github.com/redwanul10/React-Native-Animations) - 
+* 【2023-09-30】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 * 【2023-09-29】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 * 【2023-09-28】[abinnz / jdlite-server](https://github.com/abinnz/jdlite-server) - 京东 抢券 log参数
 * 【2023-09-25】[BrowserBox / BrowserBox](https://github.com/BrowserBox/BrowserBox) - 🌀 BrowserBox is Web application virtualization via zero trust remote browser isolation and secure document gateway technology. Embed secure unrestricted webviews on any device in a regular webpage. Multiplayer embeddable browsers, open source!
@@ -582,6 +589,8 @@
 
 ## Go
 
+* 【2023-09-30】[google / capslock](https://github.com/google/capslock) - 
+* 【2023-09-30】[GoogleCloudPlatform / k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 * 【2023-09-27】[moabukar / tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions in Tech!
 * 【2023-09-25】[ardanlabs / gotour](https://github.com/ardanlabs/gotour) - 
 * 【2023-09-24】[selinuxG / Golin](https://github.com/selinuxG/Golin) - 弱口令检测、 漏洞扫描、端口扫描（协议识别，组件识别）、web目录扫描、子域名扫描、等保模拟定级、自动化运维、等保工具（网络安全等级保护现场测评工具）内置3级等保核查命令、基线核查工具
@@ -656,6 +665,8 @@
 
 ## C
 
+* 【2023-09-30】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+* 【2023-09-30】[kmesh-net / kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on Programmable Kernel
 * 【2023-09-29】[M01N-Team / HeaderLessPE](https://github.com/M01N-Team/HeaderLessPE) - 
 * 【2023-09-28】[ColinIanKing / stress-ng](https://github.com/ColinIanKing/stress-ng) - This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
 * 【2023-09-28】[OneOfEleven / uv-k5-firmware-custom](https://github.com/OneOfEleven/uv-k5-firmware-custom) - A customized version of https://github.com/DualTachyon/uv-k5-firmware
@@ -754,6 +765,8 @@
 
 ## C++
 
+* 【2023-09-30】[LibrePCB / LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
+* 【2023-09-30】[fabiensanglard / st](https://github.com/fabiensanglard/st) - Command Space-Time explorer
 * 【2023-09-28】[ossamamehmood / Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) - Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉
 * 【2023-09-28】[casper-hansen / AutoAWQ](https://github.com/casper-hansen/AutoAWQ) - AutoAWQ implements the AWQ algorithm for 4-bit quantization with a 2x speedup during inference.
 * 【2023-09-25】[cmu-db / 15445-bootcamp](https://github.com/cmu-db/15445-bootcamp) - A basic introduction to coding in modern C++.
@@ -906,6 +919,9 @@
 
 ## Html
 
+* 【2023-09-30】[MetaGLM / FinGLM](https://github.com/MetaGLM/FinGLM) - 
+* 【2023-09-30】[italanta / elewa-website-html](https://github.com/italanta/elewa-website-html) - Repository of the elewa website redesign. This is a website which uses HTML, CSS and TypeScript.
+* 【2023-09-30】[sheryislive / two-good-co](https://github.com/sheryislive/two-good-co) - 
 * 【2023-09-29】[haozi-team / panel](https://github.com/haozi-team/panel) - 耗子Linux面板 - GO开发的轻量Linux面板
 * 【2023-09-28】[bitwig / dawproject](https://github.com/bitwig/dawproject) - Open exchange format for DAWs
 * 【2023-09-27】[msojocs / fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - 
@@ -1000,6 +1016,9 @@
 
 ## Css
 
+* 【2023-09-30】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
+* 【2023-09-30】[erictreacy / mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
+* 【2023-09-30】[DevMountain / HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems) - 
 * 【2023-09-29】[divyanshudhruv / Minifolio](https://github.com/divyanshudhruv/Minifolio) - ⚡ A minimal portfolio template for Developers | Hacktoberfest 2023
 * 【2023-09-29】[nbuntsch / exercice-bootstrap-2-layout-responsive](https://github.com/nbuntsch/exercice-bootstrap-2-layout-responsive) - 
 * 【2023-09-29】[nbuntsch / exercice-bootstrap-1-layout-desktop](https://github.com/nbuntsch/exercice-bootstrap-1-layout-desktop) - 
@@ -1132,6 +1151,10 @@
 
 ## Unknown
 
+* 【2023-09-30】[aws-samples / aws-customer-playbook-framework](https://github.com/aws-samples/aws-customer-playbook-framework) - This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.
+* 【2023-09-30】[AakashKumarNain / annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers) - This repo contains annotated research papers that I found really good and useful
+* 【2023-09-30】[PRG1-HEIGVD / PRG1_Recueil_Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices) - 
+* 【2023-09-30】[ONLYOFFICE / DesktopEditors](https://github.com/ONLYOFFICE/DesktopEditors) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents
 * 【2023-09-29】[LetsDefend / incident-response-playbooks](https://github.com/LetsDefend/incident-response-playbooks) - 
 * 【2023-09-29】[gxh27954 / damai_requests](https://github.com/gxh27954/damai_requests) - 大麦网H5、小程序、APP抢票解决
 * 【2023-09-28】[saisathvik1 / OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet by Sai Sathvik
