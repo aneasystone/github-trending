@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-10-01】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
+* 【2023-10-01】[casey / runestone](https://github.com/casey/runestone) - Runes: terrible idea or idée terrible?
+* 【2023-10-01】[WolverinDEV / Valthrun](https://github.com/WolverinDEV/Valthrun) - Valthrun an open source external CS2 read only kernel gameplay enhancer.
+* 【2023-10-01】[joschan21 / quill](https://github.com/joschan21/quill) - Quill - A Modern SaaS-Platform Built With Next.js 13
+* 【2023-10-01】[uiua-lang / uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
 * 【2023-09-30】[mistralai / mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
 * 【2023-09-30】[CodeWithHarry / Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) - Source Code for Sigma Web Development Course
 * 【2023-09-30】[VASTDynamics / Vaporizer2](https://github.com/VASTDynamics/Vaporizer2) - Vaporizer2 hybrid wavetable additive / subtractive VST / AU / AAX synthesizer / sampler workstation plugin
@@ -242,6 +247,7 @@
 
 ## Java
 
+* 【2023-10-01】[stripe / stripe-java](https://github.com/stripe/stripe-java) - Java library for the Stripe API.
 * 【2023-09-30】[openrewrite / rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 * 【2023-09-27】[xerial / snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
 * 【2023-09-27】[pedroSG94 / RootEncoder](https://github.com/pedroSG94/RootEncoder) - RootEncoder for Android (rtmp-rtsp-stream-client-java) is a stream encoder to push video/audio to media servers using protocols RTMP, RTSP and SRT with all code written in Java/Kotlin
@@ -307,6 +313,10 @@
 
 ## Python
 
+* 【2023-10-01】[tryolabs / norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
+* 【2023-10-01】[zkMeLabs / zkme-python-seal](https://github.com/zkMeLabs/zkme-python-seal) - This library is built upon SEAL-Python, showcasing the power and potential of Homomorphic Encryption (HE) in the context of the zkMe project.
+* 【2023-10-01】[explosion / spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
+* 【2023-10-01】[xuya227939 / blog](https://github.com/xuya227939/blog) - 💡 技术博客
 * 【2023-09-29】[jackmpcollins / magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
 * 【2023-09-29】[mlfoundations / open_lm](https://github.com/mlfoundations/open_lm) - A repository for research on medium sized language models.
 * 【2023-09-27】[jacklevin74 / xenminer](https://github.com/jacklevin74/xenminer) - 
@@ -479,6 +489,8 @@
 
 ## Javascript
 
+* 【2023-10-01】[usebruno / bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+* 【2023-10-01】[localtunnel / localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 * 【2023-09-30】[redwanul10 / React-Native-Animations](https://github.com/redwanul10/React-Native-Animations) - 
 * 【2023-09-30】[foliojs / pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
 * 【2023-09-29】[brunosimon / my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
@@ -589,6 +601,9 @@
 
 ## Go
 
+* 【2023-10-01】[kubefirst / kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
+* 【2023-10-01】[a-h / templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
+* 【2023-10-01】[nxtrace / NTrace-core](https://github.com/nxtrace/NTrace-core) - An open source visual route tracking CLI tool
 * 【2023-09-30】[google / capslock](https://github.com/google/capslock) - 
 * 【2023-09-30】[GoogleCloudPlatform / k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) - GCP Config Connector, a Kubernetes add-on for managing GCP resources
 * 【2023-09-27】[moabukar / tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions in Tech!
@@ -665,6 +680,8 @@
 
 ## C
 
+* 【2023-10-01】[alx-se / Resources](https://github.com/alx-se/Resources) - 
+* 【2023-10-01】[webmproject / libvpx](https://github.com/webmproject/libvpx) - Mirror only. Please do not send pull requests.
 * 【2023-09-30】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
 * 【2023-09-30】[kmesh-net / kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on Programmable Kernel
 * 【2023-09-29】[M01N-Team / HeaderLessPE](https://github.com/M01N-Team/HeaderLessPE) - 
@@ -765,6 +782,9 @@
 
 ## C++
 
+* 【2023-10-01】[IMXNOOBX / cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp) - Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.
+* 【2023-10-01】[bruhmoment21 / cs2-sdk](https://github.com/bruhmoment21/cs2-sdk) - Counter-Strike 2 SDK/Base written in C++.
+* 【2023-10-01】[WayfireWM / wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 * 【2023-09-30】[LibrePCB / LibrePCB](https://github.com/LibrePCB/LibrePCB) - A powerful, innovative and intuitive EDA suite for everyone!
 * 【2023-09-30】[fabiensanglard / st](https://github.com/fabiensanglard/st) - Command Space-Time explorer
 * 【2023-09-28】[ossamamehmood / Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) - Hacktoberfest 2023 OPEN FIRST Pull Request - FREE T-SHIRT🎉
@@ -832,6 +852,8 @@
 
 ## C#
 
+* 【2023-10-01】[ElevenPaths / FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
+* 【2023-10-01】[ValveResourceFormat / ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) - 🔬 Valve's Source 2 resource file format parser and decompiler
 * 【2023-09-29】[mertdas / RedPersist](https://github.com/mertdas/RedPersist) - 
 * 【2023-09-29】[maliming / Abp.GeneralTree](https://github.com/maliming/Abp.GeneralTree) - For Abp vNext
 * 【2023-09-29】[ONLYOFFICE / CommunityServer](https://github.com/ONLYOFFICE/CommunityServer) - Free open source office suite with business productivity tools: document and project management, CRM, mail aggregator.
@@ -919,6 +941,10 @@
 
 ## Html
 
+* 【2023-10-01】[Purple-CSGO / CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉 CFG Presets for many scenarios in Counter-Strike 2
+* 【2023-10-01】[TheUnblockedHubOfficial / TheUnblockedHub](https://github.com/TheUnblockedHubOfficial/TheUnblockedHub) - The Unblocked Hub is the #1 site for all-in-one school entertainment. Accelerate your "learning" with our collection of games, apps, emulators, proxies, and so much more.
+* 【2023-10-01】[marshadkhn / TinDog](https://github.com/marshadkhn/TinDog) - This repo is all about the Tinder for dogs, It's a basic HTML CSS JS BOOTSTRAP web app
+* 【2023-10-01】[lrusso / VirtualXP](https://github.com/lrusso/VirtualXP) - Virtual Machine running in a Web browser
 * 【2023-09-30】[MetaGLM / FinGLM](https://github.com/MetaGLM/FinGLM) - 
 * 【2023-09-30】[italanta / elewa-website-html](https://github.com/italanta/elewa-website-html) - Repository of the elewa website redesign. This is a website which uses HTML, CSS and TypeScript.
 * 【2023-09-30】[sheryislive / two-good-co](https://github.com/sheryislive/two-good-co) - 
@@ -1016,6 +1042,7 @@
 
 ## Css
 
+* 【2023-10-01】[ghuntley / noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 * 【2023-09-30】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
 * 【2023-09-30】[erictreacy / mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
 * 【2023-09-30】[DevMountain / HTML-CSS-Practice-Problems](https://github.com/DevMountain/HTML-CSS-Practice-Problems) - 
@@ -1151,6 +1178,8 @@
 
 ## Unknown
 
+* 【2023-10-01】[microsoft / prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
+* 【2023-10-01】[Floorp-Projects / Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 * 【2023-09-30】[aws-samples / aws-customer-playbook-framework](https://github.com/aws-samples/aws-customer-playbook-framework) - This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.
 * 【2023-09-30】[AakashKumarNain / annotated_research_papers](https://github.com/AakashKumarNain/annotated_research_papers) - This repo contains annotated research papers that I found really good and useful
 * 【2023-09-30】[PRG1-HEIGVD / PRG1_Recueil_Exercices](https://github.com/PRG1-HEIGVD/PRG1_Recueil_Exercices) - 
