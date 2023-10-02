@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-10-02】[a13xp0p0v / kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 * 【2023-10-01】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
 * 【2023-10-01】[casey / runestone](https://github.com/casey/runestone) - Runes: terrible idea or idée terrible?
 * 【2023-10-01】[WolverinDEV / Valthrun](https://github.com/WolverinDEV/Valthrun) - Valthrun an open source external CS2 read only kernel gameplay enhancer.
@@ -247,6 +248,7 @@
 
 ## Java
 
+* 【2023-10-02】[LWJGL / lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
 * 【2023-10-01】[stripe / stripe-java](https://github.com/stripe/stripe-java) - Java library for the Stripe API.
 * 【2023-09-30】[openrewrite / rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 * 【2023-09-27】[xerial / snappy-java](https://github.com/xerial/snappy-java) - Snappy compressor/decompressor for Java
@@ -313,6 +315,11 @@
 
 ## Python
 
+* 【2023-10-02】[LTTLabsOSS / markbench-tests](https://github.com/LTTLabsOSS/markbench-tests) - Home of test harnesses used in LTT Labs MarkBench
+* 【2023-10-02】[kwai / DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+* 【2023-10-02】[fineanmol / Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
+* 【2023-10-02】[gsgen3d / gsgen](https://github.com/gsgen3d/gsgen) - Text-to-3D using Gaussian Splatting
+* 【2023-10-02】[facebookresearch / MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 * 【2023-10-01】[tryolabs / norfair](https://github.com/tryolabs/norfair) - Lightweight Python library for adding real-time multi-object tracking to any detector.
 * 【2023-10-01】[zkMeLabs / zkme-python-seal](https://github.com/zkMeLabs/zkme-python-seal) - This library is built upon SEAL-Python, showcasing the power and potential of Homomorphic Encryption (HE) in the context of the zkMe project.
 * 【2023-10-01】[explosion / spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -601,6 +608,8 @@
 
 ## Go
 
+* 【2023-10-02】[Boeing / config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
+* 【2023-10-02】[hybridgroup / gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 * 【2023-10-01】[kubefirst / kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
 * 【2023-10-01】[a-h / templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 * 【2023-10-01】[nxtrace / NTrace-core](https://github.com/nxtrace/NTrace-core) - An open source visual route tracking CLI tool
@@ -680,6 +689,7 @@
 
 ## C
 
+* 【2023-10-02】[jsecurity101 / JonMon](https://github.com/jsecurity101/JonMon) - 
 * 【2023-10-01】[alx-se / Resources](https://github.com/alx-se/Resources) - 
 * 【2023-10-01】[webmproject / libvpx](https://github.com/webmproject/libvpx) - Mirror only. Please do not send pull requests.
 * 【2023-09-30】[hmgle / graftcp](https://github.com/hmgle/graftcp) - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
@@ -782,6 +792,9 @@
 
 ## C++
 
+* 【2023-10-02】[thedmd / imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
+* 【2023-10-02】[TKazer / CS2_External](https://github.com/TKazer/CS2_External) - CS2 external cheat.
+* 【2023-10-02】[alliedmodders / hl2sdk](https://github.com/alliedmodders/hl2sdk) - Half-Life 2 SDK Mirrors
 * 【2023-10-01】[IMXNOOBX / cs2-external-esp](https://github.com/IMXNOOBX/cs2-external-esp) - Simple external esp using discord's/gdi overlay to render a box-esp on top of Counter-Strike 2, highlighting your enemies and teammates including their health.
 * 【2023-10-01】[bruhmoment21 / cs2-sdk](https://github.com/bruhmoment21/cs2-sdk) - Counter-Strike 2 SDK/Base written in C++.
 * 【2023-10-01】[WayfireWM / wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -941,6 +954,7 @@
 
 ## Html
 
+* 【2023-10-02】[NoTextToSpeech / goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
 * 【2023-10-01】[Purple-CSGO / CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉 CFG Presets for many scenarios in Counter-Strike 2
 * 【2023-10-01】[TheUnblockedHubOfficial / TheUnblockedHub](https://github.com/TheUnblockedHubOfficial/TheUnblockedHub) - The Unblocked Hub is the #1 site for all-in-one school entertainment. Accelerate your "learning" with our collection of games, apps, emulators, proxies, and so much more.
 * 【2023-10-01】[marshadkhn / TinDog](https://github.com/marshadkhn/TinDog) - This repo is all about the Tinder for dogs, It's a basic HTML CSS JS BOOTSTRAP web app
@@ -1042,6 +1056,7 @@
 
 ## Css
 
+* 【2023-10-02】[tgulegacy / web-technologies-2023-1](https://github.com/tgulegacy/web-technologies-2023-1) - 
 * 【2023-10-01】[ghuntley / noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 * 【2023-09-30】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
 * 【2023-09-30】[erictreacy / mimic.css](https://github.com/erictreacy/mimic.css) - Everyone else is doing it!
@@ -1178,6 +1193,8 @@
 
 ## Unknown
 
+* 【2023-10-02】[Furkan-Gulsen / AWS-Certified-Cloud-Practitioner-Certification-My-Notes](https://github.com/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes) - In the process of obtaining the AWS Certified Cloud Practitioner certificate, I took notes of the topics I encountered from more than 10 sources and more than 2000+ questions and I share them in this repo.
+* 【2023-10-02】[zero-to-mastery / Hacktoberfest-2023](https://github.com/zero-to-mastery/Hacktoberfest-2023) - Get started with Hacktoberfest 2023 with 3 awesome ZTM projects
 * 【2023-10-01】[microsoft / prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
 * 【2023-10-01】[Floorp-Projects / Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 * 【2023-09-30】[aws-samples / aws-customer-playbook-framework](https://github.com/aws-samples/aws-customer-playbook-framework) - This repository provides sample templates for security playbooks against various scenarios when using Amazon Web Services.
