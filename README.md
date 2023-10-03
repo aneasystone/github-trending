@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-03】[Mazars-Tech / AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
+* 【2023-10-03】[jetporch / jetporch](https://github.com/jetporch/jetporch) - Next generation IT orchestration
 * 【2023-10-02】[a13xp0p0v / kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
 * 【2023-10-01】[dreamgaussian / dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
 * 【2023-10-01】[casey / runestone](https://github.com/casey/runestone) - Runes: terrible idea or idée terrible?
@@ -248,6 +250,10 @@
 
 ## Java
 
+* 【2023-10-03】[alura-es-cursos / Spring-Boot-3](https://github.com/alura-es-cursos/Spring-Boot-3) - Documente, teste y prepare una API para deploy
+* 【2023-10-03】[acmerobotics / road-runner-quickstart](https://github.com/acmerobotics/road-runner-quickstart) - FTC quickstart for https://github.com/acmerobotics/road-runner
+* 【2023-10-03】[janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* 【2023-10-03】[alura-es-cursos / 1979-spring-boot-buenas-practicas-security](https://github.com/alura-es-cursos/1979-spring-boot-buenas-practicas-security) - 
 * 【2023-10-02】[LWJGL / lwjgl3](https://github.com/LWJGL/lwjgl3) - LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.
 * 【2023-10-01】[stripe / stripe-java](https://github.com/stripe/stripe-java) - Java library for the Stripe API.
 * 【2023-09-30】[openrewrite / rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
@@ -315,6 +321,10 @@
 
 ## Python
 
+* 【2023-10-03】[codespell-project / codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
+* 【2023-10-03】[GUNDAM-Labet / GUNDAM](https://github.com/GUNDAM-Labet/GUNDAM) - GUNDAM is a data management system that prioritizes data using language models.
+* 【2023-10-03】[litestar-org / litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+* 【2023-10-03】[continue-revolution / sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff) - AnimateDiff for AUTOMATIC1111 Stable Diffusion WebUI
 * 【2023-10-02】[LTTLabsOSS / markbench-tests](https://github.com/LTTLabsOSS/markbench-tests) - Home of test harnesses used in LTT Labs MarkBench
 * 【2023-10-02】[kwai / DouZero](https://github.com/kwai/DouZero) - [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
 * 【2023-10-02】[fineanmol / Hacktoberfest2023](https://github.com/fineanmol/Hacktoberfest2023) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like give us a ⭐️
@@ -496,6 +506,7 @@
 
 ## Javascript
 
+* 【2023-10-03】[ArchGPT / insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia
 * 【2023-10-01】[usebruno / bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * 【2023-10-01】[localtunnel / localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 * 【2023-09-30】[redwanul10 / React-Native-Animations](https://github.com/redwanul10/React-Native-Animations) - 
@@ -689,6 +700,7 @@
 
 ## C
 
+* 【2023-10-03】[raspiduino / arv32-opt](https://github.com/raspiduino/arv32-opt) - [Tested successfully] Linux on Arduino UNO / atmega328p port of mini-rv32ima. Let's run Linux on the world's worst Linux PC (and beat Dmitry Grinberg)
 * 【2023-10-02】[jsecurity101 / JonMon](https://github.com/jsecurity101/JonMon) - 
 * 【2023-10-01】[alx-se / Resources](https://github.com/alx-se/Resources) - 
 * 【2023-10-01】[webmproject / libvpx](https://github.com/webmproject/libvpx) - Mirror only. Please do not send pull requests.
@@ -792,6 +804,8 @@
 
 ## C++
 
+* 【2023-10-03】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
+* 【2023-10-03】[OfficialCodeNoodles / 2D-Minecraft](https://github.com/OfficialCodeNoodles/2D-Minecraft) - 
 * 【2023-10-02】[thedmd / imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
 * 【2023-10-02】[TKazer / CS2_External](https://github.com/TKazer/CS2_External) - CS2 external cheat.
 * 【2023-10-02】[alliedmodders / hl2sdk](https://github.com/alliedmodders/hl2sdk) - Half-Life 2 SDK Mirrors
@@ -865,6 +879,9 @@
 
 ## C#
 
+* 【2023-10-03】[wolfgarbe / PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
+* 【2023-10-03】[ai-tradingbot / AI-Trading-Bot](https://github.com/ai-tradingbot/AI-Trading-Bot) - State-of-the-art AI trading bot. Enjoy automated trading with precision
+* 【2023-10-03】[Kir-Antipov / HotAvalonia](https://github.com/Kir-Antipov/HotAvalonia) - 🔥 Supercharge your Avalonia development experience with hot reload capabilities
 * 【2023-10-01】[ElevenPaths / FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 * 【2023-10-01】[ValveResourceFormat / ValveResourceFormat](https://github.com/ValveResourceFormat/ValveResourceFormat) - 🔬 Valve's Source 2 resource file format parser and decompiler
 * 【2023-09-29】[mertdas / RedPersist](https://github.com/mertdas/RedPersist) - 
@@ -954,6 +971,10 @@
 
 ## Html
 
+* 【2023-10-03】[aileftech / spring-boot-database-admin](https://github.com/aileftech/spring-boot-database-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
+* 【2023-10-03】[Ananyasingh2002 / Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023) - Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!
+* 【2023-10-03】[Jayesh-JainX / Hacktoberfest-23](https://github.com/Jayesh-JainX/Hacktoberfest-23) - HacktoberFest 2023 - Make your first Pull Request and earn a free digital reward kit courtesy of DigitalOcean and our sponsors and partners! hacktoberfest.com/
+* 【2023-10-03】[NITRR-Open-Source-Community / NOSC-Website](https://github.com/NITRR-Open-Source-Community/NOSC-Website) - 
 * 【2023-10-02】[NoTextToSpeech / goofy-site](https://github.com/NoTextToSpeech/goofy-site) - Basic html repo for people to use to make their own nonsensical github website to embed into Discord
 * 【2023-10-01】[Purple-CSGO / CS2-Config-Presets](https://github.com/Purple-CSGO/CS2-Config-Presets) - 🎉 CFG Presets for many scenarios in Counter-Strike 2
 * 【2023-10-01】[TheUnblockedHubOfficial / TheUnblockedHub](https://github.com/TheUnblockedHubOfficial/TheUnblockedHub) - The Unblocked Hub is the #1 site for all-in-one school entertainment. Accelerate your "learning" with our collection of games, apps, emulators, proxies, and so much more.
@@ -1193,6 +1214,8 @@
 
 ## Unknown
 
+* 【2023-10-03】[incidrthreat / iceriver_oc](https://github.com/incidrthreat/iceriver_oc) - 
+* 【2023-10-03】[kdeldycke / awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 * 【2023-10-02】[Furkan-Gulsen / AWS-Certified-Cloud-Practitioner-Certification-My-Notes](https://github.com/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes) - In the process of obtaining the AWS Certified Cloud Practitioner certificate, I took notes of the topics I encountered from more than 10 sources and more than 2000+ questions and I share them in this repo.
 * 【2023-10-02】[zero-to-mastery / Hacktoberfest-2023](https://github.com/zero-to-mastery/Hacktoberfest-2023) - Get started with Hacktoberfest 2023 with 3 awesome ZTM projects
 * 【2023-10-01】[microsoft / prompts-for-edu](https://github.com/microsoft/prompts-for-edu) - 
