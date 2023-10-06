@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-10-06】[mouredev / python-web](https://github.com/mouredev/python-web) - Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
+* 【2023-10-06】[akaunting / akaunting](https://github.com/akaunting/akaunting) - Online Accounting Software
+* 【2023-10-06】[SerCeMan / fontogen](https://github.com/SerCeMan/fontogen) - Hey, Computer, Make Me a Font
+* 【2023-10-06】[filamentphp / filament](https://github.com/filamentphp/filament) - A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
 * 【2023-10-05】[mit-han-lab / streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
 * 【2023-10-05】[KenneyNL / Starter-Kit-FPS](https://github.com/KenneyNL/Starter-Kit-FPS) - 
 * 【2023-10-05】[danielgross / localpilot](https://github.com/danielgross/localpilot) - 
@@ -256,6 +260,9 @@
 
 ## Java
 
+* 【2023-10-06】[OpenTracksApp / OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+* 【2023-10-06】[LangStream / langstream](https://github.com/LangStream/langstream) - LangStream: an Event-Driven Developer Platform for LLM Apps
+* 【2023-10-06】[elastic / elasticsearch-java](https://github.com/elastic/elasticsearch-java) - Official Elasticsearch Java Client
 * 【2023-10-05】[alura-es-cursos / 1952-spring-boot-3-rest-api](https://github.com/alura-es-cursos/1952-spring-boot-3-rest-api) - Spring Boot 3 : Rest API - Alura
 * 【2023-10-05】[react-native-google-signin / google-signin](https://github.com/react-native-google-signin/google-signin) - Google Sign-in for your React Native applications
 * 【2023-10-05】[jbellis / jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
@@ -336,6 +343,8 @@
 
 ## Python
 
+* 【2023-10-06】[LinkSoul-AI / AutoAgents](https://github.com/LinkSoul-AI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
+* 【2023-10-06】[airtai / faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS.
 * 【2023-10-05】[ray-project / ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
 * 【2023-10-05】[win3zz / CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) - CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption
 * 【2023-10-04】[Pennyw0rth / NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
@@ -525,6 +534,8 @@
 
 ## Javascript
 
+* 【2023-10-06】[ishwarrimal / frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps) - Everything required to crack frontend interview
+* 【2023-10-06】[sahandghavidel / mern-estate](https://github.com/sahandghavidel/mern-estate) - Real Estate app using MERN and tailwind css
 * 【2023-10-05】[tejado / telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
 * 【2023-10-05】[meshery / meshery.io](https://github.com/meshery/meshery.io) - Site for Meshery, the cloud native manager
 * 【2023-10-04】[novuhq / hacksquad-website](https://github.com/novuhq/hacksquad-website) - Contribute code, meet community members, participate in workshops, and win more SWAG 🚀
@@ -644,6 +655,8 @@
 
 ## Go
 
+* 【2023-10-06】[ThangLeQuoc / vietnamese-provinces-database](https://github.com/ThangLeQuoc/vietnamese-provinces-database) - A complete SQL dataset of Vietnamese administrative units, includes Vietnamese provinces, districts and wards
+* 【2023-10-06】[DataDog / KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph
 * 【2023-10-02】[Boeing / config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files
 * 【2023-10-02】[hybridgroup / gobot](https://github.com/hybridgroup/gobot) - Golang framework for robotics, drones, and the Internet of Things (IoT)
 * 【2023-10-01】[kubefirst / kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform
@@ -725,6 +738,8 @@
 
 ## C
 
+* 【2023-10-06】[AxxAxx / AxxSolder](https://github.com/AxxAxx/AxxSolder) - STM32 Based soldering station for JBC cartridges
+* 【2023-10-06】[ekknod / EC](https://github.com/ekknod/EC) - open-source CS:GO/CS2 cheat
 * 【2023-10-05】[he4rt / he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
 * 【2023-10-05】[skynettx / dosraptor](https://github.com/skynettx/dosraptor) - Original Raptor Call Of The Shadows version 1.2 DOS source code
 * 【2023-10-05】[xperiments-in / xtouch](https://github.com/xperiments-in/xtouch) - 
@@ -835,6 +850,11 @@
 
 ## C++
 
+* 【2023-10-06】[TheD1rkMtr / DocPlz](https://github.com/TheD1rkMtr/DocPlz) - Documents Exfiltration project for fun and educational purposes
+* 【2023-10-06】[google / graph-mining](https://github.com/google/graph-mining) - 
+* 【2023-10-06】[DHEERAJHARODE / Hacktoberfest2023-Open-source-](https://github.com/DHEERAJHARODE/Hacktoberfest2023-Open-source-) - Send your valuable codes here
+* 【2023-10-06】[Source2ZE / CS2Fixes](https://github.com/Source2ZE/CS2Fixes) - S2ZE modding experiments
+* 【2023-10-06】[NVIDIA / MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
 * 【2023-10-05】[DavidGQK / mython_interpreter](https://github.com/DavidGQK/mython_interpreter) - 
 * 【2023-10-05】[iamdestinychild / 30-Days-DSA-Challenge](https://github.com/iamdestinychild/30-Days-DSA-Challenge) - A 30 days challange for you to learn data structure and algorithm
 * 【2023-10-05】[Prashant0664 / hacktoberfest](https://github.com/Prashant0664/hacktoberfest) - You can upload programming ques and projects here for Hacktoberfest 2023
@@ -1012,6 +1032,10 @@
 
 ## Html
 
+* 【2023-10-06】[oyepriyansh / DevProfiles](https://github.com/oyepriyansh/DevProfiles) - DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.
+* 【2023-10-06】[LondheShubham153 / two-tier-flask-app](https://github.com/LondheShubham153/two-tier-flask-app) - 
+* 【2023-10-06】[develon2015 / Youtube-dl-REST](https://github.com/develon2015/Youtube-dl-REST) - Youtube & BiliBili 视频在线解析下载 -- Website for download the Youtube & BiliBili videos.
+* 【2023-10-06】[ocaml / ocaml.org](https://github.com/ocaml/ocaml.org) - The official OCaml website.
 * 【2023-10-05】[thecyberbuzz / anycode](https://github.com/thecyberbuzz/anycode) - Only Valid Contribution will be Accepted
 * 【2023-10-05】[WTMBamenda / wtm-bamenda-website-frontend](https://github.com/WTMBamenda/wtm-bamenda-website-frontend) - Frontend UI of website
 * 【2023-10-05】[appwrite / templates](https://github.com/appwrite/templates) - Templates for Appwrite Functions ⚡️🌩️
@@ -1126,6 +1150,12 @@
 
 ## Css
 
+* 【2023-10-06】[Prajwal0225 / My-Favorite-SuperHero](https://github.com/Prajwal0225/My-Favorite-SuperHero) - 🦸‍♂️ My Fav Superhero: Discover superhero images in a click! Search your heroes or get random image.
+* 【2023-10-06】[bwang-kf / silver-foobar](https://github.com/bwang-kf/silver-foobar) - 
+* 【2023-10-06】[naveen3011 / WebD_project](https://github.com/naveen3011/WebD_project) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2023
+* 【2023-10-06】[waite0603 / Resume-vCard-Collection](https://github.com/waite0603/Resume-vCard-Collection) - About Responsive Personal Portfolio Website Using HTML CSS and JavaScript with Light & Dark Theme Toggle, Web前端静态个人简历，网页个人简历模版，HTML&CSS制作个人简历, 个人作品集网站
+* 【2023-10-06】[nbuntsch / exercice-bootstrap-4-layout-responsive-avance](https://github.com/nbuntsch/exercice-bootstrap-4-layout-responsive-avance) - 
+* 【2023-10-06】[riz4d / Hacktoberfest23](https://github.com/riz4d/Hacktoberfest23) - Hactoberfest 2023 open source contribution
 * 【2023-10-05】[debrajrout / Dev.HFest](https://github.com/debrajrout/Dev.HFest) - This repository has been created as part of the Hacktoberfest event, where open-source enthusiasts come together to contribute to various projects and learn from each other.
 * 【2023-10-05】[TryGhost / Source](https://github.com/TryGhost/Source) - The default theme for Ghost
 * 【2023-10-05】[Alitindrawan24 / Binary-Calculator](https://github.com/Alitindrawan24/Binary-Calculator) - Binary Calculator
@@ -1268,6 +1298,11 @@
 
 ## Unknown
 
+* 【2023-10-06】[daveshap / ChatGPT_Custom_Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions) - Repo of custom instructions that you can use for ChatGPT
+* 【2023-10-06】[Coder-World04 / Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
+* 【2023-10-06】[stepci / awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
+* 【2023-10-06】[intuitibits / shortcuts](https://github.com/intuitibits/shortcuts) - Shortcuts for displaying Wi-Fi and cellular connection details on iOS 17 or higher.
+* 【2023-10-06】[Xposed-Modules-Repo / Hook.JiuWu.Xp](https://github.com/Xposed-Modules-Repo/Hook.JiuWu.Xp) - HookVip
 * 【2023-10-05】[Universidade-Livre / Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
 * 【2023-10-05】[nasa / spaceapps](https://github.com/nasa/spaceapps) - 
 * 【2023-10-04】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - 
