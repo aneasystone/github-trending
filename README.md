@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-08】[bitmagnet-io / bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
+* 【2023-10-08】[docker / genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j
 * 【2023-10-07】[leesh3288 / CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
 * 【2023-10-07】[ferrocene / ferrocene](https://github.com/ferrocene/ferrocene) - Source code of Ferrocene, safety-critical Rust toolchain
 * 【2023-10-07】[leptonai / leptonai](https://github.com/leptonai/leptonai) - A Pythonic framework to simplify AI service building
@@ -57,6 +59,10 @@
 
 ## Python
 
+* 【2023-10-08】[hotshotco / Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
+* 【2023-10-08】[fail2ban / fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
+* 【2023-10-08】[Flagsmith / flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+* 【2023-10-08】[guibacellar / TEx](https://github.com/guibacellar/TEx) - Telegram Monitor
 * 【2023-10-07】[JayZeeDesign / microsoft-autogen-experiments](https://github.com/JayZeeDesign/microsoft-autogen-experiments) - 
 * 【2023-10-07】[abacaj / fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
 * 【2023-10-07】[zalando / patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
@@ -82,6 +88,11 @@
 
 ## Javascript
 
+* 【2023-10-08】[christina-de-martinez / babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin
+* 【2023-10-08】[thinkswell / javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) - Awesome Collection of amazing javascript mini-projects.
+* 【2023-10-08】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
+* 【2023-10-08】[Enraged-Dun-Cookie-Development-Team / Dun-Cookie-Vue](https://github.com/Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue) - 小刻食堂插件端：自由的兔兔把烙好的饼到处藏，就由小刻把它们都找出来吧！定时收集多端的数据源，包括微博，通讯组，官网，B站等等。
+* 【2023-10-08】[lxl66566 / ecust-electricity-statistics](https://github.com/lxl66566/ecust-electricity-statistics) - 华东理工大学（华理）电费统计
 * 【2023-10-07】[pqina / filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 * 【2023-10-06】[ishwarrimal / frontend-interview-preps](https://github.com/ishwarrimal/frontend-interview-preps) - Everything required to crack frontend interview
 * 【2023-10-06】[sahandghavidel / mern-estate](https://github.com/sahandghavidel/mern-estate) - Real Estate app using MERN and tailwind css
@@ -97,6 +108,7 @@
 
 ## Go
 
+* 【2023-10-08】[openpubkey / openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 * 【2023-10-07】[edoardottt / cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 * 【2023-10-06】[ThangLeQuoc / vietnamese-provinces-database](https://github.com/ThangLeQuoc/vietnamese-provinces-database) - A complete SQL dataset of Vietnamese administrative units, includes Vietnamese provinces, districts and wards
 * 【2023-10-06】[DataDog / KubeHound](https://github.com/DataDog/KubeHound) - Kubernetes Attack Graph
@@ -108,6 +120,7 @@
 
 ## C
 
+* 【2023-10-08】[Actyx / Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 * 【2023-10-07】[pinauten / Fugu15_Rootful](https://github.com/pinauten/Fugu15_Rootful) - Rootful version of Fugu15 with full tweak support (including arm64 tweaks), for arm64e devices on iOS 15.0 - 15.4.1
 * 【2023-10-07】[RickdeJager / CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) - CVE-2023-4911 proof of concept
 * 【2023-10-06】[AxxAxx / AxxSolder](https://github.com/AxxAxx/AxxSolder) - STM32 Based soldering station for JBC cartridges
@@ -150,6 +163,9 @@
 
 ## C#
 
+* 【2023-10-08】[abatsakidis / PDFDeSecure](https://github.com/abatsakidis/PDFDeSecure) - An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.
+* 【2023-10-08】[microsoft / OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) - The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
+* 【2023-10-08】[attickdoor / XIVComboPlugin](https://github.com/attickdoor/XIVComboPlugin) - Plugin version of the icon replacement features in dalamud
 * 【2023-10-05】[ChuchoCoder / chuchobot](https://github.com/ChuchoCoder/chuchobot) - 
 * 【2023-10-05】[LuemmelSec / CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357) - 
 * 【2023-10-05】[win-acme / win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
@@ -163,6 +179,7 @@
 
 ## Html
 
+* 【2023-10-08】[pdf2htmlEX / pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * 【2023-10-07】[gnat / css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 * 【2023-10-07】[anisul-Islam / javascript-documentation](https://github.com/anisul-Islam/javascript-documentation) - 
 * 【2023-10-07】[dev-AshishRanjan / Hacktoberfest-frontend](https://github.com/dev-AshishRanjan/Hacktoberfest-frontend) - Make your first Pull Request for Hacktoberfest 2023 in the Web domain specially Frontend. And give this repo a ⭐
@@ -193,6 +210,12 @@
 
 ## Css
 
+* 【2023-10-08】[FelipeSantos92Dev / react-tds-2023-alunos](https://github.com/FelipeSantos92Dev/react-tds-2023-alunos) - Repositório para os alunos do segundo semestre do curso técnico em desenvolvimento de sistemas - SENAI
+* 【2023-10-08】[thomasjbradley / groundhogdayroundup.ca](https://github.com/thomasjbradley/groundhogdayroundup.ca) - Groundhog Day is the best day of the year! This website celebrates my love.
+* 【2023-10-08】[UMLCloudComputing / UniPath.io](https://github.com/UMLCloudComputing/UniPath.io) - UniPath.io is a full-stack web application that allows users to create, plan, and share their class schedules for their entire degree program.
+* 【2023-10-08】[Aanchi-glitch2744 / JavaScriptGames-Hacktoberfest2023](https://github.com/Aanchi-glitch2744/JavaScriptGames-Hacktoberfest2023) - A Repository for cool JavaScript Games. Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md. The objective of CssTime Folder is to create the design using pure html elements and css and js if needed. Images are not allowed
+* 【2023-10-08】[Kalvium-Program / to-do-app-boilerplate](https://github.com/Kalvium-Program/to-do-app-boilerplate) - 
+* 【2023-10-08】[I2PC / docs](https://github.com/I2PC/docs) - Documentation for the xmipp world
 * 【2023-10-07】[ACM-CIET / ACM_Hacking-Wizards](https://github.com/ACM-CIET/ACM_Hacking-Wizards) - Contribute to this begineer friendly open source repository and be an ACM Hacking Wizard
 * 【2023-10-07】[arncv / Intima](https://github.com/arncv/Intima) - Bridging the Gap in Sexual Education
 * 【2023-10-07】[ADVindiancoder / ADV-Certificate-Verification](https://github.com/ADVindiancoder/ADV-Certificate-Verification) - 
@@ -215,6 +238,8 @@
 
 ## Unknown
 
+* 【2023-10-08】[arpit20adlakha / Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD) - A Data Structure Algorithms Low Level Design and High Level Design collection of resources.
+* 【2023-10-08】[mouredev / mouredev](https://github.com/mouredev/mouredev) - Hola 👋 Soy Brais Moure 💻 Freelance full-stack dev 📲 iOS & Android engineer♥️Swift & Kotlin 📖 YouTube, Twitch, Discord & Elgato partner 👥 Microsoft MVP & GDG 👾 Geek & Friki
 * 【2023-10-07】[kavaan / clean-architecture-solution-template](https://github.com/kavaan/clean-architecture-solution-template) - You don't always need to start over; consider utilizing the existing infrastructure!
 * 【2023-10-07】[s2underground / GhostNet](https://github.com/s2underground/GhostNet) - GhostNet
 * 【2023-10-07】[nerdyrodent / AVeryComfyNerd](https://github.com/nerdyrodent/AVeryComfyNerd) - ComfyUI related stuff and things
