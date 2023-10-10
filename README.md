@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-10】[piyushgarg-dev / review-app](https://github.com/piyushgarg-dev/review-app) - Frontend Review Management Application | https://youtu.be/JD3NQsB3TQI
+* 【2023-10-10】[Weixin-Liang / LLM-scientific-feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) - Can large language models provide useful feedback on research papers? A large-scale empirical analysis.
 * 【2023-10-08】[bitmagnet-io / bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
 * 【2023-10-08】[docker / genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j
 * 【2023-10-07】[leesh3288 / CVE-2023-4911](https://github.com/leesh3288/CVE-2023-4911) - PoC for CVE-2023-4911
@@ -60,6 +62,7 @@
 
 ## Python
 
+* 【2023-10-10】[cvg / glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 * 【2023-10-08】[hotshotco / Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
 * 【2023-10-08】[fail2ban / fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 * 【2023-10-08】[Flagsmith / flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
@@ -89,6 +92,7 @@
 
 ## Javascript
 
+* 【2023-10-10】[DiamondHunters / NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
 * 【2023-10-09】[code-423n4 / 2023-10-ens](https://github.com/code-423n4/2023-10-ens) - 
 * 【2023-10-09】[CircuitVerse / CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
 * 【2023-10-08】[christina-de-martinez / babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin
@@ -143,6 +147,7 @@
 
 ## C++
 
+* 【2023-10-10】[defold / defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 * 【2023-10-09】[WopsS / RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2023-10-09】[Neumi / ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino.
 * 【2023-10-07】[luigifreda / slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
@@ -170,6 +175,10 @@
 
 ## C#
 
+* 【2023-10-10】[XuanchenLin / NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.
+* 【2023-10-10】[bepu / bepuphysics2](https://github.com/bepu/bepuphysics2) - Pure C# 3D real time physics simulation library, now with a higher version number.
+* 【2023-10-10】[microsoft / typechat.net](https://github.com/microsoft/typechat.net) - 
+* 【2023-10-10】[Super-Badmen-Viper / NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS（Nine Songs · Rhythmic World：九歌·韵世），based on dotNET_ C#_ WPF's open-source music software
 * 【2023-10-09】[aniketrajnish / Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer) - Optimizes mesh and polygon colliders in Unity
 * 【2023-10-08】[abatsakidis / PDFDeSecure](https://github.com/abatsakidis/PDFDeSecure) - An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.
 * 【2023-10-08】[microsoft / OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) - The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
@@ -187,6 +196,8 @@
 
 ## Html
 
+* 【2023-10-10】[CanciuCostin / android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
+* 【2023-10-10】[yash19sinha / coffee-bean](https://github.com/yash19sinha/coffee-bean) - Welcome to the "Coffee-Bean" Coffee Shop project! We're on a quest to blend coffee and code like never before. Join us for a latte-tude of coding fun. All skill levels are welcome to make this project as espresso-nal as it can be! Grab your digital mugs and join us.
 * 【2023-10-09】[chuva-inc / exercicios-2023](https://github.com/chuva-inc/exercicios-2023) - 
 * 【2023-10-08】[pdf2htmlEX / pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * 【2023-10-07】[gnat / css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
@@ -219,6 +230,7 @@
 
 ## Css
 
+* 【2023-10-10】[omicreativedev / hacktoberfest2023](https://github.com/omicreativedev/hacktoberfest2023) - ⭐ 200 Star Goal 👆🏽 My first time maintaining a repo for #hacktoberfest (YAY!) — Website with Theme Switcher. You can see the deployment below.
 * 【2023-10-09】[lhndo / LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
 * 【2023-10-09】[Umamaheswari-MS / CVIP-_WebDevelopment](https://github.com/Umamaheswari-MS/CVIP-_WebDevelopment) - 
 * 【2023-10-08】[FelipeSantos92Dev / react-tds-2023-alunos](https://github.com/FelipeSantos92Dev/react-tds-2023-alunos) - Repositório para os alunos do segundo semestre do curso técnico em desenvolvimento de sistemas - SENAI
@@ -249,6 +261,9 @@
 
 ## Unknown
 
+* 【2023-10-10】[github / how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
+* 【2023-10-10】[grananqvist / Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
+* 【2023-10-10】[Lenvia / job-pre](https://github.com/Lenvia/job-pre) - 面试准备：算法+后端+编程题
 * 【2023-10-09】[brcyrr / OSCP](https://github.com/brcyrr/OSCP) - #cheat sheet for OSCP
 * 【2023-10-09】[xxxxxxxx666 / WeChatDevTools](https://github.com/xxxxxxxx666/WeChatDevTools) - 只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
 * 【2023-10-09】[andyzoujm / representation-engineering](https://github.com/andyzoujm/representation-engineering) - Representation Engineering: A Top-Down Approach to AI Transparency
