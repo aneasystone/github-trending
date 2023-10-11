@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-10-11】[leap-ai / headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 * 【2023-10-10】[piyushgarg-dev / review-app](https://github.com/piyushgarg-dev/review-app) - Frontend Review Management Application | https://youtu.be/JD3NQsB3TQI
 * 【2023-10-10】[Weixin-Liang / LLM-scientific-feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) - Can large language models provide useful feedback on research papers? A large-scale empirical analysis.
 * 【2023-10-08】[bitmagnet-io / bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
@@ -62,6 +63,7 @@
 
 ## Python
 
+* 【2023-10-11】[okuvshynov / slowllama](https://github.com/okuvshynov/slowllama) - Finetune llama2-70b and codellama on MacBook Air without quantization
 * 【2023-10-10】[cvg / glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 * 【2023-10-08】[hotshotco / Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
 * 【2023-10-08】[fail2ban / fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -92,6 +94,7 @@
 
 ## Javascript
 
+* 【2023-10-11】[gnat / surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior. Use one element or arrays transparently. Vanilla querySelector() but better!
 * 【2023-10-10】[DiamondHunters / NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
 * 【2023-10-09】[code-423n4 / 2023-10-ens](https://github.com/code-423n4/2023-10-ens) - 
 * 【2023-10-09】[CircuitVerse / CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
@@ -115,6 +118,7 @@
 
 ## Go
 
+* 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 * 【2023-10-09】[openimsdk / open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
 * 【2023-10-08】[openpubkey / openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 * 【2023-10-07】[edoardottt / cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
@@ -128,6 +132,10 @@
 
 ## C
 
+* 【2023-10-11】[reduz / larvita3](https://github.com/reduz/larvita3) - Larvita 3 Game Engine
+* 【2023-10-11】[Cr4sh / SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg) - Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks
+* 【2023-10-11】[OpenIPC / firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
+* 【2023-10-11】[linxinrao / Shamrock](https://github.com/linxinrao/Shamrock) - ☘ 基于Xposed实现的Onebot11/12标准QQBot框架
 * 【2023-10-09】[OpenMathLib / OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 * 【2023-10-08】[Actyx / Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 * 【2023-10-07】[pinauten / Fugu15_Rootful](https://github.com/pinauten/Fugu15_Rootful) - Rootful version of Fugu15 with full tweak support (including arm64 tweaks), for arm64e devices on iOS 15.0 - 15.4.1
@@ -196,6 +204,10 @@
 
 ## Html
 
+* 【2023-10-11】[kohei-kawaguchi / EmpiricalIO](https://github.com/kohei-kawaguchi/EmpiricalIO) - 
+* 【2023-10-11】[DevTownResources / Flipkart_clone-bootcamp](https://github.com/DevTownResources/Flipkart_clone-bootcamp) - Clone of Flipkart using HTML,CSS and JavaScript
+* 【2023-10-11】[PacktPublishing / Machine-Learning-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) - 
+* 【2023-10-11】[Devalphaspace / Dark-theme-portfolio](https://github.com/Devalphaspace/Dark-theme-portfolio) - 
 * 【2023-10-10】[CanciuCostin / android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
 * 【2023-10-10】[yash19sinha / coffee-bean](https://github.com/yash19sinha/coffee-bean) - Welcome to the "Coffee-Bean" Coffee Shop project! We're on a quest to blend coffee and code like never before. Join us for a latte-tude of coding fun. All skill levels are welcome to make this project as espresso-nal as it can be! Grab your digital mugs and join us.
 * 【2023-10-09】[chuva-inc / exercicios-2023](https://github.com/chuva-inc/exercicios-2023) - 
@@ -230,6 +242,13 @@
 
 ## Css
 
+* 【2023-10-11】[omicreativedev / ThemeSwitcher](https://github.com/omicreativedev/ThemeSwitcher) - Free website template with theme switcher and page switcher in Javascript
+* 【2023-10-11】[RajMalik23 / Hacktoberfest](https://github.com/RajMalik23/Hacktoberfest) - 
+* 【2023-10-11】[samipak458 / Simple-Library-Managment](https://github.com/samipak458/Simple-Library-Managment) - A simple library management project that is easy to use and helps learners understand the basic concept of JS.
+* 【2023-10-11】[Hackerspace2023 / HackerSpace](https://github.com/Hackerspace2023/HackerSpace) - Hackerspace: Our Coding Community Website. 🚀
+* 【2023-10-11】[rndmcnlly / cmpm-121-demo-1](https://github.com/rndmcnlly/cmpm-121-demo-1) - 
+* 【2023-10-11】[flavienbwk / book-devops](https://github.com/flavienbwk/book-devops) - The "Scaling Institutions With Devops" book.
+* 【2023-10-11】[g0t4 / course3-jenkins-gs-spring-petclinic](https://github.com/g0t4/course3-jenkins-gs-spring-petclinic) - For Course3 Jenkins Getting Started - fork of https://github.com/spring-projects/spring-petclinic
 * 【2023-10-10】[omicreativedev / hacktoberfest2023](https://github.com/omicreativedev/hacktoberfest2023) - ⭐ 200 Star Goal 👆🏽 My first time maintaining a repo for #hacktoberfest (YAY!) — Website with Theme Switcher. You can see the deployment below.
 * 【2023-10-09】[lhndo / LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
 * 【2023-10-09】[Umamaheswari-MS / CVIP-_WebDevelopment](https://github.com/Umamaheswari-MS/CVIP-_WebDevelopment) - 
@@ -261,6 +280,12 @@
 
 ## Unknown
 
+* 【2023-10-11】[jackaduma / awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) - LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
+* 【2023-10-11】[chao325 / MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
+* 【2023-10-11】[LearningOS / rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
+* 【2023-10-11】[amusi / ICCV2023-Papers-with-Code](https://github.com/amusi/ICCV2023-Papers-with-Code) - ICCV 2023 论文和开源项目合集
+* 【2023-10-11】[teivah / sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts > Tools)
+* 【2023-10-11】[JonathonLuiten / Dynamic3DGaussians](https://github.com/JonathonLuiten/Dynamic3DGaussians) - 
 * 【2023-10-10】[github / how-engineering-communicates](https://github.com/github/how-engineering-communicates) - A community version of the "common API" for how the GitHub Engineering organization communicates
 * 【2023-10-10】[grananqvist / Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 * 【2023-10-10】[Lenvia / job-pre](https://github.com/Lenvia/job-pre) - 面试准备：算法+后端+编程题
