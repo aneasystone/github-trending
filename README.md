@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-10-12】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 * 【2023-10-11】[leap-ai / headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 * 【2023-10-10】[piyushgarg-dev / review-app](https://github.com/piyushgarg-dev/review-app) - Frontend Review Management Application | https://youtu.be/JD3NQsB3TQI
 * 【2023-10-10】[Weixin-Liang / LLM-scientific-feedback](https://github.com/Weixin-Liang/LLM-scientific-feedback) - Can large language models provide useful feedback on research papers? A large-scale empirical analysis.
@@ -40,6 +41,7 @@
 
 ## Java
 
+* 【2023-10-12】[mahonelau / -kykms](https://github.com/mahonelau/-kykms) - 科亿知识库 KY KMS 是一款基于Elasticsearch的文档型知识库管理系统，提供强大的全文检索与文档分类管理功能
 * 【2023-10-09】[xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading) - Spring源码分析
 * 【2023-10-07】[SourceFusionHub / program](https://github.com/SourceFusionHub/program) - By CloudHustlers
 * 【2023-10-06】[OpenTracksApp / OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
@@ -63,6 +65,10 @@
 
 ## Python
 
+* 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
+* 【2023-10-12】[recommenders-team / recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
+* 【2023-10-12】[eric-ai-lab / MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5) - Official implementation of paper "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens"
+* 【2023-10-12】[AlaaLab / InstructCV](https://github.com/AlaaLab/InstructCV) - Codebase for "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists"
 * 【2023-10-11】[okuvshynov / slowllama](https://github.com/okuvshynov/slowllama) - Finetune llama2-70b and codellama on MacBook Air without quantization
 * 【2023-10-10】[cvg / glue-factory](https://github.com/cvg/glue-factory) - Training library for local feature detection and matching
 * 【2023-10-08】[hotshotco / Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
@@ -94,6 +100,8 @@
 
 ## Javascript
 
+* 【2023-10-12】[zenoamaro / react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
+* 【2023-10-12】[Automattic / node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 * 【2023-10-11】[gnat / surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior. Use one element or arrays transparently. Vanilla querySelector() but better!
 * 【2023-10-10】[DiamondHunters / NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
 * 【2023-10-09】[code-423n4 / 2023-10-ens](https://github.com/code-423n4/2023-10-ens) - 
@@ -118,6 +126,7 @@
 
 ## Go
 
+* 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
 * 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 * 【2023-10-09】[openimsdk / open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
 * 【2023-10-08】[openpubkey / openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
@@ -155,6 +164,7 @@
 
 ## C++
 
+* 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 * 【2023-10-10】[defold / defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 * 【2023-10-09】[WopsS / RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2023-10-09】[Neumi / ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino.
@@ -183,6 +193,9 @@
 
 ## C#
 
+* 【2023-10-12】[StarfireLab / SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
+* 【2023-10-12】[openmod / openmod](https://github.com/openmod/openmod) - OpenMod .NET Plugin Framework
+* 【2023-10-12】[neozhu / CleanArchitectureWithBlazorServer](https://github.com/neozhu/CleanArchitectureWithBlazorServer) - This is a repository for creating a Blazor Server dashboard application following the principles of Clean Architecture
 * 【2023-10-10】[XuanchenLin / NanUI](https://github.com/XuanchenLin/NanUI) - NanUI is an open source .NET project for .NET developers who want to create desktop applications with HTML, CSS and JavaScript.
 * 【2023-10-10】[bepu / bepuphysics2](https://github.com/bepu/bepuphysics2) - Pure C# 3D real time physics simulation library, now with a higher version number.
 * 【2023-10-10】[microsoft / typechat.net](https://github.com/microsoft/typechat.net) - 
@@ -204,6 +217,7 @@
 
 ## Html
 
+* 【2023-10-12】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 * 【2023-10-11】[kohei-kawaguchi / EmpiricalIO](https://github.com/kohei-kawaguchi/EmpiricalIO) - 
 * 【2023-10-11】[DevTownResources / Flipkart_clone-bootcamp](https://github.com/DevTownResources/Flipkart_clone-bootcamp) - Clone of Flipkart using HTML,CSS and JavaScript
 * 【2023-10-11】[PacktPublishing / Machine-Learning-Engineering-with-Python-Second-Edition](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) - 
@@ -242,6 +256,8 @@
 
 ## Css
 
+* 【2023-10-12】[EarningScripter / FieWin-Fast-Parity-Hack-By-ES](https://github.com/EarningScripter/FieWin-Fast-Parity-Hack-By-ES) - 
+* 【2023-10-12】[CareerDevelopmentHub / Beginner_WeatherAPP](https://github.com/CareerDevelopmentHub/Beginner_WeatherAPP) - Weather App: A simple, user-friendly application built with HTML, CSS, and JavaScript that fetches and displays weather data for any city from the OpenWeatherMap API. Features include temperature, humidity, and wind speed.
 * 【2023-10-11】[omicreativedev / ThemeSwitcher](https://github.com/omicreativedev/ThemeSwitcher) - Free website template with theme switcher and page switcher in Javascript
 * 【2023-10-11】[RajMalik23 / Hacktoberfest](https://github.com/RajMalik23/Hacktoberfest) - 
 * 【2023-10-11】[samipak458 / Simple-Library-Managment](https://github.com/samipak458/Simple-Library-Managment) - A simple library management project that is easy to use and helps learners understand the basic concept of JS.
@@ -280,6 +296,8 @@
 
 ## Unknown
 
+* 【2023-10-12】[abc123info / BlueTeamTools](https://github.com/abc123info/BlueTeamTools) - 蓝队分析研判工具箱，自带的反编译工具对红队也有帮助，有建议欢迎给我留言
+* 【2023-10-12】[geeeeeeeek / code_products](https://github.com/geeeeeeeek/code_products) - python系统设计， python毕业设计推荐，python/vue课程设计，java毕业设计
 * 【2023-10-11】[jackaduma / awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) - LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
 * 【2023-10-11】[chao325 / MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本
 * 【2023-10-11】[LearningOS / rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
