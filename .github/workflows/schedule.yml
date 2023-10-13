@@ -28,9 +28,16 @@ jobs:
     - name: Run Scraper
       run: |
         python scraper.py
-
+    
+    - name: Check for changes
+      id: git-status
+      run: |
+        git diff --exit-code || echo "::set-output name=changed::true"
+      continue-on-error: true
+    
     # Runs a set of commands using the runners shell
     - name: Push to origin master
+      if: steps.git-status.outputs.changed == 'true'
       run: |
         echo start push
         git config --global user.name "aneasystone"
