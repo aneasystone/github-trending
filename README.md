@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-14】[bcdannyboy / CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) - Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487
+* 【2023-10-14】[THUDM / CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model
 * 【2023-10-12】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 * 【2023-10-11】[leap-ai / headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 * 【2023-10-10】[piyushgarg-dev / review-app](https://github.com/piyushgarg-dev/review-app) - Frontend Review Management Application | https://youtu.be/JD3NQsB3TQI
@@ -41,6 +43,7 @@
 
 ## Java
 
+* 【2023-10-14】[patrickfav / bcrypt](https://github.com/patrickfav/bcrypt) - A Java standalone implementation of the bcrypt password hash function. Based on the Blowfish cipher it is the default password hash algorithm for OpenBSD and other systems including some Linux distributions. Includes a CLI Tool.
 * 【2023-10-12】[mahonelau / -kykms](https://github.com/mahonelau/-kykms) - 科亿知识库 KY KMS 是一款基于Elasticsearch的文档型知识库管理系统，提供强大的全文检索与文档分类管理功能
 * 【2023-10-09】[xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading) - Spring源码分析
 * 【2023-10-07】[SourceFusionHub / program](https://github.com/SourceFusionHub/program) - By CloudHustlers
@@ -65,6 +68,8 @@
 
 ## Python
 
+* 【2023-10-14】[hezarai / hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
+* 【2023-10-14】[HarleysZhang / dl_note](https://github.com/HarleysZhang/dl_note) - 深度学习系统笔记，包含深度学习数学基础知识、神经网络基础部件详解、深度学习炼丹策略、模型压缩算法详解，以及如何实现深度学习推理框架实战。
 * 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
 * 【2023-10-12】[recommenders-team / recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 * 【2023-10-12】[eric-ai-lab / MiniGPT-5](https://github.com/eric-ai-lab/MiniGPT-5) - Official implementation of paper "MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens"
@@ -126,6 +131,7 @@
 
 ## Go
 
+* 【2023-10-14】[HACKERALERT / Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 * 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
 * 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
 * 【2023-10-09】[openimsdk / open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
@@ -141,6 +147,7 @@
 
 ## C
 
+* 【2023-10-14】[chompie1337 / Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) - LPE exploit for CVE-2023-36802
 * 【2023-10-11】[reduz / larvita3](https://github.com/reduz/larvita3) - Larvita 3 Game Engine
 * 【2023-10-11】[Cr4sh / SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg) - Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks
 * 【2023-10-11】[OpenIPC / firmware](https://github.com/OpenIPC/firmware) - Alternative IP Camera firmware from an open community
@@ -164,6 +171,8 @@
 
 ## C++
 
+* 【2023-10-14】[AcademySoftwareFoundation / OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
+* 【2023-10-14】[hamed-deriv / flutter_tearable_cloth](https://github.com/hamed-deriv/flutter_tearable_cloth) - Implementation of tearable cloth in Flutter.
 * 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
 * 【2023-10-10】[defold / defold](https://github.com/defold/defold) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 * 【2023-10-09】[WopsS / RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
@@ -217,6 +226,7 @@
 
 ## Html
 
+* 【2023-10-14】[dakshsinghrathore / ISRO-web](https://github.com/dakshsinghrathore/ISRO-web) - This website aims to adapt SpaceX's official website by incorporating ISRO's content, offering a unique fusion of both organizations.l
 * 【2023-10-12】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 * 【2023-10-11】[kohei-kawaguchi / EmpiricalIO](https://github.com/kohei-kawaguchi/EmpiricalIO) - 
 * 【2023-10-11】[DevTownResources / Flipkart_clone-bootcamp](https://github.com/DevTownResources/Flipkart_clone-bootcamp) - Clone of Flipkart using HTML,CSS and JavaScript
@@ -256,6 +266,10 @@
 
 ## Css
 
+* 【2023-10-14】[ros-planning / moveit2_tutorials](https://github.com/ros-planning/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
+* 【2023-10-14】[orf / simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
+* 【2023-10-14】[Kalvium-Program / tic-tac-toe-boilerplate](https://github.com/Kalvium-Program/tic-tac-toe-boilerplate) - 
+* 【2023-10-14】[KiranAminPanjwani / MedStats](https://github.com/KiranAminPanjwani/MedStats) - A Personal Health Journal Website
 * 【2023-10-12】[EarningScripter / FieWin-Fast-Parity-Hack-By-ES](https://github.com/EarningScripter/FieWin-Fast-Parity-Hack-By-ES) - 
 * 【2023-10-12】[CareerDevelopmentHub / Beginner_WeatherAPP](https://github.com/CareerDevelopmentHub/Beginner_WeatherAPP) - Weather App: A simple, user-friendly application built with HTML, CSS, and JavaScript that fetches and displays weather data for any city from the OpenWeatherMap API. Features include temperature, humidity, and wind speed.
 * 【2023-10-11】[omicreativedev / ThemeSwitcher](https://github.com/omicreativedev/ThemeSwitcher) - Free website template with theme switcher and page switcher in Javascript
@@ -296,6 +310,9 @@
 
 ## Unknown
 
+* 【2023-10-14】[jamiehannaford / what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔 What happens when I type kubectl run?
+* 【2023-10-14】[RuoJi6 / Deskbypass](https://github.com/RuoJi6/Deskbypass) - 
+* 【2023-10-14】[anshumansingh / SQLNotes](https://github.com/anshumansingh/SQLNotes) - 
 * 【2023-10-12】[abc123info / BlueTeamTools](https://github.com/abc123info/BlueTeamTools) - 蓝队分析研判工具箱，自带的反编译工具对红队也有帮助，有建议欢迎给我留言
 * 【2023-10-12】[geeeeeeeek / code_products](https://github.com/geeeeeeeek/code_products) - python系统设计， python毕业设计推荐，python/vue课程设计，java毕业设计
 * 【2023-10-11】[jackaduma / awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes) - LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
