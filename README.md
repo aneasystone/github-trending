@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-15】[AntonioErdeljac / notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial) - 
+* 【2023-10-15】[apple / swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 * 【2023-10-14】[bcdannyboy / CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) - Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487
 * 【2023-10-14】[THUDM / CogVLM](https://github.com/THUDM/CogVLM) - a state-of-the-art-level open visual language model
 * 【2023-10-12】[kepano / flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
@@ -43,6 +45,7 @@
 
 ## Java
 
+* 【2023-10-15】[gocd / gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 * 【2023-10-14】[patrickfav / bcrypt](https://github.com/patrickfav/bcrypt) - A Java standalone implementation of the bcrypt password hash function. Based on the Blowfish cipher it is the default password hash algorithm for OpenBSD and other systems including some Linux distributions. Includes a CLI Tool.
 * 【2023-10-12】[mahonelau / -kykms](https://github.com/mahonelau/-kykms) - 科亿知识库 KY KMS 是一款基于Elasticsearch的文档型知识库管理系统，提供强大的全文检索与文档分类管理功能
 * 【2023-10-09】[xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading) - Spring源码分析
@@ -68,6 +71,11 @@
 
 ## Python
 
+* 【2023-10-15】[langchain-ai / langserve](https://github.com/langchain-ai/langserve) - LangServe
+* 【2023-10-15】[showlab / Show-1](https://github.com/showlab/Show-1) - Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation
+* 【2023-10-15】[FlagAI-Open / Aquila2](https://github.com/FlagAI-Open/Aquila2) - The official repo of Aquila2 series proposed by BAAI, including pretrained & chat large language models.
+* 【2023-10-15】[lukeboi / scroll-first-letters](https://github.com/lukeboi/scroll-first-letters) - 
+* 【2023-10-15】[EvanZhouDev / donut-py](https://github.com/EvanZhouDev/donut-py) - 
 * 【2023-10-14】[hezarai / hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 * 【2023-10-14】[HarleysZhang / dl_note](https://github.com/HarleysZhang/dl_note) - 深度学习系统笔记，包含深度学习数学基础知识、神经网络基础部件详解、深度学习炼丹策略、模型压缩算法详解，以及如何实现深度学习推理框架实战。
 * 【2023-10-12】[chao325 / QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai
@@ -105,6 +113,10 @@
 
 ## Javascript
 
+* 【2023-10-15】[skofkyo / AutoPager](https://github.com/skofkyo/AutoPager) - 
+* 【2023-10-15】[OpenIntroStat / ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.
+* 【2023-10-15】[TheRealJoelmatic / RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
+* 【2023-10-15】[safak / animated-portfolio](https://github.com/safak/animated-portfolio) - 
 * 【2023-10-12】[zenoamaro / react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React.
 * 【2023-10-12】[Automattic / node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 * 【2023-10-11】[gnat / surreal](https://github.com/gnat/surreal) - 🗿 Mini jQuery alternative. Dependency-free animations. Pairs with htmx. Locality of Behavior. Use one element or arrays transparently. Vanilla querySelector() but better!
@@ -147,6 +159,10 @@
 
 ## C
 
+* 【2023-10-15】[paranoidninja / Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection) - This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared
+* 【2023-10-15】[jinxinyang / litechain](https://github.com/jinxinyang/litechain) - 
+* 【2023-10-15】[mydumper / mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
+* 【2023-10-15】[lsalzman / enet](https://github.com/lsalzman/enet) - ENet reliable UDP networking library
 * 【2023-10-14】[chompie1337 / Windows_MSKSSRV_LPE_CVE-2023-36802](https://github.com/chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802) - LPE exploit for CVE-2023-36802
 * 【2023-10-11】[reduz / larvita3](https://github.com/reduz/larvita3) - Larvita 3 Game Engine
 * 【2023-10-11】[Cr4sh / SmmBackdoorNg](https://github.com/Cr4sh/SmmBackdoorNg) - Updated version of System Management Mode backdoor for UEFI based platforms: old dog, new tricks
@@ -171,6 +187,7 @@
 
 ## C++
 
+* 【2023-10-15】[pard0p / Cordyceps](https://github.com/pard0p/Cordyceps) - C++ self-Injecting dropper based on various EDR evasion techniques.
 * 【2023-10-14】[AcademySoftwareFoundation / OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 * 【2023-10-14】[hamed-deriv / flutter_tearable_cloth](https://github.com/hamed-deriv/flutter_tearable_cloth) - Implementation of tearable cloth in Flutter.
 * 【2023-10-12】[Ardour / ardour](https://github.com/Ardour/ardour) - Mirror of Ardour Source Code
@@ -202,6 +219,8 @@
 
 ## C#
 
+* 【2023-10-15】[Linwenxuan05 / Lagrange.Core](https://github.com/Linwenxuan05/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+* 【2023-10-15】[devlooped / moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 * 【2023-10-12】[StarfireLab / SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
 * 【2023-10-12】[openmod / openmod](https://github.com/openmod/openmod) - OpenMod .NET Plugin Framework
 * 【2023-10-12】[neozhu / CleanArchitectureWithBlazorServer](https://github.com/neozhu/CleanArchitectureWithBlazorServer) - This is a repository for creating a Blazor Server dashboard application following the principles of Clean Architecture
@@ -226,6 +245,9 @@
 
 ## Html
 
+* 【2023-10-15】[kaityo256 / lab_startup](https://github.com/kaityo256/lab_startup) - 研究室のPCのセットアップ資料
+* 【2023-10-15】[snap-research / HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
+* 【2023-10-15】[MicrosoftEdge / MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
 * 【2023-10-14】[dakshsinghrathore / ISRO-web](https://github.com/dakshsinghrathore/ISRO-web) - This website aims to adapt SpaceX's official website by incorporating ISRO's content, offering a unique fusion of both organizations.l
 * 【2023-10-12】[DhanushNehru / Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources) - A collection of web development resources for most of your development needs
 * 【2023-10-11】[kohei-kawaguchi / EmpiricalIO](https://github.com/kohei-kawaguchi/EmpiricalIO) - 
@@ -266,6 +288,10 @@
 
 ## Css
 
+* 【2023-10-15】[straight-tamago / misaka](https://github.com/straight-tamago/misaka) - 
+* 【2023-10-15】[UjjwalSharma01 / checklist](https://github.com/UjjwalSharma01/checklist) - A simple checklist based website to Ensure effective last Moment Revision and Efficient Learning
+* 【2023-10-15】[Niraj-1729 / Hacktoberfest](https://github.com/Niraj-1729/Hacktoberfest) - All open source enthusiastic are Welcome !!
+* 【2023-10-15】[HappySimple / Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
 * 【2023-10-14】[ros-planning / moveit2_tutorials](https://github.com/ros-planning/moveit2_tutorials) - A sphinx-based centralized documentation repo for MoveIt 2
 * 【2023-10-14】[orf / simple](https://github.com/orf/simple) - Simple is a clone of Obtvse written in Python running on Flask.
 * 【2023-10-14】[Kalvium-Program / tic-tac-toe-boilerplate](https://github.com/Kalvium-Program/tic-tac-toe-boilerplate) - 
@@ -310,6 +336,12 @@
 
 ## Unknown
 
+* 【2023-10-15】[nsacyber / ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) - OT security monitoring #nsacyber
+* 【2023-10-15】[codante-io / rinha-frontend](https://github.com/codante-io/rinha-frontend) - Repositório oficial da Rinha de Front-end
+* 【2023-10-15】[ghoshsuman845 / List-of-Top-Unicorn-Startups-India](https://github.com/ghoshsuman845/List-of-Top-Unicorn-Startups-India) - This is an exhaustive list of Top Unicorn Startups in India.
+* 【2023-10-15】[apple / ml-ferret](https://github.com/apple/ml-ferret) - 
+* 【2023-10-15】[cipher387 / API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
+* 【2023-10-15】[mouredev / hello-sql](https://github.com/mouredev/hello-sql) - Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
 * 【2023-10-14】[jamiehannaford / what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔 What happens when I type kubectl run?
 * 【2023-10-14】[RuoJi6 / Deskbypass](https://github.com/RuoJi6/Deskbypass) - 
 * 【2023-10-14】[anshumansingh / SQLNotes](https://github.com/anshumansingh/SQLNotes) - 
