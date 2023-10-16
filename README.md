@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-10-16】[PWhiddy / PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
+* 【2023-10-16】[ton-community / tact-challenge](https://github.com/ton-community/tact-challenge) - 
+* 【2023-10-16】[iam-veeramalla / python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
+* 【2023-10-16】[spdustin / ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
+* 【2023-10-16】[uBlockOrigin / uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
+* 【2023-10-16】[adrianhajdin / travel_ui_ux](https://github.com/adrianhajdin/travel_ui_ux) - Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS
+* 【2023-10-16】[mfussenegger / nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+* 【2023-10-16】[Sangwan5688 / BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 * 【2023-10-15】[AntonioErdeljac / notion-clone-tutorial](https://github.com/AntonioErdeljac/notion-clone-tutorial) - 
 * 【2023-10-15】[apple / swift-syntax](https://github.com/apple/swift-syntax) - A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 * 【2023-10-14】[bcdannyboy / CVE-2023-44487](https://github.com/bcdannyboy/CVE-2023-44487) - Basic vulnerability scanning to see if web servers may be vulnerable to CVE-2023-44487
@@ -45,6 +53,10 @@
 
 ## Java
 
+* 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
+* 【2023-10-16】[jMonkeyEngine / jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
+* 【2023-10-16】[mollyim / mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
+* 【2023-10-16】[NotFound403 / wecom-sdk](https://github.com/NotFound403/wecom-sdk) - 
 * 【2023-10-15】[gocd / gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
 * 【2023-10-14】[patrickfav / bcrypt](https://github.com/patrickfav/bcrypt) - A Java standalone implementation of the bcrypt password hash function. Based on the Blowfish cipher it is the default password hash algorithm for OpenBSD and other systems including some Linux distributions. Includes a CLI Tool.
 * 【2023-10-12】[mahonelau / -kykms](https://github.com/mahonelau/-kykms) - 科亿知识库 KY KMS 是一款基于Elasticsearch的文档型知识库管理系统，提供强大的全文检索与文档分类管理功能
@@ -71,6 +83,10 @@
 
 ## Python
 
+* 【2023-10-16】[RedisVentures / ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
+* 【2023-10-16】[Link-AGI / AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
+* 【2023-10-16】[Stability-AI / stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
+* 【2023-10-16】[swirlai / swirl-search](https://github.com/swirlai/swirl-search) - Swirl is open-source software that uses AI to simultaneously search multiple content and data sources and return AI ranked results which can be used to prompt Generative AI, enabling you to get answers based on your own data.
 * 【2023-10-15】[langchain-ai / langserve](https://github.com/langchain-ai/langserve) - LangServe
 * 【2023-10-15】[showlab / Show-1](https://github.com/showlab/Show-1) - Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation
 * 【2023-10-15】[FlagAI-Open / Aquila2](https://github.com/FlagAI-Open/Aquila2) - The official repo of Aquila2 series proposed by BAAI, including pretrained & chat large language models.
@@ -113,6 +129,7 @@
 
 ## Javascript
 
+* 【2023-10-16】[AkankshaAI / Hacktoberfest2023-Beginners-New](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New) - This repository accepts PRs for Hacktoberfest2023
 * 【2023-10-15】[skofkyo / AutoPager](https://github.com/skofkyo/AutoPager) - 
 * 【2023-10-15】[OpenIntroStat / ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.
 * 【2023-10-15】[TheRealJoelmatic / RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing) - Removes The "Ad blocker are not allowed on Youtube"
@@ -143,6 +160,7 @@
 
 ## Go
 
+* 【2023-10-16】[circled-me / server](https://github.com/circled-me/server) - Photo backup and sharing server
 * 【2023-10-14】[HACKERALERT / Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 * 【2023-10-12】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
 * 【2023-10-11】[Azure / azure-container-networking](https://github.com/Azure/azure-container-networking) - Azure Container Networking Solutions for Linux and Windows Containers
@@ -159,6 +177,7 @@
 
 ## C
 
+* 【2023-10-16】[HarshwardhanPatil07 / HactoberFest2023](https://github.com/HarshwardhanPatil07/HactoberFest2023) - A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and folllllow me. Contribute to start your journey with hacktoberfest. Happy Hacking💻!!!
 * 【2023-10-15】[paranoidninja / Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection) - This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared
 * 【2023-10-15】[jinxinyang / litechain](https://github.com/jinxinyang/litechain) - 
 * 【2023-10-15】[mydumper / mydumper](https://github.com/mydumper/mydumper) - Official MyDumper Project
@@ -219,6 +238,8 @@
 
 ## C#
 
+* 【2023-10-16】[cjm00n / EvilSln](https://github.com/cjm00n/EvilSln) - A New Exploitation Technique for Visual Studio Projects
+* 【2023-10-16】[danhpaiva / EncryptAesNet-console-app-csharp](https://github.com/danhpaiva/EncryptAesNet-console-app-csharp) - 🛡️ ~ Academic example of AES encryption
 * 【2023-10-15】[Linwenxuan05 / Lagrange.Core](https://github.com/Linwenxuan05/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2023-10-15】[devlooped / moq](https://github.com/devlooped/moq) - The most popular and friendly mocking framework for .NET
 * 【2023-10-12】[StarfireLab / SharpWeb](https://github.com/StarfireLab/SharpWeb) - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
@@ -245,6 +266,7 @@
 
 ## Html
 
+* 【2023-10-16】[hackbysarthak03 / Hacktoberfest2023](https://github.com/hackbysarthak03/Hacktoberfest2023) - A Webpage for your valuable contribution to Hacktoberfest 2023!
 * 【2023-10-15】[kaityo256 / lab_startup](https://github.com/kaityo256/lab_startup) - 研究室のPCのセットアップ資料
 * 【2023-10-15】[snap-research / HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
 * 【2023-10-15】[MicrosoftEdge / MSEdgeExplainers](https://github.com/MicrosoftEdge/MSEdgeExplainers) - Home for explainer documents originated by the Microsoft Edge team
@@ -288,6 +310,8 @@
 
 ## Css
 
+* 【2023-10-16】[AsmrProg-YT / Personal-Portfolios](https://github.com/AsmrProg-YT/Personal-Portfolios) - AsmrProg Youtube Channel Personal Portfolio Designs Code Collection.
+* 【2023-10-16】[baekusboo / music-website](https://github.com/baekusboo/music-website) - A webpage with full of music suggestions!
 * 【2023-10-15】[straight-tamago / misaka](https://github.com/straight-tamago/misaka) - 
 * 【2023-10-15】[UjjwalSharma01 / checklist](https://github.com/UjjwalSharma01/checklist) - A simple checklist based website to Ensure effective last Moment Revision and Efficient Learning
 * 【2023-10-15】[Niraj-1729 / Hacktoberfest](https://github.com/Niraj-1729/Hacktoberfest) - All open source enthusiastic are Welcome !!
@@ -336,6 +360,8 @@
 
 ## Unknown
 
+* 【2023-10-16】[octagony / vscode_vim](https://github.com/octagony/vscode_vim) - Vim configuration for Vscode
+* 【2023-10-16】[rong862 / bear](https://github.com/rong862/bear) - 逗音小能手
 * 【2023-10-15】[nsacyber / ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) - OT security monitoring #nsacyber
 * 【2023-10-15】[codante-io / rinha-frontend](https://github.com/codante-io/rinha-frontend) - Repositório oficial da Rinha de Front-end
 * 【2023-10-15】[ghoshsuman845 / List-of-Top-Unicorn-Startups-India](https://github.com/ghoshsuman845/List-of-Top-Unicorn-Startups-India) - This is an exhaustive list of Top Unicorn Startups in India.
