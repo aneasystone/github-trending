@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-10-18】[Orange-Cyberdefense / GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
+* 【2023-10-18】[nokyan / resources](https://github.com/nokyan/resources) - Monitor your system resources and processes
+* 【2023-10-18】[itrewub / jh-notes](https://github.com/itrewub/jh-notes) - 
 * 【2023-10-17】[huggingface / text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 * 【2023-10-17】[formbricks / formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 * 【2023-10-17】[iamcryptoki / snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.
@@ -60,6 +63,8 @@
 
 ## Java
 
+* 【2023-10-18】[stleary / JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
+* 【2023-10-18】[twelvet-projects / twelvet](https://github.com/twelvet-projects/twelvet) - （Spring Boot 3. X Microservices framework） 基于Spring Boot 3.X 的 Spring Cloud Alibaba / Spring Cloud Tencent + React的微服务框架。🔝 🔝 点个starrred 关注更新。 微服务交流群见底部群链接。
 * 【2023-10-17】[AlexModGuy / Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 * 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-16】[jMonkeyEngine / jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
@@ -91,6 +96,7 @@
 
 ## Python
 
+* 【2023-10-18】[jtesta / ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * 【2023-10-17】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 * 【2023-10-17】[AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Chat with your code repository to get Generate Product Requirement Document and Code Plan base on private project. 🧱 🧱
 * 【2023-10-17】[OpenTalker / video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
@@ -140,6 +146,8 @@
 
 ## Javascript
 
+* 【2023-10-18】[0x48piraj / fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
+* 【2023-10-18】[po6ix / POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) - 
 * 【2023-10-17】[porsager / postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
 * 【2023-10-17】[inrl-official / inrl-bot-md](https://github.com/inrl-official/inrl-bot-md) - Simple Whatsapp Bot
 * 【2023-10-16】[AkankshaAI / Hacktoberfest2023-Beginners-New](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New) - This repository accepts PRs for Hacktoberfest2023
@@ -190,6 +198,8 @@
 
 ## C
 
+* 【2023-10-18】[omnigres / omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
+* 【2023-10-18】[openslide / openslide](https://github.com/openslide/openslide) - C library for reading virtual slide images
 * 【2023-10-16】[HarshwardhanPatil07 / HactoberFest2023](https://github.com/HarshwardhanPatil07/HactoberFest2023) - A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and folllllow me. Contribute to start your journey with hacktoberfest. Happy Hacking💻!!!
 * 【2023-10-15】[paranoidninja / Cobaltstrike-Detection](https://github.com/paranoidninja/Cobaltstrike-Detection) - This repo will contain the core detection, only for Cobaltstrike's leaked versions. Non-leaked version detections wont be shared
 * 【2023-10-15】[jinxinyang / litechain](https://github.com/jinxinyang/litechain) - 
@@ -219,6 +229,7 @@
 
 ## C++
 
+* 【2023-10-18】[zeux / pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 * 【2023-10-17】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
 * 【2023-10-17】[kokkos / kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
 * 【2023-10-17】[random957654 / Hactober-2023-1](https://github.com/random957654/Hactober-2023-1) - hacktoberfest, hacktoberfest-accepted, hacktoberfest2023
@@ -254,6 +265,8 @@
 
 ## C#
 
+* 【2023-10-18】[keijiro / SplatVFX](https://github.com/keijiro/SplatVFX) - 3D Gaussian Splatting with Unity VFX Graph
+* 【2023-10-18】[gus33000 / UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 * 【2023-10-17】[GameTechExplained / Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
 * 【2023-10-16】[cjm00n / EvilSln](https://github.com/cjm00n/EvilSln) - A New Exploitation Technique for Visual Studio Projects
 * 【2023-10-16】[danhpaiva / EncryptAesNet-console-app-csharp](https://github.com/danhpaiva/EncryptAesNet-console-app-csharp) - 🛡️ ~ Academic example of AES encryption
@@ -283,6 +296,8 @@
 
 ## Html
 
+* 【2023-10-18】[CHAYA41182 / support-israel-banner](https://github.com/CHAYA41182/support-israel-banner) - Simply setup banner for websites to show support for Israelis.
+* 【2023-10-18】[tecky708 / app](https://github.com/tecky708/app) - 
 * 【2023-10-16】[hackbysarthak03 / Hacktoberfest2023](https://github.com/hackbysarthak03/Hacktoberfest2023) - A Webpage for your valuable contribution to Hacktoberfest 2023!
 * 【2023-10-15】[kaityo256 / lab_startup](https://github.com/kaityo256/lab_startup) - 研究室のPCのセットアップ資料
 * 【2023-10-15】[snap-research / HyperHuman](https://github.com/snap-research/HyperHuman) - Github Repo for "HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion"
@@ -327,6 +342,10 @@
 
 ## Css
 
+* 【2023-10-18】[AsmrProg-YT / Modern-Login](https://github.com/AsmrProg-YT/Modern-Login) - AsmrProg Youtube Channel Modern Login Design Source Code
+* 【2023-10-18】[KubeDev / imersao-devops-cloud-02](https://github.com/KubeDev/imersao-devops-cloud-02) - 
+* 【2023-10-18】[Novus-Neurons / talebuddy](https://github.com/Novus-Neurons/talebuddy) - 
+* 【2023-10-18】[ossrndc / Hacktoberfest](https://github.com/ossrndc/Hacktoberfest) - Hacktober Fest Repository of Team OSS
 * 【2023-10-17】[FPGA-Systems / drawio-hdl-builder](https://github.com/FPGA-Systems/drawio-hdl-builder) - Drawio => VHDL and Verilog
 * 【2023-10-17】[Kritika30032002 / To-Do-List-Application](https://github.com/Kritika30032002/To-Do-List-Application) - This is a To Do List Application
 * 【2023-10-16】[AsmrProg-YT / Personal-Portfolios](https://github.com/AsmrProg-YT/Personal-Portfolios) - AsmrProg Youtube Channel Personal Portfolio Designs Code Collection.
@@ -379,6 +398,8 @@
 
 ## Unknown
 
+* 【2023-10-18】[joeycastillo / The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
+* 【2023-10-18】[dymensionxyz / rollapp-registry](https://github.com/dymensionxyz/rollapp-registry) - A registry for RollApps
 * 【2023-10-17】[xPaw / CS2](https://github.com/xPaw/CS2) - 🏃‍♂️ Counter-Strike 2 stuff
 * 【2023-10-17】[cloudogu / gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
 * 【2023-10-17】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
