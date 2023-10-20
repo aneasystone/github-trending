@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-10-20】[OpenBMB / XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
+* 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+* 【2023-10-20】[Alex313031 / Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
+* 【2023-10-20】[imteekay / programming-language-research](https://github.com/imteekay/programming-language-research) - Programming Language Research, Applied PLT & Compilers
+* 【2023-10-20】[felipemotarocha / fullstackweek-store](https://github.com/felipemotarocha/fullstackweek-store) - 
+* 【2023-10-20】[nextauthjs / next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
+* 【2023-10-20】[mkkellogg / GaussianSplats3D](https://github.com/mkkellogg/GaussianSplats3D) - Three.js-based implementation of the 3D Gaussian splat viewer
+* 【2023-10-20】[cloudflare / workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 * 【2023-10-19】[ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 * 【2023-10-19】[yanfengwu-syser / syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) - 
 * 【2023-10-19】[barnamenevisi / free-resources](https://github.com/barnamenevisi/free-resources) - ، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه
@@ -100,6 +108,12 @@
 
 ## Python
 
+* 【2023-10-20】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
+* 【2023-10-20】[ScaledFoundations / GRID-playground](https://github.com/ScaledFoundations/GRID-playground) - Platform for General Robot Intelligence Development
+* 【2023-10-20】[chengzeyi / stable-fast](https://github.com/chengzeyi/stable-fast) - An ultra lightweight inference performance optimization library for HuggingFace Diffusers on NVIDIA GPUs.
+* 【2023-10-20】[EleutherAI / math-lm](https://github.com/EleutherAI/math-lm) - 
+* 【2023-10-20】[llmware-ai / llmware](https://github.com/llmware-ai/llmware) - Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.
+* 【2023-10-20】[Baekalfen / PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
 * 【2023-10-19】[RealKai42 / liu-yao-divining](https://github.com/RealKai42/liu-yao-divining) - 六爻游戏 + GPT 解读 / liu yao divining + interpreted by GPT
 * 【2023-10-19】[zhiwehu / 100_plus_Python_Projects_Challenge](https://github.com/zhiwehu/100_plus_Python_Projects_Challenge) - 100+ Python Projects Challenge
 * 【2023-10-18】[jtesta / ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
@@ -152,6 +166,8 @@
 
 ## Javascript
 
+* 【2023-10-20】[lohls / Api-Correios](https://github.com/lohls/Api-Correios) - 
+* 【2023-10-20】[sinonjs / sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 * 【2023-10-19】[wangwc18 / mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject) - 第一次提交版本
 * 【2023-10-19】[Yuheng0101 / X](https://github.com/Yuheng0101/X) - QuantumultX Scripts
 * 【2023-10-18】[0x48piraj / fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
@@ -189,6 +205,9 @@
 
 ## Go
 
+* 【2023-10-20】[trpc-group / trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
+* 【2023-10-20】[fullstorydev / grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* 【2023-10-20】[apache / incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 * 【2023-10-19】[devfullcycle / imersao15](https://github.com/devfullcycle/imersao15) - 
 * 【2023-10-19】[sustainable-computing-io / kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
 * 【2023-10-16】[circled-me / server](https://github.com/circled-me/server) - Photo backup and sharing server
@@ -208,6 +227,10 @@
 
 ## C
 
+* 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
+* 【2023-10-20】[devbis / z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
+* 【2023-10-20】[intel / RealTimePathTracingResearchFramework](https://github.com/intel/RealTimePathTracingResearchFramework) - 
+* 【2023-10-20】[egzumer / uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 * 【2023-10-18】[omnigres / omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
 * 【2023-10-18】[openslide / openslide](https://github.com/openslide/openslide) - C library for reading virtual slide images
 * 【2023-10-16】[HarshwardhanPatil07 / HactoberFest2023](https://github.com/HarshwardhanPatil07/HactoberFest2023) - A Simple😉 beginner friendly😊 Repo for all programmers and coders. All contributors are requested to star🌟this repo and and folllllow me. Contribute to start your journey with hacktoberfest. Happy Hacking💻!!!
@@ -239,6 +262,9 @@
 
 ## C++
 
+* 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
+* 【2023-10-20】[TileDB-Inc / TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
+* 【2023-10-20】[zxing-cpp / zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
 * 【2023-10-19】[BenMakesEverything / cyberdeck](https://github.com/BenMakesEverything/cyberdeck) - 
 * 【2023-10-18】[zeux / pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 * 【2023-10-17】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
@@ -276,6 +302,8 @@
 
 ## C#
 
+* 【2023-10-20】[scriptchildie / maliciousCodeMatchingMFA](https://github.com/scriptchildie/maliciousCodeMatchingMFA) - A small executable to trick a user to authenticate using code matching MFA
+* 【2023-10-20】[Abdelrhman-AK / WinPaletter](https://github.com/Abdelrhman-AK/WinPaletter) - Advanced Windows Appearance Editor
 * 【2023-10-19】[sdcb / OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) - High quality .NET wrapper for OpenVINO™ toolkit.
 * 【2023-10-18】[keijiro / SplatVFX](https://github.com/keijiro/SplatVFX) - 3D Gaussian Splatting with Unity VFX Graph
 * 【2023-10-18】[gus33000 / UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
@@ -308,6 +336,7 @@
 
 ## Html
 
+* 【2023-10-20】[esphome / firmware](https://github.com/esphome/firmware) - 
 * 【2023-10-19】[c4coderandcreator / Flavour-Fusion](https://github.com/c4coderandcreator/Flavour-Fusion) - "Flavour Fusion : Real World Project". It has all the necessary features required for a Food website.
 * 【2023-10-19】[bradtraversy / saas-landing-page](https://github.com/bradtraversy/saas-landing-page) - Simple landing page for a SaaS
 * 【2023-10-19】[orcas-lab / hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it) - An emergency booklet, I hope you will never use it
@@ -357,6 +386,9 @@
 
 ## Css
 
+* 【2023-10-20】[MultiverseLearningProducts / Lightbulb-Selectors](https://github.com/MultiverseLearningProducts/Lightbulb-Selectors) - 
+* 【2023-10-20】[cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
+* 【2023-10-20】[HIO-Webutvikling / WEBUTVIKLING2023](https://github.com/HIO-Webutvikling/WEBUTVIKLING2023) - 
 * 【2023-10-19】[piyushkdas0611 / Profile-Card-Generator](https://github.com/piyushkdas0611/Profile-Card-Generator) - A Profile Card Generator for generating profile cards to display on websites.
 * 【2023-10-19】[Komroncube / BulkyBooksMVC-project](https://github.com/Komroncube/BulkyBooksMVC-project) - 11_07_2023
 * 【2023-10-19】[Aj7Ay / TERRAFORM-JENKINS-CICD](https://github.com/Aj7Ay/TERRAFORM-JENKINS-CICD) - 
@@ -416,6 +448,10 @@
 
 ## Unknown
 
+* 【2023-10-20】[davidetaibi / Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
+* 【2023-10-20】[Alex313031 / Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
+* 【2023-10-20】[frag-o-matic / TheLalaList](https://github.com/frag-o-matic/TheLalaList) - 
+* 【2023-10-20】[Alex313031 / Thorium-Android](https://github.com/Alex313031/Thorium-Android) - Thorium builds for Android (arm64 and arm32).
 * 【2023-10-19】[MrNeRF / awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
 * 【2023-10-19】[IDEA-Research / UniPose](https://github.com/IDEA-Research/UniPose) - Official implementation of the paper "UniPose : Detecting Any Keypoints"
 * 【2023-10-19】[julianazanelatto / power_bi_analyst](https://github.com/julianazanelatto/power_bi_analyst) - 
