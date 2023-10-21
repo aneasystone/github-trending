@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-10-21】[epicweb-dev / full-stack-foundations](https://github.com/epicweb-dev/full-stack-foundations) - Learn the foundational skills of building full stack web applications.
+* 【2023-10-21】[xlang-ai / OpenAgents](https://github.com/xlang-ai/OpenAgents) - OpenAgents: An Open Platform for Language Agents in the Wild
+* 【2023-10-21】[luosiallen / latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
 * 【2023-10-20】[OpenBMB / XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 * 【2023-10-20】[Alex313031 / thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 * 【2023-10-20】[Alex313031 / Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
@@ -75,6 +78,7 @@
 
 ## Java
 
+* 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
 * 【2023-10-18】[stleary / JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
 * 【2023-10-18】[twelvet-projects / twelvet](https://github.com/twelvet-projects/twelvet) - （Spring Boot 3. X Microservices framework） 基于Spring Boot 3.X 的 Spring Cloud Alibaba / Spring Cloud Tencent + React的微服务框架。🔝 🔝 点个starrred 关注更新。 微服务交流群见底部群链接。
 * 【2023-10-17】[AlexModGuy / Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
@@ -108,6 +112,8 @@
 
 ## Python
 
+* 【2023-10-21】[PixArt-alpha / PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+* 【2023-10-21】[neuralmagic / deepsparse](https://github.com/neuralmagic/deepsparse) - Sparsity-aware deep learning inference runtime for CPUs
 * 【2023-10-20】[NVIDIA / Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI
 * 【2023-10-20】[ScaledFoundations / GRID-playground](https://github.com/ScaledFoundations/GRID-playground) - Platform for General Robot Intelligence Development
 * 【2023-10-20】[chengzeyi / stable-fast](https://github.com/chengzeyi/stable-fast) - An ultra lightweight inference performance optimization library for HuggingFace Diffusers on NVIDIA GPUs.
@@ -166,6 +172,8 @@
 
 ## Javascript
 
+* 【2023-10-21】[TongchengOpenSource / AppScan](https://github.com/TongchengOpenSource/AppScan) - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
+* 【2023-10-21】[Tencent / westore](https://github.com/Tencent/westore) - 小程序项目分层架构
 * 【2023-10-20】[lohls / Api-Correios](https://github.com/lohls/Api-Correios) - 
 * 【2023-10-20】[sinonjs / sinon](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks for JavaScript.
 * 【2023-10-19】[wangwc18 / mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject) - 第一次提交版本
@@ -262,6 +270,7 @@
 
 ## C++
 
+* 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
 * 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
 * 【2023-10-20】[TileDB-Inc / TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine
 * 【2023-10-20】[zxing-cpp / zxing-cpp](https://github.com/zxing-cpp/zxing-cpp) - C++ port of ZXing
@@ -336,6 +345,9 @@
 
 ## Html
 
+* 【2023-10-21】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
+* 【2023-10-21】[serpapi / awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+* 【2023-10-21】[khan4019 / front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions) - Help the front End community to rock interview
 * 【2023-10-20】[esphome / firmware](https://github.com/esphome/firmware) - 
 * 【2023-10-19】[c4coderandcreator / Flavour-Fusion](https://github.com/c4coderandcreator/Flavour-Fusion) - "Flavour Fusion : Real World Project". It has all the necessary features required for a Food website.
 * 【2023-10-19】[bradtraversy / saas-landing-page](https://github.com/bradtraversy/saas-landing-page) - Simple landing page for a SaaS
@@ -386,6 +398,8 @@
 
 ## Css
 
+* 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
+* 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
 * 【2023-10-20】[MultiverseLearningProducts / Lightbulb-Selectors](https://github.com/MultiverseLearningProducts/Lightbulb-Selectors) - 
 * 【2023-10-20】[cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) - Learn how to bring animation to your web projects
 * 【2023-10-20】[HIO-Webutvikling / WEBUTVIKLING2023](https://github.com/HIO-Webutvikling/WEBUTVIKLING2023) - 
@@ -448,6 +462,12 @@
 
 ## Unknown
 
+* 【2023-10-21】[zju3dv / 4K4D](https://github.com/zju3dv/4K4D) - 4K4D: Real-Time 4D View Synthesis at 4K Resolution
+* 【2023-10-21】[ByteByteGoHq / ml-bytebytego](https://github.com/ByteByteGoHq/ml-bytebytego) - 
+* 【2023-10-21】[danluu / post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+* 【2023-10-21】[szabgab / awesome-for-non-programmers](https://github.com/szabgab/awesome-for-non-programmers) - 
+* 【2023-10-21】[Nikhilthadani / MERN-AI-ChatBot](https://github.com/Nikhilthadani/MERN-AI-ChatBot) - 
+* 【2023-10-21】[shinezyy / micro-arch-training](https://github.com/shinezyy/micro-arch-training) - How to make undergraduates or new graduates ready for advanced computer architecture research or modern CPU design
 * 【2023-10-20】[davidetaibi / Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
 * 【2023-10-20】[Alex313031 / Thorium-MacOS](https://github.com/Alex313031/Thorium-MacOS) - Thorium builds for MacOS (arm64 and x64).
 * 【2023-10-20】[frag-o-matic / TheLalaList](https://github.com/frag-o-matic/TheLalaList) - 
