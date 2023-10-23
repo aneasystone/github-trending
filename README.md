@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-10-23】[alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego) - 
+* 【2023-10-23】[FalconForceTeam / FalconHound](https://github.com/FalconForceTeam/FalconHound) - FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
+* 【2023-10-23】[wjz304 / rpcb](https://github.com/wjz304/rpcb) - Redpill 定制化编译,自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台.
 * 【2023-10-22】[NVIDIA / TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
 * 【2023-10-22】[WisdomShell / codeshell](https://github.com/WisdomShell/codeshell) - A series of code large language models developed by PKU-KCL
 * 【2023-10-22】[WisdomShell / codeshell-vscode](https://github.com/WisdomShell/codeshell-vscode) - An intelligent coding assistant plugin for Visual Studio Code, developed based on CodeShell
@@ -85,6 +88,7 @@
 
 ## Java
 
+* 【2023-10-23】[falvojr / santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023) - Java RESTful API criada para a Santander Dev Week
 * 【2023-10-22】[woowacourse-precourse / java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6) - 
 * 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
 * 【2023-10-18】[stleary / JSON-java](https://github.com/stleary/JSON-java) - A reference implementation of a JSON package in Java.
@@ -120,6 +124,9 @@
 
 ## Python
 
+* 【2023-10-23】[NVIDIA-Omniverse / IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
+* 【2023-10-23】[AkariAsai / self-rag](https://github.com/AkariAsai/self-rag) - 
+* 【2023-10-23】[facebookresearch / habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 * 【2023-10-22】[waymo-research / waymax](https://github.com/waymo-research/waymax) - A JAX-based simulator for autonomous driving research.
 * 【2023-10-22】[Azure-Samples / chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
 * 【2023-10-22】[moesnow / March7thAssistant](https://github.com/moesnow/March7thAssistant) - 🧊 崩坏：星穹铁道 自动日常｜每日实训｜清体力｜锄大地｜模拟宇宙｜忘却之庭｜图形界面｜消息推送｜循环运行
@@ -183,6 +190,7 @@
 
 ## Javascript
 
+* 【2023-10-23】[Guru322 / GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT <DO STAR THE REPO>
 * 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
 * 【2023-10-22】[thomasjacquin / allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 * 【2023-10-22】[remvst / knight](https://github.com/remvst/knight) - My entry for 2023's js13k competition
@@ -228,6 +236,9 @@
 
 ## Go
 
+* 【2023-10-23】[D00Movenok / BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
+* 【2023-10-23】[stealthrocket / coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go
+* 【2023-10-23】[ProudMuBai / GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
 * 【2023-10-20】[trpc-group / trpc-go](https://github.com/trpc-group/trpc-go) - A pluggable, high-performance RPC framework written in golang
 * 【2023-10-20】[fullstorydev / grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 * 【2023-10-20】[apache / incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
@@ -250,6 +261,7 @@
 
 ## C
 
+* 【2023-10-23】[sleirsgoevy / ps4jb-payloads](https://github.com/sleirsgoevy/ps4jb-payloads) - Extracted payloads from the main repo
 * 【2023-10-22】[geany / geany](https://github.com/geany/geany) - A fast and lightweight IDE
 * 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
 * 【2023-10-20】[devbis / z03mmc](https://github.com/devbis/z03mmc) - Xiaomi LYWSD03MMC Zigbee Firmware
@@ -286,6 +298,7 @@
 
 ## C++
 
+* 【2023-10-23】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 * 【2023-10-22】[HITSZ-Auto / HITSZ-OpenAuto](https://github.com/HITSZ-Auto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
 * 【2023-10-20】[pytorch / executorch](https://github.com/pytorch/executorch) - End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models
@@ -328,6 +341,7 @@
 
 ## C#
 
+* 【2023-10-23】[helix-toolkit / helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) - Helix Toolkit is a collection of 3D components for .NET.
 * 【2023-10-22】[microsoft / kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
 * 【2023-10-22】[cobbr / Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
 * 【2023-10-20】[scriptchildie / maliciousCodeMatchingMFA](https://github.com/scriptchildie/maliciousCodeMatchingMFA) - A small executable to trick a user to authenticate using code matching MFA
@@ -364,6 +378,8 @@
 
 ## Html
 
+* 【2023-10-23】[susam / cfr](https://github.com/susam/cfr) - An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ].
+* 【2023-10-23】[RuanAragao / calculator](https://github.com/RuanAragao/calculator) - Create your own calculator
 * 【2023-10-22】[zachleat / table-saw](https://github.com/zachleat/table-saw) - A small web component for responsive <table> elements.
 * 【2023-10-21】[bulianglin / psub](https://github.com/bulianglin/psub) - 利用CF Worker搭建的反代订阅转换工具
 * 【2023-10-21】[serpapi / awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
@@ -418,6 +434,8 @@
 
 ## Css
 
+* 【2023-10-23】[vcwild / priya-portfolio](https://github.com/vcwild/priya-portfolio) - Portfolio for Priya Nobre
+* 【2023-10-23】[vcwild / tcc-proxy](https://github.com/vcwild/tcc-proxy) - An interactive e-book story.
 * 【2023-10-22】[david-haerer / chatapi](https://github.com/david-haerer/chatapi) - ChatGPT by API
 * 【2023-10-21】[chimma666 / restaurant-file](https://github.com/chimma666/restaurant-file) - this is a restaurant menu page where you can show your creativity by adding new features
 * 【2023-10-21】[promet / provus-meridian-demo](https://github.com/promet/provus-meridian-demo) - Meridian Demo Site
@@ -483,6 +501,7 @@
 
 ## Unknown
 
+* 【2023-10-23】[joe-shenouda / awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
 * 【2023-10-22】[milkv-duo / duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk) - Milk-V Duo Official buildroot SDK
 * 【2023-10-22】[microsoft / SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs
 * 【2023-10-22】[ruesandora / Fleek](https://github.com/ruesandora/Fleek) - 
