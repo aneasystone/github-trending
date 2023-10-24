@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-24】[rupeshs / fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU
+* 【2023-10-24】[lichess-org / lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 * 【2023-10-23】[alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego) - 
 * 【2023-10-23】[FalconForceTeam / FalconHound](https://github.com/FalconForceTeam/FalconHound) - FalconHound is a blue team multi-tool. It allows you to utilize and enhance the power of BloodHound in a more automated fashion. It is designed to be used in conjunction with a SIEM or other log aggregation tool.
 * 【2023-10-23】[wjz304 / rpcb](https://github.com/wjz304/rpcb) - Redpill 定制化编译,自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台.
@@ -88,6 +90,12 @@
 
 ## Java
 
+* 【2023-10-24】[digitalinnovationone / lab-padroes-projeto-spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring) - Exemplos de Padrões de Projeto com Spring
+* 【2023-10-24】[djkcyl / Shamrock](https://github.com/djkcyl/Shamrock) - 
+* 【2023-10-24】[paulgries / CACoding](https://github.com/paulgries/CACoding) - 
+* 【2023-10-24】[digitalinnovationone / dio-springboot](https://github.com/digitalinnovationone/dio-springboot) - 
+* 【2023-10-24】[willyancaetano / junit5-exemplos](https://github.com/willyancaetano/junit5-exemplos) - Repositório com exemplos utilizando JUnit 5
+* 【2023-10-24】[digitalinnovationone / lab-padroes-projeto-java](https://github.com/digitalinnovationone/lab-padroes-projeto-java) - Exemplos de Padrões de Projeto em Java
 * 【2023-10-23】[falvojr / santander-dev-week-2023](https://github.com/falvojr/santander-dev-week-2023) - Java RESTful API criada para a Santander Dev Week
 * 【2023-10-22】[woowacourse-precourse / java-baseball-6](https://github.com/woowacourse-precourse/java-baseball-6) - 
 * 【2023-10-21】[bcgit / bc-java](https://github.com/bcgit/bc-java) - Bouncy Castle Java Distribution (Mirror)
@@ -124,6 +132,9 @@
 
 ## Python
 
+* 【2023-10-24】[THUDM / AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs
+* 【2023-10-24】[Em1tSan / NeuroGPT](https://github.com/Em1tSan/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 / Free OpenAI API
+* 【2023-10-24】[byt3bl33d3r / CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
 * 【2023-10-23】[NVIDIA-Omniverse / IsaacGymEnvs](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs) - Isaac Gym Reinforcement Learning Environments
 * 【2023-10-23】[AkariAsai / self-rag](https://github.com/AkariAsai/self-rag) - 
 * 【2023-10-23】[facebookresearch / habitat-lab](https://github.com/facebookresearch/habitat-lab) - A modular high-level library to train embodied AI agents across a variety of tasks and environments.
@@ -190,6 +201,7 @@
 
 ## Javascript
 
+* 【2023-10-24】[school-of-athens / schoolofathens-world-next](https://github.com/school-of-athens/schoolofathens-world-next) - 
 * 【2023-10-23】[Guru322 / GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT <DO STAR THE REPO>
 * 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
 * 【2023-10-22】[thomasjacquin / allsky](https://github.com/thomasjacquin/allsky) - A Raspberry Pi operated Wireless Allsky Camera
@@ -261,6 +273,8 @@
 
 ## C
 
+* 【2023-10-24】[outflanknl / C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection) - A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.
+* 【2023-10-24】[jagt / clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 * 【2023-10-23】[sleirsgoevy / ps4jb-payloads](https://github.com/sleirsgoevy/ps4jb-payloads) - Extracted payloads from the main repo
 * 【2023-10-22】[geany / geany](https://github.com/geany/geany) - A fast and lightweight IDE
 * 【2023-10-20】[attractivechaos / klib](https://github.com/attractivechaos/klib) - A standalone and lightweight C library
@@ -341,6 +355,7 @@
 
 ## C#
 
+* 【2023-10-24】[XDSEC / MoeCTF_2023](https://github.com/XDSEC/MoeCTF_2023) - 
 * 【2023-10-23】[helix-toolkit / helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) - Helix Toolkit is a collection of 3D components for .NET.
 * 【2023-10-22】[microsoft / kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
 * 【2023-10-22】[cobbr / Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
@@ -434,6 +449,9 @@
 
 ## Css
 
+* 【2023-10-24】[p3nguin-kun / penguinFox](https://github.com/p3nguin-kun/penguinFox) - 🦊 Firefox with better UI, better privacy and security.
+* 【2023-10-24】[champkeh / wereadx](https://github.com/champkeh/wereadx) - 微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等
+* 【2023-10-24】[perkx999 / IntellifyAI](https://github.com/perkx999/IntellifyAI) - 
 * 【2023-10-23】[vcwild / priya-portfolio](https://github.com/vcwild/priya-portfolio) - Portfolio for Priya Nobre
 * 【2023-10-23】[vcwild / tcc-proxy](https://github.com/vcwild/tcc-proxy) - An interactive e-book story.
 * 【2023-10-22】[david-haerer / chatapi](https://github.com/david-haerer/chatapi) - ChatGPT by API
@@ -501,6 +519,11 @@
 
 ## Unknown
 
+* 【2023-10-24】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - List of IT, computer science and business courses with free certificates & badges.
+* 【2023-10-24】[louis-xiv-drainer / web3drain](https://github.com/louis-xiv-drainer/web3drain) - 
+* 【2023-10-24】[mojicians / awesome-mojo](https://github.com/mojicians/awesome-mojo) - A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources
+* 【2023-10-24】[shaily99 / advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc
+* 【2023-10-24】[pikvm / pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 * 【2023-10-23】[joe-shenouda / awesome-cyber-skills](https://github.com/joe-shenouda/awesome-cyber-skills) - A curated list of hacking environments where you can train your cyber skills legally and safely
 * 【2023-10-22】[milkv-duo / duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk) - Milk-V Duo Official buildroot SDK
 * 【2023-10-22】[microsoft / SoM](https://github.com/microsoft/SoM) - Set-of-Mark Prompting for LMMs
