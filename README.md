@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-10-26】[ErickWendel / semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) - JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏
+* 【2023-10-26】[yarnpkg / berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
+* 【2023-10-26】[bugen / pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
+* 【2023-10-26】[pmndrs / react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 * 【2023-10-25】[eureka-research / Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
 * 【2023-10-25】[ZachGoldberg / Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 * 【2023-10-24】[rupeshs / fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU
@@ -92,6 +96,7 @@
 
 ## Java
 
+* 【2023-10-26】[jar-analyzer / jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer Project
 * 【2023-10-24】[digitalinnovationone / lab-padroes-projeto-spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring) - Exemplos de Padrões de Projeto com Spring
 * 【2023-10-24】[djkcyl / Shamrock](https://github.com/djkcyl/Shamrock) - 
 * 【2023-10-24】[paulgries / CACoding](https://github.com/paulgries/CACoding) - 
@@ -134,6 +139,11 @@
 
 ## Python
 
+* 【2023-10-26】[hmaverickadams / DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool) - A command-line tool to query the DeHashed API. Easily search for various parameters like usernames, emails, hashed passwords, IP addresses, and more.
+* 【2023-10-26】[0xbitches / sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) - Latent Consistency Model for AUTOMATIC1111 Stable Diffusion WebUI
+* 【2023-10-26】[fox-it / cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection) - Cisco IOS XE implant scanning & detection
+* 【2023-10-26】[rizkydermawan1992 / Face-Detection](https://github.com/rizkydermawan1992/Face-Detection) - 
+* 【2023-10-26】[JoeanAmier / XHS_Downloader](https://github.com/JoeanAmier/XHS_Downloader) - 完全开源，基于 Requests 模块实现：小红书图文/视频作品采集工具
 * 【2023-10-24】[THUDM / AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs
 * 【2023-10-24】[Em1tSan / NeuroGPT](https://github.com/Em1tSan/NeuroGPT) - Free ChatGPT 3.5 / ChatGPT 4 / Free OpenAI API
 * 【2023-10-24】[byt3bl33d3r / CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
@@ -203,6 +213,8 @@
 
 ## Javascript
 
+* 【2023-10-26】[academind / react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources) - React - The Complete Guide Course Resources (Code, Attachments, Slides)
+* 【2023-10-26】[DevCaress / guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) - 
 * 【2023-10-24】[school-of-athens / schoolofathens-world-next](https://github.com/school-of-athens/schoolofathens-world-next) - 
 * 【2023-10-23】[Guru322 / GURU-BOT](https://github.com/Guru322/GURU-BOT) - A SIMPLE YET COMPLICATED WHATSAPP BOT <DO STAR THE REPO>
 * 【2023-10-22】[Dabble-Studio / 3d-to-photo](https://github.com/Dabble-Studio/3d-to-photo) - 3D to Photo is an open-source package by Dabble, that combines threeJS and Stable diffusion to build a virtual photo studio for product photography. Load a 3D model into the browser and virtual shoot it in any kind of scene you can imagine
@@ -276,6 +288,10 @@
 
 ## C
 
+* 【2023-10-26】[stas00 / the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
+* 【2023-10-26】[kleiton0x00 / Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads) - A proof of concept demonstrating the DLL-load proxying using undocumented Syscalls.
+* 【2023-10-26】[0Nera / BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
+* 【2023-10-26】[evilashz / PigScheduleTask](https://github.com/evilashz/PigScheduleTask) - 添加计划任务方法集合
 * 【2023-10-24】[outflanknl / C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection) - A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.
 * 【2023-10-24】[jagt / clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 * 【2023-10-23】[sleirsgoevy / ps4jb-payloads](https://github.com/sleirsgoevy/ps4jb-payloads) - Extracted payloads from the main repo
@@ -315,6 +331,8 @@
 
 ## C++
 
+* 【2023-10-26】[singhhdev / cs2-external-source-kernel](https://github.com/singhhdev/cs2-external-source-kernel) - 
+* 【2023-10-26】[luigifreda / plvs](https://github.com/luigifreda/plvs) - PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation.
 * 【2023-10-23】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 * 【2023-10-22】[HITSZ-Auto / HITSZ-OpenAuto](https://github.com/HITSZ-Auto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-10-21】[luooofan / miniob-2022](https://github.com/luooofan/miniob-2022) - https://open.oceanbase.com/competition/index
@@ -358,6 +376,8 @@
 
 ## C#
 
+* 【2023-10-26】[S1lkys / SharpKiller](https://github.com/S1lkys/SharpKiller) - Lifetime AMSI bypass by @ZeroMemoryEx ported to .NET Framework 4.8
+* 【2023-10-26】[leooneone / aibpm.plus](https://github.com/leooneone/aibpm.plus) - AIBPM是一个开源的工作流引擎。本项目是后端服务，前端请移步aibpm.ui.plus。
 * 【2023-10-25】[0xDrMoe / TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - 
 * 【2023-10-25】[pnp / powershell](https://github.com/pnp/powershell) - PnP PowerShell
 * 【2023-10-24】[XDSEC / MoeCTF_2023](https://github.com/XDSEC/MoeCTF_2023) - 
@@ -398,6 +418,8 @@
 
 ## Html
 
+* 【2023-10-26】[NIPAOPENSW / OpenSW](https://github.com/NIPAOPENSW/OpenSW) - 
+* 【2023-10-26】[3kh0 / website-v4](https://github.com/3kh0/website-v4) - 3kh0, the better unblocked games website. If you fork this repo please give me a star to support me.
 * 【2023-10-25】[surajsharma14 / Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023) - 
 * 【2023-10-23】[susam / cfr](https://github.com/susam/cfr) - An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ].
 * 【2023-10-23】[RuanAragao / calculator](https://github.com/RuanAragao/calculator) - Create your own calculator
@@ -455,6 +477,9 @@
 
 ## Css
 
+* 【2023-10-26】[AcademySoftwareFoundation / OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
+* 【2023-10-26】[X16Community / x16-docs](https://github.com/X16Community/x16-docs) - Commander X16 Documentation (CC BY-SA)
+* 【2023-10-26】[MattWatier / zenphoto-infographic](https://github.com/MattWatier/zenphoto-infographic) - zenphoto with info graphic representation
 * 【2023-10-25】[Azure-Samples / azure-sql-db-session-recommender](https://github.com/Azure-Samples/azure-sql-db-session-recommender) - Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings
 * 【2023-10-25】[MilanBhanuka / Sample_Codes](https://github.com/MilanBhanuka/Sample_Codes) - 
 * 【2023-10-25】[tictail / bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
@@ -529,6 +554,12 @@
 
 ## Unknown
 
+* 【2023-10-26】[GoogleChrome / ip-protection](https://github.com/GoogleChrome/ip-protection) - 
+* 【2023-10-26】[cerealwithmilk / Fluster](https://github.com/cerealwithmilk/Fluster) - An custom Roblox UWP Client that is customizable and user friendly
+* 【2023-10-26】[rstudio-conf-2022 / people-analytics-rstats](https://github.com/rstudio-conf-2022/people-analytics-rstats) - 
+* 【2023-10-26】[cerealwithmilk / uwp](https://github.com/cerealwithmilk/uwp) - An archive for all UWP versions that have been released thru the microsoft store
+* 【2023-10-26】[ChenHsing / Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models) - [Arxiv] A Survey on Video Diffusion Models
+* 【2023-10-26】[Zjh-819 / LLMDataHub](https://github.com/Zjh-819/LLMDataHub) - A quick guide (especially) for trending instruction finetuning datasets
 * 【2023-10-25】[daveshap / SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations) - Public repo to document some SPR stuff
 * 【2023-10-25】[Chuny1 / 3DGPT](https://github.com/Chuny1/3DGPT) - 
 * 【2023-10-24】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - List of IT, computer science and business courses with free certificates & badges.
