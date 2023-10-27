@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-10-27】[Vendicated / Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+* 【2023-10-27】[SUDO-AI-3D / zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.
+* 【2023-10-27】[premAI-io / state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation
+* 【2023-10-27】[roadmapsh / next.roadmap.sh](https://github.com/roadmapsh/next.roadmap.sh) - Next version of roadmap.sh
 * 【2023-10-26】[ErickWendel / semana-javascript-expert08](https://github.com/ErickWendel/semana-javascript-expert08) - JS Expert Week 8.0 - 🎥Pre processing videos before uploading in the browser 😏
 * 【2023-10-26】[yarnpkg / berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 * 【2023-10-26】[bugen / pypipe](https://github.com/bugen/pypipe) - Python pipe command line tool
@@ -96,6 +100,7 @@
 
 ## Java
 
+* 【2023-10-27】[ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 * 【2023-10-26】[jar-analyzer / jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer Project
 * 【2023-10-24】[digitalinnovationone / lab-padroes-projeto-spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring) - Exemplos de Padrões de Projeto com Spring
 * 【2023-10-24】[djkcyl / Shamrock](https://github.com/djkcyl/Shamrock) - 
@@ -139,6 +144,11 @@
 
 ## Python
 
+* 【2023-10-27】[N1k0la-T / CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) - 
+* 【2023-10-27】[horizon3ai / CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051) - VMware Aria Operations for Logs CVE-2023-34051
+* 【2023-10-27】[kyleskom / NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
+* 【2023-10-27】[mckinsey / vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications.
+* 【2023-10-27】[astral-sh / ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit) - A pre-commit hook for Ruff.
 * 【2023-10-26】[hmaverickadams / DeHashed-API-Tool](https://github.com/hmaverickadams/DeHashed-API-Tool) - A command-line tool to query the DeHashed API. Easily search for various parameters like usernames, emails, hashed passwords, IP addresses, and more.
 * 【2023-10-26】[0xbitches / sd-webui-lcm](https://github.com/0xbitches/sd-webui-lcm) - Latent Consistency Model for AUTOMATIC1111 Stable Diffusion WebUI
 * 【2023-10-26】[fox-it / cisco-ios-xe-implant-detection](https://github.com/fox-it/cisco-ios-xe-implant-detection) - Cisco IOS XE implant scanning & detection
@@ -213,6 +223,11 @@
 
 ## Javascript
 
+* 【2023-10-27】[RahulSChand / gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization
+* 【2023-10-27】[roberto-butti / some-drops-of-javascript](https://github.com/roberto-butti/some-drops-of-javascript) - This book collects some useful, unknown, underrated JavaScript functions discovered and learned while using JavaScript daily.
+* 【2023-10-27】[inkle / inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
+* 【2023-10-27】[summernote / summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+* 【2023-10-27】[mdn / web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 * 【2023-10-26】[academind / react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources) - React - The Complete Guide Course Resources (Code, Attachments, Slides)
 * 【2023-10-26】[DevCaress / guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) - 
 * 【2023-10-24】[school-of-athens / schoolofathens-world-next](https://github.com/school-of-athens/schoolofathens-world-next) - 
@@ -331,6 +346,9 @@
 
 ## C++
 
+* 【2023-10-27】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
+* 【2023-10-27】[Sergeanur / MGSResolutionPatch](https://github.com/Sergeanur/MGSResolutionPatch) - 
+* 【2023-10-27】[google / nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
 * 【2023-10-26】[singhhdev / cs2-external-source-kernel](https://github.com/singhhdev/cs2-external-source-kernel) - 
 * 【2023-10-26】[luigifreda / plvs](https://github.com/luigifreda/plvs) - PLVS is a real-time SLAM system with points, lines, volumetric mapping and 3D unsupervised incremental segmentation.
 * 【2023-10-23】[facebookresearch / habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
@@ -376,6 +394,9 @@
 
 ## C#
 
+* 【2023-10-27】[mrdude2478 / IPS_Patch_Creator](https://github.com/mrdude2478/IPS_Patch_Creator) - A PC program to generate IPS Sig patches for the switch.
+* 【2023-10-27】[SebLague / Fluid-Sim](https://github.com/SebLague/Fluid-Sim) - 
+* 【2023-10-27】[knela96 / Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System) - Dynamic Parkour System is a FREE plugin for Unity that allows anyone to import any model and have an already working controller with parkour capabilities like in Assassin's Creed games.
 * 【2023-10-26】[S1lkys / SharpKiller](https://github.com/S1lkys/SharpKiller) - Lifetime AMSI bypass by @ZeroMemoryEx ported to .NET Framework 4.8
 * 【2023-10-26】[leooneone / aibpm.plus](https://github.com/leooneone/aibpm.plus) - AIBPM是一个开源的工作流引擎。本项目是后端服务，前端请移步aibpm.ui.plus。
 * 【2023-10-25】[0xDrMoe / TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - 
@@ -554,6 +575,8 @@
 
 ## Unknown
 
+* 【2023-10-27】[aluismoya / EbookFoundation-free-programming-books](https://github.com/aluismoya/EbookFoundation-free-programming-books) - 
+* 【2023-10-27】[OneCodeMonkey / music-sources](https://github.com/OneCodeMonkey/music-sources) - 音乐播放可用源
 * 【2023-10-26】[GoogleChrome / ip-protection](https://github.com/GoogleChrome/ip-protection) - 
 * 【2023-10-26】[cerealwithmilk / Fluster](https://github.com/cerealwithmilk/Fluster) - An custom Roblox UWP Client that is customizable and user friendly
 * 【2023-10-26】[rstudio-conf-2022 / people-analytics-rstats](https://github.com/rstudio-conf-2022/people-analytics-rstats) - 
