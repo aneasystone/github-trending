@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-10-29】[xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D) - A cross-domain diffusion model for 3D reconstruction from a single image
+* 【2023-10-29】[GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) - Dagor Engine and Tools source code from Gaijin Games KFT
 * 【2023-10-28】[eylonmiz / react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
 * 【2023-10-28】[AndrewWalsh / openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
 * 【2023-10-28】[microsoft / fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
@@ -149,6 +151,10 @@
 
 ## Python
 
+* 【2023-10-29】[amidaware / tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+* 【2023-10-29】[jackhawks / telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
+* 【2023-10-29】[huggingface / alignment-handbook](https://github.com/huggingface/alignment-handbook) - Robust recipes for to align language models with human and AI preferences
+* 【2023-10-29】[HKUDS / RLMRec](https://github.com/HKUDS/RLMRec) - "RLMRec: Representation Learning with Large Language Models for Recommendation"
 * 【2023-10-28】[codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 国内首个测试行业大模型工具，体验AIGC为测试领域带来的变革！
 * 【2023-10-28】[AlbusSec / Penetration-List](https://github.com/AlbusSec/Penetration-List) - Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information.
 * 【2023-10-28】[nazavod777 / memeland_auto_reger](https://github.com/nazavod777/memeland_auto_reger) - 
@@ -312,6 +318,8 @@
 
 ## C
 
+* 【2023-10-29】[GaijinEntertainment / daScript](https://github.com/GaijinEntertainment/daScript) - daScript - high-performance statically strong typed scripting language
+* 【2023-10-29】[JHRobotics / patcher9x](https://github.com/JHRobotics/patcher9x) - Patch for Windows 9x to fix CPU issues
 * 【2023-10-28】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
 * 【2023-10-26】[stas00 / the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
 * 【2023-10-26】[kleiton0x00 / Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads) - A proof of concept demonstrating the DLL-load proxying using undocumented Syscalls.
@@ -356,6 +364,8 @@
 
 ## C++
 
+* 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
+* 【2023-10-29】[mavlink / mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
 * 【2023-10-28】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
 * 【2023-10-27】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 * 【2023-10-27】[Sergeanur / MGSResolutionPatch](https://github.com/Sergeanur/MGSResolutionPatch) - 
@@ -450,6 +460,9 @@
 
 ## Html
 
+* 【2023-10-29】[i-am-alice / 2nd-devs](https://github.com/i-am-alice/2nd-devs) - 
+* 【2023-10-29】[x-dr / tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
+* 【2023-10-29】[EAGLECRAFTARCHIVE / EagleCraft-Download](https://github.com/EAGLECRAFTARCHIVE/EagleCraft-Download) - EagleCraft Archived
 * 【2023-10-28】[DualSubs / YouTube](https://github.com/DualSubs/YouTube) - YouTube字幕增强及双语模块
 * 【2023-10-28】[Hyraze / ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) - Explore a curated selection of AI tools and resources
 * 【2023-10-26】[NIPAOPENSW / OpenSW](https://github.com/NIPAOPENSW/OpenSW) - 
@@ -511,6 +524,9 @@
 
 ## Css
 
+* 【2023-10-29】[toriekimFSA / Flex.Demo.GroceryList](https://github.com/toriekimFSA/Flex.Demo.GroceryList) - 
+* 【2023-10-29】[Kalvium-Program / zombie-shoot-boilerplate](https://github.com/Kalvium-Program/zombie-shoot-boilerplate) - 
+* 【2023-10-29】[RandolphDR / Randolph-Flowers](https://github.com/RandolphDR/Randolph-Flowers) - Code not mine copyright only for educational purposes!
 * 【2023-10-26】[AcademySoftwareFoundation / OpenPBR](https://github.com/AcademySoftwareFoundation/OpenPBR) - Specification and reference implementation for the OpenPBR Surface shading model
 * 【2023-10-26】[X16Community / x16-docs](https://github.com/X16Community/x16-docs) - Commander X16 Documentation (CC BY-SA)
 * 【2023-10-26】[MattWatier / zenphoto-infographic](https://github.com/MattWatier/zenphoto-infographic) - zenphoto with info graphic representation
@@ -588,6 +604,11 @@
 
 ## Unknown
 
+* 【2023-10-29】[gtech-mulearn / Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders) - Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem
+* 【2023-10-29】[P3N-101 / ResourceKit](https://github.com/P3N-101/ResourceKit) - 
+* 【2023-10-29】[Ignitetechnologies / bugbounty](https://github.com/Ignitetechnologies/bugbounty) - 
+* 【2023-10-29】[psychon-night / bypass-youtube-adblock-blocker](https://github.com/psychon-night/bypass-youtube-adblock-blocker) - A guide to blocking YouTube's anti-adblocking nonsense
+* 【2023-10-29】[xiongcccc / PostgreSQL-ecosystem](https://github.com/xiongcccc/PostgreSQL-ecosystem) - Some things about PostgreSQL
 * 【2023-10-28】[ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems
 * 【2023-10-28】[charonlight / NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
 * 【2023-10-28】[qingsongedu / Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) - A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data.
