@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-10-30】[THUDM / ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
+* 【2023-10-30】[Las-Fuerzas-Del-Cielo / Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.
+* 【2023-10-30】[boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
+* 【2023-10-30】[leerob / leerob.io](https://github.com/leerob/leerob.io) - ✨ My portfolio built with Next.js, Tailwind CSS, PlanetScale, and Vercel.
+* 【2023-10-30】[leanprover / lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 * 【2023-10-29】[xxlong0 / Wonder3D](https://github.com/xxlong0/Wonder3D) - A cross-domain diffusion model for 3D reconstruction from a single image
 * 【2023-10-29】[GaijinEntertainment / DagorEngine](https://github.com/GaijinEntertainment/DagorEngine) - Dagor Engine and Tools source code from Gaijin Games KFT
 * 【2023-10-28】[eylonmiz / react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
@@ -151,6 +156,7 @@
 
 ## Python
 
+* 【2023-10-30】[SkunkworksAI / BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA) - 
 * 【2023-10-29】[amidaware / tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 * 【2023-10-29】[jackhawks / telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 * 【2023-10-29】[huggingface / alignment-handbook](https://github.com/huggingface/alignment-handbook) - Robust recipes for to align language models with human and AI preferences
@@ -237,6 +243,7 @@
 
 ## Javascript
 
+* 【2023-10-30】[sseezov / l5-validator-test-v2](https://github.com/sseezov/l5-validator-test-v2) - Аналог аттестационного проекта для 2 курса 1 семестра в Хекслет колледж
 * 【2023-10-28】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 * 【2023-10-27】[RahulSChand / gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization
 * 【2023-10-27】[roberto-butti / some-drops-of-javascript](https://github.com/roberto-butti/some-drops-of-javascript) - This book collects some useful, unknown, underrated JavaScript functions discovered and learned while using JavaScript daily.
@@ -292,6 +299,10 @@
 
 ## Go
 
+* 【2023-10-30】[SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol.
+* 【2023-10-30】[scratchdata / ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
+* 【2023-10-30】[cerbos / cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
+* 【2023-10-30】[golang / tools](https://github.com/golang/tools) - [mirror] Go Tools
 * 【2023-10-25】[aperturerobotics / bifrost](https://github.com/aperturerobotics/bifrost) - Cross-platform p2p daemon and library with pluggable transports and WebAssembly support.
 * 【2023-10-23】[D00Movenok / BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
 * 【2023-10-23】[stealthrocket / coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go
@@ -318,6 +329,7 @@
 
 ## C
 
+* 【2023-10-30】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 * 【2023-10-29】[GaijinEntertainment / daScript](https://github.com/GaijinEntertainment/daScript) - daScript - high-performance statically strong typed scripting language
 * 【2023-10-29】[JHRobotics / patcher9x](https://github.com/JHRobotics/patcher9x) - Patch for Windows 9x to fix CPU issues
 * 【2023-10-28】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
@@ -364,6 +376,7 @@
 
 ## C++
 
+* 【2023-10-30】[Lyall / MGSHDFix](https://github.com/Lyall/MGSHDFix) - A work-in-progress fix that aims to add custom resolutions and ultrawide support to Metal Gear Solid Master Collection.
 * 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
 * 【2023-10-29】[mavlink / mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
 * 【2023-10-28】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
@@ -415,6 +428,8 @@
 
 ## C#
 
+* 【2023-10-30】[MarsQQ / Aimmy](https://github.com/MarsQQ/Aimmy) - Universal Second Eye for Gamers with Impairments
+* 【2023-10-30】[fudiwei / DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) - 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。欢迎 Star / Fork。QQ 交流群 875580418【满】、930461548。
 * 【2023-10-27】[mrdude2478 / IPS_Patch_Creator](https://github.com/mrdude2478/IPS_Patch_Creator) - A PC program to generate IPS Sig patches for the switch.
 * 【2023-10-27】[SebLague / Fluid-Sim](https://github.com/SebLague/Fluid-Sim) - 
 * 【2023-10-27】[knela96 / Dynamic-Parkour-System](https://github.com/knela96/Dynamic-Parkour-System) - Dynamic Parkour System is a FREE plugin for Unity that allows anyone to import any model and have an already working controller with parkour capabilities like in Assassin's Creed games.
@@ -460,6 +475,9 @@
 
 ## Html
 
+* 【2023-10-30】[mowzk / repo-recon](https://github.com/mowzk/repo-recon) - CTF Challenge for Fetch the Flag 2023
+* 【2023-10-30】[unhackableandy / my-other-awesome-site](https://github.com/unhackableandy/my-other-awesome-site) - 
+* 【2023-10-30】[fastlane / docs](https://github.com/fastlane/docs) - All the fastlane docs
 * 【2023-10-29】[i-am-alice / 2nd-devs](https://github.com/i-am-alice/2nd-devs) - 
 * 【2023-10-29】[x-dr / tts](https://github.com/x-dr/tts) - 微软azure文本转语音 音频下载
 * 【2023-10-29】[EAGLECRAFTARCHIVE / EagleCraft-Download](https://github.com/EAGLECRAFTARCHIVE/EagleCraft-Download) - EagleCraft Archived
@@ -604,6 +622,8 @@
 
 ## Unknown
 
+* 【2023-10-30】[vercel / geist-font](https://github.com/vercel/geist-font) - 
+* 【2023-10-30】[brootware / awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 * 【2023-10-29】[gtech-mulearn / Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders) - Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem
 * 【2023-10-29】[P3N-101 / ResourceKit](https://github.com/P3N-101/ResourceKit) - 
 * 【2023-10-29】[Ignitetechnologies / bugbounty](https://github.com/Ignitetechnologies/bugbounty) - 
