@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-10-31】[SidraChain / sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain
+* 【2023-10-31】[OpenSignLabs / OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
+* 【2023-10-31】[witnessmenow / ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
 * 【2023-10-30】[THUDM / ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 * 【2023-10-30】[Las-Fuerzas-Del-Cielo / Sistema-Anti-Fraude-Electoral](https://github.com/Las-Fuerzas-Del-Cielo/Sistema-Anti-Fraude-Electoral) - Sistema Open Source para Identificar potenciales fraudes electorales, minimizar su ocurrencia e impacto.
 * 【2023-10-30】[boxyhq / saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - 🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀
@@ -111,6 +114,9 @@
 
 ## Java
 
+* 【2023-10-31】[GXhunter / rpc-framework](https://github.com/GXhunter/rpc-framework) - 
+* 【2023-10-31】[woowacourse-precourse / java-racingcar-6](https://github.com/woowacourse-precourse/java-racingcar-6) - 
+* 【2023-10-31】[Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an open-source third-party Telegram client with not many but useful mods.
 * 【2023-10-28】[whitechi73 / OpenShamrock](https://github.com/whitechi73/OpenShamrock) - 一个OneBot11标准的机器人框架
 * 【2023-10-27】[ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 * 【2023-10-26】[jar-analyzer / jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer Project
@@ -156,6 +162,11 @@
 
 ## Python
 
+* 【2023-10-31】[pchunduri6 / rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
+* 【2023-10-31】[netlas-io / netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
+* 【2023-10-31】[g1879 / DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
+* 【2023-10-31】[AsahiLinux / m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
+* 【2023-10-31】[OpenMined / PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 * 【2023-10-30】[SkunkworksAI / BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA) - 
 * 【2023-10-29】[amidaware / tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 * 【2023-10-29】[jackhawks / telegram-groups](https://github.com/jackhawks/telegram-groups) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
@@ -299,6 +310,8 @@
 
 ## Go
 
+* 【2023-10-31】[NetEase-Media / easy-ngo](https://github.com/NetEase-Media/easy-ngo) - easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。
+* 【2023-10-31】[vinegarhq / vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 * 【2023-10-30】[SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol.
 * 【2023-10-30】[scratchdata / ScratchDB](https://github.com/scratchdata/ScratchDB) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
 * 【2023-10-30】[cerbos / cerbos](https://github.com/cerbos/cerbos) - Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources.
@@ -329,6 +342,8 @@
 
 ## C
 
+* 【2023-10-31】[netero1010 / GhostTask](https://github.com/netero1010/GhostTask) - 
+* 【2023-10-31】[antirez / smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 * 【2023-10-30】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
 * 【2023-10-29】[GaijinEntertainment / daScript](https://github.com/GaijinEntertainment/daScript) - daScript - high-performance statically strong typed scripting language
 * 【2023-10-29】[JHRobotics / patcher9x](https://github.com/JHRobotics/patcher9x) - Patch for Windows 9x to fix CPU issues
@@ -428,6 +443,8 @@
 
 ## C#
 
+* 【2023-10-31】[Babyhamsta / Aimmy](https://github.com/Babyhamsta/Aimmy) - Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - YOLOv8)
+* 【2023-10-31】[MCCTeam / Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 * 【2023-10-30】[MarsQQ / Aimmy](https://github.com/MarsQQ/Aimmy) - Universal Second Eye for Gamers with Impairments
 * 【2023-10-30】[fudiwei / DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) - 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。欢迎 Star / Fork。QQ 交流群 875580418【满】、930461548。
 * 【2023-10-27】[mrdude2478 / IPS_Patch_Creator](https://github.com/mrdude2478/IPS_Patch_Creator) - A PC program to generate IPS Sig patches for the switch.
@@ -475,6 +492,8 @@
 
 ## Html
 
+* 【2023-10-31】[LouisBear123a / LouisBear123a.github.io](https://github.com/LouisBear123a/LouisBear123a.github.io) - Custom website design
+* 【2023-10-31】[Hellohistory / EbookDatabase](https://github.com/Hellohistory/EbookDatabase) - DX书库网页检索版
 * 【2023-10-30】[mowzk / repo-recon](https://github.com/mowzk/repo-recon) - CTF Challenge for Fetch the Flag 2023
 * 【2023-10-30】[unhackableandy / my-other-awesome-site](https://github.com/unhackableandy/my-other-awesome-site) - 
 * 【2023-10-30】[fastlane / docs](https://github.com/fastlane/docs) - All the fastlane docs
@@ -542,6 +561,9 @@
 
 ## Css
 
+* 【2023-10-31】[awerem / awerem-computer](https://github.com/awerem/awerem-computer) - Computer part of awerem-project
+* 【2023-10-31】[jsakamoto / Toolbelt.Blazor.ViewTransition](https://github.com/jsakamoto/Toolbelt.Blazor.ViewTransition) - A router component and a service that makes your Blazor apps have pretty animated transition effects between pages with the View Transitions API.
+* 【2023-10-31】[Chalarangelo / 30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
 * 【2023-10-29】[toriekimFSA / Flex.Demo.GroceryList](https://github.com/toriekimFSA/Flex.Demo.GroceryList) - 
 * 【2023-10-29】[Kalvium-Program / zombie-shoot-boilerplate](https://github.com/Kalvium-Program/zombie-shoot-boilerplate) - 
 * 【2023-10-29】[RandolphDR / Randolph-Flowers](https://github.com/RandolphDR/Randolph-Flowers) - Code not mine copyright only for educational purposes!
@@ -622,6 +644,10 @@
 
 ## Unknown
 
+* 【2023-10-31】[IAmStoxe / wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
+* 【2023-10-31】[ErickWendel / javascript-expert-developer-roadmap](https://github.com/ErickWendel/javascript-expert-developer-roadmap) - 
+* 【2023-10-31】[MaazArfi / Custom-Intent.createChooser-Android](https://github.com/MaazArfi/Custom-Intent.createChooser-Android) - A library that lets you display your choice of app in Intent without any restriction above Android N partially written in Java, Kotlin, C++, Cmake
+* 【2023-10-31】[Discord-Client-Encyclopedia-Management / Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A non-exhaustive collection of third-party clients and mods for Discord.
 * 【2023-10-30】[vercel / geist-font](https://github.com/vercel/geist-font) - 
 * 【2023-10-30】[brootware / awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) - 🎓 Because Education should be free. Contributions welcome! 🕵️
 * 【2023-10-29】[gtech-mulearn / Top-100-Coders](https://github.com/gtech-mulearn/Top-100-Coders) - Kerala Top 100 Coders - Huddle Global 2023. Join our coding challenge and showcase your skills. Connect with startups and industries in Kerala's vibrant tech ecosystem
