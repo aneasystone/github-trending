@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-11-01】[cisagov / LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.
+* 【2023-11-01】[skiptools / skip](https://github.com/skiptools/skip) - Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps
+* 【2023-11-01】[rust-unofficial / awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 * 【2023-10-31】[SidraChain / sidra-contracts](https://github.com/SidraChain/sidra-contracts) - Genesis Smart Contracts for Sidra Chain
 * 【2023-10-31】[OpenSignLabs / OpenSign](https://github.com/OpenSignLabs/OpenSign) - The free & Open Source Alternative to DocuSign
 * 【2023-10-31】[witnessmenow / ESP32-Cheap-Yellow-Display](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display) - Building a community around a cheap ESP32 Display with a touch screen
@@ -162,6 +165,8 @@
 
 ## Python
 
+* 【2023-11-01】[CycodeLabs / raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
+* 【2023-11-01】[nasa-petal / discord_bot](https://github.com/nasa-petal/discord_bot) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
 * 【2023-10-31】[pchunduri6 / rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
 * 【2023-10-31】[netlas-io / netlas-cookbook](https://github.com/netlas-io/netlas-cookbook) - The goal of this guide is very simple - to teach anyone interested in cyber security, regardless of their knowledge level, how to make the most of Netlas.io.
 * 【2023-10-31】[g1879 / DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
@@ -254,6 +259,10 @@
 
 ## Javascript
 
+* 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
+* 【2023-11-01】[drHyperion451 / does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
+* 【2023-11-01】[browserless / browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
+* 【2023-11-01】[elnardu / react-use-c](https://github.com/elnardu/react-use-c) - Use C in your React!
 * 【2023-10-30】[sseezov / l5-validator-test-v2](https://github.com/sseezov/l5-validator-test-v2) - Аналог аттестационного проекта для 2 курса 1 семестра в Хекслет колледж
 * 【2023-10-28】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 * 【2023-10-27】[RahulSChand / gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization
@@ -310,6 +319,9 @@
 
 ## Go
 
+* 【2023-11-01】[rsc / unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
+* 【2023-11-01】[treeverse / lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
+* 【2023-11-01】[celestiaorg / celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
 * 【2023-10-31】[NetEase-Media / easy-ngo](https://github.com/NetEase-Media/easy-ngo) - easy-ngo是由网易传媒开发的基于Go语言的开发工具包，基于easy-ngo工具包，开发者可以快速构建高可用、大并发的应用。
 * 【2023-10-31】[vinegarhq / vinegar](https://github.com/vinegarhq/vinegar) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
 * 【2023-10-30】[SidraChain / go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol.
@@ -342,6 +354,7 @@
 
 ## C
 
+* 【2023-11-01】[blasty / unwyze](https://github.com/blasty/unwyze) - 
 * 【2023-10-31】[netero1010 / GhostTask](https://github.com/netero1010/GhostTask) - 
 * 【2023-10-31】[antirez / smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
 * 【2023-10-30】[dune3d / dune3d](https://github.com/dune3d/dune3d) - 3D CAD application
@@ -391,6 +404,9 @@
 
 ## C++
 
+* 【2023-11-01】[Rahiche / riveo_page_curl](https://github.com/Rahiche/riveo_page_curl) - Riveo page curl effect in flutter
+* 【2023-11-01】[luau-lang / luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
+* 【2023-11-01】[myzxcg / RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
 * 【2023-10-30】[Lyall / MGSHDFix](https://github.com/Lyall/MGSHDFix) - A work-in-progress fix that aims to add custom resolutions and ultrawide support to Metal Gear Solid Master Collection.
 * 【2023-10-29】[halpz / re3](https://github.com/halpz/re3) - 
 * 【2023-10-29】[mavlink / mavros](https://github.com/mavlink/mavros) - MAVLink to ROS gateway with proxy for Ground Control Station
@@ -492,6 +508,7 @@
 
 ## Html
 
+* 【2023-11-01】[w3c / webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video.
 * 【2023-10-31】[LouisBear123a / LouisBear123a.github.io](https://github.com/LouisBear123a/LouisBear123a.github.io) - Custom website design
 * 【2023-10-31】[Hellohistory / EbookDatabase](https://github.com/Hellohistory/EbookDatabase) - DX书库网页检索版
 * 【2023-10-30】[mowzk / repo-recon](https://github.com/mowzk/repo-recon) - CTF Challenge for Fetch the Flag 2023
@@ -561,6 +578,8 @@
 
 ## Css
 
+* 【2023-11-01】[GDSCxGMIT / Giting-LinkedIn](https://github.com/GDSCxGMIT/Giting-LinkedIn) - Portfolio Website Template
+* 【2023-11-01】[honojs / website](https://github.com/honojs/website) - Repository for hono.dev
 * 【2023-10-31】[awerem / awerem-computer](https://github.com/awerem/awerem-computer) - Computer part of awerem-project
 * 【2023-10-31】[jsakamoto / Toolbelt.Blazor.ViewTransition](https://github.com/jsakamoto/Toolbelt.Blazor.ViewTransition) - A router component and a service that makes your Blazor apps have pretty animated transition effects between pages with the View Transitions API.
 * 【2023-10-31】[Chalarangelo / 30-seconds-of-css](https://github.com/Chalarangelo/30-seconds-of-css) - Short CSS code snippets for all your development needs
@@ -644,6 +663,8 @@
 
 ## Unknown
 
+* 【2023-11-01】[georgezouq / awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+* 【2023-11-01】[KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação.
 * 【2023-10-31】[IAmStoxe / wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
 * 【2023-10-31】[ErickWendel / javascript-expert-developer-roadmap](https://github.com/ErickWendel/javascript-expert-developer-roadmap) - 
 * 【2023-10-31】[MaazArfi / Custom-Intent.createChooser-Android](https://github.com/MaazArfi/Custom-Intent.createChooser-Android) - A library that lets you display your choice of app in Intent without any restriction above Android N partially written in Java, Kotlin, C++, Cmake
