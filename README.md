@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-11-02】[php-youtubers / directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
+* 【2023-11-02】[Azure / MS-AMP](https://github.com/Azure/MS-AMP) - Microsoft Automatic Mixed Precision Library
 * 【2023-11-01】[cisagov / LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.
 * 【2023-11-01】[skiptools / skip](https://github.com/skiptools/skip) - Skip transpiler for converting SwiftUI iOS apps into Android Kotlin Compose apps
 * 【2023-11-01】[rust-unofficial / awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -165,6 +167,8 @@
 
 ## Python
 
+* 【2023-11-02】[SkyworkAI / Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
+* 【2023-11-02】[pathwaycom / llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
 * 【2023-11-01】[CycodeLabs / raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
 * 【2023-11-01】[nasa-petal / discord_bot](https://github.com/nasa-petal/discord_bot) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
 * 【2023-10-31】[pchunduri6 / rag-demystified](https://github.com/pchunduri6/rag-demystified) - An LLM-powered advanced RAG pipeline built from scratch
@@ -319,6 +323,7 @@
 
 ## Go
 
+* 【2023-11-02】[theRank / chinese-holidays-calendar](https://github.com/theRank/chinese-holidays-calendar) - Calendar of Public Holidays in China & Automatic Alarm Clock 中国大陆节假日安排 日历订阅 自动节假日闹钟
 * 【2023-11-01】[rsc / unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
 * 【2023-11-01】[treeverse / lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
 * 【2023-11-01】[celestiaorg / celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes
@@ -354,6 +359,8 @@
 
 ## C
 
+* 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
+* 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 * 【2023-11-01】[blasty / unwyze](https://github.com/blasty/unwyze) - 
 * 【2023-10-31】[netero1010 / GhostTask](https://github.com/netero1010/GhostTask) - 
 * 【2023-10-31】[antirez / smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server
@@ -404,6 +411,8 @@
 
 ## C++
 
+* 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
+* 【2023-11-02】[intel / intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 * 【2023-11-01】[Rahiche / riveo_page_curl](https://github.com/Rahiche/riveo_page_curl) - Riveo page curl effect in flutter
 * 【2023-11-01】[luau-lang / luau](https://github.com/luau-lang/luau) - A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 * 【2023-11-01】[myzxcg / RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR) - Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...
@@ -508,6 +517,7 @@
 
 ## Html
 
+* 【2023-11-02】[lwinmoepaing / html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - 
 * 【2023-11-01】[w3c / webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video.
 * 【2023-10-31】[LouisBear123a / LouisBear123a.github.io](https://github.com/LouisBear123a/LouisBear123a.github.io) - Custom website design
 * 【2023-10-31】[Hellohistory / EbookDatabase](https://github.com/Hellohistory/EbookDatabase) - DX书库网页检索版
@@ -663,6 +673,10 @@
 
 ## Unknown
 
+* 【2023-11-02】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
+* 【2023-11-02】[afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
+* 【2023-11-02】[karanwxliaa / Research-for-UG-Students](https://github.com/karanwxliaa/Research-for-UG-Students) - Research programs for Undergraduate students
+* 【2023-11-02】[Mwaseemzakir / Learn-Dot-Net](https://github.com/Mwaseemzakir/Learn-Dot-Net) - This repository contains list of all books for DotNet Developers
 * 【2023-11-01】[georgezouq / awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 * 【2023-11-01】[KAYOKG / BibliotecaDev](https://github.com/KAYOKG/BibliotecaDev) - 📚 Biblioteca de livros essenciais da área da programação.
 * 【2023-10-31】[IAmStoxe / wirehole](https://github.com/IAmStoxe/wirehole) - WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.
