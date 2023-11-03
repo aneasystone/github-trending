@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-11-03】[huggingface / distil-whisper](https://github.com/huggingface/distil-whisper) - 
+* 【2023-11-03】[public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
+* 【2023-11-03】[jeycaarce / flowers](https://github.com/jeycaarce/flowers) - 
+* 【2023-11-03】[AILab-CVC / VideoCrafter](https://github.com/AILab-CVC/VideoCrafter) - VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
 * 【2023-11-02】[php-youtubers / directory](https://github.com/php-youtubers/directory) - Curated a list of PHP YouTubers. 📋
 * 【2023-11-02】[Azure / MS-AMP](https://github.com/Azure/MS-AMP) - Microsoft Automatic Mixed Precision Library
 * 【2023-11-01】[cisagov / LME](https://github.com/cisagov/LME) - Logging Made Easy (LME) is a free and open logging and protective monitoring solution serving all organizations.
@@ -119,6 +123,9 @@
 
 ## Java
 
+* 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
+* 【2023-11-03】[saraSakuHj / HyperCeiler](https://github.com/saraSakuHj/HyperCeiler) - Make HyperOS Great Again!
+* 【2023-11-03】[cybertheye / evolution-from-netty-to-springboot](https://github.com/cybertheye/evolution-from-netty-to-springboot) - 学习开源项目，模拟实现netty，tomcat，springmvc，springboot等核心功能。可以作为提升编码能力的实践项目。欢迎各位一起参与，提交代码，相互学习
 * 【2023-10-31】[GXhunter / rpc-framework](https://github.com/GXhunter/rpc-framework) - 
 * 【2023-10-31】[woowacourse-precourse / java-racingcar-6](https://github.com/woowacourse-precourse/java-racingcar-6) - 
 * 【2023-10-31】[Nekogram / Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an open-source third-party Telegram client with not many but useful mods.
@@ -167,6 +174,7 @@
 
 ## Python
 
+* 【2023-11-03】[safevideo / autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 * 【2023-11-02】[SkyworkAI / Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
 * 【2023-11-02】[pathwaycom / llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
 * 【2023-11-01】[CycodeLabs / raven](https://github.com/CycodeLabs/raven) - RAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD)
@@ -263,6 +271,7 @@
 
 ## Javascript
 
+* 【2023-11-03】[ddupont808 / GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
 * 【2023-11-01】[drHyperion451 / does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
 * 【2023-11-01】[browserless / browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
@@ -359,6 +368,8 @@
 
 ## C
 
+* 【2023-11-03】[ElliotKillick / LdrLockLiberator](https://github.com/ElliotKillick/LdrLockLiberator) - For when DLLMain is the only way
+* 【2023-11-03】[cozis / microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack
 * 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
 * 【2023-11-02】[c-ares / c-ares](https://github.com/c-ares/c-ares) - A C library for asynchronous DNS requests
 * 【2023-11-01】[blasty / unwyze](https://github.com/blasty/unwyze) - 
@@ -411,6 +422,8 @@
 
 ## C++
 
+* 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
+* 【2023-11-03】[myhhub / qtPluginApp](https://github.com/myhhub/qtPluginApp) - Qt Plugin.QT插件框架
 * 【2023-11-02】[ckcr4lyf / EvilAppleJuice-ESP32](https://github.com/ckcr4lyf/EvilAppleJuice-ESP32) - Spam Apple Proximity Messages via an ESP32
 * 【2023-11-02】[intel / intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) - ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 * 【2023-11-01】[Rahiche / riveo_page_curl](https://github.com/Rahiche/riveo_page_curl) - Riveo page curl effect in flutter
@@ -468,6 +481,7 @@
 
 ## C#
 
+* 【2023-11-03】[smccloud / pfSense-to-OPNSense-Config-File-Converter](https://github.com/smccloud/pfSense-to-OPNSense-Config-File-Converter) - 
 * 【2023-10-31】[Babyhamsta / Aimmy](https://github.com/Babyhamsta/Aimmy) - Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - YOLOv8)
 * 【2023-10-31】[MCCTeam / Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 * 【2023-10-30】[MarsQQ / Aimmy](https://github.com/MarsQQ/Aimmy) - Universal Second Eye for Gamers with Impairments
@@ -588,6 +602,9 @@
 
 ## Css
 
+* 【2023-11-03】[team-s2 / ACTF-2023](https://github.com/team-s2/ACTF-2023) - Archive of AAA CTF 2023 (XCTF competition)
+* 【2023-11-03】[WalletConnect / walletconnect-docs](https://github.com/WalletConnect/walletconnect-docs) - WalletConnect Documentation
+* 【2023-11-03】[AroriaNetwork / GoGuardian-Bypass](https://github.com/AroriaNetwork/GoGuardian-Bypass) - The GoGuardian Bypass is a simple script that allows you to access blocked websites on your school's network. The script generates an iframe that displays the blocked content without being detected by the GoGuardian filter, allowing you to bypass restrictions and access the content you need. Join our discord: https://discord.gg/8ABatmss76
 * 【2023-11-01】[GDSCxGMIT / Giting-LinkedIn](https://github.com/GDSCxGMIT/Giting-LinkedIn) - Portfolio Website Template
 * 【2023-11-01】[honojs / website](https://github.com/honojs/website) - Repository for hono.dev
 * 【2023-10-31】[awerem / awerem-computer](https://github.com/awerem/awerem-computer) - Computer part of awerem-project
