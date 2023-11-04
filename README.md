@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-11-04】[zzzgydi / clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+* 【2023-11-04】[microsoft / generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+* 【2023-11-04】[evilsocket / legba](https://github.com/evilsocket/legba) - A multiprotocol credentials bruteforcer / password sprayer and enumerator.
+* 【2023-11-04】[radames / Real-Time-Latent-Consistency-Model](https://github.com/radames/Real-Time-Latent-Consistency-Model) - Demo showcasing ~real-time Latent Consistency Model pipeline with Diffusers and a MJPEG stream server
+* 【2023-11-04】[Vaibhavs10 / insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 * 【2023-11-03】[huggingface / distil-whisper](https://github.com/huggingface/distil-whisper) - 
 * 【2023-11-03】[public-apis-dev / public-apis](https://github.com/public-apis-dev/public-apis) - A collaborative list of public APIs for developers
 * 【2023-11-03】[jeycaarce / flowers](https://github.com/jeycaarce/flowers) - 
@@ -174,6 +179,9 @@
 
 ## Python
 
+* 【2023-11-04】[RekhuGopal / PythonHacks](https://github.com/RekhuGopal/PythonHacks) - This repo contains some solved python hacker codes
+* 【2023-11-04】[vivo-ai-lab / BlueLM](https://github.com/vivo-ai-lab/BlueLM) - BlueLM(蓝心大模型): Open large language models developed by vivo AI Lab
+* 【2023-11-04】[PromptEngineer48 / MemGPT-AutoGEN-LLM](https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM) - Run MemGPT-AutoGEN-Local LLM Together
 * 【2023-11-03】[safevideo / autollm](https://github.com/safevideo/autollm) - Ship RAG based LLM web apps in seconds.
 * 【2023-11-02】[SkyworkAI / Skywork](https://github.com/SkyworkAI/Skywork) - Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc. 天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
 * 【2023-11-02】[pathwaycom / llm-app](https://github.com/pathwaycom/llm-app) - LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines.
@@ -271,6 +279,7 @@
 
 ## Javascript
 
+* 【2023-11-04】[pinokiocomputer / pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 * 【2023-11-03】[ddupont808 / GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 * 【2023-11-01】[xnl-h4ck3r / XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal) - A Chrome/Firefox browser extension to show alerts for relfected query params, show hidden elements and enable disabled elements.
 * 【2023-11-01】[drHyperion451 / does-uBO-bypass-yt](https://github.com/drHyperion451/does-uBO-bypass-yt) - Are YouTube ads blocked by Ublock? This website will tell you so!
@@ -332,6 +341,9 @@
 
 ## Go
 
+* 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
+* 【2023-11-04】[X1r0z / ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言
+* 【2023-11-04】[gofr-dev / gofr](https://github.com/gofr-dev/gofr) - An opinionated Go framework for accelerated microservice development
 * 【2023-11-02】[theRank / chinese-holidays-calendar](https://github.com/theRank/chinese-holidays-calendar) - Calendar of Public Holidays in China & Automatic Alarm Clock 中国大陆节假日安排 日历订阅 自动节假日闹钟
 * 【2023-11-01】[rsc / unix](https://github.com/rsc/unix) - Old Unix programs running on modern computers.
 * 【2023-11-01】[treeverse / lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
@@ -368,6 +380,8 @@
 
 ## C
 
+* 【2023-11-04】[s0lst1c3 / eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+* 【2023-11-04】[Manawyrm / nvme-int13h-optionrom](https://github.com/Manawyrm/nvme-int13h-optionrom) - Option ROM to boot x86 PCs from NVMe drives (legacy BIOS, INT 13h)
 * 【2023-11-03】[ElliotKillick / LdrLockLiberator](https://github.com/ElliotKillick/LdrLockLiberator) - For when DLLMain is the only way
 * 【2023-11-03】[cozis / microtcp](https://github.com/cozis/microtcp) - A minimal TCP/IP stack
 * 【2023-11-02】[libfuse / sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers
@@ -481,6 +495,10 @@
 
 ## C#
 
+* 【2023-11-04】[microsoft / CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - Copilot coding adventures
+* 【2023-11-04】[Xenomega / EchoRelay](https://github.com/Xenomega/EchoRelay) - A proof-of-concept reimplementation of Echo VR's web services and dedicated game servers
+* 【2023-11-04】[Yu-Core / SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用MAUI Blazor 构建。"SwashbucklerDiary" is an open source cross-platform local diary app using MAUI Blazor .
+* 【2023-11-04】[roflmuffin / CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2
 * 【2023-11-03】[smccloud / pfSense-to-OPNSense-Config-File-Converter](https://github.com/smccloud/pfSense-to-OPNSense-Config-File-Converter) - 
 * 【2023-10-31】[Babyhamsta / Aimmy](https://github.com/Babyhamsta/Aimmy) - Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - YOLOv8)
 * 【2023-10-31】[MCCTeam / Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
@@ -531,6 +549,8 @@
 
 ## Html
 
+* 【2023-11-04】[wowchemy / wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
+* 【2023-11-04】[Kaldek / rat-ratgdo](https://github.com/Kaldek/rat-ratgdo) - Open source schematics for ratgdo PCB
 * 【2023-11-02】[lwinmoepaing / html-and-css-beginner-to-super-beginner-ebook](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - 
 * 【2023-11-01】[w3c / webcodecs](https://github.com/w3c/webcodecs) - WebCodecs is a flexible web API for encoding and decoding audio and video.
 * 【2023-10-31】[LouisBear123a / LouisBear123a.github.io](https://github.com/LouisBear123a/LouisBear123a.github.io) - Custom website design
@@ -602,6 +622,7 @@
 
 ## Css
 
+* 【2023-11-04】[digitalinnovationone / js-yugioh-assets](https://github.com/digitalinnovationone/js-yugioh-assets) - 
 * 【2023-11-03】[team-s2 / ACTF-2023](https://github.com/team-s2/ACTF-2023) - Archive of AAA CTF 2023 (XCTF competition)
 * 【2023-11-03】[WalletConnect / walletconnect-docs](https://github.com/WalletConnect/walletconnect-docs) - WalletConnect Documentation
 * 【2023-11-03】[AroriaNetwork / GoGuardian-Bypass](https://github.com/AroriaNetwork/GoGuardian-Bypass) - The GoGuardian Bypass is a simple script that allows you to access blocked websites on your school's network. The script generates an iframe that displays the blocked content without being detected by the GoGuardian filter, allowing you to bypass restrictions and access the content you need. Join our discord: https://discord.gg/8ABatmss76
@@ -690,6 +711,10 @@
 
 ## Unknown
 
+* 【2023-11-04】[tjunlp-lab / Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) - The papers are organized according to our survey: Evaluating Large Language Models: A Comprehensive Survey.
+* 【2023-11-04】[xsudoxx / OSCP](https://github.com/xsudoxx/OSCP) - 
+* 【2023-11-04】[yonggekkk / sing-box-yg](https://github.com/yonggekkk/sing-box-yg) - Sing-box精装桶四协议共存一键脚本【Vless-reality、Vmess-ws(tls)、Hysteria2、Tuic-v5】：支持Argo隧道、IP优选级切换、双证书切换、多端口跳跃，自定义域名分流。显示分享链接、二维码，Clash-Meta配置，输出配置通吃SFA/SFI/SFW客户端
+* 【2023-11-04】[ebrahimpichka / awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization) - A curated list of awesome mathematical optimization courses, lectures, books, notes, libraries, frameworks and software.
 * 【2023-11-02】[artichokeee / test-assignments](https://github.com/artichokeee/test-assignments) - Список тестовых заданий для ручных тестировщиков и автоматизаторов
 * 【2023-11-02】[afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 * 【2023-11-02】[karanwxliaa / Research-for-UG-Students](https://github.com/karanwxliaa/Research-for-UG-Students) - Research programs for Undergraduate students
