@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
+* 【2023-11-06】[girafe-ai / ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
+* 【2023-11-06】[chronark / highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
+* 【2023-11-06】[Ieooo / clash](https://github.com/Ieooo/clash) - fork from clash
 * 【2023-11-05】[bensadeh / tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 * 【2023-11-05】[MatsuriDayo / NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 * 【2023-11-05】[simondankelmann / Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) - 
@@ -31,6 +35,7 @@
 
 ## Java
 
+* 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
 * 【2023-11-05】[woowacourse-precourse / java-lotto-6](https://github.com/woowacourse-precourse/java-lotto-6) - 
 * 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
 * 【2023-11-03】[saraSakuHj / HyperCeiler](https://github.com/saraSakuHj/HyperCeiler) - Make HyperOS Great Again!
@@ -38,6 +43,10 @@
 
 ## Python
 
+* 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
+* 【2023-11-06】[vveg26 / chromego_merge](https://github.com/vveg26/chromego_merge) - 免费节点
+* 【2023-11-06】[jxnl / instructor](https://github.com/jxnl/instructor) - openai function calls for humans
+* 【2023-11-06】[microsoft / CodeT](https://github.com/microsoft/CodeT) - 
 * 【2023-11-05】[spack / spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 * 【2023-11-05】[tigerlab-ai / tiger](https://github.com/tigerlab-ai/tiger) - Open Source LLM toolkit to build LLM applications. TigerRag (embedding, RAG), TigerTune (fine-tuning), TigerArmor (AI safety)
 * 【2023-11-05】[LorenEteval / Furious](https://github.com/LorenEteval/Furious) - A PySide6-based cross platform GUI client that launches your beloved GFW to outer space. Support Xray-core and hysteria.
@@ -55,6 +64,8 @@
 
 ## Javascript
 
+* 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
+* 【2023-11-06】[Z-Siqi / CFW-custom-made](https://github.com/Z-Siqi/CFW-custom-made) - Clash for Windows 机场专用版, 提供移除广告, 自定义广告, 移除更新版本
 * 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
 * 【2023-11-05】[eslint-stylistic / eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 * 【2023-11-05】[woowacourse-precourse / javascript-lotto-6](https://github.com/woowacourse-precourse/javascript-lotto-6) - 
@@ -69,6 +80,7 @@
 
 ## Go
 
+* 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
 * 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
 * 【2023-11-04】[X1r0z / ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具, 基于 Go 语言
@@ -80,6 +92,7 @@
 
 ## C
 
+* 【2023-11-06】[MicroLua / MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 microcontroller
 * 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 * 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
 * 【2023-11-04】[s0lst1c3 / eaphammer](https://github.com/s0lst1c3/eaphammer) - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
@@ -92,6 +105,7 @@
 
 ## C++
 
+* 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 * 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
 * 【2023-11-05】[mmp / pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
 * 【2023-11-03】[rwengine / openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
@@ -104,6 +118,7 @@
 
 ## C#
 
+* 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
 * 【2023-11-05】[4sval / FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
 * 【2023-11-04】[microsoft / CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - Copilot coding adventures
 * 【2023-11-04】[Xenomega / EchoRelay](https://github.com/Xenomega/EchoRelay) - A proof-of-concept reimplementation of Echo VR's web services and dedicated game servers
@@ -113,6 +128,8 @@
 
 ## Html
 
+* 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
+* 【2023-11-06】[datacontract / datacontract-specification](https://github.com/datacontract/datacontract-specification) - The Data Contract Specification Repository
 * 【2023-11-05】[kevin-powell / css-parallax](https://github.com/kevin-powell/css-parallax) - 
 * 【2023-11-04】[wowchemy / wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 * 【2023-11-04】[Kaldek / rat-ratgdo](https://github.com/Kaldek/rat-ratgdo) - Open source schematics for ratgdo PCB
@@ -133,6 +150,12 @@
 
 ## Unknown
 
+* 【2023-11-06】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
+* 【2023-11-06】[EAimTY / tuic](https://github.com/EAimTY/tuic) - 
+* 【2023-11-06】[AndrewStetsenko / tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
+* 【2023-11-06】[cfwtf / clash_for_windows](https://github.com/cfwtf/clash_for_windows) - Fndroid/clash_for_windows_pkg/releases 最后备份文件
+* 【2023-11-06】[cfwbackup / clash_for_windows_pkg_backup](https://github.com/cfwbackup/clash_for_windows_pkg_backup) - Clash for Windows 最后版本安装包备份
+* 【2023-11-06】[Z-Siqi / Clash-for-Windows_Rule](https://github.com/Z-Siqi/Clash-for-Windows_Rule) - Clash流媒体等策略组规则整合. Clash proxy rules. Make a website/media be proxied by a specific country server.
 * 【2023-11-05】[githubvpn007 / Clash-for-Windows](https://github.com/githubvpn007/Clash-for-Windows) - Clash for Windows使用教程，Clash-for-Windows配置，Clash-for-Windows说明，Clash-for-Windows
 * 【2023-11-05】[tinkerhub / stackup-teamplate](https://github.com/tinkerhub/stackup-teamplate) - 
 * 【2023-11-05】[stickfigure / blog](https://github.com/stickfigure/blog) - Jeff Schnitzer's Blog
