@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-11-07】[TheChance101 / beep-beep](https://github.com/TheChance101/beep-beep) - 
+* 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
+* 【2023-11-07】[openwrt / packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 * 【2023-11-06】[Kuingsmile / clash-core](https://github.com/Kuingsmile/clash-core) - backup of clash core
 * 【2023-11-06】[girafe-ai / ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
 * 【2023-11-06】[chronark / highstorm](https://github.com/chronark/highstorm) - Open Source Event Monitoring
@@ -35,6 +38,7 @@
 
 ## Java
 
+* 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
 * 【2023-11-05】[woowacourse-precourse / java-lotto-6](https://github.com/woowacourse-precourse/java-lotto-6) - 
 * 【2023-11-03】[eugene-khyst / postgresql-event-sourcing](https://github.com/eugene-khyst/postgresql-event-sourcing) - A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how everything works together.
@@ -43,6 +47,9 @@
 
 ## Python
 
+* 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
+* 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
+* 【2023-11-07】[kivy / python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 * 【2023-11-06】[deepseek-ai / DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 * 【2023-11-06】[vveg26 / chromego_merge](https://github.com/vveg26/chromego_merge) - 免费节点
 * 【2023-11-06】[jxnl / instructor](https://github.com/jxnl/instructor) - openai function calls for humans
@@ -64,6 +71,10 @@
 
 ## Javascript
 
+* 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
+* 【2023-11-07】[koodo-reader / koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+* 【2023-11-07】[USTC-Hackergame / hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - 中国科学技术大学第十届信息安全大赛的官方与非官方题解
+* 【2023-11-07】[elrebelde21 / NovaBot-MD](https://github.com/elrebelde21/NovaBot-MD) - ʜᴏʟᴀ 👋 ʙɪᴇɴᴠᴇɴɪᴅᴏ 💫 ᴀʟ ʀᴇᴘᴏsɪᴛᴏʀɪᴏ ᴏғɪᴄɪᴀʟ ᴅᴇʟ ɴᴏᴠᴀʙᴏᴛ-ᴍᴅ, ᴇs ᴜɴ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ ғᴜɴᴄɪᴏɴᴀʟ ᴄᴏɴ ʟᴀ ᴠᴇʀsɪᴏɴ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ, ᴀǫᴜɪ sᴇ ʀᴇᴀʟɪᴢᴀʀᴀɴ ᴀᴄᴛᴜʟɪᴢᴀᴄɪᴏɴᴇs, sɪ ᴛᴇ ᴀɢʀᴀᴅᴀ ᴇʟ ʙᴏᴛ ᴍᴇ ᴘᴜᴇᴅᴇ ʀᴇɢᴀʟᴀs ᴜɴᴀ 🌟?, ᴇsᴘᴇʀᴏ ᴛᴇ ɢᴜsᴛᴇ 🤗
 * 【2023-11-06】[flybywiresim / aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
 * 【2023-11-06】[Z-Siqi / CFW-custom-made](https://github.com/Z-Siqi/CFW-custom-made) - Clash for Windows 机场专用版, 提供移除广告, 自定义广告, 移除更新版本
 * 【2023-11-05】[codrops / SlideshowAnimations](https://github.com/codrops/SlideshowAnimations) - A collection of ideas for slideshow animations.
@@ -80,6 +91,7 @@
 
 ## Go
 
+* 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
 * 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
 * 【2023-11-04】[shortlink-org / shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example)
@@ -128,6 +140,8 @@
 
 ## Html
 
+* 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
+* 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
 * 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
 * 【2023-11-06】[datacontract / datacontract-specification](https://github.com/datacontract/datacontract-specification) - The Data Contract Specification Repository
 * 【2023-11-05】[kevin-powell / css-parallax](https://github.com/kevin-powell/css-parallax) - 
@@ -138,6 +152,7 @@
 
 ## Css
 
+* 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
 * 【2023-11-05】[altoliaw3 / 112-1HW2](https://github.com/altoliaw3/112-1HW2) - 
 * 【2023-11-05】[Ctoic / CalHub](https://github.com/Ctoic/CalHub) - The "Calculator" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.
 * 【2023-11-05】[epicentre-msf / beeR](https://github.com/epicentre-msf/beeR) - 
@@ -150,6 +165,11 @@
 
 ## Unknown
 
+* 【2023-11-07】[ritchieng / the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+* 【2023-11-07】[0x4D31 / awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
+* 【2023-11-07】[Semporia / Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro 自用节点订阅、分流规则、参考配置
+* 【2023-11-07】[DustinWin / clash-tutorials](https://github.com/DustinWin/clash-tutorials) - Clash 教程合集——安装、配置、自定义规则
+* 【2023-11-07】[OBenner / data-engineering-interview-questions](https://github.com/OBenner/data-engineering-interview-questions) - More than 2000+ Data engineer interview questions.
 * 【2023-11-06】[DustinWin / clash-tools](https://github.com/DustinWin/clash-tools) - 自动同步 Clash Premium 内核、Clash.Meta 内核、Clash dashboard 面板和 AdGuardHome 最新版
 * 【2023-11-06】[EAimTY / tuic](https://github.com/EAimTY/tuic) - 
 * 【2023-11-06】[AndrewStetsenko / tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation) - All-in-one guide to getting a tech job abroad 🌎
