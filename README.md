@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-11-08】[01-ai / Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
+* 【2023-11-08】[leerob / nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) - An email client built with the Next.js App Router and Postgres as the database.
+* 【2023-11-08】[EvilAnne / lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
+* 【2023-11-08】[LayerZero-Labs / LayerZero](https://github.com/LayerZero-Labs/LayerZero) - An Omnichain Interoperability Protocol
+* 【2023-11-08】[AnsonZnl / RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide) - 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
 * 【2023-11-07】[TheChance101 / beep-beep](https://github.com/TheChance101/beep-beep) - 
 * 【2023-11-07】[milanm / DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) - The comprehensive .NET Developer Roadmap by seniority level.
 * 【2023-11-07】[openwrt / packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -38,6 +43,7 @@
 
 ## Java
 
+* 【2023-11-08】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 * 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
 * 【2023-11-05】[woowacourse-precourse / java-lotto-6](https://github.com/woowacourse-precourse/java-lotto-6) - 
@@ -47,6 +53,10 @@
 
 ## Python
 
+* 【2023-11-08】[kylesargent / ZeroNVS](https://github.com/kylesargent/ZeroNVS) - 
+* 【2023-11-08】[Genesis-Embodied-AI / RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
+* 【2023-11-08】[thuml / iTransformer](https://github.com/thuml/iTransformer) - This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".
+* 【2023-11-08】[KoeAI / LLVC](https://github.com/KoeAI/LLVC) - 
 * 【2023-11-07】[MorvanZhou / Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) - Simple Reinforcement learning tutorials, 莫烦Python 中文AI教学
 * 【2023-11-07】[yihong0618 / tg_bing_dalle](https://github.com/yihong0618/tg_bing_dalle) - Telegram bing bot DALL-E 3
 * 【2023-11-07】[kivy / python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
@@ -71,6 +81,9 @@
 
 ## Javascript
 
+* 【2023-11-08】[hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend) - A video series on chai aur code youtube channel
+* 【2023-11-08】[XaviaTeam / facebook-bot-chatgpt](https://github.com/XaviaTeam/facebook-bot-chatgpt) - 
+* 【2023-11-08】[rolling-scopes-school / core-js-numbers](https://github.com/rolling-scopes-school/core-js-numbers) - 
 * 【2023-11-07】[pat-jj / TextbookKG](https://github.com/pat-jj/TextbookKG) - TxBKG - Knowledge Graph Generation for Any PDFs
 * 【2023-11-07】[koodo-reader / koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 * 【2023-11-07】[USTC-Hackergame / hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - 中国科学技术大学第十届信息安全大赛的官方与非官方题解
@@ -104,6 +117,10 @@
 
 ## C
 
+* 【2023-11-08】[Nero22k / cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) - Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver
+* 【2023-11-08】[elFarto / nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
+* 【2023-11-08】[sudo-project / sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
+* 【2023-11-08】[go-gl / glfw](https://github.com/go-gl/glfw) - Go bindings for GLFW 3
 * 【2023-11-06】[MicroLua / MicroLua](https://github.com/MicroLua/MicroLua) - Lua for the RP2040 microcontroller
 * 【2023-11-05】[ibireme / yyjson](https://github.com/ibireme/yyjson) - The fastest JSON library in C
 * 【2023-11-05】[libbpf / libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap) - Scaffolding for BPF application development with libbpf and BPF CO-RE
@@ -117,6 +134,8 @@
 
 ## C++
 
+* 【2023-11-08】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
+* 【2023-11-08】[HITSZ-OpenAuto / HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 * 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
 * 【2023-11-05】[mmp / pbrt-v4](https://github.com/mmp/pbrt-v4) - Source code to pbrt, the ray tracer described in the forthcoming 4th edition of the "Physically Based Rendering: From Theory to Implementation" book.
@@ -130,6 +149,7 @@
 
 ## C#
 
+* 【2023-11-08】[kontur-courses / challenge-tdd](https://github.com/kontur-courses/challenge-tdd) - 
 * 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
 * 【2023-11-05】[4sval / FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
 * 【2023-11-04】[microsoft / CopilotAdventures](https://github.com/microsoft/CopilotAdventures) - Copilot coding adventures
@@ -140,6 +160,7 @@
 
 ## Html
 
+* 【2023-11-08】[sussygamedeveloper / FNAF2](https://github.com/sussygamedeveloper/FNAF2) - FNAF 2 HTML5 PORT! (With Hacks)
 * 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
 * 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
 * 【2023-11-06】[frainzy1477 / luci-app-clash](https://github.com/frainzy1477/luci-app-clash) - Luci interface for Clash Openwrt
@@ -152,6 +173,8 @@
 
 ## Css
 
+* 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
+* 【2023-11-08】[zaadevofc / projects](https://github.com/zaadevofc/projects) - 
 * 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
 * 【2023-11-05】[altoliaw3 / 112-1HW2](https://github.com/altoliaw3/112-1HW2) - 
 * 【2023-11-05】[Ctoic / CalHub](https://github.com/Ctoic/CalHub) - The "Calculator" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.
@@ -165,6 +188,10 @@
 
 ## Unknown
 
+* 【2023-11-08】[Akshat-Jain / database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - My chapter-wise notes for Database Internals by Alex Petrov.
+* 【2023-11-08】[JohnCrickett / SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design.
+* 【2023-11-08】[bcamandone / Data_Analysis_SQL](https://github.com/bcamandone/Data_Analysis_SQL) - Este repositorio está dedicado a proyectos de análisis de datos utilizando lenguaje SQL.
+* 【2023-11-08】[tangwz / db-monthly](https://github.com/tangwz/db-monthly) - 阿里云数据库内核月报分类整理（定时更新）。
 * 【2023-11-07】[ritchieng / the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 * 【2023-11-07】[0x4D31 / awesome-oscp](https://github.com/0x4D31/awesome-oscp) - A curated list of awesome OSCP resources
 * 【2023-11-07】[Semporia / Clash](https://github.com/Semporia/Clash) - Clash for Windows & ClashX Pro 自用节点订阅、分流规则、参考配置
