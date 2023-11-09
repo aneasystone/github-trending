@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-11-09】[ekzhang / sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+* 【2023-11-09】[langchain-ai / opengpts](https://github.com/langchain-ai/opengpts) - 
+* 【2023-11-09】[kubero-dev / ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
+* 【2023-11-09】[fuzzballcat / milliForth](https://github.com/fuzzballcat/milliForth) - A FORTH in 386 bytes — the smallest real programming language ever as of yet.
+* 【2023-11-09】[openai / consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
 * 【2023-11-08】[01-ai / Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 * 【2023-11-08】[leerob / nextjs-postgres-email-client](https://github.com/leerob/nextjs-postgres-email-client) - An email client built with the Next.js App Router and Postgres as the database.
 * 【2023-11-08】[EvilAnne / lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) - 《云安全攻防入门》教材
@@ -43,6 +48,8 @@
 
 ## Java
 
+* 【2023-11-09】[WadhahEssam / react-native-theme-switch-animation](https://github.com/WadhahEssam/react-native-theme-switch-animation) - A Plug & Play Animations for Switching (Dark/Light) Themes. 🌖
+* 【2023-11-09】[nashtech-garage / yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 * 【2023-11-08】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
 * 【2023-11-07】[castorini / anserini](https://github.com/castorini/anserini) - Anserini is a Lucene toolkit for reproducible information retrieval research
 * 【2023-11-06】[AutoMQ / automq-for-rocketmq](https://github.com/AutoMQ/automq-for-rocketmq) - A cloud native implementation for Apache RocketMQ 5.0
@@ -53,6 +60,7 @@
 
 ## Python
 
+* 【2023-11-09】[Giskard-AI / giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 * 【2023-11-08】[kylesargent / ZeroNVS](https://github.com/kylesargent/ZeroNVS) - 
 * 【2023-11-08】[Genesis-Embodied-AI / RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
 * 【2023-11-08】[thuml / iTransformer](https://github.com/thuml/iTransformer) - This is the official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting".
@@ -104,6 +112,11 @@
 
 ## Go
 
+* 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
+* 【2023-11-09】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
+* 【2023-11-09】[SaumyajeetDas / CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) - Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)
+* 【2023-11-09】[integrations / terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider
+* 【2023-11-09】[lyc8503 / sing-box-rules](https://github.com/lyc8503/sing-box-rules) - sing-box Geoip 与 Geosite 增强版规则, 移植自 v2ray-rules-dat
 * 【2023-11-07】[xmdhs / clash2singbox](https://github.com/xmdhs/clash2singbox) - 将 clash.meta 格式的配置文件或链接转换为 sing-box 格式
 * 【2023-11-06】[championswimmer / onepixel_backend](https://github.com/championswimmer/onepixel_backend) - 
 * 【2023-11-05】[MetaCubeX / Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
@@ -117,6 +130,8 @@
 
 ## C
 
+* 【2023-11-09】[Cracked5pider / LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
+* 【2023-11-09】[lone-lang / lone](https://github.com/lone-lang/lone) - The standalone Linux Lisp
 * 【2023-11-08】[Nero22k / cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) - Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver
 * 【2023-11-08】[elFarto / nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 * 【2023-11-08】[sudo-project / sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
@@ -134,6 +149,7 @@
 
 ## C++
 
+* 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-08】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
 * 【2023-11-08】[HITSZ-OpenAuto / HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-11-06】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -173,6 +189,7 @@
 
 ## Css
 
+* 【2023-11-09】[brettjurgens / illinipikapp](https://github.com/brettjurgens/illinipikapp) - Website for Pi Kappa Phi Upsilon Chapter (Illinois)
 * 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
 * 【2023-11-08】[zaadevofc / projects](https://github.com/zaadevofc/projects) - 
 * 【2023-11-07】[ratatui-org / ratatui-book](https://github.com/ratatui-org/ratatui-book) - Ratatui Documentation
@@ -188,6 +205,11 @@
 
 ## Unknown
 
+* 【2023-11-09】[PaulWieland / ratgdo](https://github.com/PaulWieland/ratgdo) - 
+* 【2023-11-09】[akr3ch / BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
+* 【2023-11-09】[openai / openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+* 【2023-11-09】[aniftyco / awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
+* 【2023-11-09】[mfaisalkhatri / Manual_Testing](https://github.com/mfaisalkhatri/Manual_Testing) - This repository contains the General Test Cases for performing Manual Testing on the Web/Mobile application. It also has Test cases related to API Testing. Templates related to Test Plan and BugBash are also updated.
 * 【2023-11-08】[Akshat-Jain / database-internals-notes](https://github.com/Akshat-Jain/database-internals-notes) - My chapter-wise notes for Database Internals by Alex Petrov.
 * 【2023-11-08】[JohnCrickett / SystemDesign](https://github.com/JohnCrickett/SystemDesign) - Useful resources on distributed system design.
 * 【2023-11-08】[bcamandone / Data_Analysis_SQL](https://github.com/bcamandone/Data_Analysis_SQL) - Este repositorio está dedicado a proyectos de análisis de datos utilizando lenguaje SQL.
