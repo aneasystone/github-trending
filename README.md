@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-11-10】[microsoft / inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
+* 【2023-11-10】[VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese
+* 【2023-11-10】[Niek / chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 * 【2023-11-09】[ekzhang / sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 * 【2023-11-09】[langchain-ai / opengpts](https://github.com/langchain-ai/opengpts) - 
 * 【2023-11-09】[kubero-dev / ladder](https://github.com/kubero-dev/ladder) - Alternative to 12ft.io. Bypass paywalls with a proxy ladder and remove CORS headers from any URL
@@ -60,6 +63,9 @@
 
 ## Python
 
+* 【2023-11-10】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
+* 【2023-11-10】[roboflow / webcamGPT](https://github.com/roboflow/webcamGPT) - webcamGPT - chat with video stream 💬 + 📸
+* 【2023-11-10】[MrSaighnal / GCR-Google-Calendar-RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT) - Google Calendar RAT is a PoC of Command&Control over Google Calendar Events
 * 【2023-11-09】[Giskard-AI / giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 * 【2023-11-08】[kylesargent / ZeroNVS](https://github.com/kylesargent/ZeroNVS) - 
 * 【2023-11-08】[Genesis-Embodied-AI / RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen) - A generative and self-guided robotic agent that endlessly propose and master new skills.
@@ -89,6 +95,7 @@
 
 ## Javascript
 
+* 【2023-11-10】[Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 * 【2023-11-08】[hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend) - A video series on chai aur code youtube channel
 * 【2023-11-08】[XaviaTeam / facebook-bot-chatgpt](https://github.com/XaviaTeam/facebook-bot-chatgpt) - 
 * 【2023-11-08】[rolling-scopes-school / core-js-numbers](https://github.com/rolling-scopes-school/core-js-numbers) - 
@@ -112,6 +119,7 @@
 
 ## Go
 
+* 【2023-11-10】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 * 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
 * 【2023-11-09】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
 * 【2023-11-09】[SaumyajeetDas / CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ](https://github.com/SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ) - Achieving a Reverse Shell Exploit for Apache ActiveMQ (CVE_2023-46604)
@@ -130,6 +138,10 @@
 
 ## C
 
+* 【2023-11-10】[FeijiangHan / dead_code_analyzer](https://github.com/FeijiangHan/dead_code_analyzer) - Using DynamoRIO and XED to find redundant executions (Dead code)
+* 【2023-11-10】[fortra / No-Consolation](https://github.com/fortra/No-Consolation) - A BOF that runs unmanaged PEs inline
+* 【2023-11-10】[Battelle / movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
+* 【2023-11-10】[chiteroman / PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 * 【2023-11-09】[Cracked5pider / LdrLibraryEx](https://github.com/Cracked5pider/LdrLibraryEx) - A small x64 library to load dll's into memory.
 * 【2023-11-09】[lone-lang / lone](https://github.com/lone-lang/lone) - The standalone Linux Lisp
 * 【2023-11-08】[Nero22k / cve-2023-36802](https://github.com/Nero22k/cve-2023-36802) - Exploit for CVE-2023-36802 targeting MSKSSRV.SYS driver
@@ -149,6 +161,7 @@
 
 ## C++
 
+* 【2023-11-10】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
 * 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-08】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
 * 【2023-11-08】[HITSZ-OpenAuto / HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
@@ -165,6 +178,7 @@
 
 ## C#
 
+* 【2023-11-10】[S3cur3Th1sSh1t / SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) - Decrypt Veeam database passwords
 * 【2023-11-08】[kontur-courses / challenge-tdd](https://github.com/kontur-courses/challenge-tdd) - 
 * 【2023-11-06】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
 * 【2023-11-05】[4sval / FModel](https://github.com/4sval/FModel) - Unreal Engine Archives Explorer
@@ -189,6 +203,7 @@
 
 ## Css
 
+* 【2023-11-10】[nbuntsch / examen-2](https://github.com/nbuntsch/examen-2) - 
 * 【2023-11-09】[brettjurgens / illinipikapp](https://github.com/brettjurgens/illinipikapp) - Website for Pi Kappa Phi Upsilon Chapter (Illinois)
 * 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
 * 【2023-11-08】[zaadevofc / projects](https://github.com/zaadevofc/projects) - 
@@ -205,6 +220,11 @@
 
 ## Unknown
 
+* 【2023-11-10】[AgentOps-AI / BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
+* 【2023-11-10】[SaraiNoQ / readingKK](https://github.com/SaraiNoQ/readingKK) - kk天涯贴的阅读感想
+* 【2023-11-10】[ruesandora / Engram](https://github.com/ruesandora/Engram) - 
+* 【2023-11-10】[AiKirito / Clash_For_Windows_Ultra](https://github.com/AiKirito/Clash_For_Windows_Ultra) - A simple modified version
+* 【2023-11-10】[chika0801 / hysteria-install](https://github.com/chika0801/hysteria-install) - Hysteria 2 安装指南
 * 【2023-11-09】[PaulWieland / ratgdo](https://github.com/PaulWieland/ratgdo) - 
 * 【2023-11-09】[akr3ch / BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
 * 【2023-11-09】[openai / openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
