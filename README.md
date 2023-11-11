@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-11-11】[daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - Early experiment to create fully autonomous agent swarms
+* 【2023-11-11】[SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
+* 【2023-11-11】[roboflow / awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
+* 【2023-11-11】[opendilab / LLMRiddles](https://github.com/opendilab/LLMRiddles) - Open-Source Reproduction/Demo of the LLM Riddles Game
 * 【2023-11-10】[microsoft / inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 * 【2023-11-10】[VinAIResearch / PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese
 * 【2023-11-10】[Niek / chatgpt-web](https://github.com/Niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
@@ -63,6 +67,8 @@
 
 ## Python
 
+* 【2023-11-11】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
+* 【2023-11-11】[AIFSH / MyHeyGen](https://github.com/AIFSH/MyHeyGen) - 
 * 【2023-11-10】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
 * 【2023-11-10】[roboflow / webcamGPT](https://github.com/roboflow/webcamGPT) - webcamGPT - chat with video stream 💬 + 📸
 * 【2023-11-10】[MrSaighnal / GCR-Google-Calendar-RAT](https://github.com/MrSaighnal/GCR-Google-Calendar-RAT) - Google Calendar RAT is a PoC of Command&Control over Google Calendar Events
@@ -95,6 +101,9 @@
 
 ## Javascript
 
+* 【2023-11-11】[safak / nextadmin](https://github.com/safak/nextadmin) - 
+* 【2023-11-11】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
+* 【2023-11-11】[playcanvas / engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 * 【2023-11-10】[Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 * 【2023-11-08】[hiteshchoudhary / chai-backend](https://github.com/hiteshchoudhary/chai-backend) - A video series on chai aur code youtube channel
 * 【2023-11-08】[XaviaTeam / facebook-bot-chatgpt](https://github.com/XaviaTeam/facebook-bot-chatgpt) - 
@@ -161,6 +170,8 @@
 
 ## C++
 
+* 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
+* 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 * 【2023-11-10】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
 * 【2023-11-09】[Tripouille / libftTester](https://github.com/Tripouille/libftTester) - Tester for the libft project of 42 school
 * 【2023-11-08】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
@@ -190,6 +201,8 @@
 
 ## Html
 
+* 【2023-11-11】[deep-learning-mit / staging](https://github.com/deep-learning-mit/staging) - 
+* 【2023-11-11】[genius-space / genius-lesson-project](https://github.com/genius-space/genius-lesson-project) - 
 * 【2023-11-08】[sussygamedeveloper / FNAF2](https://github.com/sussygamedeveloper/FNAF2) - FNAF 2 HTML5 PORT! (With Hacks)
 * 【2023-11-07】[vking34 / books](https://github.com/vking34/books) - List of books for Software Engineer
 * 【2023-11-07】[gsanchezd / fdsw-github](https://github.com/gsanchezd/fdsw-github) - 
@@ -203,6 +216,9 @@
 
 ## Css
 
+* 【2023-11-11】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
+* 【2023-11-11】[antipachita / HTML-builder](https://github.com/antipachita/HTML-builder) - 
+* 【2023-11-11】[learning-software-engineering / learning-software-engineering.github.io](https://github.com/learning-software-engineering/learning-software-engineering.github.io) - 
 * 【2023-11-10】[nbuntsch / examen-2](https://github.com/nbuntsch/examen-2) - 
 * 【2023-11-09】[brettjurgens / illinipikapp](https://github.com/brettjurgens/illinipikapp) - Website for Pi Kappa Phi Upsilon Chapter (Illinois)
 * 【2023-11-08】[milenafelix / flowers](https://github.com/milenafelix/flowers) - IB: https://github.com/jeycaarce/flowers
@@ -220,6 +236,10 @@
 
 ## Unknown
 
+* 【2023-11-11】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
+* 【2023-11-11】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
+* 【2023-11-11】[damo-vilab / i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) - Official repo for I2VGen-XL: High-Quality Image-to-Video Synthesis Via Cascaded Diffusion Models
+* 【2023-11-11】[x1trap / websec-answers](https://github.com/x1trap/websec-answers) - Websec interview questions by tib3rius answered
 * 【2023-11-10】[AgentOps-AI / BestGPTs](https://github.com/AgentOps-AI/BestGPTs) - Top ranked OpenAI GPTs
 * 【2023-11-10】[SaraiNoQ / readingKK](https://github.com/SaraiNoQ/readingKK) - kk天涯贴的阅读感想
 * 【2023-11-10】[ruesandora / Engram](https://github.com/ruesandora/Engram) - 
