@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-11-13】[netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 * 【2023-11-12】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 * 【2023-11-12】[jbranchaud / til](https://github.com/jbranchaud/til) - 📝 Today I Learned
 * 【2023-11-12】[githubnext / monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -75,6 +76,8 @@
 
 ## Python
 
+* 【2023-11-13】[shiqiangw / iclr2024-scores](https://github.com/shiqiangw/iclr2024-scores) - 
+* 【2023-11-13】[YORG-AI / Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version
 * 【2023-11-12】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
 * 【2023-11-12】[SWHL / AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections) - AI比赛经验帖子 & 训练和测试技巧帖子 集锦（收集整理各种人工智能比赛经验帖）
 * 【2023-11-11】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
@@ -111,6 +114,11 @@
 
 ## Javascript
 
+* 【2023-11-13】[adrianhajdin / 3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
+* 【2023-11-13】[AnchoringAI / anchoring-ai](https://github.com/AnchoringAI/anchoring-ai) - An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.
+* 【2023-11-13】[thiagokroger / battlesquare](https://github.com/thiagokroger/battlesquare) - Vanilla Javascript, mobile-friendly, turn-based strategy game
+* 【2023-11-13】[umnik1 / yaamp](https://github.com/umnik1/yaamp) - Yaamp — Аудио-плеер Winamp с интегрированным сервисом Яндекс.Музыка.
+* 【2023-11-13】[FeijiangHan / MFVP](https://github.com/FeijiangHan/MFVP) - Malware detection and visualization platform by CSU vis Lab (front-end version)
 * 【2023-11-12】[projectdiscovery / nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 * 【2023-11-11】[safak / nextadmin](https://github.com/safak/nextadmin) - 
 * 【2023-11-11】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
@@ -139,6 +147,12 @@
 
 ## Go
 
+* 【2023-11-13】[nlpodyssey / waveny](https://github.com/nlpodyssey/waveny) - Emulate guitar amps and pedals with deep learning, in Go.
+* 【2023-11-13】[maliceio / malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
+* 【2023-11-13】[Enelg52 / OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
+* 【2023-11-13】[alin-io / pkgstore](https://github.com/alin-io/pkgstore) - Package Proxy is an All in One server that handles Packages for NPM, PyPi, Docker/Containers
+* 【2023-11-13】[BigJk / crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
+* 【2023-11-13】[anlityli / chatait-free](https://github.com/anlityli/chatait-free) - 一套 golang + vue3 实现的chatgpt、midjourney的对话程序
 * 【2023-11-12】[Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 * 【2023-11-10】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 * 【2023-11-09】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
@@ -159,6 +173,7 @@
 
 ## C
 
+* 【2023-11-13】[TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm) - 
 * 【2023-11-12】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
 * 【2023-11-12】[glennrp / libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
 * 【2023-11-12】[DragonQuestHero / Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
@@ -185,6 +200,8 @@
 
 ## C++
 
+* 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
+* 【2023-11-13】[doongz / aics](https://github.com/doongz/aics) - 智能计算系统 AI Computing Systems 陈云霁
 * 【2023-11-12】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 * 【2023-11-11】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
 * 【2023-11-11】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
@@ -205,6 +222,8 @@
 
 ## C#
 
+* 【2023-11-13】[krzys-h / UndertaleModTool](https://github.com/krzys-h/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other Game Maker: Studio games!)
+* 【2023-11-13】[TomGrobbe / vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what.
 * 【2023-11-12】[ping11700 / LOLKit](https://github.com/ping11700/LOLKit) - One gift for all LOL gamers， League of Legends工具
 * 【2023-11-12】[shibbo / Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder.
 * 【2023-11-12】[nickvangilder / most-average-c2-ever](https://github.com/nickvangilder/most-average-c2-ever) - The most average C2 ever (MACE)
@@ -237,6 +256,8 @@
 
 ## Css
 
+* 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
+* 【2023-11-13】[krsunm / Aurora](https://github.com/krsunm/Aurora) - Fantastic,easy using theme for v2b.
 * 【2023-11-12】[web-dev-open / pizza](https://github.com/web-dev-open/pizza) - 
 * 【2023-11-11】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
 * 【2023-11-11】[antipachita / HTML-builder](https://github.com/antipachita/HTML-builder) - 
@@ -258,6 +279,14 @@
 
 ## Unknown
 
+* 【2023-11-13】[Mr-Un1k0d3r / .NetConfigLoader](https://github.com/Mr-Un1k0d3r/.NetConfigLoader) - .net config loader
+* 【2023-11-13】[Anil-matcha / Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - A collection of major GPTS available in public
+* 【2023-11-13】[robbie-uiliams / youtube-view-bot](https://github.com/robbie-uiliams/youtube-view-bot) - YouTube Booster is a view bot software for almost free automatic increasing of views, likes, retention rate, subs, etc. for YouTube videos.
+* 【2023-11-13】[Imperatium / RobloxFPS](https://github.com/Imperatium/RobloxFPS) - Blox-Shader is a Roblox Shaders tool that enhances visuals. Feather Booster is a Roblox FPS booster, improving gameplay smoothness. FPS Unlocker removes FPS cap in Roblox for higher frame rates and smoother gameplay. Enhance visuals, boost FPS, and unlock frame rates with these applications.
+* 【2023-11-13】[ai-boost / Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) - Curated list of awesome GPTs 👍.
+* 【2023-11-13】[CHIANGEL / Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) - Survey: A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.
+* 【2023-11-13】[simplerhacking / Evilginx-Course](https://github.com/simplerhacking/Evilginx-Course) - Repository for uploading all resources for students enrolled in Simpler Hacking's Evilginx3 Course
+* 【2023-11-13】[gfwlist / gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 * 【2023-11-12】[Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - 
 * 【2023-11-11】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 * 【2023-11-11】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
