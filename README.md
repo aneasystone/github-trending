@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
+* 【2023-11-15】[CorentinTh / it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 * 【2023-11-14】[fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 * 【2023-11-14】[taranjeet / awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
 * 【2023-11-13】[netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
@@ -79,6 +81,7 @@
 
 ## Python
 
+* 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
 * 【2023-11-14】[cocktailpeanut / mirror](https://github.com/cocktailpeanut/mirror) - 
 * 【2023-11-14】[LLaVA-VL / LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
 * 【2023-11-13】[shiqiangw / iclr2024-scores](https://github.com/shiqiangw/iclr2024-scores) - 
@@ -119,6 +122,8 @@
 
 ## Javascript
 
+* 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
+* 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 * 【2023-11-14】[judygab / nextjs-portfolio](https://github.com/judygab/nextjs-portfolio) - portfolio website in nextjs 13
 * 【2023-11-13】[adrianhajdin / 3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
 * 【2023-11-13】[AnchoringAI / anchoring-ai](https://github.com/AnchoringAI/anchoring-ai) - An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.
@@ -153,6 +158,9 @@
 
 ## Go
 
+* 【2023-11-15】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+* 【2023-11-15】[rhysd / actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
+* 【2023-11-15】[uber-go / mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
 * 【2023-11-14】[philippta / flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go
 * 【2023-11-13】[nlpodyssey / waveny](https://github.com/nlpodyssey/waveny) - Emulate guitar amps and pedals with deep learning, in Go.
 * 【2023-11-13】[maliceio / malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
@@ -180,6 +188,8 @@
 
 ## C
 
+* 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+* 【2023-11-15】[dkfans / keeperfx](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 * 【2023-11-14】[hanwckf / immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - 
 * 【2023-11-13】[TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm) - 
 * 【2023-11-12】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
@@ -267,6 +277,7 @@
 
 ## Css
 
+* 【2023-11-15】[Training360 / html5-halado](https://github.com/Training360/html5-halado) - HTML5 haladó tanfolyam anyaga.
 * 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
 * 【2023-11-13】[krsunm / Aurora](https://github.com/krsunm/Aurora) - Fantastic,easy using theme for v2b.
 * 【2023-11-12】[web-dev-open / pizza](https://github.com/web-dev-open/pizza) - 
@@ -290,6 +301,13 @@
 
 ## Unknown
 
+* 【2023-11-15】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
+* 【2023-11-15】[piyushsachdeva / AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero) - 
+* 【2023-11-15】[EmbraceAGI / Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+* 【2023-11-15】[RamiKrispin / awesome-ds-setting](https://github.com/RamiKrispin/awesome-ds-setting) - A tutorial for setting a new machine with core data science tools
+* 【2023-11-15】[Mosklia / gcc-hentai](https://github.com/Mosklia/gcc-hentai) - 让你的 GCC 变得更可爱！
+* 【2023-11-15】[OmarEhab007 / Data_Engineering_Mentorship](https://github.com/OmarEhab007/Data_Engineering_Mentorship) - Data engineering mentorship program
+* 【2023-11-15】[0xor0ne / awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 * 【2023-11-14】[cyb3rmik3 / MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources) - A curated list of resources for DFIR through Microsoft Defender for Endpoint leveraging kusto queries, powershell scripts, tools such as KAPE and THOR Cloud and more.
 * 【2023-11-14】[githubvpn007 / ProxyTool](https://github.com/githubvpn007/ProxyTool) - ShadowsocksR、 Shadowsocks、ClashR、vmess 、vpn、V2ray、Clash、V2ray 、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、翻墙代理上网工具下载大全
 * 【2023-11-13】[Mr-Un1k0d3r / .NetConfigLoader](https://github.com/Mr-Un1k0d3r/.NetConfigLoader) - .net config loader
