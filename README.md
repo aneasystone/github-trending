@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
+* 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 * 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
 * 【2023-11-15】[CorentinTh / it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 * 【2023-11-14】[fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
@@ -65,6 +67,7 @@
 
 ## Java
 
+* 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
 * 【2023-11-14】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
 * 【2023-11-12】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
 * 【2023-11-12】[woowacourse-precourse / java-christmas-6](https://github.com/woowacourse-precourse/java-christmas-6) - 
@@ -81,6 +84,9 @@
 
 ## Python
 
+* 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+* 【2023-11-16】[cloud804d / mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+* 【2023-11-16】[thewhiteh4t / FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 * 【2023-11-15】[outlines-dev / outlines](https://github.com/outlines-dev/outlines) - Guided Text Generation
 * 【2023-11-14】[cocktailpeanut / mirror](https://github.com/cocktailpeanut/mirror) - 
 * 【2023-11-14】[LLaVA-VL / LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
@@ -122,6 +128,8 @@
 
 ## Javascript
 
+* 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
+* 【2023-11-16】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 * 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
 * 【2023-11-15】[goldfire / howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 * 【2023-11-14】[judygab / nextjs-portfolio](https://github.com/judygab/nextjs-portfolio) - portfolio website in nextjs 13
@@ -218,6 +226,8 @@
 
 ## C++
 
+* 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
+* 【2023-11-16】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
 * 【2023-11-13】[doongz / aics](https://github.com/doongz/aics) - 智能计算系统 AI Computing Systems 陈云霁
 * 【2023-11-12】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
@@ -261,6 +271,8 @@
 
 ## Html
 
+* 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
+* 【2023-11-16】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 * 【2023-11-12】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
 * 【2023-11-11】[deep-learning-mit / staging](https://github.com/deep-learning-mit/staging) - 
 * 【2023-11-11】[genius-space / genius-lesson-project](https://github.com/genius-space/genius-lesson-project) - 
@@ -277,6 +289,9 @@
 
 ## Css
 
+* 【2023-11-16】[wanteddev / wanted-sans](https://github.com/wanteddev/wanted-sans) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
+* 【2023-11-16】[cyz / ada-lovelace-page](https://github.com/cyz/ada-lovelace-page) - 
+* 【2023-11-16】[TheBridge-FullStackDeveloper / rick-and-morty-characters](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters) - 
 * 【2023-11-15】[Training360 / html5-halado](https://github.com/Training360/html5-halado) - HTML5 haladó tanfolyam anyaga.
 * 【2023-11-13】[novoselrok / glance](https://github.com/novoselrok/glance) - Code at a glance. Highlight important parts of the code using embeddings and PageRank.
 * 【2023-11-13】[krsunm / Aurora](https://github.com/krsunm/Aurora) - Fantastic,easy using theme for v2b.
@@ -301,6 +316,9 @@
 
 ## Unknown
 
+* 【2023-11-16】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
+* 【2023-11-16】[devisasari / awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+* 【2023-11-16】[PJLab-ADG / GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
 * 【2023-11-15】[pandora-next / deploy](https://github.com/pandora-next/deploy) - PandoraNext部署文档仓库。
 * 【2023-11-15】[piyushsachdeva / AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero) - 
 * 【2023-11-15】[EmbraceAGI / Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
