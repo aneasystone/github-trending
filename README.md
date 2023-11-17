@@ -8,6 +8,15 @@
 
 ## All language
 
+* 【2023-11-17】[loro-dev / loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app.
+* 【2023-11-17】[dotnet / eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+* 【2023-11-17】[BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+* 【2023-11-17】[google-deepmind / graphcast](https://github.com/google-deepmind/graphcast) - 
+* 【2023-11-17】[unkeyed / unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management
+* 【2023-11-17】[dotnet / aspire](https://github.com/dotnet/aspire) - .NET Aspire
+* 【2023-11-17】[all-in-aigc / gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+* 【2023-11-17】[AntonioErdeljac / next13-trello](https://github.com/AntonioErdeljac/next13-trello) - 
+* 【2023-11-17】[LouisShark / chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - store all chatgpt's system prompt
 * 【2023-11-16】[netbootxyz / netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.
 * 【2023-11-16】[MerlinKodo / clash-rev](https://github.com/MerlinKodo/clash-rev) - Continuation of Clash core project
 * 【2023-11-15】[disler / multi-agent-postgres-data-analytics](https://github.com/disler/multi-agent-postgres-data-analytics) - The way we interact with our data is changing.
@@ -84,6 +93,12 @@
 
 ## Python
 
+* 【2023-11-17】[cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
+* 【2023-11-17】[martinvigo / email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
+* 【2023-11-17】[S-LoRA / S-LoRA](https://github.com/S-LoRA/S-LoRA) - S-LoRA: Serving Thousands of Concurrent LoRA Adapters
+* 【2023-11-17】[shashankvemuri / Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
+* 【2023-11-17】[crynux-ai / h-node](https://github.com/crynux-ai/h-node) - Crynux Node for the Hydrogen(H) Network
+* 【2023-11-17】[alibaba / tidevice](https://github.com/alibaba/tidevice) - tidevice can be used to communicate with iPhone device
 * 【2023-11-16】[sockysec / Telerecon](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
 * 【2023-11-16】[cloud804d / mirrors-pengzhile-pandora](https://github.com/cloud804d/mirrors-pengzhile-pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 * 【2023-11-16】[thewhiteh4t / FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
@@ -128,6 +143,7 @@
 
 ## Javascript
 
+* 【2023-11-17】[bypassiwastaken / skiovox-helper](https://github.com/bypassiwastaken/skiovox-helper) - An extension to make the browsing experience in the Skiovox exploit smoother.
 * 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
 * 【2023-11-16】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 * 【2023-11-15】[chetanverma16 / react-portfolio-template](https://github.com/chetanverma16/react-portfolio-template) - Modern React Portfolio Template (FREE)
@@ -196,6 +212,7 @@
 
 ## C
 
+* 【2023-11-17】[eunomia-bpf / bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
 * 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 * 【2023-11-15】[dkfans / keeperfx](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
 * 【2023-11-14】[hanwckf / immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - 
@@ -226,6 +243,7 @@
 
 ## C++
 
+* 【2023-11-17】[Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 * 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
 * 【2023-11-16】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
 * 【2023-11-13】[SecretHQ / seal-cuda](https://github.com/SecretHQ/seal-cuda) - A GPU implementation of BFV/BGV/CKKS scheme, based on Microsoft SEAL.
@@ -271,6 +289,7 @@
 
 ## Html
 
+* 【2023-11-17】[harisahmad59 / Hypefolio](https://github.com/harisahmad59/Hypefolio) - Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
 * 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
 * 【2023-11-16】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
 * 【2023-11-12】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
@@ -289,6 +308,9 @@
 
 ## Css
 
+* 【2023-11-17】[wozulong / ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
+* 【2023-11-17】[fork-commit-merge / fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
+* 【2023-11-17】[congchu / web-porfolio](https://github.com/congchu/web-porfolio) - 개발자를 위한 쉽고 빠른 웹 포트폴리오 만들기
 * 【2023-11-16】[wanteddev / wanted-sans](https://github.com/wanteddev/wanted-sans) - 곧으면서도 유연한 산세리프 글꼴 | A Sans-serif font; Geometric with a heart, Humanist with a soul
 * 【2023-11-16】[cyz / ada-lovelace-page](https://github.com/cyz/ada-lovelace-page) - 
 * 【2023-11-16】[TheBridge-FullStackDeveloper / rick-and-morty-characters](https://github.com/TheBridge-FullStackDeveloper/rick-and-morty-characters) - 
@@ -316,6 +338,9 @@
 
 ## Unknown
 
+* 【2023-11-17】[linexjlin / GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+* 【2023-11-17】[LucasPDiniz / 403-Bypass](https://github.com/LucasPDiniz/403-Bypass) - Bypass 403 pages
+* 【2023-11-17】[twf-nikhila / Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2023 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,
 * 【2023-11-16】[vectara / hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard) - Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 * 【2023-11-16】[devisasari / awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
 * 【2023-11-16】[PJLab-ADG / GPT4V-AD-Exploration](https://github.com/PJLab-ADG/GPT4V-AD-Exploration) - On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving
