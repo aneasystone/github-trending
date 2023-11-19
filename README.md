@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-11-19】[twostraws / Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI.
+* 【2023-11-19】[flutter / games](https://github.com/flutter/games) - Home of the Flutter Casual Games Toolkit and other Flutter gaming templates
+* 【2023-11-19】[aws-samples / amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
 * 【2023-11-18】[cbh123 / narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 * 【2023-11-18】[abi / screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 * 【2023-11-18】[kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
@@ -97,6 +100,9 @@
 
 ## Python
 
+* 【2023-11-19】[CVHub520 / X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
+* 【2023-11-19】[wtfloris / hestia](https://github.com/wtfloris/hestia) - Hestia scrapes real estate websites for new rental listings
+* 【2023-11-19】[Alb-310 / Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
 * 【2023-11-18】[generatebio / chroma](https://github.com/generatebio/chroma) - A generative model for programmable protein design
 * 【2023-11-18】[run-llama / llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 * 【2023-11-17】[cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
@@ -149,6 +155,7 @@
 
 ## Javascript
 
+* 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
 * 【2023-11-18】[jsdoc / jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 * 【2023-11-17】[bypassiwastaken / skiovox-helper](https://github.com/bypassiwastaken/skiovox-helper) - An extension to make the browsing experience in the Skiovox exploit smoother.
 * 【2023-11-16】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
@@ -189,6 +196,7 @@
 
 ## Go
 
+* 【2023-11-19】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 * 【2023-11-18】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 * 【2023-11-15】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 * 【2023-11-15】[rhysd / actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
@@ -252,6 +260,9 @@
 
 ## C++
 
+* 【2023-11-19】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
+* 【2023-11-19】[maxbbraun / llama4micro](https://github.com/maxbbraun/llama4micro) - A "large" language model running on a microcontroller
+* 【2023-11-19】[ros-perception / vision_opencv](https://github.com/ros-perception/vision_opencv) - 
 * 【2023-11-18】[tandasat / CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 * 【2023-11-17】[Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 * 【2023-11-16】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
@@ -278,6 +289,8 @@
 
 ## C#
 
+* 【2023-11-19】[RHeavenStudio / HeavenStudio](https://github.com/RHeavenStudio/HeavenStudio) - (WIP) Fully playable, open source recreation of every Rhythm Heaven minigame with a built in level editor.
+* 【2023-11-19】[richlander / container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows
 * 【2023-11-18】[qwqdanchun / Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
 * 【2023-11-14】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
 * 【2023-11-14】[ricardojoserf / WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives) - Different methods to get current username without using whoami
@@ -300,6 +313,8 @@
 
 ## Html
 
+* 【2023-11-19】[jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects) - 
+* 【2023-11-19】[emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 * 【2023-11-18】[ysx88 / openwrt-packages](https://github.com/ysx88/openwrt-packages) - OpenWrt 常用插件(含科学上网插件及依赖)
 * 【2023-11-17】[harisahmad59 / Hypefolio](https://github.com/harisahmad59/Hypefolio) - Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
 * 【2023-11-16】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
@@ -320,6 +335,7 @@
 
 ## Css
 
+* 【2023-11-19】[yudhiesh / devops-cc-week-2](https://github.com/yudhiesh/devops-cc-week-2) - 
 * 【2023-11-18】[pusher-community / html5-realtime-push-notifications](https://github.com/pusher-community/html5-realtime-push-notifications) - HTML5 Realtime Push Notifications
 * 【2023-11-17】[wozulong / ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
 * 【2023-11-17】[fork-commit-merge / fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
@@ -351,6 +367,9 @@
 
 ## Unknown
 
+* 【2023-11-19】[lawrencesystems / Draw_IO_Diagrams](https://github.com/lawrencesystems/Draw_IO_Diagrams) - Diagrams used in my YouTube Videos
+* 【2023-11-19】[pepethefrog99 / fort-project](https://github.com/pepethefrog99/fort-project) - 
+* 【2023-11-19】[EaNt3Y / EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4](https://github.com/EaNt3Y/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4) - Want to boost your returns? Our 100% JavaScript bot performs Triangular Arbitrage on DEX's for optimal profits. Open-source and user-friendly, get started today!
 * 【2023-11-18】[microsoft / hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) - HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win
 * 【2023-11-18】[lxfater / Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
 * 【2023-11-18】[sujayadkesar / cybersecurity-resources](https://github.com/sujayadkesar/cybersecurity-resources) - Cybersecurity Resources
