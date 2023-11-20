@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-11-20】[tldraw / make-real-starter](https://github.com/tldraw/make-real-starter) - Make it real
+* 【2023-11-20】[everywall / ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
+* 【2023-11-20】[protectai / ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
+* 【2023-11-20】[pytorch-labs / segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast) - A batched offline inference oriented version of segment-anything
 * 【2023-11-19】[twostraws / Inferno](https://github.com/twostraws/Inferno) - Metal shaders for SwiftUI.
 * 【2023-11-19】[flutter / games](https://github.com/flutter/games) - Home of the Flutter Casual Games Toolkit and other Flutter gaming templates
 * 【2023-11-19】[aws-samples / amazon-bedrock-workshop](https://github.com/aws-samples/amazon-bedrock-workshop) - This is a workshop designed for Amazon Bedrock a foundational model service.
@@ -83,6 +87,7 @@
 
 ## Java
 
+* 【2023-11-20】[qguangyao / MySound](https://github.com/qguangyao/MySound) - A demo of playing notes written in Java
 * 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
 * 【2023-11-14】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
 * 【2023-11-12】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
@@ -100,6 +105,10 @@
 
 ## Python
 
+* 【2023-11-20】[spm81 / Quansheng_UV-K5](https://github.com/spm81/Quansheng_UV-K5) - Quansheng UV-K5
+* 【2023-11-20】[Acly / krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+* 【2023-11-20】[predibase / lorax](https://github.com/predibase/lorax) - Serve 100s of Fine-Tuned LLMs in Production for the Cost of 1
+* 【2023-11-20】[lastmile-ai / aiconfig](https://github.com/lastmile-ai/aiconfig) - aiconfig -- config-driven, source control friendly AI application development
 * 【2023-11-19】[CVHub520 / X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) - Effortless data labeling with AI support from Segment Anything and other awesome models.
 * 【2023-11-19】[wtfloris / hestia](https://github.com/wtfloris/hestia) - Hestia scrapes real estate websites for new rental listings
 * 【2023-11-19】[Alb-310 / Geogramint](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
@@ -228,6 +237,7 @@
 
 ## C
 
+* 【2023-11-20】[ruby / prism](https://github.com/ruby/prism) - Prism Ruby parser
 * 【2023-11-18】[zetaloop / ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher) - ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境
 * 【2023-11-17】[eunomia-bpf / bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
 * 【2023-11-15】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
@@ -260,6 +270,8 @@
 
 ## C++
 
+* 【2023-11-20】[CuarzoSoftware / Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
+* 【2023-11-20】[f4exb / sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 * 【2023-11-19】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
 * 【2023-11-19】[maxbbraun / llama4micro](https://github.com/maxbbraun/llama4micro) - A "large" language model running on a microcontroller
 * 【2023-11-19】[ros-perception / vision_opencv](https://github.com/ros-perception/vision_opencv) - 
@@ -289,6 +301,7 @@
 
 ## C#
 
+* 【2023-11-20】[marmust / internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 * 【2023-11-19】[RHeavenStudio / HeavenStudio](https://github.com/RHeavenStudio/HeavenStudio) - (WIP) Fully playable, open source recreation of every Rhythm Heaven minigame with a built in level editor.
 * 【2023-11-19】[richlander / container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows
 * 【2023-11-18】[qwqdanchun / Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
@@ -313,6 +326,7 @@
 
 ## Html
 
+* 【2023-11-20】[HugoBlox / hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
 * 【2023-11-19】[jerryjliu / create_llama_projects](https://github.com/jerryjliu/create_llama_projects) - 
 * 【2023-11-19】[emilwallner / Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 * 【2023-11-18】[ysx88 / openwrt-packages](https://github.com/ysx88/openwrt-packages) - OpenWrt 常用插件(含科学上网插件及依赖)
@@ -367,6 +381,8 @@
 
 ## Unknown
 
+* 【2023-11-20】[mgmetehan / Mulakat-Sorulari](https://github.com/mgmetehan/Mulakat-Sorulari) - 
+* 【2023-11-20】[K11MCH1 / AdrenoToolsDrivers](https://github.com/K11MCH1/AdrenoToolsDrivers) - A repository for Skyline, Vita3K and Yuzu Android compatible Adreno drivers.
 * 【2023-11-19】[lawrencesystems / Draw_IO_Diagrams](https://github.com/lawrencesystems/Draw_IO_Diagrams) - Diagrams used in my YouTube Videos
 * 【2023-11-19】[pepethefrog99 / fort-project](https://github.com/pepethefrog99/fort-project) - 
 * 【2023-11-19】[EaNt3Y / EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4](https://github.com/EaNt3Y/EaNt3Y-DEX-Triangular-Arbitrage-Bot-V4) - Want to boost your returns? Our 100% JavaScript bot performs Triangular Arbitrage on DEX's for optimal profits. Open-source and user-friendly, get started today!
