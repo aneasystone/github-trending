@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2023-11-24】[run-llama / rags](https://github.com/run-llama/rags) - 
 * 【2023-11-23】[flowtyone / flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.
 * 【2023-11-23】[joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
 * 【2023-11-23】[Xacone / BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little AV/EDR bypassing lab for training & learning purposes
@@ -116,6 +117,10 @@
 
 ## Python
 
+* 【2023-11-24】[NeumTry / NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+* 【2023-11-24】[deepseagirl / easylkb](https://github.com/deepseagirl/easylkb) - easylkb - Easy Linux Kernel Builder
+* 【2023-11-24】[matterport / Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+* 【2023-11-24】[LetsShareAll / Profiles_for_Clash](https://github.com/LetsShareAll/Profiles_for_Clash) - 可自动生成一些能够用于 Clash for Windows、Clash for Android 等应用的配置文件的 Python 脚本。Python script can be used to generate some profiles for Clash for Windows、Clash for Android and so on.
 * 【2023-11-23】[PKU-YuanGroup / Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 * 【2023-11-23】[OpenBMB / ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation
 * 【2023-11-23】[Clouditera / secgpt](https://github.com/Clouditera/secgpt) - secgpt网络安全大模型
@@ -182,6 +187,8 @@
 
 ## Javascript
 
+* 【2023-11-24】[Dong-learn9 / TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) - TVBox自用接口
+* 【2023-11-24】[qist / tvbox](https://github.com/qist/tvbox) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 apk 下载地址: https://github.com/o0HalfLife0o/TVBoxOSC 选择q215613905 apk
 * 【2023-11-22】[rkk3 / ad-accelerator](https://github.com/rkk3/ad-accelerator) - 
 * 【2023-11-19】[JoeyGambler / youtube-ad-skip](https://github.com/JoeyGambler/youtube-ad-skip) - 
 * 【2023-11-18】[jsdoc / jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
@@ -257,6 +264,7 @@
 
 ## C
 
+* 【2023-11-24】[CANopenNode / CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 * 【2023-11-23】[RalfHacker / Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
 * 【2023-11-22】[ysanatomic / io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) - LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.
 * 【2023-11-20】[ruby / prism](https://github.com/ruby/prism) - Prism Ruby parser
@@ -292,6 +300,8 @@
 
 ## C++
 
+* 【2023-11-24】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
+* 【2023-11-24】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
 * 【2023-11-23】[official-pikafish / Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
 * 【2023-11-20】[CuarzoSoftware / Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
 * 【2023-11-20】[f4exb / sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
@@ -350,6 +360,7 @@
 
 ## Html
 
+* 【2023-11-24】[wang987742 / fanmingming](https://github.com/wang987742/fanmingming) - 
 * 【2023-11-23】[JoshMerfeld / applied-microeconometrics](https://github.com/JoshMerfeld/applied-microeconometrics) - Course website for Ph.D. Applied Microeconometrics at the KDI School.
 * 【2023-11-23】[LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成word文档永久保存，对聊天记录进行分析生成年度聊天报告
 * 【2023-11-23】[eminsaygi / Firat-Universitesi-Ders](https://github.com/eminsaygi/Firat-Universitesi-Ders) - Bu repo Fırat Üniversitesi Yazılım Mühendisliği dersleri için notlar ve çıkmış sorular vb. verileri barındırmaktadır.
@@ -378,6 +389,7 @@
 
 ## Css
 
+* 【2023-11-24】[BitWalls-Sec / WhatsAppHacking](https://github.com/BitWalls-Sec/WhatsAppHacking) - A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.
 * 【2023-11-23】[minghsun / simpleResponsiveSlide](https://github.com/minghsun/simpleResponsiveSlide) - 
 * 【2023-11-22】[adaptiOficial / ps-adapti-2023](https://github.com/adaptiOficial/ps-adapti-2023) - 
 * 【2023-11-22】[Volmarg / personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. <personal.management.system.pms@gmail.com>
@@ -413,6 +425,8 @@
 
 ## Unknown
 
+* 【2023-11-24】[Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
+* 【2023-11-24】[zhashkevych / awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
 * 【2023-11-23】[pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 * 【2023-11-22】[DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2023-11-22】[arcataroger / awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
