@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-11-25】[keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu!
+* 【2023-11-25】[teslamotors / roadster](https://github.com/teslamotors/roadster) - 2008-2012 Roadster Development and Diagnostic Software files
 * 【2023-11-24】[run-llama / rags](https://github.com/run-llama/rags) - 
 * 【2023-11-23】[flowtyone / flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.
 * 【2023-11-23】[joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
@@ -99,6 +101,9 @@
 
 ## Java
 
+* 【2023-11-25】[WuKongOpenSource / Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM) - 悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程
+* 【2023-11-25】[WuKongOpenSource / WukongCRM-11.0-JAVA](https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA) - 悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统
+* 【2023-11-25】[shenzepeng / middleground](https://github.com/shenzepeng/middleground) - 中台
 * 【2023-11-20】[qguangyao / MySound](https://github.com/qguangyao/MySound) - A demo of playing notes written in Java
 * 【2023-11-16】[javasmall / bigsai-algorithm](https://github.com/javasmall/bigsai-algorithm) - bigsai的数据结构与算法、LeetCode图解、剑指offer图解文章专栏，致力于最好懂的数据结构与算法专栏
 * 【2023-11-14】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
@@ -117,6 +122,9 @@
 
 ## Python
 
+* 【2023-11-25】[InternLM / InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - 
+* 【2023-11-25】[hao-ai-lab / LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - 
+* 【2023-11-25】[SkalskiP / awesome-foundation-and-multimodal-models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - 👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]
 * 【2023-11-24】[NeumTry / NeumAI](https://github.com/NeumTry/NeumAI) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
 * 【2023-11-24】[deepseagirl / easylkb](https://github.com/deepseagirl/easylkb) - easylkb - Easy Linux Kernel Builder
 * 【2023-11-24】[matterport / Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
@@ -187,6 +195,10 @@
 
 ## Javascript
 
+* 【2023-11-25】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
+* 【2023-11-25】[XPandora / PhysGaussian](https://github.com/XPandora/PhysGaussian) - 
+* 【2023-11-25】[conanak99 / sample-gpt-local](https://github.com/conanak99/sample-gpt-local) - 
+* 【2023-11-25】[clientIO / joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 * 【2023-11-24】[Dong-learn9 / TVBox-zyjk](https://github.com/Dong-learn9/TVBox-zyjk) - TVBox自用接口
 * 【2023-11-24】[qist / tvbox](https://github.com/qist/tvbox) - FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。 apk 下载地址: https://github.com/o0HalfLife0o/TVBoxOSC 选择q215613905 apk
 * 【2023-11-22】[rkk3 / ad-accelerator](https://github.com/rkk3/ad-accelerator) - 
@@ -231,6 +243,7 @@
 
 ## Go
 
+* 【2023-11-25】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-11-23】[riverqueue / river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 * 【2023-11-19】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 * 【2023-11-18】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
@@ -264,6 +277,9 @@
 
 ## C
 
+* 【2023-11-25】[UncleRus / esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
+* 【2023-11-25】[EQMOD / EQM_OBDWEB](https://github.com/EQMOD/EQM_OBDWEB) - A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module
+* 【2023-11-25】[antirez / botlib](https://github.com/antirez/botlib) - C Telegram bot framework
 * 【2023-11-24】[CANopenNode / CANopenNode](https://github.com/CANopenNode/CANopenNode) - CANopen protocol stack
 * 【2023-11-23】[RalfHacker / Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
 * 【2023-11-22】[ysanatomic / io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) - LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.
@@ -300,6 +316,7 @@
 
 ## C++
 
+* 【2023-11-25】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * 【2023-11-24】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
 * 【2023-11-24】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
 * 【2023-11-23】[official-pikafish / Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
@@ -334,6 +351,8 @@
 
 ## C#
 
+* 【2023-11-25】[microsoft / vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
+* 【2023-11-25】[babalae / better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 🍨BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动派遣 | 一键强化 | 支持云原神
 * 【2023-11-22】[Archeb / opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience.
 * 【2023-11-20】[marmust / internet-scanner](https://github.com/marmust/internet-scanner) - see the internet as a physical network of web pages
 * 【2023-11-19】[RHeavenStudio / HeavenStudio](https://github.com/RHeavenStudio/HeavenStudio) - (WIP) Fully playable, open source recreation of every Rhythm Heaven minigame with a built in level editor.
@@ -425,6 +444,8 @@
 
 ## Unknown
 
+* 【2023-11-25】[DirtyHarryLYL / LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision) - Recent LLM-based CV and related works. Welcome to comment/contribute!
+* 【2023-11-25】[NexovaDev / UpdateHub](https://github.com/NexovaDev/UpdateHub) - UpdateHub is an app that simplifies updating software on your computer. A user-friendly interface allows you to quickly check for and install available updates for your operating system and applications. Keep your device running smoothly and securely with UpdateHub.
 * 【2023-11-24】[Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
 * 【2023-11-24】[zhashkevych / awesome-backend](https://github.com/zhashkevych/awesome-backend) - 🚀 A curated and opinionated list of resources (English & Russian) for Backend developers | Структурированный список ресурсов для изучения Backend разработки
 * 【2023-11-23】[pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
