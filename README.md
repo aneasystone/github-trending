@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-12-01】[federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
+* 【2023-12-01】[epfLLM / meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
+* 【2023-12-01】[mlabonne / llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+* 【2023-12-01】[roboflow / multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥
+* 【2023-12-01】[SamurAIGPT / Open-Custom-GPT](https://github.com/SamurAIGPT/Open-Custom-GPT) - Create Custom GPT and add/embed on your site using Assistants api
 * 【2023-11-30】[OthersideAI / self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
 * 【2023-11-30】[Melledy / LunarCore](https://github.com/Melledy/LunarCore) - 
 * 【2023-11-29】[jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -112,6 +117,8 @@
 
 ## Java
 
+* 【2023-12-01】[shenzepeng / album-system](https://github.com/shenzepeng/album-system) - 
+* 【2023-12-01】[oracle / opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * 【2023-11-30】[makemyownlife / platform-sms](https://github.com/makemyownlife/platform-sms) - 简单的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
 * 【2023-11-29】[shenzepeng / suyoushop](https://github.com/shenzepeng/suyoushop) - 
 * 【2023-11-29】[qos-ch / logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
@@ -138,6 +145,8 @@
 
 ## Python
 
+* 【2023-12-01】[plenumlab / rce-finder](https://github.com/plenumlab/rce-finder) - A tool to find good RCE
+* 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 * 【2023-11-30】[IEIT-Yuan / Yuan-2.0](https://github.com/IEIT-Yuan/Yuan-2.0) - Yuan 2.0 Large Language Model
 * 【2023-11-30】[EnVision-Research / LucidDreamer](https://github.com/EnVision-Research/LucidDreamer) - Official implementation of "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching"
 * 【2023-11-30】[kormax / apple-home-key-reader](https://github.com/kormax/apple-home-key-reader) - Apple Home Key Reader Implementation
@@ -229,6 +238,8 @@
 
 ## Javascript
 
+* 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
+* 【2023-12-01】[WenyanLiu / CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * 【2023-11-30】[francoischalifour / medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 * 【2023-11-29】[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP) - IP 工具箱。可以查看本机IP、挂代理后的IP信息、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。An alternative to ip.skk.moe service.
 * 【2023-11-26】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
@@ -281,6 +292,11 @@
 
 ## Go
 
+* 【2023-12-01】[dreddsa5dies / goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
+* 【2023-12-01】[angelofallars / htmx-go](https://github.com/angelofallars/htmx-go) - </> Build awesome HTMX + Go projects faster.
+* 【2023-12-01】[openfaas / faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+* 【2023-12-01】[tilt-dev / tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+* 【2023-12-01】[F1bonacc1 / process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 * 【2023-11-30】[secengjeff / awskillswitch](https://github.com/secengjeff/awskillswitch) - Lambda function that streamlines containment of an AWS account compromise
 * 【2023-11-30】[bepass-org / smartSNI](https://github.com/bepass-org/smartSNI) - A simple single file smart sni proxy with doh and dot written in go
 * 【2023-11-29】[minchenzz / ierc-miner](https://github.com/minchenzz/ierc-miner) - 
@@ -320,6 +336,7 @@
 
 ## C
 
+* 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 * 【2023-11-30】[opa334 / ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 * 【2023-11-30】[pvvx / ZigbeeTLc](https://github.com/pvvx/ZigbeeTLc) - Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip
 * 【2023-11-29】[naev / naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
@@ -440,6 +457,7 @@
 
 ## Html
 
+* 【2023-12-01】[wikihidden4 / HIdden-Wiki](https://github.com/wikihidden4/HIdden-Wiki) - https://thehiddenwiki2022.com
 * 【2023-11-30】[awesome-assistants / awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 * 【2023-11-30】[tarpetra / welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
 * 【2023-11-30】[zek-c / Securly-Kill-V111](https://github.com/zek-c/Securly-Kill-V111) - The only working securly disabler.
@@ -476,6 +494,11 @@
 
 ## Css
 
+* 【2023-12-01】[Viiiikedy / Hexo-Korean-Learning](https://github.com/Viiiikedy/Hexo-Korean-Learning) - This is for Korean Learning of Vicky💕 .Hope you could also enjoy the journey of language learning like her✔️
+* 【2023-12-01】[VineeTagarwaL-code / OrganLink](https://github.com/VineeTagarwaL-code/OrganLink) - OrganLink aims to connect Donors and needy peoples to save lives ! 💖
+* 【2023-12-01】[Viiiikedy / Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning) - ✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨
+* 【2023-12-01】[Francesc116 / TD](https://github.com/Francesc116/TD) - 
+* 【2023-12-01】[sabslikesobs / pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
 * 【2023-11-30】[Viiiikedy / Hexo-Quant-Learning-Book](https://github.com/Viiiikedy/Hexo-Quant-Learning-Book) - This is for Finance (Quant)Learning of Vicky💕.Hope you could also enjoy the journey of finding your own business here.
 * 【2023-11-30】[zxcodes / Calculator](https://github.com/zxcodes/Calculator) - A Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
 * 【2023-11-29】[codingstella / cool-responsive-portfolio](https://github.com/codingstella/cool-responsive-portfolio) - 
@@ -523,6 +546,11 @@
 
 ## Unknown
 
+* 【2023-12-01】[sdg-1 / consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
+* 【2023-12-01】[nihalsid / mesh-gpt](https://github.com/nihalsid/mesh-gpt) - MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
+* 【2023-12-01】[fempire / women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
+* 【2023-12-01】[arbackes / Livro_Python](https://github.com/arbackes/Livro_Python) - 
+* 【2023-12-01】[IDEA-Research / T-Rex](https://github.com/IDEA-Research/T-Rex) - Detect and count any objects by visual prompting
 * 【2023-11-30】[friuns2 / Leaked-GPTs](https://github.com/friuns2/Leaked-GPTs) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 * 【2023-11-30】[1mrat / gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 * 【2023-11-30】[terrakok / kmp-awesome](https://github.com/terrakok/kmp-awesome) - An awesome list that curates the best Kotlin Multiplatform libraries, tools and more.
