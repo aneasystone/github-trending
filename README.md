@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-12-02】[autonomousvision / mip-splatting](https://github.com/autonomousvision/mip-splatting) - Mip-Splatting: Alias-free 3D Gaussian Splatting
+* 【2023-12-02】[EmergeTools / Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
+* 【2023-12-02】[notmahi / dobb-e](https://github.com/notmahi/dobb-e) - Dobb·E: An open-source, general framework for learning household robotic manipulation
+* 【2023-12-02】[open-mmlab / Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+* 【2023-12-02】[mapleafgo / clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter) - Clash的桌面客户端，支持 windows、linux、macos
 * 【2023-12-01】[federico-busato / Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming) - Modern C++ Programming Course (C++11/14/17/20)
 * 【2023-12-01】[epfLLM / meditron](https://github.com/epfLLM/meditron) - Meditron is a suite of open-source medical Large Language Models (LLMs).
 * 【2023-12-01】[mlabonne / llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -145,6 +150,10 @@
 
 ## Python
 
+* 【2023-12-02】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+* 【2023-12-02】[swaggyP36000 / TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
+* 【2023-12-02】[francozappa / bluffs](https://github.com/francozappa/bluffs) - Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]
+* 【2023-12-02】[Syslifters / sysreptor](https://github.com/Syslifters/sysreptor) - Fully customisable, offensive security reporting solution designed for pentesters, red teamers and other security-related people alike.
 * 【2023-12-01】[plenumlab / rce-finder](https://github.com/plenumlab/rce-finder) - A tool to find good RCE
 * 【2023-12-01】[JoeanAmier / XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费、轻量、开源，基于 Requests 模块实现：小红书图文/视频作品数据采集工具
 * 【2023-11-30】[IEIT-Yuan / Yuan-2.0](https://github.com/IEIT-Yuan/Yuan-2.0) - Yuan 2.0 Large Language Model
@@ -238,6 +247,7 @@
 
 ## Javascript
 
+* 【2023-12-02】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 * 【2023-12-01】[WenyanLiu / CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
 * 【2023-11-30】[francoischalifour / medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
@@ -292,6 +302,8 @@
 
 ## Go
 
+* 【2023-12-02】[kosmos-io / kosmos](https://github.com/kosmos-io/kosmos) - 
+* 【2023-12-02】[bracesdev / errtrace](https://github.com/bracesdev/errtrace) - An alternative to stack traces for your Go errors
 * 【2023-12-01】[dreddsa5dies / goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
 * 【2023-12-01】[angelofallars / htmx-go](https://github.com/angelofallars/htmx-go) - </> Build awesome HTMX + Go projects faster.
 * 【2023-12-01】[openfaas / faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
@@ -383,6 +395,7 @@
 
 ## C++
 
+* 【2023-12-02】[Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 * 【2023-11-30】[buaacyw / GaussianEditor](https://github.com/buaacyw/GaussianEditor) - 
 * 【2023-11-30】[microsoft / DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) - This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 * 【2023-11-30】[ros-planning / moveit](https://github.com/ros-planning/moveit) - 🤖 The MoveIt motion planning framework
@@ -423,6 +436,7 @@
 
 ## C#
 
+* 【2023-12-02】[stayintarkov / StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) - 
 * 【2023-11-30】[mixcore / mix.core](https://github.com/mixcore/mix.core) - 🚀 Mixcore CMS is an Future-Proof Enterprise Web CMS that supports both headless and decoupled to easily build any kinds of app/web app/all in all/customizable APIs built on top of ASP.NET Core / Dotnet Core. It is a completely open-source ASP.NET Core (Dotnet Core) CMS solution. https://mixcore.org
 * 【2023-11-29】[ph4nt0mbyt3 / Darkside](https://github.com/ph4nt0mbyt3/Darkside) - C# AV/EDR Killer using less-known driver (BYOVD)
 * 【2023-11-29】[emberstack / kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
@@ -457,6 +471,8 @@
 
 ## Html
 
+* 【2023-12-02】[kmille / freetar](https://github.com/kmille/freetar) - freetar - an alternative frontend for ultimate-guitar.com
+* 【2023-12-02】[mouredev / adeviento-web](https://github.com/mouredev/adeviento-web) - Proyecto web asociado al "Calendario de aDEViento" de la comunidad. Una actividad en la que del 1 al 24 de diciembre se sortea un regalo relacionado con el aprendizaje de programación y desarrollo de software.
 * 【2023-12-01】[wikihidden4 / HIdden-Wiki](https://github.com/wikihidden4/HIdden-Wiki) - https://thehiddenwiki2022.com
 * 【2023-11-30】[awesome-assistants / awesome-assistants](https://github.com/awesome-assistants/awesome-assistants) - A curated list of awesome AI assistants. Example Telegram bot with all these assistants can be tested on the link below.
 * 【2023-11-30】[tarpetra / welcome-to-darknet](https://github.com/tarpetra/welcome-to-darknet) - A verified list of darknet markets and services with links for educational reference.
@@ -494,6 +510,15 @@
 
 ## Css
 
+* 【2023-12-02】[Jabir0 / K2-E-Commerce](https://github.com/Jabir0/K2-E-Commerce) - 
+* 【2023-12-02】[Muh-Ikbal / kelompok-3](https://github.com/Muh-Ikbal/kelompok-3) - 
+* 【2023-12-02】[TheBridge-FullStackDeveloper / fetch-async-await](https://github.com/TheBridge-FullStackDeveloper/fetch-async-await) - 
+* 【2023-12-02】[innoq / architecture-antipatterns](https://github.com/innoq/architecture-antipatterns) - Repo für Architecture Antipatterns Website
+* 【2023-12-02】[xiaoqingfengATGH / luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
+* 【2023-12-02】[asif-daffodil / Mern-e-commerce](https://github.com/asif-daffodil/Mern-e-commerce) - 
+* 【2023-12-02】[asif-daffodil / ims](https://github.com/asif-daffodil/ims) - 
+* 【2023-12-02】[asif-daffodil / b82m](https://github.com/asif-daffodil/b82m) - 
+* 【2023-12-02】[asif-daffodil / PHP-eCommerce-dti](https://github.com/asif-daffodil/PHP-eCommerce-dti) - 
 * 【2023-12-01】[Viiiikedy / Hexo-Korean-Learning](https://github.com/Viiiikedy/Hexo-Korean-Learning) - This is for Korean Learning of Vicky💕 .Hope you could also enjoy the journey of language learning like her✔️
 * 【2023-12-01】[VineeTagarwaL-code / OrganLink](https://github.com/VineeTagarwaL-code/OrganLink) - OrganLink aims to connect Donors and needy peoples to save lives ! 💖
 * 【2023-12-01】[Viiiikedy / Hexo-CS-Learning](https://github.com/Viiiikedy/Hexo-CS-Learning) - ✔️This is for Vicky's CS Learning. Hope you could also learn something from here.✨
@@ -546,6 +571,9 @@
 
 ## Unknown
 
+* 【2023-12-02】[forpaindream / AltiumDesignerLibPkg-dream](https://github.com/forpaindream/AltiumDesignerLibPkg-dream) - 自制的AD封装库，基于AD20
+* 【2023-12-02】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
+* 【2023-12-02】[invalidunit / chflags_trollhelper](https://github.com/invalidunit/chflags_trollhelper) - 
 * 【2023-12-01】[sdg-1 / consulting-handbook](https://github.com/sdg-1/consulting-handbook) - A guide for technical professionals looking to start consulting
 * 【2023-12-01】[nihalsid / mesh-gpt](https://github.com/nihalsid/mesh-gpt) - MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
 * 【2023-12-01】[fempire / women-tech-speakers-organizers](https://github.com/fempire/women-tech-speakers-organizers) - A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire
