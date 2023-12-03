@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+* 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
+* 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
+* 【2023-12-03】[google-deepmind / materials_discovery](https://github.com/google-deepmind/materials_discovery) - 
+* 【2023-12-03】[HumanAIGC / AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 * 【2023-12-02】[autonomousvision / mip-splatting](https://github.com/autonomousvision/mip-splatting) - Mip-Splatting: Alias-free 3D Gaussian Splatting
 * 【2023-12-02】[EmergeTools / Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 * 【2023-12-02】[notmahi / dobb-e](https://github.com/notmahi/dobb-e) - Dobb·E: An open-source, general framework for learning household robotic manipulation
@@ -122,6 +127,8 @@
 
 ## Java
 
+* 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
+* 【2023-12-03】[weibocom / rill-flow](https://github.com/weibocom/rill-flow) - 
 * 【2023-12-01】[shenzepeng / album-system](https://github.com/shenzepeng/album-system) - 
 * 【2023-12-01】[oracle / opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * 【2023-11-30】[makemyownlife / platform-sms](https://github.com/makemyownlife/platform-sms) - 简单的短信网关服务，提供客户端 SDK ，支持阿里云，腾讯云，亿美短信发送，适用于中小型公司。您的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果您觉得还不错，请点上一颗小星星。
@@ -395,6 +402,8 @@
 
 ## C++
 
+* 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
+* 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
 * 【2023-12-02】[Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 * 【2023-11-30】[buaacyw / GaussianEditor](https://github.com/buaacyw/GaussianEditor) - 
 * 【2023-11-30】[microsoft / DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) - This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
@@ -436,6 +445,8 @@
 
 ## C#
 
+* 【2023-12-03】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
+* 【2023-12-03】[MonkSoul / Furion](https://github.com/MonkSoul/Furion) - Make .NET development easier, more versatile, and more popular.
 * 【2023-12-02】[stayintarkov / StayInTarkov.Client](https://github.com/stayintarkov/StayInTarkov.Client) - 
 * 【2023-11-30】[mixcore / mix.core](https://github.com/mixcore/mix.core) - 🚀 Mixcore CMS is an Future-Proof Enterprise Web CMS that supports both headless and decoupled to easily build any kinds of app/web app/all in all/customizable APIs built on top of ASP.NET Core / Dotnet Core. It is a completely open-source ASP.NET Core (Dotnet Core) CMS solution. https://mixcore.org
 * 【2023-11-29】[ph4nt0mbyt3 / Darkside](https://github.com/ph4nt0mbyt3/Darkside) - C# AV/EDR Killer using less-known driver (BYOVD)
@@ -471,6 +482,12 @@
 
 ## Html
 
+* 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
+* 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
+* 【2023-12-03】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+* 【2023-12-03】[justin-himself / NVIDIA-VGPU-Driver-Archive](https://github.com/justin-himself/NVIDIA-VGPU-Driver-Archive) - This repository provides an archive for NVIDIA vGPU drivers.
+* 【2023-12-03】[USC-GVL / Agent-Driver](https://github.com/USC-GVL/Agent-Driver) - A Language Agent for Autonomous Driving
+* 【2023-12-03】[OWASP / www-project-ai-security-and-privacy-guide](https://github.com/OWASP/www-project-ai-security-and-privacy-guide) - OWASP Foundation Web Respository
 * 【2023-12-02】[kmille / freetar](https://github.com/kmille/freetar) - freetar - an alternative frontend for ultimate-guitar.com
 * 【2023-12-02】[mouredev / adeviento-web](https://github.com/mouredev/adeviento-web) - Proyecto web asociado al "Calendario de aDEViento" de la comunidad. Una actividad en la que del 1 al 24 de diciembre se sortea un regalo relacionado con el aprendizaje de programación y desarrollo de software.
 * 【2023-12-01】[wikihidden4 / HIdden-Wiki](https://github.com/wikihidden4/HIdden-Wiki) - https://thehiddenwiki2022.com
@@ -510,6 +527,11 @@
 
 ## Css
 
+* 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
+* 【2023-12-03】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
+* 【2023-12-03】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
+* 【2023-12-03】[Mohanmaali144 / ShashwatProject](https://github.com/Mohanmaali144/ShashwatProject) - 
+* 【2023-12-03】[Preshy62 / skylineict-cohort31](https://github.com/Preshy62/skylineict-cohort31) - 
 * 【2023-12-02】[Jabir0 / K2-E-Commerce](https://github.com/Jabir0/K2-E-Commerce) - 
 * 【2023-12-02】[Muh-Ikbal / kelompok-3](https://github.com/Muh-Ikbal/kelompok-3) - 
 * 【2023-12-02】[TheBridge-FullStackDeveloper / fetch-async-await](https://github.com/TheBridge-FullStackDeveloper/fetch-async-await) - 
@@ -571,6 +593,7 @@
 
 ## Unknown
 
+* 【2023-12-03】[ydb-platform / ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 * 【2023-12-02】[forpaindream / AltiumDesignerLibPkg-dream](https://github.com/forpaindream/AltiumDesignerLibPkg-dream) - 自制的AD封装库，基于AD20
 * 【2023-12-02】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
 * 【2023-12-02】[invalidunit / chflags_trollhelper](https://github.com/invalidunit/chflags_trollhelper) - 
