@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
+* 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
+* 【2023-12-04】[samuelcolvin / FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
+* 【2023-12-04】[apple / swift-aoc-starter-example](https://github.com/apple/swift-aoc-starter-example) - Swift starter project for solving Advent of Code challenges.
+* 【2023-12-04】[ThePrimeagen / harpoon](https://github.com/ThePrimeagen/harpoon) - 
+* 【2023-12-04】[typehero / typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
+* 【2023-12-04】[ChristopherBiscardi / advent-of-code](https://github.com/ChristopherBiscardi/advent-of-code) - 
 * 【2023-12-03】[pytorch-labs / gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
 * 【2023-12-03】[dangeng / visual_anagrams](https://github.com/dangeng/visual_anagrams) - Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
 * 【2023-12-03】[microsoft / TaskWeaver](https://github.com/microsoft/TaskWeaver) - A code-first agent framework for seamlessly planning and executing data analytics tasks.
@@ -157,6 +164,12 @@
 
 ## Python
 
+* 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
+* 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+* 【2023-12-04】[cheshire-cat-ai / core](https://github.com/cheshire-cat-ai/core) - Production ready AI assistant framework
+* 【2023-12-04】[Vchitect / LaVie](https://github.com/Vchitect/LaVie) - LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+* 【2023-12-04】[Vchitect / SEINE](https://github.com/Vchitect/SEINE) - SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
+* 【2023-12-04】[Littlefean / SmartPython](https://github.com/Littlefean/SmartPython) - python小技巧系列源代码——来自b站视频
 * 【2023-12-02】[Avaiga / taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 * 【2023-12-02】[swaggyP36000 / TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - A collection of IPA files from many different sources, for TrollStore!
 * 【2023-12-02】[francozappa / bluffs](https://github.com/francozappa/bluffs) - Bluetooth Forward and Future Secrecy Attacks and Defenses (BLUFFS) [CVE 2023-24023]
@@ -254,6 +267,10 @@
 
 ## Javascript
 
+* 【2023-12-04】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
+* 【2023-12-04】[goabstract / Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+* 【2023-12-04】[qzz0518 / coss](https://github.com/qzz0518/coss) - 
+* 【2023-12-04】[caolan / async](https://github.com/caolan/async) - Async utilities for node and the browser
 * 【2023-12-02】[shaka-project / shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 * 【2023-12-01】[sun0225SUN / Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 * 【2023-12-01】[WenyanLiu / CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
@@ -309,6 +326,8 @@
 
 ## Go
 
+* 【2023-12-04】[Consensys / gnark](https://github.com/Consensys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+* 【2023-12-04】[bookstairs / bookhunter](https://github.com/bookstairs/bookhunter) - A download tools for clawing the ebooks from internets.
 * 【2023-12-02】[kosmos-io / kosmos](https://github.com/kosmos-io/kosmos) - 
 * 【2023-12-02】[bracesdev / errtrace](https://github.com/bracesdev/errtrace) - An alternative to stack traces for your Go errors
 * 【2023-12-01】[dreddsa5dies / goHackTools](https://github.com/dreddsa5dies/goHackTools) - Hacker tools on Go (Golang)
@@ -402,6 +421,7 @@
 
 ## C++
 
+* 【2023-12-04】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-03】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
 * 【2023-12-03】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
 * 【2023-12-02】[Mozilla-Ocho / llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
@@ -482,6 +502,7 @@
 
 ## Html
 
+* 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
 * 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
 * 【2023-12-03】[unfoldadmin / django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
@@ -527,6 +548,7 @@
 
 ## Css
 
+* 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
 * 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
 * 【2023-12-03】[itscodenation / int-u3-project-23-24-starter-code](https://github.com/itscodenation/int-u3-project-23-24-starter-code) - 
 * 【2023-12-03】[carbon-design-system / carbon-tutorial-nextjs](https://github.com/carbon-design-system/carbon-tutorial-nextjs) - 
@@ -593,6 +615,8 @@
 
 ## Unknown
 
+* 【2023-12-04】[hacktivist123 / DevOps-Learning-Plan](https://github.com/hacktivist123/DevOps-Learning-Plan) - This is my DevOps learning plan for the year 2024
+* 【2023-12-04】[matheusfelipeog / beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 * 【2023-12-03】[ydb-platform / ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 * 【2023-12-02】[forpaindream / AltiumDesignerLibPkg-dream](https://github.com/forpaindream/AltiumDesignerLibPkg-dream) - 自制的AD封装库，基于AD20
 * 【2023-12-02】[lizhe00 / AnimatableGaussians](https://github.com/lizhe00/AnimatableGaussians) - Code of "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling"
