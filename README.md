@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-12-06】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
+* 【2023-12-06】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
+* 【2023-12-06】[bbycroft / llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
+* 【2023-12-06】[AmrDeveloper / GQL](https://github.com/AmrDeveloper/GQL) - Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions
+* 【2023-12-06】[stevearc / oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 * 【2023-12-04】[laravel / pulse](https://github.com/laravel/pulse) - Laravel Pulse is a real-time application performance monitoring tool and dashboard for your Laravel application.
 * 【2023-12-04】[unslothai / unsloth](https://github.com/unslothai/unsloth) - 5X faster 50% less memory LLM finetuning
 * 【2023-12-04】[samuelcolvin / FastUI](https://github.com/samuelcolvin/FastUI) - Build better UIs faster.
@@ -134,6 +139,7 @@
 
 ## Java
 
+* 【2023-12-06】[geotools / geotools](https://github.com/geotools/geotools) - Official GeoTools repository
 * 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
 * 【2023-12-05】[portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 * 【2023-12-03】[FongMi / CatVodSpider](https://github.com/FongMi/CatVodSpider) - 
@@ -166,6 +172,9 @@
 
 ## Python
 
+* 【2023-12-06】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
+* 【2023-12-06】[lucidrains / meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
+* 【2023-12-06】[HumanAIGC / Cloth2Tex](https://github.com/HumanAIGC/Cloth2Tex) - Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
 * 【2023-12-05】[avgupta456 / github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 * 【2023-12-04】[JayZeeDesign / research-agents-3.0](https://github.com/JayZeeDesign/research-agents-3.0) - Autogen + GPTs - build a swarm AI researchers
 * 【2023-12-04】[VikParuchuri / marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
@@ -331,6 +340,8 @@
 
 ## Go
 
+* 【2023-12-06】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
+* 【2023-12-06】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 * 【2023-12-05】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * 【2023-12-05】[zitadel / oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 * 【2023-12-05】[siglens / siglens](https://github.com/siglens/siglens) - Observability at 100x Efficiency
@@ -383,6 +394,9 @@
 
 ## C
 
+* 【2023-12-06】[mitxela / candle](https://github.com/mitxela/candle) - 
+* 【2023-12-06】[quelsolaar / makemake](https://github.com/quelsolaar/makemake) - 
+* 【2023-12-06】[donato-fiore / TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
 * 【2023-12-01】[wh1te4ever / TrollDecryptor](https://github.com/wh1te4ever/TrollDecryptor) - Decrypt iOS apps for TrollStore
 * 【2023-11-30】[opa334 / ChOma](https://github.com/opa334/ChOma) - C library for manipulating MachO/FAT files and their code signatures
 * 【2023-11-30】[pvvx / ZigbeeTLc](https://github.com/pvvx/ZigbeeTLc) - Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip
@@ -513,6 +527,7 @@
 
 ## Html
 
+* 【2023-12-06】[wundergraph / cosmo](https://github.com/wundergraph/cosmo) - The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale.
 * 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
 * 【2023-12-03】[cphxj123 / Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex) - dol北极星扩展
@@ -559,6 +574,8 @@
 
 ## Css
 
+* 【2023-12-06】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
+* 【2023-12-06】[nikhilsoftwareboy / Real-Estate-Listings-and-Property-Management-Website](https://github.com/nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website) - 
 * 【2023-12-05】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
 * 【2023-12-04】[yandex-praktikum / slozhno-sosredotochitsya](https://github.com/yandex-praktikum/slozhno-sosredotochitsya) - Проект "Сложно сосредоточиться"
 * 【2023-12-03】[Godiesc / firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
@@ -627,6 +644,8 @@
 
 ## Unknown
 
+* 【2023-12-06】[miketromba / highest-paying-software-companies](https://github.com/miketromba/highest-paying-software-companies) - The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
+* 【2023-12-06】[DERE-ad2001 / Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
 * 【2023-12-05】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
 * 【2023-12-05】[greatfrontend / awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design) - Curated front end system design resources for interviews and learning
 * 【2023-12-05】[ZiqiaoPeng / SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk) - This is the official source for our paper "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis"
