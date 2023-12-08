@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2023-12-08】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
+* 【2023-12-08】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
+* 【2023-12-08】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
+* 【2023-12-08】[PRIS-CV / DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (arXiv 2023)
+* 【2023-12-08】[facebook / stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
+* 【2023-12-08】[SuperDuperDB / superduperdb](https://github.com/SuperDuperDB/superduperdb) - 🔮 SuperDuperDB: Bring AI to your database: Integrate, train and manage any AI models and APIs directly with your database and your data.
+* 【2023-12-08】[gkd-kit / gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+* 【2023-12-08】[keyvanakbary / learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love
 * 【2023-12-07】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
 * 【2023-12-07】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
 * 【2023-12-07】[ytongbai / LVM](https://github.com/ytongbai/LVM) - 
@@ -142,6 +150,8 @@
 
 ## Java
 
+* 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
+* 【2023-12-08】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
 * 【2023-12-06】[geotools / geotools](https://github.com/geotools/geotools) - Official GeoTools repository
 * 【2023-12-05】[woheller69 / browser](https://github.com/woheller69/browser) - A privacy oriented web browser with Greasemonkey style script support
 * 【2023-12-05】[portfolio-performance / portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
@@ -175,6 +185,10 @@
 
 ## Python
 
+* 【2023-12-08】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
+* 【2023-12-08】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
+* 【2023-12-08】[Flode-Labs / vid2densepose](https://github.com/Flode-Labs/vid2densepose) - Convert your videos to densepose and use it on MagicAnimate
+* 【2023-12-08】[gaogaotiantian / pitch-visualizer](https://github.com/gaogaotiantian/pitch-visualizer) - Visualize pitch for a video
 * 【2023-12-07】[dchrastil / ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
 * 【2023-12-07】[pinecone-io / canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 * 【2023-12-06】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
@@ -284,6 +298,8 @@
 
 ## Javascript
 
+* 【2023-12-08】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
+* 【2023-12-08】[DogeNetwork / v4](https://github.com/DogeNetwork/v4) - End internet censorship instantly with Doge Unblocker, a powerful web proxy designed for customization and anonymity. (Please star)
 * 【2023-12-07】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 * 【2023-12-05】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
 * 【2023-12-05】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
@@ -346,6 +362,8 @@
 
 ## Go
 
+* 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
+* 【2023-12-08】[aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-12-07】[jvns / git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 * 【2023-12-06】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 * 【2023-12-06】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
@@ -401,6 +419,7 @@
 
 ## C
 
+* 【2023-12-08】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-06】[mitxela / candle](https://github.com/mitxela/candle) - 
 * 【2023-12-06】[quelsolaar / makemake](https://github.com/quelsolaar/makemake) - 
 * 【2023-12-06】[donato-fiore / TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt) - iOS IPA Decrypter for TrollStore
@@ -496,6 +515,7 @@
 
 ## C#
 
+* 【2023-12-08】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
 * 【2023-12-07】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
 * 【2023-12-05】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
 * 【2023-12-05】[markjprice / cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
@@ -536,6 +556,9 @@
 
 ## Html
 
+* 【2023-12-08】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
+* 【2023-12-08】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
+* 【2023-12-08】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
 * 【2023-12-06】[wundergraph / cosmo](https://github.com/wundergraph/cosmo) - The open-source alternative to Apollo GraphOS. Building, maintaining, and collaborating on GraphQL Federation at Scale.
 * 【2023-12-04】[Meekdai / Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 * 【2023-12-03】[flutter / super_dash](https://github.com/flutter/super_dash) - 
@@ -583,6 +606,7 @@
 
 ## Css
 
+* 【2023-12-08】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
 * 【2023-12-07】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
 * 【2023-12-07】[tecg-dcc / js-tp-burger-menu](https://github.com/tecg-dcc/js-tp-burger-menu) - Un menu de navigation burger très simple pour les petits écrans - NIVEAU : facile
 * 【2023-12-07】[demo-projects / training_resources](https://github.com/demo-projects/training_resources) - assets for react training
@@ -657,6 +681,12 @@
 
 ## Unknown
 
+* 【2023-12-08】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
+* 【2023-12-08】[heyOnuoha / Free-Fintech-Engineering-Bootcamp](https://github.com/heyOnuoha/Free-Fintech-Engineering-Bootcamp) - Free learning materials on Fintech Engineering!
+* 【2023-12-08】[lkeab / gaussian-grouping](https://github.com/lkeab/gaussian-grouping) - Gaussian Grouping for open-world Anything reconstruction, segmentation and editing.
+* 【2023-12-08】[MlgmXyysd / Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) - 小米 BootLoader《解锁资格答题测试》更新记录
+* 【2023-12-08】[BookShared / BookShared](https://github.com/BookShared/BookShared) - 
+* 【2023-12-08】[wecooperate / iDefender](https://github.com/wecooperate/iDefender) - iDefender（冰盾 - 终端主动防御系统）
 * 【2023-12-07】[devv-ai / devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 * 【2023-12-07】[yonggekkk / sing-box](https://github.com/yonggekkk/sing-box) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW三合一配置
 * 【2023-12-06】[miketromba / highest-paying-software-companies](https://github.com/miketromba/highest-paying-software-companies) - The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
