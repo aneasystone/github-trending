@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-12-11】[prasanthrangan / hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
+* 【2023-12-11】[facebookresearch / Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 * 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
 * 【2023-12-10】[facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2023-12-10】[anoma / namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer) - Sign arbitrary messages with keys obtained from Namada's trusted setup
@@ -59,6 +61,9 @@
 
 ## Java
 
+* 【2023-12-11】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
+* 【2023-12-11】[chiteroman / BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
+* 【2023-12-11】[anylineorg / anyline](https://github.com/anylineorg/anyline) - 基于spring生态的D-ORM,兼容各种数据库。动态注册切换数据源，生成或执行DDL/DML。读写元数据。常用于动态结构的场景,如:数据中台、可视化、低代码后台、SAAS、自定义表单、异构数据库迁移同步、物联网车联网数据处理、数据清洗、运行时自定义报表/查询条件/数据结构、爬虫数据解析等,只需要一个注解即可与springboot,mvc等框架项目完美整合。
 * 【2023-12-09】[WuKongOpenSource / Wukong_nocode](https://github.com/WuKongOpenSource/Wukong_nocode) - 悟空无代码平台正式开源，通过悟空无代码平台开发工具，企业可自主地快速开发出适合企业需要的信息化系统，开发过程只需要业务人员参与，开发效率极高，维护性很强。
 * 【2023-12-08】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 * 【2023-12-08】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
@@ -72,6 +77,10 @@
 
 ## Python
 
+* 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
+* 【2023-12-11】[prs-eth / Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+* 【2023-12-11】[stanford-futuredata / megablocks](https://github.com/stanford-futuredata/megablocks) - 
+* 【2023-12-11】[howarder3 / ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/ChatGPT-Linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 * 【2023-12-10】[havenhq / mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
 * 【2023-12-10】[AIFSH / NativeSpeaker](https://github.com/AIFSH/NativeSpeaker) - make your Speaker talking as Native style with own voice！
 * 【2023-12-10】[luciddreamer-cvlab / LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) - Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes".
@@ -143,6 +152,8 @@
 
 ## C
 
+* 【2023-12-11】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
+* 【2023-12-11】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 * 【2023-12-10】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
 * 【2023-12-10】[onyx-lang / onyx](https://github.com/onyx-lang/onyx) - A modern language for WebAssembly.
 * 【2023-12-09】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
@@ -154,6 +165,7 @@
 
 ## C++
 
+* 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
 * 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
 * 【2023-12-10】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
 * 【2023-12-10】[changh95 / fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes) - Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series
@@ -169,6 +181,8 @@
 
 ## C#
 
+* 【2023-12-11】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
+* 【2023-12-11】[sharpbrowser / SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 * 【2023-12-10】[standard-webhooks / standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 * 【2023-12-09】[bezzad / Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 * 【2023-12-08】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
