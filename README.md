@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-12-12】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
+* 【2023-12-12】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
+* 【2023-12-12】[ast-grep / ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+* 【2023-12-12】[zhyever / PatchFusion](https://github.com/zhyever/PatchFusion) - An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation
+* 【2023-12-12】[SqueezeAILab / LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler) - LLMCompiler: An LLM Compiler for Parallel Function Calling
+* 【2023-12-12】[asset-group / 5ghoul-5g-nr-attacks](https://github.com/asset-group/5ghoul-5g-nr-attacks) - 
 * 【2023-12-11】[prasanthrangan / hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
 * 【2023-12-11】[facebookresearch / Pearl](https://github.com/facebookresearch/Pearl) - A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 * 【2023-12-10】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
@@ -61,6 +67,7 @@
 
 ## Java
 
+* 【2023-12-12】[openpilot-hub / devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
 * 【2023-12-11】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
 * 【2023-12-11】[chiteroman / BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
 * 【2023-12-11】[anylineorg / anyline](https://github.com/anylineorg/anyline) - 基于spring生态的D-ORM,兼容各种数据库。动态注册切换数据源，生成或执行DDL/DML。读写元数据。常用于动态结构的场景,如:数据中台、可视化、低代码后台、SAAS、自定义表单、异构数据库迁移同步、物联网车联网数据处理、数据清洗、运行时自定义报表/查询条件/数据结构、爬虫数据解析等,只需要一个注解即可与springboot,mvc等框架项目完美整合。
@@ -77,6 +84,8 @@
 
 ## Python
 
+* 【2023-12-12】[LTH14 / rcg](https://github.com/LTH14/rcg) - PyTorch implementation of RCG https://arxiv.org/abs/2312.03701
+* 【2023-12-12】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare
 * 【2023-12-11】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
 * 【2023-12-11】[prs-eth / Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 * 【2023-12-11】[stanford-futuredata / megablocks](https://github.com/stanford-futuredata/megablocks) - 
@@ -112,6 +121,7 @@
 
 ## Javascript
 
+* 【2023-12-12】[GTNewHorizons / GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) - New Modpack with Gregtech, Thaumcraft and Witchery
 * 【2023-12-10】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-09】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 * 【2023-12-09】[zfy666ci / ton-mint](https://github.com/zfy666ci/ton-mint) - 
@@ -130,6 +140,8 @@
 
 ## Go
 
+* 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
+* 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 * 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2023-12-08】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
 * 【2023-12-08】[aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -165,6 +177,8 @@
 
 ## C++
 
+* 【2023-12-12】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
+* 【2023-12-12】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2023-12-11】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
 * 【2023-12-10】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
 * 【2023-12-10】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
@@ -181,6 +195,8 @@
 
 ## C#
 
+* 【2023-12-12】[99natmar99 / Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
+* 【2023-12-12】[Proektsoftbg / Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations.
 * 【2023-12-11】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
 * 【2023-12-11】[sharpbrowser / SharpBrowser](https://github.com/sharpbrowser/SharpBrowser) - A full featured web-browser built using C# and CefSharp
 * 【2023-12-10】[standard-webhooks / standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
@@ -216,6 +232,9 @@
 
 ## Css
 
+* 【2023-12-12】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
+* 【2023-12-12】[cropsync / CropSync](https://github.com/cropsync/CropSync) - CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process.
+* 【2023-12-12】[edurekacontent / dockerContent](https://github.com/edurekacontent/dockerContent) - 
 * 【2023-12-10】[amyyalex / simple-contribution](https://github.com/amyyalex/simple-contribution) - This is a very simple project to help first-time contributors to easily participate in an open-source project.
 * 【2023-12-10】[FreeRDP / freerdp.github.io](https://github.com/FreeRDP/freerdp.github.io) - FreeRDP website
 * 【2023-12-08】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
@@ -249,6 +268,9 @@
 
 ## Unknown
 
+* 【2023-12-12】[openbao / openbao](https://github.com/openbao/openbao) - 
+* 【2023-12-12】[AIoT-MLSys-Lab / Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - Efficient Large Language Models: A Survey
+* 【2023-12-12】[GT-RIPL / Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
 * 【2023-12-10】[meri-nova / breaking-into-data-handbook](https://github.com/meri-nova/breaking-into-data-handbook) - Breaking Into Data Handbook
 * 【2023-12-10】[YuelangX / Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar) - Official repository for "Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians"
 * 【2023-12-10】[skysafe / reblog](https://github.com/skysafe/reblog) - SkySafe Miscellaneous Reverse Engineering Blog
