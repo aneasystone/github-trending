@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2023-12-14】[amitsangani / Llama-2](https://github.com/amitsangani/Llama-2) - All the projects related to Llama
+* 【2023-12-14】[wy876 / POC](https://github.com/wy876/POC) - 2023HW漏洞整理，收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了100多个poc/exp
+* 【2023-12-14】[lean-dojo / LeanCopilot](https://github.com/lean-dojo/LeanCopilot) - LLMs as Copilots for Theorem Proving in Lean
+* 【2023-12-14】[bricks-cloud / BricksLLM](https://github.com/bricks-cloud/BricksLLM) - Simplifying LLM ops in production
 * 【2023-12-13】[HuolalaTech / page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
 * 【2023-12-13】[KovenYu / WonderJourney](https://github.com/KovenYu/WonderJourney) - 
 * 【2023-12-13】[allenai / papermage](https://github.com/allenai/papermage) - library supporting NLP and CV research on scientific papers
@@ -70,6 +74,8 @@
 
 ## Java
 
+* 【2023-12-14】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
+* 【2023-12-14】[jetty / jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 * 【2023-12-13】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
 * 【2023-12-12】[openpilot-hub / devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
 * 【2023-12-11】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
@@ -88,6 +94,9 @@
 
 ## Python
 
+* 【2023-12-14】[confident-ai / deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+* 【2023-12-14】[DevilXD / TwitchDropsMiner](https://github.com/DevilXD/TwitchDropsMiner) - An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.
+* 【2023-12-14】[dusty-nv / jetson-containers](https://github.com/dusty-nv/jetson-containers) - Machine Learning Containers for NVIDIA Jetson and JetPack-L4T
 * 【2023-12-13】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
 * 【2023-12-13】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
 * 【2023-12-13】[rushter / MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
@@ -128,6 +137,8 @@
 
 ## Javascript
 
+* 【2023-12-14】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
+* 【2023-12-14】[Asfak00 / DSA-learning](https://github.com/Asfak00/DSA-learning) - It is a document repository. I'm learning DSA so I created this repository to note down all the things, that might benefit many others. In this repository, I have tried to cover all the important topics of data structures and algorithms.
 * 【2023-12-13】[grommet / grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 * 【2023-12-13】[jhuckaby / Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 * 【2023-12-13】[codeceptjs / CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
@@ -151,6 +162,8 @@
 
 ## Go
 
+* 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
+* 【2023-12-14】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
 * 【2023-12-12】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
 * 【2023-12-12】[wavetermdev / waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 * 【2023-12-09】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
@@ -175,6 +188,7 @@
 
 ## C
 
+* 【2023-12-14】[TobyLobster / multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
 * 【2023-12-13】[m0nad / Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
 * 【2023-12-13】[gspu / Coherent](https://github.com/gspu/Coherent) - Coherent OS
 * 【2023-12-13】[BUPT-OS / RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities. RROS = RTOS (Rust) + Linux (C).
@@ -211,6 +225,7 @@
 
 ## C#
 
+* 【2023-12-14】[micjahn / ZXing.Net](https://github.com/micjahn/ZXing.Net) - .Net port of the original java-based barcode reader and generator library zxing
 * 【2023-12-13】[SuxueCode / WechatBakTool](https://github.com/SuxueCode/WechatBakTool) - 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
 * 【2023-12-13】[MarimerLLC / csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
 * 【2023-12-13】[microsoft / testfx](https://github.com/microsoft/testfx) - MSTest framework and adapter
@@ -254,6 +269,7 @@
 
 ## Css
 
+* 【2023-12-14】[Gozargah / gozargah.github.io](https://github.com/Gozargah/gozargah.github.io) - 
 * 【2023-12-13】[ronaldchan333 / QR-Code-Scan](https://github.com/ronaldchan333/QR-Code-Scan) - 
 * 【2023-12-13】[fleming-23 / DWEC_UNI4_PRAC1](https://github.com/fleming-23/DWEC_UNI4_PRAC1) - 
 * 【2023-12-12】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
@@ -292,6 +308,9 @@
 
 ## Unknown
 
+* 【2023-12-14】[dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
+* 【2023-12-14】[libin9iOak / ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all) - 
+* 【2023-12-14】[kenshin9000 / ConceptARC-Representations](https://github.com/kenshin9000/ConceptARC-Representations) - ConceptARC_Extract_Object_GPT4_API_Examples
 * 【2023-12-13】[vvictoryuki / AnimateZero](https://github.com/vvictoryuki/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators"
 * 【2023-12-13】[showlab / X-Adapter](https://github.com/showlab/X-Adapter) - X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
 * 【2023-12-13】[PeterGriffinJin / Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) - A curated list of papers and resources based on "Large Language Models on Graphs: A Comprehensive Survey".
