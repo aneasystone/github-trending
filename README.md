@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-12-17】[google / generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
+* 【2023-12-17】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+* 【2023-12-17】[oxc-project / oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+* 【2023-12-17】[yihong0618 / tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
+* 【2023-12-17】[srush / Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
+* 【2023-12-17】[google / generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Generative AI developer site
+* 【2023-12-17】[google / generative-ai-android](https://github.com/google/generative-ai-android) - Google AI SDK for Android
 * 【2023-12-16】[HumanAIGC / OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 * 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
 * 【2023-12-16】[adobe / react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -83,6 +90,8 @@
 
 ## Java
 
+* 【2023-12-17】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
+* 【2023-12-17】[bitisanop / CryptoExchange_TradingPlatform_CoinExchange](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) - Bitisan|BlockchainExchange|ExchangePlatform|CryptocurrencyTrading|区块链|交易所|永续合约|币币兑换
 * 【2023-12-14】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
 * 【2023-12-14】[jetty / jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 * 【2023-12-13】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
@@ -103,6 +112,13 @@
 
 ## Python
 
+* 【2023-12-17】[kadirnar / whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
+* 【2023-12-17】[facundoolano / feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
+* 【2023-12-17】[openai / weak-to-strong](https://github.com/openai/weak-to-strong) - 
+* 【2023-12-17】[Coframe / coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
+* 【2023-12-17】[google / generative-ai-python](https://github.com/google/generative-ai-python) - The Google AI Python SDK enables developers to use Google's state-of-the-art generative AI models (like Gemini and PaLM) to build AI-powered features and applications.
+* 【2023-12-17】[skills / secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
+* 【2023-12-17】[Chocapikk / CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) - Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution
 * 【2023-12-16】[Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary) - Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
 * 【2023-12-16】[Xunzi-LLM-of-Chinese-classics / XunziALLM](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM) - 
 * 【2023-12-16】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
@@ -156,6 +172,7 @@
 
 ## Javascript
 
+* 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 * 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
 * 【2023-12-15】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
@@ -184,6 +201,8 @@
 
 ## Go
 
+* 【2023-12-17】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
+* 【2023-12-17】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 * 【2023-12-16】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 * 【2023-12-14】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-14】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
@@ -235,6 +254,7 @@
 
 ## C++
 
+* 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
 * 【2023-12-15】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
@@ -260,6 +280,7 @@
 
 ## C#
 
+* 【2023-12-17】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 * 【2023-12-16】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
 * 【2023-12-15】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 * 【2023-12-15】[fullstackhero / dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
@@ -287,6 +308,7 @@
 
 ## Html
 
+* 【2023-12-17】[X-LANCE / StoryTTS](https://github.com/X-LANCE/StoryTTS) - https://goarsenal.github.io/StoryTTS/
 * 【2023-12-13】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
 * 【2023-12-10】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-09】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
@@ -309,6 +331,7 @@
 
 ## Css
 
+* 【2023-12-17】[tovifun / VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 * 【2023-12-16】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
 * 【2023-12-16】[SteamDatabase / GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2) - 📥 Game Tracker: Counter-Strike 2
 * 【2023-12-16】[lomzik / lomzik.github.com](https://github.com/lomzik/lomzik.github.com) - 
@@ -355,6 +378,10 @@
 
 ## Unknown
 
+* 【2023-12-17】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
+* 【2023-12-17】[riscv / learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
+* 【2023-12-17】[robotics-survey / Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - 
+* 【2023-12-17】[TodePond / nDreamBerd](https://github.com/TodePond/nDreamBerd) - perfect programming language
 * 【2023-12-16】[Mint-Blockchain / mint-brandkit](https://github.com/Mint-Blockchain/mint-brandkit) - 
 * 【2023-12-16】[ruesandora / Eclipse](https://github.com/ruesandora/Eclipse) - 
 * 【2023-12-16】[VladimirYugay / Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - 
