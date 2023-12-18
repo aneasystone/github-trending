@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-12-18】[anoma / namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+* 【2023-12-18】[vectorisvector / Polaris](https://github.com/vectorisvector/Polaris) - 
+* 【2023-12-18】[adrianhajdin / event_platform](https://github.com/adrianhajdin/event_platform) - Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
+* 【2023-12-18】[google-deepmind / funsearch](https://github.com/google-deepmind/funsearch) - 
+* 【2023-12-18】[HerbertHe / iptv-sources](https://github.com/HerbertHe/iptv-sources) - 自动抓取更新iptv源 Autoupdate iptv sources
+* 【2023-12-18】[pheralb / svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 * 【2023-12-17】[google / generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
 * 【2023-12-17】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
 * 【2023-12-17】[oxc-project / oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
@@ -112,6 +118,9 @@
 
 ## Python
 
+* 【2023-12-18】[microsoft / promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+* 【2023-12-18】[Fadi002 / de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+* 【2023-12-18】[resemble-ai / resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
 * 【2023-12-17】[kadirnar / whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
 * 【2023-12-17】[facundoolano / feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
 * 【2023-12-17】[openai / weak-to-strong](https://github.com/openai/weak-to-strong) - 
@@ -172,6 +181,7 @@
 
 ## Javascript
 
+* 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
 * 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 * 【2023-12-15】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
@@ -201,6 +211,7 @@
 
 ## Go
 
+* 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
 * 【2023-12-17】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
 * 【2023-12-17】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 * 【2023-12-16】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
@@ -230,6 +241,7 @@
 
 ## C
 
+* 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
 * 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
 * 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
 * 【2023-12-16】[rochus-keller / CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
@@ -280,6 +292,8 @@
 
 ## C#
 
+* 【2023-12-18】[ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD) - Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd
+* 【2023-12-18】[EugeneSunrise / reWASD](https://github.com/EugeneSunrise/reWASD) - reWASD Source Code And Crack
 * 【2023-12-17】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 * 【2023-12-16】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
 * 【2023-12-15】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
@@ -308,6 +322,8 @@
 
 ## Html
 
+* 【2023-12-18】[webtutorialsw / css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) - 
+* 【2023-12-18】[kh-kim / arxiv-translator](https://github.com/kh-kim/arxiv-translator) - 
 * 【2023-12-17】[X-LANCE / StoryTTS](https://github.com/X-LANCE/StoryTTS) - https://goarsenal.github.io/StoryTTS/
 * 【2023-12-13】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
 * 【2023-12-10】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
@@ -378,6 +394,8 @@
 
 ## Unknown
 
+* 【2023-12-18】[ossu / math](https://github.com/ossu/math) - 🧮 Path to a free self-taught education in Mathematics!
+* 【2023-12-18】[engineermali / Crypto-Wallet-Cracker-Stealer-2023](https://github.com/engineermali/Crypto-Wallet-Cracker-Stealer-2023) - Crypto Wallet Cracker - software for automated crypto wallet stealing and cracking!
 * 【2023-12-17】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 * 【2023-12-17】[riscv / learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
 * 【2023-12-17】[robotics-survey / Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - 
