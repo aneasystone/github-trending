@@ -96,6 +96,8 @@
 
 ## Java
 
+* 【2023-12-19】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
+* 【2023-12-19】[Mino260806 / MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
 * 【2023-12-17】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
 * 【2023-12-17】[bitisanop / CryptoExchange_TradingPlatform_CoinExchange](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) - Bitisan|BlockchainExchange|ExchangePlatform|CryptocurrencyTrading|区块链|交易所|永续合约|币币兑换
 * 【2023-12-14】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
@@ -118,6 +120,9 @@
 
 ## Python
 
+* 【2023-12-19】[apple / ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - 
+* 【2023-12-19】[ANG13T / skytrack](https://github.com/ANG13T/skytrack) - skytrack is a planespotting and aircraft OSINT tool made using Python 🛩🔍
+* 【2023-12-19】[zsokami / ACL4SSR](https://github.com/zsokami/ACL4SSR) - 自定义 订阅转换 配置转换 规则转换 的远程配置，自带旗帜 emoji 添加逻辑。修改自 ACL4SSR_Online_Full.ini
 * 【2023-12-18】[microsoft / promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 * 【2023-12-18】[Fadi002 / de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 * 【2023-12-18】[resemble-ai / resemble-enhance](https://github.com/resemble-ai/resemble-enhance) - AI powered speech denoising and enhancement
@@ -181,6 +186,7 @@
 
 ## Javascript
 
+* 【2023-12-19】[shradha-khapra / JavaScriptSeries](https://github.com/shradha-khapra/JavaScriptSeries) - 
 * 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
 * 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
@@ -211,6 +217,8 @@
 
 ## Go
 
+* 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
+* 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
 * 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
 * 【2023-12-17】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
 * 【2023-12-17】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
@@ -292,6 +300,9 @@
 
 ## C#
 
+* 【2023-12-19】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
+* 【2023-12-19】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 🧹
+* 【2023-12-19】[mkitto / fsll](https://github.com/mkitto/fsll) - A Simplified Chinese localization patch for Fallout Shelter pc.
 * 【2023-12-18】[ihm-tswow / Links-Awakening-DX-HD](https://github.com/ihm-tswow/Links-Awakening-DX-HD) - Unaffiliated fork off https://linksawakeningdxhd.itch.io/links-awakening-dx-hd
 * 【2023-12-18】[EugeneSunrise / reWASD](https://github.com/EugeneSunrise/reWASD) - reWASD Source Code And Crack
 * 【2023-12-17】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
@@ -347,6 +358,7 @@
 
 ## Css
 
+* 【2023-12-19】[OlieWu / tinawina](https://github.com/OlieWu/tinawina) - A webpage for ma girlfriend
 * 【2023-12-17】[tovifun / VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 * 【2023-12-16】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
 * 【2023-12-16】[SteamDatabase / GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2) - 📥 Game Tracker: Counter-Strike 2
@@ -394,6 +406,9 @@
 
 ## Unknown
 
+* 【2023-12-19】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
+* 【2023-12-19】[fboldewin / YARA_Detection_Engineering](https://github.com/fboldewin/YARA_Detection_Engineering) - Detection Engineering with YARA
+* 【2023-12-19】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 * 【2023-12-18】[ossu / math](https://github.com/ossu/math) - 🧮 Path to a free self-taught education in Mathematics!
 * 【2023-12-18】[engineermali / Crypto-Wallet-Cracker-Stealer-2023](https://github.com/engineermali/Crypto-Wallet-Cracker-Stealer-2023) - Crypto Wallet Cracker - software for automated crypto wallet stealing and cracking!
 * 【2023-12-17】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
