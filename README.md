@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2023-12-20】[Project-DARC / DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
+* 【2023-12-20】[ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources
+* 【2023-12-20】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 * 【2023-12-18】[anoma / namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 * 【2023-12-18】[vectorisvector / Polaris](https://github.com/vectorisvector/Polaris) - 
 * 【2023-12-18】[adrianhajdin / event_platform](https://github.com/adrianhajdin/event_platform) - Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
@@ -96,6 +99,8 @@
 
 ## Java
 
+* 【2023-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
+* 【2023-12-20】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2023-12-19】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
 * 【2023-12-19】[Mino260806 / MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
 * 【2023-12-17】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
@@ -120,6 +125,10 @@
 
 ## Python
 
+* 【2023-12-20】[florestefano1975 / comfyui-portrait-master](https://github.com/florestefano1975/comfyui-portrait-master) - 
+* 【2023-12-20】[aleju / imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
+* 【2023-12-20】[KHwang9883 / MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
+* 【2023-12-20】[aws-samples / serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 * 【2023-12-19】[apple / ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - 
 * 【2023-12-19】[ANG13T / skytrack](https://github.com/ANG13T/skytrack) - skytrack is a planespotting and aircraft OSINT tool made using Python 🛩🔍
 * 【2023-12-19】[zsokami / ACL4SSR](https://github.com/zsokami/ACL4SSR) - 自定义 订阅转换 配置转换 规则转换 的远程配置，自带旗帜 emoji 添加逻辑。修改自 ACL4SSR_Online_Full.ini
@@ -186,6 +195,8 @@
 
 ## Javascript
 
+* 【2023-12-20】[sfter / cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本
+* 【2023-12-20】[ezshine / AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.
 * 【2023-12-19】[shradha-khapra / JavaScriptSeries](https://github.com/shradha-khapra/JavaScriptSeries) - 
 * 【2023-12-18】[0x01010110 / corecfxs](https://github.com/0x01010110/corecfxs) - 
 * 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
@@ -217,6 +228,7 @@
 
 ## Go
 
+* 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
 * 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 * 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
 * 【2023-12-18】[PRC20 / PRC20Miner](https://github.com/PRC20/PRC20Miner) - Blockchain PRC20 Mining Tool
@@ -249,6 +261,8 @@
 
 ## C
 
+* 【2023-12-20】[cbwang505 / unicorn-whpx](https://github.com/cbwang505/unicorn-whpx) - 跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Windows Hypervisor Platform API接口扩展了底层CPU模拟环境实现,支持X86指令集二进制程序模拟平台和调试器.
+* 【2023-12-20】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 * 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
 * 【2023-12-16】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
 * 【2023-12-16】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
@@ -274,6 +288,8 @@
 
 ## C++
 
+* 【2023-12-20】[Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
+* 【2023-12-20】[DISTRHO / Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
 * 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-16】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
@@ -333,6 +349,8 @@
 
 ## Html
 
+* 【2023-12-20】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
+* 【2023-12-20】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 * 【2023-12-18】[webtutorialsw / css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) - 
 * 【2023-12-18】[kh-kim / arxiv-translator](https://github.com/kh-kim/arxiv-translator) - 
 * 【2023-12-17】[X-LANCE / StoryTTS](https://github.com/X-LANCE/StoryTTS) - https://goarsenal.github.io/StoryTTS/
@@ -358,6 +376,9 @@
 
 ## Css
 
+* 【2023-12-20】[BuilderIO / hydration-overlay](https://github.com/BuilderIO/hydration-overlay) - Overlay for hydration errors with explicit diff between renders.
+* 【2023-12-20】[github / actions-learning-pathway](https://github.com/github/actions-learning-pathway) - Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
+* 【2023-12-20】[Atuti / Chato](https://github.com/Atuti/Chato) - 
 * 【2023-12-19】[OlieWu / tinawina](https://github.com/OlieWu/tinawina) - A webpage for ma girlfriend
 * 【2023-12-17】[tovifun / VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 * 【2023-12-16】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
@@ -406,6 +427,7 @@
 
 ## Unknown
 
+* 【2023-12-20】[IterateAI / OpenThreatDetection](https://github.com/IterateAI/OpenThreatDetection) - Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the AI to detect guns, knives, kevlar vests, and robbery masks.
 * 【2023-12-19】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 * 【2023-12-19】[fboldewin / YARA_Detection_Engineering](https://github.com/fboldewin/YARA_Detection_Engineering) - Detection Engineering with YARA
 * 【2023-12-19】[awesome-foss / awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
