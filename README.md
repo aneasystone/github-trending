@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2023-12-21】[gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+* 【2023-12-21】[bytedance / ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
+* 【2023-12-21】[Librum-Reader / Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+* 【2023-12-21】[ollama-webui / ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Web UI Client for Ollama 🦙
+* 【2023-12-21】[libp2p / rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 * 【2023-12-20】[Project-DARC / DARC](https://github.com/Project-DARC/DARC) - Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
 * 【2023-12-20】[ActiveVisionLab / Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) - Awesome-LLM-3D: a curated list of Multi-modal Large Language Model in 3D world Resources
 * 【2023-12-20】[microsoft / LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -99,6 +104,7 @@
 
 ## Java
 
+* 【2023-12-21】[thingsboard / tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
 * 【2023-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
 * 【2023-12-20】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2023-12-19】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
@@ -125,6 +131,10 @@
 
 ## Python
 
+* 【2023-12-21】[hutaiHang / Faster-Diffusion](https://github.com/hutaiHang/Faster-Diffusion) - Official implementation of "Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models"
+* 【2023-12-21】[myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell
+* 【2023-12-21】[hosir-web3 / EVM_inscription](https://github.com/hosir-web3/EVM_inscription) - This script is designed to facilitate the batch creation of inscriptions on Ethereum Virtual Machine (EVM)-compatible blockchains.
+* 【2023-12-21】[HACK-THE-WORLD / IDAPluginList](https://github.com/HACK-THE-WORLD/IDAPluginList) - IDA插件集合，含项目名称及项目地址，每日定时Clone项目。
 * 【2023-12-20】[florestefano1975 / comfyui-portrait-master](https://github.com/florestefano1975/comfyui-portrait-master) - 
 * 【2023-12-20】[aleju / imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.
 * 【2023-12-20】[KHwang9883 / MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -195,6 +205,8 @@
 
 ## Javascript
 
+* 【2023-12-21】[NVlabs / FoundationPose](https://github.com/NVlabs/FoundationPose) - FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects
+* 【2023-12-21】[motdotla / dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 * 【2023-12-20】[sfter / cias-mint](https://github.com/sfter/cias-mint) - Celestia(tia) 公链铭文 cias mint 脚本
 * 【2023-12-20】[ezshine / AwesomeSites](https://github.com/ezshine/AwesomeSites) - every websites have been tested and fixed, all can be running in localhost. After clone the repository enter the website's folder, simply start a local HTTP server such as live-server to run the website offline.
 * 【2023-12-19】[shradha-khapra / JavaScriptSeries](https://github.com/shradha-khapra/JavaScriptSeries) - 
@@ -228,6 +240,7 @@
 
 ## Go
 
+* 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 * 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
 * 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
 * 【2023-12-19】[lichti / whats-spoofing](https://github.com/lichti/whats-spoofing) - Whatsapp Exploit to spoofing impersonate of reply message
@@ -261,6 +274,7 @@
 
 ## C
 
+* 【2023-12-21】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
 * 【2023-12-20】[cbwang505 / unicorn-whpx](https://github.com/cbwang505/unicorn-whpx) - 跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Windows Hypervisor Platform API接口扩展了底层CPU模拟环境实现,支持X86指令集二进制程序模拟平台和调试器.
 * 【2023-12-20】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 * 【2023-12-18】[paxo-phone / PaxOS-8](https://github.com/paxo-phone/PaxOS-8) - Code source du système d'exploitation du PaxoPhone
@@ -288,6 +302,9 @@
 
 ## C++
 
+* 【2023-12-21】[keith2018 / SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
+* 【2023-12-21】[cagnulein / qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
+* 【2023-12-21】[mapeditor / tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 * 【2023-12-20】[Nukem9 / dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).
 * 【2023-12-20】[DISTRHO / Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
 * 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
@@ -316,6 +333,9 @@
 
 ## C#
 
+* 【2023-12-21】[Taiizor / ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) - ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.
+* 【2023-12-21】[AlexanderPro / SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
+* 【2023-12-21】[fdonnet / ubik_accounting](https://github.com/fdonnet/ubik_accounting) - Double entry accounting app in Net 8
 * 【2023-12-19】[NebulaModTeam / nebula](https://github.com/NebulaModTeam/nebula) - A multiplayer mod for the game Dyson Sphere Program
 * 【2023-12-19】[amantinband / clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications 🧹
 * 【2023-12-19】[mkitto / fsll](https://github.com/mkitto/fsll) - A Simplified Chinese localization patch for Fallout Shelter pc.
@@ -349,6 +369,7 @@
 
 ## Html
 
+* 【2023-12-21】[mdbootstrap / TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 * 【2023-12-20】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 * 【2023-12-20】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 * 【2023-12-18】[webtutorialsw / css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) - 
@@ -376,6 +397,9 @@
 
 ## Css
 
+* 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
+* 【2023-12-21】[DasLampe / KluftBoerse](https://github.com/DasLampe/KluftBoerse) - Plattform zum Tauschen von alten Kluften der DPSG. (outdated)
+* 【2023-12-21】[cesurvmnc / navidad](https://github.com/cesurvmnc/navidad) - 
 * 【2023-12-20】[BuilderIO / hydration-overlay](https://github.com/BuilderIO/hydration-overlay) - Overlay for hydration errors with explicit diff between renders.
 * 【2023-12-20】[github / actions-learning-pathway](https://github.com/github/actions-learning-pathway) - Learning pathway resources for building, testing, and deploying a GitHub Action to GitHub Pages.
 * 【2023-12-20】[Atuti / Chato](https://github.com/Atuti/Chato) - 
@@ -427,6 +451,9 @@
 
 ## Unknown
 
+* 【2023-12-21】[chinesehuazhou / python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
+* 【2023-12-21】[michaelliao / learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
+* 【2023-12-21】[Ishanoshada / GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
 * 【2023-12-20】[IterateAI / OpenThreatDetection](https://github.com/IterateAI/OpenThreatDetection) - Iterate.ai has open-sourced a powerful Weapons Detection AI software. The AI was trained on about 100 live guns, plus 20,000 videos of robberies and threats involving weapons. Our engineers taught the AI to detect guns, knives, kevlar vests, and robbery masks.
 * 【2023-12-19】[tuteng / Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 * 【2023-12-19】[fboldewin / YARA_Detection_Engineering](https://github.com/fboldewin/YARA_Detection_Engineering) - Detection Engineering with YARA
