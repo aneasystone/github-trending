@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-12-22】[SJTU-IPADS / PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+* 【2023-12-22】[babaohuang / GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
+* 【2023-12-22】[RUB-NDS / Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
+* 【2023-12-22】[basecamp / solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
+* 【2023-12-22】[openchatai / OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
+* 【2023-12-22】[dream-num / univer](https://github.com/dream-num/univer) - Univer is a set of enterprise document and data collaboration solutions, including spreadsheets, documents, and slides. The highly extensible design allows developers to customize personalized functions based on Univer.
 * 【2023-12-21】[gpt-engineer-org / gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * 【2023-12-21】[bytedance / ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
 * 【2023-12-21】[Librum-Reader / Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -131,6 +137,8 @@
 
 ## Python
 
+* 【2023-12-22】[microsoft / PubSec-Info-Assistant](https://github.com/microsoft/PubSec-Info-Assistant) - Information Assistant, built with Azure OpenAI Service, Industry Accelerator
+* 【2023-12-22】[andrew-codechimp / HA-Battery-Notes](https://github.com/andrew-codechimp/HA-Battery-Notes) - A Home Assistant integration to provide battery notes of devices
 * 【2023-12-21】[hutaiHang / Faster-Diffusion](https://github.com/hutaiHang/Faster-Diffusion) - Official implementation of "Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models"
 * 【2023-12-21】[myshell-ai / OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell
 * 【2023-12-21】[hosir-web3 / EVM_inscription](https://github.com/hosir-web3/EVM_inscription) - This script is designed to facilitate the batch creation of inscriptions on Ethereum Virtual Machine (EVM)-compatible blockchains.
@@ -240,6 +248,7 @@
 
 ## Go
 
+* 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 * 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
 * 【2023-12-19】[francoismichel / ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396
@@ -274,6 +283,7 @@
 
 ## C
 
+* 【2023-12-22】[webui-dev / webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 * 【2023-12-21】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
 * 【2023-12-20】[cbwang505 / unicorn-whpx](https://github.com/cbwang505/unicorn-whpx) - 跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Windows Hypervisor Platform API接口扩展了底层CPU模拟环境实现,支持X86指令集二进制程序模拟平台和调试器.
 * 【2023-12-20】[sabrogden / Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
@@ -369,6 +379,7 @@
 
 ## Html
 
+* 【2023-12-22】[linkedin / dph-framework](https://github.com/linkedin/dph-framework) - 
 * 【2023-12-21】[mdbootstrap / TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 * 【2023-12-20】[leanprover-community / mathematics_in_lean](https://github.com/leanprover-community/mathematics_in_lean) - The user home repository for the Mathematics in Lean tutorial.
 * 【2023-12-20】[liu673cn / bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
@@ -397,6 +408,7 @@
 
 ## Css
 
+* 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
 * 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
 * 【2023-12-21】[DasLampe / KluftBoerse](https://github.com/DasLampe/KluftBoerse) - Plattform zum Tauschen von alten Kluften der DPSG. (outdated)
 * 【2023-12-21】[cesurvmnc / navidad](https://github.com/cesurvmnc/navidad) - 
@@ -451,6 +463,11 @@
 
 ## Unknown
 
+* 【2023-12-22】[borusyak / are213](https://github.com/borusyak/are213) - PhD Applied Econometrics class taught at UC Berkeley
+* 【2023-12-22】[mesquidar / ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources
+* 【2023-12-22】[mjhea0 / awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
+* 【2023-12-22】[cccmag / aidult](https://github.com/cccmag/aidult) - AI 成人雜誌
+* 【2023-12-22】[mouredev / roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion) - Retos de programación 2024. Muy pronto...
 * 【2023-12-21】[chinesehuazhou / python-weekly](https://github.com/chinesehuazhou/python-weekly) - Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容
 * 【2023-12-21】[michaelliao / learn-python3](https://github.com/michaelliao/learn-python3) - Learn Python 3 Sample Code
 * 【2023-12-21】[Ishanoshada / GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )
