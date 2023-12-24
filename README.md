@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2023-12-24】[cumulo-autumn / StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+* 【2023-12-24】[beeper / imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
+* 【2023-12-24】[SocialComplexityLab / life2vec](https://github.com/SocialComplexityLab/life2vec) - 
+* 【2023-12-24】[electric-capital / crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems) - A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
+* 【2023-12-24】[szymanowiczs / splatter-image](https://github.com/szymanowiczs/splatter-image) - Official implementation of `Splatter Image: Ultra-Fast Single-View 3D Reconstruction'
+* 【2023-12-24】[infiniflow / infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search
+* 【2023-12-24】[ton-community / tsc5](https://github.com/ton-community/tsc5) - 
 * 【2023-12-23】[johnma2006 / mamba-minimal](https://github.com/johnma2006/mamba-minimal) - Simple, minimal implementation of the Mamba SSM in one file of PyTorch.
 * 【2023-12-23】[loco-rs / loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 * 【2023-12-23】[Krypteria / AtlasLdr](https://github.com/Krypteria/AtlasLdr) - Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls
@@ -114,6 +121,8 @@
 
 ## Java
 
+* 【2023-12-24】[Skythinker616 / gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
+* 【2023-12-24】[JailedBird / EdgeUtils](https://github.com/JailedBird/EdgeUtils) - EdgeUtils is an immersive scafodd base on androidx.core's WindowInsets
 * 【2023-12-21】[thingsboard / tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
 * 【2023-12-20】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
 * 【2023-12-20】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
@@ -141,6 +150,10 @@
 
 ## Python
 
+* 【2023-12-24】[3DTopia / OpenLRM](https://github.com/3DTopia/OpenLRM) - An open-source impl. of Large Reconstruction Models
+* 【2023-12-24】[joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI) - 
+* 【2023-12-24】[yohanshin / WHAM](https://github.com/yohanshin/WHAM) - 
+* 【2023-12-24】[collabora / WhisperLive](https://github.com/collabora/WhisperLive) - A nearly-live implementation of OpenAI's Whisper.
 * 【2023-12-23】[CircleRadon / Osprey](https://github.com/CircleRadon/Osprey) - The code for "Osprey: Pixel Understanding with Visual Instruction Tuning"
 * 【2023-12-23】[JOY6IX9INE / OperaGX-Discord-Promo-Gen](https://github.com/JOY6IX9INE/OperaGX-Discord-Promo-Gen) - This Is A Discord X OperaGx Nitro Promo Generator
 * 【2023-12-23】[K3YOMI / Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - Wall of Flippers is designed to find Flipper Zero devices using BLE (Bluetooth Low Energy)
@@ -220,6 +233,9 @@
 
 ## Javascript
 
+* 【2023-12-24】[moddio / moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
+* 【2023-12-24】[ruesandora / Kenshi](https://github.com/ruesandora/Kenshi) - 
+* 【2023-12-24】[koolkishan / chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs) - Chat Application Using React, Node.js and Socket.io with MongoDB
 * 【2023-12-23】[vanila-io / wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 * 【2023-12-23】[vitozyf / lucky-draw](https://github.com/vitozyf/lucky-draw) - 年会抽奖程序
 * 【2023-12-23】[DuendeSoftware / IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - The most flexible and standards-compliant OpenID Connect and OAuth 2.x framework for ASP.NET Core
@@ -258,6 +274,7 @@
 
 ## Go
 
+* 【2023-12-24】[beeper / mac-registration-provider](https://github.com/beeper/mac-registration-provider) - A small service that generates iMessage registration data on a Mac
 * 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 * 【2023-12-20】[celestiaorg / celestia-app](https://github.com/celestiaorg/celestia-app) - PoS application for the consensus portion of the Celestia network. Built using celestia-core (fork of CometBFT) and the cosmos-sdk
@@ -293,6 +310,8 @@
 
 ## C
 
+* 【2023-12-24】[gtworek / PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
+* 【2023-12-24】[h2o / h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 * 【2023-12-23】[s0ngidong3 / TPM-SPOOFER](https://github.com/s0ngidong3/TPM-SPOOFER) - 
 * 【2023-12-22】[webui-dev / webui](https://github.com/webui-dev/webui) - Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.
 * 【2023-12-21】[zhenrong-wang / hpc-now](https://github.com/zhenrong-wang/hpc-now) - A Cross-Platform, Multi-Cloud High-Performance Computing Platform
@@ -323,6 +342,8 @@
 
 ## C++
 
+* 【2023-12-24】[openframeworks / openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
+* 【2023-12-24】[wangzhaode / mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
 * 【2023-12-21】[keith2018 / SoftGLRender](https://github.com/keith2018/SoftGLRender) - Tiny C++ Software Renderer / Rasterizer, and implements OpenGL and Vulkan renderers for comparison
 * 【2023-12-21】[cagnulein / qdomyos-zwift](https://github.com/cagnulein/qdomyos-zwift) - Zwift bridge for smart treadmills and bike/cyclette
 * 【2023-12-21】[mapeditor / tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -354,6 +375,9 @@
 
 ## C#
 
+* 【2023-12-24】[Stratus-Security / Subdominator](https://github.com/Stratus-Security/Subdominator) - The Internets #1 Subdomain Takeover Tool
+* 【2023-12-24】[DaXcess / LCVR](https://github.com/DaXcess/LCVR) - Collecting Scrap in VR
+* 【2023-12-24】[moom825 / Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
 * 【2023-12-23】[SebLague / Tiny-Chess-Bot-Challenge-Results](https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results) - 
 * 【2023-12-21】[Taiizor / ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) - ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.
 * 【2023-12-21】[AlexanderPro / SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
@@ -391,6 +415,8 @@
 
 ## Html
 
+* 【2023-12-24】[MetaMask / metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
+* 【2023-12-24】[opensearch-project / documentation-website](https://github.com/opensearch-project/documentation-website) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.
 * 【2023-12-23】[coreui / coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
 * 【2023-12-23】[Balackburn / Apollo](https://github.com/Balackburn/Apollo) - Altstore source and website for Apollo for Reddit (with ImprovedCustomApi)
 * 【2023-12-22】[linkedin / dph-framework](https://github.com/linkedin/dph-framework) - 
@@ -422,6 +448,7 @@
 
 ## Css
 
+* 【2023-12-24】[Akashkumar9508 / Smart-Attend](https://github.com/Akashkumar9508/Smart-Attend) - 
 * 【2023-12-23】[hyperweek / mx3-revamped](https://github.com/hyperweek/mx3-revamped) - mx3 revamped!
 * 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
 * 【2023-12-21】[ABPozharliev19 / 11th-grade-azure-static-web-app](https://github.com/ABPozharliev19/11th-grade-azure-static-web-app) - 
@@ -478,6 +505,10 @@
 
 ## Unknown
 
+* 【2023-12-24】[thomasbi1 / cyberrunner](https://github.com/thomasbi1/cyberrunner) - 
+* 【2023-12-24】[vndee / awsome-vietnamese-nlp](https://github.com/vndee/awsome-vietnamese-nlp) - A collection of Vietnamese Natural Language Processing resources.
+* 【2023-12-24】[yonggekkk / sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书切换、高自由度分流设置、argo隧道、warp出站账户变更设置、Clash-Meta配置+SFA/SFI/SFW三合一配置
+* 【2023-12-24】[hkjswong / shadowrocket-ipa](https://github.com/hkjswong/shadowrocket-ipa) - 小火箭Shadowrocket，QuantumultX,Quantumult等app的官方安裝包(未脫殼）
 * 【2023-12-23】[gpt-engineer-org / gptengineer.app](https://github.com/gpt-engineer-org/gptengineer.app) - Rapid prototyping of web apps using plain english 👶🤖
 * 【2023-12-23】[ashishps1 / awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design) - This repository contains low level design resources to improve coding skills and prepare for interviews.
 * 【2023-12-23】[yetzt / null-island](https://github.com/yetzt/null-island) - A design reflection about the representation of missing values.
