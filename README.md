@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2023-12-25】[mnotgod96 / AppAgent](https://github.com/mnotgod96/AppAgent) - A novel LLM-based multimodal agent framework designed to operate smartphone applications
+* 【2023-12-25】[heyman / heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 * 【2023-12-24】[cumulo-autumn / StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 * 【2023-12-24】[beeper / imessage](https://github.com/beeper/imessage) - A Matrix-iMessage puppeting bridge.
 * 【2023-12-24】[SocialComplexityLab / life2vec](https://github.com/SocialComplexityLab/life2vec) - 
@@ -121,6 +123,11 @@
 
 ## Java
 
+* 【2023-12-25】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
+* 【2023-12-25】[xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+* 【2023-12-25】[dromara / x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
+* 【2023-12-25】[Pan4ur / ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode) - 1.20.4 minecraft client for Crystal / Sword hvh
+* 【2023-12-25】[pagehelper / pagehelper-spring-boot](https://github.com/pagehelper/pagehelper-spring-boot) - pagehelper-spring-boot
 * 【2023-12-24】[Skythinker616 / gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
 * 【2023-12-24】[JailedBird / EdgeUtils](https://github.com/JailedBird/EdgeUtils) - EdgeUtils is an immersive scafodd base on androidx.core's WindowInsets
 * 【2023-12-21】[thingsboard / tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers.
@@ -150,6 +157,10 @@
 
 ## Python
 
+* 【2023-12-25】[VikParuchuri / texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
+* 【2023-12-25】[leeyuentuen / polestar_api](https://github.com/leeyuentuen/polestar_api) - Polestar Api - Home Assistant Component
+* 【2023-12-25】[google-deepmind / concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
+* 【2023-12-25】[open-mmlab / PIA](https://github.com/open-mmlab/PIA) - 
 * 【2023-12-24】[3DTopia / OpenLRM](https://github.com/3DTopia/OpenLRM) - An open-source impl. of Large Reconstruction Models
 * 【2023-12-24】[joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI) - 
 * 【2023-12-24】[yohanshin / WHAM](https://github.com/yohanshin/WHAM) - 
@@ -233,6 +244,8 @@
 
 ## Javascript
 
+* 【2023-12-25】[casibase / casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
+* 【2023-12-25】[jerryc127 / hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 * 【2023-12-24】[moddio / moddio2](https://github.com/moddio/moddio2) - HTML5 multiplayer game engine
 * 【2023-12-24】[ruesandora / Kenshi](https://github.com/ruesandora/Kenshi) - 
 * 【2023-12-24】[koolkishan / chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs) - Chat Application Using React, Node.js and Socket.io with MongoDB
@@ -274,6 +287,9 @@
 
 ## Go
 
+* 【2023-12-25】[lc / gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+* 【2023-12-25】[ArtalkJS / Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
+* 【2023-12-25】[cursusdb / cursusdb](https://github.com/cursusdb/cursusdb) - Light-weight highly performant, persistent, secure-by-default, in-memory, distributed document oriented database with an SQL like query language written in pure GO.
 * 【2023-12-24】[beeper / mac-registration-provider](https://github.com/beeper/mac-registration-provider) - A small service that generates iMessage registration data on a Mac
 * 【2023-12-22】[GhostTroops / scan4all](https://github.com/GhostTroops/scan4all) - Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * 【2023-12-21】[protocolbuffers / protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
@@ -310,6 +326,8 @@
 
 ## C
 
+* 【2023-12-25】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
+* 【2023-12-25】[codenocold / dgm](https://github.com/codenocold/dgm) - 
 * 【2023-12-24】[gtworek / PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
 * 【2023-12-24】[h2o / h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
 * 【2023-12-23】[s0ngidong3 / TPM-SPOOFER](https://github.com/s0ngidong3/TPM-SPOOFER) - 
@@ -375,6 +393,7 @@
 
 ## C#
 
+* 【2023-12-25】[builtbybel / Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 * 【2023-12-24】[Stratus-Security / Subdominator](https://github.com/Stratus-Security/Subdominator) - The Internets #1 Subdomain Takeover Tool
 * 【2023-12-24】[DaXcess / LCVR](https://github.com/DaXcess/LCVR) - Collecting Scrap in VR
 * 【2023-12-24】[moom825 / Discord-RAT-2.0](https://github.com/moom825/Discord-RAT-2.0) - Discord Remote Administration Tool fully written in c#, stub size of ~75kb, over 40 post exploitations modules
@@ -415,6 +434,7 @@
 
 ## Html
 
+* 【2023-12-25】[jmortega / python-pentesting](https://github.com/jmortega/python-pentesting) - python-pentesting-tool
 * 【2023-12-24】[MetaMask / metamask-sdk](https://github.com/MetaMask/metamask-sdk) - The simplest yet most secure way to connect your blockchain-based applications to millions of MetaMask Wallet users.
 * 【2023-12-24】[opensearch-project / documentation-website](https://github.com/opensearch-project/documentation-website) - The documentation for OpenSearch, OpenSearch Dashboards, and their associated plugins.
 * 【2023-12-23】[coreui / coreui-free-angular-admin-template](https://github.com/coreui/coreui-free-angular-admin-template) - CoreUI Angular is free Angular 17 admin template based on Bootstrap 5
@@ -448,6 +468,7 @@
 
 ## Css
 
+* 【2023-12-25】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-24】[Akashkumar9508 / Smart-Attend](https://github.com/Akashkumar9508/Smart-Attend) - 
 * 【2023-12-23】[hyperweek / mx3-revamped](https://github.com/hyperweek/mx3-revamped) - mx3 revamped!
 * 【2023-12-22】[Ritika-Agrawal811 / css-and-js-code-snippets](https://github.com/Ritika-Agrawal811/css-and-js-code-snippets) - A collection of real-life code snippets written in CSS and JavaScript for every web development project.
@@ -505,6 +526,12 @@
 
 ## Unknown
 
+* 【2023-12-25】[Enraged-Rabbit-Community / ERCF_v2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) - Community designed ERCF v2
+* 【2023-12-25】[OpenTexture / Paint3D](https://github.com/OpenTexture/Paint3D) - Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models, a no lighting baked texture generative model
+* 【2023-12-25】[ruesandora / Pryzm](https://github.com/ruesandora/Pryzm) - 
+* 【2023-12-25】[RedDot-3ND7355 / reWASD](https://github.com/RedDot-3ND7355/reWASD) - reWASD Crack for x86/x64
+* 【2023-12-25】[TideSec / TscanPlus](https://github.com/TideSec/TscanPlus) - 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。
+* 【2023-12-25】[fictions-ai / sharing-is-caring](https://github.com/fictions-ai/sharing-is-caring) - 
 * 【2023-12-24】[thomasbi1 / cyberrunner](https://github.com/thomasbi1/cyberrunner) - 
 * 【2023-12-24】[vndee / awsome-vietnamese-nlp](https://github.com/vndee/awsome-vietnamese-nlp) - A collection of Vietnamese Natural Language Processing resources.
 * 【2023-12-24】[yonggekkk / sing-box_hysteria2_tuic_argo_reality](https://github.com/yonggekkk/sing-box_hysteria2_tuic_argo_reality) - Sing-box精装桶一键脚本【Hysteria2、Tuic5、Vless-reality、Vmess-ws/argo】：支持多端口跳跃、自签/acme双证书切换、高自由度分流设置、argo隧道、warp出站账户变更设置、Clash-Meta配置+SFA/SFI/SFW三合一配置
