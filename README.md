@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2023-12-29】[BartoszJarocki / cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
+* 【2023-12-29】[d3george / slash-admin](https://github.com/d3george/slash-admin) - A modern react admin. It is based on react 18, vite and TypeScript. It's fast !
+* 【2023-12-29】[iusztinpaul / hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
+* 【2023-12-29】[xinghaochen / TinySAM](https://github.com/xinghaochen/TinySAM) - Official PyTorch implementation of "TinySAM: Pushing the Envelope for Efficient Segment Anything Model"
+* 【2023-12-29】[ant-design / ant-design-web3](https://github.com/ant-design/ant-design-web3) - 🥳 A React components collection for Web3!
+* 【2023-12-29】[jqnatividad / qsv](https://github.com/jqnatividad/qsv) - CSVs sliced, diced & analyzed.
 * 【2023-12-28】[movie-web / movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 * 【2023-12-28】[matt8707 / ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 * 【2023-12-26】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
@@ -162,6 +168,10 @@
 
 ## Python
 
+* 【2023-12-29】[yangxy / PASD](https://github.com/yangxy/PASD) - 
+* 【2023-12-29】[WangRongsheng / Aurora](https://github.com/WangRongsheng/Aurora) - Aurora is a [Chinese Version] MoE model. Aurora is a further work based on Mixtral-8x7B, which activates the chat capability of the model's Chinese open domain.
+* 【2023-12-29】[microsoft / ics-forensics-tools](https://github.com/microsoft/ics-forensics-tools) - Microsoft ICSpector (ICS Forensics Tools framework) is an open-source forensics framework that enables the analysis of Industrial PLC metadata and project files.
+* 【2023-12-29】[ihmily / DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 可循环值守和多人录制的直播录制软件，支持抖音、Tiktok、快手、虎牙、斗鱼、B站、小红书等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析
 * 【2023-12-26】[atomicals / atomicals-electrumx](https://github.com/atomicals/atomicals-electrumx) - Electrumx Atomicals Indexer Server
 * 【2023-12-26】[Gourieff / comfyui-reactor-node](https://github.com/Gourieff/comfyui-reactor-node) - Fast and Simple Face Swap Extension Node for ComfyUI
 * 【2023-12-25】[VikParuchuri / texify](https://github.com/VikParuchuri/texify) - OCR model for math that outputs LaTeX and markdown
@@ -251,6 +261,7 @@
 
 ## Javascript
 
+* 【2023-12-29】[shyamtawli / devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
 * 【2023-12-28】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
 * 【2023-12-28】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
 * 【2023-12-26】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
@@ -298,6 +309,7 @@
 
 ## Go
 
+* 【2023-12-29】[anthdm / hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 * 【2023-12-28】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
 * 【2023-12-28】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 * 【2023-12-28】[duke-git / lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
@@ -344,6 +356,9 @@
 
 ## C
 
+* 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+* 【2023-12-29】[netero1010 / EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
+* 【2023-12-29】[MaJerle / stm32f429](https://github.com/MaJerle/stm32f429) - Keil projects and libraries for STM32F4xx devices
 * 【2023-12-28】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5
 * 【2023-12-28】[proh14 / ptext](https://github.com/proh14/ptext) - A nano like text editor built with pure C
 * 【2023-12-28】[lizongying / my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
@@ -381,6 +396,7 @@
 
 ## C++
 
+* 【2023-12-29】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
 * 【2023-12-26】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
 * 【2023-12-24】[openframeworks / openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 * 【2023-12-24】[wangzhaode / mnn-llm](https://github.com/wangzhaode/mnn-llm) - llm deploy project based mnn.
@@ -415,6 +431,7 @@
 
 ## C#
 
+* 【2023-12-29】[toniebox-reverse-engineering / teddy](https://github.com/toniebox-reverse-engineering/teddy) - With this tool you can dump existing files for the famous audio box or create custom ones.
 * 【2023-12-28】[ks233 / ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
 * 【2023-12-28】[AnnulusGames / LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
 * 【2023-12-28】[sim0n00ps / OF-DL](https://github.com/sim0n00ps/OF-DL) - C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
@@ -459,6 +476,10 @@
 
 ## Html
 
+* 【2023-12-29】[OpenMDAO / om-Aviary](https://github.com/OpenMDAO/om-Aviary) - 
+* 【2023-12-29】[swisskyrepo / InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
+* 【2023-12-29】[kbtxwer / IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
+* 【2023-12-29】[ProbiusOfficial / Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 * 【2023-12-26】[Spandan-Madan / DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 * 【2023-12-26】[0atman / noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 * 【2023-12-26】[yoninazarathy / MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
@@ -496,6 +517,7 @@
 
 ## Css
 
+* 【2023-12-29】[heliboo / hai](https://github.com/heliboo/hai) - 
 * 【2023-12-28】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 * 【2023-12-25】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-24】[Akashkumar9508 / Smart-Attend](https://github.com/Akashkumar9508/Smart-Attend) - 
@@ -555,6 +577,11 @@
 
 ## Unknown
 
+* 【2023-12-29】[Meroser / IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
+* 【2023-12-29】[Moexin / IPTV](https://github.com/Moexin/IPTV) - MyIPTV
+* 【2023-12-29】[ConnectAI-E / Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+* 【2023-12-29】[hoalongnatsu / Dockerfile](https://github.com/hoalongnatsu/Dockerfile) - Dockerfile for many programming languages
+* 【2023-12-29】[mustvlad / ChatGPT-System-Prompts](https://github.com/mustvlad/ChatGPT-System-Prompts) - This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by OpenAI. Star this repository to help us reach 5,000 stars!
 * 【2023-12-28】[hua1995116 / indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海
 * 【2023-12-26】[kindawindytoday / Minty-Releases](https://github.com/kindawindytoday/Minty-Releases) - 
 * 【2023-12-26】[guoqincode / Focus-on-Your-Instruction](https://github.com/guoqincode/Focus-on-Your-Instruction) - Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
