@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
+* 【2024-01-01】[safak / next14-tutorial](https://github.com/safak/next14-tutorial) - 
+* 【2024-01-01】[anasfik / flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
+* 【2024-01-01】[Tongji-KGLLM / RAG-Survey](https://github.com/Tongji-KGLLM/RAG-Survey) - 
+* 【2024-01-01】[rails / rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase) - Omakase Ruby styling for Rails
 * 【2023-12-31】[jasonjmcghee / rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Apple Silicon.
 * 【2023-12-31】[Stirling-Tools / Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 * 【2023-12-31】[midudev / porfolio.dev](https://github.com/midudev/porfolio.dev) - Ejemplo de porfolio para programadores y desarrolladores
@@ -142,6 +147,8 @@
 
 ## Java
 
+* 【2024-01-01】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
+* 【2024-01-01】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
 * 【2023-12-31】[The-Aether-Team / The-Aether](https://github.com/The-Aether-Team/The-Aether) - The original "The Aether" mod, rewritten and ported to modern Minecraft versions.
 * 【2023-12-31】[apache / incubator-fury](https://github.com/apache/incubator-fury) - A blazing fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2023-12-25】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
@@ -178,6 +185,12 @@
 
 ## Python
 
+* 【2024-01-01】[dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
+* 【2024-01-01】[DLYuanGod / TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
+* 【2024-01-01】[RootKit-Org / AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
+* 【2024-01-01】[oppo-us-research / SpacetimeGaussians](https://github.com/oppo-us-research/SpacetimeGaussians) - 
+* 【2024-01-01】[DeniJsonC / WaveNet](https://github.com/DeniJsonC/WaveNet) - [PG 2023] WaveNet: Wave-Aware Image Enhancement
+* 【2024-01-01】[unum-cloud / uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
 * 【2023-12-31】[emadshanab / Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection) - Nuclei Templates Collection
 * 【2023-12-31】[ModelTC / lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
 * 【2023-12-31】[minghanqin / LangSplat](https://github.com/minghanqin/LangSplat) - Official implementation of the paper "LangSplat: 3D Language Gaussian Splatting"
@@ -278,6 +291,10 @@
 
 ## Javascript
 
+* 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
+* 【2024-01-01】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
+* 【2024-01-01】[lukeed / clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
+* 【2024-01-01】[yonggekkk / openwrt_win64-ddns-cdnip](https://github.com/yonggekkk/openwrt_win64-ddns-cdnip) - OpenWrt软路由/Win64电脑专用优选IP一键脚本，支持ddns(批量IP解析同个域名，单个IP解析单个域名)与无域名模式，13个端口任意选，支持优选官方IP与反代IP切换，支持TG、Pushplus推送通知，软路由适配passwall、passwall2、ssr-plus、clash、openclash、bypass、v2raya、helloworld多种代理插件
 * 【2023-12-31】[SoilLabs / Solana-Foam](https://github.com/SoilLabs/Solana-Foam) - Foam mint and claim script
 * 【2023-12-31】[ajaxorg / ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 * 【2023-12-29】[shyamtawli / devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
@@ -328,6 +345,8 @@
 
 ## Go
 
+* 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
+* 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 * 【2023-12-31】[anthdm / ffaas](https://github.com/anthdm/ffaas) - Fast function as a service platform powered by WASM
 * 【2023-12-31】[aaamoon / copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot Chat请求转换为ChatGPT请求，免费使用GPT-4模型
 * 【2023-12-31】[kube-logging / logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes
@@ -380,6 +399,7 @@
 
 ## C
 
+* 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2023-12-31】[sekigon-gonnoc / Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
 * 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 * 【2023-12-29】[netero1010 / EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
@@ -421,6 +441,8 @@
 
 ## C++
 
+* 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
+* 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 * 【2023-12-29】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
 * 【2023-12-26】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
 * 【2023-12-24】[openframeworks / openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -456,6 +478,9 @@
 
 ## C#
 
+* 【2024-01-01】[Fragtality / DynamicLOD](https://github.com/Fragtality/DynamicLOD) - 
+* 【2024-01-01】[builtbybel / WhatsPC](https://github.com/builtbybel/WhatsPC) - What to do with your Toaster?
+* 【2024-01-01】[BunyaPineTree / LethalCompany_ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) - 
 * 【2023-12-31】[mayuki / Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET.
 * 【2023-12-31】[phongnguyend / Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Full-stack .Net 8 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 17, React 18, Vue 3, BFF with YARP, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, Entity Framework Core, Selenium, SignalR, Hosted Services, Health Checks, Rate Limiting, Cloud Services (Azure, AWS, Google)...
 * 【2023-12-31】[sunnamed434 / BitMono](https://github.com/sunnamed434/BitMono) - Unlock new level of security with BitMono. Advanced code obfuscation that protects your intellectual property like never before. Try now!
@@ -504,6 +529,7 @@
 
 ## Html
 
+* 【2024-01-01】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
 * 【2023-12-31】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
 * 【2023-12-31】[vishaltewatia / code](https://github.com/vishaltewatia/code) - 
 * 【2023-12-31】[uiverse-io / galaxy](https://github.com/uiverse-io/galaxy) - 🚀 3500+ UI elements! Community-made and free to use. Made with either CSS or Tailwind.
@@ -548,6 +574,8 @@
 
 ## Css
 
+* 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
+* 【2024-01-01】[TWBug / GoldCardHenge](https://github.com/TWBug/GoldCardHenge) - 
 * 【2023-12-31】[vishaltewatia / propose-your-gf](https://github.com/vishaltewatia/propose-your-gf) - 
 * 【2023-12-31】[shayne / hwinfo-streamdeck](https://github.com/shayne/hwinfo-streamdeck) - Monitor sensor readings with this HWiNFO64 Stream Deck Plugin
 * 【2023-12-31】[JulietaUla / Montserrat](https://github.com/JulietaUla/Montserrat) - 
@@ -613,6 +641,9 @@
 
 ## Unknown
 
+* 【2024-01-01】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+* 【2024-01-01】[liguge / Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) - 智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）
+* 【2024-01-01】[Oliver-242 / HUST-Operating-System-PKE](https://github.com/Oliver-242/HUST-Operating-System-PKE) - 华中科技大学2020级操作系统实验（PKE）
 * 【2023-12-31】[cuda-mode / resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
 * 【2023-12-31】[successfulstudy / promptoftheyear](https://github.com/successfulstudy/promptoftheyear) - In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. 🌐
 * 【2023-12-31】[OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis) - Owshen rewards and airdrops
