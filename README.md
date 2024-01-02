@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-01-02】[janhq / jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+* 【2024-01-02】[hack-ink / atomicalsir](https://github.com/hack-ink/atomicalsir) - 
+* 【2024-01-02】[tyxsspa / AnyText](https://github.com/tyxsspa/AnyText) - 
 * 【2024-01-01】[Universidade-Livre / rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
 * 【2024-01-01】[safak / next14-tutorial](https://github.com/safak/next14-tutorial) - 
 * 【2024-01-01】[anasfik / flutter-spy](https://github.com/anasfik/flutter-spy) - Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.
@@ -147,6 +150,7 @@
 
 ## Java
 
+* 【2024-01-02】[spring-projects / spring-modulith](https://github.com/spring-projects/spring-modulith) - Modular applications with Spring Boot
 * 【2024-01-01】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
 * 【2024-01-01】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
 * 【2023-12-31】[The-Aether-Team / The-Aether](https://github.com/The-Aether-Team/The-Aether) - The original "The Aether" mod, rewritten and ported to modern Minecraft versions.
@@ -185,6 +189,11 @@
 
 ## Python
 
+* 【2024-01-02】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
+* 【2024-01-02】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
+* 【2024-01-02】[alibaba / animate-anything](https://github.com/alibaba/animate-anything) - Fine-Grained Open Domain Image Animation with Motion Guidance
+* 【2024-01-02】[keephq / keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
+* 【2024-01-02】[panaverse / learn-generative-ai](https://github.com/panaverse/learn-generative-ai) - Learn Cloud Applied Generative AI Engineering (GenEng) using OpenAI, Gemini, Streamlit, Containers, Serverless, Postgres, LangChain, Pinecone, and Next.js
 * 【2024-01-01】[dvmazur / mixtral-offloading](https://github.com/dvmazur/mixtral-offloading) - Run Mixtral-8x7B models in Colab or consumer desktops
 * 【2024-01-01】[DLYuanGod / TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 * 【2024-01-01】[RootKit-Org / AI-Aimbot](https://github.com/RootKit-Org/AI-Aimbot) - World's Best AI Aimbot - CS2, Valorant, Fortnite, APEX, every game
@@ -291,6 +300,7 @@
 
 ## Javascript
 
+* 【2024-01-02】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2024-01-01】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
 * 【2024-01-01】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2024-01-01】[lukeed / clsx](https://github.com/lukeed/clsx) - A tiny (239B) utility for constructing `className` strings conditionally.
@@ -345,6 +355,7 @@
 
 ## Go
 
+* 【2024-01-02】[csnewman / dextk](https://github.com/csnewman/dextk) - Android dex file parser in Go
 * 【2024-01-01】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 * 【2024-01-01】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 * 【2023-12-31】[anthdm / ffaas](https://github.com/anthdm/ffaas) - Fast function as a service platform powered by WASM
@@ -399,6 +410,8 @@
 
 ## C
 
+* 【2024-01-02】[ThirteenAG / GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV Complete Edition
+* 【2024-01-02】[AlexGalhardo / Software-Engineering](https://github.com/AlexGalhardo/Software-Engineering) - Learning Software Engineering 🐢
 * 【2024-01-01】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
 * 【2023-12-31】[sekigon-gonnoc / Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
 * 【2023-12-29】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -441,6 +454,8 @@
 
 ## C++
 
+* 【2024-01-02】[thelastoutpostworkshop / gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
+* 【2024-01-02】[hackerhouse-opensource / WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
 * 【2024-01-01】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
 * 【2024-01-01】[hackerhouse-opensource / Marble](https://github.com/hackerhouse-opensource/Marble) - The CIA's Marble Framework is designed to allow for flexible and easy-to-use obfuscation when developing tools.
 * 【2023-12-29】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
@@ -478,6 +493,11 @@
 
 ## C#
 
+* 【2024-01-02】[digitalinnovationone / trilha-net-fundamentos-desafio](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) - Desafio de projeto .NET Fundamentos - DIO
+* 【2024-01-02】[Interkarma / daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
+* 【2024-01-02】[R-Vaccari / bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings) - 
+* 【2024-01-02】[KaylinOwO / Project-Apparatus](https://github.com/KaylinOwO/Project-Apparatus) - A Lethal Company cheat based on Infinite Company
+* 【2024-01-02】[recyclarr / recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 * 【2024-01-01】[Fragtality / DynamicLOD](https://github.com/Fragtality/DynamicLOD) - 
 * 【2024-01-01】[builtbybel / WhatsPC](https://github.com/builtbybel/WhatsPC) - What to do with your Toaster?
 * 【2024-01-01】[BunyaPineTree / LethalCompany_ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) - 
@@ -529,6 +549,7 @@
 
 ## Html
 
+* 【2024-01-02】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 * 【2024-01-01】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
 * 【2023-12-31】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
 * 【2023-12-31】[vishaltewatia / code](https://github.com/vishaltewatia/code) - 
@@ -574,6 +595,10 @@
 
 ## Css
 
+* 【2024-01-02】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
+* 【2024-01-02】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
+* 【2024-01-02】[akshu20791 / apachewebsite](https://github.com/akshu20791/apachewebsite) - 
+* 【2024-01-02】[CodeCompleteYT / react-portfolio](https://github.com/CodeCompleteYT/react-portfolio) - 
 * 【2024-01-01】[codewithsadee / portfolio](https://github.com/codewithsadee/portfolio) - Fully responsive personal portfolio website
 * 【2024-01-01】[TWBug / GoldCardHenge](https://github.com/TWBug/GoldCardHenge) - 
 * 【2023-12-31】[vishaltewatia / propose-your-gf](https://github.com/vishaltewatia/propose-your-gf) - 
@@ -641,6 +666,9 @@
 
 ## Unknown
 
+* 【2024-01-02】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
+* 【2024-01-02】[linuxadi / 40k-nuclei-templates](https://github.com/linuxadi/40k-nuclei-templates) - 40,000+ Nuclei templates for security scanning and detection across diverse web applications and services
+* 【2024-01-02】[jschuh / klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
 * 【2024-01-01】[Archmage83 / tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
 * 【2024-01-01】[liguge / Journals-of-Prognostics-and-Health-Management](https://github.com/liguge/Journals-of-Prognostics-and-Health-Management) - 智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）
 * 【2024-01-01】[Oliver-242 / HUST-Operating-System-PKE](https://github.com/Oliver-242/HUST-Operating-System-PKE) - 华中科技大学2020级操作系统实验（PKE）
