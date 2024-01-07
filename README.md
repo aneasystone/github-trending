@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
+* 【2024-01-07】[ubuygold / go-noss](https://github.com/ubuygold/go-noss) - 
+* 【2024-01-07】[MarkFzp / mobile-aloha](https://github.com/MarkFzp/mobile-aloha) - Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation
+* 【2024-01-07】[MarkFzp / act-plus-plus](https://github.com/MarkFzp/act-plus-plus) - Imitation Learning algorithms with Co-traing for Mobile ALOHA: ACT, Diffusion Policy, VINN
+* 【2024-01-07】[bleedline / Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.
+* 【2024-01-07】[bclavie / RAGatouille](https://github.com/bclavie/RAGatouille) - 
+* 【2024-01-07】[tonyzhaozh / aloha](https://github.com/tonyzhaozh/aloha) - 
+* 【2024-01-07】[stephencelis / SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
 * 【2024-01-06】[ChristianLempa / homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 * 【2024-01-06】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
 * 【2024-01-06】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
@@ -209,6 +217,9 @@
 
 ## Python
 
+* 【2024-01-07】[jianchang512 / stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
+* 【2024-01-07】[Upsetin / noss-mint-script](https://github.com/Upsetin/noss-mint-script) - noss auto mint scirpt.
+* 【2024-01-07】[stanford-futuredata / ColBERT](https://github.com/stanford-futuredata/ColBERT) - Stanford ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22)
 * 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
 * 【2024-01-06】[pratyushasharma / laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
 * 【2024-01-06】[allenai / unified-io-2](https://github.com/allenai/unified-io-2) - 
@@ -329,6 +340,8 @@
 
 ## Javascript
 
+* 【2024-01-07】[gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov.
+* 【2024-01-07】[hiteshchoudhary / react-english](https://github.com/hiteshchoudhary/react-english) - A fun react series in future
 * 【2024-01-06】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
 * 【2024-01-06】[TechForPalestine / boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset) - 
 * 【2024-01-05】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
@@ -445,6 +458,8 @@
 
 ## C
 
+* 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
+* 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 * 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 * 【2024-01-06】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
 * 【2024-01-05】[leaningktower / Analog-GPS-data-receiver](https://github.com/leaningktower/Analog-GPS-data-receiver) - An full analog GPS receiver using discrete rf components and TinyFPGA
@@ -542,6 +557,8 @@
 
 ## C#
 
+* 【2024-01-07】[microsoft / teams-ai](https://github.com/microsoft/teams-ai) - SDK focused on building AI based applications and extensions for Microsoft Teams.
+* 【2024-01-07】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
 * 【2024-01-05】[LagrangeDev / Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2024-01-02】[digitalinnovationone / trilha-net-fundamentos-desafio](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) - Desafio de projeto .NET Fundamentos - DIO
 * 【2024-01-02】[Interkarma / daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
@@ -650,6 +667,9 @@
 
 ## Css
 
+* 【2024-01-07】[altoliaw3 / 112-1QZ2](https://github.com/altoliaw3/112-1QZ2) - 
+* 【2024-01-07】[tuananh1406 / my-wedding-page](https://github.com/tuananh1406/my-wedding-page) - 
+* 【2024-01-07】[devchallenges-io / responsive-web-starter](https://github.com/devchallenges-io/responsive-web-starter) - 
 * 【2024-01-05】[OpenClassrooms-Student-Center / P12_Front-end](https://github.com/OpenClassrooms-Student-Center/P12_Front-end) - 
 * 【2024-01-05】[Rahulvaishnav9 / Login-Page](https://github.com/Rahulvaishnav9/Login-Page) - Follow my instagram account for more content
 * 【2024-01-05】[Rysera-Innovations / Rysera-web](https://github.com/Rysera-Innovations/Rysera-web) - 
@@ -727,6 +747,8 @@
 
 ## Unknown
 
+* 【2024-01-07】[leicemag / Javdb-Top250](https://github.com/leicemag/Javdb-Top250) - Javdb.com top 250 movies collection
+* 【2024-01-07】[youngyangyang04 / kama-DesignPattern](https://github.com/youngyangyang04/kama-DesignPattern) - 卡码网-23种设计模式精讲，每种设计模式都配套代码练习题，支持 Java，CPP，Python，Go
 * 【2024-01-05】[Jack-bo1220 / Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - 
 * 【2024-01-05】[MiAO-AI-Lab / LARP](https://github.com/MiAO-AI-Lab/LARP) - 
 * 【2024-01-04】[blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0) - This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.
