@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-01-09】[benman1 / generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
 * 【2024-01-08】[janhq / nitro](https://github.com/janhq/nitro) - A fast, lightweight, embeddable inference engine to supercharge your apps with local AI. OpenAI-compatible API
 * 【2024-01-08】[menyifang / En3D](https://github.com/menyifang/En3D) - Official implementation of "En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data"
 * 【2024-01-07】[facebookresearch / audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio
@@ -178,6 +179,10 @@
 
 ## Java
 
+* 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
+* 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
+* 【2024-01-09】[bitcoinj / bitcoinj](https://github.com/bitcoinj/bitcoinj) - A library for working with Bitcoin
+* 【2024-01-09】[DiscordSRV / DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) - Discord bridging plugin for block game https://modrinth.com/plugin/discordsrv
 * 【2024-01-08】[kingtaeyeon / equity-calculator](https://github.com/kingtaeyeon/equity-calculator) - 权益计算框架
 * 【2024-01-08】[rememberber / WePush](https://github.com/rememberber/WePush) - 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 * 【2024-01-08】[skinny85 / jilt](https://github.com/skinny85/jilt) - Java annotation processor for auto-generating Builder (including Type-Safe Builder) classes
@@ -223,6 +228,10 @@
 
 ## Python
 
+* 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
+* 【2024-01-09】[neobundy / Deep-Dive-Into-AI-With-MLX-PyTorch](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch) - "Deep Dive into AI with MLX and PyTorch" is an educational initiative designed to help anyone interested in AI, specifically in machine learning and deep learning, using Apple's MLX and Meta's PyTorch frameworks.
+* 【2024-01-09】[stanford-oval / WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
+* 【2024-01-09】[ltdrdata / ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) - 
 * 【2024-01-08】[ali-vilab / i2vgen-xl](https://github.com/ali-vilab/i2vgen-xl) - Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models
 * 【2024-01-08】[VILA-Lab / ATLAS](https://github.com/VILA-Lab/ATLAS) - A principled instruction benchmark on formulating effective queries and prompts for large language models (LLMs). Our paper: https://arxiv.org/abs/2312.16171
 * 【2024-01-08】[home-assistant / operating-system](https://github.com/home-assistant/operating-system) - 🔰 Home Assistant Operating System
@@ -350,6 +359,8 @@
 
 ## Javascript
 
+* 【2024-01-09】[adrianhajdin / docker-course](https://github.com/adrianhajdin/docker-course) - Full Modern Docker Course
+* 【2024-01-09】[MagicMirrorOrg / MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 * 【2024-01-08】[wukko / cobalt](https://github.com/wukko/cobalt) - save what you love
 * 【2024-01-08】[enricoros / big-AGI](https://github.com/enricoros/big-AGI) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
 * 【2024-01-08】[iongpt / LLM-for-Whatsapp](https://github.com/iongpt/LLM-for-Whatsapp) - WhatsApp client with LLM integration. It support OpenAI API and also local LLMs
@@ -471,6 +482,7 @@
 
 ## C
 
+* 【2024-01-09】[rswier / swieros](https://github.com/rswier/swieros) - A tiny hand crafted CPU emulator, C compiler, and Operating System
 * 【2024-01-07】[openwch / arduino_core_ch32](https://github.com/openwch/arduino_core_ch32) - Core library for CH32duino
 * 【2024-01-07】[spotify / sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts.
 * 【2024-01-06】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
@@ -571,6 +583,8 @@
 
 ## C#
 
+* 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
+* 【2024-01-09】[rogerfar / rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 * 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
 * 【2024-01-07】[microsoft / teams-ai](https://github.com/microsoft/teams-ai) - SDK focused on building AI based applications and extensions for Microsoft Teams.
 * 【2024-01-07】[buybackoff / 1brc](https://github.com/buybackoff/1brc) - 
@@ -684,6 +698,7 @@
 
 ## Css
 
+* 【2024-01-09】[promptdesk / promptdesk](https://github.com/promptdesk/promptdesk) - Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).
 * 【2024-01-07】[altoliaw3 / 112-1QZ2](https://github.com/altoliaw3/112-1QZ2) - 
 * 【2024-01-07】[tuananh1406 / my-wedding-page](https://github.com/tuananh1406/my-wedding-page) - 
 * 【2024-01-07】[devchallenges-io / responsive-web-starter](https://github.com/devchallenges-io/responsive-web-starter) - 
@@ -764,6 +779,9 @@
 
 ## Unknown
 
+* 【2024-01-09】[CASRAI-CRedIT / Dictionary](https://github.com/CASRAI-CRedIT/Dictionary) - CASRAI Credit Dictionary of Elements
+* 【2024-01-09】[wearecaster / MITMonster](https://github.com/wearecaster/MITMonster) - A monster cheatsheet on MITM attacks
+* 【2024-01-09】[wangschang / web3.0](https://github.com/wangschang/web3.0) - web3.0知识整理 web3.0知识 web3.0学习资料
 * 【2024-01-08】[krishnaik06 / Roadmap-To-Become-Data-Analyst-2024](https://github.com/krishnaik06/Roadmap-To-Become-Data-Analyst-2024) - 
 * 【2024-01-08】[epiresdasilva / aws-minecraft-server](https://github.com/epiresdasilva/aws-minecraft-server) - An easy and fast way to create your own Minecraft Server.
 * 【2024-01-08】[zjunlp / LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) - Must-read Papers on LLM Agents.
