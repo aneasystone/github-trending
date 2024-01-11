@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-01-11】[ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
+* 【2024-01-11】[rauchg / next-ai-news](https://github.com/rauchg/next-ai-news) - 
 * 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
 * 【2024-01-10】[rose-pine / neovim](https://github.com/rose-pine/neovim) - Soho vibes for Neovim
 * 【2024-01-10】[mrousavy / react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
@@ -182,6 +184,7 @@
 
 ## Java
 
+* 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 * 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 * 【2024-01-09】[Eanya-Tonic / CCTV_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 央视浏览器，一款基于tv.cctv.com的简易电视直播收看软件，用于方便的在机顶盒上收看央视节目
@@ -232,6 +235,10 @@
 
 ## Python
 
+* 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
+* 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
+* 【2024-01-11】[hpcaitech / SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - Efficient AI Inference & Serving
+* 【2024-01-11】[kyegomez / MultiModalMamba](https://github.com/kyegomez/MultiModalMamba) - A novel implementation of fusing ViT with Mamba into a fast, agile, and high performance Multi-Modal Model. Powered by Zeta, the simplest AI framework ever.
 * 【2024-01-10】[netease-youdao / BCEmbedding](https://github.com/netease-youdao/BCEmbedding) - Netease Youdao's open-source embedding and reranker models for RAG products.
 * 【2024-01-10】[laixintao / flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 * 【2024-01-09】[skfolio / skfolio](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn
@@ -365,6 +372,7 @@
 
 ## Javascript
 
+* 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 * 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
 * 【2024-01-10】[GAIR-NLP / MathPile](https://github.com/GAIR-NLP/MathPile) - Generative AI for Math: MathPile
@@ -493,6 +501,9 @@
 
 ## C
 
+* 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+* 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
+* 【2024-01-11】[ossc-db / pg_rman](https://github.com/ossc-db/pg_rman) - Backup and restore management tool for PostgreSQL
 * 【2024-01-10】[hrtowii / Serotonin](https://github.com/hrtowii/Serotonin) - 
 * 【2024-01-10】[cc65 / cc65](https://github.com/cc65/cc65) - cc65 - a freeware C compiler for 6502 based systems
 * 【2024-01-10】[n0xa / m5stick-nemo](https://github.com/n0xa/m5stick-nemo) - M5 Stick C firmware for high-tech pranks
@@ -600,6 +611,11 @@
 
 ## C#
 
+* 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
+* 【2024-01-11】[nicsure / QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
+* 【2024-01-11】[digitalinnovationone / trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio) - 
+* 【2024-01-11】[lisongkun / HyggeImaotai](https://github.com/lisongkun/HyggeImaotai) - i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约, (╯°□°）╯︵ ┻━┻ 预约启动！
+* 【2024-01-11】[digitalinnovationone / trilha-net-testes-unitarios-desafio](https://github.com/digitalinnovationone/trilha-net-testes-unitarios-desafio) - 
 * 【2024-01-09】[blackarrowsec / Handly](https://github.com/blackarrowsec/Handly) - Abuse leaked token handles.
 * 【2024-01-09】[rogerfar / rdt-client](https://github.com/rogerfar/rdt-client) - Real-Debrid Client Proxy
 * 【2024-01-08】[dmcxblue / SharpGhostTask](https://github.com/dmcxblue/SharpGhostTask) - A C# port from Invoke-GhostTask
@@ -715,6 +731,9 @@
 
 ## Css
 
+* 【2024-01-11】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
+* 【2024-01-11】[opencodeiiita / Collaborative-Web-2023](https://github.com/opencodeiiita/Collaborative-Web-2023) - This project is made to showcase what OpenCode 23' is all about. Made by the contributors for the contributors.
+* 【2024-01-11】[arthurbm / instapets](https://github.com/arthurbm/instapets) - 
 * 【2024-01-10】[zhuxinlang / zhuxinlang.github.io](https://github.com/zhuxinlang/zhuxinlang.github.io) - 
 * 【2024-01-10】[vishaltewatia / Impress-your-crush](https://github.com/vishaltewatia/Impress-your-crush) - 
 * 【2024-01-10】[Rasxtt / perdon](https://github.com/Rasxtt/perdon) - 
@@ -802,6 +821,9 @@
 
 ## Unknown
 
+* 【2024-01-11】[matro7sh / BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
+* 【2024-01-11】[EvilGreys / Hide-CobaltStrike](https://github.com/EvilGreys/Hide-CobaltStrike) - Hide your CobaltStrike PRO
+* 【2024-01-11】[LSPosed / LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
 * 【2024-01-10】[Human3DAIGC / Make-A-Character](https://github.com/Human3DAIGC/Make-A-Character) - Official repo for Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
 * 【2024-01-10】[blindma1den / Programming-Skills-Level1](https://github.com/blindma1den/Programming-Skills-Level1) - 
 * 【2024-01-10】[TencentARC / LLaMA-Pro](https://github.com/TencentARC/LLaMA-Pro) - Progressive LLaMA with Block Expansion.
