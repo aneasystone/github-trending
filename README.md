@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
+* 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+* 【2024-01-12】[Portkey-AI / gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+* 【2024-01-12】[ProjectNUWA / DragNUWA](https://github.com/ProjectNUWA/DragNUWA) - 
 * 【2024-01-11】[ThePBone / tachiyomi-extensions-revived](https://github.com/ThePBone/tachiyomi-extensions-revived) - Revival of removed source extensions for the Tachiyomi app.
 * 【2024-01-11】[rauchg / next-ai-news](https://github.com/rauchg/next-ai-news) - 
 * 【2024-01-10】[ProgrammingHero1 / B9A1-New-Year-New-Mission](https://github.com/ProgrammingHero1/B9A1-New-Year-New-Mission) - 
@@ -184,6 +189,7 @@
 
 ## Java
 
+* 【2024-01-12】[qi4L / JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
 * 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 * 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 * 【2024-01-09】[Suwayomi / Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -235,6 +241,9 @@
 
 ## Python
 
+* 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
+* 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
+* 【2024-01-12】[qubvel / segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones. PyTorch.
 * 【2024-01-11】[plotly / plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 * 【2024-01-11】[langchain-ai / langgraph](https://github.com/langchain-ai/langgraph) - 
 * 【2024-01-11】[hpcaitech / SwiftInfer](https://github.com/hpcaitech/SwiftInfer) - Efficient AI Inference & Serving
@@ -372,6 +381,8 @@
 
 ## Javascript
 
+* 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
+* 【2024-01-12】[Dash-Industry-Forum / dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 * 【2024-01-10】[phaserjs / phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * 【2024-01-10】[Everduin94 / better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commit guidelines. Written with Typescript | ZOD | Clack
@@ -501,6 +512,8 @@
 
 ## C
 
+* 【2024-01-12】[joexbayer / RetrOS-32](https://github.com/joexbayer/RetrOS-32) - 32bit Hobby Operatingsystem with graphics, multitasking and networking on i386 architecture.
+* 【2024-01-12】[eclipse-threadx / threadx](https://github.com/eclipse-threadx/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 * 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
 * 【2024-01-11】[mineek / Serotonin](https://github.com/mineek/Serotonin) - 
 * 【2024-01-11】[ossc-db / pg_rman](https://github.com/ossc-db/pg_rman) - Backup and restore management tool for PostgreSQL
@@ -564,6 +577,8 @@
 
 ## C++
 
+* 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
+* 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
 * 【2024-01-08】[X-Profiler / xprofiler](https://github.com/X-Profiler/xprofiler) - 🌀An addon for node.js, which supporting output performance log and real-time profiling through sampling.
 * 【2024-01-06】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
 * 【2024-01-06】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
@@ -611,6 +626,8 @@
 
 ## C#
 
+* 【2024-01-12】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
+* 【2024-01-12】[lin-ycv / EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 * 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
 * 【2024-01-11】[nicsure / QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 * 【2024-01-11】[digitalinnovationone / trilha-net-poo-desafio](https://github.com/digitalinnovationone/trilha-net-poo-desafio) - 
@@ -678,6 +695,7 @@
 
 ## Html
 
+* 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
 * 【2024-01-08】[diminDDL / ProPico](https://github.com/diminDDL/ProPico) - An RP2040 dev board improving on aspects of the pi pico
 * 【2024-01-08】[qiye45 / wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
 * 【2024-01-06】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
@@ -731,6 +749,9 @@
 
 ## Css
 
+* 【2024-01-12】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
+* 【2024-01-12】[okfn / ckanext-datahub](https://github.com/okfn/ckanext-datahub) - Plugin for datahub
+* 【2024-01-12】[diffbot / rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
 * 【2024-01-11】[Akifyss / obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 * 【2024-01-11】[opencodeiiita / Collaborative-Web-2023](https://github.com/opencodeiiita/Collaborative-Web-2023) - This project is made to showcase what OpenCode 23' is all about. Made by the contributors for the contributors.
 * 【2024-01-11】[arthurbm / instapets](https://github.com/arthurbm/instapets) - 
@@ -821,6 +842,9 @@
 
 ## Unknown
 
+* 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
+* 【2024-01-12】[LadyKerr / github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
+* 【2024-01-12】[nerority / Advanced-GPTs](https://github.com/nerority/Advanced-GPTs) - Custom GPT Showcase, featuring advanced workflows and operational logic.
 * 【2024-01-11】[matro7sh / BypassAV](https://github.com/matro7sh/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR
 * 【2024-01-11】[EvilGreys / Hide-CobaltStrike](https://github.com/EvilGreys/Hide-CobaltStrike) - Hide your CobaltStrike PRO
 * 【2024-01-11】[LSPosed / LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
