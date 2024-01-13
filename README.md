@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
+* 【2024-01-13】[meilisearch / meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+* 【2024-01-13】[maybe-finance / maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app
+* 【2024-01-13】[morethanwords / tweb](https://github.com/morethanwords/tweb) - Telegram Web K, GPL v3
 * 【2024-01-12】[keiyoushi / extensions](https://github.com/keiyoushi/extensions) - Source extensions for the Tachiyomi app.
 * 【2024-01-12】[keiyoushi / extensions-source](https://github.com/keiyoushi/extensions-source) - Source code of the extensions for the Tachiyomi app.
 * 【2024-01-12】[atuinsh / atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -241,6 +245,10 @@
 
 ## Python
 
+* 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
+* 【2024-01-13】[NVIDIA / trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows) - A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM
+* 【2024-01-13】[hogan-tech / leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages.
+* 【2024-01-13】[OneBST / GGanalysis](https://github.com/OneBST/GGanalysis) - 抽卡游戏概率分析工具包 A simple and efficient computing package for analysis gacha in game
 * 【2024-01-12】[buaavrcg / BakedAvatar](https://github.com/buaavrcg/BakedAvatar) - Pytorch Code for "BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis"
 * 【2024-01-12】[HarborYuan / ovsam](https://github.com/HarborYuan/ovsam) - 
 * 【2024-01-12】[qubvel / segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones. PyTorch.
@@ -381,6 +389,7 @@
 
 ## Javascript
 
+* 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 * 【2024-01-12】[Dash-Industry-Forum / dash.js](https://github.com/Dash-Industry-Forum/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * 【2024-01-11】[IsmaelMartinez / teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -512,6 +521,7 @@
 
 ## C
 
+* 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
 * 【2024-01-12】[joexbayer / RetrOS-32](https://github.com/joexbayer/RetrOS-32) - 32bit Hobby Operatingsystem with graphics, multitasking and networking on i386 architecture.
 * 【2024-01-12】[eclipse-threadx / threadx](https://github.com/eclipse-threadx/threadx) - Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.
 * 【2024-01-11】[bmax121 / KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
@@ -749,6 +759,9 @@
 
 ## Css
 
+* 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
+* 【2024-01-13】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos. You can contribute to this open source repository.🤖
+* 【2024-01-13】[Soheil-Rasouli / internet-origin](https://github.com/Soheil-Rasouli/internet-origin) - 
 * 【2024-01-12】[itscodenation / flw1-u2l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u2l2-23-24-student-exercises) - 
 * 【2024-01-12】[okfn / ckanext-datahub](https://github.com/okfn/ckanext-datahub) - Plugin for datahub
 * 【2024-01-12】[diffbot / rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
@@ -842,6 +855,7 @@
 
 ## Unknown
 
+* 【2024-01-13】[duty-machine / news](https://github.com/duty-machine/news) - 免翻墙阅读海外媒体的中文文章
 * 【2024-01-12】[upb-lea / Inkscape_electric_Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Electrical symbol library for the vector graphics program Inkscape.
 * 【2024-01-12】[LadyKerr / github-certification-guide](https://github.com/LadyKerr/github-certification-guide) - Resources to help you get GitHub certified ✨
 * 【2024-01-12】[nerority / Advanced-GPTs](https://github.com/nerority/Advanced-GPTs) - Custom GPT Showcase, featuring advanced workflows and operational logic.
