@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+* 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
+* 【2024-01-15】[tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
+* 【2024-01-15】[nextcloud / all-in-one](https://github.com/nextcloud/all-in-one) - The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 * 【2024-01-14】[AIGCDesignGroup / ReplaceAnything](https://github.com/AIGCDesignGroup/ReplaceAnything) - 
 * 【2024-01-14】[ruby / ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
 * 【2024-01-13】[subquery / subql](https://github.com/subquery/subql) - SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.
@@ -195,6 +199,8 @@
 
 ## Java
 
+* 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
+* 【2024-01-15】[Mahmud0808 / ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Express yourself with colors
 * 【2024-01-12】[qi4L / JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
 * 【2024-01-11】[allure-framework / allure2](https://github.com/allure-framework/allure2) - Allure Report is a flexible, lightweight multi-language test reporting tool. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process
 * 【2024-01-10】[HMCL-dev / HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
@@ -247,6 +253,11 @@
 
 ## Python
 
+* 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+* 【2024-01-15】[TheCyb3rAlpha / BobTheSmuggler](https://github.com/TheCyb3rAlpha/BobTheSmuggler) - "Bob the Smuggler": A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).
+* 【2024-01-15】[chenyifanthu / WechatAnnualReport](https://github.com/chenyifanthu/WechatAnnualReport) - 微信聊天记录导出、微信年度报告生成！记录你的2023！
+* 【2024-01-15】[spipm / Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
+* 【2024-01-15】[AlessandroZ / LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 * 【2024-01-14】[Tele-AI / Telechat](https://github.com/Tele-AI/Telechat) - 
 * 【2024-01-14】[EntySec / SeaShell](https://github.com/EntySec/SeaShell) - SeaShell Framework is an iOS post-exploitation framework that enables you to access the device remotely, control it and extract sensitive information.
 * 【2024-01-13】[datamllab / LongLM](https://github.com/datamllab/LongLM) - LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
@@ -594,6 +605,8 @@
 
 ## C++
 
+* 【2024-01-15】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
+* 【2024-01-15】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
 * 【2024-01-14】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
 * 【2024-01-12】[linkdd / aitoolkit](https://github.com/linkdd/aitoolkit) - Give a brain to your game's NPCs
 * 【2024-01-12】[hku-mars / M-detector](https://github.com/hku-mars/M-detector) - 
@@ -644,6 +657,8 @@
 
 ## C#
 
+* 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
+* 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-12】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
 * 【2024-01-12】[lin-ycv / EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 * 【2024-01-11】[BC-SECURITY / Moriarty](https://github.com/BC-SECURITY/Moriarty) - 
@@ -713,6 +728,7 @@
 
 ## Html
 
+* 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-14】[mawerty / Is-Prime](https://github.com/mawerty/Is-Prime) - O(1) Algorithm to check if number is prime that works in 95%+ cases.
 * 【2024-01-14】[vidio-boy / Eaglercraft1.5.2](https://github.com/vidio-boy/Eaglercraft1.5.2) - Eaglercraft javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
 * 【2024-01-12】[namastedev / namaste-frontend-system-design](https://github.com/namastedev/namaste-frontend-system-design) - 
@@ -769,6 +785,7 @@
 
 ## Css
 
+* 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
 * 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
 * 【2024-01-13】[apu52 / Travel_Website](https://github.com/apu52/Travel_Website) - This repo contains my project on Travel Website✈️using HTML,CSS . It contains the landing page of a travel tour company website. If you have any front end project on this or you can add new features in the project or in this repos. You can contribute to this open source repository.🤖
@@ -866,6 +883,9 @@
 
 ## Unknown
 
+* 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
+* 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
+* 【2024-01-15】[rolik1337 / CryptoTradeAI](https://github.com/rolik1337/CryptoTradeAI) - Detailed installation guide for this software is available on my Telegram
 * 【2024-01-14】[Loy6410 / ios16-tweaks](https://github.com/Loy6410/ios16-tweaks) - A continuously updated list of working iOS 16 semi-jailbreak tweaks.
 * 【2024-01-14】[NaomiLe1811 / Unity_Cheat_Sheet](https://github.com/NaomiLe1811/Unity_Cheat_Sheet) - 
 * 【2024-01-14】[osurf / ozdy](https://github.com/osurf/ozdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
