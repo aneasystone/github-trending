@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
 * 【2024-01-15】[tachiyomiorg / extensions](https://github.com/tachiyomiorg/extensions) - Source extensions for the Tachiyomi app.
@@ -199,6 +200,8 @@
 
 ## Java
 
+* 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
+* 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 * 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
 * 【2024-01-15】[Mahmud0808 / ColorBlendr](https://github.com/Mahmud0808/ColorBlendr) - Express yourself with colors
 * 【2024-01-12】[qi4L / JYso](https://github.com/qi4L/JYso) - It can be either a JNDIExploit or a ysoserial. JYso是一个可以用于 jndi 注入攻击和生成反序列化数据流的工具。
@@ -253,6 +256,10 @@
 
 ## Python
 
+* 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
+* 【2024-01-16】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
+* 【2024-01-16】[DougDougGithub / Babagaboosh](https://github.com/DougDougGithub/Babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+* 【2024-01-16】[trustedsec / social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 * 【2024-01-15】[VikParuchuri / surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 * 【2024-01-15】[TheCyb3rAlpha / BobTheSmuggler](https://github.com/TheCyb3rAlpha/BobTheSmuggler) - "Bob the Smuggler": A tool that leverages HTML Smuggling Attack and allows you to create HTML files with embedded 7z/zip archives. The tool would compress your binary (EXE/DLL) into 7z/zip file format, then XOR encrypt the archive and then hides inside PNG/GIF image file format (Image Polyglots).
 * 【2024-01-15】[chenyifanthu / WechatAnnualReport](https://github.com/chenyifanthu/WechatAnnualReport) - 微信聊天记录导出、微信年度报告生成！记录你的2023！
@@ -404,6 +411,8 @@
 
 ## Javascript
 
+* 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
+* 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 * 【2024-01-14】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
 * 【2024-01-13】[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 * 【2024-01-12】[necolas / react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
@@ -479,6 +488,10 @@
 
 ## Go
 
+* 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
+* 【2024-01-16】[synctv-org / synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video, long-distance relationship
+* 【2024-01-16】[Azure / azqr](https://github.com/Azure/azqr) - Azure Quick Review
+* 【2024-01-16】[peak / s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
 * 【2024-01-10】[anthdm / raptor](https://github.com/anthdm/raptor) - Create, Deploy, and Run your applications on the edge
 * 【2024-01-06】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-05】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
@@ -537,6 +550,7 @@
 
 ## C
 
+* 【2024-01-16】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-14】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 * 【2024-01-14】[tenclass / mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
 * 【2024-01-13】[Hugobros3 / shady](https://github.com/Hugobros3/shady) - Research shading language IR
@@ -657,6 +671,10 @@
 
 ## C#
 
+* 【2024-01-16】[undreamai / LLMUnity](https://github.com/undreamai/LLMUnity) - Integrate LLM models in Unity!
+* 【2024-01-16】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
+* 【2024-01-16】[0xthirteen / SharpRDP](https://github.com/0xthirteen/SharpRDP) - Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
+* 【2024-01-16】[GeneralLibrary / GeneralUpdate](https://github.com/GeneralLibrary/GeneralUpdate) - My ship looks old, who can help me upgrade it.
 * 【2024-01-15】[Squidex / squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub
 * 【2024-01-15】[microsoft / xbox-multiplayer-analysis-tool](https://github.com/microsoft/xbox-multiplayer-analysis-tool) - Xbox Multiplayer Analysis Tool is a network traffic capturing tool to aid in the debugging of Xbox services issues and other network traffic from both a PC and Xbox development console.
 * 【2024-01-12】[Cysharp / R3](https://github.com/Cysharp/R3) - The new future of dotnet/reactive and UniRx.
@@ -728,6 +746,9 @@
 
 ## Html
 
+* 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
+* 【2024-01-16】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
+* 【2024-01-16】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
 * 【2024-01-15】[EricksonAtHome / blackeye](https://github.com/EricksonAtHome/blackeye) - BLACKEYE v2.0 | New Phishing tool with localtunnel
 * 【2024-01-14】[mawerty / Is-Prime](https://github.com/mawerty/Is-Prime) - O(1) Algorithm to check if number is prime that works in 95%+ cases.
 * 【2024-01-14】[vidio-boy / Eaglercraft1.5.2](https://github.com/vidio-boy/Eaglercraft1.5.2) - Eaglercraft javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available.
@@ -785,6 +806,7 @@
 
 ## Css
 
+* 【2024-01-16】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
 * 【2024-01-15】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-14】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
 * 【2024-01-13】[itscodenation / int-u3l6-23-24-student-exercises](https://github.com/itscodenation/int-u3l6-23-24-student-exercises) - 
@@ -883,6 +905,12 @@
 
 ## Unknown
 
+* 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
+* 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
+* 【2024-01-16】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
+* 【2024-01-16】[tachiyomiorg / tachiyomi-preview](https://github.com/tachiyomiorg/tachiyomi-preview) - Tachiyomi preview build repo.
+* 【2024-01-16】[lfranke / TRIPS](https://github.com/lfranke/TRIPS) - 
+* 【2024-01-16】[daniloraisi / go-ahead](https://github.com/daniloraisi/go-ahead) - Projeto Go Ahead
 * 【2024-01-15】[danielmiessler / fabric](https://github.com/danielmiessler/fabric) - An AI Augmentation framework for helping people integrate AI into their lives.
 * 【2024-01-15】[cloudcommunity / Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 * 【2024-01-15】[rolik1337 / CryptoTradeAI](https://github.com/rolik1337/CryptoTradeAI) - Detailed installation guide for this software is available on my Telegram
