@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-01-18】[TencentARC / PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+* 【2024-01-18】[vanna-ai / vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+* 【2024-01-18】[react-native-webview / react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
+* 【2024-01-18】[marcnewlin / hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
 * 【2024-01-16】[tachiyomiorg / website](https://github.com/tachiyomiorg/website) - Official website for the Tachiyomi app.
 * 【2024-01-15】[marimo-team / marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 * 【2024-01-15】[MooreThreads / Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) - 
@@ -200,6 +204,7 @@
 
 ## Java
 
+* 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
 * 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 * 【2024-01-15】[MCRcortex / nvidium](https://github.com/MCRcortex/nvidium) - Fast minecraft rendering backend for sodium (nvidia only)
@@ -256,6 +261,11 @@
 
 ## Python
 
+* 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+* 【2024-01-18】[Andre0512 / hon](https://github.com/Andre0512/hon) - Home Assistant integration for Haier hOn: support for Haier/Candy/Hoover home appliances like washing machines and air conditioners in 19 languages.
+* 【2024-01-18】[xaitax / SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.
+* 【2024-01-18】[piddnad / DDColor](https://github.com/piddnad/DDColor) - [ICCV 2023] Official implementation of "DDColor: Towards Photo-Realistic Image Colorization via Dual Decoders"
+* 【2024-01-18】[EmbraceAGI / LangGPT](https://github.com/EmbraceAGI/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 * 【2024-01-17】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 * 【2024-01-17】[BRlkl / AGI-Samantha](https://github.com/BRlkl/AGI-Samantha) - AGI has been achieved externally
 * 【2024-01-16】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
@@ -413,6 +423,7 @@
 
 ## Javascript
 
+* 【2024-01-18】[isanchop / stuhack](https://github.com/isanchop/stuhack) - Chrome extension for studocu premium free
 * 【2024-01-16】[Starlk7 / Magiceden-Launchpad-Bot](https://github.com/Starlk7/Magiceden-Launchpad-Bot) - Bot for mint on Magiceden Launchpad in Solana and BTC networks
 * 【2024-01-16】[YouTransfer / YouTransfer](https://github.com/YouTransfer/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
 * 【2024-01-14】[prabathLK / PRABATH-MD](https://github.com/prabathLK/PRABATH-MD) - 🇱🇰 Multi-device whatsapp bot 🎉
@@ -490,6 +501,7 @@
 
 ## Go
 
+* 【2024-01-18】[JoyalAJohney / Realtime-Distributed-Chat](https://github.com/JoyalAJohney/Realtime-Distributed-Chat) - High throughput 🚀 low latency - realtime chat built in Go and React ❤️
 * 【2024-01-16】[zero-proxy / zero-proxy](https://github.com/zero-proxy/zero-proxy) - 最轻量、高效、透明、稳定的多币种矿池代理、矿池中转。支持 BTC, ETC, RVN, NicaHash, XNA, ETHW, Ergo 等币种。自定义抽水账号及比例，高性能数据中转算法，无任何share损耗。具有高效的抽水算法，保证精确抽水。支持多端口监听及多矿池连接，同时接入3000+矿机性能稳定且不掉线。The lightest, most efficient, transparent, and stable multi-cryptocurrency mining pool proxy.
 * 【2024-01-16】[synctv-org / synctv](https://github.com/synctv-org/synctv) - Synchronized viewing, theater, live streaming, video, long-distance relationship
 * 【2024-01-16】[Azure / azqr](https://github.com/Azure/azqr) - Azure Quick Review
@@ -552,6 +564,7 @@
 
 ## C
 
+* 【2024-01-18】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-01-17】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
 * 【2024-01-17】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
 * 【2024-01-17】[bfengj / eBPFeXPLOIT](https://github.com/bfengj/eBPFeXPLOIT) - Exploit tool implemented using ebpf.
@@ -624,6 +637,7 @@
 
 ## C++
 
+* 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
 * 【2024-01-17】[Wh04m1001 / CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) - 
 * 【2024-01-17】[UniversalRobots / Universal_Robots_ROS_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver) - Universal Robots ROS driver supporting CB3 and e-Series
 * 【2024-01-17】[fwsGonzo / rvscript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines
@@ -819,6 +833,13 @@
 
 ## Css
 
+* 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
+* 【2024-01-18】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
+* 【2024-01-18】[AI-ANK / C3-Voice-Assistant-UI](https://github.com/AI-ANK/C3-Voice-Assistant-UI) - 
+* 【2024-01-18】[Rahulvaishnav9 / Login-Page-Again](https://github.com/Rahulvaishnav9/Login-Page-Again) - 
+* 【2024-01-18】[danihek / Themecord](https://github.com/danihek/Themecord) - Discord theme will always match your wallpaper!
+* 【2024-01-18】[digitalinnovationone / js-emoji-memory-game](https://github.com/digitalinnovationone/js-emoji-memory-game) - Um jogo da memória criado com JS Vanilla
+* 【2024-01-18】[framgia / framgia.github.io](https://github.com/framgia/framgia.github.io) - 
 * 【2024-01-17】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
 * 【2024-01-17】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
 * 【2024-01-17】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
@@ -924,6 +945,11 @@
 
 ## Unknown
 
+* 【2024-01-18】[darknet-onion-links / darknet-onion-links-catalog](https://github.com/darknet-onion-links/darknet-onion-links-catalog) - TOR DARKENET
+* 【2024-01-18】[1003715231 / gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
+* 【2024-01-18】[lzw-lzw / LEGO](https://github.com/lzw-lzw/LEGO) - LEGO:Language-Enhanced Multi-modal Grounding Model
+* 【2024-01-18】[pilsonguitars / centrifugalDustSeparator](https://github.com/pilsonguitars/centrifugalDustSeparator) - Centrifugal Dust Separator
+* 【2024-01-18】[ruesandora / BEVM](https://github.com/ruesandora/BEVM) - 
 * 【2024-01-17】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 * 【2024-01-16】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
 * 【2024-01-16】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
