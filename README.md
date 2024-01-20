@@ -8,6 +8,16 @@
 
 ## All language
 
+* 【2024-01-20】[ejoy / ant](https://github.com/ejoy/ant) - Ant game engine
+* 【2024-01-20】[spatie / holidays](https://github.com/spatie/holidays) - Calculate which days you don't have to work!
+* 【2024-01-20】[google-deepmind / alphageometry](https://github.com/google-deepmind/alphageometry) - 
+* 【2024-01-20】[kparc / ksimple](https://github.com/kparc/ksimple) - bare minimum atw-style interpreter for learning purposes
+* 【2024-01-20】[alura-es-cursos / 2034-logica-programacion-1](https://github.com/alura-es-cursos/2034-logica-programacion-1) - Curso de lógica de programación 1 - Alura Latam
+* 【2024-01-20】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2024-01-20】[sgl-project / sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+* 【2024-01-20】[Vaibhavs10 / open-tts-tracker](https://github.com/Vaibhavs10/open-tts-tracker) - 
+* 【2024-01-20】[apple / ml-aim](https://github.com/apple/ml-aim) - This repository provides the code and model checkpoints of the research paper: Scalable Pre-training of Large Autoregressive Image Models
+* 【2024-01-20】[suyalcinkaya / onur.dev](https://github.com/suyalcinkaya/onur.dev) - ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
 * 【2024-01-19】[mihonapp / mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 * 【2024-01-19】[RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 * 【2024-01-19】[rails / rails](https://github.com/rails/rails) - Ruby on Rails
@@ -209,6 +219,7 @@
 
 ## Java
 
+* 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 * 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
 * 【2024-01-16】[AndreyPavlenko / Fermata](https://github.com/AndreyPavlenko/Fermata) - 
 * 【2024-01-16】[PhilippC / keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
@@ -266,6 +277,10 @@
 
 ## Python
 
+* 【2024-01-20】[ZHO-ZHO-ZHO / ComfyUI-PhotoMaker](https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker) - Unofficial implementation of PhotoMaker for ComfyUI
+* 【2024-01-20】[msd0pe-1 / cve-maker](https://github.com/msd0pe-1/cve-maker) - Tool to find CVEs and Exploits.
+* 【2024-01-20】[hitsz-ids / synthetic-data-generator](https://github.com/hitsz-ids/synthetic-data-generator) - 专注于结构化表格数据快速生成合成数据的组件
+* 【2024-01-20】[KasperskyLab / iShutdown](https://github.com/KasperskyLab/iShutdown) - 
 * 【2024-01-19】[gnuboard / g6](https://github.com/gnuboard/g6) - 
 * 【2024-01-19】[can-kat / cstealer](https://github.com/can-kat/cstealer) - [BIG UPDATE] A discord token grabber, crypto wallet stealer, cookie stealer, password stealer, file stealer etc. app written in Python.
 * 【2024-01-18】[fishaudio / fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
@@ -430,6 +445,8 @@
 
 ## Javascript
 
+* 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
+* 【2024-01-20】[aFarkas / lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
 * 【2024-01-19】[Shopify / eng-intern-assessment-react](https://github.com/Shopify/eng-intern-assessment-react) - A Starter repo for Shopify React Intern assessments
 * 【2024-01-19】[adamchainz / django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 * 【2024-01-19】[Xatta-Trone / medium-parser-extension](https://github.com/Xatta-Trone/medium-parser-extension) - Read medium.com and medium based articles using google web cache.
@@ -578,6 +595,7 @@
 
 ## C
 
+* 【2024-01-20】[janoglezcampos / llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) - LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time.
 * 【2024-01-19】[sched-ext / scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 * 【2024-01-19】[buzzm / postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON
 * 【2024-01-18】[ginsudev / YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate) - The best tweak for YouTube Music iOS.
@@ -653,6 +671,7 @@
 
 ## C++
 
+* 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
 * 【2024-01-19】[JakubMelka / PDF4QT](https://github.com/JakubMelka/PDF4QT) - Open source PDF editor.
 * 【2024-01-18】[eclipse-iceoryx / iceoryx](https://github.com/eclipse-iceoryx/iceoryx) - Eclipse iceoryx™ - true zero-copy inter-process-communication
 * 【2024-01-17】[Wh04m1001 / CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) - 
@@ -710,6 +729,7 @@
 
 ## C#
 
+* 【2024-01-20】[HaveIBeenPwned / PwnedPasswordsDownloader](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader) - A tool to download all Pwned Passwords hash ranges and save them offline so they can be used without a dependency on the k-anonymity API
 * 【2024-01-17】[DeEpinGh0st / WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) - Windows安全基线核查加固助手
 * 【2024-01-17】[Adamant-im / adamant-notificationService](https://github.com/Adamant-im/adamant-notificationService) - ADAMANT push Notification Service for iOS Messenger app
 * 【2024-01-17】[ZGGSONG / STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
@@ -789,6 +809,8 @@
 
 ## Html
 
+* 【2024-01-20】[bmacGTPM / 361-Spring-2024](https://github.com/bmacGTPM/361-Spring-2024) - 
+* 【2024-01-20】[OCA / project](https://github.com/OCA/project) - Odoo Project Management and Services Company Addons
 * 【2024-01-19】[cstate / cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 * 【2024-01-17】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-16】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
@@ -851,6 +873,8 @@
 
 ## Css
 
+* 【2024-01-20】[UPay-USDT / USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway) - UPay - USDT Payment Gateway (USDT 收款支付网关)
+* 【2024-01-20】[openscholar / starterkit](https://github.com/openscholar/starterkit) - starterkit
 * 【2024-01-19】[CodeSpace-Academy / sdf-student-projects](https://github.com/CodeSpace-Academy/sdf-student-projects) - 
 * 【2024-01-18】[KubeDev / kube-news](https://github.com/KubeDev/kube-news) - 
 * 【2024-01-18】[rolling-scopes-school / HTML-builder](https://github.com/rolling-scopes-school/HTML-builder) - 
@@ -964,6 +988,10 @@
 
 ## Unknown
 
+* 【2024-01-20】[xiaohucode / yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
+* 【2024-01-20】[ashishps1 / awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - This repository contains tips and resources to prepare for behavioral interviews.
+* 【2024-01-20】[alsyundawy / Microsoft-Office-For-MacOS](https://github.com/alsyundawy/Microsoft-Office-For-MacOS) - Installer & Activited Microsoft Office For MacOS
+* 【2024-01-20】[guiqui / k8Studio](https://github.com/guiqui/k8Studio) - K8 Studio
 * 【2024-01-19】[Ostorlab / KEV](https://github.com/Ostorlab/KEV) - Ostorlab KEV: One-command to detect most remotely known exploitable vulnerabilities. Sourced from CISA KEV, Google's Tsunami, Ostorlab's Asteroid and Bug Bounty programs.
 * 【2024-01-19】[quoctinnguyen8 / Clean-Code---Tieng-Viet](https://github.com/quoctinnguyen8/Clean-Code---Tieng-Viet) - Clean Code Tiếng Việt: Bản dịch 6 chương đầu từ quyển "Clean Code - A Handbook of Agile Software Craftsmanship" - Robert C. Martin et. al.
 * 【2024-01-19】[wgwang / awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
