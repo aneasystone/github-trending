@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-01-22】[sst / demo-ai-app](https://github.com/sst/demo-ai-app) - Sample AI movies app built with ❍ Ion
 * 【2024-01-21】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
 * 【2024-01-21】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
 * 【2024-01-21】[hustvl / Vim](https://github.com/hustvl/Vim) - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
@@ -224,6 +225,7 @@
 
 ## Java
 
+* 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
 * 【2024-01-21】[GTNewHorizons / Angelica](https://github.com/GTNewHorizons/Angelica) - OptiFine replacement for 1.7.10
 * 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
 * 【2024-01-18】[aliyunvideo / MONE_demo_opensource_android](https://github.com/aliyunvideo/MONE_demo_opensource_android) - 阿里视频云终端SDK UI组件及demo
@@ -283,6 +285,9 @@
 
 ## Python
 
+* 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
+* 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
+* 【2024-01-22】[zhuangshaobin / Vlogger](https://github.com/zhuangshaobin/Vlogger) - Make Your Dream A Vlog
 * 【2024-01-21】[IST-DASLab / marlin](https://github.com/IST-DASLab/marlin) - FP16xINT4 LLM inference kernel that can achieve near-ideal ~4x speedups up to medium batchsizes of 16-32 tokens.
 * 【2024-01-21】[HIT-SCIR / Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B) - 中文Mixtral-8x7B（Chinese-Mixtral-8x7B）
 * 【2024-01-21】[sysdig / wafer](https://github.com/sysdig/wafer) - 
@@ -608,6 +613,7 @@
 
 ## C
 
+* 【2024-01-22】[Awesome-HarmonyOS / HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 * 【2024-01-21】[AnonymousAAArdvark / qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 * 【2024-01-21】[pnggroup / libpng](https://github.com/pnggroup/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
 * 【2024-01-21】[mitre-cyber-academy / 2024-ectf-insecure-example](https://github.com/mitre-cyber-academy/2024-ectf-insecure-example) - Insecure reference example for the 2024 Collegiate eCTF
@@ -687,6 +693,7 @@
 
 ## C++
 
+* 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-21】[pixpark / gpupixel](https://github.com/pixpark/gpupixel) - Cross-Platform AI Beauty Effects Library, Achieving Commercial-Grade Beauty Effects. Written in C++11, Based on OpenGL/ES and VNN.
 * 【2024-01-21】[senzee1984 / MutationGate](https://github.com/senzee1984/MutationGate) - Use hardware breakpoint to dynamically change SSN in run-time
 * 【2024-01-20】[inferflow / inferflow](https://github.com/inferflow/inferflow) - Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).
@@ -747,6 +754,8 @@
 
 ## C#
 
+* 【2024-01-22】[sqids / sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short unique IDs from numbers.
+* 【2024-01-22】[KumoKyaku / kcp](https://github.com/KumoKyaku/kcp) - KCP C#版。线程安全，运行时无alloc，对gc无压力。
 * 【2024-01-21】[Delt06 / toon-rp](https://github.com/Delt06/toon-rp) - 🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.
 * 【2024-01-21】[Webreaper / Damselfly](https://github.com/Webreaper/Damselfly) - Damselfly is a server-based Photograph Management app. The goal of Damselfly is to index an extremely large collection of images, and allow easy search and retrieval of those images, using metadata such as the IPTC keyword tags, as well as the folder and file names. Damselfly includes support for object/face detection, and face-recognition.
 * 【2024-01-21】[winstxnhdw / lc-hax](https://github.com/winstxnhdw/lc-hax) - A powerful, feature-rich and highly performant internal cheat for the co-op indie horror video game, Lethal Company.
@@ -830,6 +839,8 @@
 
 ## Html
 
+* 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
+* 【2024-01-22】[nicknochnack / MLTradingBot](https://github.com/nicknochnack/MLTradingBot) - 
 * 【2024-01-21】[Null-byte-00 / LOTL](https://github.com/Null-byte-00/LOTL) - Living Off The Land (LOTL) persistent Reverse shell
 * 【2024-01-20】[bmacGTPM / 361-Spring-2024](https://github.com/bmacGTPM/361-Spring-2024) - 
 * 【2024-01-20】[OCA / project](https://github.com/OCA/project) - Odoo Project Management and Services Company Addons
@@ -895,6 +906,7 @@
 
 ## Css
 
+* 【2024-01-22】[ykdojo / OpenStream](https://github.com/ykdojo/OpenStream) - OpenStream is an open-source project for creating a free tool that records screen and webcam footage simultaneously. It's designed for content creators and developed collaboratively through our community on Discord.
 * 【2024-01-21】[Animesh606 / WeatherForcasting](https://github.com/Animesh606/WeatherForcasting) - 
 * 【2024-01-21】[doshea / xword](https://github.com/doshea/xword) - A Rails-powered crossword app
 * 【2024-01-20】[UPay-USDT / USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway) - UPay - USDT Payment Gateway (USDT 收款支付网关)
@@ -1012,6 +1024,9 @@
 
 ## Unknown
 
+* 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
+* 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
+* 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 * 【2024-01-21】[gregorojstersek / resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 * 【2024-01-21】[opennukit / Nukit-Open-Air-Purifier](https://github.com/opennukit/Nukit-Open-Air-Purifier) - Nukit Open Air Purifiers are Open Hardware devices for improving indoor air quality. They are designed to be used with North American standard HVAC filters and PC fans. They are often an improvement over commercial air purifiers as they are quieter per m3 CADR delivered, have a lower cost of ownership per year, and are easily repairable.
 * 【2024-01-21】[iamHuFei / HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。
