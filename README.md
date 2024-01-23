@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-01-23】[apernet / OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW on Linux
+* 【2024-01-23】[majacinka / crewai-experiments](https://github.com/majacinka/crewai-experiments) - Experiments with local as well as models available through an api
+* 【2024-01-23】[thijsvanloef / palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
+* 【2024-01-23】[jammsen / docker-palworld-dedicated-server](https://github.com/jammsen/docker-palworld-dedicated-server) - Docker container to easily provision and manage Palworld Forest Dedicated Server
+* 【2024-01-23】[jonbarron / camp_zipnerf](https://github.com/jonbarron/camp_zipnerf) - 
+* 【2024-01-23】[hiddify / hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * 【2024-01-22】[sst / demo-ai-app](https://github.com/sst/demo-ai-app) - Sample AI movies app built with ❍ Ion
 * 【2024-01-21】[Andre0512 / pyhOn](https://github.com/Andre0512/pyhOn) - Control hOn devices with python
 * 【2024-01-21】[Codium-ai / AlphaCodium](https://github.com/Codium-ai/AlphaCodium) - code generation tool that surpasses most human competitors in CodeContests
@@ -225,6 +231,7 @@
 
 ## Java
 
+* 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
 * 【2024-01-22】[Enndfp / simple-framework](https://github.com/Enndfp/simple-framework) - SimpleFramework 是一个简易版的 Spring 框架，专注于实现 Spring 的三大核心功能：IOC（控制反转）、AOP（面向切面编程）和 MVC（模型-视图-控制器）。该项目旨在通过重新构建这些关键功能，为开发者提供深入理解 Spring 框架架构和设计理念的机会，同时也是一种提升 Java 开发技术能力的实践。
 * 【2024-01-21】[GTNewHorizons / Angelica](https://github.com/GTNewHorizons/Angelica) - OptiFine replacement for 1.7.10
 * 【2024-01-20】[houbb / sensitive-word](https://github.com/houbb/sensitive-word) - 👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
@@ -285,6 +292,12 @@
 
 ## Python
 
+* 【2024-01-23】[father-bot / chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+* 【2024-01-23】[huggingface / nanotron](https://github.com/huggingface/nanotron) - Minimalistic large language model 3D-parallelism training
+* 【2024-01-23】[gabrielchua / RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - Visualise and explore your RAG documents
+* 【2024-01-23】[IncomeStreamSurfer / chatgptassistantautoblogger](https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+* 【2024-01-23】[huggingface / datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+* 【2024-01-23】[krishnaik06 / Google-Gemini-Crash-Course](https://github.com/krishnaik06/Google-Gemini-Crash-Course) - 
 * 【2024-01-22】[FDX100 / Auto_Tor_IP_changer](https://github.com/FDX100/Auto_Tor_IP_changer) - change your Ip address automatically This tool based on tor project
 * 【2024-01-22】[IAHispano / Applio](https://github.com/IAHispano/Applio) - Ultimate voice cloning tool, meticulously optimized for unrivaled power, modularity, and user-friendly experience.
 * 【2024-01-22】[zhuangshaobin / Vlogger](https://github.com/zhuangshaobin/Vlogger) - Make Your Dream A Vlog
@@ -459,6 +472,8 @@
 
 ## Javascript
 
+* 【2024-01-23】[sindresorhus / execa](https://github.com/sindresorhus/execa) - Process execution for humans
+* 【2024-01-23】[sahandghavidel / mern-blog](https://github.com/sahandghavidel/mern-blog) - MERN blog using tailwind css
 * 【2024-01-21】[JC144 / EDF_Simulateur_Prix](https://github.com/JC144/EDF_Simulateur_Prix) - Un outil pour simuler les différents Tarifs EDF depuis un export de la consommation.
 * 【2024-01-21】[Sharkgrammer / clockface.json](https://github.com/Sharkgrammer/clockface.json) - VSCode inspired watch face for Sense and Versa 3
 * 【2024-01-20】[31b4 / Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
@@ -545,6 +560,9 @@
 
 ## Go
 
+* 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
+* 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
+* 【2024-01-23】[bazelbuild / bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
 * 【2024-01-21】[kubewharf / godel-scheduler](https://github.com/kubewharf/godel-scheduler) - an unified scheduler for online and offline tasks
 * 【2024-01-21】[luraproject / lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
 * 【2024-01-19】[arpitbbhayani / database-fundamentals](https://github.com/arpitbbhayani/database-fundamentals) - Prototype implementations of database internal concepts and algorithms.
@@ -693,6 +711,8 @@
 
 ## C++
 
+* 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
+* 【2024-01-23】[SivanLaai / rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
 * 【2024-01-22】[WebAssembly / wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 * 【2024-01-21】[pixpark / gpupixel](https://github.com/pixpark/gpupixel) - Cross-Platform AI Beauty Effects Library, Achieving Commercial-Grade Beauty Effects. Written in C++11, Based on OpenGL/ES and VNN.
 * 【2024-01-21】[senzee1984 / MutationGate](https://github.com/senzee1984/MutationGate) - Use hardware breakpoint to dynamically change SSN in run-time
@@ -754,6 +774,8 @@
 
 ## C#
 
+* 【2024-01-23】[ohmcodes / WindowsGSM.Palworld](https://github.com/ohmcodes/WindowsGSM.Palworld) - 🧩WindowsGSM plugin that provides Palworld Dedicated server
+* 【2024-01-23】[IcyRelic / LethalMenu](https://github.com/IcyRelic/LethalMenu) - 
 * 【2024-01-22】[sqids / sqids-dotnet](https://github.com/sqids/sqids-dotnet) - Official .NET port of Sqids. Generate short unique IDs from numbers.
 * 【2024-01-22】[KumoKyaku / kcp](https://github.com/KumoKyaku/kcp) - KCP C#版。线程安全，运行时无alloc，对gc无压力。
 * 【2024-01-21】[Delt06 / toon-rp](https://github.com/Delt06/toon-rp) - 🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple shadow algorithms, tiled lighting, Shader Graph support, and more.
@@ -1024,6 +1046,10 @@
 
 ## Unknown
 
+* 【2024-01-23】[gijsdev / ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts) - uBlock Origin filter list to hide YouTube Shorts
+* 【2024-01-23】[iam-veeramalla / Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) - Repository to learn Azure from Zero. This repository covers the complete Azure fundamentals required for a DevOps Engineer.
+* 【2024-01-23】[tramcar / awesome-job-boards](https://github.com/tramcar/awesome-job-boards) - 
+* 【2024-01-23】[SatoshiVM / svm-pioneer-airdrop](https://github.com/SatoshiVM/svm-pioneer-airdrop) - 
 * 【2024-01-22】[a16z-infra / llm-app-stack](https://github.com/a16z-infra/llm-app-stack) - 
 * 【2024-01-22】[WadQamar10 / My-Hunting-Methodology-](https://github.com/WadQamar10/My-Hunting-Methodology-) - My Private Bug Hunting Methodology
 * 【2024-01-22】[CodingChallegesFYI / SharedSolutions](https://github.com/CodingChallegesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
