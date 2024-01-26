@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-01-26】[YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)
+* 【2024-01-26】[lamini-ai / prompt-engineering-open-llms](https://github.com/lamini-ai/prompt-engineering-open-llms) - 
+* 【2024-01-26】[vikhyat / moondream](https://github.com/vikhyat/moondream) - tiny vision language model
+* 【2024-01-26】[lamini-ai / simple-rag](https://github.com/lamini-ai/simple-rag) - 
+* 【2024-01-26】[ZHO-ZHO-ZHO / ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI
+* 【2024-01-26】[vvandk / kinit](https://github.com/vvandk/kinit) - FastAPI + vue3 前后端分离后台管理系统，包含PC端，微信小程序端。PC 端使用：Vue3+Typescript+Vite+Element Plus，小程序使用：Uni-APP + uview ui，接口使用：FastAPI+Pydantic+SQLAlchemy 2.0+Mysql。异步存储，RBAC 权限管理，定时任务，部门管理等功能。
 * 【2024-01-25】[LiheYoung / Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
 * 【2024-01-25】[alura-cursos / spotify-imersao](https://github.com/alura-cursos/spotify-imersao) - 
 * 【2024-01-25】[xNul / palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another.
@@ -299,6 +305,10 @@
 
 ## Python
 
+* 【2024-01-26】[googleapis / google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
+* 【2024-01-26】[3DTopia / 3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
+* 【2024-01-26】[TaskingAI / TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
+* 【2024-01-26】[BishopFox / cloudfoxable](https://github.com/BishopFox/cloudfoxable) - Create your own vulnerable by design AWS penetration testing playground
 * 【2024-01-25】[InternLM / HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
 * 【2024-01-25】[NattKh / PalWorld-Tools](https://github.com/NattKh/PalWorld-Tools) - 
 * 【2024-01-24】[MzeroMiko / VMamba](https://github.com/MzeroMiko/VMamba) - VMamba: Visual State Space Models
@@ -484,6 +494,7 @@
 
 ## Javascript
 
+* 【2024-01-26】[aymene69 / stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
 * 【2024-01-25】[fouber / lottery](https://github.com/fouber/lottery) - 年会抽奖程序
 * 【2024-01-24】[huanghanzhilian / c-shopping](https://github.com/huanghanzhilian/c-shopping) - A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台
 * 【2024-01-24】[facefusion / facefusion-pinokio](https://github.com/facefusion/facefusion-pinokio) - Next generation face swapper and enhancer
@@ -576,6 +587,8 @@
 
 ## Go
 
+* 【2024-01-26】[projectdiscovery / cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
+* 【2024-01-26】[ollama / ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 * 【2024-01-25】[ffenix113 / zigbee_home](https://github.com/ffenix113/zigbee_home) - Project to provide functionality similar to ESPHome but for Zigbee instead of WiFi for nRF52
 * 【2024-01-23】[singchia / geminio](https://github.com/singchia/geminio) - ♊️ An application layer networking framework with rpc, bidirectional-rpc, multiplexer, raw-io and client-server consistency. 一个Go的应用层网络编程库，支持消息和确认、RPC、双向RPC、多路复用、多会话管理等
 * 【2024-01-23】[ropnop / kerbrute](https://github.com/ropnop/kerbrute) - A tool to perform Kerberos pre-auth bruteforcing
@@ -648,6 +661,8 @@
 
 ## C
 
+* 【2024-01-26】[linux-nvme / nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
+* 【2024-01-26】[P001water / yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
 * 【2024-01-25】[RedSiege / GraphStrike](https://github.com/RedSiege/GraphStrike) - Cobalt Strike HTTPS beaconing over Microsoft Graph API
 * 【2024-01-25】[Maldev-Academy / RemoteTLSCallbackInjection](https://github.com/Maldev-Academy/RemoteTLSCallbackInjection) - Utilizing TLS callbacks to execute a payload without spawning any threads in a remote process
 * 【2024-01-25】[the-tcpdump-group / libpcap](https://github.com/the-tcpdump-group/libpcap) - the LIBpcap interface to various kernel packet capture mechanism
@@ -732,6 +747,7 @@
 
 ## C++
 
+* 【2024-01-26】[swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) - 
 * 【2024-01-24】[Maplespe / DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add blur effect to global system title bar, support win10 and win11.
 * 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
 * 【2024-01-23】[SivanLaai / rime-pure](https://github.com/SivanLaai/rime-pure) - 【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】
@@ -796,6 +812,7 @@
 
 ## C#
 
+* 【2024-01-26】[zkhssb / NectarRCON](https://github.com/zkhssb/NectarRCON) - 使用WPF开发的RCON管理器,支持多个服务器的管理,多语言切换
 * 【2024-01-25】[dusrdev / Sharpify](https://github.com/dusrdev/Sharpify) - A collection of high performance language extensions for C#
 * 【2024-01-24】[mattpannella / pupdate](https://github.com/mattpannella/pupdate) - Pupdate - A thing for updating your Analogue Pocket
 * 【2024-01-24】[UnrealSharp / UnrealSharp](https://github.com/UnrealSharp/UnrealSharp) - UnrealSharp is a plugin to Unreal Engine 5, which enables developers to create games using C# with Hot Reload
@@ -886,6 +903,7 @@
 
 ## Html
 
+* 【2024-01-26】[huangjch526 / IFAST_official](https://github.com/huangjch526/IFAST_official) - 
 * 【2024-01-25】[vovannat / darknet-markets-links](https://github.com/vovannat/darknet-markets-links) - A verified list of darknet markets and services with links for educational reference.
 * 【2024-01-25】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
 * 【2024-01-22】[alura-es-cursos / js-curso-2](https://github.com/alura-es-cursos/js-curso-2) - 
@@ -955,6 +973,8 @@
 
 ## Css
 
+* 【2024-01-26】[RodrigoHarder / imersao-frontend](https://github.com/RodrigoHarder/imersao-frontend) - 
+* 【2024-01-26】[waelmas / frameless-bitb](https://github.com/waelmas/frameless-bitb) - A new approach to Browser In The Browser (BITB) without the use of iframes, allowing the bypass of traditional framebusters implemented by login pages like Microsoft and the use with Evilginx.
 * 【2024-01-24】[alura-es-cursos / 2035-logica-programacion-2](https://github.com/alura-es-cursos/2035-logica-programacion-2) - Curso de lógica de programación 2 - Alura Latam
 * 【2024-01-24】[100xdevs-cohort-2 / paytm](https://github.com/100xdevs-cohort-2/paytm) - 
 * 【2024-01-24】[eliyantosarage / font-awesome-pro](https://github.com/eliyantosarage/font-awesome-pro) - CDN Font Awesome Pro v6.5.1 for Dekstop & Web
@@ -1078,6 +1098,8 @@
 
 ## Unknown
 
+* 【2024-01-26】[praveen1994dec / Knowledge_Base](https://github.com/praveen1994dec/Knowledge_Base) - This repository all all the tools related documents for your reference
+* 【2024-01-26】[woltapp / engineering-internship-2024](https://github.com/woltapp/engineering-internship-2024) - The pre-assignment for frontend / backend internship applicants
 * 【2024-01-25】[ai-boost / awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
 * 【2024-01-25】[drshahizan / SLR-FC](https://github.com/drshahizan/SLR-FC) - Systematic Literature Review (SLR) Using AI
 * 【2024-01-25】[janvinsha / gooutwithme](https://github.com/janvinsha/gooutwithme) - 
