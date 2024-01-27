@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-01-27】[goenning / google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
+* 【2024-01-27】[zed-industries / zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 * 【2024-01-26】[YangLing0818 / RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)
 * 【2024-01-26】[lamini-ai / prompt-engineering-open-llms](https://github.com/lamini-ai/prompt-engineering-open-llms) - 
 * 【2024-01-26】[vikhyat / moondream](https://github.com/vikhyat/moondream) - tiny vision language model
@@ -242,6 +244,7 @@
 
 ## Java
 
+* 【2024-01-27】[Ishan-sinha / DSA-for-SDE-interview](https://github.com/Ishan-sinha/DSA-for-SDE-interview) - This repository is aimed to contain all the questions required for SDE interview preparation from data structures and algorithms.
 * 【2024-01-25】[jinho-yoo-jack / wanted-preonboarding-challenge-backend-16](https://github.com/jinho-yoo-jack/wanted-preonboarding-challenge-backend-16) - 원티드 프리온보딩 백엔드 챌린지 사전과제
 * 【2024-01-25】[GaoSSR / OnePRO](https://github.com/GaoSSR/OnePRO) - 轻量级算法驱动优惠叠加器
 * 【2024-01-23】[xspanger3770 / GlobalQuake](https://github.com/xspanger3770/GlobalQuake) - Experimental application for monitoring earthquakes world-wide in near real time. Capable of issuing its own earthquake early warnings (EEW).
@@ -305,6 +308,7 @@
 
 ## Python
 
+* 【2024-01-27】[assafelovic / gpt-newspaper](https://github.com/assafelovic/gpt-newspaper) - 
 * 【2024-01-26】[googleapis / google-cloud-python](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python
 * 【2024-01-26】[3DTopia / 3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 * 【2024-01-26】[TaskingAI / TaskingAI](https://github.com/TaskingAI/TaskingAI) - The open source platform for AI-native application development.
@@ -661,6 +665,9 @@
 
 ## C
 
+* 【2024-01-27】[floesen / EventLogCrasher](https://github.com/floesen/EventLogCrasher) - 
+* 【2024-01-27】[libdriver / bmp280](https://github.com/libdriver/bmp280) - BMP280 full function driver library for general MCU and Linux.
+* 【2024-01-27】[flame / blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 * 【2024-01-26】[linux-nvme / nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 * 【2024-01-26】[P001water / yuze](https://github.com/P001water/yuze) - A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式
 * 【2024-01-25】[RedSiege / GraphStrike](https://github.com/RedSiege/GraphStrike) - Cobalt Strike HTTPS beaconing over Microsoft Graph API
@@ -747,6 +754,8 @@
 
 ## C++
 
+* 【2024-01-27】[localcc / PalworldModdingKit](https://github.com/localcc/PalworldModdingKit) - A modding kit for Palworld
+* 【2024-01-27】[radj307 / ARRCON](https://github.com/radj307/ARRCON) - Lightweight Source RCON client that works on Windows, macOS, & Linux.
 * 【2024-01-26】[swordbluesword / PalWorld-NetCrack](https://github.com/swordbluesword/PalWorld-NetCrack) - 
 * 【2024-01-24】[Maplespe / DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add blur effect to global system title bar, support win10 and win11.
 * 【2024-01-23】[AHXR / ghost](https://github.com/AHXR/ghost) - 👻 RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
@@ -812,6 +821,8 @@
 
 ## C#
 
+* 【2024-01-27】[shr670377723 / CommunityServer-master](https://github.com/shr670377723/CommunityServer-master) - 
+* 【2024-01-27】[ddakebono / PalworldRcon](https://github.com/ddakebono/PalworldRcon) - Simple WPF/.net 7 Rcon tool for Palworld Dedicated Servers
 * 【2024-01-26】[zkhssb / NectarRCON](https://github.com/zkhssb/NectarRCON) - 使用WPF开发的RCON管理器,支持多个服务器的管理,多语言切换
 * 【2024-01-25】[dusrdev / Sharpify](https://github.com/dusrdev/Sharpify) - A collection of high performance language extensions for C#
 * 【2024-01-24】[mattpannella / pupdate](https://github.com/mattpannella/pupdate) - Pupdate - A thing for updating your Analogue Pocket
@@ -903,6 +914,8 @@
 
 ## Html
 
+* 【2024-01-27】[lumiere-video / lumiere-video.github.io](https://github.com/lumiere-video/lumiere-video.github.io) - 
+* 【2024-01-27】[Corgea / retriever](https://github.com/Corgea/retriever) - Secure secret sharing through the browser using web crypto. No server required!
 * 【2024-01-26】[huangjch526 / IFAST_official](https://github.com/huangjch526/IFAST_official) - 
 * 【2024-01-25】[vovannat / darknet-markets-links](https://github.com/vovannat/darknet-markets-links) - A verified list of darknet markets and services with links for educational reference.
 * 【2024-01-25】[novice88 / jetbra](https://github.com/novice88/jetbra) - An activation tool for jetbrains family products,including plugins
@@ -973,6 +986,8 @@
 
 ## Css
 
+* 【2024-01-27】[shr670377723 / CMSSYSTEM](https://github.com/shr670377723/CMSSYSTEM) - 
+* 【2024-01-27】[ironhack-labs / lab-js-countdown](https://github.com/ironhack-labs/lab-js-countdown) - 
 * 【2024-01-26】[RodrigoHarder / imersao-frontend](https://github.com/RodrigoHarder/imersao-frontend) - 
 * 【2024-01-26】[waelmas / frameless-bitb](https://github.com/waelmas/frameless-bitb) - A new approach to Browser In The Browser (BITB) without the use of iframes, allowing the bypass of traditional framebusters implemented by login pages like Microsoft and the use with Evilginx.
 * 【2024-01-24】[alura-es-cursos / 2035-logica-programacion-2](https://github.com/alura-es-cursos/2035-logica-programacion-2) - Curso de lógica de programación 2 - Alura Latam
@@ -1098,6 +1113,8 @@
 
 ## Unknown
 
+* 【2024-01-27】[Anil-matcha / Top-GPTs](https://github.com/Anil-matcha/Top-GPTs) - Run popular GPTs without the need for ChatGPT Plus subscription
+* 【2024-01-27】[microsoft / AI-Chat-App-Hack](https://github.com/microsoft/AI-Chat-App-Hack) - HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win
 * 【2024-01-26】[praveen1994dec / Knowledge_Base](https://github.com/praveen1994dec/Knowledge_Base) - This repository all all the tools related documents for your reference
 * 【2024-01-26】[woltapp / engineering-internship-2024](https://github.com/woltapp/engineering-internship-2024) - The pre-assignment for frontend / backend internship applicants
 * 【2024-01-25】[ai-boost / awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
