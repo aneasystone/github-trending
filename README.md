@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-02-03】[code100x / daily-code](https://github.com/code100x/daily-code) - 
+* 【2024-02-03】[AILab-CVC / YOLO-World](https://github.com/AILab-CVC/YOLO-World) - Real-Time Open-Vocabulary Object Detection
+* 【2024-02-03】[wasp-lang / open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+* 【2024-02-03】[argmaxinc / WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native speech recognition on-device for iOS and macOS applications.
+* 【2024-02-03】[TrueCarry / JettonGramGpuMiner](https://github.com/TrueCarry/JettonGramGpuMiner) - 
+* 【2024-02-03】[felipemotarocha / fullstackweek-barber](https://github.com/felipemotarocha/fullstackweek-barber) - 
 * 【2024-02-02】[webprodigies / plura-production](https://github.com/webprodigies/plura-production) - 
 * 【2024-02-02】[ExOK / Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2)
 * 【2024-02-01】[all-in-aigc / aicover](https://github.com/all-in-aigc/aicover) - ai cover generator
@@ -22,6 +28,7 @@
 
 ## Python
 
+* 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
 * 【2024-02-02】[microsoft / TransformerCompression](https://github.com/microsoft/TransformerCompression) - For releasing code related to compression methods for transformers, accompanying our publications
 * 【2024-02-02】[X-PLUG / MobileAgent](https://github.com/X-PLUG/MobileAgent) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 
@@ -34,21 +41,27 @@
 
 ## Go
 
+* 【2024-02-03】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
+* 【2024-02-03】[blast-io / blast](https://github.com/blast-io/blast) - 
 * 【2024-02-02】[rancher / rke2](https://github.com/rancher/rke2) - 
 
 ## C
 
+* 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
+* 【2024-02-03】[redeflesq / firewall-bypass](https://github.com/redeflesq/firewall-bypass) - Download data from the internet bypassing the firewall using process injection
 * 【2024-02-02】[eggert / tz](https://github.com/eggert/tz) - Time zone database and code
 * 【2024-02-01】[boku7 / azureOutlookC2](https://github.com/boku7/azureOutlookC2) - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Microsoft Graph API for C2 Operations.
 
 ## C++
 
+* 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-02-02】[RyuZhihao123 / CoralRugosity](https://github.com/RyuZhihao123/CoralRugosity) - A C++ software for coral rugosity computation (made for HKUST VGD).
 * 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
 * 【2024-02-01】[microsoft / vcpkg-tool](https://github.com/microsoft/vcpkg-tool) - Components of microsoft/vcpkg's binary.
 
 ## C#
 
+* 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
 * 【2024-02-02】[FosterFramework / Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
 * 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
 * 【2024-02-01】[mayuki / Rin](https://github.com/mayuki/Rin) - Request/response Inspector middleware for ASP.NET Core
@@ -56,6 +69,7 @@
 
 ## Html
 
+* 【2024-02-03】[Aemulo / Release](https://github.com/Aemulo/Release) - 
 
 ## Css
 
@@ -66,6 +80,7 @@
 
 ## Unknown
 
+* 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
 * 【2024-02-02】[familiar / Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + Forge.
 * 【2024-02-02】[node-dojo / dojo-recursive-bins](https://github.com/node-dojo/dojo-recursive-bins) - 3d printable bin generator using blender geometry nodes
 * 【2024-02-02】[reprise99 / Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries
