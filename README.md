@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-02-05】[AbanteAI / rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
+* 【2024-02-05】[adrianhajdin / figma_clone](https://github.com/adrianhajdin/figma_clone) - Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript
+* 【2024-02-05】[enso-org / enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
+* 【2024-02-05】[martinvonz / jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+* 【2024-02-05】[The-OpenROAD-Project / OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD) - OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/
 * 【2024-02-04】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 * 【2024-02-04】[allenai / OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 * 【2024-02-04】[Sanster / IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
@@ -32,11 +37,18 @@
 
 ## Java
 
+* 【2024-02-05】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 * 【2024-02-04】[liyupi / yuzi-generator](https://github.com/liyupi/yuzi-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 
 ## Python
 
+* 【2024-02-05】[allenai / dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
+* 【2024-02-05】[allenai / open-instruct](https://github.com/allenai/open-instruct) - 
+* 【2024-02-05】[qtile / qtile](https://github.com/qtile/qtile) - 🍪 A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
+* 【2024-02-05】[allenai / OLMo-Eval](https://github.com/allenai/OLMo-Eval) - Evaluation suite for LLMs
+* 【2024-02-05】[JimLiu / gpt-games](https://github.com/JimLiu/gpt-games) - Build games with GPT
+* 【2024-02-05】[tuya / tuya-smart-life](https://github.com/tuya/tuya-smart-life) - Tuya Smart Life Home Assistant Integration
 * 【2024-02-04】[Slowerzs / ThievingFox](https://github.com/Slowerzs/ThievingFox) - 
 * 【2024-02-04】[krau / kmua-bot](https://github.com/krau/kmua-bot) - 🍥✨ A 💕 Telegram❄️ Bot🍰
 * 【2024-02-03】[zaigie / palworld-server-tool](https://github.com/zaigie/palworld-server-tool) - 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
@@ -45,6 +57,7 @@
 
 ## Javascript
 
+* 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
 * 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 * 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
 * 【2024-02-02】[yarnpkg / yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -60,6 +73,9 @@
 
 ## C
 
+* 【2024-02-05】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
+* 【2024-02-05】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
+* 【2024-02-05】[karlstav / cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 * 【2024-02-04】[codeplea / genann](https://github.com/codeplea/genann) - simple neural network library in ANSI C
 * 【2024-02-04】[dgllghr / stanchion](https://github.com/dgllghr/stanchion) - A SQLite extension that brings column-oriented tables to SQLite
 * 【2024-02-03】[snyk / leaky-vessels-dynamic-detector](https://github.com/snyk/leaky-vessels-dynamic-detector) - Leaky Vessels Dynamic Detector
@@ -69,6 +85,7 @@
 
 ## C++
 
+* 【2024-02-05】[finalburnneo / FBNeo](https://github.com/finalburnneo/FBNeo) - FinalBurn Neo - We are Team FBNeo.
 * 【2024-02-03】[bpftrace / bpftrace](https://github.com/bpftrace/bpftrace) - High-level tracing language for Linux eBPF
 * 【2024-02-02】[RyuZhihao123 / CoralRugosity](https://github.com/RyuZhihao123/CoralRugosity) - A C++ software for coral rugosity computation (made for HKUST VGD).
 * 【2024-02-01】[VeroFess / PalWorld-Server-Unoffical-Api](https://github.com/VeroFess/PalWorld-Server-Unoffical-Api) - A PalWorld Server API like minecraft bukkit, not finish yet
@@ -76,6 +93,8 @@
 
 ## C#
 
+* 【2024-02-05】[vitoplantamura / HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
+* 【2024-02-05】[TCKingCeryn / Darktide-40K-Unity-FullBody-FPS-Controller](https://github.com/TCKingCeryn/Darktide-40K-Unity-FullBody-FPS-Controller) - A completely refactored, Open Source Full Body FPS Controller. Inspired by Darktide and DISHONORED/ Dark Messiah, uses TWO armatures to layer Generic "Arms-Only" FPS Animations, without losing any of the "Full-Body" Animations underneath.
 * 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
 * 【2024-02-02】[FosterFramework / Foster](https://github.com/FosterFramework/Foster) - A small C# game framework
 * 【2024-02-01】[KirosHan / Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet) - Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令
@@ -91,6 +110,9 @@
 
 ## Css
 
+* 【2024-02-05】[rishabhnmishra / Portfolio-Website-Template](https://github.com/rishabhnmishra/Portfolio-Website-Template) - 
+* 【2024-02-05】[AsmrProg-YT / Responsive-NFT-Website](https://github.com/AsmrProg-YT/Responsive-NFT-Website) - AsmrProg Youtube Channel Responsive NFT Website Design Source Code
+* 【2024-02-05】[developergtm24 / portfolio](https://github.com/developergtm24/portfolio) - 
 * 【2024-02-04】[Helpmecoder6655 / valentine-day-card](https://github.com/Helpmecoder6655/valentine-day-card) - 
 * 【2024-02-04】[fabiorochafg / joomla-3-blank-template](https://github.com/fabiorochafg/joomla-3-blank-template) - A blank template for Joomla 3.0.
 * 【2024-02-04】[EricFormar / clima-app](https://github.com/EricFormar/clima-app) - Proyecto creado con React y Typescript que obtiene los datos del clima de una API. To Formar with ❤️
@@ -104,6 +126,8 @@
 
 ## Unknown
 
+* 【2024-02-05】[abc123info / Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools) - Struts2全版本漏洞检测工具 by:ABC_123
+* 【2024-02-05】[shivscaler / Nodejs-30-Days-Challenge-Scaler-Topics](https://github.com/shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics) - 
 * 【2024-02-04】[goldcoders / DSA](https://github.com/goldcoders/DSA) - Free Premium Books For Learning Data Structure and Algorithm
 * 【2024-02-04】[Tgo1014 / GridLauncher](https://github.com/Tgo1014/GridLauncher) - 
 * 【2024-02-03】[RawChat / RawChat](https://github.com/RawChat/RawChat) - 
