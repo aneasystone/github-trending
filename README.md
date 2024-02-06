@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-02-06】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+* 【2024-02-06】[superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode) - Jetbrains Active Code
+* 【2024-02-06】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
 * 【2024-02-05】[AbanteAI / rawdog](https://github.com/AbanteAI/rawdog) - Generate and auto-execute Python scripts in the cli
 * 【2024-02-05】[adrianhajdin / figma_clone](https://github.com/adrianhajdin/figma_clone) - Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript
 * 【2024-02-05】[enso-org / enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
@@ -37,12 +40,16 @@
 
 ## Java
 
+* 【2024-02-06】[MirnaGama / hospital-management-api](https://github.com/MirnaGama/hospital-management-api) - Hospital Management API built in Spring Boot
 * 【2024-02-05】[apple / pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 * 【2024-02-04】[liyupi / yuzi-generator](https://github.com/liyupi/yuzi-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-02】[xuchengsheng / wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - wx-dump-4j是一款基于Java开发的微信数据分析工具。它不仅可以准确显示您的好友数、群聊数和当日的消息总量，还提供了过去15天内的每日消息统计功能，让您清晰了解自己的社交活跃度。此外它还能够识别并展示最近一个月内与您互动最频繁的前10位联系人。它还支持导出微信的聊天记录、联系人和群聊信息，甚至可以查看超过三天限制的朋友圈历史记录。
 
 ## Python
 
+* 【2024-02-06】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
+* 【2024-02-06】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
+* 【2024-02-06】[YPAndrew0907 / Animal-Simulation-game](https://github.com/YPAndrew0907/Animal-Simulation-game) - Dive into Nature Simulation v1, a dynamic ecosystem game. Experience life's balance with interactive controls and stunning visuals of flora and fauna. Engage, learn, and enjoy nature's complexity in a vividly animated environment. Perfect for enthusiasts of simulations and nature.
 * 【2024-02-05】[allenai / dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 * 【2024-02-05】[allenai / open-instruct](https://github.com/allenai/open-instruct) - 
 * 【2024-02-05】[qtile / qtile](https://github.com/qtile/qtile) - 🍪 A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)
@@ -57,6 +64,7 @@
 
 ## Javascript
 
+* 【2024-02-06】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-05】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
 * 【2024-02-04】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
 * 【2024-02-02】[the-code-crusader / ValentinesSite](https://github.com/the-code-crusader/ValentinesSite) - Quick little static site I created to ask a girl to be my valentine!
@@ -66,6 +74,7 @@
 
 ## Go
 
+* 【2024-02-06】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-04】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
 * 【2024-02-03】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 * 【2024-02-03】[blast-io / blast](https://github.com/blast-io/blast) - 
@@ -93,6 +102,7 @@
 
 ## C#
 
+* 【2024-02-06】[AlianBlank / GameFrameX](https://github.com/AlianBlank/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+Xlua+ProtoBuff+MessagePack+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
 * 【2024-02-05】[vitoplantamura / HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time.
 * 【2024-02-05】[TCKingCeryn / Darktide-40K-Unity-FullBody-FPS-Controller](https://github.com/TCKingCeryn/Darktide-40K-Unity-FullBody-FPS-Controller) - A completely refactored, Open Source Full Body FPS Controller. Inspired by Darktide and DISHONORED/ Dark Messiah, uses TWO armatures to layer Generic "Arms-Only" FPS Animations, without losing any of the "Full-Body" Animations underneath.
 * 【2024-02-03】[vallettasoftware / boilerplate-dotnet](https://github.com/vallettasoftware/boilerplate-dotnet) - A multifunctional enterprise HTTP API project template based on modern approaches and the latest version of .NET 8.
@@ -103,6 +113,7 @@
 
 ## Html
 
+* 【2024-02-06】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-04】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
 * 【2024-02-04】[codrops / StickySections](https://github.com/codrops/StickySections) - Some ideas of how sticky sections can be animated while exiting the viewport.
 * 【2024-02-04】[paulgp / applied-methods-phd](https://github.com/paulgp/applied-methods-phd) - Repo for Yale Applied Empirical Methods PHD Course
@@ -110,6 +121,9 @@
 
 ## Css
 
+* 【2024-02-06】[hiteshchoudhary / fun-with-tailwind](https://github.com/hiteshchoudhary/fun-with-tailwind) - A fun repo to play with tailwind
+* 【2024-02-06】[Naezr / ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
+* 【2024-02-06】[aafifr / Flower](https://github.com/aafifr/Flower) - 
 * 【2024-02-05】[rishabhnmishra / Portfolio-Website-Template](https://github.com/rishabhnmishra/Portfolio-Website-Template) - 
 * 【2024-02-05】[AsmrProg-YT / Responsive-NFT-Website](https://github.com/AsmrProg-YT/Responsive-NFT-Website) - AsmrProg Youtube Channel Responsive NFT Website Design Source Code
 * 【2024-02-05】[developergtm24 / portfolio](https://github.com/developergtm24/portfolio) - 
@@ -126,6 +140,12 @@
 
 ## Unknown
 
+* 【2024-02-06】[3b1b / captions](https://github.com/3b1b/captions) - transcripts and captions for 3blue1brown videos
+* 【2024-02-06】[W01fh4cker / LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
+* 【2024-02-06】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
+* 【2024-02-06】[JeffSackmann / tennis_slam_pointbypoint](https://github.com/JeffSackmann/tennis_slam_pointbypoint) - Point-by-point data for Grand Slams, 2011-current
+* 【2024-02-06】[drshahizan / obsidian](https://github.com/drshahizan/obsidian) - Obsidian.md stands out as an exceptional note-taking application tailored specifically for academic writing.
+* 【2024-02-06】[NitroCao / CVE-2024-21626](https://github.com/NitroCao/CVE-2024-21626) - PoC and Detection for CVE-2024-21626
 * 【2024-02-05】[abc123info / Struts2VulsScanTools](https://github.com/abc123info/Struts2VulsScanTools) - Struts2全版本漏洞检测工具 by:ABC_123
 * 【2024-02-05】[shivscaler / Nodejs-30-Days-Challenge-Scaler-Topics](https://github.com/shivscaler/Nodejs-30-Days-Challenge-Scaler-Topics) - 
 * 【2024-02-04】[goldcoders / DSA](https://github.com/goldcoders/DSA) - Free Premium Books For Learning Data Structure and Algorithm
