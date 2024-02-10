@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-02-10】[GoogleCloudPlatform / localllm](https://github.com/GoogleCloudPlatform/localllm) - 
+* 【2024-02-10】[MatthiasGrandl / loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.
+* 【2024-02-10】[rocketseat-education / nlw-expert-react-native](https://github.com/rocketseat-education/nlw-expert-react-native) - A food delivery mobile app
+* 【2024-02-10】[rocketseat-education / nlw-expert-nodejs](https://github.com/rocketseat-education/nlw-expert-nodejs) - Real-time voting system built with Node.js
+* 【2024-02-10】[rocketseat-education / nlw-expert-react](https://github.com/rocketseat-education/nlw-expert-react) - Automatic convert audio notes to text with React
 * 【2024-02-09】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
 * 【2024-02-09】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 * 【2024-02-09】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
@@ -53,6 +58,8 @@
 
 ## Java
 
+* 【2024-02-10】[rocketseat-education / nlw-expert-java](https://github.com/rocketseat-education/nlw-expert-java) - 
+* 【2024-02-10】[jithrew / PantryMate](https://github.com/jithrew/PantryMate) - PantryMate is an application designed for efficient and user-friendly management of household pantries, aimed at reducing food waste and improving organization.
 * 【2024-02-09】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 * 【2024-02-08】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
 * 【2024-02-08】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
@@ -63,6 +70,12 @@
 
 ## Python
 
+* 【2024-02-10】[time-series-foundation-models / lag-llama](https://github.com/time-series-foundation-models/lag-llama) - 
+* 【2024-02-10】[Vahe1994 / AQLM](https://github.com/Vahe1994/AQLM) - Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantization https://arxiv.org/pdf/2401.06118.pdf
+* 【2024-02-10】[alexmolas / microsearch](https://github.com/alexmolas/microsearch) - 
+* 【2024-02-10】[MrForExample / ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack) - An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)
+* 【2024-02-10】[WillianFuks / tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact) - Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.
+* 【2024-02-10】[rocketseat-education / nlw-expert-python](https://github.com/rocketseat-education/nlw-expert-python) - A barcode generator
 * 【2024-02-09】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
 * 【2024-02-09】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
 * 【2024-02-09】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
@@ -96,6 +109,10 @@
 
 ## Javascript
 
+* 【2024-02-10】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
+* 【2024-02-10】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
+* 【2024-02-10】[MorpheusAIs / Morpheus](https://github.com/MorpheusAIs/Morpheus) - Morpheus - A Network For Powering Smart Agents - Compute + Code + Capital + Community
+* 【2024-02-10】[PaPerseller / chn-iplist](https://github.com/PaPerseller/chn-iplist) - Chnroutes rules for routers、Shadowrocket、Quantumult、acl、v2rayNG、v2rayN、pac、Qv2ray、NekoRay、Nekobox、v2rayA、RouterOS、sing-box、v2ray config file.
 * 【2024-02-09】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-08】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-08】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
@@ -123,6 +140,8 @@
 
 ## C
 
+* 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
+* 【2024-02-10】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-09】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
 * 【2024-02-09】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
 * 【2024-02-09】[Rakashazi / emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
@@ -141,6 +160,7 @@
 
 ## C++
 
+* 【2024-02-10】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-09】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
 * 【2024-02-09】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
 * 【2024-02-09】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
@@ -172,6 +192,8 @@
 
 ## Html
 
+* 【2024-02-10】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
+* 【2024-02-10】[CUHK-TCSS1089 / 2023PolyU-Astron-project](https://github.com/CUHK-TCSS1089/2023PolyU-Astron-project) - 
 * 【2024-02-09】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
 * 【2024-02-09】[cryptpad / cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 * 【2024-02-09】[goitacademy / vanilla-app-template](https://github.com/goitacademy/vanilla-app-template) - 
@@ -184,6 +206,7 @@
 
 ## Css
 
+* 【2024-02-10】[diydiagnostics / App2-HelloWorld2024](https://github.com/diydiagnostics/App2-HelloWorld2024) - 
 * 【2024-02-09】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
 * 【2024-02-09】[yforku / template](https://github.com/yforku/template) - Template
 * 【2024-02-08】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
@@ -207,6 +230,11 @@
 
 ## Unknown
 
+* 【2024-02-10】[ruesandora / mangata-AVS](https://github.com/ruesandora/mangata-AVS) - 
+* 【2024-02-10】[speedyapply / swe-college-jobs](https://github.com/speedyapply/swe-college-jobs) - The most comprehensive SWE internship & new graduate job list on GitHub.
+* 【2024-02-10】[dwisiswant0 / awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty) - A collection of awesome one-liner scripts especially for bug bounty tips.
+* 【2024-02-10】[cursedpkt / MITMonster](https://github.com/cursedpkt/MITMonster) - A monster cheatsheet on MITM attacks
+* 【2024-02-10】[bsovs / Fall2024-Internships](https://github.com/bsovs/Fall2024-Internships) - Collection of Fall 2023 tech internships!
 * 【2024-02-09】[dymensionxyz / chain-registry](https://github.com/dymensionxyz/chain-registry) - 
 * 【2024-02-09】[NoobieDog / TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing) - A repo for TPM sniffing greatness
 * 【2024-02-08】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
