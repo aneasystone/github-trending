@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 * 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 * 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
 * 【2024-02-12】[sangammukherjee / 25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects) - 
@@ -70,6 +71,7 @@
 
 ## Java
 
+* 【2024-02-13】[Etar-Group / Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 * 【2024-02-12】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 * 【2024-02-12】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 * 【2024-02-11】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
@@ -86,6 +88,8 @@
 
 ## Python
 
+* 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
+* 【2024-02-13】[aniketrajnish / MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 * 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
 * 【2024-02-12】[uclaml / SPIN](https://github.com/uclaml/SPIN) - The official implementation of Self-Play Fine-Tuning (SPIN)
 * 【2024-02-12】[barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
@@ -133,6 +137,8 @@
 
 ## Javascript
 
+* 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
+* 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
 * 【2024-02-12】[mozilla / rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
 * 【2024-02-12】[citizenfx / cfx-server-data](https://github.com/citizenfx/cfx-server-data) - Data repository for CitizenFX servers.
@@ -157,6 +163,9 @@
 
 ## Go
 
+* 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
+* 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
+* 【2024-02-13】[OffchainLabs / arbitrum-classic](https://github.com/OffchainLabs/arbitrum-classic) - Powers fast, private, decentralized applications
 * 【2024-02-12】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
 * 【2024-02-12】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
 * 【2024-02-12】[danielgtaylor / huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
@@ -171,6 +180,7 @@
 
 ## C
 
+* 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
 * 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 * 【2024-02-12】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
 * 【2024-02-10】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
@@ -193,6 +203,7 @@
 
 ## C++
 
+* 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
 * 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
 * 【2024-02-12】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 * 【2024-02-11】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
@@ -212,6 +223,7 @@
 
 ## C#
 
+* 【2024-02-13】[skiff-org / skiff-windows-app](https://github.com/skiff-org/skiff-windows-app) - Skiff's Windows app for privacy-first, end-to-end encrypted Mail, Drive, Calendar, and Pages.
 * 【2024-02-12】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
 * 【2024-02-12】[microsoft / CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
 * 【2024-02-12】[VRPirates / rookie](https://github.com/VRPirates/rookie) - 
@@ -235,6 +247,7 @@
 
 ## Html
 
+* 【2024-02-13】[mabelolivera10 / salvalentin](https://github.com/mabelolivera10/salvalentin) - 
 * 【2024-02-12】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
 * 【2024-02-11】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
 * 【2024-02-11】[krishnakumarsekar / awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
@@ -252,6 +265,10 @@
 
 ## Css
 
+* 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+* 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
+* 【2024-02-13】[practicehealth / spotify-clone-assignment](https://github.com/practicehealth/spotify-clone-assignment) - 
+* 【2024-02-13】[shoqqan / valentine-day-invitation](https://github.com/shoqqan/valentine-day-invitation) - Valentine's Day Invitation💝:
 * 【2024-02-12】[Narmis-E / hyprland-dots](https://github.com/Narmis-E/hyprland-dots) - My dotfiles for my hyprland installs
 * 【2024-02-11】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
 * 【2024-02-11】[JessicaaSun / randomly-moving-button](https://github.com/JessicaaSun/randomly-moving-button) - 
@@ -280,6 +297,7 @@
 
 ## Unknown
 
+* 【2024-02-13】[AkmmusAI / LLM-Prompt-Engineering-Simplified-Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - LLM Prompting Engineering Simplified Book
 * 【2024-02-12】[TekkenOverlay / TekkenOverlay](https://github.com/TekkenOverlay/TekkenOverlay) - 
 * 【2024-02-12】[Dimbreath / StarRailData](https://github.com/Dimbreath/StarRailData) - Repository containing the data for the game Honkai: Star Rail.
 * 【2024-02-11】[BurningC4 / Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV) - Chinese CCTV List (IPV4)
