@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-02-14】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+* 【2024-02-14】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
+* 【2024-02-14】[Pandora-Labs-Org / erc404](https://github.com/Pandora-Labs-Org/erc404) - 
+* 【2024-02-14】[WithSecureLabs / lolcerts](https://github.com/WithSecureLabs/lolcerts) - A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors
 * 【2024-02-13】[skiff-org / skiff-apps](https://github.com/skiff-org/skiff-apps) - Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.
 * 【2024-02-12】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 * 【2024-02-12】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
@@ -71,6 +75,9 @@
 
 ## Java
 
+* 【2024-02-14】[pinterest / psc](https://github.com/pinterest/psc) - PubSubClient (PSC)
+* 【2024-02-14】[x-falcon / Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
+* 【2024-02-14】[carlrobertoh / CodeGPT](https://github.com/carlrobertoh/CodeGPT) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
 * 【2024-02-13】[Etar-Group / Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 * 【2024-02-12】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 * 【2024-02-12】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
@@ -88,6 +95,14 @@
 
 ## Python
 
+* 【2024-02-14】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
+* 【2024-02-14】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
+* 【2024-02-14】[0x999-x / jsluicepp](https://github.com/0x999-x/jsluicepp) - jsluice++ is a Burp Suite extension designed for passive and active scanning of JavaScript traffic using the CLI tool jsluice
+* 【2024-02-14】[AXiX-official / CrossCore-Internationalizer](https://github.com/AXiX-official/CrossCore-Internationalizer) - 一个使用官方资源帮助你访问交错战线(CrossCore)的国际服资源的非官方工具。
+* 【2024-02-14】[cubiq / ComfyUI_InstantID](https://github.com/cubiq/ComfyUI_InstantID) - 
+* 【2024-02-14】[kozmer / log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc) - A Proof-Of-Concept for the CVE-2021-44228 vulnerability.
+* 【2024-02-14】[CopilotC-Nvim / CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
+* 【2024-02-14】[Soulter / AstrBot](https://github.com/Soulter/AstrBot) - QQ、QQ 频道、Telegram 上的 ChatGPT, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
 * 【2024-02-13】[LAION-AI / natural_voice_assistant](https://github.com/LAION-AI/natural_voice_assistant) - 
 * 【2024-02-13】[aniketrajnish / MultiWindowSync-PyQt](https://github.com/aniketrajnish/MultiWindowSync-PyQt) - Windows GUI multiple window synchronization using pyqtSignal
 * 【2024-02-12】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
@@ -137,6 +152,9 @@
 
 ## Javascript
 
+* 【2024-02-14】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
+* 【2024-02-14】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
+* 【2024-02-14】[blocklistproject / Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
 * 【2024-02-13】[Maxsoll159 / proyectoSanValentin](https://github.com/Maxsoll159/proyectoSanValentin) - 
 * 【2024-02-13】[bia-pain-bache / BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment configs
 * 【2024-02-12】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
@@ -180,6 +198,8 @@
 
 ## C
 
+* 【2024-02-14】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
+* 【2024-02-14】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 * 【2024-02-13】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
 * 【2024-02-12】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
 * 【2024-02-12】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
@@ -203,6 +223,10 @@
 
 ## C++
 
+* 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
+* 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
+* 【2024-02-14】[e2002 / yoradio](https://github.com/e2002/yoradio) - Web-radio based on ESP32-audioI2S library
+* 【2024-02-14】[BnuuySolutions / OculusAmeliorated](https://github.com/BnuuySolutions/OculusAmeliorated) - Clean & revitalize your Oculus PCVR experience with Oculus Ameliorated, a minimal Oculus PCVR installation package.
 * 【2024-02-13】[livinamuk / Hell2024](https://github.com/livinamuk/Hell2024) - 
 * 【2024-02-12】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
 * 【2024-02-12】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
@@ -223,6 +247,8 @@
 
 ## C#
 
+* 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
+* 【2024-02-14】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
 * 【2024-02-13】[skiff-org / skiff-windows-app](https://github.com/skiff-org/skiff-windows-app) - Skiff's Windows app for privacy-first, end-to-end encrypted Mail, Drive, Calendar, and Pages.
 * 【2024-02-12】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
 * 【2024-02-12】[microsoft / CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
@@ -247,6 +273,9 @@
 
 ## Html
 
+* 【2024-02-14】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
+* 【2024-02-14】[balta-io / carnacode-balta-2024-desafio-01](https://github.com/balta-io/carnacode-balta-2024-desafio-01) - 
+* 【2024-02-14】[noob-hackers / seeu](https://github.com/noob-hackers/seeu) - SeeU is a camera hacking tool which is used to hack selfie camera of devices....
 * 【2024-02-13】[mabelolivera10 / salvalentin](https://github.com/mabelolivera10/salvalentin) - 
 * 【2024-02-12】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
 * 【2024-02-11】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
@@ -265,6 +294,7 @@
 
 ## Css
 
+* 【2024-02-14】[AlexxAdrian / heart_letter](https://github.com/AlexxAdrian/heart_letter) - letter of hearts to give as a gift
 * 【2024-02-13】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * 【2024-02-13】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
 * 【2024-02-13】[practicehealth / spotify-clone-assignment](https://github.com/practicehealth/spotify-clone-assignment) - 
@@ -297,6 +327,10 @@
 
 ## Unknown
 
+* 【2024-02-14】[bjrjk / CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) - Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.
+* 【2024-02-14】[keon / awesome-nlp](https://github.com/keon/awesome-nlp) - 📖 A curated list of resources dedicated to Natural Language Processing (NLP)
+* 【2024-02-14】[dylanraga / win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
+* 【2024-02-14】[microsoft / EntraIDGovernance-Training](https://github.com/microsoft/EntraIDGovernance-Training) - Microsoft Entra ID Governance Training and Learning Resources
 * 【2024-02-13】[AkmmusAI / LLM-Prompt-Engineering-Simplified-Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - LLM Prompting Engineering Simplified Book
 * 【2024-02-12】[TekkenOverlay / TekkenOverlay](https://github.com/TekkenOverlay/TekkenOverlay) - 
 * 【2024-02-12】[Dimbreath / StarRailData](https://github.com/Dimbreath/StarRailData) - Repository containing the data for the game Honkai: Star Rail.
