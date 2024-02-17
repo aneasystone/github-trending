@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-02-17】[kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) - Simple inference with StableCascade using diffusers in ComfyUI
+* 【2024-02-17】[reorproject / reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
+* 【2024-02-17】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+* 【2024-02-17】[microsoft / UFO](https://github.com/microsoft/UFO) - A UI-Focused Agent for Windows OS Interaction.
+* 【2024-02-17】[succinctlabs / sp1](https://github.com/succinctlabs/sp1) - A performant, 100% open-source, contributor-friendly zkVM.
+* 【2024-02-17】[ajeetdsouza / zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+* 【2024-02-17】[LargeWorldModel / LWM](https://github.com/LargeWorldModel/LWM) - 
 * 【2024-02-16】[Stability-AI / StableCascade](https://github.com/Stability-AI/StableCascade) - 
 * 【2024-02-16】[vosen / ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 * 【2024-02-16】[Nutlope / notesGPT](https://github.com/Nutlope/notesGPT) - Record voice notes & transcribe, summarize, and get tasks
@@ -85,6 +92,7 @@
 
 ## Java
 
+* 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 * 【2024-02-16】[opensearch-project / security](https://github.com/opensearch-project/security) - 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
 * 【2024-02-15】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
@@ -108,6 +116,8 @@
 
 ## Python
 
+* 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
+* 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 * 【2024-02-16】[Marker-Inc-Korea / AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool - Find optimal RAG pipeline for your own data.
 * 【2024-02-16】[ibis-project / ibis](https://github.com/ibis-project/ibis) - The flexibility of Python with the scale and performance of modern SQL.
 * 【2024-02-16】[mwaskom / seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
@@ -207,6 +217,7 @@
 
 ## Go
 
+* 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 * 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
 * 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
 * 【2024-02-13】[apple / pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language
@@ -225,6 +236,7 @@
 
 ## C
 
+* 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
 * 【2024-02-16】[hades-emu / Hades](https://github.com/hades-emu/Hades) - 🔥 A Nintendo Game Boy Advance Emulator
 * 【2024-02-16】[ElementsProject / lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
 * 【2024-02-15】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
@@ -253,6 +265,8 @@
 
 ## C++
 
+* 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
+* 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
 * 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
 * 【2024-02-14】[willem-pennings / balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 * 【2024-02-14】[arplaboratory / learning-to-fly](https://github.com/arplaboratory/learning-to-fly) - Training transferable end-to-end quadrotor control policies on a laptop in 18 seconds.
@@ -278,6 +292,8 @@
 
 ## C#
 
+* 【2024-02-17】[wh0amitz / SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
+* 【2024-02-17】[RazTools / Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
 * 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-14】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 * 【2024-02-14】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
@@ -305,6 +321,8 @@
 
 ## Html
 
+* 【2024-02-17】[Linux-CN / archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
+* 【2024-02-17】[builtbybel / WhyNotWinAI](https://github.com/builtbybel/WhyNotWinAI) - Check if your system can handle the new AI-powered features.
 * 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
 * 【2024-02-15】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
 * 【2024-02-14】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
@@ -328,6 +346,9 @@
 
 ## Css
 
+* 【2024-02-17】[patriksm / 10b_JavasScript_3D](https://github.com/patriksm/10b_JavasScript_3D) - 3D game using plain JavaScript
+* 【2024-02-17】[mmdmrishabh / Coding-assessment-l2-Boilerplate-code](https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code) - 
+* 【2024-02-17】[diydiagnostics / App3-coldorallergy](https://github.com/diydiagnostics/App3-coldorallergy) - App 3 assignment base repository
 * 【2024-02-16】[gevendra2004 / gevstack](https://github.com/gevendra2004/gevstack) - All Gevstack projects
 * 【2024-02-16】[Geeks-edu / Valentinka](https://github.com/Geeks-edu/Valentinka) - 
 * 【2024-02-16】[kat9897 / Virtual-Valentine-Card](https://github.com/kat9897/Virtual-Valentine-Card) - A small cute project using HTML, CSS, and JS to send to a loved one on Valentine's Day.
@@ -373,6 +394,10 @@
 
 ## Unknown
 
+* 【2024-02-17】[mztacat / Kyoto-Chain](https://github.com/mztacat/Kyoto-Chain) - Kyoto chain on Arbitrum
+* 【2024-02-17】[keep-starknet-strange / awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
+* 【2024-02-17】[microsoft / Hack-Together-Fabric-AI](https://github.com/microsoft/Hack-Together-Fabric-AI) - Hack Together: The Microsoft Fabric Global AI Hack
+* 【2024-02-17】[starknet-io / provisions-data](https://github.com/starknet-io/provisions-data) - Lists of eligible identities for Starknet provisions.
 * 【2024-02-16】[mediazona / data-wanted](https://github.com/mediazona/data-wanted) - Data for research of the Russian wanted list
 * 【2024-02-16】[tornetworks / darknet-markets](https://github.com/tornetworks/darknet-markets) - Verified List of Dark Web Sites
 * 【2024-02-16】[dotnet / announcements](https://github.com/dotnet/announcements) - Subscribe to this repo to be notified of Announcements and changes in .NET Core.
