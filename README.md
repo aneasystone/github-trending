@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+* 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
+* 【2024-02-18】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 * 【2024-02-17】[kijai / ComfyUI-DiffusersStableCascade](https://github.com/kijai/ComfyUI-DiffusersStableCascade) - Simple inference with StableCascade using diffusers in ComfyUI
 * 【2024-02-17】[reorproject / reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 * 【2024-02-17】[gptscript-ai / gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
@@ -116,6 +119,7 @@
 
 ## Python
 
+* 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 * 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
 * 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 * 【2024-02-16】[Marker-Inc-Korea / AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG AutoML Tool - Find optimal RAG pipeline for your own data.
@@ -182,6 +186,8 @@
 
 ## Javascript
 
+* 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
+* 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
 * 【2024-02-16】[Hypfer / Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 * 【2024-02-16】[Germey / ValentinesDay](https://github.com/Germey/ValentinesDay) - My LOVE
@@ -236,6 +242,7 @@
 
 ## C
 
+* 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
 * 【2024-02-16】[hades-emu / Hades](https://github.com/hades-emu/Hades) - 🔥 A Nintendo Game Boy Advance Emulator
 * 【2024-02-16】[ElementsProject / lightning](https://github.com/ElementsProject/lightning) - Core Lightning — Lightning Network implementation focusing on spec compliance and performance
@@ -265,6 +272,7 @@
 
 ## C++
 
+* 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
 * 【2024-02-17】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
 * 【2024-02-16】[darkluar / cosmic-station](https://github.com/darkluar/cosmic-station) - 🧪Exclusive Android Sony Playstation 2 emulator, from scratch, using Kotlin, C++ 20, OpenGLES, Vulkan, and Cubes
@@ -292,6 +300,8 @@
 
 ## C#
 
+* 【2024-02-18】[milanm / DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
+* 【2024-02-18】[KyleTheScientist / Bark](https://github.com/KyleTheScientist/Bark) - Bark is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off.
 * 【2024-02-17】[wh0amitz / SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
 * 【2024-02-17】[RazTools / Studio](https://github.com/RazTools/Studio) - Modded AssetStudio with new features
 * 【2024-02-15】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
@@ -321,6 +331,9 @@
 
 ## Html
 
+* 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
+* 【2024-02-18】[hemansnation / 7-Day-AI-ML-Fundamentals-Workshop](https://github.com/hemansnation/7-Day-AI-ML-Fundamentals-Workshop) - 7 Day AI ML Fundamentals Workshop The purpose of this FREE workshop is 1. To give you a boost of getting started with AI. 2. A life-long community with a similar mindset. 3. strong grip on fundamentals that the advanced concepts will be easy to understand.
+* 【2024-02-18】[TypingMind / typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
 * 【2024-02-17】[Linux-CN / archive](https://github.com/Linux-CN/archive) - Linux.cn Archive
 * 【2024-02-17】[builtbybel / WhyNotWinAI](https://github.com/builtbybel/WhyNotWinAI) - Check if your system can handle the new AI-powered features.
 * 【2024-02-15】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
@@ -346,6 +359,7 @@
 
 ## Css
 
+* 【2024-02-18】[artsyfriedchicken / EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 * 【2024-02-17】[patriksm / 10b_JavasScript_3D](https://github.com/patriksm/10b_JavasScript_3D) - 3D game using plain JavaScript
 * 【2024-02-17】[mmdmrishabh / Coding-assessment-l2-Boilerplate-code](https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code) - 
 * 【2024-02-17】[diydiagnostics / App3-coldorallergy](https://github.com/diydiagnostics/App3-coldorallergy) - App 3 assignment base repository
@@ -394,6 +408,8 @@
 
 ## Unknown
 
+* 【2024-02-18】[ChanChiChoi / awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
+* 【2024-02-18】[zkSync-Community-Hub / zksync-developers](https://github.com/zkSync-Community-Hub/zksync-developers) - 
 * 【2024-02-17】[mztacat / Kyoto-Chain](https://github.com/mztacat/Kyoto-Chain) - Kyoto chain on Arbitrum
 * 【2024-02-17】[keep-starknet-strange / awesome-starknet](https://github.com/keep-starknet-strange/awesome-starknet) - A curated list of awesome StarkNet resources, libraries, tools and more
 * 【2024-02-17】[microsoft / Hack-Together-Fabric-AI](https://github.com/microsoft/Hack-Together-Fabric-AI) - Hack Together: The Microsoft Fabric Global AI Hack
