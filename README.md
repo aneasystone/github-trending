@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-02-19】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
+* 【2024-02-19】[ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline) - An image processing pipeline for ROS.
+* 【2024-02-19】[adrianhajdin / ai_saas_app](https://github.com/adrianhajdin/ai_saas_app) - Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
 * 【2024-02-18】[astral-sh / uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 * 【2024-02-18】[google / generative-ai-dart](https://github.com/google/generative-ai-dart) - Google AI SDK for Dart
 * 【2024-02-18】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -119,6 +122,11 @@
 
 ## Python
 
+* 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
+* 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+* 【2024-02-19】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
+* 【2024-02-19】[disposable-email-domains / disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
+* 【2024-02-19】[Wilson-ZheLin / Streamline-Analyst](https://github.com/Wilson-ZheLin/Streamline-Analyst) - An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀
 * 【2024-02-18】[facebookresearch / jepa](https://github.com/facebookresearch/jepa) - PyTorch code and models for V-JEPA self-supervised learning from video.
 * 【2024-02-17】[czbag / starknet](https://github.com/czbag/starknet) - 
 * 【2024-02-17】[snarfed / bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
@@ -186,6 +194,13 @@
 
 ## Javascript
 
+* 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
+* 【2024-02-19】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+* 【2024-02-19】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
+* 【2024-02-19】[munris-vlad / wallet-checker](https://github.com/munris-vlad/wallet-checker) - 
+* 【2024-02-19】[quanru / obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS) - 
+* 【2024-02-19】[monkeyWie / gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) - Gopeed 百度网盘下载扩展。
+* 【2024-02-19】[uBlockOrigin / uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 * 【2024-02-18】[zed-industries / extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor
 * 【2024-02-18】[hammerjs / hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * 【2024-02-16】[ircfspace / fragment](https://github.com/ircfspace/fragment) - توسط ابزار فرگمنت می‌تونین دامنه‌های مرده‌تون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domains!
@@ -223,6 +238,11 @@
 
 ## Go
 
+* 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
+* 【2024-02-19】[blushft / go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
+* 【2024-02-19】[marcoshuck / todo](https://github.com/marcoshuck/todo) - A production-grade todo app applying the following technologies: Go, gRPC, Docker, Kubernetes, Zap, Jaeger, Prometheus, Grafana and more
+* 【2024-02-19】[metal3-io / ip-address-manager](https://github.com/metal3-io/ip-address-manager) - IP address Manager for Cluster API Provider Metal3
+* 【2024-02-19】[helm / chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts
 * 【2024-02-17】[weaveworks / weave-gitops-enterprise](https://github.com/weaveworks/weave-gitops-enterprise) - This repo provides the enterprise level features for the weave-gitops product, including CAPI cluster creation and team workspaces.
 * 【2024-02-16】[jfjallid / go-secdump](https://github.com/jfjallid/go-secdump) - Tool to remotely dump secrets from the Windows registry
 * 【2024-02-13】[apple / pkl-go-examples](https://github.com/apple/pkl-go-examples) - Examples for using Pkl within Go applications
@@ -242,6 +262,7 @@
 
 ## C
 
+* 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-17】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
 * 【2024-02-16】[hades-emu / Hades](https://github.com/hades-emu/Hades) - 🔥 A Nintendo Game Boy Advance Emulator
@@ -331,6 +352,7 @@
 
 ## Html
 
+* 【2024-02-19】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
 * 【2024-02-18】[hemansnation / 7-Day-AI-ML-Fundamentals-Workshop](https://github.com/hemansnation/7-Day-AI-ML-Fundamentals-Workshop) - 7 Day AI ML Fundamentals Workshop The purpose of this FREE workshop is 1. To give you a boost of getting started with AI. 2. A life-long community with a similar mindset. 3. strong grip on fundamentals that the advanced concepts will be easy to understand.
 * 【2024-02-18】[TypingMind / typingmind](https://github.com/TypingMind/typingmind) - The most advanced Web UI for AI chat
@@ -359,6 +381,9 @@
 
 ## Css
 
+* 【2024-02-19】[bmFtZQ / edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
+* 【2024-02-19】[Zarbalou / ilyass-port](https://github.com/Zarbalou/ilyass-port) - 
+* 【2024-02-19】[joeroe / risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 * 【2024-02-18】[artsyfriedchicken / EdgyArc-fr](https://github.com/artsyfriedchicken/EdgyArc-fr) - Firefox Userchrome and sidebery style
 * 【2024-02-17】[patriksm / 10b_JavasScript_3D](https://github.com/patriksm/10b_JavasScript_3D) - 3D game using plain JavaScript
 * 【2024-02-17】[mmdmrishabh / Coding-assessment-l2-Boilerplate-code](https://github.com/mmdmrishabh/Coding-assessment-l2-Boilerplate-code) - 
@@ -408,6 +433,12 @@
 
 ## Unknown
 
+* 【2024-02-19】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
+* 【2024-02-19】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
+* 【2024-02-19】[VijayGunturu / VijayGunturu1](https://github.com/VijayGunturu/VijayGunturu1) - 1
+* 【2024-02-19】[DonMcD / ultimate-plex-stack](https://github.com/DonMcD/ultimate-plex-stack) - 
+* 【2024-02-19】[zs-A / zs-A1](https://github.com/zs-A/zs-A1) - 1
+* 【2024-02-19】[2508932142 / Voicemod-Pro](https://github.com/2508932142/Voicemod-Pro) - 1
 * 【2024-02-18】[ChanChiChoi / awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) - papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;
 * 【2024-02-18】[zkSync-Community-Hub / zksync-developers](https://github.com/zkSync-Community-Hub/zksync-developers) - 
 * 【2024-02-17】[mztacat / Kyoto-Chain](https://github.com/mztacat/Kyoto-Chain) - Kyoto chain on Arbitrum
