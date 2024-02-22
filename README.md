@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-02-22】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
+* 【2024-02-22】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 * 【2024-02-21】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * 【2024-02-20】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * 【2024-02-20】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
@@ -101,6 +103,7 @@
 
 ## Java
 
+* 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 * 【2024-02-16】[opensearch-project / security](https://github.com/opensearch-project/security) - 🔐 Secure your cluster with TLS, numerous authentication backends, data masking, audit logging as well as role-based access control on indices, documents, and fields
@@ -125,6 +128,8 @@
 
 ## Python
 
+* 【2024-02-22】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
+* 【2024-02-22】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * 【2024-02-21】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 * 【2024-02-19】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
 * 【2024-02-19】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
@@ -198,6 +203,7 @@
 
 ## Javascript
 
+* 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 * 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 * 【2024-02-20】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-19】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
@@ -244,6 +250,7 @@
 
 ## Go
 
+* 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-21】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-20】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 * 【2024-02-19】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
@@ -270,6 +277,7 @@
 
 ## C
 
+* 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-19】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-18】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
@@ -302,6 +310,8 @@
 
 ## C++
 
+* 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
+* 【2024-02-22】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-21】[hyprwm / hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 * 【2024-02-18】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-17】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
@@ -331,6 +341,8 @@
 
 ## C#
 
+* 【2024-02-22】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
+* 【2024-02-22】[AppsFlyerSDK / appsflyer-unity-plugin](https://github.com/AppsFlyerSDK/appsflyer-unity-plugin) - AppsFlyer Unity Plugin
 * 【2024-02-21】[xuzeyu91 / AntSK](https://github.com/xuzeyu91/AntSK) - 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
 * 【2024-02-21】[msdart / solana-sniper-bot](https://github.com/msdart/solana-sniper-bot) - Solana sniper bot, is a software tool created to snipe tokens on DEX
 * 【2024-02-20】[Sh3lldon / FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)
@@ -366,6 +378,8 @@
 
 ## Html
 
+* 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
+* 【2024-02-22】[zapll / chatgpt-next-share](https://github.com/zapll/chatgpt-next-share) - 
 * 【2024-02-21】[IsraC0d33 / Proyecto1Marcas](https://github.com/IsraC0d33/Proyecto1Marcas) - Esta pagina es un Trabajo/Proyecto en equipo que busca replicar la página que se muestra abajo, con todos los conocimientos adquiridos en la asignatura de Lenguaje De Marcas.
 * 【2024-02-19】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-18】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
@@ -396,6 +410,10 @@
 
 ## Css
 
+* 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
+* 【2024-02-22】[bgao / express-boilerplate](https://github.com/bgao/express-boilerplate) - Express boilerplate integrated Passport, Nodemailer and Initializr(Bootstrap)
+* 【2024-02-22】[SkylineCommunications / dataminer-docs-connectors](https://github.com/SkylineCommunications/dataminer-docs-connectors) - 
+* 【2024-02-22】[sidd-harth / mule4-mcd-level2](https://github.com/sidd-harth/mule4-mcd-level2) - This repo contains solutions for all hands-on exercises
 * 【2024-02-21】[XNM1 / linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
 * 【2024-02-21】[bgola / bikeanjo](https://github.com/bgola/bikeanjo) - source code for sistema.bikeanjo.com.br
 * 【2024-02-19】[bmFtZQ / edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
@@ -450,6 +468,7 @@
 
 ## Unknown
 
+* 【2024-02-22】[Mastodon-DE / blocklists](https://github.com/Mastodon-DE/blocklists) - Work in progress - created hastily for the February 15th Fedi Spam Attacks
 * 【2024-02-21】[didicodes / javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 * 【2024-02-19】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
 * 【2024-02-19】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
