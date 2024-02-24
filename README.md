@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-02-24】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
+* 【2024-02-24】[google / gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
+* 【2024-02-24】[SoraWebui / SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.
+* 【2024-02-24】[facebook / react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
+* 【2024-02-24】[all-in-aigc / sorafm](https://github.com/all-in-aigc/sorafm) - Sora AI Video Generator by Sora.FM
+* 【2024-02-24】[mtkarimi / smart-resident-guard](https://github.com/mtkarimi/smart-resident-guard) - 
+* 【2024-02-24】[google-deepmind / gemma](https://github.com/google-deepmind/gemma) - Open weights LLM from Google DeepMind.
+* 【2024-02-24】[soufianetahiri / Anxun-isoon](https://github.com/soufianetahiri/Anxun-isoon) - I-SOON/Anxun leak related stuff
 * 【2024-02-23】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion
 * 【2024-02-23】[Speykious / cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 * 【2024-02-23】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
@@ -134,6 +142,7 @@
 
 ## Python
 
+* 【2024-02-24】[Chocapikk / CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) - Unauthenticated Remote Code Execution – Bricks <= 1.9.6
 * 【2024-02-23】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
 * 【2024-02-23】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 * 【2024-02-23】[carlini / yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
@@ -216,6 +225,10 @@
 
 ## Javascript
 
+* 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
+* 【2024-02-24】[lavanet / docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
+* 【2024-02-24】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+* 【2024-02-24】[nightwatchjs / nightwatch](https://github.com/nightwatchjs/nightwatch) - Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack
 * 【2024-02-23】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 * 【2024-02-22】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 * 【2024-02-20】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
@@ -292,6 +305,7 @@
 
 ## C
 
+* 【2024-02-24】[ofiwg / libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
 * 【2024-02-23】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-21】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
@@ -359,6 +373,7 @@
 
 ## C#
 
+* 【2024-02-24】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * 【2024-02-23】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
 * 【2024-02-23】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
 * 【2024-02-23】[mlcsec / FormThief](https://github.com/mlcsec/FormThief) - Spoofing desktop login applications with WinForms and WPF
@@ -400,6 +415,8 @@
 
 ## Html
 
+* 【2024-02-24】[taniagd / Ejercicios-Intro-HTML---CH38](https://github.com/taniagd/Ejercicios-Intro-HTML---CH38) - 
+* 【2024-02-24】[kawika-git / wechatAPI](https://github.com/kawika-git/wechatAPI) - 该项目提供了一套强大的微信 API 和 Hook 工具，旨在增强微信的可定制性和开放性，支持多种功能扩展和自定义应用。
 * 【2024-02-23】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
 * 【2024-02-23】[Shploop / Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate). https://05konz.github.io/Blooket-Cheats/
 * 【2024-02-22】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
@@ -434,6 +451,8 @@
 
 ## Css
 
+* 【2024-02-24】[K-Daksh / Exitlag](https://github.com/K-Daksh/Exitlag) - 
+* 【2024-02-24】[uwidcit / info1601a1](https://github.com/uwidcit/info1601a1) - 
 * 【2024-02-23】[HyperPlay-Gaming / hyperplay-desktop-client](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) - The HyperPlay desktop app
 * 【2024-02-23】[statick88 / lista-compras-svelte](https://github.com/statick88/lista-compras-svelte) - 
 * 【2024-02-22】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
@@ -494,6 +513,8 @@
 
 ## Unknown
 
+* 【2024-02-24】[OpenMOSS / AnyGPT](https://github.com/OpenMOSS/AnyGPT) - Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
+* 【2024-02-24】[Yakima-Teng / memo](https://github.com/Yakima-Teng/memo) - 👻 程序员备忘录，记录了WEB程序员常用的知识点，方便温故知新，自我成长，无惧前端面试。有单页版、多页版、PDF版，并且提供了安卓、Windows等客户端。
 * 【2024-02-23】[whlzy / FiT](https://github.com/whlzy/FiT) - FiT: Flexible Vision Transformer for Diffusion Model
 * 【2024-02-23】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews and learn Leetcode Patterns.
 * 【2024-02-23】[imwsl / ZeroCostTools](https://github.com/imwsl/ZeroCostTools) - 零成本的互联网产品或工具，帮助大家快速实现自己的想法!
