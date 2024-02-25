@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
+* 【2024-02-25】[NoteProtocol / NoteWallet](https://github.com/NoteProtocol/NoteWallet) - A Command Line Wallet to Send/Receive BTC and NOTE Tokens
+* 【2024-02-25】[MegaManSec / SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
+* 【2024-02-25】[lowRISC / opentitan](https://github.com/lowRISC/opentitan) - OpenTitan: Open source silicon root of trust
 * 【2024-02-24】[google / gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 * 【2024-02-24】[google / gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 * 【2024-02-24】[SoraWebui / SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.
@@ -142,6 +146,8 @@
 
 ## Python
 
+* 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
+* 【2024-02-25】[Azure / PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 * 【2024-02-24】[Chocapikk / CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) - Unauthenticated Remote Code Execution – Bricks <= 1.9.6
 * 【2024-02-23】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
 * 【2024-02-23】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -225,6 +231,7 @@
 
 ## Javascript
 
+* 【2024-02-25】[fal-ai / sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app) - A demo application using fal.realtime and the lightning fast SDXL API provided by fal
 * 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
 * 【2024-02-24】[lavanet / docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
 * 【2024-02-24】[maboloshi / github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
@@ -277,6 +284,7 @@
 
 ## Go
 
+* 【2024-02-25】[TheTNB / panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
 * 【2024-02-23】[go-fuego / fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 * 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-21】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
@@ -305,6 +313,7 @@
 
 ## C
 
+* 【2024-02-25】[nihui / ruapu](https://github.com/nihui/ruapu) - Detect CPU features with single-file
 * 【2024-02-24】[ofiwg / libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
 * 【2024-02-23】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-22】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
@@ -340,6 +349,8 @@
 
 ## C++
 
+* 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
+* 【2024-02-25】[raknet-python / raknet-python](https://github.com/raknet-python/raknet-python) - Python bindings for RakNet, a cross-platform networking engine for game programmers.
 * 【2024-02-23】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
 * 【2024-02-23】[geeksblabla / blanat](https://github.com/geeksblabla/blanat) - Blanat: BlaBlaConf 2024 Coding Challenge
 * 【2024-02-22】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
@@ -415,6 +426,7 @@
 
 ## Html
 
+* 【2024-02-25】[formkit / drag-and-drop](https://github.com/formkit/drag-and-drop) - 
 * 【2024-02-24】[taniagd / Ejercicios-Intro-HTML---CH38](https://github.com/taniagd/Ejercicios-Intro-HTML---CH38) - 
 * 【2024-02-24】[kawika-git / wechatAPI](https://github.com/kawika-git/wechatAPI) - 该项目提供了一套强大的微信 API 和 Hook 工具，旨在增强微信的可定制性和开放性，支持多种功能扩展和自定义应用。
 * 【2024-02-23】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
@@ -451,6 +463,9 @@
 
 ## Css
 
+* 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
+* 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
+* 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
 * 【2024-02-24】[K-Daksh / Exitlag](https://github.com/K-Daksh/Exitlag) - 
 * 【2024-02-24】[uwidcit / info1601a1](https://github.com/uwidcit/info1601a1) - 
 * 【2024-02-23】[HyperPlay-Gaming / hyperplay-desktop-client](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) - The HyperPlay desktop app
@@ -513,6 +528,9 @@
 
 ## Unknown
 
+* 【2024-02-25】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
+* 【2024-02-25】[ByteSnipers / awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+* 【2024-02-25】[ippscan / ippscanTEAM](https://github.com/ippscan/ippscanTEAM) - 
 * 【2024-02-24】[OpenMOSS / AnyGPT](https://github.com/OpenMOSS/AnyGPT) - Code for "AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling"
 * 【2024-02-24】[Yakima-Teng / memo](https://github.com/Yakima-Teng/memo) - 👻 程序员备忘录，记录了WEB程序员常用的知识点，方便温故知新，自我成长，无惧前端面试。有单页版、多页版、PDF版，并且提供了安卓、Windows等客户端。
 * 【2024-02-23】[whlzy / FiT](https://github.com/whlzy/FiT) - FiT: Flexible Vision Transformer for Diffusion Model
