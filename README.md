@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-02-26】[radix-vue / radix-vue](https://github.com/radix-vue/radix-vue) - Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.
 * 【2024-02-25】[WongKinYiu / yolov9](https://github.com/WongKinYiu/yolov9) - Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
 * 【2024-02-25】[NoteProtocol / NoteWallet](https://github.com/NoteProtocol/NoteWallet) - A Command Line Wallet to Send/Receive BTC and NOTE Tokens
 * 【2024-02-25】[MegaManSec / SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -121,6 +122,7 @@
 
 ## Java
 
+* 【2024-02-26】[Enndfp / code-generator](https://github.com/Enndfp/code-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
 * 【2024-02-17】[swagger-api / swagger-core](https://github.com/swagger-api/swagger-core) - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
 * 【2024-02-16】[Helium314 / HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -146,6 +148,8 @@
 
 ## Python
 
+* 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
+* 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
 * 【2024-02-25】[Azure / PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.
 * 【2024-02-24】[Chocapikk / CVE-2024-25600](https://github.com/Chocapikk/CVE-2024-25600) - Unauthenticated Remote Code Execution – Bricks <= 1.9.6
@@ -231,6 +235,7 @@
 
 ## Javascript
 
+* 【2024-02-26】[rolling-scopes-school / news-JS](https://github.com/rolling-scopes-school/news-JS) - 
 * 【2024-02-25】[fal-ai / sdxl-lightning-demo-app](https://github.com/fal-ai/sdxl-lightning-demo-app) - A demo application using fal.realtime and the lightning fast SDXL API provided by fal
 * 【2024-02-24】[Maher-Zubair / SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) - A Premium Whatsapp Bot Loaded With Features
 * 【2024-02-24】[lavanet / docs](https://github.com/lavanet/docs) - The open-source repo for docs.lavanet.xyz
@@ -284,6 +289,8 @@
 
 ## Go
 
+* 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
+* 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-25】[TheTNB / panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
 * 【2024-02-23】[go-fuego / fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 * 【2024-02-22】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
@@ -349,6 +356,7 @@
 
 ## C++
 
+* 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
 * 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
 * 【2024-02-25】[raknet-python / raknet-python](https://github.com/raknet-python/raknet-python) - Python bindings for RakNet, a cross-platform networking engine for game programmers.
 * 【2024-02-23】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
@@ -384,6 +392,7 @@
 
 ## C#
 
+* 【2024-02-26】[oculus-samples / Unity-CrypticCabinet](https://github.com/oculus-samples/Unity-CrypticCabinet) - Cryptic Cabinet is a short Mixed Reality (MR) experience for Meta Quest headsets. It will demonstrate the possibilities of MR through gameplay, narrative, and aesthetics. The app adapts to your room (big or small) to create a unique experience for everyone.
 * 【2024-02-24】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * 【2024-02-23】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
 * 【2024-02-23】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
@@ -426,6 +435,7 @@
 
 ## Html
 
+* 【2024-02-26】[YoYoGames / GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Repository for GameMaker's FMOD Extension
 * 【2024-02-25】[formkit / drag-and-drop](https://github.com/formkit/drag-and-drop) - 
 * 【2024-02-24】[taniagd / Ejercicios-Intro-HTML---CH38](https://github.com/taniagd/Ejercicios-Intro-HTML---CH38) - 
 * 【2024-02-24】[kawika-git / wechatAPI](https://github.com/kawika-git/wechatAPI) - 该项目提供了一套强大的微信 API 和 Hook 工具，旨在增强微信的可定制性和开放性，支持多种功能扩展和自定义应用。
@@ -528,6 +538,7 @@
 
 ## Unknown
 
+* 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
 * 【2024-02-25】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
 * 【2024-02-25】[ByteSnipers / awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
 * 【2024-02-25】[ippscan / ippscanTEAM](https://github.com/ippscan/ippscanTEAM) - 
