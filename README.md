@@ -148,6 +148,10 @@
 
 ## Python
 
+* 【2024-02-27】[czbag / scroll](https://github.com/czbag/scroll) - Скрипт по работе со Scroll
+* 【2024-02-27】[Frimkron / mud-pi](https://github.com/Frimkron/mud-pi) - A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi
+* 【2024-02-27】[Eladlev / AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
+* 【2024-02-27】[dnakov / r2d2](https://github.com/dnakov/r2d2) - 🤖🏴‍☠️ radare2 plugin for GPT-4 🦜. Solve crackmes automatically 🪄
 * 【2024-02-26】[OpenCodeInterpreter / OpenCodeInterpreter](https://github.com/OpenCodeInterpreter/OpenCodeInterpreter) - 
 * 【2024-02-26】[tin-ka / Prometheus](https://github.com/tin-ka/Prometheus) - Very powerful stealer + miner + rat + keylogger
 * 【2024-02-25】[galaxyproject / galaxy](https://github.com/galaxyproject/galaxy) - Data intensive science for everyone.
@@ -289,6 +293,9 @@
 
 ## Go
 
+* 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
+* 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
+* 【2024-02-27】[anacrolix / torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
 * 【2024-02-26】[ra2web / ra2web-proxy](https://github.com/ra2web/ra2web-proxy) - 网页红警边缘合规安全网关，用于对Chronodivide官方客户端进行转发，并对代码和内容动态注入，实现区域合规要求
 * 【2024-02-26】[go-jet / jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping
 * 【2024-02-25】[TheTNB / panel](https://github.com/TheTNB/panel) - 耗子 Linux 面板 - GO 开发的轻量 Linux 面板
@@ -392,6 +399,9 @@
 
 ## C#
 
+* 【2024-02-27】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
+* 【2024-02-27】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
+* 【2024-02-27】[Nereziel / cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) - 
 * 【2024-02-26】[oculus-samples / Unity-CrypticCabinet](https://github.com/oculus-samples/Unity-CrypticCabinet) - Cryptic Cabinet is a short Mixed Reality (MR) experience for Meta Quest headsets. It will demonstrate the possibilities of MR through gameplay, narrative, and aesthetics. The app adapts to your room (big or small) to create a unique experience for everyone.
 * 【2024-02-24】[octokit / octokit.net](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * 【2024-02-23】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
@@ -473,6 +483,8 @@
 
 ## Css
 
+* 【2024-02-27】[datawhalechina / hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent) - A tutorial to quickly help you understand the concept of agent and muti-agent and get started with coding development
+* 【2024-02-27】[Perseus333 / One-Fox](https://github.com/Perseus333/One-Fox) - A CSS for firefox and Floorp that provides a simple yet convenient single line UI
 * 【2024-02-25】[NewFuture / CV](https://github.com/NewFuture/CV) - A resume template written in Markdown,Yaml JSON auto generates github-pages website & PDF by Jekyll. 在线简历生成模板(超高兼容可导PDF)
 * 【2024-02-25】[AkashKobal / web-development](https://github.com/AkashKobal/web-development) - This repository enables learners to perform front-end full stack development, with emphasis on employability skills. The repository covers key technologies and architectures that enable the learners to design and implement front-end. On successful completion of this repository, the student shall be able to pursue a career in full-stack developement
 * 【2024-02-25】[creativetimofficial / blk-design-system-react](https://github.com/creativetimofficial/blk-design-system-react) - React version of BLK Design System:
@@ -538,6 +550,7 @@
 
 ## Unknown
 
+* 【2024-02-27】[osurf / pzdy](https://github.com/osurf/pzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
 * 【2024-02-26】[analoguejb / Analogue-Duo-JB](https://github.com/analoguejb/Analogue-Duo-JB) - 
 * 【2024-02-25】[ronibandini / reggaetonBeGone](https://github.com/ronibandini/reggaetonBeGone) - detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)
 * 【2024-02-25】[ByteSnipers / awesome-pentest-cheat-sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
