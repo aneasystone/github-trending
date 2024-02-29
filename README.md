@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
+* 【2024-02-29】[dockur / windows](https://github.com/dockur/windows) - Windows in a Docker container.
+* 【2024-02-29】[SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG systems
+* 【2024-02-29】[myshell-ai / MeloTTS](https://github.com/myshell-ai/MeloTTS) - High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.
+* 【2024-02-29】[krishnaik06 / Data-Science-Projects-For-Resumes](https://github.com/krishnaik06/Data-Science-Projects-For-Resumes) - 
+* 【2024-02-29】[polyfillpolyfill / polyfill-service](https://github.com/polyfillpolyfill/polyfill-service) - Automatic polyfill service.
 * 【2024-02-28】[tigerbeetle / tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 * 【2024-02-28】[FuelLabs / fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 * 【2024-02-28】[MDK8888 / GPTFast](https://github.com/MDK8888/GPTFast) - Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.
@@ -127,6 +133,8 @@
 
 ## Java
 
+* 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
+* 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
 * 【2024-02-28】[SuperMarioYL / trouve](https://github.com/SuperMarioYL/trouve) - trouve : A built-in integrated service discovery, service registration, and service forwarding general component for Spring projects
 * 【2024-02-26】[Enndfp / code-generator](https://github.com/Enndfp/code-generator) - 基于 React + Spring Boot + Picocli + 对象存储的代码生成器共享平台，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等
 * 【2024-02-22】[longerye / im-chat](https://github.com/longerye/im-chat) - Fake wechat chat
@@ -154,6 +162,7 @@
 
 ## Python
 
+* 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
 * 【2024-02-28】[jasonyzhang / RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 * 【2024-02-28】[bjing2016 / alphaflow](https://github.com/bjing2016/alphaflow) - AlphaFold Meets Flow Matching for Generating Protein Ensembles
 * 【2024-02-27】[czbag / scroll](https://github.com/czbag/scroll) - Скрипт по работе со Scroll
@@ -247,6 +256,8 @@
 
 ## Javascript
 
+* 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
+* 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
 * 【2024-02-28】[bittu1040 / JavaScript-Coding-and-Notes](https://github.com/bittu1040/JavaScript-Coding-and-Notes) - You can find here all JavaScript core concept with example and basic coding challenge
 * 【2024-02-28】[ninjas-code-official / food-delivery-multivendor](https://github.com/ninjas-code-official/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
 * 【2024-02-26】[rolling-scopes-school / news-JS](https://github.com/rolling-scopes-school/news-JS) - 
@@ -303,6 +314,7 @@
 
 ## Go
 
+* 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
 * 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
 * 【2024-02-27】[anacrolix / torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -457,6 +469,9 @@
 
 ## Html
 
+* 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
+* 【2024-02-29】[gethyas / doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
+* 【2024-02-29】[Consensys / smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 * 【2024-02-28】[taniagd / Ejercicios-Intro-CSS-CH38](https://github.com/taniagd/Ejercicios-Intro-CSS-CH38) - 
 * 【2024-02-26】[YoYoGames / GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Repository for GameMaker's FMOD Extension
 * 【2024-02-25】[formkit / drag-and-drop](https://github.com/formkit/drag-and-drop) - 
@@ -496,6 +511,8 @@
 
 ## Css
 
+* 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
+* 【2024-02-29】[MariiaH1 / todo-app-starter](https://github.com/MariiaH1/todo-app-starter) - 
 * 【2024-02-28】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
 * 【2024-02-28】[textmate / themes.tmbundle](https://github.com/textmate/themes.tmbundle) - Themes (for grammars and command output)
 * 【2024-02-28】[lelandrichardson / knockout-paged](https://github.com/lelandrichardson/knockout-paged) - Knockout Extension/Plugin for common paged-data scenarios
@@ -566,6 +583,9 @@
 
 ## Unknown
 
+* 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
+* 【2024-02-29】[HFUT-CHEATER / HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection) - HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
+* 【2024-02-29】[M-3LAB / awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。
 * 【2024-02-28】[ctanujit / lecture-notes](https://github.com/ctanujit/lecture-notes) - 
 * 【2024-02-28】[wsargent / docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 * 【2024-02-27】[osurf / pzdy](https://github.com/osurf/pzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
