@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-03-01】[Netflix / bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+* 【2024-03-01】[HumanAIGC / EMO](https://github.com/HumanAIGC/EMO) - 
+* 【2024-03-01】[SuperTux / supertux](https://github.com/SuperTux/supertux) - SuperTux source code
+* 【2024-03-01】[cbh123 / stickerbaker](https://github.com/cbh123/stickerbaker) - Let's bake some (AI) stickers!
 * 【2024-02-29】[pmndrs / uikit](https://github.com/pmndrs/uikit) - 📱 user interfaces for react-three-fiber
 * 【2024-02-29】[dockur / windows](https://github.com/dockur/windows) - Windows in a Docker container.
 * 【2024-02-29】[SciPhi-AI / R2R](https://github.com/SciPhi-AI/R2R) - A framework for rapid development and deployment of production-ready RAG systems
@@ -133,6 +137,7 @@
 
 ## Java
 
+* 【2024-03-01】[axelor / axelor-open-suite](https://github.com/axelor/axelor-open-suite) - The Axelor Open Suite based on Axelor Open Platform
 * 【2024-02-29】[Faceplugin-ltd / FacePlugin-FaceSDK-Android](https://github.com/Faceplugin-ltd/FacePlugin-FaceSDK-Android) - Face Recognition Android SDK (Face Detection, Face Landmarks, Face Liveness Detection, Face Pose, Face Expression, Eye Closeness, Age, Gender and Face Recognition)
 * 【2024-02-29】[junixapp / XPopup](https://github.com/junixapp/XPopup) - 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for Android，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom popup vi…
 * 【2024-02-28】[SuperMarioYL / trouve](https://github.com/SuperMarioYL/trouve) - trouve : A built-in integrated service discovery, service registration, and service forwarding general component for Spring projects
@@ -162,6 +167,15 @@
 
 ## Python
 
+* 【2024-03-01】[qnguyen3 / chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
+* 【2024-03-01】[NUS-HPC-AI-Lab / OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
+* 【2024-03-01】[evo-design / evo](https://github.com/evo-design/evo) - DNA foundation modeling from molecular to genome scale
+* 【2024-03-01】[pygments / pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
+* 【2024-03-01】[bruin-data / ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly.
+* 【2024-03-01】[sdv-dev / SDV](https://github.com/sdv-dev/SDV) - Synthetic data generation for tabular data
+* 【2024-03-01】[yerfor / GeneFacePlusPlus](https://github.com/yerfor/GeneFacePlusPlus) - GeneFace++: Generalized and Stable Real-Time 3D Talking Face Generation; Official Code
+* 【2024-03-01】[Sinaptik-AI / pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+* 【2024-03-01】[Steamauto / Steamauto](https://github.com/Steamauto/Steamauto) - 免费开源的网易BUFF、悠悠有品、Steam的全自动收发货解决方案
 * 【2024-02-29】[Clouditera / SecGPT](https://github.com/Clouditera/SecGPT) - SecGPT网络安全大模型
 * 【2024-02-28】[jasonyzhang / RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 * 【2024-02-28】[bjing2016 / alphaflow](https://github.com/bjing2016/alphaflow) - AlphaFold Meets Flow Matching for Generating Protein Ensembles
@@ -256,6 +270,8 @@
 
 ## Javascript
 
+* 【2024-03-01】[piercefreeman / mountaineer](https://github.com/piercefreeman/mountaineer) - Mountaineer is a batteries-included web framework for Python and React.
+* 【2024-03-01】[aws-samples / public-file-browser-for-amazon-s3](https://github.com/aws-samples/public-file-browser-for-amazon-s3) - Sample code to deploy a website and a "public files" S3 bucket which can be loaded with any files an administrator wishes to publish publicly online.
 * 【2024-02-29】[jason5ng32 / OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal) - 使用日历软件订阅美股的财报日期
 * 【2024-02-29】[polyfillpolyfill / polyfill-library](https://github.com/polyfillpolyfill/polyfill-library) - NodeJS module to create polyfill bundles tailored to individual user-agents.
 * 【2024-02-28】[bittu1040 / JavaScript-Coding-and-Notes](https://github.com/bittu1040/JavaScript-Coding-and-Notes) - You can find here all JavaScript core concept with example and basic coding challenge
@@ -314,6 +330,7 @@
 
 ## Go
 
+* 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
 * 【2024-02-27】[shraddhaag / 1brc](https://github.com/shraddhaag/1brc) - Solution to One Billion Rows Challenge in Golang.
 * 【2024-02-27】[QuilibriumNetwork / ceremonyclient](https://github.com/QuilibriumNetwork/ceremonyclient) - Mirror of Quilibrium git repo: ceremonyclient
@@ -349,6 +366,7 @@
 
 ## C
 
+* 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
 * 【2024-02-25】[nihui / ruapu](https://github.com/nihui/ruapu) - Detect CPU features with single-file
 * 【2024-02-24】[ofiwg / libfabric](https://github.com/ofiwg/libfabric) - Open Fabric Interfaces
@@ -386,6 +404,7 @@
 
 ## C++
 
+* 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-28】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
 * 【2024-02-25】[veyon / veyon](https://github.com/veyon/veyon) - Cross-platform computer monitoring and classroom management
@@ -423,6 +442,10 @@
 
 ## C#
 
+* 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
+* 【2024-03-01】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
+* 【2024-03-01】[VeritasSoftware / AspNetCore.ApiGateway](https://github.com/VeritasSoftware/AspNetCore.ApiGateway) - Asp Net Core Api Gateway Framework
+* 【2024-03-01】[dotnet-outdated / dotnet-outdated](https://github.com/dotnet-outdated/dotnet-outdated) - A .NET Core global tool to display and update outdated NuGet packages in a project
 * 【2024-02-27】[AliveverCom / WinBrowserCrawler](https://github.com/AliveverCom/WinBrowserCrawler) - 
 * 【2024-02-27】[ResetXPDR / MSFS2020_AutoFPS](https://github.com/ResetXPDR/MSFS2020_AutoFPS) - 
 * 【2024-02-27】[Nereziel / cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) - 
@@ -469,6 +492,8 @@
 
 ## Html
 
+* 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
+* 【2024-03-01】[nrxschool / bootcamp-optimism](https://github.com/nrxschool/bootcamp-optimism) - 
 * 【2024-02-29】[tensorchord / ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape) - This is a landscape of the infrastructure that powers the generative AI ecosystem
 * 【2024-02-29】[gethyas / doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
 * 【2024-02-29】[Consensys / smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
@@ -511,6 +536,7 @@
 
 ## Css
 
+* 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
 * 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
 * 【2024-02-29】[MariiaH1 / todo-app-starter](https://github.com/MariiaH1/todo-app-starter) - 
 * 【2024-02-28】[kallewoof / bitcoin-faucet](https://github.com/kallewoof/bitcoin-faucet) - Bitcoin Faucet
@@ -583,6 +609,8 @@
 
 ## Unknown
 
+* 【2024-03-01】[microsoft / Security-101](https://github.com/microsoft/Security-101) - 7 Lessons, Kick-start Your Cybersecurity Learning.
+* 【2024-03-01】[AnsonZnl / interview-nav](https://github.com/AnsonZnl/interview-nav) - 面试网站导航，收集 IT 行业各个岗位的优质面试题网站、简历编写指南。
 * 【2024-02-29】[sina-moradbakhti / hiddify-wow-config](https://github.com/sina-moradbakhti/hiddify-wow-config) - 
 * 【2024-02-29】[HFUT-CHEATER / HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection) - HFUT-Cheater-Collection 合肥工业大学作弊学生名单、行政包庇人员名单——合肥工业大学作弊封神榜
 * 【2024-02-29】[M-3LAB / awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) - Paper list and datasets for industrial image anomaly/defect detection (updating). 工业异常/瑕疵检测论文及数据集检索库(持续更新)。
