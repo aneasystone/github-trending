@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-03-03】[memorysafety / river](https://github.com/memorysafety/river) - This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 * 【2024-03-02】[cloudflare / pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 * 【2024-03-02】[kyegomez / BitNet](https://github.com/kyegomez/BitNet) - Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch
 * 【2024-03-02】[redis / ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
@@ -170,6 +171,10 @@
 
 ## Python
 
+* 【2024-03-03】[allenai / fm-cheatsheet](https://github.com/allenai/fm-cheatsheet) - Website for hosting the Open Foundation Models Cheat Sheet.
+* 【2024-03-03】[maszhongming / Multi-LoRA-Composition](https://github.com/maszhongming/Multi-LoRA-Composition) - Repository for the Paper "Multi-LoRA Composition for Image Generation"
+* 【2024-03-03】[kijai / ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR) - SUPIR upscaling wrapper for ComfyUI
+* 【2024-03-03】[pydantic / FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 * 【2024-03-02】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
 * 【2024-03-02】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
 * 【2024-03-02】[bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
@@ -278,6 +283,7 @@
 
 ## Javascript
 
+* 【2024-03-03】[ltlittlekk / OTTO](https://github.com/ltlittlekk/OTTO) - 电棍游戏
 * 【2024-03-02】[HumanAIGC / emote-portrait-alive](https://github.com/HumanAIGC/emote-portrait-alive) - 
 * 【2024-03-02】[polyfillpolyfill / fetch](https://github.com/polyfillpolyfill/fetch) - A window.fetch JavaScript polyfill.
 * 【2024-03-02】[cyu / rack-cors](https://github.com/cyu/rack-cors) - Rack Middleware for handling Cross-Origin Resource Sharing (CORS), which makes cross-origin AJAX possible.
@@ -341,6 +347,9 @@
 
 ## Go
 
+* 【2024-03-03】[jovandeginste / workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
+* 【2024-03-03】[version-fox / vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+* 【2024-03-03】[siderolabs / omni](https://github.com/siderolabs/omni) - SaaS-simple deployment of Kubernetes - on your own hardware.
 * 【2024-03-02】[runreveal / pql](https://github.com/runreveal/pql) - Pipelined Query Language
 * 【2024-03-01】[babylonchain / babylon](https://github.com/babylonchain/babylon) - Main repo for Babylon full node
 * 【2024-02-29】[ethstorage / es-node](https://github.com/ethstorage/es-node) - Golang implementation of the EthStorage node.
@@ -378,6 +387,7 @@
 
 ## C
 
+* 【2024-03-03】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
 * 【2024-03-01】[Helixo32 / CrimsonEDR](https://github.com/Helixo32/CrimsonEDR) - Simulate the behavior of AV/EDR for malware development training.
 * 【2024-02-28】[skyfloogle / red-viper](https://github.com/skyfloogle/red-viper) - A Virtual Boy emulator for the 3DS
@@ -417,6 +427,8 @@
 
 ## C++
 
+* 【2024-03-03】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
+* 【2024-03-03】[thorvg / thorvg](https://github.com/thorvg/thorvg) - Thor Vector Graphics is a lightweight portable library used for drawing vector-based scenes and animations including SVG and Lottie. It can be freely utilized across various software platforms and applications to visualize graphical contents.
 * 【2024-03-01】[Vahera / godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 * 【2024-02-28】[k2-fsa / sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift
 * 【2024-02-26】[pierotofy / OpenSplat](https://github.com/pierotofy/OpenSplat) - Free and open source 3D gaussian splatting in C++ 💦
@@ -455,6 +467,8 @@
 
 ## C#
 
+* 【2024-03-03】[microsoft / azure-openai-dev-skills-orchestrator](https://github.com/microsoft/azure-openai-dev-skills-orchestrator) - Building a set of semantic kernel skills to act as a virtual developer team
+* 【2024-03-03】[MoaidHathot / Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
 * 【2024-03-02】[OData / AspNetCoreOData](https://github.com/OData/AspNetCoreOData) - ASP.NET Core OData: A server library built upon ODataLib and ASP.NET Core
 * 【2024-03-01】[gregsdennis / json-everything](https://github.com/gregsdennis/json-everything) - System.Text.Json-based support for all of your JSON needs.
 * 【2024-03-01】[moom825 / xeno-rat](https://github.com/moom825/xeno-rat) - Xeno-RAT is an open-source remote access tool (RAT) developed in C#, providing a comprehensive set of features for remote system management. Has features such as HVNC, live microphone, reverse proxy, and much much more!
@@ -551,6 +565,10 @@
 
 ## Css
 
+* 【2024-03-03】[pinceladasdaweb / Frontend-Snippets](https://github.com/pinceladasdaweb/Frontend-Snippets) - A set of Front End Snippets for improve your development.
+* 【2024-03-03】[nurilanwaralabsory / laravel-pustik](https://github.com/nurilanwaralabsory/laravel-pustik) - 
+* 【2024-03-03】[nigelpoulton / gsd](https://github.com/nigelpoulton/gsd) - Files for Getting Started with Docker video training course
+* 【2024-03-03】[zDyanTB / HyprNova](https://github.com/zDyanTB/HyprNova) - Dot files for my Fedora with Hyprland
 * 【2024-03-02】[bluenex / baansuan_prannok](https://github.com/bluenex/baansuan_prannok) - 
 * 【2024-03-01】[diydiagnostics / DesktopTestRepository](https://github.com/diydiagnostics/DesktopTestRepository) - this is a test repository for practicing using GitHub Desktop
 * 【2024-02-29】[janily / background-erase](https://github.com/janily/background-erase) - Remove background in seconds.
@@ -625,6 +643,8 @@
 
 ## Unknown
 
+* 【2024-03-03】[lichao-sun / SoraReview](https://github.com/lichao-sun/SoraReview) - The official GitHub page for the review paper "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models".
+* 【2024-03-03】[h9-tect / Arabic_NLP_resources](https://github.com/h9-tect/Arabic_NLP_resources) - 
 * 【2024-03-02】[layerdiffusion / LayerDiffusion](https://github.com/layerdiffusion/LayerDiffusion) - Transparent Image Layer Diffusion using Latent Transparency
 * 【2024-03-02】[amusi / CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
 * 【2024-03-02】[blast-io / deployment](https://github.com/blast-io/deployment) - 
