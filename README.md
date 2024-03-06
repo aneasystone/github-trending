@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-03-06】[nikic / PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* 【2024-03-06】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 * 【2024-03-05】[marcusGoncalvess / zap-gpt](https://github.com/marcusGoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
 * 【2024-03-05】[layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
 * 【2024-03-05】[PKU-YuanGroup / Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.
@@ -154,6 +156,11 @@
 
 ## Java
 
+* 【2024-03-06】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
+* 【2024-03-06】[stanfordnlp / CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
+* 【2024-03-06】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
+* 【2024-03-06】[apache / tika](https://github.com/apache/tika) - The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF).
+* 【2024-03-06】[airbytehq / airbyte-platform](https://github.com/airbytehq/airbyte-platform) - The platform fundament of Airbyte powering all your ELT pipelines. Please file issues in https://github.com/airbytehq/airbyte
 * 【2024-03-05】[kspalaiologos / kamilalisp](https://github.com/kspalaiologos/kamilalisp) - A functional, flexible and concise Lisp.
 * 【2024-03-05】[ReVanced / revanced-integrations](https://github.com/ReVanced/revanced-integrations) - 🔩 ReVanced Integrations containing classes to be merged by ReVanced Patcher
 * 【2024-03-04】[wendy512 / stream](https://github.com/wendy512/stream) - Streaming processing framework, source, channel, sink, support mqtt, Kafka and other components
@@ -188,6 +195,10 @@
 
 ## Python
 
+* 【2024-03-06】[StavC / ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
+* 【2024-03-06】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+* 【2024-03-06】[apple / pfl-research](https://github.com/apple/pfl-research) - Simulation framework for accelerating research in Private Federated Learning
+* 【2024-03-06】[aappleby / hancho](https://github.com/aappleby/hancho) - A simple pleasant build system in Python.
 * 【2024-03-05】[kcheng1021 / GaussianPro](https://github.com/kcheng1021/GaussianPro) - 
 * 【2024-03-05】[intel / intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 * 【2024-03-04】[mini-sora / minisora](https://github.com/mini-sora/minisora) - The Mini Sora project aims to explore the implementation path and future development direction of Sora.
@@ -307,6 +318,9 @@
 
 ## Javascript
 
+* 【2024-03-06】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
+* 【2024-03-06】[panagiop / node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
+* 【2024-03-06】[nuejs / nue](https://github.com/nuejs/nue) - The Content First Web Framework
 * 【2024-03-05】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
 * 【2024-03-05】[Nomi-CEu / Nomi-CEu-Modern](https://github.com/Nomi-CEu/Nomi-CEu-Modern) - Port of Nomi-CEu to newer versions!
 * 【2024-03-05】[0xsongsu / dailytask](https://github.com/0xsongsu/dailytask) - 每日签到任务
@@ -376,6 +390,7 @@
 
 ## Go
 
+* 【2024-03-06】[benhoyt / go-1brc](https://github.com/benhoyt/go-1brc) - My Go solutions to the One Billion Row Challenge
 * 【2024-03-05】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 * 【2024-03-05】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
 * 【2024-03-04】[Calcium-Ion / new-api](https://github.com/Calcium-Ion/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
@@ -422,6 +437,8 @@
 
 ## C
 
+* 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
+* 【2024-03-06】[tomojitakasu / RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 * 【2024-03-05】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
 * 【2024-03-03】[WiringPi / WiringPi](https://github.com/WiringPi/WiringPi) - The arguably fastest GPIO Library for the Raspberry Pi
 * 【2024-03-02】[arcsysu / SYsU-lang2](https://github.com/arcsysu/SYsU-lang2) - 中山大学编译原理课程实验（完全重构版本）
@@ -463,6 +480,7 @@
 
 ## C++
 
+* 【2024-03-06】[b4rtaz / distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 * 【2024-03-05】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 * 【2024-03-04】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 * 【2024-03-03】[owasp-modsecurity / ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…
@@ -505,6 +523,8 @@
 
 ## C#
 
+* 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
+* 【2024-03-06】[Stormrider31 / Storm-Breakers](https://github.com/Stormrider31/Storm-Breakers) - An epic ocean simulation (Unity 2021+ URP)
 * 【2024-03-05】[emoisback / Helldivers-2-Hack-PoC](https://github.com/emoisback/Helldivers-2-Hack-PoC) - This is PoC that i create to learn about asm injection using C# on 64bit application / game. ( i took helldivers 2 as sample )
 * 【2024-03-03】[microsoft / azure-openai-dev-skills-orchestrator](https://github.com/microsoft/azure-openai-dev-skills-orchestrator) - Building a set of semantic kernel skills to act as a virtual developer team
 * 【2024-03-03】[MoaidHathot / Dumpify](https://github.com/MoaidHathot/Dumpify) - Adding `.Dump()` extension methods to Console Applications, similar to LinqPad's.
@@ -559,6 +579,7 @@
 
 ## Html
 
+* 【2024-03-06】[yuzu-emu / yuzu-emu.github.io](https://github.com/yuzu-emu/yuzu-emu.github.io) - Website source code
 * 【2024-03-04】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 * 【2024-03-02】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
 * 【2024-03-01】[JayZeeDesign / realtime-conversation-copilot](https://github.com/JayZeeDesign/realtime-conversation-copilot) - 
@@ -605,6 +626,9 @@
 
 ## Css
 
+* 【2024-03-06】[kaloslazo / Habu](https://github.com/kaloslazo/Habu) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
+* 【2024-03-06】[jjoao / h5i](https://github.com/jjoao/h5i) - History after 5 images
+* 【2024-03-06】[CodegirlSchool / pomodoro-timer](https://github.com/CodegirlSchool/pomodoro-timer) - Домашнее задание к модулю "Продвинутая работа с функциями"
 * 【2024-03-05】[ADORSYS-GIS / e2e-banking-app](https://github.com/ADORSYS-GIS/e2e-banking-app) - 
 * 【2024-03-05】[Zproger / bspwm-dotfiles](https://github.com/Zproger/bspwm-dotfiles) - A minimalistic Arch Linux build that is designed to make your development easier and faster
 * 【2024-03-05】[10-6-pursuit / lab-css-selectors](https://github.com/10-6-pursuit/lab-css-selectors) - 
@@ -689,6 +713,9 @@
 
 ## Unknown
 
+* 【2024-03-06】[Honei / bookshelf](https://github.com/Honei/bookshelf) - 📚 books
+* 【2024-03-06】[FuelLabs / fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM.
+* 【2024-03-06】[CS-BAOYAN / CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024) - 
 * 【2024-03-05】[ItIsMeCall911 / Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources
 * 【2024-03-05】[daveshap / David_Shapiro_Reading_List](https://github.com/daveshap/David_Shapiro_Reading_List) - Public repo of the most influential books I've read
 * 【2024-03-05】[qubic-li / client](https://github.com/qubic-li/client) - 
