@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-03-12】[rolldown / rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
+* 【2024-03-12】[gleam-lang / gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 * 【2024-03-11】[rolldown-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 * 【2024-03-11】[hatchet-dev / hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue
 * 【2024-03-11】[cuixueshe / earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
@@ -184,6 +186,8 @@
 
 ## Java
 
+* 【2024-03-12】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
+* 【2024-03-12】[mcMMO-Dev / mcMMO](https://github.com/mcMMO-Dev/mcMMO) - The RPG Lover's Mod!
 * 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
 * 【2024-03-10】[kby-ai / FaceLivenessDetection-Android](https://github.com/kby-ai/FaceLivenessDetection-Android) - This is a demo project for 3D passive face liveness detection, which is an anti-spoofing technology.
 * 【2024-03-07】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
@@ -227,6 +231,8 @@
 
 ## Python
 
+* 【2024-03-12】[SethBling / cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
+* 【2024-03-12】[mathialo / bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 * 【2024-03-11】[Yuukiy / JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 * 【2024-03-11】[datacontract / cli](https://github.com/datacontract/cli) - CLI to manage your datacontract.yaml files
 * 【2024-03-11】[magic-research / piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - 
@@ -371,6 +377,7 @@
 
 ## Javascript
 
+* 【2024-03-12】[salmanytofficial / XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
 * 【2024-03-11】[bruhbruhroblox / wallstreetlocal](https://github.com/bruhbruhroblox/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
 * 【2024-03-11】[open-ibc / ibc-app-solidity-template](https://github.com/open-ibc/ibc-app-solidity-template) - Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts
@@ -453,6 +460,7 @@
 
 ## Go
 
+* 【2024-03-12】[pwh-pwh / aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 * 【2024-03-09】[alacleaker / apple-music-alac-downloader](https://github.com/alacleaker/apple-music-alac-downloader) - Apple Music ALAC Downloader
 * 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
 * 【2024-03-07】[AndreyMashukov / go-crypto-bot](https://github.com/AndreyMashukov/go-crypto-bot) - Multithread crypto bot implemented on Golang
@@ -551,6 +559,7 @@
 
 ## C++
 
+* 【2024-03-12】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 * 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
 * 【2024-03-08】[aidanmcb1 / Citra](https://github.com/aidanmcb1/Citra) - Reupload of 3DS emulator citra because it might die with Yuzu
@@ -601,6 +610,7 @@
 
 ## C#
 
+* 【2024-03-12】[yaobus / SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 * 【2024-03-11】[MzHmO / Parasite-Invoke](https://github.com/MzHmO/Parasite-Invoke) - Hide your P/Invoke signatures through other people's signed assemblies
 * 【2024-03-11】[Exitium-DEV / HD2-Cheat-Launcher](https://github.com/Exitium-DEV/HD2-Cheat-Launcher) - 
 * 【2024-03-11】[Reloaded-Project / Reloaded-II](https://github.com/Reloaded-Project/Reloaded-II) - Next Generation Universal .NET Core Powered Mod Loader compatible with anything X86, X64.
@@ -662,6 +672,7 @@
 
 ## Html
 
+* 【2024-03-12】[mrchoke / workshop-portal](https://github.com/mrchoke/workshop-portal) - ส่งงาน
 * 【2024-03-11】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
 * 【2024-03-10】[AndrewVeee / nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
 * 【2024-03-10】[ZYYO666 / homepage](https://github.com/ZYYO666/homepage) - 我的个人主页，homepage,个人引导页,简约主页,个人导航
@@ -717,6 +728,8 @@
 
 ## Css
 
+* 【2024-03-12】[florinsdistortedvision / silverfox](https://github.com/florinsdistortedvision/silverfox) - A 2012 Chrome theme for Firefox 115ESR
+* 【2024-03-12】[Shina-SG / Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 * 【2024-03-11】[MafernandaMeneses / login](https://github.com/MafernandaMeneses/login) - practica de login
 * 【2024-03-10】[McShelby / hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) - A theme for Hugo designed for documentation
 * 【2024-03-10】[agicto / agi-proxy](https://github.com/agicto/agi-proxy) - 
@@ -812,6 +825,12 @@
 
 ## Unknown
 
+* 【2024-03-12】[nenalukic / free-datasets-APIs](https://github.com/nenalukic/free-datasets-APIs) - 
+* 【2024-03-12】[ruesandora / Polymer](https://github.com/ruesandora/Polymer) - 
+* 【2024-03-12】[ruesandora / AO](https://github.com/ruesandora/AO) - 
+* 【2024-03-12】[AttemptD / AfuseKt-release](https://github.com/AttemptD/AfuseKt-release) - 
+* 【2024-03-12】[carpedm20 / awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
+* 【2024-03-12】[yizhen20133868 / Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey) - Tracking the progress in SLU (resources, code, and new frontiers etc.)
 * 【2024-03-10】[atlassian / pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 * 【2024-03-10】[osintbrazuca / osint-brazuca](https://github.com/osintbrazuca/osint-brazuca) - Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 * 【2024-03-10】[moonbitlang / core](https://github.com/moonbitlang/core) - MoonBit's standard library
