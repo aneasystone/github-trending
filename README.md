@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-03-13】[altsem / gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+* 【2024-03-13】[elixir-lang / elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+* 【2024-03-13】[ScoopInstaller / Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
+* 【2024-03-13】[WhiteMinds / LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
 * 【2024-03-12】[rolldown / rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
 * 【2024-03-12】[gleam-lang / gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 * 【2024-03-11】[rolldown-rs / rolldown](https://github.com/rolldown-rs/rolldown) - Fast Rust bundler for JavaScript with Rollup-compatible API.
@@ -186,6 +190,7 @@
 
 ## Java
 
+* 【2024-03-13】[smartboot / smart-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
 * 【2024-03-12】[RikkaApps / Shizuku-API](https://github.com/RikkaApps/Shizuku-API) - The API and the developer guide for Shizuku and Sui.
 * 【2024-03-12】[mcMMO-Dev / mcMMO](https://github.com/mcMMO-Dev/mcMMO) - The RPG Lover's Mod!
 * 【2024-03-11】[mywalkb / LSPosed_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
@@ -231,6 +236,9 @@
 
 ## Python
 
+* 【2024-03-13】[Misaka-blog / chromego_merge](https://github.com/Misaka-blog/chromego_merge) - test
+* 【2024-03-13】[KhoomeiK / LlamaGym](https://github.com/KhoomeiK/LlamaGym) - Fine-tune LLM agents with online reinforcement learning
+* 【2024-03-13】[jackhawks / rectg](https://github.com/jackhawks/rectg) - 经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！
 * 【2024-03-12】[SethBling / cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft
 * 【2024-03-12】[mathialo / bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 * 【2024-03-11】[Yuukiy / JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
@@ -377,6 +385,9 @@
 
 ## Javascript
 
+* 【2024-03-13】[colin-scott / interactive_latencies](https://github.com/colin-scott/interactive_latencies) - Jeff Dean's latency numbers plotted over time
+* 【2024-03-13】[kby-ai / facecapture-web](https://github.com/kby-ai/facecapture-web) - This repository is the KBY-AI Face SDK JavaScript implementation to run on web front-end
+* 【2024-03-13】[thuservices / thuservices](https://github.com/thuservices/thuservices) - https://thu.services
 * 【2024-03-12】[salmanytofficial / XLICON-V3-MD](https://github.com/salmanytofficial/XLICON-V3-MD) - XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by Salman Ahamed. It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 * 【2024-03-11】[safak / react-estate-ui](https://github.com/safak/react-estate-ui) - 
 * 【2024-03-11】[bruhbruhroblox / wallstreetlocal](https://github.com/bruhbruhroblox/wallstreetlocal) - Free and open-source stock tracking website for America's biggest money managers. Democratizing SEC filings by making them more accessible and useful.
@@ -460,6 +471,9 @@
 
 ## Go
 
+* 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
+* 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
+* 【2024-03-13】[dream-mo / prom-elastic-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
 * 【2024-03-12】[pwh-pwh / aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
 * 【2024-03-09】[alacleaker / apple-music-alac-downloader](https://github.com/alacleaker/apple-music-alac-downloader) - Apple Music ALAC Downloader
 * 【2024-03-07】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
@@ -511,6 +525,8 @@
 
 ## C
 
+* 【2024-03-13】[Next-Flip / Momentum-Firmware](https://github.com/Next-Flip/Momentum-Firmware) - 🐬 Feature-rich, stable and customizable Flipper firmware
+* 【2024-03-13】[SysRay / psOff_public](https://github.com/SysRay/psOff_public) - Playstation 4 Windows Emulator
 * 【2024-03-10】[lifehackerhansol / FBI](https://github.com/lifehackerhansol/FBI) - Open source title manager for the 3DS. (Archive)
 * 【2024-03-10】[MatthewKuKanich / FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an effective tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 * 【2024-03-08】[neobrain / citra](https://github.com/neobrain/citra) - Nintendo 3DS emulator/debugger
@@ -559,6 +575,9 @@
 
 ## C++
 
+* 【2024-03-13】[suyu-emu / suyu](https://github.com/suyu-emu/suyu) - suyu, pronounced "sue-you" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
+* 【2024-03-13】[TrenchBroom / TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor
+* 【2024-03-13】[zama-ai / concrete](https://github.com/zama-ai/concrete) - Concrete: TFHE Compiler that converts python programs into FHE equivalent
 * 【2024-03-12】[fxsound2 / fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 * 【2024-03-10】[sudachi-emu / sudachi](https://github.com/sudachi-emu/sudachi) - 
 * 【2024-03-08】[yuzu-mirror / yuzu-mainline](https://github.com/yuzu-mirror/yuzu-mainline) - (unofficial mirror fork)
@@ -610,6 +629,8 @@
 
 ## C#
 
+* 【2024-03-13】[leftp / BackupCreds](https://github.com/leftp/BackupCreds) - A C# implementation of dumping credentials from Windows Credential Manager
+* 【2024-03-13】[lasgauti / AncientMonkey](https://github.com/lasgauti/AncientMonkey) - 
 * 【2024-03-12】[yaobus / SIPAM](https://github.com/yaobus/SIPAM) - IP地址分配管理系统
 * 【2024-03-11】[MzHmO / Parasite-Invoke](https://github.com/MzHmO/Parasite-Invoke) - Hide your P/Invoke signatures through other people's signed assemblies
 * 【2024-03-11】[Exitium-DEV / HD2-Cheat-Launcher](https://github.com/Exitium-DEV/HD2-Cheat-Launcher) - 
@@ -672,6 +693,8 @@
 
 ## Html
 
+* 【2024-03-13】[xz / new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
+* 【2024-03-13】[Tailus-UI / ada-html](https://github.com/Tailus-UI/ada-html) - Modern html landing page built with tailus themer
 * 【2024-03-12】[mrchoke / workshop-portal](https://github.com/mrchoke/workshop-portal) - ส่งงาน
 * 【2024-03-11】[BugBearer / GPT-INT](https://github.com/BugBearer/GPT-INT) - An extension for Visual Studio Code that integrates the power of OpenAI's GPT models into VSCode.
 * 【2024-03-10】[AndrewVeee / nucleo-ai](https://github.com/AndrewVeee/nucleo-ai) - An AI assistant beyond the chat box.
@@ -728,6 +751,11 @@
 
 ## Css
 
+* 【2024-03-13】[BingyanStudio / LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Obsidian / Typora 简历
+* 【2024-03-13】[TheBridge-FullStackDeveloper / ejercicio-useState](https://github.com/TheBridge-FullStackDeveloper/ejercicio-useState) - 
+* 【2024-03-13】[Web-programming-4022 / css-Gaming-website](https://github.com/Web-programming-4022/css-Gaming-website) - Second practice - including CSS attributes.
+* 【2024-03-13】[Chimoney / Community-Website](https://github.com/Chimoney/Community-Website) - Chimoney Community Website
+* 【2024-03-13】[PolarExpress / marketplace-frontend](https://github.com/PolarExpress/marketplace-frontend) - 
 * 【2024-03-12】[florinsdistortedvision / silverfox](https://github.com/florinsdistortedvision/silverfox) - A 2012 Chrome theme for Firefox 115ESR
 * 【2024-03-12】[Shina-SG / Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 * 【2024-03-11】[MafernandaMeneses / login](https://github.com/MafernandaMeneses/login) - practica de login
@@ -825,6 +853,10 @@
 
 ## Unknown
 
+* 【2024-03-13】[shashankrustagi / DSA-IITD-NaveenGarg](https://github.com/shashankrustagi/DSA-IITD-NaveenGarg) - DSA notes of Dr Naveen Garg, IIT Delhi, NPTEL
+* 【2024-03-13】[pilcrowOnPaper / copenhagen](https://github.com/pilcrowOnPaper/copenhagen) - A basic guideline on implementing auth for the web
+* 【2024-03-13】[PixArt-alpha / PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - New PixArt Model, Faster, Stronger, Better
+* 【2024-03-13】[kby-ai / IDCardRecognition-Android](https://github.com/kby-ai/IDCardRecognition-Android) - ID card recognition Android
 * 【2024-03-12】[nenalukic / free-datasets-APIs](https://github.com/nenalukic/free-datasets-APIs) - 
 * 【2024-03-12】[ruesandora / Polymer](https://github.com/ruesandora/Polymer) - 
 * 【2024-03-12】[ruesandora / AO](https://github.com/ruesandora/AO) - 
