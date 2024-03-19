@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-03-19】[openai / grok](https://github.com/openai/grok) - 
+* 【2024-03-19】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
+* 【2024-03-19】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
+* 【2024-03-19】[OpenDevin / OpenDevin](https://github.com/OpenDevin/OpenDevin) - 
 * 【2024-03-18】[amazon-science / chronos-forecasting](https://github.com/amazon-science/chronos-forecasting) - Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 * 【2024-03-18】[AntonioErdeljac / next14-duolingo-clone](https://github.com/AntonioErdeljac/next14-duolingo-clone) - 
 * 【2024-03-18】[StefanTheCode / dotnet_interview_questions](https://github.com/StefanTheCode/dotnet_interview_questions) - 
@@ -214,6 +218,7 @@
 
 ## Java
 
+* 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
 * 【2024-03-18】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-18】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
 * 【2024-03-18】[crate / crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
@@ -266,6 +271,9 @@
 
 ## Python
 
+* 【2024-03-19】[yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
+* 【2024-03-19】[almandin / fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
+* 【2024-03-19】[CognitionAI / devin-swebench-results](https://github.com/CognitionAI/devin-swebench-results) - Cognition's results and methodology on SWE-bench
 * 【2024-03-18】[philz1337x / clarity-upscaler](https://github.com/philz1337x/clarity-upscaler) - 
 * 【2024-03-18】[fofr / cog-face-to-many](https://github.com/fofr/cog-face-to-many) - Turn any face into a video game character, pixel art, claymation, 3D or toy
 * 【2024-03-17】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
@@ -430,6 +438,8 @@
 
 ## Javascript
 
+* 【2024-03-19】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
+* 【2024-03-19】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
 * 【2024-03-18】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
 * 【2024-03-18】[solotop999 / auto_trade_backpack_exchange](https://github.com/solotop999/auto_trade_backpack_exchange) - auto_trade on Backpack exchange typescript
 * 【2024-03-17】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
@@ -586,6 +596,7 @@
 
 ## C
 
+* 【2024-03-19】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-18】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 * 【2024-03-15】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
 * 【2024-03-14】[EpicGamesExt / raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
@@ -702,6 +713,7 @@
 
 ## C#
 
+* 【2024-03-19】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-18】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
 * 【2024-03-16】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
 * 【2024-03-16】[oleg-shilo / wixsharp](https://github.com/oleg-shilo/wixsharp) - Framework for building a complete MSI or WiX source code by using script files written with C# syntax.
@@ -774,6 +786,8 @@
 
 ## Html
 
+* 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
+* 【2024-03-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 * 【2024-03-18】[iOS17 / Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates
 * 【2024-03-17】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2024-03-15】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
@@ -838,6 +852,9 @@
 
 ## Css
 
+* 【2024-03-19】[beeper / themes](https://github.com/beeper/themes) - Community Themes
+* 【2024-03-19】[Abhishekyadav450 / CipherGuard](https://github.com/Abhishekyadav450/CipherGuard) - 
+* 【2024-03-19】[Phillip-England / templ-quickstart](https://github.com/Phillip-England/templ-quickstart) - Scaffold an http server using Go, HTMX, Templ, and Tailwind quick and easy.
 * 【2024-03-18】[adityanavgurukul / clothing-ecommerce-group2](https://github.com/adityanavgurukul/clothing-ecommerce-group2) - 
 * 【2024-03-18】[neu-info7500-spring-04 / bitcoin-explorer](https://github.com/neu-info7500-spring-04/bitcoin-explorer) - 
 * 【2024-03-18】[eillarra / countertest](https://github.com/eillarra/countertest) - 
@@ -959,6 +976,9 @@
 
 ## Unknown
 
+* 【2024-03-19】[Deeksha2501 / Data-Structures-and-Algorithms-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
+* 【2024-03-19】[crisbusquets / aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui) - Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
+* 【2024-03-19】[laylavish / uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 * 【2024-03-18】[maximal / http-267](https://github.com/maximal/http-267) - HTTP 267 Doubtful But Okay
 * 【2024-03-18】[ihmily / ip-info-api](https://github.com/ihmily/ip-info-api) - Free IP information query APIs / 免费IP信息查询API接口
 * 【2024-03-18】[mayuelala / FollowYourClick](https://github.com/mayuelala/FollowYourClick) - [arXiv 2024] Follow-Your-Click: This repo is the official implementation of "Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts"
