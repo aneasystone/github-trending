@@ -8,6 +8,12 @@
 
 ## All language
 
+* 【2024-03-21】[discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
+* 【2024-03-21】[TheMMC / In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) - Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel
+* 【2024-03-21】[xyflow / xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+* 【2024-03-21】[nf-core / modules](https://github.com/nf-core/modules) - Repository to host tool-specific module files for the Nextflow DSL2 community!
+* 【2024-03-21】[zylon-ai / private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+* 【2024-03-21】[Azure-Samples / contoso-chat](https://github.com/Azure-Samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.
 * 【2024-03-20】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
 * 【2024-03-20】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 * 【2024-03-20】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -222,6 +228,7 @@
 
 ## Java
 
+* 【2024-03-21】[01-ai / Descartes](https://github.com/01-ai/Descartes) - 
 * 【2024-03-20】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
 * 【2024-03-20】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
 * 【2024-03-19】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
@@ -444,6 +451,10 @@
 
 ## Javascript
 
+* 【2024-03-21】[Hyizhou1 / Tg_SuperSerch](https://github.com/Hyizhou1/Tg_SuperSerch) - 关于 TG索引机器人，telegram中文搜索群组，telegram超级索引源码，tg中文搜索，群组收录，tg搜索机器人https://t.me/spuerserch
+* 【2024-03-21】[ButzYung / SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
+* 【2024-03-21】[darkroomengineering / lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
+* 【2024-03-21】[coreui / coreui-free-react-admin-template](https://github.com/coreui/coreui-free-react-admin-template) - CoreUI React is a free React admin template based on Bootstrap 5
 * 【2024-03-20】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
 * 【2024-03-20】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
 * 【2024-03-20】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -543,6 +554,7 @@
 
 ## Go
 
+* 【2024-03-21】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 * 【2024-03-18】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
 * 【2024-03-18】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
 * 【2024-03-18】[SleepingBag945 / dddd](https://github.com/SleepingBag945/dddd) - 一款高可拓展的指纹识别、供应链漏洞探测工具。支持从Hunter、Fofa批量拉取目标。
@@ -606,6 +618,9 @@
 
 ## C
 
+* 【2024-03-21】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
+* 【2024-03-21】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
+* 【2024-03-21】[dibyendumajumdar / ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
 * 【2024-03-20】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
 * 【2024-03-20】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 * 【2024-03-20】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
@@ -665,6 +680,7 @@
 
 ## C++
 
+* 【2024-03-21】[ros-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 * 【2024-03-20】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-18】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-17】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
@@ -728,6 +744,7 @@
 
 ## C#
 
+* 【2024-03-21】[microsoft / garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 * 【2024-03-20】[falseeeeeeeeee / ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
 * 【2024-03-19】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-18】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
@@ -802,6 +819,8 @@
 
 ## Html
 
+* 【2024-03-21】[teenboyring / Listonline](https://github.com/teenboyring/Listonline) - 
+* 【2024-03-21】[bradtraversy / react-crash-2024](https://github.com/bradtraversy/react-crash-2024) - React jobs project from YouTube crash course
 * 【2024-03-20】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
 * 【2024-03-19】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
 * 【2024-03-19】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
@@ -869,6 +888,10 @@
 
 ## Css
 
+* 【2024-03-21】[aprxi / letsbuild-ai](https://github.com/aprxi/letsbuild-ai) - Community-driven platform dedicated to sharing resources, tools, and knowledge for AI enthusiasts and developers
+* 【2024-03-21】[TheBridge-FullStackDeveloper / react-poke](https://github.com/TheBridge-FullStackDeveloper/react-poke) - 
+* 【2024-03-21】[edouard-gv / ue22-p23-web-calculator](https://github.com/edouard-gv/ue22-p23-web-calculator) - 
+* 【2024-03-21】[narasimhareddyprostack / March-FS-5](https://github.com/narasimhareddyprostack/March-FS-5) - HTML,CSS,JS, React Js, Java, Java 8 , JDBC, JSP, Hibernate, Spring Boot, MS, MYSQL, Mongo DB, Project
 * 【2024-03-20】[Saivenkat2005 / https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject](https://github.com/Saivenkat2005/https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[gathpadeepak / ZeroOneCodeClub_FirstWebDevProject](https://github.com/gathpadeepak/ZeroOneCodeClub_FirstWebDevProject) - 
 * 【2024-03-20】[adityanavgurukul / weather-app-group4](https://github.com/adityanavgurukul/weather-app-group4) - 
@@ -997,6 +1020,10 @@
 
 ## Unknown
 
+* 【2024-03-21】[dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
+* 【2024-03-21】[mims-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
+* 【2024-03-21】[Coder-World04 / Complete-Machine-Learning-](https://github.com/Coder-World04/Complete-Machine-Learning-) - This repository contains everything you need to become proficient in Machine Learning
+* 【2024-03-21】[lintstar / CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) - 基于 OPSEC 的 CobaltStrike 后渗透自动化链
 * 【2024-03-19】[Deeksha2501 / Data-Structures-and-Algorithms-Notes](https://github.com/Deeksha2501/Data-Structures-and-Algorithms-Notes) - It contains all the data structures and computer fundamentals notes I made while preparing for placements.
 * 【2024-03-19】[crisbusquets / aprende-diseno-uxui](https://github.com/crisbusquets/aprende-diseno-uxui) - Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
 * 【2024-03-19】[laylavish / uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
