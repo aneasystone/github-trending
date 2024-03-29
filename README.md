@@ -8,6 +8,13 @@
 
 ## All language
 
+* 【2024-03-29】[fudan-generative-vision / champ](https://github.com/fudan-generative-vision/champ) - Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance
+* 【2024-03-29】[langchain-ai / langchain-extract](https://github.com/langchain-ai/langchain-extract) - 🦜⛏️ Did you say you like data?
+* 【2024-03-29】[AlexanderKoch-Koch / low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
+* 【2024-03-29】[txstc55 / ugly-avatar](https://github.com/txstc55/ugly-avatar) - 
+* 【2024-03-29】[cnlohr / lolra](https://github.com/cnlohr/lolra) - Transmit LoRa Frames Without a Radio
+* 【2024-03-29】[antonbabenko / pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - pre-commit git hooks to take care of Terraform configurations 🇺🇦
+* 【2024-03-29】[chenzomi12 / AISystem](https://github.com/chenzomi12/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2024-03-27】[semanser / codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
 * 【2024-03-27】[olegos2 / mobox](https://github.com/olegos2/mobox) - 
 * 【2024-03-27】[FoundationVision / GLEE](https://github.com/FoundationVision/GLEE) - 【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale
@@ -254,6 +261,8 @@
 
 ## Java
 
+* 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
+* 【2024-03-29】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
 * 【2024-03-27】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
 * 【2024-03-27】[algorithmzuo / algorithm-journey](https://github.com/algorithmzuo/algorithm-journey) - 算法通关课的代码和课件
 * 【2024-03-25】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
@@ -313,6 +322,13 @@
 
 ## Python
 
+* 【2024-03-29】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
+* 【2024-03-29】[intel-analytics / ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.
+* 【2024-03-29】[thinkany-ai / rag-search](https://github.com/thinkany-ai/rag-search) - RAG Search API
+* 【2024-03-29】[yihong0618 / SunoSongsCreator](https://github.com/yihong0618/SunoSongsCreator) - About High quality songs generation by https://www.suno.ai/. Reverse engineered API.
+* 【2024-03-29】[dyang886 / Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage game cheats for your convenience
+* 【2024-03-29】[3150601355 / pic_hide_barcode](https://github.com/3150601355/pic_hide_barcode) - hide barcode in a picture. 在一张普通图片里隐藏二维码，可以被微信识别。这个代码谁都可以用，唯独有一个人不给用，抖X上有个叫“大神开发”的营销号，先后盗了我十几个原创视频，我从未见过如此厚颜无耻之人！
+* 【2024-03-29】[emcf / thepipe](https://github.com/emcf/thepipe) - Export any file, folder, or website into GPT-4-Vision in one line of code ⚡
 * 【2024-03-27】[donydchen / mvsplat](https://github.com/donydchen/mvsplat) - 🌊[arXiv'24] MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images
 * 【2024-03-26】[prometeydev / Prometheus](https://github.com/prometeydev/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
 * 【2024-03-26】[geohot / 7900xtx](https://github.com/geohot/7900xtx) - 
@@ -492,6 +508,7 @@
 
 ## Javascript
 
+* 【2024-03-29】[danni-cool / wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - http 请求驱动的微信机器人
 * 【2024-03-27】[hrishioa / lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 * 【2024-03-27】[sahir2k / twitter_face_swap](https://github.com/sahir2k/twitter_face_swap) - 
 * 【2024-03-26】[xiaopanglian / icefox](https://github.com/xiaopanglian/icefox) - Typecho微信朋友圈主题 icefox
@@ -609,6 +626,7 @@
 
 ## Go
 
+* 【2024-03-29】[charmbracelet / freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 * 【2024-03-26】[cortezaproject / corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 * 【2024-03-26】[wendy512 / iec104](https://github.com/wendy512/iec104) - GoLang IEC104 library
 * 【2024-03-26】[refaktor / rye](https://github.com/refaktor/rye) - homoiconic dynamic programming language with some new ideas
@@ -681,6 +699,8 @@
 
 ## C
 
+* 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
+* 【2024-03-29】[Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
 * 【2024-03-27】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 * 【2024-03-27】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
 * 【2024-03-27】[web3ToolBoxDev / toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient) - 一步一步编写web3工具——Step-by-Step Development of Web3 Tools
@@ -908,6 +928,8 @@
 
 ## Html
 
+* 【2024-03-29】[Winnie09 / GPTCelltype](https://github.com/Winnie09/GPTCelltype) - 
+* 【2024-03-29】[arcba / DDS-Ejercicio-Matriculacion](https://github.com/arcba/DDS-Ejercicio-Matriculacion) - Created with StackBlitz ⚡️
 * 【2024-03-27】[LeoDJ / FW-EC-DongleHiderPlus](https://github.com/LeoDJ/FW-EC-DongleHiderPlus) - Framework Expansion Card that includes a USB hub to hide a bare dongle inside and still have a USB-A port externally
 * 【2024-03-27】[0-RTT / telegraph](https://github.com/0-RTT/telegraph) - 基于telegraph的图床，图片大于5MB自动压缩
 * 【2024-03-27】[badd1e / Pwn](https://github.com/badd1e/Pwn) - Advanced exploits that I wrote for Pwn2Own competitions and other occasions
@@ -988,6 +1010,8 @@
 
 ## Css
 
+* 【2024-03-29】[a9fm / a9fm.github.io](https://github.com/a9fm/a9fm.github.io) - 
+* 【2024-03-29】[prs-teacher / LayoutParts-Part2](https://github.com/prs-teacher/LayoutParts-Part2) - 
 * 【2024-03-27】[phamvulinh18 / thutinh](https://github.com/phamvulinh18/thutinh) - 
 * 【2024-03-26】[Chotifz / Hotel-harisenin](https://github.com/Chotifz/Hotel-harisenin) - 
 * 【2024-03-26】[lindsaymarkward / theadviceshop](https://github.com/lindsaymarkward/theadviceshop) - The Advice Shop Website (Example PHP Site for IT@JCU)
@@ -1131,6 +1155,13 @@
 
 ## Unknown
 
+* 【2024-03-29】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
+* 【2024-03-29】[chenyl8848 / great-open-source-project](https://github.com/chenyl8848/great-open-source-project) - 收集整理Github、Gitte上优秀的开源项目。
+* 【2024-03-29】[jeinlee1991 / chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+* 【2024-03-29】[robotze / GithubDesktopZhTool](https://github.com/robotze/GithubDesktopZhTool) - Github Desktop 汉化工具 支持 Windows Mac Linux
+* 【2024-03-29】[Z4ee / Pipsi-SR-Releases](https://github.com/Z4ee/Pipsi-SR-Releases) - 
+* 【2024-03-29】[DevSwanson / how-to-create-memetoken-memecoin](https://github.com/DevSwanson/how-to-create-memetoken-memecoin) - Create your own memecoin with full step by step tutorials
+* 【2024-03-29】[IIIImmmyyy / frida-il2cppDumper](https://github.com/IIIImmmyyy/frida-il2cppDumper) - Riru Il2cppDumper 加强版 内存里直接dump出源码信息
 * 【2024-03-26】[ezerear / gog-games.to_backup](https://github.com/ezerear/gog-games.to_backup) - gog-games.to games backup
 * 【2024-03-26】[rynnxz / programming-module](https://github.com/rynnxz/programming-module) - 
 * 【2024-03-26】[devsarwan / Adobe-Premiere-Pro](https://github.com/devsarwan/Adobe-Premiere-Pro) - 
