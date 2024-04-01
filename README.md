@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-04-01】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 * 【2024-03-31】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 * 【2024-03-31】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
 * 【2024-03-31】[folke / trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -270,6 +271,7 @@
 
 ## Java
 
+* 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
 * 【2024-03-31】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
 * 【2024-03-31】[apache / incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 * 【2024-03-29】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
@@ -333,6 +335,9 @@
 
 ## Python
 
+* 【2024-04-01】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
+* 【2024-04-01】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
+* 【2024-04-01】[MsLolita / grass](https://github.com/MsLolita/grass) - grass-mining
 * 【2024-03-31】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 * 【2024-03-30】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
 * 【2024-03-30】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
@@ -522,6 +527,9 @@
 
 ## Javascript
 
+* 【2024-04-01】[eduardoleao052 / js-torch](https://github.com/eduardoleao052/js-torch) - A JavaScript library like PyTorch, built from scratch.
+* 【2024-04-01】[justimyhxu / GRM](https://github.com/justimyhxu/GRM) - Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation
+* 【2024-04-01】[anticensority / runet-censorship-bypass](https://github.com/anticensority/runet-censorship-bypass) - Chromium extension for bypassing censorship in Russia
 * 【2024-03-31】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
 * 【2024-03-31】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
 * 【2024-03-31】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
@@ -648,6 +656,8 @@
 
 ## Go
 
+* 【2024-04-01】[pojntfx / weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+* 【2024-04-01】[plandex-ai / plandex](https://github.com/plandex-ai/plandex) - An AI coding engine for complex tasks
 * 【2024-03-31】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 * 【2024-03-31】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
 * 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
@@ -724,6 +734,8 @@
 
 ## C
 
+* 【2024-04-01】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
+* 【2024-04-01】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-30】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
 * 【2024-03-30】[Circuit-Digest / ESP-Drone](https://github.com/Circuit-Digest/ESP-Drone) - 
 * 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
@@ -798,6 +810,9 @@
 
 ## C++
 
+* 【2024-04-01】[Taiga74164 / SLA-Cheeto](https://github.com/Taiga74164/SLA-Cheeto) - Solo Leveling:ARISE cheat using DLL Proxying
+* 【2024-04-01】[myscale / myscaledb](https://github.com/myscale/myscaledb) - An open-source, high-performance SQL vector database built on ClickHouse.
+* 【2024-04-01】[kasmtech / KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
 * 【2024-03-27】[liu-yi / HTLP](https://github.com/liu-yi/HTLP) - Homomorphic Time-Lock Puzzle Schemes
 * 【2024-03-26】[hyprwm / hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 * 【2024-03-24】[Daiyouqi / Convenience_QThread](https://github.com/Daiyouqi/Convenience_QThread) - 在c++/qt中使用c#的async/await语法糖
@@ -867,6 +882,7 @@
 
 ## C#
 
+* 【2024-04-01】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-26】[vercidium-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
 * 【2024-03-26】[yaobus / EducationalAdministrationManagementSystem](https://github.com/yaobus/EducationalAdministrationManagementSystem) - 教务管理系统（毕业论文实例）
 * 【2024-03-26】[aedenthorn / StardewValleyMods](https://github.com/aedenthorn/StardewValleyMods) - 
@@ -955,6 +971,8 @@
 
 ## Html
 
+* 【2024-04-01】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
+* 【2024-04-01】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-31】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
 * 【2024-03-30】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 * 【2024-03-30】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -1040,6 +1058,8 @@
 
 ## Css
 
+* 【2024-04-01】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
+* 【2024-04-01】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 * 【2024-03-31】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
 * 【2024-03-30】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 * 【2024-03-29】[a9fm / a9fm.github.io](https://github.com/a9fm/a9fm.github.io) - 
@@ -1187,6 +1207,11 @@
 
 ## Unknown
 
+* 【2024-04-01】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
+* 【2024-04-01】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
+* 【2024-04-01】[BINANCECONTRACT / How-to-Create-BEP20-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
+* 【2024-04-01】[ashemery / malware-tools](https://github.com/ashemery/malware-tools) - A list of useful tools for Malware Analysis (will be updated regularly)
+* 【2024-04-01】[BINANCECONTRACT / Create-BEP20-Meme-Token](https://github.com/BINANCECONTRACT/Create-BEP20-Meme-Token) - Step to Step Guide for how to create meme token in bsc/bep20.
 * 【2024-03-31】[soufianetahiri / TeamsNTLMLeak](https://github.com/soufianetahiri/TeamsNTLMLeak) - Leak NTLM via Website tab in teams via MS Office
 * 【2024-03-31】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
 * 【2024-03-31】[DefTruth / Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
