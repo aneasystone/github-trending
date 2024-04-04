@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-04-04】[amlweems / xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+* 【2024-04-04】[zyronon / douyin](https://github.com/zyronon/douyin) - TikTok 抖音 Vue.js
+* 【2024-04-04】[infiniflow / ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+* 【2024-04-04】[huggingface / cookbook](https://github.com/huggingface/cookbook) - Open-source AI cookbook
+* 【2024-04-04】[Anankke / SSPanel-UIM](https://github.com/Anankke/SSPanel-UIM) - Multi-purpose proxy service management system
 * 【2024-04-03】[dvlab-research / MiniGemini](https://github.com/dvlab-research/MiniGemini) - Official implementation for Mini-Gemini
 * 【2024-04-03】[city-super / Octree-GS](https://github.com/city-super/Octree-GS) - Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians
 * 【2024-04-02】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
@@ -275,6 +280,7 @@
 
 ## Java
 
+* 【2024-04-04】[apache / cxf](https://github.com/apache/cxf) - Apache CXF
 * 【2024-04-03】[preslavmihaylov / booknotes](https://github.com/preslavmihaylov/booknotes) - A collection of my book notes on various subjects, mainly computer science
 * 【2024-04-03】[siavash79 / PixelXpert](https://github.com/siavash79/PixelXpert) - mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+
 * 【2024-04-01】[RikkaApps / Sui](https://github.com/RikkaApps/Sui) - Modern super user interface implementation on Android.
@@ -341,6 +347,8 @@
 
 ## Python
 
+* 【2024-04-04】[X-PLUG / mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
+* 【2024-04-04】[shuxiang / MT-WMS](https://github.com/shuxiang/MT-WMS) - MT-WMS 是开源的支持多仓多货主(multi warehouses, mulit owners)的WMS(仓储管理系统) 遵循Apache License 2.0协议
 * 【2024-04-03】[apocas / restai](https://github.com/apocas/restai) - RestAI is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex, Ollama and HF Pipelines. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama. Precise embeddings usage and tuning.
 * 【2024-04-03】[tamilselvanarjun / quantmodels](https://github.com/tamilselvanarjun/quantmodels) - FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.
 * 【2024-04-03】[tamilselvanarjun / knapsack_algorithm](https://github.com/tamilselvanarjun/knapsack_algorithm) - A simple implementation of the Knapsack problem using dynamic programming.
@@ -755,6 +763,10 @@
 
 ## C
 
+* 【2024-04-04】[IchigoJam / ichigojam-firm](https://github.com/IchigoJam/ichigojam-firm) - 
+* 【2024-04-04】[Cipher7 / ChaiLdr](https://github.com/Cipher7/ChaiLdr) - AV bypass while you sip your Chai!
+* 【2024-04-04】[kyxiaxiang / Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) - not a reverse-engineered version of the Cobalt Strike Beacon
+* 【2024-04-04】[hamarituc / xz-backdoor](https://github.com/hamarituc/xz-backdoor) - 
 * 【2024-04-03】[xz-mirror / xz](https://github.com/xz-mirror/xz) - See https://github.com/tukaani-project/xz for the official repository
 * 【2024-04-03】[buserror / libmui](https://github.com/buserror/libmui) - Classic MacOS & GS/OS widget library for linux (and other?)
 * 【2024-04-02】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
@@ -999,6 +1011,9 @@
 
 ## Html
 
+* 【2024-04-04】[aeonaxy-official / ReactTailwindBoilerplate](https://github.com/aeonaxy-official/ReactTailwindBoilerplate) - 
+* 【2024-04-04】[jgrahamc / gmsl](https://github.com/jgrahamc/gmsl) - GNU Make Standard Library
+* 【2024-04-04】[wessamabdelwahab / CSCC1030](https://github.com/wessamabdelwahab/CSCC1030) - 
 * 【2024-04-03】[rod-trent / Copilot-for-Security](https://github.com/rod-trent/Copilot-for-Security) - 
 * 【2024-04-03】[jaiswaladi246 / Boardgame](https://github.com/jaiswaladi246/Boardgame) - 
 * 【2024-04-03】[virtualmin / virtualmin-gpl](https://github.com/virtualmin/virtualmin-gpl) - Virtualmin web hosting control panel for Webmin
@@ -1090,6 +1105,12 @@
 
 ## Css
 
+* 【2024-04-04】[MuhammeDTayyiP / Nevammm](https://github.com/MuhammeDTayyiP/Nevammm) - Be Invisible for many games!
+* 【2024-04-04】[ahmadhabibi14 / dotfile](https://github.com/ahmadhabibi14/dotfile) - My linux desktop configuration
+* 【2024-04-04】[CodeSpace-Academy / Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07](https://github.com/CodeSpace-Academy/Module_7_StudentNo_Classcode_Group_Name-Surname_JSL07) - 
+* 【2024-04-04】[10-5-pursuit / API-Calls-with-Fetch](https://github.com/10-5-pursuit/API-Calls-with-Fetch) - 
+* 【2024-04-04】[TheBridge-FullStackDeveloper / usecontextChallenge](https://github.com/TheBridge-FullStackDeveloper/usecontextChallenge) - 
+* 【2024-04-04】[PrimeAcademy / javascript-fungus-fighter](https://github.com/PrimeAcademy/javascript-fungus-fighter) - 
 * 【2024-04-03】[Bytedesk / bytedesk](https://github.com/Bytedesk/bytedesk) - open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书
 * 【2024-04-03】[TheBridge-FullStackDeveloper / props](https://github.com/TheBridge-FullStackDeveloper/props) - 
 * 【2024-04-03】[fredemmott / StreamDeck-Discord](https://github.com/fredemmott/StreamDeck-Discord) - Control the Discord application with the Elgato StreamDeck
@@ -1245,6 +1266,11 @@
 
 ## Unknown
 
+* 【2024-04-04】[bbolker / gLLMglnlmvlvMMM](https://github.com/bbolker/gLLMglnlmvlvMMM) - a generative Large Language Model for generalized linear and nonlinear multivariate latent-variable multilevel/mixed modelling
+* 【2024-04-04】[coinbase / solidity-style-guide](https://github.com/coinbase/solidity-style-guide) - 
+* 【2024-04-04】[nera-nikolayeva / r-six-s](https://github.com/nera-nikolayeva/r-six-s) - PASS - 1234
+* 【2024-04-04】[ShawMerlin / NES-Slotmaster](https://github.com/ShawMerlin/NES-Slotmaster) - A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
+* 【2024-04-04】[YN3011140075 / our-flutter-template-vnc](https://github.com/YN3011140075/our-flutter-template-vnc) - 
 * 【2024-04-03】[xiaoxinxing66 / Sivan_Cache](https://github.com/xiaoxinxing66/Sivan_Cache) - 🚀 推出 SivanCacheFramework！一款轻量级、高效的 缓存框架，让 缓存操作 变得不再复杂，提升数据处理速度，为开发者节约宝贵时间。
 * 【2024-04-03】[SwiftGGTeam / letsvisionos24-files](https://github.com/SwiftGGTeam/letsvisionos24-files) - 
 * 【2024-04-03】[sbwml / TrollStore_zh_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - TrollStore 简体/繁体中文
