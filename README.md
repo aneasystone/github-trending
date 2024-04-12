@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-04-12】[nus-apr / auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
+* 【2024-04-12】[tidwall / neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines)
+* 【2024-04-12】[code100x / cms](https://github.com/code100x/cms) - 
 * 【2024-04-11】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 * 【2024-04-11】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
 * 【2024-04-11】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
@@ -377,6 +380,7 @@
 
 ## Python
 
+* 【2024-04-12】[aixcoder-plugin / aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 * 【2024-04-11】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 * 【2024-04-11】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
 * 【2024-04-11】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
@@ -751,6 +755,7 @@
 
 ## Go
 
+* 【2024-04-12】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-11】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-07】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-06】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -931,6 +936,7 @@
 
 ## C++
 
+* 【2024-04-12】[Kitware / VTK](https://github.com/Kitware/VTK) - Mirror of Visualization Toolkit repository
 * 【2024-04-11】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-09】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-09】[PacktPublishing / C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
@@ -1012,6 +1018,8 @@
 
 ## C#
 
+* 【2024-04-12】[kwsch / ItemPrinterDeGacha](https://github.com/kwsch/ItemPrinterDeGacha) - Calculation tool for Scarlet/Violet's Item Printer
+* 【2024-04-12】[builtbybel / Winpilot](https://github.com/builtbybel/Winpilot) - Your everyday Windows companion
 * 【2024-04-11】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
 * 【2024-04-11】[amantinband / error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
 * 【2024-04-10】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand-crafting Minidump files (without MinidumpWriteDump!)
@@ -1113,6 +1121,7 @@
 
 ## Html
 
+* 【2024-04-12】[WuSuoV / YioveGetIP](https://github.com/WuSuoV/YioveGetIP) - 实时获取当前 IP 地址，支持多线路，包括中国移动、中国联通、中国电信、海外线路，以及访问谷歌等特殊网站。
 * 【2024-04-11】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
 * 【2024-04-11】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 * 【2024-04-11】[alura-challenges / challenge-one-portfolio-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
@@ -1222,6 +1231,8 @@
 
 ## Css
 
+* 【2024-04-12】[BethMassi / HybridSharedUI](https://github.com/BethMassi/HybridSharedUI) - This is an example of a starter solution that sets up a MAUI hybrid app and a Blazor web app that shares all of its UI
+* 【2024-04-12】[open-webui / docs](https://github.com/open-webui/docs) - 
 * 【2024-04-11】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
 * 【2024-04-11】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
 * 【2024-04-11】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
@@ -1407,6 +1418,8 @@
 
 ## Unknown
 
+* 【2024-04-12】[zhuima / awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。
+* 【2024-04-12】[ga642381 / speech-trident](https://github.com/ga642381/speech-trident) - Awesome speech/audio LLMs, representation learning, and codec models
 * 【2024-04-11】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
 * 【2024-04-11】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
 * 【2024-04-10】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
