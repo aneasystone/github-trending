@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-04-17】[skydoves / pokedex-compose](https://github.com/skydoves/pokedex-compose) - 🗡️ Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+* 【2024-04-17】[intuitem / ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is an open-source one-stop-shop for GRC - Risk and Audit Management supporting multiple standards: NIST CSF, ISO 27001, NIS2, SOC2, PCI DSS, CMMC, PSPF, GDPR, HIPAA, Essential Eight, DFS-500, DORA, NIST AI RMF, CyFun, AirCyber and more
+* 【2024-04-17】[bitnami / containers](https://github.com/bitnami/containers) - Bitnami container images
 * 【2024-04-16】[tonyke-bot / ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
 * 【2024-04-16】[jina-ai / reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 * 【2024-04-16】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
@@ -320,6 +323,7 @@
 
 ## Java
 
+* 【2024-04-17】[MohamedMetwalli5 / LeetCode-Solutions](https://github.com/MohamedMetwalli5/LeetCode-Solutions) - ✅🟨 These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations. They will be continuously updated to facilitate better understanding for beginners.
 * 【2024-04-16】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
 * 【2024-04-15】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
 * 【2024-04-15】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
@@ -398,6 +402,8 @@
 
 ## Python
 
+* 【2024-04-17】[WeChatAPIs / WeChatMsgHistory_real](https://github.com/WeChatAPIs/WeChatMsgHistory_real) - Real-time Chat-重现微信群组和个人聊天记录查询项目，本项目为开发者和研究者提供一种深入查看微信聊天内容的解决方案，允许用户在特定条件下获取特定群组或私聊的聊天记录，并通过我们提供的API进行控制
+* 【2024-04-17】[DeepInsight-AI / DeepBI](https://github.com/DeepInsight-AI/DeepBI) - LLM based data scientist, AI native data application. AI-driven infinite thinking redefines BI.
 * 【2024-04-16】[TencentARC / InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
 * 【2024-04-16】[wligithub / tax-tool](https://github.com/wligithub/tax-tool) - Automated Personal Tax Preparing Tool for VMW-AVGO Merger
 * 【2024-04-15】[OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
@@ -641,6 +647,7 @@
 
 ## Javascript
 
+* 【2024-04-17】[Bistutu / FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 * 【2024-04-16】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
 * 【2024-04-16】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
 * 【2024-04-15】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
@@ -793,6 +800,7 @@
 
 ## Go
 
+* 【2024-04-17】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 * 【2024-04-16】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
 * 【2024-04-16】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
 * 【2024-04-16】[Kethsar / ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
@@ -886,6 +894,8 @@
 
 ## C
 
+* 【2024-04-17】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
+* 【2024-04-17】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 * 【2024-04-15】[antirez / linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 * 【2024-04-13】[tukaani-project / xz](https://github.com/tukaani-project/xz) - XZ Utils
 * 【2024-04-11】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
@@ -1284,6 +1294,10 @@
 
 ## Css
 
+* 【2024-04-17】[mayanks / wisetrack](https://github.com/mayanks/wisetrack) - Finance management application
+* 【2024-04-17】[Technigo / project-labyrinth-zustand-vite](https://github.com/Technigo/project-labyrinth-zustand-vite) - 
+* 【2024-04-17】[typora / theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
+* 【2024-04-17】[chengzhongxue / halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao) - 
 * 【2024-04-16】[TheBridge-FullStackDeveloper / colors](https://github.com/TheBridge-FullStackDeveloper/colors) - 
 * 【2024-04-16】[edudark1000 / Veteran-Loader-70-Games-Supported](https://github.com/edudark1000/Veteran-Loader-70-Games-Supported) - 
 * 【2024-04-16】[FQQD / MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
@@ -1483,6 +1497,8 @@
 
 ## Unknown
 
+* 【2024-04-17】[cqcore / Fact-Checking-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
+* 【2024-04-17】[JayHeng / pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly) - 痞子衡嵌入式半月刊，分享嵌入式领域有用有趣的工具或项目以及一些热点新闻。从2020年2月起，每半个月发布一期
 * 【2024-04-16】[jeffreycayao / pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/htm…
 * 【2024-04-16】[hujingguang / ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 * 【2024-04-15】[microsoft / rho](https://github.com/microsoft/rho) - Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs.
