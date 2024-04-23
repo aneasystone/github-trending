@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-04-23】[open-webui / open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+* 【2024-04-23】[joschan21 / profanity.dev](https://github.com/joschan21/profanity.dev) - 
 * 【2024-04-22】[moest-np / center-randomize](https://github.com/moest-np/center-randomize) - Script is to assign exam centers to students
 * 【2024-04-22】[sadmann7 / shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination.
 * 【2024-04-21】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
@@ -84,6 +86,7 @@
 
 ## Java
 
+* 【2024-04-23】[InterviewReady / Concurrency-Tester](https://github.com/InterviewReady/Concurrency-Tester) - A tester that checks for correctness of code in distributed systems.
 * 【2024-04-22】[epicstudios856 / Vectras-VM-Android](https://github.com/epicstudios856/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-04-20】[grishka / poke.dex](https://github.com/grishka/poke.dex) - 
 * 【2024-04-20】[MisakaTAT / Shiro](https://github.com/MisakaTAT/Shiro) - 基于OneBot协议的QQ机器人快速开发框架
@@ -108,6 +111,7 @@
 
 ## Python
 
+* 【2024-04-23】[tinyzqh / light_mappo](https://github.com/tinyzqh/light_mappo) - Lightweight version of MAPPO to help you quickly migrate to your local environment.
 * 【2024-04-22】[MetaCubeX / mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 * 【2024-04-22】[liming-ai / ControlNet_Plus_Plus](https://github.com/liming-ai/ControlNet_Plus_Plus) - Inference code for: ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback
 * 【2024-04-22】[embeddings-benchmark / mteb](https://github.com/embeddings-benchmark/mteb) - MTEB: Massive Text Embedding Benchmark
@@ -226,6 +230,9 @@
 
 ## Go
 
+* 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
+* 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
+* 【2024-04-23】[1buran / rHttp](https://github.com/1buran/rHttp) - REPL for HTTP
 * 【2024-04-22】[Layr-Labs / eigenda](https://github.com/Layr-Labs/eigenda) - Secure, high-throughput, and decentralized Data Availability
 * 【2024-04-22】[bom-squad / protobom](https://github.com/bom-squad/protobom) - A universal SBOM representation in protocol buffers
 * 【2024-04-21】[marco-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
@@ -252,6 +259,8 @@
 
 ## C
 
+* 【2024-04-23】[wareya / DIY-Gaming-Mouse](https://github.com/wareya/DIY-Gaming-Mouse) - Completely open source DIY gaming mouse, including hardware (PCB, shell) design files
+* 【2024-04-23】[plasma-umass / coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 * 【2024-04-22】[khanhduytran0 / LiveContainer](https://github.com/khanhduytran0/LiveContainer) - Run iOS app without actually installing it!
 * 【2024-04-21】[loopj / short-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
 * 【2024-04-21】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
@@ -307,6 +316,7 @@
 
 ## C#
 
+* 【2024-04-23】[HunterPie / HunterPie](https://github.com/HunterPie/HunterPie) - A clean, modern and robust overlay for Monster Hunter games.
 * 【2024-04-22】[CombatExtended-Continued / CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
 * 【2024-04-21】[Navi-Studio / Virtual-Human-for-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
 * 【2024-04-20】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
@@ -332,6 +342,7 @@
 
 ## Html
 
+* 【2024-04-23】[reisxd / TizenBrew](https://github.com/reisxd/TizenBrew) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 * 【2024-04-20】[jokob-sk / NetAlertX](https://github.com/jokob-sk/NetAlertX) - 💻🔍 WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.
 * 【2024-04-20】[hytql8 / VXAdmin](https://github.com/hytql8/VXAdmin) - A practical front-end template for Vue3+TypeScript+Vite+Pinia+Vueuse, based on the latest/cutting-edge front-end technologies
 * 【2024-04-15】[jbloomAus / SAELens](https://github.com/jbloomAus/SAELens) - Training Sparse Autoencoders on Language Models
@@ -369,6 +380,9 @@
 
 ## Css
 
+* 【2024-04-23】[pursuit-curriculum-resources / starter-api-calls-with-promises-and-fetch](https://github.com/pursuit-curriculum-resources/starter-api-calls-with-promises-and-fetch) - 
+* 【2024-04-23】[guimaraesdeol / Projeto-Cardapio](https://github.com/guimaraesdeol/Projeto-Cardapio) - Projeto Cardápido - Sujeito Programador, refazendo tudo
+* 【2024-04-23】[clashcross / AuroraForV2board](https://github.com/clashcross/AuroraForV2board) - Aurora For V2board 前后端分离部署，以及白嫖部署到cloudflare Workers
 * 【2024-04-22】[codenihar / react-love-letter](https://github.com/codenihar/react-love-letter) - 
 * 【2024-04-22】[shitiven / GitPower](https://github.com/shitiven/GitPower) - A fast, secure and stable solution based on Python & Django
 * 【2024-04-21】[munris-vlad / munris.tech](https://github.com/munris-vlad/munris.tech) - 
@@ -443,6 +457,7 @@
 
 ## Unknown
 
+* 【2024-04-23】[qiye45 / wechatVideoDownload](https://github.com/qiye45/wechatVideoDownload) - 微信视频号下载工具，支持视频、直播回放下载
 * 【2024-04-22】[hegdepavankumar / Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG) - Dive into a diverse array of Free Images of routers, switches,Firewalls and other appliances, including Cisco, Fortigate, Palo Alto, Sophos and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience.
 * 【2024-04-22】[rbhatia46 / Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 * 【2024-04-21】[315386775 / DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
