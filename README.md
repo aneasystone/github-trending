@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-04-27】[apple / corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
+* 【2024-04-27】[cohere-ai / cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
+* 【2024-04-27】[zk-Call / zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - "Zero-Knowledge" Proof Implementation with HMAC Communication in JavaScript
+* 【2024-04-27】[github-copilot-resources / copilot-metrics-viewer](https://github.com/github-copilot-resources/copilot-metrics-viewer) - Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)
+* 【2024-04-27】[xelis-project / xelis-blockchain](https://github.com/xelis-project/xelis-blockchain) - A private blockDAG using Homomorphic Encryption with Smart Contract support
 * 【2024-04-26】[CyanVoxel / TagStudio](https://github.com/CyanVoxel/TagStudio) - A file and photo management application and system.
 * 【2024-04-26】[whoeevee / EeveeSpotify](https://github.com/whoeevee/EeveeSpotify) - A tweak to get Spotify Premium for free, just like Spotilife
 * 【2024-04-26】[mentalDetector / Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9](https://github.com/mentalDetector/Quansheng_UV-K5_PCB_R51-V1.4_PCB_Reversing_Rev._0.9) - Reverse engineering of the Quansheng UV-K5 V1.4 PCB in KiCad 7
@@ -96,6 +101,7 @@
 
 ## Java
 
+* 【2024-04-27】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation
 * 【2024-04-25】[react-native-cameraroll / react-native-cameraroll](https://github.com/react-native-cameraroll/react-native-cameraroll) - CameraRoll is a react-native native module that provides access to the local camera roll or photo library.
 * 【2024-04-25】[loks666 / get_jobs](https://github.com/loks666/get_jobs) - 💼【找工作最强助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 * 【2024-04-25】[meghadandapat / BE-IT-DS](https://github.com/meghadandapat/BE-IT-DS) - This repository contains distributed systems assignments according to SPPU 2019 Pattern along with their execution steps
@@ -125,6 +131,8 @@
 
 ## Python
 
+* 【2024-04-27】[Snowflake-Labs / snowflake-arctic](https://github.com/Snowflake-Labs/snowflake-arctic) - 
+* 【2024-04-27】[ssili126 / tv](https://github.com/ssili126/tv) - 自动收集的IPv4酒店电视直播源，自动测试播放速度，每日自动更新。 有CCTV央视卫视频道，及部分地方频道，播放流畅。也可在openwrt或群辉的docker运行。
 * 【2024-04-26】[FareedKhan-dev / Detect-AI-text-Easily](https://github.com/FareedKhan-dev/Detect-AI-text-Easily) - Some words that LLM regularly uses
 * 【2024-04-26】[a1600012888 / PhysDreamer](https://github.com/a1600012888/PhysDreamer) - Code for PhysDreamer
 * 【2024-04-26】[yisol / IDM-VTON](https://github.com/yisol/IDM-VTON) - IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild
@@ -213,6 +221,7 @@
 
 ## Javascript
 
+* 【2024-04-27】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 * 【2024-04-26】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
 * 【2024-04-26】[ErickWendel / parallelizing-nodejs-ops](https://github.com/ErickWendel/parallelizing-nodejs-ops) - Example of how to Migrate 1M items from MongoDB to Postgres in just a few minutes using Node.js child process
 * 【2024-04-25】[code-charity / youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience & choice! 🧰100+ clever features📌set & forget📌Longest-standing (yet rare & tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
@@ -259,6 +268,8 @@
 
 ## Go
 
+* 【2024-04-27】[zk-Call / zkp-hmac-communication-go](https://github.com/zk-Call/zkp-hmac-communication-go) - "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
+* 【2024-04-27】[Dhravya / radish](https://github.com/Dhravya/radish) - Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
 * 【2024-04-25】[panjf2000 / gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 * 【2024-04-23】[amuluze / amprobe](https://github.com/amuluze/amprobe) - 轻量级主机及容器监控服务
 * 【2024-04-23】[aurorax-neo / free-gpt3.5-2api](https://github.com/aurorax-neo/free-gpt3.5-2api) - free chat gpt api
@@ -328,6 +339,7 @@
 
 ## C++
 
+* 【2024-04-27】[microsoft / onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) - Generative AI extensions for onnxruntime
 * 【2024-04-25】[mansk1es / CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111) - Oracle VirtualBox Elevation of Privilege (Local Privilege Escalation) Vulnerability
 * 【2024-04-24】[SasaKaranovic / winfidel-sensor](https://github.com/SasaKaranovic/winfidel-sensor) - Wireless Inline Filament Diameter Estimator Low-cost Sensor
 * 【2024-04-22】[stanuwu / PixelGunCheatInternal](https://github.com/stanuwu/PixelGunCheatInternal) - Pixel Gun 3D Internal Cheat in C++
@@ -352,6 +364,8 @@
 
 ## C#
 
+* 【2024-04-27】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
+* 【2024-04-27】[adamgryu / InspectorHistory-Unity](https://github.com/adamgryu/InspectorHistory-Unity) - 
 * 【2024-04-26】[SergeyTeplyakov / ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) - Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone)
 * 【2024-04-26】[DomainDrivers / dd-csharp](https://github.com/DomainDrivers/dd-csharp) - 
 * 【2024-04-26】[jonowilliams26 / StructuredMinimalApi](https://github.com/jonowilliams26/StructuredMinimalApi) - An example of a structured minimal api project
@@ -385,6 +399,8 @@
 
 ## Html
 
+* 【2024-04-27】[red-ninjas / himalaya-ui](https://github.com/red-ninjas/himalaya-ui) - Elevate your Next.js web development with our open-source UI library, offering a comprehensive suite of customizable components for building modern and user-friendly interfaces.
+* 【2024-04-27】[maester365 / maester](https://github.com/maester365/maester) - The core repository for the Maester module with helper cmdlets that will be called from the Pester tests.
 * 【2024-04-26】[FrontendMasters / front-end-handbook-2024](https://github.com/FrontendMasters/front-end-handbook-2024) - A guide to modern front-end web development / engineering.
 * 【2024-04-26】[rohanarun / Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) - 
 * 【2024-04-26】[milvus-io / bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
@@ -433,6 +449,10 @@
 
 ## Css
 
+* 【2024-04-27】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
+* 【2024-04-27】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
+* 【2024-04-27】[anthdm / gothstarter](https://github.com/anthdm/gothstarter) - Golang, Templ, HTMX, and Tailwind started pack
+* 【2024-04-27】[codewithsadee / fitlife](https://github.com/codewithsadee/fitlife) - Fitlife is a fully responsive fitness website, Responsive for all devices, build using HTML, CSS, and JavaScript.
 * 【2024-04-26】[bedimcode / responsive-chips-website](https://github.com/bedimcode/responsive-chips-website) - Responsive Chips Website Design Using HTML CSS And JavaScript
 * 【2024-04-26】[IndraMahayana / to-do-List](https://github.com/IndraMahayana/to-do-List) - Simple Todo List
 * 【2024-04-26】[matthewkent / wedding-website](https://github.com/matthewkent/wedding-website) - 
@@ -519,6 +539,8 @@
 
 ## Unknown
 
+* 【2024-04-27】[bpc-clone / bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) - 
+* 【2024-04-27】[Madelena / esphome-weatherman-dashboard](https://github.com/Madelena/esphome-weatherman-dashboard) - A simple dashboard with weather and NYC subway information for ESPHome
 * 【2024-04-26】[SAWARATSUKI / ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
 * 【2024-04-26】[ymcui / Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3) - 中文羊驼大模型三期项目 developed from Meta Llama 3
 * 【2024-04-26】[instructlab / taxonomy](https://github.com/instructlab/taxonomy) - Taxonomy tree that will allow you to create models tuned with your data
