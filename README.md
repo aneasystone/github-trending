@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
+* 【2024-05-06】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
+* 【2024-05-06】[solana-labs / solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+* 【2024-05-06】[HVision-NKU / StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 * 【2024-05-05】[adrianhajdin / banking](https://github.com/adrianhajdin/banking) - Horizon is a modern banking platform for everyone.
 * 【2024-05-05】[verlab / accelerated_features](https://github.com/verlab/accelerated_features) - Do you need robust and fast local feature extraction? You are in the right place!
 * 【2024-05-05】[aws-samples / bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude
@@ -174,6 +178,12 @@
 
 ## Python
 
+* 【2024-05-06】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
+* 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+* 【2024-05-06】[prometheus-eval / prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus 💯
+* 【2024-05-06】[PSGO / PPPwnGo](https://github.com/PSGO/PPPwnGo) - 
+* 【2024-05-06】[NVlabs / DoRA](https://github.com/NVlabs/DoRA) - [ICML2024] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation
+* 【2024-05-06】[SCLBD / DeepfakeBench](https://github.com/SCLBD/DeepfakeBench) - A comprehensive benchmark of deepfake detection
 * 【2024-05-05】[pypa / pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 * 【2024-05-05】[florestefano1975 / ComfyUI-HiDiffusion](https://github.com/florestefano1975/ComfyUI-HiDiffusion) - 
 * 【2024-05-05】[zgimszhd61 / prompt-collection-quickstart](https://github.com/zgimszhd61/prompt-collection-quickstart) - 
@@ -293,6 +303,9 @@
 
 ## Javascript
 
+* 【2024-05-06】[Astropeda / Asta-Md](https://github.com/Astropeda/Asta-Md) - ᴀ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀsᴛʀᴏᴘᴇᴅᴀ ᴛᴇᴀᴍ
+* 【2024-05-06】[automatisch / automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+* 【2024-05-06】[ibrahimaitech / IBRAHIM-AI-10.10](https://github.com/ibrahimaitech/IBRAHIM-AI-10.10) - BMW MD the faster bot that can do any thing in seconds,Trending Wabot
 * 【2024-05-05】[Pandasswap / PancakeswapBot](https://github.com/Pandasswap/PancakeswapBot) - PancakeSwap Prediction Bot
 * 【2024-05-05】[tencent-connect / bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 * 【2024-05-05】[AbhishekSuresh2 / Phoenix-MD](https://github.com/AbhishekSuresh2/Phoenix-MD) - ℹ️ A Simple WhatsApp Bot With Advanced Features
@@ -351,6 +364,7 @@
 
 ## Go
 
+* 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT-3.5-Turbo.
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
 * 【2024-05-02】[kaytu-io / kaytu](https://github.com/kaytu-io/kaytu) - The Kaytu CLI helps you save on cloud costs by finding the perfect server sizes. Kaytu analyzes historical usage and provides tailored recommendations, ensuring you only pay for the resources you need.
@@ -387,6 +401,8 @@
 
 ## C
 
+* 【2024-05-06】[asg017 / sqlite-vec](https://github.com/asg017/sqlite-vec) - Work-in-progress vector search SQLite extension that runs anywhere.
+* 【2024-05-06】[WillPower3309 / swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 * 【2024-05-05】[tsalvo / wipeoutPD](https://github.com/tsalvo/wipeoutPD) - port of wipeout-rewrite to Playdate
 * 【2024-05-05】[danielchasehooper / ShapeUp-public](https://github.com/danielchasehooper/ShapeUp-public) - A 3D Modeler Made in a Week
 * 【2024-05-03】[cpldcpu / BitNetMCU](https://github.com/cpldcpu/BitNetMCU) - Neural Networks with low bit weights on a CH32V003 RISC-V Microcontroller without multiplication
@@ -472,6 +488,8 @@
 
 ## C#
 
+* 【2024-05-06】[Ephilipz / 1brc.net](https://github.com/Ephilipz/1brc.net) - 
+* 【2024-05-06】[paternostrox / Minecraft4Unity](https://github.com/paternostrox/Minecraft4Unity) - A minimal and very optimized version of Minecraft made in Unity, virtually endless in all three axis.
 * 【2024-05-05】[PreaawX / Aviator-Predictor-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
 * 【2024-05-04】[xM4ddy / OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
 * 【2024-05-04】[TippingGame / F8Framework](https://github.com/TippingGame/F8Framework) - F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的Game Framework，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。
@@ -526,6 +544,7 @@
 
 ## Html
 
+* 【2024-05-06】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 * 【2024-05-05】[MicroStrategy / did-btc-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
 * 【2024-05-05】[sz-games / sz-games.github.io](https://github.com/sz-games/sz-games.github.io) - The Best Way To Play Games In School
@@ -589,6 +608,7 @@
 
 ## Css
 
+* 【2024-05-06】[1inch / 1inch-docs](https://github.com/1inch/1inch-docs) - 
 * 【2024-05-05】[Gkilgore / 7_Computed_Properties](https://github.com/Gkilgore/7_Computed_Properties) - 
 * 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
 * 【2024-05-04】[derisamedia / luci-theme-alpha](https://github.com/derisamedia/luci-theme-alpha) - Luci theme for Official Openwrt and Alpha OS build ,based on bootstrap and material luCi theme,inspired on neobird LEDE theme
@@ -692,6 +712,7 @@
 
 ## Unknown
 
+* 【2024-05-06】[CrealityOfficial / CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 * 【2024-05-05】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-05-05】[tldrsec / prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Every practical and proposed defense against prompt injection.
 * 【2024-05-05】[SmartBNBGuy / How-to-Create-Honeypot-Token](https://github.com/SmartBNBGuy/How-to-Create-Honeypot-Token) - How to Create Honeypot Token | AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY | Sell OFF Token | Sell On Off Token | Sell On Off Coin BSC |Sell On Off Token BEP20
