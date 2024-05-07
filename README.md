@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-05-07】[dev-xo / remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS Application.
+* 【2024-05-07】[abi / secret-llama](https://github.com/abi/secret-llama) - Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3.
+* 【2024-05-07】[bepass-org / oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - unofficial desktop version of oblivion
 * 【2024-05-06】[Blealtan / efficient-kan](https://github.com/Blealtan/efficient-kan) - An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).
 * 【2024-05-06】[lmstudio-ai / lms](https://github.com/lmstudio-ai/lms) - LM Studio in your terminal
 * 【2024-05-06】[solana-labs / solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
@@ -139,6 +142,8 @@
 
 ## Java
 
+* 【2024-05-07】[dmulloy2 / ProtocolLib](https://github.com/dmulloy2/ProtocolLib) - Provides read and write access to the Minecraft protocol with Bukkit.
+* 【2024-05-07】[arpitbbhayani / WikiSe](https://github.com/arpitbbhayani/WikiSe) - A wikipedia search engine that is completely built in Java and works on Wikipedia XML dumps
 * 【2024-05-05】[apache / pdfbox](https://github.com/apache/pdfbox) - Mirror of Apache PDFBox
 * 【2024-05-04】[GoogleCloudPlatform / spring-cloud-gcp](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) - New home for Spring Cloud GCP development starting with version 2.0.
 * 【2024-05-02】[vvb2060 / KeyAttestation](https://github.com/vvb2060/KeyAttestation) - 
@@ -178,6 +183,8 @@
 
 ## Python
 
+* 【2024-05-07】[judahpaul16 / gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
+* 【2024-05-07】[Efficient-Large-Model / VILA](https://github.com/Efficient-Large-Model/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-05-06】[eureka-research / DrEureka](https://github.com/eureka-research/DrEureka) - 
 * 【2024-05-06】[edgedb / edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 * 【2024-05-06】[prometheus-eval / prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - Evaluate your LLM's response with Prometheus 💯
@@ -364,6 +371,11 @@
 
 ## Go
 
+* 【2024-05-07】[zhangdi168 / VitePressSimple](https://github.com/zhangdi168/VitePressSimple) - VitePress Visual Configuration Tool
+* 【2024-05-07】[kat-co / concurrency-in-go-src](https://github.com/kat-co/concurrency-in-go-src) - Full sourcecode for the book, "Concurrency in Go" published by O'Reilly.
+* 【2024-05-07】[mauricioabreu / golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time
+* 【2024-05-07】[filecoin-project / venus](https://github.com/filecoin-project/venus) - Filecoin Full Node Implementation in Go
+* 【2024-05-07】[NVIDIA / nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 * 【2024-05-06】[missuo / FreeDuckDuckGo](https://github.com/missuo/FreeDuckDuckGo) - Use DuckDuckGo for free with GPT-3.5-Turbo.
 * 【2024-05-05】[charmbracelet / wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 * 【2024-05-02】[appleboy / gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
@@ -452,6 +464,7 @@
 
 ## C++
 
+* 【2024-05-07】[litucks / torzu](https://github.com/litucks/torzu) - Yet another Yuzu fork
 * 【2024-05-05】[rondagayman307 / WhatsApp-Web-Spammer](https://github.com/rondagayman307/WhatsApp-Web-Spammer) - whatsapp web spammer 💥 spammer for whatsapp web 2024 latest update 💥 simple script to spam people on whatsapp web. whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsapp message spammer whatsapp group spammer whatsapp web spammer whatsapp spammer whatsap scripts tools
 * 【2024-05-05】[rubakloedeil10 / WarfaceHCK](https://github.com/rubakloedeil10/WarfaceHCK) - warface warface-cheat warface-cheats warface-aim warface-aimbot warface-hack warface-hacks warface-esp warface-wallhack warface-wh warface-softaim cheat-warface cheats-warface hack-warface hacks-warface warface-free-hack warface-hack-aim warface-legit warface-rage-download-free-warface-speedbot-warface-2024-best-cheats-warface-mod-menu-skin-changer
 * 【2024-05-05】[rothdezlife34 / PointBlankHCK](https://github.com/rothdezlife34/PointBlankHCK) - point-blank point-blank-cheat point-blank-cheats point-blank-aim point-blank-aimbot point-blank-hack point-blank-hacks point-blank-esp point-blank-wallhack point-blank-wh point-blank-softaim cheat-point-blank cheats-point-blank hack-point-blank hacks-point-blank point-blank-free-hack point-blank-hack-aim point-blank-legit point-blank-rage-download
@@ -488,6 +501,8 @@
 
 ## C#
 
+* 【2024-05-07】[oureveryday / Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack) - Steam Game Automatic Cracker
+* 【2024-05-07】[StyxEnc / Styx-File-Protection](https://github.com/StyxEnc/Styx-File-Protection) - Provides Styx Multi Tool Legend Scan results working with License Key
 * 【2024-05-06】[Ephilipz / 1brc.net](https://github.com/Ephilipz/1brc.net) - 
 * 【2024-05-06】[paternostrox / Minecraft4Unity](https://github.com/paternostrox/Minecraft4Unity) - A minimal and very optimized version of Minecraft made in Unity, virtually endless in all three axis.
 * 【2024-05-05】[PreaawX / Aviator-Predictor-FULL](https://github.com/PreaawX/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
@@ -544,6 +559,8 @@
 
 ## Html
 
+* 【2024-05-07】[DeadCoder1722 / Kick-VIewer-Bot](https://github.com/DeadCoder1722/Kick-VIewer-Bot) - 
+* 【2024-05-07】[sauravhathi / lpu-cse](https://github.com/sauravhathi/lpu-cse) - Lovely Professional University End Term Exam Question Papers with Answers, Study Materials, Projects, Roadmap, and more.
 * 【2024-05-06】[nature-of-code / noc-book-2](https://github.com/nature-of-code/noc-book-2) - Nature of Code with p5.js and Notion workflow / build system.
 * 【2024-05-05】[yoheinakajima / prettygraph](https://github.com/yoheinakajima/prettygraph) - An experimental UI for text-to-knowledge-graph generation
 * 【2024-05-05】[MicroStrategy / did-btc-spec](https://github.com/MicroStrategy/did-btc-spec) - did:btc Method Specification
@@ -608,6 +625,9 @@
 
 ## Css
 
+* 【2024-05-07】[haskell-infra / www.haskell.org](https://github.com/haskell-infra/www.haskell.org) - www.haskell.org site source
+* 【2024-05-07】[telegram-mini-apps-dev / vite-boilerplate](https://github.com/telegram-mini-apps-dev/vite-boilerplate) - This template provides a minimal setup to get TWA working in Vite with React, TypeScript, HMR and some ESLint rules.
+* 【2024-05-07】[senli1073 / senli1073.github.io](https://github.com/senli1073/senli1073.github.io) - A simple Github Pages template for academic personal websites.
 * 【2024-05-06】[1inch / 1inch-docs](https://github.com/1inch/1inch-docs) - 
 * 【2024-05-05】[Gkilgore / 7_Computed_Properties](https://github.com/Gkilgore/7_Computed_Properties) - 
 * 【2024-05-04】[anuragdevnath / Portfolio](https://github.com/anuragdevnath/Portfolio) - My portfolio
@@ -712,6 +732,10 @@
 
 ## Unknown
 
+* 【2024-05-07】[casubsverssnor1979 / Aviator-Prediction-App](https://github.com/casubsverssnor1979/Aviator-Prediction-App) - 1
+* 【2024-05-07】[kolesarm / 539b](https://github.com/kolesarm/539b) - (Advanced) Applied Econometrics
+* 【2024-05-07】[jacobdjwilson / awesome-annual-security-reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - A curated list of annual cyber security reports
+* 【2024-05-07】[Zzero-simo / Aviator-Predictor--2](https://github.com/Zzero-simo/Aviator-Predictor--2) - 
 * 【2024-05-06】[CrealityOfficial / CrealityPrint](https://github.com/CrealityOfficial/CrealityPrint) - 
 * 【2024-05-05】[Ouckah / Summer2025-Internships](https://github.com/Ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-05-05】[tldrsec / prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) - Every practical and proposed defense against prompt injection.
