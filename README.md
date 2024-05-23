@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2024-05-23】[amalmurali47 / git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE-2024-32002
+* 【2024-05-23】[Codium-ai / cover-agent](https://github.com/Codium-ai/cover-agent) - CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
+* 【2024-05-23】[THUDM / CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
+* 【2024-05-23】[hudy9x / namviek](https://github.com/hudy9x/namviek) - The open-source project manager for tiny teams
 * 【2024-05-22】[naklecha / llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 * 【2024-05-21】[Raphire / Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
 * 【2024-05-21】[folke / tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
@@ -193,6 +197,7 @@
 
 ## Java
 
+* 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
 * 【2024-05-18】[TheWidlarzGroup / react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A <Video /> component for react-native
 * 【2024-05-18】[opensearch-project / opensearch-java](https://github.com/opensearch-project/opensearch-java) - Java Client for OpenSearch
@@ -244,6 +249,8 @@
 
 ## Python
 
+* 【2024-05-23】[shamhi / TapSwapBot](https://github.com/shamhi/TapSwapBot) - Bot that mines coins in Tapswap
+* 【2024-05-23】[W01fh4cker / CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE) - Time Based SQL Injection in Zabbix Server Audit Log --> RCE
 * 【2024-05-22】[IDEA-Research / Grounding-DINO-1.5-API](https://github.com/IDEA-Research/Grounding-DINO-1.5-API) - API for Grounding DINO 1.5: IDEA Research's Most Capable Open-World Object Detection Model Series
 * 【2024-05-22】[alexfazio / viral-clips-crew](https://github.com/alexfazio/viral-clips-crew) - Your CrewAI Powered Video Editing Assistant
 * 【2024-05-22】[lanqian528 / chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
@@ -411,6 +418,7 @@
 
 ## Javascript
 
+* 【2024-05-23】[Pactum7 / ticket-grabbing](https://github.com/Pactum7/ticket-grabbing) - 猫眼纷玩岛大麦抢票、余票监控AutoX.js脚本，手机移动端，全场次选购
 * 【2024-05-22】[metaskills / experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
 * 【2024-05-22】[V2RaySSR / Free-VLESS](https://github.com/V2RaySSR/Free-VLESS) - 通过 Cloudflare，免费部署 VLESS节点
 * 【2024-05-21】[sindresorhus / create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -683,6 +691,7 @@
 
 ## C#
 
+* 【2024-05-23】[MicrosoftLearning / mslearn-ai-services](https://github.com/MicrosoftLearning/mslearn-ai-services) - Lab files for Azure AI Services modules
 * 【2024-05-22】[Monika1313 / Wu.CommTool](https://github.com/Monika1313/Wu.CommTool) - 基于C#、WPF、Prism、MaterialDesign、HandyControl开发的通讯调试工具,，支持Modbus Rtu调试、Mqtt调试
 * 【2024-05-21】[DaBaival / wemod-pro-unlocker](https://github.com/DaBaival/wemod-pro-unlocker) - 
 * 【2024-05-20】[thisisnabi / DigitalWallet](https://github.com/thisisnabi/DigitalWallet) - The E-Commerce User Wallet Service designed in ASP.NET Core
@@ -763,6 +772,7 @@
 
 ## Html
 
+* 【2024-05-23】[OCA / product-attribute](https://github.com/OCA/product-attribute) - Odoo Product Attribute
 * 【2024-05-22】[OCA / crm](https://github.com/OCA/crm) - Odoo CRM, Mail & Newsletter advanced features
 * 【2024-05-21】[jaganjavid / 100-Project](https://github.com/jaganjavid/100-Project) - ALl project
 * 【2024-05-20】[nghuyhoang2509 / Office-and-Windows-Activator](https://github.com/nghuyhoang2509/Office-and-Windows-Activator) - kmsauto-free-download-2024 kmsauto-download-2024 windows-free-activation kmsauto-2024 kmsauto-download-windows-11 kmsauto-activate kmsauto-download-windows-10 windows-activate-free free-activation-tutorial kmsauto-activator-download windows-activator-download kmsauto-download kmsauto-net-download kmsauto kmsauto-free-download windows-11-activat
@@ -864,6 +874,10 @@
 
 ## Css
 
+* 【2024-05-23】[TalyaOW / T2Class5](https://github.com/TalyaOW/T2Class5) - 
+* 【2024-05-23】[wahidustoz / school39](https://github.com/wahidustoz/school39) - 
+* 【2024-05-23】[rjc1704 / nb5-standard-3rd-hw](https://github.com/rjc1704/nb5-standard-3rd-hw) - 
+* 【2024-05-23】[timothywarner / actions-cert-prep](https://github.com/timothywarner/actions-cert-prep) - GitHub Actions Cert Prep Practice Repo
 * 【2024-05-22】[newmanix / form-processing](https://github.com/newmanix/form-processing) - A starting point for an assignment on form fundamentals
 * 【2024-05-21】[Artur-Galstyan / statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree) - 
 * 【2024-05-20】[kaidadnd / Revolt](https://github.com/kaidadnd/Revolt) - RevoltEdge is your #1 source for Edgenuity answers . Get 100% Scores on all activities and Skip Videos! Revolt is the Best Edgenuity script & hack / Bot
@@ -1015,6 +1029,9 @@
 
 ## Unknown
 
+* 【2024-05-23】[lidlGalaxy / Crypto-Robot](https://github.com/lidlGalaxy/Crypto-Robot) - Create a Crypto Robot for yourself
+* 【2024-05-23】[shreyaschavhan / advanced-sql-injection-for-awae](https://github.com/shreyaschavhan/advanced-sql-injection-for-awae) - 
+* 【2024-05-23】[the-web3 / layer2](https://github.com/the-web3/layer2) - 最全面的 Layer2 资料汇总
 * 【2024-05-22】[mcinglis / c-style](https://github.com/mcinglis/c-style) - My favorite C programming practices.
 * 【2024-05-22】[ulab-uiuc / AGI-survey](https://github.com/ulab-uiuc/AGI-survey) - 
 * 【2024-05-22】[Diyshift / 3D-Printer](https://github.com/Diyshift/3D-Printer) - Voron Stuff
