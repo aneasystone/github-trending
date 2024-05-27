@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-05-27】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+* 【2024-05-27】[mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
+* 【2024-05-27】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
+* 【2024-05-27】[maitrix-org / Pandora](https://github.com/maitrix-org/Pandora) - Pandora: Towards General World Model with Natural Language Actions and Video States
+* 【2024-05-27】[ys1231 / MoveCertificate](https://github.com/ys1231/MoveCertificate) - 支持Android7-14移动证书，兼容magiskv20.4+/kernelsu/APatch, Support Android7-14, compatible with magiskv20.4+/kernelsu/APatch
 * 【2024-05-26】[W01fh4cker / CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE) - CVE-2024-21683 Confluence Post Auth RCE
 * 【2024-05-26】[ragapp / ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise
 * 【2024-05-25】[Ph0enixKM / Amber](https://github.com/Ph0enixKM/Amber) - 💎 Amber the programming language compiled to bash
@@ -208,6 +213,8 @@
 
 ## Java
 
+* 【2024-05-27】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
+* 【2024-05-27】[Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 * 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
 * 【2024-05-23】[chiteroman / FrameworkPatch](https://github.com/chiteroman/FrameworkPatch) - Modify framework.jar to build on system level a valid certificate chain
 * 【2024-05-20】[P4r4d1se / heapdump_shiro_vuln](https://github.com/P4r4d1se/heapdump_shiro_vuln) - A heapdump leaks Shiro key causing RCE vulnerability environment.
@@ -261,6 +268,9 @@
 
 ## Python
 
+* 【2024-05-27】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
+* 【2024-05-27】[eloialonso / diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.
+* 【2024-05-27】[bellingcat / telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 * 【2024-05-26】[google-research / omniglue](https://github.com/google-research/omniglue) - Code release for CVPR'24 submission 'OmniGlue'
 * 【2024-05-26】[nvaccess / nvda](https://github.com/nvaccess/nvda) - NVDA, the free and open source Screen Reader for Microsoft Windows
 * 【2024-05-26】[epic-open-source / seismometer](https://github.com/epic-open-source/seismometer) - Predictive model evaluation with a focus on healthcare
@@ -526,6 +536,9 @@
 
 ## Go
 
+* 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
+* 【2024-05-27】[zuoyebang / bitalostored](https://github.com/zuoyebang/bitalostored) - Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.
+* 【2024-05-27】[Threadfin / Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
 * 【2024-05-26】[edgelesssys / contrast](https://github.com/edgelesssys/contrast) - Deploy and manage confidential containers on Kubernetes
 * 【2024-05-26】[pagefaultgames / rogueserver](https://github.com/pagefaultgames/rogueserver) - Game server backend and API for PokéRogue
 * 【2024-05-24】[defenseunicorns / zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
@@ -589,6 +602,7 @@
 
 ## C
 
+* 【2024-05-27】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - 
 * 【2024-05-26】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
 * 【2024-05-25】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 * 【2024-05-22】[rovertronic / Mario-Builder-64](https://github.com/rovertronic/Mario-Builder-64) - Mario Builder 64 is a Super Mario 64 ROM hack that allows you to create custom levels in-game.
@@ -723,6 +737,8 @@
 
 ## C#
 
+* 【2024-05-27】[Sehyn / Wuwa_fpsunlocker](https://github.com/Sehyn/Wuwa_fpsunlocker) - Unlocking Wuwa FPS Limits for PC version.
+* 【2024-05-27】[Leo-Corporation / InternetTest](https://github.com/Leo-Corporation/InternetTest) - InternetTest is a modern connection utility for Windows. It can locate IP addresses, send ping request, recover your WiFi passwords and more!
 * 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
 * 【2024-05-25】[dotnet / ai-samples](https://github.com/dotnet/ai-samples) - 
 * 【2024-05-25】[NuGet / NuGet.Client](https://github.com/NuGet/NuGet.Client) - Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
@@ -807,6 +823,7 @@
 
 ## Html
 
+* 【2024-05-27】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
 * 【2024-05-26】[TommyBoi-TB / Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 * 【2024-05-25】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
 * 【2024-05-24】[frontend-joe / es6-components](https://github.com/frontend-joe/es6-components) - Collection of components built with HTML, CSS and JavaScript (ES6)
@@ -914,6 +931,7 @@
 
 ## Css
 
+* 【2024-05-27】[RituKumari98 / imgIN](https://github.com/RituKumari98/imgIN) - 
 * 【2024-05-26】[microsoft / prompty](https://github.com/microsoft/prompty) - 
 * 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
 * 【2024-05-25】[Heatblur-Simulations / f-4e-manual](https://github.com/Heatblur-Simulations/f-4e-manual) - Manual of the F-4E Phantom by Heatblur Simulations
@@ -1077,6 +1095,9 @@
 
 ## Unknown
 
+* 【2024-05-27】[endingwithali / boyfriendlist](https://github.com/endingwithali/boyfriendlist) - submit pr to join the boyfriend list
+* 【2024-05-27】[alfa155518 / API-s-collection-free](https://github.com/alfa155518/API-s-collection-free) - The API's collection is free to Any One and Open source
+* 【2024-05-27】[hyperai / awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - AI for Science 论文解读合集（持续更新ing），论文/数据集/教程下载：hyper.ai
 * 【2024-05-26】[mlops-discord / gpu-optimization-workshop](https://github.com/mlops-discord/gpu-optimization-workshop) - Slides, notes, and materials for the workshop
 * 【2024-05-26】[awesome-doge / breaking-gfw-book](https://github.com/awesome-doge/breaking-gfw-book) - 本书介绍的方法涵盖了 Shadowsocks 以及与 Shadowsocks 相关的各种插件，ShadowsocksR, ShadowsocksRR, V2ray，以及 Telegram 通讯软件的 Proxy。
 * 【2024-05-26】[aviatbet / Aviator-predictor-app](https://github.com/aviatbet/Aviator-predictor-app) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
