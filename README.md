@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-05-28】[wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
+* 【2024-05-28】[ccbikai / Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+* 【2024-05-28】[zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
 * 【2024-05-27】[THU-MIG / yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 * 【2024-05-27】[mistralai / mistral-finetune](https://github.com/mistralai/mistral-finetune) - 
 * 【2024-05-27】[HITsz-TMG / UMOE-Scaling-Unified-Multimodal-LLMs](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) - The codes about "Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts"
@@ -213,6 +216,8 @@
 
 ## Java
 
+* 【2024-05-28】[solana-mobile / mobile-wallet-adapter](https://github.com/solana-mobile/mobile-wallet-adapter) - 
+* 【2024-05-28】[ZTFtrue / MonsterMusic](https://github.com/ZTFtrue/MonsterMusic) - A music player on android platform, developed by Andoroid composer
 * 【2024-05-27】[Kei-Luna / LunaGC_4.6.0](https://github.com/Kei-Luna/LunaGC_4.6.0) - Grassutter 4.6.0 Update
 * 【2024-05-27】[Earthcomputer / EnchantmentCracker](https://github.com/Earthcomputer/EnchantmentCracker) - Cracking the XP seed in Minecraft and choosing your enchantments
 * 【2024-05-25】[camunda / camunda](https://github.com/camunda/camunda) - Distributed Workflow Engine for Microservices Orchestration
@@ -268,6 +273,8 @@
 
 ## Python
 
+* 【2024-05-28】[vb000 / LookOnceToHear](https://github.com/vb000/LookOnceToHear) - A novel human-interaction method for real-time speech extraction on headphones.
+* 【2024-05-28】[talkdai / dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
 * 【2024-05-27】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 * 【2024-05-27】[eloialonso / diamond](https://github.com/eloialonso/diamond) - DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.
 * 【2024-05-27】[bellingcat / telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
@@ -536,6 +543,7 @@
 
 ## Go
 
+* 【2024-05-28】[hardentools / hardentools](https://github.com/hardentools/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 * 【2024-05-27】[roblillack / spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go
 * 【2024-05-27】[zuoyebang / bitalostored](https://github.com/zuoyebang/bitalostored) - Bitalostored is a high-performance distributed storage system, core engine based on bitalosdb(self-developed), compatible with Redis protocol.
 * 【2024-05-27】[Threadfin / Threadfin](https://github.com/Threadfin/Threadfin) - an M3U proxy for Kernel/Plex/Jellyfin/Emby based on xTeVe
@@ -672,6 +680,8 @@
 
 ## C++
 
+* 【2024-05-28】[MaaXYZ / MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
+* 【2024-05-28】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 * 【2024-05-26】[es3n1n / no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
 * 【2024-05-26】[pcg-mlp / KsanaLLM](https://github.com/pcg-mlp/KsanaLLM) - 
 * 【2024-05-22】[triton-lang / triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
@@ -737,6 +747,8 @@
 
 ## C#
 
+* 【2024-05-28】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
+* 【2024-05-28】[runevision / LayerProcGen](https://github.com/runevision/LayerProcGen) - Layer-based infinite procedural generation
 * 【2024-05-27】[Sehyn / Wuwa_fpsunlocker](https://github.com/Sehyn/Wuwa_fpsunlocker) - Unlocking Wuwa FPS Limits for PC version.
 * 【2024-05-27】[Leo-Corporation / InternetTest](https://github.com/Leo-Corporation/InternetTest) - InternetTest is a modern connection utility for Windows. It can locate IP addresses, send ping request, recover your WiFi passwords and more!
 * 【2024-05-25】[cybersectroll / TrollUAC](https://github.com/cybersectroll/TrollUAC) - 
@@ -931,6 +943,7 @@
 
 ## Css
 
+* 【2024-05-28】[UnivMinho / F501_FE](https://github.com/UnivMinho/F501_FE) - 
 * 【2024-05-27】[RituKumari98 / imgIN](https://github.com/RituKumari98/imgIN) - 
 * 【2024-05-26】[microsoft / prompty](https://github.com/microsoft/prompty) - 
 * 【2024-05-25】[readtedium / udm14](https://github.com/readtedium/udm14) - Code for udm14.com, a site with an easily-accessible AI-free Google search. This has a CC0 license so consider the code public domain.
@@ -1095,6 +1108,7 @@
 
 ## Unknown
 
+* 【2024-05-28】[ruesandora / Rivalz](https://github.com/ruesandora/Rivalz) - 
 * 【2024-05-27】[endingwithali / boyfriendlist](https://github.com/endingwithali/boyfriendlist) - submit pr to join the boyfriend list
 * 【2024-05-27】[alfa155518 / API-s-collection-free](https://github.com/alfa155518/API-s-collection-free) - The API's collection is free to Any One and Open source
 * 【2024-05-27】[hyperai / awesome-ai4s](https://github.com/hyperai/awesome-ai4s) - AI for Science 论文解读合集（持续更新ing），论文/数据集/教程下载：hyper.ai
