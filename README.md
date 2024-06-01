@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
+* 【2024-06-01】[alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models
+* 【2024-06-01】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
+* 【2024-06-01】[mustafaaljadery / llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
+* 【2024-06-01】[lengyibai / wzry](https://github.com/lengyibai/wzry) - 🌈基于 Vue3+TS的王者荣耀图鉴🚀
 * 【2024-05-31】[2noise / ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
 * 【2024-05-31】[googleapis / elixir-google-api](https://github.com/googleapis/elixir-google-api) - Elixir client libraries for accessing Google APIs.
 * 【2024-05-31】[webprodigies / corinna-ai](https://github.com/webprodigies/corinna-ai) - Ai Chatbot that acts like a sales rep
@@ -286,6 +291,8 @@
 
 ## Python
 
+* 【2024-06-01】[bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
+* 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 * 【2024-05-31】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 * 【2024-05-31】[huggingface / huggingface_hub](https://github.com/huggingface/huggingface_hub) - The official Python client for the Huggingface Hub.
 * 【2024-05-31】[ChrisBuilds / terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine.
@@ -486,6 +493,8 @@
 
 ## Javascript
 
+* 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
+* 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 * 【2024-05-31】[844704781 / ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
 * 【2024-05-31】[jagenjo / litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 * 【2024-05-29】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
@@ -647,6 +656,8 @@
 
 ## C
 
+* 【2024-06-01】[greenplum-db / gpdb-archive](https://github.com/greenplum-db/gpdb-archive) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
+* 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 * 【2024-05-31】[brian-smith-github / ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller
 * 【2024-05-30】[HarbourMasters / 2ship2harkinian](https://github.com/HarbourMasters/2ship2harkinian) - 
 * 【2024-05-30】[No-Chicken / OV-Watch](https://github.com/No-Chicken/OV-Watch) - A powerful Smart Watch based on STM32, FreeRTOS, LVGL. It only cost ￥80 RMB ( $12 USD ).
@@ -723,6 +734,8 @@
 
 ## C++
 
+* 【2024-06-01】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
+* 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 * 【2024-05-31】[Offensive-Panda / RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) - Abusing Windows fork API and OneDrive.exe process to inject the malicious shellcode without allocating new RWX memory region.
 * 【2024-05-30】[chinosk6 / gakuen-imas-localify](https://github.com/chinosk6/gakuen-imas-localify) - 学园偶像大师 本地化插件（开发中...） / Gakumas localify plugin (Developing...)
 * 【2024-05-29】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
@@ -795,6 +808,7 @@
 
 ## C#
 
+* 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
 * 【2024-05-28】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 * 【2024-05-28】[runevision / LayerProcGen](https://github.com/runevision/LayerProcGen) - Layer-based infinite procedural generation
@@ -884,6 +898,7 @@
 
 ## Html
 
+* 【2024-06-01】[rubyforgood / pet-rescue](https://github.com/rubyforgood/pet-rescue) - Pet Rescue is an application making it easy to link adopters/fosters with pets. We work with grassroots pet rescue organizations to understand how we can make the most impact.
 * 【2024-05-31】[iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
 * 【2024-05-31】[SiyangLi99 / open-alteryx-macro](https://github.com/SiyangLi99/open-alteryx-macro) - Welcome to the 'Open-Alteryx-Macro' project. This project is aimed at providing an open-source solution for managing and updating Alteryx Macros.
 * 【2024-05-30】[xyhelper / chatgpt-share-server](https://github.com/xyhelper/chatgpt-share-server) - 
@@ -997,6 +1012,9 @@
 
 ## Css
 
+* 【2024-06-01】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS07](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS07) - [DJS07] Starter Code for Module 7's Project Submission
+* 【2024-06-01】[creativetimofficial / argon-dashboard-laravel-bs4](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4) - 
+* 【2024-06-01】[fluxus-executor / fluxus-executor.github.io](https://github.com/fluxus-executor/fluxus-executor.github.io) - Fluxus is a powerful and popular free Roblox script executor with a user-friendly interface.
 * 【2024-05-31】[ASTD / ASTD-Website-Skeleton](https://github.com/ASTD/ASTD-Website-Skeleton) - Website Skeleton
 * 【2024-05-31】[CyB1K / PS4-Fake-PKG-Tools-3.87](https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87) - Patched 3.87 Tools
 * 【2024-05-30】[abbysheksharma / code-hub](https://github.com/abbysheksharma/code-hub) - 
