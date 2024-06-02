@@ -8,6 +8,14 @@
 
 ## All language
 
+* 【2024-06-02】[jianchang512 / ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。
+* 【2024-06-02】[StasPlov / docker-unlock](https://github.com/StasPlov/docker-unlock) - Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria
+* 【2024-06-02】[ToonCrafter / ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
+* 【2024-06-02】[digital-go-jp / design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
+* 【2024-06-02】[novitalabs / AnimateAnyone](https://github.com/novitalabs/AnimateAnyone) - Unofficial Implementation of Animate Anyone by Novita AI
+* 【2024-06-02】[apple / swift-migration-guide](https://github.com/apple/swift-migration-guide) - 
+* 【2024-06-02】[microsoft / typespec](https://github.com/microsoft/typespec) - 
+* 【2024-06-02】[tspeterkim / insta-chat](https://github.com/tspeterkim/insta-chat) - DIY Instagram Chat Automation with Google Sheets
 * 【2024-06-01】[redpanda-data / connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 * 【2024-06-01】[alibaba-yuanjing-aigclab / ViViD](https://github.com/alibaba-yuanjing-aigclab/ViViD) - ViViD: Video Virtual Try-on using Diffusion Models
 * 【2024-06-01】[GaiaNet-AI / gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
@@ -233,6 +241,7 @@
 
 ## Java
 
+* 【2024-06-02】[eclipse-edc / Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 * 【2024-05-31】[openkoda / openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development
 * 【2024-05-28】[solana-mobile / mobile-wallet-adapter](https://github.com/solana-mobile/mobile-wallet-adapter) - 
 * 【2024-05-28】[ZTFtrue / MonsterMusic](https://github.com/ZTFtrue/MonsterMusic) - A music player on android platform, developed by Andoroid composer
@@ -291,6 +300,9 @@
 
 ## Python
 
+* 【2024-06-02】[pengHTYX / Era3D](https://github.com/pengHTYX/Era3D) - 
+* 【2024-06-02】[sandeco / prompts](https://github.com/sandeco/prompts) - 
+* 【2024-06-02】[aws-samples / amazon-bedrock-serverless-prompt-chaining](https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining) - 
 * 【2024-06-01】[bin123apple / AutoCoder](https://github.com/bin123apple/AutoCoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 * 【2024-06-01】[adysec / wechat_sqlite](https://github.com/adysec/wechat_sqlite) - 微信sqlite解密 | 从内存中快速搜索指定数据。获取基址+偏移量与特征，从而达到微信版本每次更新不需要重新查找地址。可获取自己电脑上已登录微信的微信号，wxid，手机号，sqlite解密密钥。解密微信sqlite数据库中存放的历史消息记录
 * 【2024-05-31】[drivendataorg / cookiecutter-data-science](https://github.com/drivendataorg/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
@@ -493,6 +505,7 @@
 
 ## Javascript
 
+* 【2024-06-02】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
 * 【2024-06-01】[adysec / cf-mirror](https://github.com/adysec/cf-mirror) - AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现
 * 【2024-06-01】[QiuChenlyOpenSource / 91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 * 【2024-05-31】[844704781 / ximalaya_downloader](https://github.com/844704781/ximalaya_downloader) - ⭐️ 一个可爱且任性的 喜马拉雅专辑音频无限制下载器O(∩_∩)O
@@ -656,6 +669,9 @@
 
 ## C
 
+* 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
+* 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database - Next generation unified database for Analytics and AI
+* 【2024-06-02】[Waterdish / Shipwright-Android](https://github.com/Waterdish/Shipwright-Android) - Ship of Harkinian Android Port
 * 【2024-06-01】[greenplum-db / gpdb-archive](https://github.com/greenplum-db/gpdb-archive) - Greenplum Database - Massively Parallel PostgreSQL for Analytics. An open-source massively parallel data platform for analytics, machine learning and AI.
 * 【2024-06-01】[wolfi-dev / os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 * 【2024-05-31】[brian-smith-github / ch32v003_stt](https://github.com/brian-smith-github/ch32v003_stt) - Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller
@@ -808,6 +824,7 @@
 
 ## C#
 
+* 【2024-06-02】[Unity-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-06-01】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 * 【2024-05-29】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
 * 【2024-05-28】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
@@ -898,6 +915,9 @@
 
 ## Html
 
+* 【2024-06-02】[karpathy / calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
+* 【2024-06-02】[w3c / webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
+* 【2024-06-02】[005Konz / Blooket-Cheats](https://github.com/005Konz/Blooket-Cheats) - 
 * 【2024-06-01】[rubyforgood / pet-rescue](https://github.com/rubyforgood/pet-rescue) - Pet Rescue is an application making it easy to link adopters/fosters with pets. We work with grassroots pet rescue organizations to understand how we can make the most impact.
 * 【2024-05-31】[iam-veeramalla / ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero) - Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.
 * 【2024-05-31】[SiyangLi99 / open-alteryx-macro](https://github.com/SiyangLi99/open-alteryx-macro) - Welcome to the 'Open-Alteryx-Macro' project. This project is aimed at providing an open-source solution for managing and updating Alteryx Macros.
@@ -1192,6 +1212,8 @@
 
 ## Unknown
 
+* 【2024-06-02】[LzhDreamcc / Blum-auto-bot](https://github.com/LzhDreamcc/Blum-auto-bot) - Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible
+* 【2024-06-02】[DavidS95 / Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 * 【2024-05-31】[eosphoros-ai / Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Curated tutorials and resources for Large Language Models, Text2SQL, Text2DSL、Text2API、Text2Vis and more.
 * 【2024-05-30】[DNM-Bible / DNM-Bible](https://github.com/DNM-Bible/DNM-Bible) - Hey, this is verified list of darknet resources
 * 【2024-05-30】[hichemfelouat / ML_DL_Course](https://github.com/hichemfelouat/ML_DL_Course) - Machine Learning and Deep Learning Course
