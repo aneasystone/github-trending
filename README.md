@@ -251,6 +251,8 @@
 
 ## Java
 
+* 【2024-06-05】[pen4uin / java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
+* 【2024-06-05】[pen4uin / java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
 * 【2024-06-04】[FaculdadeDescomplica / pratica_integradora_tecnologias_disruptivas](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas) - 
 * 【2024-06-04】[MultiArrayQueue / MultiArrayQueue](https://github.com/MultiArrayQueue/MultiArrayQueue) - Multi-Array Queue program codes
 * 【2024-06-04】[Alanosy / online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) - 在线考试系统,springboot+vue
@@ -315,6 +317,10 @@
 
 ## Python
 
+* 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
+* 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
+* 【2024-06-05】[julep-ai / julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks. ~Supabase for building AI agents.
+* 【2024-06-05】[myhhub / KnowledgeGraph](https://github.com/myhhub/KnowledgeGraph) - knowledge graph知识图谱,从零开始构建知识图谱
 * 【2024-06-04】[TMElyralab / Comfyui-MusePose](https://github.com/TMElyralab/Comfyui-MusePose) - 
 * 【2024-06-03】[G-U-N / Phased-Consistency-Model](https://github.com/G-U-N/Phased-Consistency-Model) - Boosting the performance of consistency models with PCM!
 * 【2024-06-03】[fofr / cog-consistent-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
@@ -525,6 +531,7 @@
 
 ## Javascript
 
+* 【2024-06-05】[ForrestKnight / 3d-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
 * 【2024-06-04】[VajiraTech / VAJIRA-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
 * 【2024-06-03】[Muskansahuincredible / StudyNotion-An-Online-Education-Platform](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform) - 
 * 【2024-06-03】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
@@ -697,6 +704,7 @@
 
 ## C
 
+* 【2024-06-05】[CTR-tools / CTR-ModSDK](https://github.com/CTR-tools/CTR-ModSDK) - ModSDK - a modding toolkit to create mods for Crash Team Racing in C. This repository also houses an effort to fully decompile and reverse-engineer CTR in C.
 * 【2024-06-03】[Pzqqt / android_kernel_xiaomi_marble](https://github.com/Pzqqt/android_kernel_xiaomi_marble) - Melt Kernel For Redmi Note 12 Turbo (marble) / Poco F5 (marblein)
 * 【2024-06-02】[cococry / leif](https://github.com/cococry/leif) - Minimal, configurable & GPU accelerated Immediate Mode UI Library written with modern OpenGL
 * 【2024-06-02】[cloudberrydb / cloudberrydb](https://github.com/cloudberrydb/cloudberrydb) - Cloudberry Database - Next generation unified database for Analytics and AI
@@ -854,6 +862,7 @@
 
 ## C#
 
+* 【2024-06-05】[Cysharp / ConsoleAppFramework](https://github.com/Cysharp/ConsoleAppFramework) - Zero Dependency, Zero Overhead, Zero Reflection, Zero Allocation, AOT Safe CLI Framework powered by C# Source Generator.
 * 【2024-06-04】[thebookisclosed / AmperageKit](https://github.com/thebookisclosed/AmperageKit) - One stop shop for enabling Recall in Windows 11 version 24H2 on unsupported devices
 * 【2024-06-04】[awaescher / OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for .NET
 * 【2024-06-03】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
@@ -948,6 +957,8 @@
 
 ## Html
 
+* 【2024-06-05】[chrispsn / mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
+* 【2024-06-05】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-06-04】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
 * 【2024-06-04】[YingqingHe / Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - 🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).
 * 【2024-06-03】[Huxpro / huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
@@ -1068,6 +1079,9 @@
 
 ## Css
 
+* 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
+* 【2024-06-05】[horizon-ui / shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Dashboard Template - Horizon AI Boilerplate
+* 【2024-06-05】[johnggli / linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 * 【2024-06-04】[100xdevs-cohort-2 / paytm-project-starter-monorepo](https://github.com/100xdevs-cohort-2/paytm-project-starter-monorepo) - 
 * 【2024-06-04】[lisandrascruz / PretaLab-c10-Disney-LP-Projeto](https://github.com/lisandrascruz/PretaLab-c10-Disney-LP-Projeto) - 
 * 【2024-06-01】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS07](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS07) - [DJS07] Starter Code for Module 7's Project Submission
@@ -1250,6 +1264,11 @@
 
 ## Unknown
 
+* 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library.
+* 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
+* 【2024-06-05】[biowarrior72mactep / Crusader-Kings-III-byb4f34](https://github.com/biowarrior72mactep/Crusader-Kings-III-byb4f34) - Crusader Kings III Crusader Kings III cheat Crusader Kings III cheats Crusader Kings III aim Crusader Kings III aimbot Crusader Kings III hack Crusader Kings III hacks Crusader Kings III esp Crusader Kings III wallhack Crusader Kings III wh Crusader Kings III softaim cheat Crusader Kings III cheats Crusader Kings III hack Crusader Kings III hacks
+* 【2024-06-05】[ConnersHua / RuleGo](https://github.com/ConnersHua/RuleGo) - Rule: Global Offensive
+* 【2024-06-05】[infinition / Bjorn](https://github.com/infinition/Bjorn) - Bjorn is an educational cybersecurity project designed to run on a Raspberry Pi Zero equipped with a Waveshare screen. Once connected to a network (WiFi, Ethernet, Bluetooth, or USB), Bjorn will discover targets on the network, identify open ports, exposed services, and potential vulnerabilities.
 * 【2024-06-04】[DustinWin / clash_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、mihomo 内核、sing-box 内核、sing-box PuerNya 版内核、Clash dashboard 面板和 AdGuardHome 最新版
 * 【2024-06-04】[Sourav692 / Data-Engineer-Books](https://github.com/Sourav692/Data-Engineer-Books) - This repo contains some of the most famous books on Data Engineering
 * 【2024-06-03】[moest-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
