@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+* 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 * 【2024-06-04】[adrianhajdin / podcastr](https://github.com/adrianhajdin/podcastr) - 
 * 【2024-06-04】[aaedmusa / Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
@@ -251,6 +253,7 @@
 
 ## Java
 
+* 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-05】[pen4uin / java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
 * 【2024-06-05】[pen4uin / java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
 * 【2024-06-04】[FaculdadeDescomplica / pratica_integradora_tecnologias_disruptivas](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas) - 
@@ -317,6 +320,7 @@
 
 ## Python
 
+* 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
 * 【2024-06-05】[julep-ai / julep](https://github.com/julep-ai/julep) - Open-source alternative to Assistant's API with a managed backend for memory, RAG, tools and tasks. ~Supabase for building AI agents.
@@ -631,6 +635,7 @@
 
 ## Go
 
+* 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 * 【2024-06-03】[fruitbars / simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.
