@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-06-09】[idootop / mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+* 【2024-06-09】[hackerb9 / lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 * 【2024-06-08】[jordanbaird / Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 * 【2024-06-08】[google / mesop](https://github.com/google/mesop) - 
 * 【2024-06-04】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
@@ -253,6 +255,9 @@
 
 ## Java
 
+* 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
+* 【2024-06-09】[confluentinc / parallel-consumer](https://github.com/confluentinc/parallel-consumer) - Parallel Apache Kafka client wrapper with per message ACK, client side queueing, a simpler consumer/producer API with key concurrency and extendable non-blocking IO processing.
+* 【2024-06-09】[youtube / cobalt](https://github.com/youtube/cobalt) - Cobalt is a lightweight HTML5 application container
 * 【2024-06-08】[tencentmusic / supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 * 【2024-06-05】[pen4uin / java-memshell-generator](https://github.com/pen4uin/java-memshell-generator) - 一款支持高度自定义的 Java 内存马生成工具
 * 【2024-06-05】[pen4uin / java-echo-generator](https://github.com/pen4uin/java-echo-generator) - 一款支持高度自定义的 Java 回显载荷生成工具
@@ -635,6 +640,7 @@
 
 ## Go
 
+* 【2024-06-09】[playwright-community / playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 * 【2024-06-08】[eksctl-io / eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
 * 【2024-06-04】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
 * 【2024-06-04】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
@@ -795,6 +801,7 @@
 
 ## C++
 
+* 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-01】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
 * 【2024-06-01】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
