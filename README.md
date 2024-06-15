@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 * 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
 * 【2024-06-14】[goldmansachs / gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 * 【2024-06-11】[DaoCloud / public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
@@ -258,6 +259,8 @@
 
 ## Java
 
+* 【2024-06-15】[innoveit / react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager) - React Native BLE communication module
+* 【2024-06-15】[spring-projects / sts4](https://github.com/spring-projects/sts4) - The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Eclipse, Visual Studio Code, and Theia
 * 【2024-06-14】[spacious-team / investbook](https://github.com/spacious-team/investbook) - Оценка эффективности инвестиций с учетом комиссий, налогов (удержанных и ожидающихся), дивидендов и купонов.
 * 【2024-06-11】[batfish / batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.
 * 【2024-06-09】[tjake / Jlama](https://github.com/tjake/Jlama) - Jlama is a modern Java inference engine for LLMs
@@ -545,6 +548,11 @@
 
 ## Javascript
 
+* 【2024-06-15】[hotwired / turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
+* 【2024-06-15】[aws-actions / amazon-ecs-deploy-task-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service.
+* 【2024-06-15】[software-mansion / react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
+* 【2024-06-15】[debezium / debezium-examples](https://github.com/debezium/debezium-examples) - Examples for running Debezium (Configuration, Docker Compose files etc.)
+* 【2024-06-15】[OpenZeppelin / openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) - Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.
 * 【2024-06-14】[paulmillr / chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 * 【2024-06-07】[xaboy / form-create](https://github.com/xaboy/form-create) - 🔥🔥🔥 强大的动态表单生成器，通过数据驱动表单渲染，支持可视化设计。提高开发者对表单的开发效率。目前在OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 * 【2024-06-05】[ForrestKnight / 3d-portfolio](https://github.com/ForrestKnight/3d-portfolio) - 
@@ -646,6 +654,7 @@
 
 ## Go
 
+* 【2024-06-15】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 * 【2024-06-14】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
 * 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-11】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
@@ -985,6 +994,8 @@
 
 ## Html
 
+* 【2024-06-15】[OCA / maintenance](https://github.com/OCA/maintenance) - Odoo modules for businesses that implies maintenance tasks
+* 【2024-06-15】[foundation / foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 * 【2024-06-05】[chrispsn / mesh-spreadsheet](https://github.com/chrispsn/mesh-spreadsheet) - A data and code editor that feels like a spreadsheet.
 * 【2024-06-05】[SAP / ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 * 【2024-06-04】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
