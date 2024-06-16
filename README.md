@@ -333,6 +333,8 @@
 
 ## Python
 
+* 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+* 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
 * 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
 * 【2024-06-05】[AiuniAI / Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 * 【2024-06-05】[tevslin / meeting-reporter](https://github.com/tevslin/meeting-reporter) - Human-AI collaboration to produce a newstory about a meeting from minutes or transcript
@@ -735,6 +737,8 @@
 
 ## C
 
+* 【2024-06-16】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
+* 【2024-06-16】[a0rtega / pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * 【2024-06-14】[RubyMetric / chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具. Change Source for every software on every platform from the command line.
 * 【2024-06-06】[riscv-software-src / riscv-tests](https://github.com/riscv-software-src/riscv-tests) - 
 * 【2024-06-06】[AlkaMotors / AM32-MultiRotor-ESC-firmware](https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware) - Firmware for stm32f051 based speed controllers for use with mutirotors
@@ -1118,6 +1122,7 @@
 
 ## Css
 
+* 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
 * 【2024-06-05】[horizon-ui / shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Dashboard Template - Horizon AI Boilerplate
 * 【2024-06-05】[johnggli / linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
