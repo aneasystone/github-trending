@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-06-19】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * 【2024-06-18】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-15】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 * 【2024-06-14】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
@@ -336,6 +337,7 @@
 
 ## Python
 
+* 【2024-06-19】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
 * 【2024-06-16】[reorx / httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 * 【2024-06-16】[oceanbase / obdiag](https://github.com/oceanbase/obdiag) - obdiag (OceanBase Diagnostic Tool) is designed to help OceanBase users quickly gather necessary information and analyze the root cause of the problem.
 * 【2024-06-08】[mategol / PySilon-malware](https://github.com/mategol/PySilon-malware) - Advanced RAT written in Python language, fully controllable through Discord with dedicated GUI builder to make preparation easier.
@@ -553,6 +555,7 @@
 
 ## Javascript
 
+* 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
 * 【2024-06-15】[aws-actions / amazon-ecs-deploy-task-definition](https://github.com/aws-actions/amazon-ecs-deploy-task-definition) - Registers an Amazon ECS task definition and deploys it to an ECS service.
 * 【2024-06-15】[software-mansion / react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
@@ -659,6 +662,7 @@
 
 ## Go
 
+* 【2024-06-19】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 * 【2024-06-18】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-15】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 * 【2024-06-14】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
@@ -829,6 +833,7 @@
 
 ## C++
 
+* 【2024-06-19】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-09】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-04】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-06-01】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
