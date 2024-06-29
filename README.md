@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-06-29】[stacks-network / stacks-core](https://github.com/stacks-network/stacks-core) - The Stacks blockchain implementation
 * 【2024-06-25】[modelscope / DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 * 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-23】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
@@ -570,6 +571,8 @@
 
 ## Javascript
 
+* 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+* 【2024-06-29】[ciiiii / cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 * 【2024-06-27】[jhuckaby / performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 * 【2024-06-19】[DefiLlama / chainlist](https://github.com/DefiLlama/chainlist) - 
 * 【2024-06-15】[hotwired / turbo-rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app
@@ -932,6 +935,7 @@
 
 ## C#
 
+* 【2024-06-29】[SonarSource / sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects
 * 【2024-06-24】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring.
 * 【2024-06-24】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2024-06-23】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
