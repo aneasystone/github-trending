@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-07-02】[YaLTeR / niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 * 【2024-07-01】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 * 【2024-06-30】[snakers4 / silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 * 【2024-06-30】[ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -576,6 +577,7 @@
 
 ## Javascript
 
+* 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
 * 【2024-07-01】[antfu / vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 * 【2024-07-01】[twbs / icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 * 【2024-06-29】[dotenvx / dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
@@ -865,6 +867,7 @@
 
 ## C++
 
+* 【2024-07-02】[liyunfan1223 / mod-playerbots](https://github.com/liyunfan1223/mod-playerbots) - AzerothCore Playerbots Module
 * 【2024-07-01】[multitheftauto / mtasa-blue](https://github.com/multitheftauto/mtasa-blue) - Multi Theft Auto is a game engine that incorporates an extendable network play element into a proprietary commercial single-player game.
 * 【2024-06-30】[zhuzichu520 / FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 * 【2024-06-26】[maplibre / maplibre-native](https://github.com/maplibre/maplibre-native) - MapLibre Native - Interactive vector tile maps for iOS, Android and other platforms.
@@ -1184,6 +1187,7 @@
 
 ## Css
 
+* 【2024-07-02】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
 * 【2024-06-30】[Dalufishe / palserver-GUI](https://github.com/Dalufishe/palserver-GUI) - GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。
 * 【2024-06-16】[apu52 / METAVERSE](https://github.com/apu52/METAVERSE) - 🚀 Welcome to our GitHub repository, Officially accepted for GSSOC'24 🌟& SSOC'24🌟 Explore a dynamic collection of front-end projects, powered by HTML, CSS, JavaScript, and React. Join our community to contribute your creations 🎨, add features 🛠️, or squash bugs 🐛 in existing projects.
 * 【2024-06-05】[mdazfar2 / HelpOps-Hub](https://github.com/mdazfar2/HelpOps-Hub) - Welcome to HelpOps-Hub: your go-to resource for essential DevOps tools and technologies. Simplify your DevOps journey with curated guides, tools, and best practices. Never get stuck again!⚡
@@ -1371,6 +1375,7 @@
 
 ## Unknown
 
+* 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
 * 【2024-06-05】[Crispher / MathlibExplorer](https://github.com/Crispher/MathlibExplorer) - A visualization tool for Lean's mathlib library.
 * 【2024-06-05】[coffinxp / payloads](https://github.com/coffinxp/payloads) - 
 * 【2024-06-05】[biowarrior72mactep / Crusader-Kings-III-byb4f34](https://github.com/biowarrior72mactep/Crusader-Kings-III-byb4f34) - Crusader Kings III Crusader Kings III cheat Crusader Kings III cheats Crusader Kings III aim Crusader Kings III aimbot Crusader Kings III hack Crusader Kings III hacks Crusader Kings III esp Crusader Kings III wallhack Crusader Kings III wh Crusader Kings III softaim cheat Crusader Kings III cheats Crusader Kings III hack Crusader Kings III hacks
