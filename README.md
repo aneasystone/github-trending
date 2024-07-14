@@ -30,6 +30,7 @@
 
 ## Python
 
+* 【2024-07-14】[opendatalab / MinerU](https://github.com/opendatalab/MinerU) - MinerU is a one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 * 【2024-07-13】[InternLM / Tutorial](https://github.com/InternLM/Tutorial) - LLM Tutorial
 * 【2024-07-12】[milesial / Pytorch-UNet](https://github.com/milesial/Pytorch-UNet) - PyTorch implementation of the U-Net for image semantic segmentation with high quality images
 * 【2024-07-12】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
