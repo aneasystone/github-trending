@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-07-19】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 * 【2024-07-18】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 * 【2024-07-16】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-13】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
@@ -48,6 +49,7 @@
 
 ## Javascript
 
+* 【2024-07-19】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-07】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-06】[react-dropzone / react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 * 【2024-07-02】[toncenter / tonweb](https://github.com/toncenter/tonweb) - JavaScript SDK for TON (The Open Network)
@@ -67,6 +69,8 @@
 
 ## C
 
+* 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
+* 【2024-07-19】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 * 【2024-07-12】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 * 【2024-07-12】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
@@ -110,6 +114,7 @@
 
 ## Unknown
 
+* 【2024-07-19】[miss-mumu / developer2gwy](https://github.com/miss-mumu/developer2gwy) - 公务员从入门到上岸，最佳程序员公考实践教程
 * 【2024-07-16】[xlenore / ps2-covers](https://github.com/xlenore/ps2-covers) - PS2 Covers Collection
 * 【2024-07-07】[Consensys / ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 * 【2024-07-02】[The-Cool-Coders / Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) - A Collection of application ideas that can be used to improve your coding skills ❤.
