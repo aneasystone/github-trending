@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-07-24】[careywyr / UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN) - UnderstandingDeepLearing中文翻译
+* 【2024-07-24】[sinaatalay / rendercv](https://github.com/sinaatalay/rendercv) - A LaTeX CV/Resume Framework
+* 【2024-07-24】[umijs / umi](https://github.com/umijs/umi) - A framework in react community ✨
 * 【2024-07-21】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
 * 【2024-07-19】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 * 【2024-07-18】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -77,6 +80,8 @@
 
 ## C
 
+* 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
+* 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
 * 【2024-07-19】[siduck / chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 * 【2024-07-19】[nginx / njs](https://github.com/nginx/njs) - A subset of JavaScript language to use in nginx
 * 【2024-07-18】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
