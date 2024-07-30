@@ -66,6 +66,7 @@
 
 ## Javascript
 
+* 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 * 【2024-07-21】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
@@ -95,6 +96,7 @@
 
 ## C
 
+* 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
 * 【2024-07-24】[microsoft / ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows
 * 【2024-07-24】[viti95 / FastDoom](https://github.com/viti95/FastDoom) - Doom port for DOS, optimized to be as fast as possible!
