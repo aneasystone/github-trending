@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-08-03】[RSSNext / follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+* 【2024-08-03】[pytorch / torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
+* 【2024-08-03】[teaxyz / white-paper](https://github.com/teaxyz/white-paper) - how will the protocol work?
 * 【2024-07-29】[OpenGenerativeAI / llm-colosseum](https://github.com/OpenGenerativeAI/llm-colosseum) - Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM
 * 【2024-07-28】[freeCodeCamp / devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 * 【2024-07-27】[FishHawk / auto-novel](https://github.com/FishHawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
@@ -34,6 +37,7 @@
 
 ## Java
 
+* 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 * 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2024-07-27】[TimefoldAI / timefold-solver](https://github.com/TimefoldAI/timefold-solver) - The open source Solver AI for Java, Python and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.
 * 【2024-07-05】[apache / gravitino](https://github.com/apache/gravitino) - World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
@@ -43,6 +47,7 @@
 
 ## Python
 
+* 【2024-08-03】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
 * 【2024-08-01】[DAGWorks-Inc / burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
 * 【2024-08-01】[usnistgov / dioptra](https://github.com/usnistgov/dioptra) - Test Software for the Characterization of AI Technologies
 * 【2024-07-31】[TDAmeritrade / stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library for modern time series analysis
@@ -70,6 +75,7 @@
 
 ## Javascript
 
+* 【2024-08-03】[CanadaHonk / porffor](https://github.com/CanadaHonk/porffor) - A from-scratch experimental AOT JS engine, written in JS
 * 【2024-07-30】[spicetify / cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 * 【2024-07-28】[jquery / jquery-ui](https://github.com/jquery/jquery-ui) - The official jQuery user interface library.
 * 【2024-07-25】[PrismJS / prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -83,6 +89,7 @@
 
 ## Go
 
+* 【2024-08-03】[KindlingProject / kindling](https://github.com/KindlingProject/kindling) - eBPF-based Cloud Native Monitoring Tool
 * 【2024-07-28】[cyclops-ui / cyclops](https://github.com/cyclops-ui/cyclops) - Developer Friendly Kubernetes 👁️
 * 【2024-07-25】[progrium / darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 * 【2024-07-22】[kkdai / youtube](https://github.com/kkdai/youtube) - Download Youtube Video in Golang
@@ -100,6 +107,7 @@
 
 ## C
 
+* 【2024-08-03】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 * 【2024-07-31】[valignatev / socd](https://github.com/valignatev/socd) - SOCD cleaner tool for epic gamers
 * 【2024-07-30】[c3lang / c3c](https://github.com/c3lang/c3c) - Compiler for the C3 language
 * 【2024-07-29】[hanwckf / bl-mt798x](https://github.com/hanwckf/bl-mt798x) - ATF and u-boot for mt798x.
@@ -131,6 +139,7 @@
 
 ## C#
 
+* 【2024-08-03】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 * 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin.
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
 * 【2024-07-12】[cairoshell / cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
