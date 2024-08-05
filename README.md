@@ -50,6 +50,7 @@
 
 ## Python
 
+* 【2024-08-05】[McGill-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-04】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 * 【2024-08-03】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
 * 【2024-08-01】[DAGWorks-Inc / burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
@@ -112,6 +113,7 @@
 
 ## C
 
+* 【2024-08-05】[pr3y / Bruce](https://github.com/pr3y/Bruce) - Firmware for m5stack Cardputer, StickC and ESP32
 * 【2024-08-04】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-03】[basil00 / Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 * 【2024-07-31】[valignatev / socd](https://github.com/valignatev/socd) - SOCD cleaner tool for epic gamers
@@ -145,6 +147,8 @@
 
 ## C#
 
+* 【2024-08-05】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+* 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
 * 【2024-08-03】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 * 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin.
 * 【2024-07-22】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
