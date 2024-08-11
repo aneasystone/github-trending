@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-08-11】[MahmoudAshraf97 / whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 * 【2024-08-09】[hacksider / Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
 * 【2024-08-09】[nerfstudio-project / gsplat](https://github.com/nerfstudio-project/gsplat) - CUDA accelerated rasterization of gaussian splatting
 * 【2024-08-07】[trailofbits / multiplier](https://github.com/trailofbits/multiplier) - Code auditing productivity multiplier.
@@ -43,6 +44,7 @@
 
 ## Java
 
+* 【2024-08-11】[spring-projects / spring-session](https://github.com/spring-projects/spring-session) - Spring Session
 * 【2024-08-04】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 * 【2024-08-03】[mcastillof / FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 * 【2024-07-28】[apache / fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -159,6 +161,8 @@
 
 ## C#
 
+* 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
+* 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 * 【2024-08-07】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
 * 【2024-08-05】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 * 【2024-08-05】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
