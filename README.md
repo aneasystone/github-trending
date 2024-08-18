@@ -65,6 +65,7 @@
 
 ## Python
 
+* 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-16】[sustcsonglin / flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 * 【2024-08-16】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
@@ -122,6 +123,7 @@
 
 ## Go
 
+* 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 * 【2024-08-16】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 * 【2024-08-15】[kataras / iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀
 * 【2024-08-09】[gabriel-vasile / mimetype](https://github.com/gabriel-vasile/mimetype) - A fast Golang library for media type and file extension detection, based on magic numbers
@@ -144,6 +146,7 @@
 
 ## C
 
+* 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
 * 【2024-08-09】[openocd-org / openocd](https://github.com/openocd-org/openocd) - Official OpenOCD Read-Only Mirror (no pull requests)
 * 【2024-08-07】[ataradov / usb-sniffer-lite](https://github.com/ataradov/usb-sniffer-lite) - A simple USB sniffer based on Raspberry Pi RP2040
@@ -183,6 +186,7 @@
 
 ## C#
 
+* 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
 * 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-11】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 * 【2024-08-11】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
@@ -203,6 +207,7 @@
 
 ## Html
 
+* 【2024-08-18】[tc39 / proposal-decimal](https://github.com/tc39/proposal-decimal) - Built-in exact decimal numbers for JavaScript
 * 【2024-08-10】[seeingtheory / Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
 * 【2024-08-01】[Esri / calcite-design-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
 * 【2024-07-29】[a1ex4 / ownfoil](https://github.com/a1ex4/ownfoil) - Lightweight and customizable Tinfoil Shop manager, with automatic saves backup.
@@ -214,6 +219,7 @@
 
 ## Css
 
+* 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
 * 【2024-08-15】[biopython / biopython.github.io](https://github.com/biopython/biopython.github.io) - Source of biopython.org website, migrated from MediaWiki
 * 【2024-08-09】[spring-petclinic / spring-petclinic-microservices](https://github.com/spring-petclinic/spring-petclinic-microservices) - Distributed version of Spring Petclinic built with Spring Cloud
 * 【2024-07-31】[piyushg-07 / blogzen-OpenSource](https://github.com/piyushg-07/blogzen-OpenSource) - A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!
@@ -224,6 +230,7 @@
 
 ## Unknown
 
+* 【2024-08-18】[yolain / ComfyUI-Yolain-Workflows](https://github.com/yolain/ComfyUI-Yolain-Workflows) - Some awesome comfyui workflows in here, and they are built using the comfyui-easy-use node package.
 * 【2024-08-17】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
 * 【2024-08-10】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 * 【2024-08-09】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
