@@ -55,6 +55,7 @@
 
 ## Java
 
+* 【2024-08-22】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-21】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
 * 【2024-08-20】[PBH-BTN / PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)
 * 【2024-08-20】[REAndroid / APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
@@ -73,6 +74,10 @@
 
 ## Python
 
+* 【2024-08-22】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
+* 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
+* 【2024-08-22】[asavinov / intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
+* 【2024-08-22】[NVlabs / VILA](https://github.com/NVlabs/VILA) - VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)
 * 【2024-08-20】[tornadoweb / tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 * 【2024-08-18】[opendatalab / labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
 * 【2024-08-17】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
@@ -113,6 +118,7 @@
 
 ## Javascript
 
+* 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-20】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * 【2024-08-17】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-15】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
@@ -133,6 +139,8 @@
 
 ## Go
 
+* 【2024-08-22】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
+* 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-20】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 * 【2024-08-18】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
 * 【2024-08-16】[NVIDIA / dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
@@ -199,6 +207,7 @@
 
 ## C#
 
+* 【2024-08-22】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real-time multi-tool built in Unity.
 * 【2024-08-20】[RaidMax / IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers.
 * 【2024-08-18】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
 * 【2024-08-17】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
