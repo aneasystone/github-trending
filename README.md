@@ -75,6 +75,7 @@
 
 ## Python
 
+* 【2024-08-24】[SylphAI-Inc / AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.
 * 【2024-08-22】[ZhengPeng7 / BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 * 【2024-08-22】[pymupdf / PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 * 【2024-08-22】[asavinov / intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
@@ -119,6 +120,7 @@
 
 ## Javascript
 
+* 【2024-08-24】[micromatch / micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, stylelint, nyc, ava, and many others! Follow micromatch's author: https://github.com/jonschlinkert
 * 【2024-08-23】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-22】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-20】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -167,6 +169,7 @@
 
 ## C
 
+* 【2024-08-24】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-21】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-18】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
 * 【2024-08-15】[kilograham / rp2040-doom](https://github.com/kilograham/rp2040-doom) - Fully-featured Doom port for the Raspberry Pi RP2040 microcontroller
@@ -235,6 +238,7 @@
 
 ## Html
 
+* 【2024-08-24】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-18】[tc39 / proposal-decimal](https://github.com/tc39/proposal-decimal) - Built-in exact decimal numbers for JavaScript
 * 【2024-08-10】[seeingtheory / Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
 * 【2024-08-01】[Esri / calcite-design-system](https://github.com/Esri/calcite-design-system) - A monorepo containing the packages for Esri's Calcite Design System
