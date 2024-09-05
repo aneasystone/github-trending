@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-09-05】[librespot-org / librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+* 【2024-09-05】[PaddlePaddle / PaddleHelix](https://github.com/PaddlePaddle/PaddleHelix) - Bio-Computing Platform Featuring Large-Scale Representation Learning and Multi-Task Deep Learning “螺旋桨”生物计算工具集
+* 【2024-09-05】[Freika / dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 * 【2024-09-03】[MLSysOps / MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG
 * 【2024-09-03】[graviraja / MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - 
 * 【2024-09-02】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
@@ -63,6 +66,8 @@
 
 ## Python
 
+* 【2024-09-05】[spyder-ide / spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
+* 【2024-09-05】[mvt-project / mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 * 【2024-09-03】[Recol / DLSS-Updater](https://github.com/Recol/DLSS-Updater) - What if you could update all the games that are detected on your system?
 * 【2024-09-03】[hanxi / xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 * 【2024-09-03】[dromara / domain-admin](https://github.com/dromara/domain-admin) - 域名SSL证书监测平台、SSL证书申请自动续签。Domain and SSL Cert monitor System.
@@ -192,6 +197,7 @@
 
 ## Css
 
+* 【2024-09-05】[Automattic / themes](https://github.com/Automattic/themes) - Free WordPress themes made by Automattic for WordPress.org and WordPress.com.
 * 【2024-09-03】[AnswerDotAI / fasthtml-example](https://github.com/AnswerDotAI/fasthtml-example) - Example fasthtml applications demonstrating a range of web programming techniques
 * 【2024-08-31】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 * 【2024-08-18】[delaneyj / datastar](https://github.com/delaneyj/datastar) - 
