@@ -56,6 +56,7 @@
 
 ## Java
 
+* 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 * 【2024-09-07】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 * 【2024-09-03】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
@@ -75,6 +76,8 @@
 
 ## Python
 
+* 【2024-09-14】[Future-House / paper-qa](https://github.com/Future-House/paper-qa) - High accuracy RAG for answering questions from scientific documents with citations
+* 【2024-09-14】[open-compass / VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks
 * 【2024-09-13】[runhey / OnmyojiAutoScript](https://github.com/runhey/OnmyojiAutoScript) - Onmyoji Auto Script | 阴阳师脚本
 * 【2024-09-12】[run-llama / llama_deploy](https://github.com/run-llama/llama_deploy) - 
 * 【2024-09-12】[DataDog / integrations-core](https://github.com/DataDog/integrations-core) - Core integrations of the Datadog Agent
@@ -160,6 +163,7 @@
 
 ## C
 
+* 【2024-09-14】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-07】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
 * 【2024-09-04】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
 * 【2024-09-02】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
@@ -175,6 +179,7 @@
 
 ## C++
 
+* 【2024-09-14】[symless / synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 * 【2024-09-12】[turing-machines / mentals-ai](https://github.com/turing-machines/mentals-ai) - 🍓🍓🍓 Agents in Markdown syntax (loops, memory and tools included).
 * 【2024-09-09】[openblack / openblack](https://github.com/openblack/openblack) - openblack is an open-source game engine that supports playing Black & White (2001).
 * 【2024-09-07】[sz3 / libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
@@ -232,6 +237,7 @@
 
 ## Css
 
+* 【2024-09-14】[dhulihan / hooligan](https://github.com/dhulihan/hooligan) - A low-lit fully responsive theme for Jekyll-Bootstrap.
 * 【2024-09-09】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
 * 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-09-07】[teacat / tocas](https://github.com/teacat/tocas) - 👀 The fastest and most intuitive way to build diverse websites and progressive web application interfaces.
