@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-09-16】[frdel / agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 * 【2024-09-11】[josephburnett / jd](https://github.com/josephburnett/jd) - JSON diff and patch
 * 【2024-09-10】[RSSNext / Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 * 【2024-09-10】[johannesjo / super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
@@ -145,6 +146,7 @@
 
 ## Go
 
+* 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-10】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
 * 【2024-09-02】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
