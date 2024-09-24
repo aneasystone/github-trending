@@ -83,6 +83,7 @@
 
 ## Python
 
+* 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-21】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 * 【2024-09-21】[ctripcorp / flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 * 【2024-09-17】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
@@ -158,6 +159,7 @@
 
 ## Go
 
+* 【2024-09-24】[mikestefanello / pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go
 * 【2024-09-23】[konstructio / kubefirst](https://github.com/konstructio/kubefirst) - The Kubefirst Open Source Platform
 * 【2024-09-16】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-12】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
@@ -219,6 +221,7 @@
 
 ## C#
 
+* 【2024-09-24】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * 【2024-09-11】[microsoftgraph / group-membership-management](https://github.com/microsoftgraph/group-membership-management) - Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups. Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
@@ -278,6 +281,7 @@
 
 ## Unknown
 
+* 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-23】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 * 【2024-09-18】[ouckah / Summer2025-Internships](https://github.com/ouckah/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-09-15】[oz123 / awesome-c](https://github.com/oz123/awesome-c) - A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
