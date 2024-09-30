@@ -207,6 +207,7 @@
 
 ## C
 
+* 【2024-09-30】[OpenPrinting / cups-browsed](https://github.com/OpenPrinting/cups-browsed) - 
 * 【2024-09-29】[orangeduck / Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 * 【2024-09-29】[OpenPrinting / cups](https://github.com/OpenPrinting/cups) - OpenPrinting CUPS Sources
 * 【2024-09-25】[cnlohr / rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
@@ -250,6 +251,7 @@
 
 ## C#
 
+* 【2024-09-30】[HearthSim / Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-09-24】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
 * 【2024-09-22】[thomhurst / TUnit](https://github.com/thomhurst/TUnit) - A modern, fast and flexible .NET testing framework
 * 【2024-09-15】[netwrix / pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
