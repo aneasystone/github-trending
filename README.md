@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-10-04】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
+* 【2024-10-04】[simplex-chat / simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+* 【2024-10-04】[xenova / whisper-web](https://github.com/xenova/whisper-web) - ML-powered speech recognition directly in your browser
 * 【2024-10-03】[github-linguist / linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 * 【2024-09-29】[mediar-ai / screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 * 【2024-09-29】[exo-explore / exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -103,6 +106,8 @@
 
 ## Python
 
+* 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
+* 【2024-10-04】[lightly-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
 * 【2024-09-29】[pytorch / ao](https://github.com/pytorch/ao) - PyTorch native quantization and sparsity for training and inference
 * 【2024-09-29】[google-research / circuit_training](https://github.com/google-research/circuit_training) - 
@@ -239,6 +244,8 @@
 
 ## C++
 
+* 【2024-10-04】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+* 【2024-10-04】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 * 【2024-10-03】[oneapi-src / level-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
 * 【2024-10-02】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 * 【2024-10-02】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
@@ -297,6 +304,7 @@
 
 ## Html
 
+* 【2024-10-04】[tushargupta1504 / Medical-Website](https://github.com/tushargupta1504/Medical-Website) - Very basic project for the beginner''s
 * 【2024-10-03】[maximevaillancourt / digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) - Start your own digital garden using this Jekyll template 🌱
 * 【2024-09-29】[steveseguin / vdo.ninja](https://github.com/steveseguin/vdo.ninja) - VDO.Ninja is a powerful tool that lets you bring remote video feeds into OBS or other studio software via WebRTC.
 * 【2024-09-22】[git / git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -312,6 +320,7 @@
 
 ## Css
 
+* 【2024-10-04】[aslams2020 / Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio) - A tribute to Iron Man! This portfolio website is inspired by the iconic character Tony Stark and is designed to showcase various projects, skills, and experiences in a sleek and modern interface, reflecting the high-tech and innovative spirit of Stark Industries.
 * 【2024-09-21】[zhaohuabing / hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) - A clean, elegant blog theme for hugo
 * 【2024-09-21】[shanselman / firsttimersonly](https://github.com/shanselman/firsttimersonly) - The Repository for the FirstTimersOnly movement in Open Source. We want projects to reserve some issues for newbies.
 * 【2024-09-15】[dohliam / dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -329,6 +338,8 @@
 
 ## Unknown
 
+* 【2024-10-04】[searxng / searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
+* 【2024-10-04】[northwesternfintech / 2025QuantInternships](https://github.com/northwesternfintech/2025QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone.
 * 【2024-09-28】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-24】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-23】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
