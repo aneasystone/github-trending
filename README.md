@@ -106,6 +106,7 @@
 
 ## Python
 
+* 【2024-10-05】[laramies / theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
 * 【2024-10-04】[fedirz / faster-whisper-server](https://github.com/fedirz/faster-whisper-server) - 
 * 【2024-10-04】[lightly-ai / lightly](https://github.com/lightly-ai/lightly) - A python library for self-supervised learning on images.
 * 【2024-10-01】[google / langfun](https://github.com/google/langfun) - OO for LLMs
