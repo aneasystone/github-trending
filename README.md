@@ -23,6 +23,8 @@
 
 ## Python
 
+* 【2024-10-08】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
+* 【2024-10-08】[Open-Wine-Components / umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 * 【2024-10-07】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 * 【2024-10-07】[AlfredoUen / JableTV](https://github.com/AlfredoUen/JableTV) - Jable.TV Download (GUI tool)
 * 【2024-10-06】[alandtse / alexa_media_player](https://github.com/alandtse/alexa_media_player) - This is a custom component to allow control of Amazon Alexa devices in Home Assistant using the unofficial Alexa API.
@@ -40,12 +42,14 @@
 
 ## Go
 
+* 【2024-10-08】[Forceu / Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 * 【2024-10-07】[chainflag / eth-faucet](https://github.com/chainflag/eth-faucet) - Ether faucet server built with Go and Svelte.
 * 【2024-10-03】[peer-calls / peer-calls](https://github.com/peer-calls/peer-calls) - Group peer to peer video calls for everyone written in Go and TypeScript
 * 【2024-10-03】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 
 ## C
 
+* 【2024-10-08】[morrownr / 8821au-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
 * 【2024-10-03】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-10-01】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
 
@@ -72,6 +76,7 @@
 
 ## Css
 
+* 【2024-10-08】[SurajPratap10 / Imagine_AI](https://github.com/SurajPratap10/Imagine_AI) - The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI's Dall-E models to generate images.
 * 【2024-10-04】[aslams2020 / Stark-Tech-Portfolio](https://github.com/aslams2020/Stark-Tech-Portfolio) - A tribute to Iron Man! This portfolio website is inspired by the iconic character Tony Stark and is designed to showcase various projects, skills, and experiences in a sleek and modern interface, reflecting the high-tech and innovative spirit of Stark Industries.
 
 ## Unknown
