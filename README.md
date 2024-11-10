@@ -46,6 +46,7 @@
 
 ## Java
 
+* 【2024-11-10】[opensource4you / astraea](https://github.com/opensource4you/astraea) - 釋放kafka的無限潛能
 * 【2024-11-09】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 * 【2024-11-05】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
 * 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
@@ -63,6 +64,7 @@
 
 ## Python
 
+* 【2024-11-10】[google-gemini / generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
 * 【2024-11-09】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 * 【2024-11-09】[NVIDIA / TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
 * 【2024-11-06】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
@@ -134,6 +136,7 @@
 
 ## C
 
+* 【2024-11-10】[Cateners / tiny_computer](https://github.com/Cateners/tiny_computer) - Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.
 * 【2024-11-01】[haad / proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 * 【2024-10-31】[imbushuo / mac-precision-touchpad](https://github.com/imbushuo/mac-precision-touchpad) - Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
@@ -207,6 +210,7 @@
 
 ## Css
 
+* 【2024-11-10】[primefaces / primevue-examples](https://github.com/primefaces/primevue-examples) - PrimeVue Example Projects
 * 【2024-10-20】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-18】[aws-samples / amplify-next-template](https://github.com/aws-samples/amplify-next-template) - This is a Next.js starter for building a fullstack app with AWS Amplify.
 * 【2024-10-15】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
