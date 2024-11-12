@@ -66,6 +66,7 @@
 
 ## Python
 
+* 【2024-11-12】[darrenburns / posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 * 【2024-11-11】[opendatalab / PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit) - A Comprehensive Toolkit for High-Quality PDF Content Extraction
 * 【2024-11-11】[projectmesa / mesa](https://github.com/projectmesa/mesa) - Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.
 * 【2024-11-10】[google-gemini / generative-ai-python](https://github.com/google-gemini/generative-ai-python) - The official Python library for the Google Gemini API
@@ -161,6 +162,7 @@
 
 ## C++
 
+* 【2024-11-12】[NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
 * 【2024-11-05】[unum-cloud / usearch](https://github.com/unum-cloud/usearch) - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * 【2024-11-05】[lailongwei / llbc](https://github.com/lailongwei/llbc) - 一个简洁、高效、跨平台、多语言支持的服务端开发框架，面向Service及Component，底层c++实现。
 * 【2024-11-01】[mortennobel / cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet) - Modern C++ Cheatsheet
@@ -180,6 +182,7 @@
 
 ## C#
 
+* 【2024-11-12】[countincognito / Zametek.ProjectPlan](https://github.com/countincognito/Zametek.ProjectPlan) - A basic desktop alternative to Microsoft Project to help automate project design.
 * 【2024-11-05】[DanielKote / Foreman2](https://github.com/DanielKote/Foreman2) - Visual planning tool for Factorio
 * 【2024-11-04】[angularsen / UnitsNet](https://github.com/angularsen/UnitsNet) - Makes life working with units of measurement just a little bit better.
 * 【2024-10-31】[frankodoom / CountryData.Net](https://github.com/frankodoom/CountryData.Net) - An offline crossplatform .NET library for getting Global Country , iso3166 Short-code and Region Data
