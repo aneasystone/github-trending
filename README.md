@@ -81,6 +81,7 @@
 
 ## Python
 
+* 【2024-11-22】[NVIDIA / bionemo-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
 * 【2024-11-20】[gusye1234 / nano-graphrag](https://github.com/gusye1234/nano-graphrag) - A simple, easy-to-hack GraphRAG implementation
 * 【2024-11-20】[DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages
 * 【2024-11-20】[PacktPublishing / LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook) - The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices
@@ -230,6 +231,7 @@
 
 ## C#
 
+* 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 * 【2024-11-21】[efcore / EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)
 * 【2024-11-21】[greenshot / greenshot](https://github.com/greenshot/greenshot) - Greenshot for Windows - Report bugs & features go here: https://greenshot.atlassian.net or look for information on:
 * 【2024-11-20】[npgsql / efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
