@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-11-28】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-27】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
 * 【2024-11-25】[pingcap / autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 * 【2024-11-24】[black-forest-labs / flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -85,6 +86,7 @@
 
 ## Python
 
+* 【2024-11-28】[Abacatinhos / agenda-tech-brasil](https://github.com/Abacatinhos/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 * 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-23】[encode / starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 * 【2024-11-22】[NVIDIA / bionemo-framework](https://github.com/NVIDIA/bionemo-framework) - BioNeMo Framework: For building and adapting AI models in drug discovery at scale
@@ -139,6 +141,7 @@
 
 ## Javascript
 
+* 【2024-11-28】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 * 【2024-11-25】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 * 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
@@ -217,6 +220,7 @@
 
 ## C++
 
+* 【2024-11-28】[PerformanC / ReZygisk](https://github.com/PerformanC/ReZygisk) - Transparent implementation of Zygisk.
 * 【2024-11-24】[rl-tools / rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 * 【2024-11-20】[fritzing / fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 * 【2024-11-19】[crawl / crawl](https://github.com/crawl/crawl) - Dungeon Crawl: Stone Soup official repository
@@ -243,6 +247,7 @@
 
 ## C#
 
+* 【2024-11-28】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP.NET Core Blazor Content Management System (CMS)
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
 * 【2024-11-23】[dotnet / Scaffolding](https://github.com/dotnet/Scaffolding) - Code generators to speed up development.
 * 【2024-11-22】[NimblePros / eShopOnWeb](https://github.com/NimblePros/eShopOnWeb) - Sample ASP.NET Core 9.0 reference application, powered by Microsoft, demonstrating a domain-centric application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
@@ -303,6 +308,7 @@
 
 ## Unknown
 
+* 【2024-11-28】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-27】[futurice / ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 * 【2024-11-24】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 * 【2024-11-23】[svcvit / Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
