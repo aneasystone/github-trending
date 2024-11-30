@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-11-30】[SimonCropp / Delta](https://github.com/SimonCropp/Delta) - An approach to implementing a 304 Not Modified leveraging SqlServer change tracking
+* 【2024-11-30】[yamadashy / repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 * 【2024-11-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 * 【2024-11-28】[andrewyng / aisuite](https://github.com/andrewyng/aisuite) - Simple, unified interface to multiple Generative AI providers
 * 【2024-11-27】[ant-design / x](https://github.com/ant-design/x) - Craft AI-driven interfaces effortlessly 🤖
@@ -64,6 +66,9 @@
 
 ## Java
 
+* 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
+* 【2024-11-30】[react-native-share / react-native-share](https://github.com/react-native-share/react-native-share) - Social share, sending simple data to other apps.
+* 【2024-11-30】[valkey-io / valkey-glide](https://github.com/valkey-io/valkey-glide) - An open source Valkey client library that supports Valkey and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings, such as Java and Python
 * 【2024-11-26】[GregTechCEu / GregTech-Modern](https://github.com/GregTechCEu/GregTech-Modern) - GregTech CE Unofficial for modern versions
 * 【2024-11-20】[iterate-ch / cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 * 【2024-11-15】[smithy-lang / smithy](https://github.com/smithy-lang/smithy) - Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
@@ -87,6 +92,8 @@
 
 ## Python
 
+* 【2024-11-30】[automatic-ripping-machine / automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+* 【2024-11-30】[icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 * 【2024-11-29】[Guovin / iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
 * 【2024-11-28】[Abacatinhos / agenda-tech-brasil](https://github.com/Abacatinhos/agenda-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 * 【2024-11-26】[Guovin / IPTV](https://github.com/Guovin/IPTV) - 📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool
@@ -143,6 +150,7 @@
 
 ## Javascript
 
+* 【2024-11-30】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2024-11-28】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
 * 【2024-11-25】[7Sageer / sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
 * 【2024-11-19】[metowolf / vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
