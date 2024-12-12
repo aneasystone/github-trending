@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-12-12】[nexus-xyz / network-api](https://github.com/nexus-xyz/network-api) - High-performance interface for supplying compute to the Nexus network.
+* 【2024-12-12】[0xPlaygrounds / rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 * 【2024-12-11】[leerob / next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
 * 【2024-12-10】[nexus-xyz / nexus-zkvm](https://github.com/nexus-xyz/nexus-zkvm) - The Nexus zkVM: The zero-knowledge virtual machine
 * 【2024-12-10】[koreader / koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -80,6 +82,7 @@
 
 ## Java
 
+* 【2024-12-12】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2024-12-11】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2024-12-03】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
 * 【2024-11-30】[freeplane / freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
@@ -108,6 +111,7 @@
 
 ## Python
 
+* 【2024-12-12】[KellerJordan / modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) - NanoGPT (124M) in 5 minutes
 * 【2024-12-11】[Byaidu / PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 * 【2024-12-10】[kijai / ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
 * 【2024-12-06】[real-stanford / diffusion_policy](https://github.com/real-stanford/diffusion_policy) - [RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion
@@ -325,6 +329,7 @@
 
 ## Html
 
+* 【2024-12-12】[miaoermua / CatWrt](https://github.com/miaoermua/CatWrt) - 🌠 客制化 OpenWrt 智能网关
 * 【2024-12-06】[openbiox / weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
 * 【2024-11-17】[Blobby-Boi / ExtHang3r](https://github.com/Blobby-Boi/ExtHang3r) - An exploit that allows ChromeOS users to kill extensions after the LTMEAT patch.
 * 【2024-11-04】[department-of-veterans-affairs / vets-design-system-documentation](https://github.com/department-of-veterans-affairs/vets-design-system-documentation) - Repository for design.va.gov website
