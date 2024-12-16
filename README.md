@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-12-16】[microsoft / windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
+* 【2024-12-16】[flame-engine / flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 * 【2024-12-15】[Saghen / blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 * 【2024-12-14】[mherrmann / helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 * 【2024-12-13】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
@@ -86,6 +88,7 @@
 
 ## Java
 
+* 【2024-12-16】[opentripplanner / OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
 * 【2024-12-12】[alibaba / spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - An Application Framework for Java Developers
 * 【2024-12-11】[Katana-Official / SPatch-Update](https://github.com/Katana-Official/SPatch-Update) - Update for SPatch nightly
 * 【2024-12-03】[xoureldeen / Vectras-VM-Android](https://github.com/xoureldeen/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU
@@ -115,6 +118,7 @@
 
 ## Python
 
+* 【2024-12-16】[chainstacklabs / pump-fun-bot](https://github.com/chainstacklabs/pump-fun-bot) - A fully functional pump.fun trading and sniping bot not relying on any 3rd party APIs
 * 【2024-12-14】[derv82 / wifite](https://github.com/derv82/wifite) - 
 * 【2024-12-13】[sparckles / Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 * 【2024-12-13】[quantumlib / Cirq](https://github.com/quantumlib/Cirq) - A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.
@@ -186,6 +190,7 @@
 
 ## Javascript
 
+* 【2024-12-16】[666ghj / Weibo_PublicOpinion_AnalysisSystem](https://github.com/666ghj/Weibo_PublicOpinion_AnalysisSystem) - An excellent Weibo public opinion analysis and prediction system.
 * 【2024-12-15】[http-party / node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 * 【2024-12-14】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2024-12-13】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -248,6 +253,7 @@
 
 ## C
 
+* 【2024-12-16】[LuckfoxTECH / luckfox-pico](https://github.com/LuckfoxTECH/luckfox-pico) - luckfox-pico sdk
 * 【2024-12-14】[78 / xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 * 【2024-12-05】[mstorsjo / llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
 * 【2024-12-05】[simple64 / simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
@@ -281,6 +287,7 @@
 
 ## C++
 
+* 【2024-12-16】[stephenberry / glaze](https://github.com/stephenberry/glaze) - Extremely fast, in memory, JSON and interface library for modern C++
 * 【2024-12-15】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 * 【2024-12-11】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2024-12-09】[ares-emulator / ares](https://github.com/ares-emulator/ares) - ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
@@ -315,6 +322,7 @@
 
 ## C#
 
+* 【2024-12-16】[Sidekick-Poe / Sidekick](https://github.com/Sidekick-Poe/Sidekick) - The main repository for the Sidekick project, a companion trade tool for Path of Exile.
 * 【2024-12-07】[PSAppDeployToolkit / PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit) - Project Homepage & Forums
 * 【2024-11-28】[fluentcms / FluentCMS](https://github.com/fluentcms/FluentCMS) - ASP.NET Core Blazor Content Management System (CMS)
 * 【2024-11-25】[Andrewthe13th / Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) - Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.
@@ -367,6 +375,7 @@
 
 ## Css
 
+* 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
 * 【2024-12-06】[privacera / paig](https://github.com/privacera/paig) - PAIG (Pronounced similar to paige or payj) is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability.
 * 【2024-12-02】[tusharnankani / ToDoList](https://github.com/tusharnankani/ToDoList) - A dynamic and aesthetic To-Do List Website built with HTML, CSS, Vanilla JavaScript.
 * 【2024-11-29】[drgullin / icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
@@ -382,6 +391,7 @@
 
 ## Unknown
 
+* 【2024-12-16】[acdlite / react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 * 【2024-12-15】[proxifly / free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2024-12-13】[amilajack / reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 * 【2024-12-01】[NeoVertex1 / SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
