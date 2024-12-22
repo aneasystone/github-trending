@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-12-22】[apankrat / nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+* 【2024-12-22】[microsoft / PromptWizard](https://github.com/microsoft/PromptWizard) - Task-Aware Agent-driven Prompt Optimization Framework
 * 【2024-12-21】[Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 * 【2024-12-21】[github / CopilotForXcode](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
 * 【2024-12-21】[Helicone / helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23
@@ -130,6 +132,7 @@
 
 ## Python
 
+* 【2024-12-22】[AnswerDotAI / ModernBERT](https://github.com/AnswerDotAI/ModernBERT) - Bringing BERT into modernity via both architecture changes and scaling
 * 【2024-12-21】[onyx-dot-app / onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 * 【2024-12-21】[Upsonic / gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA
 * 【2024-12-21】[leggedrobotics / rsl_rl](https://github.com/leggedrobotics/rsl_rl) - Fast and simple implementation of RL algorithms, designed to run fully on GPU.
@@ -312,6 +315,7 @@
 
 ## C++
 
+* 【2024-12-22】[LuisaGroup / LuisaCompute](https://github.com/LuisaGroup/LuisaCompute) - High-Performance Rendering Framework on Stream Architectures
 * 【2024-12-18】[moveit / moveit](https://github.com/moveit/moveit) - 🤖 The MoveIt motion planning framework
 * 【2024-12-18】[casadi / casadi](https://github.com/casadi/casadi) - CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs. It supports self-contained C-code generation and interfaces state-of-the-art codes such as SUNDIALS, IPOPT etc. It can be used from C++, Python or Matlab/Octave.
 * 【2024-12-18】[openvinotoolkit / openvino.genai](https://github.com/openvinotoolkit/openvino.genai) - Run Generative AI models with simple C++/Python API and using OpenVINO Runtime
@@ -382,6 +386,8 @@
 
 ## Html
 
+* 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+* 【2024-12-22】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 * 【2024-12-20】[web-infra-dev / midscene](https://github.com/web-infra-dev/midscene) - An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.
 * 【2024-12-18】[Canardoux / flutter_sound](https://github.com/Canardoux/flutter_sound) - Flutter plugin for sound. Audio recorder and player.
 * 【2024-12-17】[wttdotm / traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www.TrafficCamPhotobooth.com
