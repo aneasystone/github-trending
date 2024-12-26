@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-12-26】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-26】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 * 【2024-12-24】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * 【2024-12-23】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 * 【2024-12-23】[browserbase / stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
@@ -286,6 +288,7 @@
 
 ## C
 
+* 【2024-12-26】[libsdl-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with Simple Directmedia Layer.
 * 【2024-12-21】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 * 【2024-12-20】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 * 【2024-12-20】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
@@ -428,6 +431,7 @@
 
 ## Css
 
+* 【2024-12-26】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 * 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
 * 【2024-12-06】[privacera / paig](https://github.com/privacera/paig) - PAIG (Pronounced similar to paige or payj) is an open-source project designed to protect Generative AI (GenAI) applications by ensuring security, safety, and observability.
@@ -445,6 +449,7 @@
 
 ## Unknown
 
+* 【2024-12-26】[lowercase78 / V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 * 【2024-12-21】[phmullins / awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 * 【2024-12-20】[wwb521 / live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
 * 【2024-12-19】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
