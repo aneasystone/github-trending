@@ -56,6 +56,7 @@
 
 ## Java
 
+* 【2025-01-01】[youngyangyang04 / RPC-Java](https://github.com/youngyangyang04/RPC-Java) - 【代码随想录知识星球】项目分享-手撕RPC框架🔥
 * 【2024-12-30】[CellularPrivacy / Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 * 【2024-12-23】[etianl / Trouser-Streak](https://github.com/etianl/Trouser-Streak) - A compilation of modules optimized for maximum grief. Featuring powerful mods & exploits for Chunk Tracing, Base Hunting, and Griefing servers! A few modules were not originally written by me, but have been modified. Check the Github for credits and updates!
 * 【2024-12-16】[opentripplanner / OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - An open source multi-modal trip planner
@@ -65,6 +66,7 @@
 
 ## Python
 
+* 【2025-01-01】[neuraloperator / neuraloperator](https://github.com/neuraloperator/neuraloperator) - Learning in infinite dimension with neural operators.
 * 【2024-12-30】[jingyaogong / minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
 * 【2024-12-28】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2024-12-27】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
@@ -126,6 +128,7 @@
 
 ## C
 
+* 【2025-01-01】[bmorcelli / M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 * 【2024-12-31】[toniebox-reverse-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
 * 【2024-12-30】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
 * 【2024-12-30】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
@@ -145,6 +148,7 @@
 
 ## C++
 
+* 【2025-01-01】[NVIDIA / DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 * 【2024-12-24】[ClassicOldSong / Apollo](https://github.com/ClassicOldSong/Apollo) - Sunshine fork
 * 【2024-12-24】[mdias / rs_asio](https://github.com/mdias/rs_asio) - ASIO for Rocksmith 2014
 * 【2024-12-24】[cifertech / nRFBox](https://github.com/cifertech/nRFBox) - All-in-One Gadget for Dominating BLE and 2.4GHz Networks
@@ -163,6 +167,7 @@
 
 ## C#
 
+* 【2025-01-01】[tylercamp / palcalc](https://github.com/tylercamp/palcalc) - 
 * 【2024-12-30】[msasanmh / DNSveil](https://github.com/msasanmh/DNSveil) - A DNS Client Supporting DNSCrypt, Anonymized DNSCrypt, DoH, DoT, UDP And TCP.
 * 【2024-12-24】[dotnet / ClangSharp](https://github.com/dotnet/ClangSharp) - Clang bindings for .NET written in C#
 * 【2024-12-21】[getsentry / sentry-dotnet](https://github.com/getsentry/sentry-dotnet) - Sentry SDK for .NET
@@ -173,6 +178,7 @@
 
 ## Html
 
+* 【2025-01-01】[gehaxelt / phuzz](https://github.com/gehaxelt/phuzz) - 
 * 【2024-12-29】[mostafa-kheibary / tehran-metro-data](https://github.com/mostafa-kheibary/tehran-metro-data) - Tehran metro station data as graph in json format
 * 【2024-12-22】[e2b-dev / E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
 * 【2024-12-22】[xmldom / xmldom](https://github.com/xmldom/xmldom) - A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
@@ -184,6 +190,7 @@
 
 ## Css
 
+* 【2025-01-01】[themeselection / flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 * 【2024-12-26】[jd-opensource / micro-app](https://github.com/jd-opensource/micro-app) - A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架
 * 【2024-12-18】[leptos-rs / book](https://github.com/leptos-rs/book) - The home for the Leptos book, which can be found deployed at https://book.leptos.dev
 * 【2024-12-16】[SpaceTheme / Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
