@@ -147,6 +147,7 @@
 
 ## C
 
+* 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
 * 【2025-01-08】[zjutjh / zjut-icicles](https://github.com/zjutjh/zjut-icicles) - 浙江工业大学课程攻略共享计划
 * 【2025-01-07】[TypesettingTools / Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor
@@ -223,6 +224,7 @@
 
 ## Css
 
+* 【2025-01-10】[vinaysomawat / vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 * 【2025-01-08】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
 * 【2025-01-07】[LunaPixelStudios / Better-MC](https://github.com/LunaPixelStudios/Better-MC) - https://lunapixel.studio/discord
 * 【2025-01-04】[bchiang7 / bchiang7.github.io](https://github.com/bchiang7/bchiang7.github.io) - Third iteration of my personal website built with Jekyll
@@ -235,6 +237,7 @@
 
 ## Unknown
 
+* 【2025-01-10】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-09】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
 * 【2025-01-06】[jamesroutley / write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C
 * 【2025-01-03】[matildaexp / remote-latam](https://github.com/matildaexp/remote-latam) - A curated collection of US and high-income country tech job opportunities open to Latin American professionals
