@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-01-20】[frappe / helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
+* 【2025-01-20】[emcie-co / parlant](https://github.com/emcie-co/parlant) - The behavior guidance framework for customer-facing LLM agents
 * 【2025-01-19】[unionlabs / union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 * 【2025-01-19】[linuxserver / docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 * 【2025-01-17】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
@@ -75,6 +77,8 @@
 
 ## Java
 
+* 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
+* 【2025-01-20】[AsamK / signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 * 【2025-01-19】[scottyab / rootbeer](https://github.com/scottyab/rootbeer) - Simple to use root checking Android library and sample app
 * 【2025-01-13】[chainbase-labs / manuscript-core](https://github.com/chainbase-labs/manuscript-core) - 
 * 【2025-01-08】[CodePhiliaX / fastexcel](https://github.com/CodePhiliaX/fastexcel) - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
@@ -141,6 +145,7 @@
 
 ## Javascript
 
+* 【2025-01-20】[bluewave-labs / Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2025-01-19】[tengbao / vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 * 【2025-01-17】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-15】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
@@ -165,6 +170,7 @@
 
 ## Go
 
+* 【2025-01-20】[stonith404 / pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2025-01-14】[yusing / go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration
 * 【2025-01-13】[dlvhdr / gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀
 * 【2025-01-13】[icereed / paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
@@ -183,6 +189,7 @@
 
 ## C
 
+* 【2025-01-20】[YTEC-info / CH341A-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
 * 【2025-01-11】[riscv-software-src / opensbi](https://github.com/riscv-software-src/opensbi) - RISC-V Open Source Supervisor Binary Interface
 * 【2025-01-10】[HarbourMasters / Starship](https://github.com/HarbourMasters/Starship) - SF64 PC Port
 * 【2025-01-09】[ericstoneking / 42](https://github.com/ericstoneking/42) - Simulation for spacecraft attitude control system analysis and design
@@ -210,6 +217,7 @@
 
 ## C++
 
+* 【2025-01-20】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
 * 【2025-01-17】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
 * 【2025-01-17】[windirstat / windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 * 【2025-01-12】[Livox-SDK / Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
@@ -237,6 +245,7 @@
 
 ## C#
 
+* 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-17】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
 * 【2025-01-17】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-01-07】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
@@ -251,6 +260,7 @@
 
 ## Html
 
+* 【2025-01-20】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-01-19】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
 * 【2025-01-17】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-15】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
