@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-02-05】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-04】[TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3.0 SDK for NodeJS
 * 【2025-02-03】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 * 【2025-02-03】[coinbase / agentkit](https://github.com/coinbase/agentkit) - 
@@ -121,6 +122,7 @@
 
 ## Python
 
+* 【2025-02-05】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 * 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 * 【2025-02-04】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 * 【2025-02-03】[lllyasviel / Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
@@ -185,6 +187,7 @@
 
 ## Javascript
 
+* 【2025-02-05】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-02】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-30】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 * 【2025-01-28】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
@@ -244,6 +247,7 @@
 
 ## C
 
+* 【2025-02-05】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-01-31】[pebble-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 * 【2025-01-27】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 * 【2025-01-26】[RealNeGate / Cuik](https://github.com/RealNeGate/Cuik) - A Modern C11 compiler (STILL EARLY)
@@ -281,6 +285,8 @@
 
 ## C++
 
+* 【2025-02-05】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
+* 【2025-02-05】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-02】[KhronosGroup / Vulkan-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
 * 【2025-01-25】[cdozdil / OptiScaler](https://github.com/cdozdil/OptiScaler) - OptiScaler is middleware that enables various upscaling technologies in DLSS2-only games. It allows non-Nvidia users to use upscaling by applying DLSS2 inputs to XeSS, FSR2, or FSR3.
 * 【2025-01-23】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
