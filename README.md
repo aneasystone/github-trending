@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-02-06】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
+* 【2025-02-06】[elastic / integrations](https://github.com/elastic/integrations) - 
 * 【2025-02-05】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 * 【2025-02-04】[TencentCloud / tencentcloud-sdk-nodejs](https://github.com/TencentCloud/tencentcloud-sdk-nodejs) - Tencent Cloud API 3.0 SDK for NodeJS
 * 【2025-02-03】[solidtime-io / solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
