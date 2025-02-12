@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-02-12】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-11】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-11】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 * 【2025-02-11】[T8RIN / ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
@@ -303,6 +304,8 @@
 
 ## C++
 
+* 【2025-02-12】[ripose-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
+* 【2025-02-12】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
 * 【2025-02-09】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-08】[dwhinham / mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 * 【2025-02-05】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
@@ -339,6 +342,7 @@
 
 ## C#
 
+* 【2025-02-12】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 * 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 * 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
