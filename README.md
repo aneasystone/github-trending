@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-02-15】[zaidmukaddam / scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+* 【2025-02-15】[microsoft / markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 * 【2025-02-13】[MystenLabs / walrus-docs](https://github.com/MystenLabs/walrus-docs) - Documentation and examples for the Walrus decentralized storage system
 * 【2025-02-13】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 * 【2025-02-13】[antonputra / tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
@@ -111,6 +113,7 @@
 
 ## Java
 
+* 【2025-02-15】[apache / streampark](https://github.com/apache/streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 * 【2025-02-11】[DP-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-01-30】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-29】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
@@ -134,6 +137,7 @@
 
 ## Python
 
+* 【2025-02-15】[dlt-hub / dlt](https://github.com/dlt-hub/dlt) - data load tool (dlt) is an open source Python library that makes data loading easy 🛠️
 * 【2025-02-13】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 * 【2025-02-13】[greghesp / ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 * 【2025-02-11】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
@@ -239,6 +243,7 @@
 
 ## Go
 
+* 【2025-02-15】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * 【2025-02-11】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.
 * 【2025-02-10】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-09】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
@@ -347,6 +352,7 @@
 
 ## C#
 
+* 【2025-02-15】[slskd / slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 * 【2025-02-12】[Oliveriver / 5d-diplomacy-with-multiverse-time-travel](https://github.com/Oliveriver/5d-diplomacy-with-multiverse-time-travel) - 5D Diplomacy With Multiverse Time Travel
 * 【2025-02-11】[w4po / ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) - 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!
 * 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
@@ -370,6 +376,7 @@
 
 ## Html
 
+* 【2025-02-15】[CodeKageHQ / Ask-out-your-Valentine](https://github.com/CodeKageHQ/Ask-out-your-Valentine) - A playful and interactive web experience for asking someone to be your Valentine, featuring charming GIFs and dynamic responses to 'Yes' and 'No' answers. Built with HTML, Tailwind CSS, and a sprinkle of JavaScript for interactivity.
 * 【2025-02-13】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
 * 【2025-02-09】[n8n-io / n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 * 【2025-02-07】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
