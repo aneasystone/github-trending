@@ -133,6 +133,7 @@
 
 ## Java
 
+* 【2025-03-01】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-02-27】[TyCoding / langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 * 【2025-02-20】[dependency-check / DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * 【2025-02-20】[continew-org / continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。
@@ -160,6 +161,7 @@
 
 ## Python
 
+* 【2025-03-01】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 * 【2025-02-26】[fla-org / flash-linear-attention](https://github.com/fla-org/flash-linear-attention) - 🚀 Efficient implementations of state-of-the-art linear attention models in Torch and Triton
 * 【2025-02-26】[Upsonic / Upsonic](https://github.com/Upsonic/Upsonic) - Most Reliable AI Agent Framework
 * 【2025-02-25】[crossbario / autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
@@ -403,6 +405,7 @@
 
 ## C#
 
+* 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-02-27】[Unity-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects.
 * 【2025-02-26】[microsoft / ai-dev-gallery](https://github.com/microsoft/ai-dev-gallery) - An open-source project for Windows developers to learn how to add AI with local models and APIs to Windows apps.
 * 【2025-02-23】[alexhiggins732 / IdentityServer8](https://github.com/alexhiggins732/IdentityServer8) - DotNet 8, Identity, OpenID Connect and OAuth 2.0 Framework for ASP.NET Core Identity Server 8
@@ -468,6 +471,8 @@
 
 ## Css
 
+* 【2025-03-01】[dtinth / vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
+* 【2025-03-01】[KoriIku / luxirty-search](https://github.com/KoriIku/luxirty-search) - 一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
 * 【2025-02-28】[JaKooLit / Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 * 【2025-02-26】[flick9000 / winscript](https://github.com/flick9000/winscript) - Open-source tool to build your Windows 10/11 script from scratch. It includes debloat, privacy, performance & app installing scripts.
 * 【2025-02-25】[polyfractal / elasticsearch-segmentspy](https://github.com/polyfractal/elasticsearch-segmentspy) - ElasticSearch plugin to watch segment dynamics (additions, merges, deletes)
@@ -490,6 +495,8 @@
 
 ## Unknown
 
+* 【2025-03-01】[punkpeye / awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+* 【2025-03-01】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
 * 【2025-02-28】[microsoft / vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
 * 【2025-02-25】[ZitaoTech / Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-19】[icon11-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
