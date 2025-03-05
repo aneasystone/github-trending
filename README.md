@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-03-05】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 * 【2025-02-28】[allenai / olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 * 【2025-02-28】[freddyaboulton / fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 * 【2025-02-26】[NirDiamant / GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
@@ -418,6 +419,7 @@
 
 ## C#
 
+* 【2025-03-05】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
 * 【2025-02-27】[Unity-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects.
@@ -488,6 +490,7 @@
 
 ## Css
 
+* 【2025-03-05】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-03-04】[18F / identity-saml-sinatra](https://github.com/18F/identity-saml-sinatra) - Mock relying party (user app) to send requests to ID server
 * 【2025-03-03】[cayxc / Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
 * 【2025-03-01】[dtinth / vxchrome](https://github.com/dtinth/vxchrome) - A Chrome extension that listens to my voice, converts to text, and copies it to the clipboard.
