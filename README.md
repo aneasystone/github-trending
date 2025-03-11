@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
+* 【2025-03-11】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 * 【2025-03-09】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化工具：报表、大屏、仪表盘」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 * 【2025-03-08】[EFForg / rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 * 【2025-03-07】[zigtools / zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
@@ -172,6 +174,9 @@
 
 ## Python
 
+* 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
+* 【2025-03-11】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
+* 【2025-03-11】[lss233 / kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 * 【2025-03-10】[opengeos / geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data
 * 【2025-03-09】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 * 【2025-03-08】[Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -265,6 +270,7 @@
 
 ## Javascript
 
+* 【2025-03-11】[mendableai / firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * 【2025-03-08】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-07】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 * 【2025-03-07】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
@@ -399,6 +405,7 @@
 
 ## C++
 
+* 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 * 【2025-03-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * 【2025-03-08】[bytedance / flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
