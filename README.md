@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 * 【2025-03-12】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-11】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
 * 【2025-03-11】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
@@ -145,6 +146,8 @@
 
 ## Java
 
+* 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
+* 【2025-03-14】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
 * 【2025-03-13】[uyuni-project / uyuni](https://github.com/uyuni-project/uyuni) - Source code for Uyuni
 * 【2025-03-12】[vavr-io / vavr](https://github.com/vavr-io/vavr) - vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 * 【2025-03-09】[spring-projects / spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) - 
@@ -177,6 +180,7 @@
 
 ## Python
 
+* 【2025-03-14】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
 * 【2025-03-11】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-11】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
 * 【2025-03-11】[lss233 / kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
