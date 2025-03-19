@@ -188,6 +188,7 @@
 
 ## Python
 
+* 【2025-03-19】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 * 【2025-03-17】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 * 【2025-03-16】[jiji262 / douyin-downloader](https://github.com/jiji262/douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
@@ -290,6 +291,7 @@
 
 ## Javascript
 
+* 【2025-03-19】[AntSwordProject / antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
 * 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-13】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 * 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
@@ -340,6 +342,7 @@
 
 ## Go
 
+* 【2025-03-19】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 * 【2025-03-10】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
@@ -432,6 +435,8 @@
 
 ## C++
 
+* 【2025-03-19】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
+* 【2025-03-19】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-03-18】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-11】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-10】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
@@ -479,6 +484,8 @@
 
 ## C#
 
+* 【2025-03-19】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
+* 【2025-03-19】[jxlpzqc / TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
 * 【2025-03-05】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-03-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
@@ -511,6 +518,7 @@
 
 ## Html
 
+* 【2025-03-19】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 * 【2025-03-17】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools.
 * 【2025-03-13】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 * 【2025-03-12】[allwefantasy / auto-coder](https://github.com/allwefantasy/auto-coder) - 
