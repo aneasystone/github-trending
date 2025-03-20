@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-03-20】[satnaing / shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 * 【2025-03-17】[ai-christianson / RA.Aid](https://github.com/ai-christianson/RA.Aid) - Develop software autonomously.
 * 【2025-03-17】[RIP-Comm / sossoldi](https://github.com/RIP-Comm/sossoldi) - "Sossoldi" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.
 * 【2025-03-16】[nvim-lualine / lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
@@ -152,6 +153,7 @@
 
 ## Java
 
+* 【2025-03-20】[dji-sdk / Mobile-SDK-Android-V5](https://github.com/dji-sdk/Mobile-SDK-Android-V5) - MSDK V5 Sample
 * 【2025-03-18】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-16】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-14】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
@@ -188,6 +190,7 @@
 
 ## Python
 
+* 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
 * 【2025-03-19】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 * 【2025-03-17】[exo-lang / exo](https://github.com/exo-lang/exo) - Exocompilation for productive programming of hardware accelerators
 * 【2025-03-16】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
@@ -291,6 +294,7 @@
 
 ## Javascript
 
+* 【2025-03-20】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
 * 【2025-03-19】[AntSwordProject / antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
 * 【2025-03-18】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-13】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
@@ -342,6 +346,7 @@
 
 ## Go
 
+* 【2025-03-20】[mark3labs / mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).
 * 【2025-03-19】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-03-18】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-10】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
@@ -518,6 +523,7 @@
 
 ## Html
 
+* 【2025-03-20】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - An MCP server & prompt runner for all of Docker. Simple Markdown. BYO LLM.
 * 【2025-03-19】[fossology / fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit. As a toolkit you can run license, copyright and export control scans from the command line. As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow.
 * 【2025-03-17】[OWASP-BLT / BLT](https://github.com/OWASP-BLT/BLT) - OWASP BLT is a collection of security tools.
 * 【2025-03-13】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
