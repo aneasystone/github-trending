@@ -195,6 +195,7 @@
 
 ## Python
 
+* 【2025-03-22】[lastmile-ai / mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 * 【2025-03-21】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
 * 【2025-03-21】[ShihuaHuang95 / DEIM](https://github.com/ShihuaHuang95/DEIM) - [CVPR 2025] DEIM: DETR with Improved Matching for Fast Convergence
 * 【2025-03-20】[bytedance / LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync!
@@ -582,6 +583,7 @@
 
 ## Css
 
+* 【2025-03-22】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-03-15】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
 * 【2025-03-06】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
 * 【2025-03-05】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
