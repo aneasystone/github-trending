@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-03-23】[RSSNext / Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 * 【2025-03-21】[SakanaAI / AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 * 【2025-03-21】[sinclairtarget / git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 * 【2025-03-21】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
@@ -108,6 +109,7 @@
 
 ## C
 
+* 【2025-03-23】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-03-21】[gozfree / gear-lib](https://github.com/gozfree/gear-lib) - Gear-Lib, C library for IOT Embedded Multimedia and Network
 * 【2025-03-17】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-03-15】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
