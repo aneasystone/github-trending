@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-03-30】[jlowin / fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+* 【2025-03-30】[MUTED64 / SearchEngineJumpPlus](https://github.com/MUTED64/SearchEngineJumpPlus) - 增强版搜索引擎跳转脚本，优化一些使用体验，Tampermonkey Userscript
 * 【2025-03-28】[signalapp / libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 * 【2025-03-27】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 * 【2025-03-27】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
@@ -58,6 +60,9 @@
 
 ## Python
 
+* 【2025-03-30】[causify-ai / helpers](https://github.com/causify-ai/helpers) - Causify development system
+* 【2025-03-30】[aigc-apps / VideoX-Fun](https://github.com/aigc-apps/VideoX-Fun) - 📹 A more flexible framework that can generate videos at any resolution and creates videos from images.
+* 【2025-03-30】[jingyaogong / minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」1小时从0训练26M参数的视觉多模态VLM！🌏 Train a 26M-parameter VLM from scratch in just 1 hours!
 * 【2025-03-29】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-03-27】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-26】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
@@ -140,6 +145,7 @@
 
 ## C++
 
+* 【2025-03-30】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
 * 【2025-03-27】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-03-26】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * 【2025-03-24】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager.
@@ -155,6 +161,7 @@
 
 ## C#
 
+* 【2025-03-30】[PunishXIV / WrathCombo](https://github.com/PunishXIV/WrathCombo) - 
 * 【2025-03-29】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
 * 【2025-03-28】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-21】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
