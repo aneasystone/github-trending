@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-04-08】[meta-llama / llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services
 * 【2025-04-07】[supabase-community / supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 * 【2025-04-06】[kubernetes-sigs / headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 * 【2025-04-06】[funstory-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
@@ -77,6 +78,7 @@
 
 ## Python
 
+* 【2025-04-08】[vllm-project / llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 * 【2025-04-07】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
 * 【2025-04-07】[camel-ai / oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents. https://oasis.camel-ai.org
 * 【2025-04-06】[NVIDIA / cuda-python](https://github.com/NVIDIA/cuda-python) - CUDA Python: Performance meets Productivity
@@ -244,6 +246,7 @@
 
 ## Css
 
+* 【2025-04-08】[aftertheflood / sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code.
 * 【2025-04-03】[catppuccin / jupyterlab](https://github.com/catppuccin/jupyterlab) - 📊 Soothing pastel theme for JupyterLab
 * 【2025-04-02】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI.
 * 【2025-03-26】[Yavuzlar / VulnLab](https://github.com/Yavuzlar/VulnLab) - 
@@ -259,6 +262,7 @@
 
 ## Unknown
 
+* 【2025-04-08】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-03】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-04-03】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
 * 【2025-03-25】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
