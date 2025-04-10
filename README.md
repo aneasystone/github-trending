@@ -81,6 +81,7 @@
 
 ## Python
 
+* 【2025-04-10】[marketcalls / openalgo](https://github.com/marketcalls/openalgo) - Open Source Algo Trading Platform for Everyone
 * 【2025-04-09】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model
 * 【2025-04-08】[vllm-project / llm-compressor](https://github.com/vllm-project/llm-compressor) - Transformers-compatible library for applying various compression algorithms to LLMs for optimized deployment with vLLM
 * 【2025-04-07】[stephengpope / no-code-architects-toolkit](https://github.com/stephengpope/no-code-architects-toolkit) - The NCA Toolkit API eliminates monthly subscription fees by consolidating common API functionalities into a single FREE API. Designed for businesses, creators, and developers, it streamlines advanced media processing, including video editing and captioning, image transformations, cloud storage, and Python code execution.
@@ -135,6 +136,7 @@
 
 ## Javascript
 
+* 【2025-04-10】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-09】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-04-06】[googlecreativelab / chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 * 【2025-04-04】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
@@ -218,6 +220,7 @@
 
 ## C#
 
+* 【2025-04-10】[pylorak / TinyWall](https://github.com/pylorak/TinyWall) - TinyWall is a free, non-intrusive, secure-by-default firewall for Windows.
 * 【2025-04-09】[FlorianButz / DynamicWin](https://github.com/FlorianButz/DynamicWin) - A Dynamic Island inspired app for Windows machines.
 * 【2025-04-09】[Ishaan35 / Unity3D-Mario-Kart-Racing-Game](https://github.com/Ishaan35/Unity3D-Mario-Kart-Racing-Game) - https://www.youtube.com/watch?v=s_nEniWLLgo. This is a 3D Mario kart game created with the unity game engine with C#. Kart racer supports items, anti-gravity mode, computer players, underwater mode, and real-time shadows and lighting.
 * 【2025-04-01】[BedrockLauncher / BedrockLauncher](https://github.com/BedrockLauncher/BedrockLauncher) - 
