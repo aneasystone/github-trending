@@ -65,6 +65,8 @@
 
 ## Java
 
+* 【2025-04-14】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
+* 【2025-04-14】[1024-lab / smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 * 【2025-04-06】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 * 【2025-04-05】[NotHarshhaa / DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) - 𝑫𝒆𝒗𝑶𝒑𝒔 𝑹𝒆𝒂𝒍 𝑾𝒐𝒓𝒍𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 𝒇𝒐𝒓 𝑨𝒔𝒑𝒊𝒓𝒊𝒏𝒈 𝑫𝒆𝒗𝑶𝒑𝒔 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒔 [𝑩𝒆𝒈𝒊𝒏𝒏𝒆𝒓 𝒕𝒐 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅]
 * 【2025-04-01】[leck995 / WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
@@ -246,6 +248,7 @@
 
 ## Html
 
+* 【2025-04-14】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-11】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 * 【2025-04-07】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-05】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
