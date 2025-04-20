@@ -91,6 +91,9 @@
 
 ## Python
 
+* 【2025-04-20】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
+* 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+* 【2025-04-20】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
 * 【2025-04-19】[lmnr-ai / index](https://github.com/lmnr-ai/index) - SOTA Open-Source Browser Agent for autonomously performing complex tasks on the web
 * 【2025-04-17】[IBM / terratorch](https://github.com/IBM/terratorch) - A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
 * 【2025-04-16】[AI-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
@@ -178,6 +181,7 @@
 
 ## Go
 
+* 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 * 【2025-04-07】[Septrum101 / zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
@@ -202,6 +206,7 @@
 
 ## C
 
+* 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 * 【2025-04-17】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 * 【2025-04-16】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
