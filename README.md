@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-04-21】[ashvardanian / less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp) - Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
 * 【2025-04-17】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * 【2025-04-17】[opf / openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 * 【2025-04-17】[NirDiamant / RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
@@ -70,6 +71,7 @@
 
 ## Java
 
+* 【2025-04-21】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-04-18】[ClickHouse / clickhouse-java](https://github.com/ClickHouse/clickhouse-java) - ClickHouse Java Clients & JDBC Driver
 * 【2025-04-14】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
 * 【2025-04-14】[1024-lab / smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
@@ -91,6 +93,7 @@
 
 ## Python
 
+* 【2025-04-21】[robfiras / loco-mujoco](https://github.com/robfiras/loco-mujoco) - Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.
 * 【2025-04-20】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-04-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 * 【2025-04-20】[Lightricks / LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -181,6 +184,8 @@
 
 ## Go
 
+* 【2025-04-21】[ncruces / go-sqlite3](https://github.com/ncruces/go-sqlite3) - Go bindings to SQLite using wazero
+* 【2025-04-21】[OWASP / Go-SCP](https://github.com/OWASP/Go-SCP) - Golang Secure Coding Practices guide
 * 【2025-04-20】[anthropics / anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 * 【2025-04-18】[donknap / dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight panel for docker
 * 【2025-04-13】[goccy / go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -206,6 +211,7 @@
 
 ## C
 
+* 【2025-04-21】[oerg866 / win98-quickinstall](https://github.com/oerg866/win98-quickinstall) - A framework + installer to (very) quickly install Windows 98 on anything from a 486 up to a modern system
 * 【2025-04-20】[GermanAizek / WinRing0](https://github.com/GermanAizek/WinRing0) - WinRing0 is a hardware access library for Windows.
 * 【2025-04-19】[marcoroth / herb](https://github.com/marcoroth/herb) - 🌿 Powerful and seamless HTML-aware ERB parsing and tooling.
 * 【2025-04-17】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
