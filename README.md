@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-04-26】[fastrepl / hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
+* 【2025-04-26】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 * 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 * 【2025-04-24】[bytedance / UI-TARS](https://github.com/bytedance/UI-TARS) - 
 * 【2025-04-22】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
@@ -74,6 +76,8 @@
 
 ## Java
 
+* 【2025-04-26】[eclipse / openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+* 【2025-04-26】[msfroh / lucene-university](https://github.com/msfroh/lucene-university) - Self-contained worked examples of Apache Lucene features and functionality
 * 【2025-04-25】[metasfresh / metasfresh](https://github.com/metasfresh/metasfresh) - We do Open Source ERP - Fast, Flexible & Free Software to scale your Business.
 * 【2025-04-23】[baomidou / dynamic-datasource](https://github.com/baomidou/dynamic-datasource) - dynamic datasource for springboot 多数据源 动态数据源 主从分离 读写分离 分布式事务
 * 【2025-04-22】[aws-containers / retail-store-sample-app](https://github.com/aws-containers/retail-store-sample-app) - 💼 Sample application for demonstrating container platforms and related technology
@@ -99,6 +103,7 @@
 
 ## Python
 
+* 【2025-04-26】[potamides / DeTikZify](https://github.com/potamides/DeTikZify) - Synthesizing Graphics Programs for Scientific Figures and Sketches with TikZ
 * 【2025-04-25】[thunlp / LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce) - 
 * 【2025-04-25】[FunAudioLLM / CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 * 【2025-04-24】[D-Ogi / WatermarkRemover-AI](https://github.com/D-Ogi/WatermarkRemover-AI) - AI-Powered Watermark Remover using Florence-2 and LaMA Models: A Python application leveraging state-of-the-art deep learning models to effectively remove watermarks from images with a user-friendly PyQt6 interface.
@@ -196,6 +201,7 @@
 
 ## Go
 
+* 【2025-04-26】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
 * 【2025-04-25】[autokitteh / autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 * 【2025-04-24】[spegel-org / spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 * 【2025-04-23】[cloudwego / eino-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github.com/cloudwego/eino
@@ -254,6 +260,7 @@
 
 ## C++
 
+* 【2025-04-26】[unitreerobotics / unitree_mujoco](https://github.com/unitreerobotics/unitree_mujoco) - 
 * 【2025-04-24】[worawit / blutter](https://github.com/worawit/blutter) - Flutter Mobile Application Reverse Engineering Tool
 * 【2025-04-23】[RCInet / LastEpoch_Mods](https://github.com/RCInet/LastEpoch_Mods) - MelonLoader Mods for LastEpoch
 * 【2025-04-18】[Lizonghang / prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters
