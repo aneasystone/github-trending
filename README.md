@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-19】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
@@ -228,6 +229,7 @@
 
 ## Javascript
 
+* 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
 * 【2025-05-14】[evalstate / fast-agent](https://github.com/evalstate/fast-agent) - Define, Prompt and Test MCP enabled Agents and Workflows
 * 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
@@ -357,6 +359,7 @@
 
 ## C++
 
+* 【2025-05-20】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 * 【2025-05-17】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-10】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 * 【2025-05-09】[mohsenph69 / Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
