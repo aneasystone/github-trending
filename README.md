@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-05-27】[nvim-treesitter / nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
+* 【2025-05-27】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 * 【2025-05-26】[groupultra / telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 * 【2025-05-24】[XiaoYouChR / Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
 * 【2025-05-24】[anthropics / claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
@@ -113,6 +115,7 @@
 
 ## Java
 
+* 【2025-05-27】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-19】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 * 【2025-05-09】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
 * 【2025-05-01】[lavalink-devs / youtube-source](https://github.com/lavalink-devs/youtube-source) - A rewritten YouTube source manager for Lavaplayer.
@@ -146,6 +149,8 @@
 
 ## Python
 
+* 【2025-05-27】[Vexa-ai / vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
+* 【2025-05-27】[pgmpy / pgmpy](https://github.com/pgmpy/pgmpy) - Python Library for Causal and Probabilistic Modeling using Bayesian Networks
 * 【2025-05-26】[MaiM-with-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 * 【2025-05-26】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-05-24】[ML-GSAI / LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
@@ -242,6 +247,7 @@
 
 ## Javascript
 
+* 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 * 【2025-05-24】[auth0 / react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 * 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
 * 【2025-05-23】[volcengine / ai-app-lab](https://github.com/volcengine/ai-app-lab) - 
@@ -295,6 +301,7 @@
 
 ## Go
 
+* 【2025-05-27】[applejag / kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 * 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 * 【2025-05-25】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
 * 【2025-05-25】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
@@ -495,6 +502,8 @@
 
 ## Css
 
+* 【2025-05-27】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
+* 【2025-05-27】[cormullion / juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * 【2025-05-22】[sameerasw / my-internet](https://github.com/sameerasw/my-internet) - Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on
 * 【2025-05-21】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 * 【2025-05-05】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
