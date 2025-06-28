@@ -116,6 +116,7 @@
 
 ## C
 
+* 【2025-06-28】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 * 【2025-06-27】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
 * 【2025-06-18】[cosmos72 / twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 * 【2025-06-17】[espressif / esp-brookesia](https://github.com/espressif/esp-brookesia) - ESP-Brookesia is a human-machine interaction development framework designed for AIoT devices.
