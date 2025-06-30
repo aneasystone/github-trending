@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
+* 【2025-06-30】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+* 【2025-06-30】[zyronon / typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 * 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-25】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -41,6 +44,7 @@
 
 ## Java
 
+* 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
@@ -54,6 +58,7 @@
 
 ## Python
 
+* 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-27】[LearningCircuit / local-deep-research](https://github.com/LearningCircuit/local-deep-research) - Local Deep Research is an AI-powered assistant that transforms complex questions into comprehensive, cited reports by conducting iterative analysis using any LLM across diverse knowledge sources including academic databases, scientific repositories, web content, and private document collections.
@@ -106,6 +111,8 @@
 
 ## Go
 
+* 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
+* 【2025-06-30】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -134,6 +141,7 @@
 
 ## C++
 
+* 【2025-06-30】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
@@ -148,6 +156,7 @@
 
 ## C#
 
+* 【2025-06-30】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-06-22】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-21】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
 * 【2025-06-17】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
@@ -182,6 +191,7 @@
 
 ## Unknown
 
+* 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 * 【2025-06-29】[tc39 / proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 * 【2025-06-22】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
