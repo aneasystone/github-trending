@@ -78,6 +78,7 @@
 
 ## Python
 
+* 【2025-07-16】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-13】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 * 【2025-07-13】[markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
@@ -205,6 +206,7 @@
 
 ## C++
 
+* 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
 * 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
 * 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
@@ -225,6 +227,10 @@
 
 ## C#
 
+* 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
+* 【2025-07-16】[ChangemakerStudios / Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
+* 【2025-07-16】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
+* 【2025-07-16】[Zetrith / Prepatcher](https://github.com/Zetrith/Prepatcher) - Structured assembly rewriting library/mod for RW
 * 【2025-07-14】[SakiRinn / LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) - Lightweight and powerful real-time audio/speech translation tool based on Windows LiveCaptions.
 * 【2025-07-08】[cschneegans / unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 * 【2025-07-08】[Maassoft / ColorControl](https://github.com/Maassoft/ColorControl) - Easily change NVIDIA display settings and/or control LG TV's
@@ -284,6 +290,7 @@
 
 ## Unknown
 
+* 【2025-07-16】[MoonshotAI / Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-13】[arcprize / ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-03】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
