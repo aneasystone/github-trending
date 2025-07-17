@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-07-17】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+* 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
 * 【2025-07-12】[landing-ai / agentic-doc](https://github.com/landing-ai/agentic-doc) - Python library for Agentic Document Extraction from LandingAI
 * 【2025-07-12】[antiwork / flexile](https://github.com/antiwork/flexile) - Contractor payments as easy as 1-2-3
@@ -78,6 +80,8 @@
 
 ## Python
 
+* 【2025-07-17】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
+* 【2025-07-17】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-13】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -157,6 +161,8 @@
 
 ## Go
 
+* 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
+* 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 * 【2025-07-14】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 * 【2025-07-14】[ssut / payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 * 【2025-07-13】[Ullaakut / cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
@@ -227,6 +233,7 @@
 
 ## C#
 
+* 【2025-07-17】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 * 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 * 【2025-07-16】[ChangemakerStudios / Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
 * 【2025-07-16】[rwmt / Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith's Multiplayer mod for RimWorld
@@ -254,6 +261,8 @@
 
 ## Html
 
+* 【2025-07-17】[zhtyyx / ioe](https://github.com/zhtyyx/ioe) - One-Stop Retail Inventory Solution
+* 【2025-07-17】[ioccc-src / winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 * 【2025-07-13】[kagisearch / kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 * 【2025-07-13】[pu2clr / SI4735](https://github.com/pu2clr/SI4735) - SI473X Library for Arduino
 * 【2025-07-10】[google / adk-docs](https://github.com/google/adk-docs) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
@@ -269,6 +278,7 @@
 
 ## Css
 
+* 【2025-07-17】[brody192 / vite-react-template](https://github.com/brody192/vite-react-template) - 
 * 【2025-07-12】[jensimmons / cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 * 【2025-07-10】[tanabe / markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
 * 【2025-07-09】[sapthesh / Birthday](https://github.com/sapthesh/Birthday) - The Customizable Birthday Web Template is a versatile and user-friendly website template designed to celebrate birthdays in a fun and personalized way.
