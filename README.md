@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-07-21】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+* 【2025-07-21】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 * 【2025-07-20】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 * 【2025-07-17】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 * 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
@@ -82,6 +84,8 @@
 
 ## Python
 
+* 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+* 【2025-07-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-07-19】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
 * 【2025-07-19】[maxdorninger / MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 * 【2025-07-17】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
@@ -167,6 +171,7 @@
 
 ## Go
 
+* 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
 * 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 * 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 * 【2025-07-14】[ArvinLovegood / go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送。目前已支持A股，港股，美股，未来计划加入基金，ETF等支持。支持市场整体/个股情绪分析，K线分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
@@ -218,6 +223,7 @@
 
 ## C++
 
+* 【2025-07-21】[OpenHUTB / hutb](https://github.com/OpenHUTB/hutb) - 人车模拟器
 * 【2025-07-20】[deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
 * 【2025-07-20】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 * 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
@@ -241,6 +247,7 @@
 
 ## C#
 
+* 【2025-07-21】[imDema / FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
 * 【2025-07-20】[Azure / azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents.
 * 【2025-07-17】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 * 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
@@ -287,6 +294,7 @@
 
 ## Css
 
+* 【2025-07-21】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 * 【2025-07-20】[linera-io / linera-documentation](https://github.com/linera-io/linera-documentation) - 
 * 【2025-07-20】[LeelaChessZero / lczero.org](https://github.com/LeelaChessZero/lczero.org) - A website (will be lczero.org)
 * 【2025-07-17】[brody192 / vite-react-template](https://github.com/brody192/vite-react-template) - 
@@ -311,6 +319,9 @@
 
 ## Unknown
 
+* 【2025-07-21】[browser-use / awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
+* 【2025-07-21】[iam-veeramalla / ultimate-linux-guide](https://github.com/iam-veeramalla/ultimate-linux-guide) - Ultimate guide to learn Linux from scratch.
+* 【2025-07-21】[crowforkotlin / pastemangax](https://github.com/crowforkotlin/pastemangax) - 🚀拷贝漫画三方APP 、项目采用多模块 和 MVI框架开发、Compose + 原生混合开发
 * 【2025-07-19】[cursor / cursor](https://github.com/cursor/cursor) - The AI Code Editor
 * 【2025-07-16】[MoonshotAI / Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-13】[arcprize / ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 
