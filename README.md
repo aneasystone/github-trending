@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-07-22】[C4illin / ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 * 【2025-07-21】[better-auth / better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 * 【2025-07-21】[simstudioai / sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 * 【2025-07-20】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
@@ -84,6 +85,7 @@
 
 ## Python
 
+* 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 * 【2025-07-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2025-07-19】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
@@ -171,6 +173,7 @@
 
 ## Go
 
+* 【2025-07-22】[donetick / donetick](https://github.com/donetick/donetick) - Donetick an open-source, user-friendly app for managing tasks and chores, featuring customizable options to help you and others stay organized
 * 【2025-07-21】[mudler / LocalRecall](https://github.com/mudler/LocalRecall) - 🧠 100% Local Memory layer and Knowledge base for agents with WebUI
 * 【2025-07-17】[hypermodeinc / badger](https://github.com/hypermodeinc/badger) - Fast key-value DB in Go.
 * 【2025-07-17】[bcicen / ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -205,6 +208,7 @@
 
 ## C
 
+* 【2025-07-22】[Zelda64Recomp / Zelda64Recomp](https://github.com/Zelda64Recomp/Zelda64Recomp) - Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)
 * 【2025-07-13】[Crypto-toolbox / HFT-Orderbook](https://github.com/Crypto-toolbox/HFT-Orderbook) - Limit Order Book for high-frequency trading (HFT), as described by WK Selph, implemented in Python3 and C
 * 【2025-07-12】[PufferAI / PufferLib](https://github.com/PufferAI/PufferLib) - Simplifying reinforcement learning for complex game environments
 * 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
@@ -247,6 +251,7 @@
 
 ## C#
 
+* 【2025-07-22】[REDSIM / VRCLightVolumes](https://github.com/REDSIM/VRCLightVolumes) - Nextgen voxel based light probes replacement for VRChat
 * 【2025-07-21】[imDema / FreeMove](https://github.com/imDema/FreeMove) - Move directories without breaking shortcuts or installations
 * 【2025-07-20】[Azure / azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents.
 * 【2025-07-17】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
@@ -294,6 +299,7 @@
 
 ## Css
 
+* 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
 * 【2025-07-21】[Chainlift / liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 * 【2025-07-20】[linera-io / linera-documentation](https://github.com/linera-io/linera-documentation) - 
 * 【2025-07-20】[LeelaChessZero / lczero.org](https://github.com/LeelaChessZero/lczero.org) - A website (will be lczero.org)
