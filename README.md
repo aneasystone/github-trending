@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-07-25】[langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 * 【2025-07-24】[Sjj1024 / PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 * 【2025-07-23】[fujiapple852 / trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 * 【2025-07-23】[ankitects / anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
@@ -89,6 +90,8 @@
 
 ## Python
 
+* 【2025-07-25】[SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
+* 【2025-07-25】[QwenLM / Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-07-23】[sooperset / mcp-atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence, Jira)
 * 【2025-07-22】[Yaofang-Liu / Pusa-VidGen](https://github.com/Yaofang-Liu/Pusa-VidGen) - Pusa: Thousands Timesteps Video Diffusion Model
 * 【2025-07-21】[hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -151,6 +154,7 @@
 
 ## Javascript
 
+* 【2025-07-25】[acornjs / acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 * 【2025-07-20】[MarSeventh / CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 * 【2025-07-18】[phcode-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
