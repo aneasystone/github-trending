@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-08-06】[thewh1teagle / vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 * 【2025-08-04】[flydelabs / flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
 * 【2025-08-02】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 * 【2025-08-02】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
@@ -78,6 +79,7 @@
 
 ## Java
 
+* 【2025-08-06】[babyfish-ct / jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 * 【2025-08-04】[Wurst-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
 * 【2025-08-04】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 * 【2025-08-03】[OWASP-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
@@ -106,6 +108,8 @@
 
 ## Python
 
+* 【2025-08-06】[trailofbits / algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+* 【2025-08-06】[UKGovernmentBEIS / inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
 * 【2025-08-05】[resemble-ai / chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 * 【2025-08-05】[google / adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
 * 【2025-08-05】[Tautulli / Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
@@ -265,6 +269,8 @@
 
 ## C
 
+* 【2025-08-06】[TinyCC / tinycc](https://github.com/TinyCC/tinycc) - Unofficial mirror of mob development branch
+* 【2025-08-06】[utkarshdalal / GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 * 【2025-08-02】[sipwise / rtpengine](https://github.com/sipwise/rtpengine) - The Sipwise media proxy for Kamailio
 * 【2025-07-30】[system-linux / FazJammer](https://github.com/system-linux/FazJammer) - A minimal, simple and effective jammer that jams Wi-Fi, BLE and 2.4 GHz band.
 * 【2025-07-29】[cellos51 / balatro-gba](https://github.com/cellos51/balatro-gba) - 
@@ -287,6 +293,8 @@
 
 ## C++
 
+* 【2025-08-06】[duixcom / Duix-Mobile](https://github.com/duixcom/Duix-Mobile) - 🚀 全网效果最好的移动端【实时对话数字人】。 支持本地部署、多模态交互（语音、文本、表情），响应速度低于 1.5 秒，适用于直播、教学、客服、金融、政务等对隐私与实时性要求极高的场景。开箱即用，开发者友好。
+* 【2025-08-06】[deepseek-ai / FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA kernels
 * 【2025-08-03】[google / longfellow-zk](https://github.com/google/longfellow-zk) - Implementation of the Google Zero-Knowledge library for Identity Protocols.
 * 【2025-08-03】[paullouisageneau / libdatachannel](https://github.com/paullouisageneau/libdatachannel) - C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets
 * 【2025-07-29】[facebook / watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
