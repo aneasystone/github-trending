@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-08-09】[openai / codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 * 【2025-08-08】[xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 * 【2025-08-07】[themactep / thingino-firmware](https://github.com/themactep/thingino-firmware) - Open-source firmware for Ingenic SoC IP cameras
 * 【2025-08-07】[open-edge-platform / anomalib](https://github.com/open-edge-platform/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
@@ -197,6 +198,9 @@
 
 ## Javascript
 
+* 【2025-08-09】[benborla / mcp-server-mysql](https://github.com/benborla/mcp-server-mysql) - A Model Context Protocol server that provides read-only access to MySQL databases. This server enables LLMs to inspect database schemas and execute read-only queries.
+* 【2025-08-09】[Kaliiiiiiiiii-Vinyzu / patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
+* 【2025-08-09】[automerge / automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 * 【2025-08-08】[cjo4m06 / mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking and iterative refinement, enabling agent-like developer behavior in reasoning AI systems.
 * 【2025-08-08】[codeaashu / DevDisplay](https://github.com/codeaashu/DevDisplay) - The First Global Platform for Developers to Fulfill All Their Tech Needs.
 * 【2025-08-07】[RainyGao-GitHub / DocSys](https://github.com/RainyGao-GitHub/DocSys) - MxsDoc is a web based document storage and management system
@@ -235,6 +239,7 @@
 
 ## Go
 
+* 【2025-08-09】[maximhq / bifrost](https://github.com/maximhq/bifrost) - The Fastest LLM Gateway with built in OTel observability and MCP gateway
 * 【2025-08-03】[hypermodeinc / dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
 * 【2025-08-01】[sst / opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 * 【2025-07-31】[envoyproxy / ai-gateway](https://github.com/envoyproxy/ai-gateway) - Envoy AI Gateway is an open source project for using Envoy Gateway to handle request traffic from application clients to Generative AI services.
@@ -399,6 +404,7 @@
 
 ## Css
 
+* 【2025-08-09】[keshikan / DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 * 【2025-08-08】[vinceliuice / WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 * 【2025-07-30】[tw93 / weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * 【2025-07-22】[aculix / bitplay](https://github.com/aculix/bitplay) - Stream video torrents in your web browser with ease.
