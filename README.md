@@ -127,6 +127,7 @@
 
 ## Python
 
+* 【2025-08-18】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 * 【2025-08-15】[datalab-to / marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 * 【2025-08-14】[microsoft / magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 * 【2025-08-14】[browserbase / stagehand-python](https://github.com/browserbase/stagehand-python) - The AI Browser Automation Framework
@@ -473,6 +474,8 @@
 
 ## Unknown
 
+* 【2025-08-18】[enescingoz / awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+* 【2025-08-18】[TheGP / untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 * 【2025-08-17】[lukasmasuch / best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 * 【2025-08-04】[Kimentanm / aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 * 【2025-08-01】[crescentpartha / CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers) - A collection of programming CheatSheets for developers to boost your productivity and quick review to remember while working.
