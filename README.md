@@ -106,6 +106,8 @@
 
 ## Java
 
+* 【2025-08-27】[AIDC-AI / Agentic-ADK](https://github.com/AIDC-AI/Agentic-ADK) - Agentic ADK is an Agent application development framework launched by Alibaba International AI Business, based on Google-ADK and Ali-LangEngine.
+* 【2025-08-27】[sonatype / nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror
 * 【2025-08-24】[bancolombia / scaffold-clean-architecture](https://github.com/bancolombia/scaffold-clean-architecture) - Gradle plugin to create a clean application in Java that already works, It follows our best practices!
 * 【2025-08-16】[sepinf-inc / IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 * 【2025-08-15】[kishanrajput23 / Java-Projects-Collections](https://github.com/kishanrajput23/Java-Projects-Collections) - Contribute in this repository by raising a genuine PR. Then get verified, and earn the free swags from Hacktoberfest 2023.
@@ -142,6 +144,8 @@
 
 ## Python
 
+* 【2025-08-27】[bytedance / deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
+* 【2025-08-27】[i-am-bee / acp](https://github.com/i-am-bee/acp) - Open protocol for communication between AI agents, applications, and humans.
 * 【2025-08-26】[QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 * 【2025-08-25】[openai / mle-bench](https://github.com/openai/mle-bench) - MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 * 【2025-08-24】[1rgs / claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
@@ -250,6 +254,7 @@
 
 ## Javascript
 
+* 【2025-08-27】[SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
 * 【2025-08-26】[fleetbase / fleetbase](https://github.com/fleetbase/fleetbase) - Modular logistics and supply chain operating system (LSOS)
 * 【2025-08-23】[hargata / lubelog](https://github.com/hargata/lubelog) - LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 * 【2025-08-21】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
@@ -424,6 +429,8 @@
 
 ## C#
 
+* 【2025-08-27】[VedalAI / neuro-sdk](https://github.com/VedalAI/neuro-sdk) - Neuro SDK + API for allowing Neuro to play games
+* 【2025-08-27】[creazyboyone / FastGithub](https://github.com/creazyboyone/FastGithub) - FastGithub 是 GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、releases 无法上传下载、git-clone、git-pull、git-push
 * 【2025-08-25】[NickvisionApps / Denaro](https://github.com/NickvisionApps/Denaro) - Manage your personal finances
 * 【2025-08-24】[Ottermandias / Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra.
 * 【2025-08-23】[microsoft / mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
