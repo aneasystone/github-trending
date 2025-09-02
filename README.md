@@ -270,6 +270,7 @@
 
 ## Javascript
 
+* 【2025-09-02】[rgthree / rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real-time lip-sync using Ready Player Me full-body 3D avatars.
 * 【2025-08-31】[mrmlnc / fast-glob](https://github.com/mrmlnc/fast-glob) - 🚀 It's a very fast and efficient glob library for Node.js
 * 【2025-08-31】[codemirror / dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
@@ -420,6 +421,7 @@
 
 ## C++
 
+* 【2025-09-02】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-31】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
 * 【2025-08-25】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
@@ -510,6 +512,7 @@
 
 ## Html
 
+* 【2025-09-02】[ArjanCodes / examples](https://github.com/ArjanCodes/examples) - All the code examples I use in my videos
 * 【2025-08-31】[MonkeyGG2 / monkeygg2.github.io](https://github.com/MonkeyGG2/monkeygg2.github.io) - Feature-rich games site with 150+ games. Can be easily deployed with a proxy.
 * 【2025-08-28】[quinlan-lab / applied-computational-genomics](https://github.com/quinlan-lab/applied-computational-genomics) - Applied Computational Genomics Course at UU: Spring 2020
 * 【2025-08-26】[g4m3r0 / ImageUpscaler](https://github.com/g4m3r0/ImageUpscaler) - Elevate your low-res images effortlessly with our simple Flask web app powered by AI image upscaling.
