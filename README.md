@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-09-05】[weaviate / elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
+* 【2025-09-05】[socfortress / Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules) - Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
 * 【2025-09-04】[oraios / serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 * 【2025-09-04】[carthage-software / mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 * 【2025-09-03】[LukeGus / Termix](https://github.com/LukeGus/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
@@ -155,6 +157,7 @@
 
 ## Python
 
+* 【2025-09-05】[slavakurilyak / awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) - Awesome list of 300+ agentic AI resources
 * 【2025-09-04】[murtaza-nasir / maestro](https://github.com/murtaza-nasir/maestro) - MAESTRO is an AI-powered research application designed to streamline complex research tasks.
 * 【2025-09-04】[microsoft / rStar](https://github.com/microsoft/rStar) - 
 * 【2025-09-04】[JefferyHcool / BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
@@ -277,6 +280,8 @@
 
 ## Javascript
 
+* 【2025-09-05】[bcanseco / github-contribution-graph-action](https://github.com/bcanseco/github-contribution-graph-action) - 🙈 This GitHub action will automatically push empty commits to one of your repositories.
+* 【2025-09-05】[sohzm / cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 * 【2025-09-03】[niespodd / browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 * 【2025-09-02】[rgthree / rgthree-comfy](https://github.com/rgthree/rgthree-comfy) - Making ComfyUI more comfortable!
 * 【2025-09-01】[met4citizen / TalkingHead](https://github.com/met4citizen/TalkingHead) - Talking Head (3D): A JavaScript class for real-time lip-sync using Ready Player Me full-body 3D avatars.
@@ -393,6 +398,7 @@
 
 ## C
 
+* 【2025-09-05】[FalkorDB / FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 * 【2025-09-03】[liamelui / zomdroid](https://github.com/liamelui/zomdroid) - Unofficial Project Zomboid launcher for Android
 * 【2025-09-03】[skeeto / w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 * 【2025-09-01】[nanovms / nanos](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment
@@ -471,6 +477,7 @@
 
 ## C#
 
+* 【2025-09-05】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
 * 【2025-09-03】[Planshit / ProjectEye](https://github.com/Planshit/ProjectEye) - 😎 一个基于20-20-20规则的用眼休息提醒Windows软件
 * 【2025-09-03】[Achuan-2 / SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT plugin, supports one-click to add image titles, copy and paste positions, one-click image alignment, and one-click to insert Markdown (including bold, hyperlinks, and other inline styles, as well as code blocks, LaTeX, and other block-level styles)! PPT插件，支持一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 * 【2025-09-03】[tixl3d / tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
