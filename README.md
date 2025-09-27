@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-09-27】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
+* 【2025-09-27】[google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * 【2025-09-26】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
 * 【2025-09-25】[cloudflare / capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 * 【2025-09-25】[HKUDS / RAG-Anything](https://github.com/HKUDS/RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
@@ -146,6 +148,7 @@
 
 ## Java
 
+* 【2025-09-27】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data
 * 【2025-09-24】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 * 【2025-09-09】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
 * 【2025-09-08】[Mentra-Community / MentraOS](https://github.com/Mentra-Community/MentraOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
@@ -191,6 +194,7 @@
 
 ## Python
 
+* 【2025-09-27】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2025-09-26】[StanfordVL / BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
 * 【2025-09-25】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
 * 【2025-09-24】[Olow304 / memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
@@ -625,6 +629,8 @@
 
 ## Html
 
+* 【2025-09-27】[owickstrom / the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
+* 【2025-09-27】[dinguschan-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
 * 【2025-09-26】[PhoenixPE / PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11.
 * 【2025-09-24】[aave / aave-protocol](https://github.com/aave/aave-protocol) - Aave Protocol Version 1.0 - Decentralized Lending Pools
 * 【2025-09-18】[whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
