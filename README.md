@@ -8,6 +8,11 @@
 
 ## All language
 
+* 【2025-10-10】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
+* 【2025-10-10】[TibixDev / winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
+* 【2025-10-10】[timelinize / timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+* 【2025-10-10】[rust-lang / rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+* 【2025-10-10】[PixelGuys / Cubyz](https://github.com/PixelGuys/Cubyz) - Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
 * 【2025-10-07】[BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-10-07】[openemr / openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution.
 * 【2025-10-06】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
@@ -220,6 +225,9 @@
 
 ## Python
 
+* 【2025-10-10】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+* 【2025-10-10】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
+* 【2025-10-10】[aws / bedrock-agentcore-sdk-python](https://github.com/aws/bedrock-agentcore-sdk-python) - Python SDK for transforming any AI agent into a production-ready application. Framework-agnostic primitives for runtime, memory, authentication, and tools with AWS-managed infrastructure.
 * 【2025-10-09】[giantpinkrobots / varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 * 【2025-10-08】[Fannovel16 / comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux) - ComfyUI's ControlNet Auxiliary Preprocessors
 * 【2025-10-07】[ScrapeGraphAI / Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
@@ -734,6 +742,7 @@
 
 ## Css
 
+* 【2025-10-10】[avinash201199 / stopwatch](https://github.com/avinash201199/stopwatch) - Stop watch using javascript
 * 【2025-10-06】[Gonzalo-D-Sales / obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 * 【2025-10-04】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 * 【2025-10-04】[neeraj542 / Personal-Finance-Tracker](https://github.com/neeraj542/Personal-Finance-Tracker) - The Personal Finance Tracker is a web application designed to help individuals manage their finances effectively. It provides a user-friendly interface for tracking income and expenses, setting financial goals, and monitoring budget limits.
@@ -779,6 +788,7 @@
 
 ## Unknown
 
+* 【2025-10-10】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
 * 【2025-10-07】[hyprland-community / awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 * 【2025-10-04】[doggy8088 / github-copilot-configs](https://github.com/doggy8088/github-copilot-configs) - Will 保哥整理的最佳 GitHub Copilot 設定
 * 【2025-09-29】[rohitg00 / DevOpsCommunity](https://github.com/rohitg00/DevOpsCommunity) - DevOps/SRE community is for those folks who are trying to learn or explore DevOps with the help of experienced professionals. Opportunities are open to share.
