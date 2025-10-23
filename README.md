@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-10-23】[zyronon / TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
 * 【2025-10-22】[sharkdp / bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 * 【2025-10-19】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 * 【2025-10-19】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -55,6 +56,7 @@
 
 ## Python
 
+* 【2025-10-23】[pollen-robotics / reachy_mini](https://github.com/pollen-robotics/reachy_mini) - Reachy Mini's SDK
 * 【2025-10-22】[hyperliquid-dex / hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) - SDK for Hyperliquid API trading with Python.
 * 【2025-10-18】[gyoridavid / ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
 * 【2025-10-18】[0x4m4 / hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
@@ -79,6 +81,9 @@
 
 ## Javascript
 
+* 【2025-10-23】[Yuyz0112 / claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
+* 【2025-10-23】[hexianWeb / CubeCity](https://github.com/hexianWeb/CubeCity) - A city waiting to be built by you 🏙️🔨✨. Threejs Version (一个等着被你建造的城市)
+* 【2025-10-23】[n00bcodr / Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 * 【2025-10-22】[lioensky / VCPToolBox](https://github.com/lioensky/VCPToolBox) - 一个全新的，强大的AI-API-工具交互范式AGI社群系统。独立多Agent封装，非线性超异步工作流，交叉记忆网络，六大插件协议，完整Websocket和WebDav功能，支持分布式部署和算力均衡！
 * 【2025-10-21】[vanzan01 / claude-code-sub-agent-collective](https://github.com/vanzan01/claude-code-sub-agent-collective) - 🧠 Context Engineering Research - Not just another agent collection, but using research and context engineering to function as a collective. Hub-and-spoke coordination through Claude Code.
 * 【2025-10-19】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
@@ -102,6 +107,7 @@
 
 ## Go
 
+* 【2025-10-23】[VirusTotal / vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
 * 【2025-10-19】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
 * 【2025-10-18】[ZenPrivacy / zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-17】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
@@ -128,6 +134,7 @@
 
 ## C++
 
+* 【2025-10-23】[momo5502 / sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 * 【2025-10-21】[PancakeTAS / lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux
 * 【2025-10-20】[kcat / openal-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 * 【2025-10-14】[ByteWelder / Tactility](https://github.com/ByteWelder/Tactility) - An operating system for ESP32 devices.
@@ -139,6 +146,7 @@
 
 ## C#
 
+* 【2025-10-23】[romanvht / ByeDPIManager](https://github.com/romanvht/ByeDPIManager) - Мини утилита для запуска ByeDPI + ProxiFyre под Windows
 * 【2025-10-19】[Unity-Technologies / com.unity.toonshader](https://github.com/Unity-Technologies/com.unity.toonshader) - Unity Toon Shader
 * 【2025-10-16】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
 * 【2025-10-11】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
@@ -156,6 +164,7 @@
 
 ## Css
 
+* 【2025-10-23】[lazaronixon / css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
 * 【2025-10-21】[lossless1024 / StreaMonitor](https://github.com/lossless1024/StreaMonitor) - Adult live stream downloader for advanced people. I could have chosen a better name.
 * 【2025-10-19】[avinash201199 / My-Gallery-4u](https://github.com/avinash201199/My-Gallery-4u) - Photography website
 * 【2025-10-16】[wso2 / docs-is](https://github.com/wso2/docs-is) - 
