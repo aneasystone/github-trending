@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-10-25】[isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
 * 【2025-10-24】[meta-pytorch / torchforge](https://github.com/meta-pytorch/torchforge) - PyTorch-native post-training at scale
 * 【2025-10-24】[guofei9987 / scikit-opt](https://github.com/guofei9987/scikit-opt) - Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman)
 * 【2025-10-23】[zyronon / TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
@@ -46,6 +47,7 @@
 
 ## Java
 
+* 【2025-10-25】[LianjiaTech / bella-openapi](https://github.com/LianjiaTech/bella-openapi) - Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天补全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集成了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。
 * 【2025-10-22】[jd-opensource / joyagent-jdgenie](https://github.com/jd-opensource/joyagent-jdgenie) - 开源的端到端产品级通用智能体
 * 【2025-10-14】[Geniusay / ChopperBot](https://github.com/Geniusay/ChopperBot) - 虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮
 * 【2025-10-14】[apache / ofbiz-framework](https://github.com/apache/ofbiz-framework) - Apache OFBiz is an open source product for the automation of enterprise processes. It includes framework components and business applications for ERP, CRM, E-Business/E-Commerce, Supply Chain Management and Manufacturing Resource Planning. OFBiz provides a foundation and starting point for reliable, secure and scalable enterprise solutions.
@@ -111,6 +113,7 @@
 
 ## Go
 
+* 【2025-10-25】[julien040 / anyquery](https://github.com/julien040/anyquery) - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 * 【2025-10-23】[VirusTotal / vt-cli](https://github.com/VirusTotal/vt-cli) - VirusTotal Command Line Interface
 * 【2025-10-19】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
 * 【2025-10-18】[ZenPrivacy / zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
@@ -168,6 +171,8 @@
 
 ## Css
 
+* 【2025-10-25】[amnweb / yasb-themes](https://github.com/amnweb/yasb-themes) - 🎨 Theme repository for YASB.
+* 【2025-10-25】[Matt-FTW / dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 * 【2025-10-23】[lazaronixon / css-zero](https://github.com/lazaronixon/css-zero) - An opinionated front-end starter kit for your "nobuild" application
 * 【2025-10-21】[lossless1024 / StreaMonitor](https://github.com/lossless1024/StreaMonitor) - Adult live stream downloader for advanced people. I could have chosen a better name.
 * 【2025-10-19】[avinash201199 / My-Gallery-4u](https://github.com/avinash201199/My-Gallery-4u) - Photography website
@@ -182,6 +187,7 @@
 
 ## Unknown
 
+* 【2025-10-25】[wea-f / ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
 * 【2025-10-24】[MicrosoftDocs / mcp](https://github.com/MicrosoftDocs/mcp) - Official Microsoft Learn MCP Server – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.
 * 【2025-10-17】[LLMQuant / quant-wiki](https://github.com/LLMQuant/quant-wiki) - We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。
 * 【2025-10-16】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
