@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-10-30】[Beingpax / VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 * 【2025-10-29】[spipm / Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 * 【2025-10-27】[microsoft / agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 * 【2025-10-25】[isaac-sim / IsaacSim](https://github.com/isaac-sim/IsaacSim) - NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
@@ -64,6 +65,9 @@
 
 ## Python
 
+* 【2025-10-30】[666ghj / BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+* 【2025-10-30】[thinking-machines-lab / tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
+* 【2025-10-30】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Environments for LLM Reinforcement Learning
 * 【2025-10-29】[TNTwise / REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 * 【2025-10-26】[moondevonyt / moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) - autonomous ai agents for trading in python
 * 【2025-10-24】[AsyncFuncAI / deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -122,6 +126,8 @@
 
 ## Go
 
+* 【2025-10-30】[trpc-group / trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
+* 【2025-10-30】[Tencent / WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 * 【2025-10-28】[AlistGo / alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 * 【2025-10-27】[Notifuse / notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform
 * 【2025-10-27】[fish2018 / pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
@@ -175,6 +181,7 @@
 
 ## Html
 
+* 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
 * 【2025-10-29】[skindhu / Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 * 【2025-10-17】[spencerccf / app_settings](https://github.com/spencerccf/app_settings) - Flutter plugin for accessing app phone settings for iOS and Android
