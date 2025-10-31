@@ -65,6 +65,9 @@
 
 ## Python
 
+* 【2025-10-31】[Kludex / starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+* 【2025-10-31】[HKUDS / ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
+* 【2025-10-31】[astral-sh / ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 * 【2025-10-30】[666ghj / BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 * 【2025-10-30】[thinking-machines-lab / tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 * 【2025-10-30】[PrimeIntellect-ai / verifiers](https://github.com/PrimeIntellect-ai/verifiers) - Environments for LLM Reinforcement Learning
