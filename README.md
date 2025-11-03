@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-11-03】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 * 【2025-11-02】[get-convex / chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
 * 【2025-11-02】[suitenumerique / docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 * 【2025-11-02】[lingodotdev / lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
@@ -53,6 +54,7 @@
 
 ## Java
 
+* 【2025-11-03】[typetools / checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
 * 【2025-11-01】[Tosencen / XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
 * 【2025-10-28】[strivedi4u / hacktoberfest2025](https://github.com/strivedi4u/hacktoberfest2025) - 🌱 This repository is for beginners who want to contribute to open source through 🎉 Hacktoberfest 2025. 🚀 It’s designed to promote learning and growth in 💻 software development with fun 🧩 coding challenges and 🛠️ projects — from basic algorithms to advanced applications. 🤝 Join in, contribute, and level up your skills.
 * 【2025-10-26】[torakiki / pdfsam](https://github.com/torakiki/pdfsam) - PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages
@@ -69,6 +71,7 @@
 
 ## Python
 
+* 【2025-11-03】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-02】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 * 【2025-11-01】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
 * 【2025-11-01】[google-agentic-commerce / AP2](https://github.com/google-agentic-commerce/AP2) - Building a Secure and Interoperable Future for AI-Driven Payments.
@@ -106,6 +109,7 @@
 
 ## Javascript
 
+* 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
 * 【2025-11-01】[aunetx / blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
 * 【2025-10-28】[wangwangit / SubsTracker](https://github.com/wangwangit/SubsTracker) - 基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。
@@ -197,6 +201,7 @@
 
 ## Html
 
+* 【2025-11-03】[github / personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
 * 【2025-10-30】[OCA / helpdesk](https://github.com/OCA/helpdesk) - Odoo modules for managing a HelpDesk system
 * 【2025-10-29】[IBM / AssetOpsBench](https://github.com/IBM/AssetOpsBench) - AssetOpsBench - Industry 4.0
