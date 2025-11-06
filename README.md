@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-11-06】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 * 【2025-11-05】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-04】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 * 【2025-11-03】[GeeeekExplorer / nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
@@ -111,6 +112,7 @@
 
 ## Javascript
 
+* 【2025-11-06】[meodai / color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-03】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 * 【2025-11-01】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
 * 【2025-11-01】[aunetx / blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
@@ -208,6 +210,7 @@
 
 ## Html
 
+* 【2025-11-06】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2025-11-05】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.
 * 【2025-11-03】[github / personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 * 【2025-11-01】[ranuts / document](https://github.com/ranuts/document) - Perform common file preview and editing via the web.
@@ -242,6 +245,7 @@
 
 ## Unknown
 
+* 【2025-11-06】[kakoni / awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 * 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
 * 【2025-10-25】[wea-f / ByePassHub](https://github.com/wea-f/ByePassHub) - 3500+ UNRESTRICTED unblockers, games, exploits, bookmarklets, and AI
