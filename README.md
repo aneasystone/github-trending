@@ -38,6 +38,7 @@
 
 ## Python
 
+* 【2025-11-25】[langbot-app / LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots / 生产级即时通信机器人开发平台. Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Google Gemini, Nano Banana, Kimi, PPIO, Ollama, MiniMax, SiliconFlow, Qwen, Moonshot, MCP etc. LLM & Agent & RAG
 * 【2025-11-15】[RLinf / RLinf](https://github.com/RLinf/RLinf) - RLinf is a flexible and scalable open-source infrastructure designed for post-training foundation models (LLMs, VLMs, VLAs) via reinforcement learning.
 * 【2025-11-13】[googlefonts / googlesans-code](https://github.com/googlefonts/googlesans-code) - The Google Sans Code font family
 * 【2025-11-12】[GibsonAI / Memori](https://github.com/GibsonAI/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
