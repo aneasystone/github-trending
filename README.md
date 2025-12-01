@@ -106,6 +106,7 @@
 
 ## Html
 
+* 【2025-12-01】[joyce677 / TrendRadar](https://github.com/joyce677/TrendRadar) - 一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。还有文字和图片版api可调用
 * 【2025-11-07】[Max-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
 * 【2025-11-07】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 * 【2025-11-06】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
