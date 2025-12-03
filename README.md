@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-12-03】[MemoriLabs / Memori](https://github.com/MemoriLabs/Memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 * 【2025-11-12】[google / adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
 * 【2025-11-12】[WICG / email-verification-protocol](https://github.com/WICG/email-verification-protocol) - verified autofill
 * 【2025-11-11】[lzhoang2801 / OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) - A tool designed to simplify the creation of OpenCore EFI
