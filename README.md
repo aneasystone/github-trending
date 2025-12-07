@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-12-07】[anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
 * 【2025-12-06】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 * 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 * 【2025-12-05】[basecamp / fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
@@ -37,6 +38,7 @@
 
 ## Java
 
+* 【2025-12-07】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 * 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * 【2025-11-11】[JingMatrix / LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 * 【2025-11-03】[typetools / checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
@@ -81,6 +83,9 @@
 
 ## Go
 
+* 【2025-12-07】[tesserato / CodeWeaver](https://github.com/tesserato/CodeWeaver) - Weave your codebase into a single, navigable Markdown document
+* 【2025-12-07】[Adembc / lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
+* 【2025-12-07】[docker / cagent](https://github.com/docker/cagent) - Agent Builder and Runtime by Docker Engineering
 * 【2025-11-10】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-09】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-09】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -114,6 +119,8 @@
 
 ## C#
 
+* 【2025-12-07】[okta / okta-sdk-dotnet](https://github.com/okta/okta-sdk-dotnet) - A .NET SDK for interacting with the Okta management API, enabling server-side code to manage Okta users, groups, applications, and more.
+* 【2025-12-07】[unchihugo / FluentFlyout](https://github.com/unchihugo/FluentFlyout) - The modern Flyout app for Windows 11, built with Fluent 2 Design principles. Media, Up Next, and Lock Keys flyouts and more.
 * 【2025-11-19】[qq362946 / Fantasy](https://github.com/qq362946/Fantasy) - C # Game Framework, but not limited to games. Can be used for non game business development
 * 【2025-11-12】[lingarr-translate / lingarr](https://github.com/lingarr-translate/lingarr) - Lingarr is an application that supports both local and SaaS translation services to translate subtitle files into a specified target language. With automated translation options, Lingarr simplifies translating subtitles.
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
@@ -139,6 +146,8 @@
 
 ## Unknown
 
+* 【2025-12-07】[agucova / awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
+* 【2025-12-07】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
 * 【2025-11-12】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2025-11-09】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2025-11-08】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
