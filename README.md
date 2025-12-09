@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2025-12-09】[slidevjs / slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+* 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 * 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 * 【2025-12-08】[BeehiveInnovations / pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-12-07】[anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
@@ -40,6 +42,8 @@
 
 ## Java
 
+* 【2025-12-09】[risin42 / NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
+* 【2025-12-09】[ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2025-12-08】[google / tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
 * 【2025-12-07】[1Panel-dev / CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
 * 【2025-11-12】[bancika / diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
@@ -75,6 +79,7 @@
 
 ## Javascript
 
+* 【2025-12-09】[thedotmack / claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 * 【2025-12-05】[ollm / OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron
 * 【2025-11-11】[marko-js / marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 * 【2025-11-11】[Stremio / stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
