@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-17】[nicotsx / zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 * 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
@@ -71,6 +72,8 @@
 
 ## Python
 
+* 【2025-12-18】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
+* 【2025-12-18】[wecode-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open-source platform to define, organize, and run Agentic AI.
 * 【2025-12-17】[facebookresearch / MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model.Its design is friendly for both CG and CV communities.
 * 【2025-12-17】[xxnuo / MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 * 【2025-12-15】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
@@ -179,6 +182,7 @@
 
 ## C#
 
+* 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
 * 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 * 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 * 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
