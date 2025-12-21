@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-12-21】[lintsinghua / DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。 让安全不再昂贵，让审计不再复杂。
 * 【2025-12-20】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
 * 【2025-12-20】[google / adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
@@ -74,6 +75,7 @@
 
 ## Python
 
+* 【2025-12-21】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 * 【2025-12-18】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
 * 【2025-12-18】[wecode-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open-source platform to define, organize, and run Agentic AI.
 * 【2025-12-17】[facebookresearch / MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model.Its design is friendly for both CG and CV communities.
@@ -115,6 +117,8 @@
 
 ## Javascript
 
+* 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
+* 【2025-12-21】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 * 【2025-12-20】[jiawanlong / Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 * 【2025-12-17】[leeoniya / uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 * 【2025-12-17】[siteboon / claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
@@ -133,6 +137,7 @@
 
 ## Go
 
+* 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 * 【2025-12-17】[vllm-project / semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 * 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
@@ -151,6 +156,7 @@
 
 ## C
 
+* 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 * 【2025-12-19】[scallyw4g / bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 * 【2025-12-17】[DroneBridge / ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
 * 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
