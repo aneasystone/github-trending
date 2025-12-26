@@ -66,6 +66,7 @@
 
 ## Java
 
+* 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 * 【2025-12-23】[FabricMC / fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
 * 【2025-12-22】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
 * 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
@@ -87,6 +88,7 @@
 
 ## Python
 
+* 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * 【2025-12-25】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-23】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 * 【2025-12-21】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
@@ -131,6 +133,8 @@
 
 ## Javascript
 
+* 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
+* 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 * 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 * 【2025-12-21】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 * 【2025-12-20】[jiawanlong / Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
@@ -189,6 +193,8 @@
 
 ## C++
 
+* 【2025-12-26】[alibaba / rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
+* 【2025-12-26】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 * 【2025-12-25】[SpriteOvO / AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 * 【2025-12-23】[bmorcelli / Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
@@ -213,6 +219,7 @@
 
 ## C#
 
+* 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 * 【2025-12-24】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
