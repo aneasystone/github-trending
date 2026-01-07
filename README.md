@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-01-07】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
 * 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 * 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 * 【2026-01-04】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
@@ -80,6 +81,7 @@
 
 ## Java
 
+* 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
@@ -105,6 +107,7 @@
 
 ## Python
 
+* 【2026-01-07】[docling-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.
 * 【2026-01-05】[wasmerio / Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
 * 【2026-01-05】[GodsScion / Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
@@ -191,6 +194,7 @@
 
 ## Go
 
+* 【2026-01-07】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
 * 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
 * 【2026-01-03】[danielpaulus / go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
@@ -225,6 +229,7 @@
 
 ## C
 
+* 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 * 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram-cli
 * 【2025-12-30】[basil00 / WinDivert](https://github.com/basil00/WinDivert) - WinDivert: Windows Packet Divert
@@ -247,6 +252,8 @@
 
 ## C++
 
+* 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
+* 【2026-01-07】[univrsal / input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 * 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
 * 【2026-01-02】[hn / bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
@@ -278,6 +285,7 @@
 
 ## C#
 
+* 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
 * 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
@@ -298,6 +306,7 @@
 
 ## Html
 
+* 【2026-01-07】[apache / ozone-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
 * 【2026-01-03】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
 * 【2026-01-02】[koush / vysor.io](https://github.com/koush/vysor.io) - Vysor - Mirror and Control your Phone
 * 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran.
@@ -338,6 +347,7 @@
 
 ## Unknown
 
+* 【2026-01-07】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-04】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 * 【2026-01-03】[FoundationVision / Waver](https://github.com/FoundationVision/Waver) - Industry-level video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation.
 * 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart.js resources and libraries
