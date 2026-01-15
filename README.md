@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+* 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 * 【2026-01-12】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 * 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 * 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
@@ -87,6 +89,7 @@
 
 ## Java
 
+* 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 * 【2026-01-12】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-01-11】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-09】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
@@ -116,6 +119,10 @@
 
 ## Python
 
+* 【2026-01-15】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment
+* 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
+* 【2026-01-15】[robert-mcdermott / ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
+* 【2026-01-15】[lvgalvao / data-engineering-roadmap](https://github.com/lvgalvao/data-engineering-roadmap) - Formação Profissional em Engenharia de Dados e IA
 * 【2026-01-14】[nunchaku-ai / ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI Plugin of Nunchaku
 * 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
@@ -275,6 +282,7 @@
 
 ## C++
 
+* 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 * 【2026-01-14】[eloqdata / eloqstore](https://github.com/eloqdata/eloqstore) - Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.
 * 【2026-01-14】[Prayag2 / drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 * 【2026-01-12】[xxnuo / MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
@@ -313,6 +321,7 @@
 
 ## C#
 
+* 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 * 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
