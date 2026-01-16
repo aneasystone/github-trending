@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-01-16】[eigent-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 * 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 * 【2026-01-12】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
@@ -119,6 +120,7 @@
 
 ## Python
 
+* 【2026-01-16】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * 【2026-01-15】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment
 * 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 * 【2026-01-15】[robert-mcdermott / ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
@@ -191,6 +193,7 @@
 
 ## Javascript
 
+* 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
 * 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
@@ -222,6 +225,7 @@
 
 ## Go
 
+* 【2026-01-16】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-12】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
 * 【2026-01-12】[badtuxx / girus-cli](https://github.com/badtuxx/girus-cli) - 
 * 【2026-01-07】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
@@ -259,6 +263,7 @@
 
 ## C
 
+* 【2026-01-16】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 * 【2026-01-07】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
 * 【2025-12-30】[mruby / mruby](https://github.com/mruby/mruby) - Lightweight Ruby
 * 【2025-12-30】[vysheng / tg](https://github.com/vysheng/tg) - telegram-cli
@@ -343,6 +348,7 @@
 
 ## Html
 
+* 【2026-01-16】[duckdb / duckdb-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 * 【2026-01-07】[apache / ozone-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
 * 【2026-01-03】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
@@ -367,6 +373,7 @@
 
 ## Css
 
+* 【2026-01-16】[lwjglgamedev / lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents) - Book contents for the book "3D Game Development with LWJGL 3"
 * 【2026-01-08】[Terminus2049 / Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 * 【2026-01-05】[Obsidian-TTRPG-Community / Pathfinder-2E-SRD-Markdown](https://github.com/Obsidian-TTRPG-Community/Pathfinder-2E-SRD-Markdown) - This is a place for Pathfinder Community Use content to be hosted in Markdown format for Obsidian.md
 * 【2026-01-03】[reconmap / reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.
