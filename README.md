@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-01-17】[Gentleman-Programming / Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
+* 【2026-01-17】[iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 * 【2026-01-16】[eigent-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 * 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
@@ -120,6 +122,8 @@
 
 ## Python
 
+* 【2026-01-17】[neuphonic / neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
+* 【2026-01-17】[modelscope / evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 * 【2026-01-16】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
 * 【2026-01-15】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment
 * 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
@@ -225,6 +229,7 @@
 
 ## Go
 
+* 【2026-01-17】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-16】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
 * 【2026-01-12】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
 * 【2026-01-12】[badtuxx / girus-cli](https://github.com/badtuxx/girus-cli) - 
@@ -287,6 +292,7 @@
 
 ## C++
 
+* 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 * 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 * 【2026-01-14】[eloqdata / eloqstore](https://github.com/eloqdata/eloqstore) - Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.
 * 【2026-01-14】[Prayag2 / drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
@@ -393,6 +399,7 @@
 
 ## Unknown
 
+* 【2026-01-17】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-13】[mithi / robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 * 【2026-01-12】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 * 【2026-01-10】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
