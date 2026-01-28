@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aneasystone-github-trending-badge.png)](https://mseep.ai/app/aneasystone-github-trending)
+
 # GitHub Trending
 
 使用 [GitHub Actions](https://docs.github.com/cn/actions) 跟踪 [GitHub 趋势项目](https://github.com/trending)。
