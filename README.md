@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+* 【2026-02-16】[moonshine-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 * 【2026-02-15】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 * 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-02-14】[google-deepmind / superhuman](https://github.com/google-deepmind/superhuman) - 
@@ -138,6 +140,7 @@
 
 ## Java
 
+* 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 * 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
@@ -177,6 +180,7 @@
 
 ## Python
 
+* 【2026-02-16】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
 * 【2026-02-14】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
 * 【2026-02-14】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
@@ -284,6 +288,7 @@
 
 ## Javascript
 
+* 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
 * 【2026-02-15】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
@@ -335,6 +340,7 @@
 
 ## Go
 
+* 【2026-02-16】[steipete / wacli](https://github.com/steipete/wacli) - WhatsApp CLI
 * 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 * 【2026-02-13】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
 * 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
@@ -389,6 +395,7 @@
 
 ## C
 
+* 【2026-02-16】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
 * 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
@@ -425,6 +432,8 @@
 
 ## C++
 
+* 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
+* 【2026-02-16】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
 * 【2026-02-13】[huaweicloud / huaweicloud-sdk-cpp-v3](https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3) - 
 * 【2026-02-12】[alibaba / zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 * 【2026-02-07】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
