@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-02-21】[Effect-TS / effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
+* 【2026-02-21】[roboflow / trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
+* 【2026-02-21】[huggingface / skills](https://github.com/huggingface/skills) - 
+* 【2026-02-21】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 * 【2026-02-20】[RichardAtCT / claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
 * 【2026-02-20】[open-mercato / open-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
 * 【2026-02-20】[LlamaGenAI / awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of free SaaS (software as a service) for you.
@@ -191,6 +195,8 @@
 
 ## Python
 
+* 【2026-02-21】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
+* 【2026-02-21】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * 【2026-02-19】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 * 【2026-02-19】[SemiAnalysisAI / InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
 * 【2026-02-19】[databricks-solutions / ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
@@ -305,6 +311,7 @@
 
 ## Javascript
 
+* 【2026-02-21】[ZackAkil / immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.
 * 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 * 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
 * 【2026-02-15】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
@@ -553,6 +560,7 @@
 
 ## Html
 
+* 【2026-02-21】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
 * 【2026-02-13】[rekryt / iplist](https://github.com/rekryt/iplist) - IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
 * 【2026-02-12】[OCA / server-brand](https://github.com/OCA/server-brand) - 
