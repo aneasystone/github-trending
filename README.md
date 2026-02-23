@@ -154,6 +154,7 @@
 
 ## Java
 
+* 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
@@ -197,6 +198,7 @@
 
 ## Python
 
+* 【2026-02-23】[mihail911 / modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-21】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
 * 【2026-02-21】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * 【2026-02-19】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
@@ -313,6 +315,7 @@
 
 ## Javascript
 
+* 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 * 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 * 【2026-02-21】[ZackAkil / immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.
 * 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
@@ -602,6 +605,7 @@
 
 ## Css
 
+* 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
 * 【2026-02-22】[LunarLogic / starability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top.
 * 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
