@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-03】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 * 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
@@ -207,6 +208,7 @@
 
 ## Python
 
+* 【2026-03-03】[TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 * 【2026-03-01】[ginobefun / agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 * 【2026-02-28】[bytedance / trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 * 【2026-02-28】[4thfever / cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.
@@ -335,6 +337,7 @@
 
 ## Javascript
 
+* 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 * 【2026-03-01】[datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程
 * 【2026-02-28】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 * 【2026-02-27】[vercel-labs / agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
@@ -510,6 +513,7 @@
 
 ## C++
 
+* 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
 * 【2026-02-26】[NVlabs / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) - Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC
@@ -611,6 +615,7 @@
 
 ## Html
 
+* 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-21】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
 * 【2026-02-13】[rekryt / iplist](https://github.com/rekryt/iplist) - IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx, keenetic, switchy, amnezia
@@ -681,6 +686,9 @@
 
 ## Unknown
 
+* 【2026-03-03】[bmorelli25 / Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
+* 【2026-03-03】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
+* 【2026-03-03】[ad-si / awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
 * 【2026-03-01】[VoltAgent / awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - Claude Code Skills and 380+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others.
 * 【2026-02-25】[ottosulin / awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 * 【2026-02-24】[alvi-se / ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Websites I personally found that are completely generated by AI. Pull requests welcome.
