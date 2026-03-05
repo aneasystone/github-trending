@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 * 【2026-03-03】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
@@ -210,6 +211,11 @@
 
 ## Python
 
+* 【2026-03-05】[Aider-AI / aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
+* 【2026-03-05】[NVIDIA-NeMo / Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron-based models with bidirectional Hugging Face conversion capability
+* 【2026-03-05】[alirezarezvani / claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+* 【2026-03-05】[openai / gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+* 【2026-03-05】[ZHZisZZ / dllm](https://github.com/ZHZisZZ/dllm) - dLLM: Simple Diffusion Language Modeling
 * 【2026-03-03】[TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt/seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 * 【2026-03-01】[ginobefun / agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 * 【2026-02-28】[bytedance / trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -339,6 +345,7 @@
 
 ## Javascript
 
+* 【2026-03-05】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 * 【2026-03-01】[datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程
 * 【2026-02-28】[mozilla-firefox / firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -692,6 +699,8 @@
 
 ## Unknown
 
+* 【2026-03-05】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2026-03-05】[cloudflare / skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 * 【2026-03-03】[bmorelli25 / Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 * 【2026-03-03】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
 * 【2026-03-03】[ad-si / awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) - A curated list of awesome 3D printing resources
