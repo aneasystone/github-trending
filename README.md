@@ -172,6 +172,8 @@
 
 ## Java
 
+* 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
+* 【2026-03-10】[MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 * 【2026-03-07】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
@@ -355,6 +357,7 @@
 
 ## Javascript
 
+* 【2026-03-10】[technomancer702 / nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
 * 【2026-03-09】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
 * 【2026-03-09】[decolua / 9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
 * 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -426,6 +429,7 @@
 
 ## Go
 
+* 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-03-06】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
@@ -545,6 +549,8 @@
 
 ## C++
 
+* 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
+* 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * 【2026-03-09】[allenk / GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
 * 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
@@ -609,6 +615,7 @@
 
 ## C#
 
+* 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions— .NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized. Fork it, init it, ship your product.
@@ -724,6 +731,7 @@
 
 ## Unknown
 
+* 【2026-03-10】[00quebec / Synthid-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
 * 【2026-03-06】[gemini-cli-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 * 【2026-03-06】[heilcheng / awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 * 【2026-03-05】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
