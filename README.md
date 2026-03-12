@@ -220,6 +220,8 @@
 
 ## Python
 
+* 【2026-03-12】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+* 【2026-03-12】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 * 【2026-03-11】[modelscope / sirchmunk](https://github.com/modelscope/sirchmunk) - 🐿️ Sirchmunk: Raw data to self-evolving intelligence, real-time.
 * 【2026-03-11】[volcengine / OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 * 【2026-03-09】[the-momentum / open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
@@ -552,6 +554,7 @@
 
 ## C++
 
+* 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
 * 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
@@ -619,6 +622,7 @@
 
 ## C#
 
+* 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
@@ -663,6 +667,7 @@
 
 ## Html
 
+* 【2026-03-12】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 * 【2026-03-06】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-21】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -701,6 +706,7 @@
 
 ## Css
 
+* 【2026-03-12】[crimethinc / website](https://github.com/crimethinc/website) - Ruby on Rails app that powers crimethinc.com
 * 【2026-03-11】[app-generator / app-generator](https://github.com/app-generator/app-generator) - Free DevTools, DB Tools, CSV Processors, Apps, and Dashboards | App-Generator.dev
 * 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
