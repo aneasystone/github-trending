@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-17】[YishenTu / claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 * 【2026-03-16】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 * 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 * 【2026-03-15】[dimensionalOS / dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
@@ -177,6 +178,9 @@
 
 ## Java
 
+* 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
+* 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
+* 【2026-03-17】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
 * 【2026-03-15】[googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) - Google Cloud Client Library for Java
 * 【2026-03-13】[Eaglercraft-Archive / Eaglercraftx-1.8.8-src](https://github.com/Eaglercraft-Archive/Eaglercraftx-1.8.8-src) - Mirrored source code for eaglercraftx 1.8.8(newest version)
 * 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -227,6 +231,7 @@
 
 ## Python
 
+* 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 * 【2026-03-12】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
@@ -370,6 +375,7 @@
 
 ## Javascript
 
+* 【2026-03-17】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2026-03-16】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 * 【2026-03-14】[libaxuan / cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
