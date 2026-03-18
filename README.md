@@ -231,6 +231,7 @@
 
 ## Python
 
+* 【2026-03-18】[financial-datasets / mcp-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 * 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
@@ -375,6 +376,9 @@
 
 ## Javascript
 
+* 【2026-03-18】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-03-18】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+* 【2026-03-18】[wwebjs / whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 * 【2026-03-17】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2026-03-16】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
@@ -452,6 +456,7 @@
 
 ## Go
 
+* 【2026-03-18】[9seconds / mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
 * 【2026-03-11】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
@@ -574,6 +579,7 @@
 
 ## C++
 
+* 【2026-03-18】[widelands / widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 * 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
@@ -764,6 +770,7 @@
 
 ## Unknown
 
+* 【2026-03-18】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-03-16】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
 * 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 * 【2026-03-13】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
