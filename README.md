@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-03-19】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+* 【2026-03-19】[langchain-ai / open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 * 【2026-03-17】[YishenTu / claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 * 【2026-03-16】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 * 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -178,6 +180,8 @@
 
 ## Java
 
+* 【2026-03-19】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+* 【2026-03-19】[mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
 * 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 * 【2026-03-17】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
@@ -231,6 +235,8 @@
 
 ## Python
 
+* 【2026-03-19】[am-will / codex-skills](https://github.com/am-will/codex-skills) - 
+* 【2026-03-19】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 * 【2026-03-18】[financial-datasets / mcp-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 * 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -376,6 +382,7 @@
 
 ## Javascript
 
+* 【2026-03-19】[andrewyng / context-hub](https://github.com/andrewyng/context-hub) - 
 * 【2026-03-18】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * 【2026-03-18】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 * 【2026-03-18】[wwebjs / whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
@@ -456,6 +463,8 @@
 
 ## Go
 
+* 【2026-03-19】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
+* 【2026-03-19】[perses / perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
 * 【2026-03-18】[9seconds / mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
 * 【2026-03-11】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -526,6 +535,8 @@
 
 ## C
 
+* 【2026-03-19】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
+* 【2026-03-19】[wiredtiger / wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
 * 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
 * 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
@@ -579,6 +590,7 @@
 
 ## C++
 
+* 【2026-03-19】[NVIDIA / TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI
 * 【2026-03-18】[widelands / widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 * 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
@@ -648,6 +660,7 @@
 
 ## C#
 
+* 【2026-03-19】[MobiFlight / MobiFlight-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user-friendly way.
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
@@ -693,6 +706,8 @@
 
 ## Html
 
+* 【2026-03-19】[baojie / shiji-kb](https://github.com/baojie/shiji-kb) - 
+* 【2026-03-19】[nibzard / awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 * 【2026-03-15】[shanraisshan / claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 * 【2026-03-14】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 * 【2026-03-12】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
@@ -734,6 +749,7 @@
 
 ## Css
 
+* 【2026-03-19】[diinki / linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 * 【2026-03-12】[crimethinc / website](https://github.com/crimethinc/website) - Ruby on Rails app that powers crimethinc.com
 * 【2026-03-11】[app-generator / app-generator](https://github.com/app-generator/app-generator) - Free DevTools, DB Tools, CSV Processors, Apps, and Dashboards | App-Generator.dev
 * 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
