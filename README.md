@@ -237,6 +237,9 @@
 
 ## Python
 
+* 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
+* 【2026-03-22】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
+* 【2026-03-22】[facebookresearch / vjepa2](https://github.com/facebookresearch/vjepa2) - PyTorch code and models for VJEPA2 self-supervised learning from video.
 * 【2026-03-21】[BiFangKNT / mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
 * 【2026-03-19】[am-will / codex-skills](https://github.com/am-will/codex-skills) - 
 * 【2026-03-19】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -385,6 +388,7 @@
 
 ## Javascript
 
+* 【2026-03-22】[zhw2590582 / ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - 🎨 ArtPlayer.js is a modern and full featured HTML5 video player
 * 【2026-03-19】[andrewyng / context-hub](https://github.com/andrewyng/context-hub) - 
 * 【2026-03-18】[affaan-m / everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * 【2026-03-18】[coreyhaines31 / marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
