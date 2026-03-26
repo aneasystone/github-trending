@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-26】[letta-ai / claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
 * 【2026-03-25】[pascalorg / editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 * 【2026-03-25】[mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * 【2026-03-21】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
@@ -241,6 +242,7 @@
 
 ## Python
 
+* 【2026-03-26】[TheSmallHanCat / flow2api](https://github.com/TheSmallHanCat/flow2api) - 无限次数的banana pro！逆向账号池，支持负载均衡、AT自动刷新、缓存策略、代理等。Q交流群1073237297
 * 【2026-03-23】[langchain-ai / local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 * 【2026-03-22】[opengaming / osgameclones](https://github.com/opengaming/osgameclones) - Open Source Clones of Popular Games
 * 【2026-03-22】[meta-pytorch / OpenEnv](https://github.com/meta-pytorch/OpenEnv) - An interface library for RL post training with environments.
@@ -393,6 +395,8 @@
 
 ## Javascript
 
+* 【2026-03-26】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
+* 【2026-03-26】[WordPress / agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 * 【2026-03-25】[sligter / LandPPT](https://github.com/sligter/LandPPT) - 一个基于LLM的演示文稿生成平台，能够自动将文档内容转换为专业的PPT演示文稿。平台支持多种AI模型，提供丰富的模板和样式选择，让用户能够创建高质量的演示文稿。
 * 【2026-03-25】[heshengtao / super-agent-party](https://github.com/heshengtao/super-agent-party) - ⭐ All-in-one AI companion! Super Agent Party = Self hosted neuro sama + openclaw! ⭐ 全能AI伴侣！超级智能体派对 = 自托管neuro sama + openclaw!
 * 【2026-03-25】[jeffshee / gnome-ext-hanabi](https://github.com/jeffshee/gnome-ext-hanabi) - Live Wallpaper for GNOME
@@ -478,6 +482,7 @@
 
 ## Go
 
+* 【2026-03-26】[s-rah / onionscan](https://github.com/s-rah/onionscan) - OnionScan is a free and open source tool for investigating the Dark Web.
 * 【2026-03-25】[smtg-ai / claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
 * 【2026-03-24】[supabase / cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 * 【2026-03-23】[modu-ai / moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit
@@ -555,6 +560,7 @@
 
 ## C
 
+* 【2026-03-26】[Cybereason-Public / owLSM](https://github.com/Cybereason-Public/owLSM) - Sigma Rules Engine inside the Linux Kernel using eBPF. Focusing on prevention capabilities
 * 【2026-03-20】[charlesvestal / move-everything](https://github.com/charlesvestal/move-everything) - Move Everything
 * 【2026-03-19】[ACreTeam / ac-decomp](https://github.com/ACreTeam/ac-decomp) - Decompilation in progress of Animal Crossing for the Nintendo GameCube.
 * 【2026-03-19】[wiredtiger / wiredtiger](https://github.com/wiredtiger/wiredtiger) - WiredTiger's source tree
