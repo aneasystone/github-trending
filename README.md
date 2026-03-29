@@ -187,6 +187,7 @@
 
 ## Java
 
+* 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-24】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-19】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
@@ -701,6 +702,7 @@
 
 ## C#
 
+* 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-23】[github / gh-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
 * 【2026-03-19】[MobiFlight / MobiFlight-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user-friendly way.
 * 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
