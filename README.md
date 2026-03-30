@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-30】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * 【2026-03-28】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-27】[Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 * 【2026-03-26】[letta-ai / claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
@@ -573,6 +574,8 @@
 
 ## C
 
+* 【2026-03-30】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
+* 【2026-03-30】[HighCodeh / TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
 * 【2026-03-28】[LedgerHQ / ledger-secure-sdk](https://github.com/LedgerHQ/ledger-secure-sdk) - Device app kit
 * 【2026-03-26】[Cybereason-Public / owLSM](https://github.com/Cybereason-Public/owLSM) - Sigma Rules Engine inside the Linux Kernel using eBPF. Focusing on prevention capabilities
 * 【2026-03-20】[charlesvestal / move-everything](https://github.com/charlesvestal/move-everything) - Move Everything
