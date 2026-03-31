@@ -188,6 +188,8 @@
 
 ## Java
 
+* 【2026-03-31】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
+* 【2026-03-31】[databricks / databricks-sdk-java](https://github.com/databricks/databricks-sdk-java) - Databricks SDK for Java
 * 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 * 【2026-03-24】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-23】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
@@ -492,6 +494,7 @@
 
 ## Go
 
+* 【2026-03-31】[CJackHwang / ds2api](https://github.com/CJackHwang/ds2api) - Deepseek客户端对话转API，高性能，多账号轮询，包含完整后台管理系统，支持纯vercel、docker部署使用。兼容Openclaw🦞、Roocode、Claudecode、Kilocode等工具
 * 【2026-03-28】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-03-28】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one.
 * 【2026-03-28】[GMSSH / GMSSH](https://github.com/GMSSH/GMSSH) - GMSSH: Desktop-Grade AI-Driven Operations Terminal High Performance · Non-Intrusive · AI-Powered;GMSSH 桌面级 AI 运维终端.高性能·AI 智驱
@@ -634,6 +637,7 @@
 
 ## C++
 
+* 【2026-03-31】[OpenSpace / OpenSpace](https://github.com/OpenSpace/OpenSpace) - This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.
 * 【2026-03-20】[intrinsic-dev / aic](https://github.com/intrinsic-dev/aic) - Toolkit for the AI for Industry Challenge
 * 【2026-03-19】[NVIDIA / TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI
 * 【2026-03-18】[widelands / widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
@@ -705,6 +709,8 @@
 
 ## C#
 
+* 【2026-03-31】[rajko-horvat / OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
+* 【2026-03-31】[Altinn / altinn-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications.
 * 【2026-03-29】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-23】[github / gh-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
 * 【2026-03-19】[MobiFlight / MobiFlight-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user-friendly way.
@@ -800,6 +806,7 @@
 
 ## Css
 
+* 【2026-03-31】[hatnote / montage](https://github.com/hatnote/montage) - 📷 Photo evaluation tool for and by Wiki Loves competitions
 * 【2026-03-28】[CDCgov / prime-reportstream](https://github.com/CDCgov/prime-reportstream) - ReportStream is a public intermediary tool for delivery of data between different parts of the healthcare ecosystem.
 * 【2026-03-27】[brgkdm / DayZen-good-first-issue](https://github.com/brgkdm/DayZen-good-first-issue) - A user-friendly dashboard for beginners and advanced students that allows them to input and visualize their daily routine.
 * 【2026-03-25】[fedora-infra / tahrir](https://github.com/fedora-infra/tahrir) - Web app for issuing your own Open Badges
