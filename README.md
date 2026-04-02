@@ -251,6 +251,9 @@
 
 ## Python
 
+* 【2026-04-02】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
+* 【2026-04-02】[allenai / OLMo-core](https://github.com/allenai/OLMo-core) - PyTorch building blocks for the OLMo ecosystem
+* 【2026-04-02】[gumyr / build123d](https://github.com/gumyr/build123d) - A python CAD programming library
 * 【2026-04-01】[SkyworkAI / Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) - Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
 * 【2026-03-28】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 * 【2026-03-28】[ruc-datalab / DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！
@@ -501,6 +504,10 @@
 
 ## Go
 
+* 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
+* 【2026-04-02】[octelium / octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
+* 【2026-04-02】[joshmedeski / sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
+* 【2026-04-02】[ghuntley / how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
 * 【2026-03-31】[CJackHwang / ds2api](https://github.com/CJackHwang/ds2api) - Deepseek客户端对话转API，高性能，多账号轮询，包含完整后台管理系统，支持纯vercel、docker部署使用。兼容Openclaw🦞、Roocode、Claudecode、Kilocode等工具
 * 【2026-03-28】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-03-28】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one.
@@ -584,6 +591,7 @@
 
 ## C
 
+* 【2026-04-02】[ARM-software / CMSIS_6](https://github.com/ARM-software/CMSIS_6) - CMSIS version 6 (successor of CMSIS_5)
 * 【2026-04-01】[LNH-team / pico-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader.
 * 【2026-03-30】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
 * 【2026-03-30】[HighCodeh / TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
@@ -645,6 +653,9 @@
 
 ## C++
 
+* 【2026-04-02】[doodlum / skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community-driven advanced graphics modifications for AE, SE and VR.
+* 【2026-04-02】[solvespace / solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
+* 【2026-04-02】[Azure / azure-sdk-for-cpp](https://github.com/Azure/azure-sdk-for-cpp) - This repository is for active development of the Azure SDK for C++. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-cpp.
 * 【2026-03-31】[OpenSpace / OpenSpace](https://github.com/OpenSpace/OpenSpace) - This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.
 * 【2026-03-20】[intrinsic-dev / aic](https://github.com/intrinsic-dev/aic) - Toolkit for the AI for Industry Challenge
 * 【2026-03-19】[NVIDIA / TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM) - High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI
@@ -860,6 +871,7 @@
 
 ## Unknown
 
+* 【2026-04-02】[shuaidaoya / FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 因调整需要，项目暂时停更1-2个月，休整完毕后会如期回归，感谢理解与等待。过渡节点订阅已更新至下方链接！！！每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 * 【2026-04-01】[Kavex / GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
 * 【2026-04-01】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
 * 【2026-04-01】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
