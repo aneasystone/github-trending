@@ -256,6 +256,7 @@
 
 ## Python
 
+* 【2026-04-05】[imbue-ai / mngr](https://github.com/imbue-ai/mngr) - CLI for managing agents
 * 【2026-04-03】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-04-03】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
 * 【2026-04-02】[NVIDIA / Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.
@@ -513,6 +514,8 @@
 
 ## Go
 
+* 【2026-04-05】[sipeed / picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+* 【2026-04-05】[rudrankriyam / App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 * 【2026-04-04】[QuantumNous / new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
 * 【2026-04-03】[777genius / claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacOS, Windows.
 * 【2026-04-02】[electrikmilk / cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
