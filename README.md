@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-04-06】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * 【2026-04-04】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-04-03】[siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 * 【2026-04-03】[Yeachan-Heo / oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -256,6 +257,7 @@
 
 ## Python
 
+* 【2026-04-06】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
 * 【2026-04-05】[imbue-ai / mngr](https://github.com/imbue-ai/mngr) - CLI for managing agents
 * 【2026-04-03】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
 * 【2026-04-03】[Alishahryar1 / free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
@@ -420,6 +422,8 @@
 
 ## Javascript
 
+* 【2026-04-06】[rohitg00 / awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills (+400,000 via SkillKit), 42 commands, 150+ plugins, 19 hooks, 15 rules, 7 templates, 8 MCP configs, and more.
+* 【2026-04-06】[ComposioHQ / awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) - A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system.
 * 【2026-04-03】[sgoudelis / ground-station](https://github.com/sgoudelis/ground-station) - Ground Station is all-in-one satellite monitoring suite
 * 【2026-04-03】[ComposioHQ / open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) - Open Source version of Claude Cowork with 500+ SaaS app integrations
 * 【2026-04-01】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
