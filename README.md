@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-04-07】[aaif-goose / goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+* 【2026-04-07】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+* 【2026-04-07】[NVIDIA / personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
 * 【2026-04-06】[google-ai-edge / gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 * 【2026-04-04】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-04-03】[siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -257,6 +260,7 @@
 
 ## Python
 
+* 【2026-04-07】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
 * 【2026-04-06】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
 * 【2026-04-05】[imbue-ai / mngr](https://github.com/imbue-ai/mngr) - CLI for managing agents
 * 【2026-04-03】[zai-org / GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate × Fast × Comprehensive
@@ -800,6 +804,7 @@
 
 ## Html
 
+* 【2026-04-07】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * 【2026-04-04】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API.
 * 【2026-04-01】[Systems-Modeling / SysML-v2-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2. Start here.
 * 【2026-03-28】[OCA / server-backend](https://github.com/OCA/server-backend) - 
@@ -891,6 +896,8 @@
 
 ## Unknown
 
+* 【2026-04-07】[mezod / awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
+* 【2026-04-07】[YU-deep / Awesome-Latent-Space](https://github.com/YU-deep/Awesome-Latent-Space) - A paper list of Awesome Latent Space.
 * 【2026-04-04】[Seeed-Projects / reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 * 【2026-04-02】[shuaidaoya / FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 因调整需要，项目暂时停更1-2个月，休整完毕后会如期回归，感谢理解与等待。过渡节点订阅已更新至下方链接！！！每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 * 【2026-04-01】[Kavex / GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
