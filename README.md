@@ -262,6 +262,7 @@
 
 ## Python
 
+* 【2026-04-10】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-08】[NVIDIA-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
 * 【2026-04-07】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
 * 【2026-04-06】[atilaahmettaner / tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) - Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intelligence, and candlestick patterns. Works with Claude Desktop & AI assistants. Multi-exchange support (Binance, KuCoin, Bybit+). Open source trading toolkit.
@@ -759,6 +760,7 @@
 
 ## C#
 
+* 【2026-04-10】[KSP-CKAN / CKAN](https://github.com/KSP-CKAN/CKAN) - The Comprehensive Kerbal Archive Network
 * 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-04-01】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 * 【2026-04-01】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
@@ -907,6 +909,9 @@
 
 ## Unknown
 
+* 【2026-04-10】[noamseg / interview-coach-skill](https://github.com/noamseg/interview-coach-skill) - 
+* 【2026-04-10】[WICG / html-in-canvas](https://github.com/WICG/html-in-canvas) - 
+* 【2026-04-10】[zai-org / GLM-5](https://github.com/zai-org/GLM-5) - GLM-5: From Vibe Coding to Agentic Engineering
 * 【2026-04-08】[blader / humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 * 【2026-04-08】[gztchan / awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 * 【2026-04-07】[mezod / awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money
