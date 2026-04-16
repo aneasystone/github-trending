@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-04-16】[vercel-labs / open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
+* 【2026-04-16】[lsdefine / GenericAgent](https://github.com/lsdefine/GenericAgent) - Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+* 【2026-04-16】[Donchitos / Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 * 【2026-04-14】[jamiepine / voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 * 【2026-04-13】[snarktank / ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 * 【2026-04-13】[zhayujie / CowAgent](https://github.com/zhayujie/CowAgent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
