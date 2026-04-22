@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-04-22】[zilliztech / claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+* 【2026-04-22】[dayanch96 / YTLite](https://github.com/dayanch96/YTLite) - A flexible enhancer for YouTube on iOS
 * 【2026-04-21】[koala73 / worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 * 【2026-04-20】[Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 * 【2026-04-19】[thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
@@ -48,6 +50,8 @@
 
 ## Python
 
+* 【2026-04-22】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+* 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 * 【2026-04-21】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 * 【2026-04-20】[barry-far / V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 * 【2026-04-20】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
@@ -101,6 +105,7 @@
 
 ## Go
 
+* 【2026-04-22】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 * 【2026-04-21】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
 * 【2026-04-21】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
 * 【2026-04-21】[Diniboy1123 / usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
@@ -124,6 +129,7 @@
 
 ## C
 
+* 【2026-04-22】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
 * 【2026-04-21】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 * 【2026-04-20】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 * 【2026-04-18】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki/Mods-List
@@ -146,6 +152,7 @@
 
 ## C#
 
+* 【2026-04-22】[BasisVR / Basis](https://github.com/BasisVR/Basis) - Basis is an open-source social framework for VR and Desktop usage.
 * 【2026-04-20】[Seafoam-Labs / Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
 * 【2026-04-18】[aelassas / servy](https://github.com/aelassas/servy) - Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW & FireDaemon Pro
 * 【2026-04-17】[FakeFishGames / Barotrauma](https://github.com/FakeFishGames/Barotrauma) - A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
@@ -175,6 +182,7 @@
 
 ## Unknown
 
+* 【2026-04-22】[eudk / awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - 🔴 VERY LARGE AI TOOL LIST! 🔴 Curated list of AI Tools - Updated 2026
 * 【2026-04-20】[hesamsheikh / awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 * 【2026-04-19】[multica-ai / andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 * 【2026-04-19】[QwenLM / Qwen3.6](https://github.com/QwenLM/Qwen3.6) - Qwen3.6 is the large language model series developed by Qwen team, Alibaba Group.
