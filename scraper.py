@@ -6,7 +6,7 @@ import requests
 import urllib.parse
 from pyquery import PyQuery as pq
 
-def scrape_url(url):
+def scrape_url(url: str):
     ''' Scrape github trending url
     '''
     HEADERS = {
@@ -34,7 +34,7 @@ def scrape_url(url):
         results[title] = { 'title': title, 'url': url, 'description': description }
     return results
 
-def scrape_lang(language):
+def scrape_lang(language) -> dict:
     ''' Scrape github trending with lang parameters
     '''
     url = 'https://github.com/trending/{language}'.format(language=urllib.parse.quote_plus(language))
@@ -43,7 +43,7 @@ def scrape_lang(language):
     r2 = scrape_url(url)
     return { **r1, **r2 }
 
-def write_markdown(lang, results, archived_contents):
+def write_markdown(lang, results, archived_contents) -> None:
     ''' Write the results to markdown file
     '''
     content = ''
@@ -53,7 +53,7 @@ def write_markdown(lang, results, archived_contents):
     with open('README.md', mode='w', encoding='utf-8') as f:
         f.write(content)
 
-def is_title_exist(title, content, archived_contents):
+def is_title_exist(title: str, content: str, archived_contents) -> bool:
     if '[' + title + ']' in content:
         return True
     for archived_content in archived_contents:
@@ -61,7 +61,7 @@ def is_title_exist(title, content, archived_contents):
             return True
     return False
 
-def convert_file_contenet(content, lang, results, archived_contents):
+def convert_file_contenet(content: str, lang, results, archived_contents):
     ''' Add distinct results to content
     '''
     distinct_results = []
@@ -90,14 +90,14 @@ def convert_result_content(results):
             description=format_description(result['description']))
     return content
 
-def format_description(description):
+def format_description(description: str) -> str:
     ''' Remove new line characters
     '''
     if not description:
         return ''
     return description.replace('\r', '').replace('\n', '')
 
-def convert_lang_title(lang):
+def convert_lang_title(lang) -> str:
     ''' Lang title
     '''
     if lang == '':
@@ -114,7 +114,7 @@ def get_archived_contents():
         archived_contents.append(content)
     return archived_contents
 
-def job():
+def job() -> None:
     ''' Get archived contents
     '''
     archived_contents = get_archived_contents()
