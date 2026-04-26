@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-04-26】[mattpocock / skills](https://github.com/mattpocock/skills) - My personal directory of skills, straight from my .claude directory.
+* 【2026-04-26】[RooCodeInc / Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+* 【2026-04-26】[Universal-Commerce-Protocol / ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
+* 【2026-04-26】[ComposioHQ / awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) - A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 * 【2026-04-25】[higress-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-04-24】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-24】[mksglu / context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
@@ -42,6 +46,7 @@
 
 ## Java
 
+* 【2026-04-26】[ByteByteGoHq / coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 * 【2026-04-23】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-19】[AzureAD / microsoft-authentication-library-common-for-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
 * 【2026-04-18】[niumoo / bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K） Bing Daily Wallpaper (4K)
@@ -55,6 +60,7 @@
 
 ## Python
 
+* 【2026-04-26】[zilliztech / memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 * 【2026-04-22】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 * 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 * 【2026-04-21】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
@@ -84,6 +90,7 @@
 
 ## Javascript
 
+* 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
 * 【2026-04-25】[linagora / twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
 * 【2026-04-24】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
 * 【2026-04-24】[XCQ0607 / lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
@@ -115,6 +122,7 @@
 
 ## Go
 
+* 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration-builder SDK for multi-agent coding workflows
 * 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 * 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 * 【2026-04-22】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
@@ -166,6 +174,8 @@
 
 ## C#
 
+* 【2026-04-26】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
+* 【2026-04-26】[Rhythia / Client](https://github.com/Rhythia/Client) - Aim-based rhythm game client, built in Godot 4
 * 【2026-04-25】[Facepunch / Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * 【2026-04-24】[AgOpenGPS-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-04-22】[BasisVR / Basis](https://github.com/BasisVR/Basis) - Basis is an open-source social framework for VR and Desktop usage.
@@ -201,6 +211,7 @@
 
 ## Unknown
 
+* 【2026-04-26】[hardikpandya / stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 * 【2026-04-24】[LukasNiessen / terrashark](https://github.com/LukasNiessen/terrashark) - Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices.
 * 【2026-04-24】[microsoft / powerbi-modeling-mcp](https://github.com/microsoft/powerbi-modeling-mcp) - The Power BI Modeling MCP Server, brings Power BI semantic modeling capabilities to your AI agents.
 * 【2026-04-23】[MoonshotAI / Kimi-K2.5](https://github.com/MoonshotAI/Kimi-K2.5) - Moonshot's most powerful model
