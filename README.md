@@ -90,6 +90,8 @@
 
 ## Javascript
 
+* 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
+* 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
 * 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
 * 【2026-04-25】[linagora / twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
 * 【2026-04-24】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
@@ -122,6 +124,8 @@
 
 ## Go
 
+* 【2026-04-27】[agentscope-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+* 【2026-04-27】[Gentleman-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 * 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration-builder SDK for multi-agent coding workflows
 * 【2026-04-25】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
 * 【2026-04-25】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
@@ -149,6 +153,7 @@
 
 ## C
 
+* 【2026-04-27】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
 * 【2026-04-21】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
@@ -161,6 +166,7 @@
 
 ## C++
 
+* 【2026-04-27】[tile-ai / tilelang-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-18】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
 * 【2026-04-17】[torch-spyre / torch-spyre](https://github.com/torch-spyre/torch-spyre) - 
