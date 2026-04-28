@@ -46,6 +46,7 @@
 
 ## Java
 
+* 【2026-04-28】[MojoLauncher / MojoLauncher](https://github.com/MojoLauncher/MojoLauncher) - A Minecraft: Java Edition launcher, based on PojavLauncher
 * 【2026-04-26】[ByteByteGoHq / coding-interview-patterns](https://github.com/ByteByteGoHq/coding-interview-patterns) - 
 * 【2026-04-23】[xandergos / terrain-diffusion-mc](https://github.com/xandergos/terrain-diffusion-mc) - 
 * 【2026-04-19】[AzureAD / microsoft-authentication-library-common-for-android](https://github.com/AzureAD/microsoft-authentication-library-common-for-android) - Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)
@@ -60,6 +61,10 @@
 
 ## Python
 
+* 【2026-04-28】[hydropix / TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs) - Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.
+* 【2026-04-28】[nikopueringer / CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
+* 【2026-04-28】[openai / openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
+* 【2026-04-28】[facebookresearch / ai4animationpy](https://github.com/facebookresearch/ai4animationpy) - A Python framework for AI-driven character animation using neural networks.
 * 【2026-04-26】[zilliztech / memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
 * 【2026-04-22】[OthmanAdi / planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 * 【2026-04-22】[PrefectHQ / fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
@@ -90,6 +95,8 @@
 
 ## Javascript
 
+* 【2026-04-28】[fspecii / ace-step-ui](https://github.com/fspecii/ace-step-ui) - 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+* 【2026-04-28】[prompt-security / clawsec](https://github.com/prompt-security/clawsec) - A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.
 * 【2026-04-27】[LibreSpark / LibreTV](https://github.com/LibreSpark/LibreTV) - 一分钟搭建影视站，支持Vercel/Docker等部署方式
 * 【2026-04-27】[libnoname / noname](https://github.com/libnoname/noname) - 
 * 【2026-04-26】[browserbase / skills](https://github.com/browserbase/skills) - Claude Agent SDK with a web browsing tool
@@ -124,6 +131,7 @@
 
 ## Go
 
+* 【2026-04-28】[shridarpatil / whatomate](https://github.com/shridarpatil/whatomate) - Whatomate is an open-source WhatsApp integration
 * 【2026-04-27】[agentscope-ai / HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 * 【2026-04-27】[Gentleman-Programming / engram](https://github.com/Gentleman-Programming/engram) - Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.
 * 【2026-04-26】[gastownhall / gascity](https://github.com/gastownhall/gascity) - Orchestration-builder SDK for multi-agent coding workflows
@@ -153,6 +161,7 @@
 
 ## C
 
+* 【2026-04-28】[RightNow-AI / picolm](https://github.com/RightNow-AI/picolm) - Run a 1-billion parameter LLM on a $10 board with 256MB RAM
 * 【2026-04-27】[DeusData / codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 66 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 * 【2026-04-25】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-22】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
@@ -166,6 +175,7 @@
 
 ## C++
 
+* 【2026-04-28】[BruceDevices / firmware](https://github.com/BruceDevices/firmware) - Predatory ESP32 Firmware
 * 【2026-04-27】[tile-ai / tilelang-ascend](https://github.com/tile-ai/tilelang-ascend) - Ascend TileLang adapter
 * 【2026-04-24】[intel / llm-scaler](https://github.com/intel/llm-scaler) - 
 * 【2026-04-18】[jarczakpawel / BMCU-C-PJARCZAK](https://github.com/jarczakpawel/BMCU-C-PJARCZAK) - BMCU 370C (Hall) firmware for Bambu Lab A1 / A1 mini / P1S with buffer calibration - all known issues fixed, 100% AMS-compatible behavior.
@@ -180,6 +190,7 @@
 
 ## C#
 
+* 【2026-04-28】[scp222thj / MalumMenu](https://github.com/scp222thj/MalumMenu) - An easy-to-use Among Us cheat menu with a simple GUI and lots of useful modules.
 * 【2026-04-26】[k1tbyte / Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) - Advanced UX and interoperability extension for Wand (WeMod) app
 * 【2026-04-26】[Rhythia / Client](https://github.com/Rhythia/Client) - Aim-based rhythm game client, built in Godot 4
 * 【2026-04-25】[Facepunch / Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
@@ -198,6 +209,7 @@
 
 ## Html
 
+* 【2026-04-28】[nicobailon / visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 * 【2026-04-25】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-04-23】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-04-18】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
