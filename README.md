@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-05-09】[flutter / skills](https://github.com/flutter/skills) - 
 * 【2026-05-08】[anthropics / financial-services](https://github.com/anthropics/financial-services) - 
 * 【2026-05-08】[addyosmani / agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 * 【2026-05-06】[bwya77 / vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
