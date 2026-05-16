@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-05-16】[joeseesun / qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) - Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.
 * 【2026-05-15】[NVIDIA-AI-Blueprints / video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) - Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.
 * 【2026-05-15】[garrytan / gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 * 【2026-05-14】[supertone-inc / supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -63,6 +64,7 @@
 
 ## Java
 
+* 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
 * 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
 * 【2026-05-06】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-04】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
@@ -85,6 +87,7 @@
 
 ## Python
 
+* 【2026-05-16】[CodeBoarding / CodeBoarding](https://github.com/CodeBoarding/CodeBoarding) - Interactive architecture diagrams for codebases
 * 【2026-05-15】[zubair-trabzada / geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) - GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community
 * 【2026-05-15】[awslabs / agent-plugins](https://github.com/awslabs/agent-plugins) - Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.
 * 【2026-05-15】[argosopentech / argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
@@ -142,6 +145,9 @@
 
 ## Javascript
 
+* 【2026-05-16】[ykdojo / claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin.
+* 【2026-05-16】[phuc-nt / my-translator](https://github.com/phuc-nt/my-translator) - Real-time speech translation — macOS & Windows, free TTS, no server, your API keys only
+* 【2026-05-16】[oracle / skills](https://github.com/oracle/skills) - Oracle DB Skills is a curated library of 100+ practical, documentation-backed guides for working with Oracle Database, organized by domain
 * 【2026-05-15】[hzm0321 / real-time-fund](https://github.com/hzm0321/real-time-fund) - 基金实时估值查看
 * 【2026-05-14】[microsoft / agent-academy](https://github.com/microsoft/agent-academy) - Curated lessons on getting started building agents with Copilot Studio
 * 【2026-05-14】[evidence-dev / evidence](https://github.com/evidence-dev/evidence) - Business intelligence as code: build fast, interactive data visualizations in SQL and markdown
@@ -189,6 +195,8 @@
 
 ## Go
 
+* 【2026-05-16】[komari-monitor / komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
+* 【2026-05-16】[llm-d / llm-d-router](https://github.com/llm-d/llm-d-router) - llm-d Router: The intelligent entry point for inference requests
 * 【2026-05-12】[BenedictKing / ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 * 【2026-05-12】[gesellix / Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 * 【2026-05-11】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
@@ -252,6 +260,7 @@
 
 ## C++
 
+* 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
 * 【2026-05-14】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-05-13】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
 * 【2026-05-13】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
@@ -305,6 +314,7 @@
 
 ## Html
 
+* 【2026-05-16】[ShubhangiRoy12 / MooVit](https://github.com/ShubhangiRoy12/MooVit) - MooVit is a smart real-time safety assistant that helps visually impaired users by detecting people, vehicles, signals, and obstacles, and gives voice alerts to guide them safely in traffic and road environments. Designed for accessibility and easy use.
 * 【2026-05-14】[CyberAlbSecOP / Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 * 【2026-05-12】[rust-lang / blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) - Home of the Rust and Inside Rust blogs
 * 【2026-05-08】[horilla / horilla-hr](https://github.com/horilla/horilla-hr) - Horilla is a free and open source HR and CRM software.
@@ -324,6 +334,7 @@
 
 ## Css
 
+* 【2026-05-16】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
 * 【2026-05-10】[imjuya / juya-ai-daily](https://github.com/imjuya/juya-ai-daily) - 记录人类完蛋全过程。
 * 【2026-04-23】[sumruler / obsidian-theme-phycat](https://github.com/sumruler/obsidian-theme-phycat) - A colorful theme for Obsidian
 * 【2026-04-20】[github / develop.github.com](https://github.com/github/develop.github.com) - Outdated documentation for GitHub API v2. See http://developer.github.com/ for the current API.
