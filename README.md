@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-05-24】[mukul975 / Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+* 【2026-05-24】[NVlabs / LongLive](https://github.com/NVlabs/LongLive) - LongLive 2.0: Infra - Long Video Gen
+* 【2026-05-24】[janestreet / magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 * 【2026-05-22】[antoinezambelli / forge](https://github.com/antoinezambelli/forge) - A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
 * 【2026-05-22】[Lum1104 / Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * 【2026-05-21】[rohitg00 / ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
@@ -78,6 +81,7 @@
 
 ## Java
 
+* 【2026-05-24】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-23】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 * 【2026-05-20】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. Wa Enhancer X | WhatsApp tools for Android
 * 【2026-05-16】[iflytek / skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.
@@ -290,6 +294,7 @@
 
 ## C
 
+* 【2026-05-24】[vChewing / vChewing-macOS](https://github.com/vChewing/vChewing-macOS) - 唯音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。唯音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多唯音特色功能。目前研發管理工作均在 AtomGit 進行。
 * 【2026-05-22】[OpenTenBase / OpenTenBase](https://github.com/OpenTenBase/OpenTenBase) - OpenTenBase is an enterprise-level distributed HTAP open source database.
 * 【2026-05-22】[Boxingbruin / Pandemonium](https://github.com/Boxingbruin/Pandemonium) - Game jam!
 * 【2026-05-18】[Internet-Architecture-and-Security / PacketScope](https://github.com/Internet-Architecture-and-Security/PacketScope) - 🎯 A general-purpose protocol stack analysis and debugging tool based on eBPF 🧰
@@ -317,6 +322,7 @@
 
 ## C++
 
+* 【2026-05-24】[JACoders / OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 * 【2026-05-22】[OpenTenBase / TXSQL](https://github.com/OpenTenBase/TXSQL) - 
 * 【2026-05-16】[electronicarts / mesh2splat](https://github.com/electronicarts/mesh2splat) - Fast mesh to 3D gaussian splat conversion
 * 【2026-05-14】[geo-tp / ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
@@ -377,6 +383,7 @@
 
 ## Html
 
+* 【2026-05-24】[OCA / stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-23】[majiayu000 / claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app
 * 【2026-05-23】[janavipandole / Cara](https://github.com/janavipandole/Cara) - E-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user-friendly experience. This project allows users to browse products, add them to cart, and securely checkout. It features a clean UI, product search, categories, and order management.
 * 【2026-05-22】[karpathy / jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for exploring BLS data visually.
