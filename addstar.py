@@ -7,7 +7,7 @@ def get_repo_name(line):
     names = line[s+1:e].split('/')
     return names[0].strip() + '/' + names[1].strip()
 
-def addstar(file):
+def addstar(file) -> None:
     convert_lines = []
     with io.open(file, 'r', encoding='utf8') as f:
         lines = f.readlines()
