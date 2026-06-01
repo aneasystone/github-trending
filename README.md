@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+* 【2026-06-01】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 * 【2026-05-31】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 * 【2026-05-30】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 * 【2026-05-30】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
@@ -207,6 +209,7 @@
 
 ## Javascript
 
+* 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
 * 【2026-05-31】[JiyaBatra / CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands-on practice. It includes structured course sections, coding examples, and a built-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging.
 * 【2026-05-30】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
 * 【2026-05-28】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
@@ -274,6 +277,8 @@
 
 ## Go
 
+* 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
+* 【2026-06-01】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
 * 【2026-05-30】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 * 【2026-05-29】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-28】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
@@ -464,6 +469,7 @@
 
 ## Css
 
+* 【2026-06-01】[SAPTARSHI-coder / EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) - Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies. Lightweight, beginner-friendly, and open-source.
 * 【2026-05-31】[katorlys / rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 * 【2026-05-29】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 * 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
