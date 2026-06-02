@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-06-02】[dmtrKovalenko / fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-06-01】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-06-01】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 * 【2026-05-31】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
@@ -209,6 +210,7 @@
 
 ## Javascript
 
+* 【2026-06-02】[microsoft / skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.
 * 【2026-06-01】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
 * 【2026-05-31】[JiyaBatra / CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands-on practice. It includes structured course sections, coding examples, and a built-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging.
 * 【2026-05-30】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
@@ -277,6 +279,7 @@
 
 ## Go
 
+* 【2026-06-02】[charmbracelet / soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 * 【2026-06-01】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
 * 【2026-06-01】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
 * 【2026-05-30】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
@@ -340,6 +343,9 @@
 
 ## C
 
+* 【2026-06-02】[wolfSSL / wolfCOSE](https://github.com/wolfSSL/wolfCOSE) - A fast, portable, and lightweight COSE + CBOR implementation for embedded systems. Supports PQC, FIPS 140-3, DO-178, and MISRA C. Powered by wolfSSL.
+* 【2026-06-02】[kristapsdz / openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
+* 【2026-06-02】[HarbourMasters / Ghostship](https://github.com/HarbourMasters/Ghostship) - 
 * 【2026-05-27】[etaHEN / etaHEN](https://github.com/etaHEN/etaHEN) - AIO HEN payload
 * 【2026-05-25】[EchoStretch / kstuff-lite](https://github.com/EchoStretch/kstuff-lite) - 
 * 【2026-05-24】[vChewing / vChewing-macOS](https://github.com/vChewing/vChewing-macOS) - 唯音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。唯音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多唯音特色功能。目前研發管理工作均在 AtomGit 進行。
@@ -398,6 +404,8 @@
 
 ## C#
 
+* 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
+* 【2026-06-02】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-30】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-05-26】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
 * 【2026-05-26】[Polytoria / polytoria-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and .NET
