@@ -1,0 +1,55 @@
+name: Check Stars & Notify
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "种子模式：只记录当前状态，不推送"
+        default: "false"
+
+permissions:
+  contents: write          # 提交 stars_state.json 做持久化
+
+concurrency:
+  group: check-stars       # 避免与上一次未跑完的任务并发冲突
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run star checker
+        env:
+          GITHUB_TOKEN:       ${{ secrets.GITHUB_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          STAR_THRESHOLD:     "7000"
+          RECENT_FILES:       "3"
+          SEED_MODE:          ${{ github.event.inputs.seed }}
+        run: python check_stars.py
+
+      - name: Persist stars_state.json
+        run: |
+          git config user.name  "aneasystone"
+          git config user.email "aneasystone@gmail.com"
+          git add stars_state.json
+          if git diff --cached --quiet; then
+            echo "no state change"
+          else
+            git commit -m "update stars_state $(date '+%Y-%m-%d')"
+            git pull --rebase --autostash origin main
+            git push
+          fi
