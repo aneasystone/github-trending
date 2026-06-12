@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-06-12】[kenn-io / agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
+* 【2026-06-12】[hexo-ai / sia](https://github.com/hexo-ai/sia) - SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.
+* 【2026-06-12】[mattermost / mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 * 【2026-06-11】[activeloopai / hivemind](https://github.com/activeloopai/hivemind) - One brain for all your agents
 * 【2026-06-11】[apple / container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 * 【2026-06-10】[maziyarpanahi / openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
@@ -26,10 +29,12 @@
 
 ## Java
 
+* 【2026-06-12】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-04】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 
 ## Python
 
+* 【2026-06-12】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
 * 【2026-06-11】[Sumanth077 / Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
 * 【2026-06-10】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 * 【2026-06-09】[alistaitsacle / free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
@@ -44,6 +49,7 @@
 
 ## Javascript
 
+* 【2026-06-12】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 * 【2026-06-09】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
 * 【2026-06-07】[Gracker / SmartPerfetto](https://github.com/Gracker/SmartPerfetto) - use ai analysis Performance issue with perfetto
 * 【2026-06-07】[ritesh-1918 / HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI) - A full-stack AI helpdesk platform that uses machine learning, NLP, and OCR to automatically analyze support requests, detect similar incidents, and help teams resolve technical issues faster.
@@ -59,6 +65,7 @@
 
 ## Go
 
+* 【2026-06-12】[larksuite / cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 * 【2026-06-11】[kunchenguid / no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 * 【2026-06-11】[kai-scheduler / KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2026-06-09】[passteque / gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -93,6 +100,7 @@
 
 ## C#
 
+* 【2026-06-12】[LegendaryGaoZheng / Cross-Game-Recoil-Control](https://github.com/LegendaryGaoZheng/Cross-Game-Recoil-Control) - 部署极其简单，高效，多功能的跨平台压枪脚本，可绕过各大主流反作弊系统，适配《三角洲行动》，《CS2》，《PUBG》等一系列游戏。Effortless deployment, efficient, and versatile cross-platform aimbot script that bypasses major mainstream anti-cheat systems, compatible with games such as Delta Force, CS2, PUBG, and more.
 * 【2026-06-09】[itsfatduck / optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
 * 【2026-06-09】[builtbybel / FluentTweaker](https://github.com/builtbybel/FluentTweaker) - 
 * 【2026-06-05】[microsoft / win-dev-skills](https://github.com/microsoft/win-dev-skills) - Agents and skills for building Windows apps with WinUI 3 and the Windows App SDK
@@ -118,6 +126,7 @@
 
 ## Unknown
 
+* 【2026-06-12】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-11】[alchaincyf / hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 * 【2026-06-11】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 * 【2026-06-11】[greptileai / skills](https://github.com/greptileai/skills) - Agent skill for checking PR review comments, status checks, and description completeness
