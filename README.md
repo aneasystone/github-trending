@@ -56,6 +56,8 @@
 
 ## Python
 
+* 【2026-06-27】[didilili / ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) - 🚀 2026 最系统的 AI Agent 速成指南｜智能体实战教程 · 完整学习路径 + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化
+* 【2026-06-27】[safishamsi / graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * 【2026-06-26】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2026-06-24】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-24】[bradautomates / claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
@@ -87,6 +89,7 @@
 
 ## Javascript
 
+* 【2026-06-27】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 * 【2026-06-26】[jnMetaCode / superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 * 【2026-06-25】[arunbhardwaj / LeetHub-2.0](https://github.com/arunbhardwaj/LeetHub-2.0) - Automatically sync your leetcode solutions to your github account - with some updates to keep it working
 * 【2026-06-25】[Shopify / Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit) - Agent plugins/extensions for CLIs and IDEs
@@ -141,6 +144,8 @@
 
 ## C
 
+* 【2026-06-27】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
+* 【2026-06-27】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-06-22】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
 * 【2026-06-19】[getsentry / sentry-native](https://github.com/getsentry/sentry-native) - Sentry SDK for C, C++ and native applications.
 * 【2026-06-16】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
@@ -226,6 +231,7 @@
 
 ## Unknown
 
+* 【2026-06-27】[vesaaa / vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
 * 【2026-06-26】[OWASP / AISVS](https://github.com/OWASP/AISVS) - The AI Security Verification Standard (AISVS) focuses on providing developers, architects, and security professionals with a structured checklist to verify the security of AI-driven applications.
 * 【2026-06-25】[Hamed233 / Cybersecurity-Mastery-Roadmap](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap) - A comprehensive, step-by-step guide to mastering cybersecurity from beginner to expert level with curated resources, tools, and career guidance
 * 【2026-06-25】[MedivhTirisfal / csust_test_database](https://github.com/MedivhTirisfal/csust_test_database) - 长沙理工大学考试题库
