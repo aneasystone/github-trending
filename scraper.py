@@ -5,38 +5,45 @@ import datetime
 import requests
 import urllib.parse
 from pyquery import PyQuery as pq
+from requests import exceptions as req_exc
+
+# Default request timeout (seconds), configurable via env
+REQUEST_TIMEOUT = float(os.environ.get('REQUEST_TIMEOUT', '15'))
 
 def scrape_url(url):
-    ''' Scrape github trending url
-    '''
+    ''' Scrape github trending url '''
     HEADERS = {
-        'User-Agent'		: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
-        'Accept'			: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Encoding'	: 'gzip,deflate,sdch',
-        'Accept-Language'	: 'zh-CN,zh;q=0.8'
+        'User-Agent'       : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0',
+        'Accept'           : 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Encoding'  : 'gzip,deflate,sdch',
+        'Accept-Language'  : 'zh-CN,zh;q=0.8'
     }
 
     print(url)
-    r = requests.get(url, headers=HEADERS)
-    assert r.status_code == 200
-    
-    d = pq(r.content)
-    items = d('div.Box article.Box-row')
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+        r.raise_for_status()
+        d = pq(r.content)
+        items = d('div.Box article.Box-row')
 
-    results = {}
-    # codecs to solve the problem utf-8 codec like chinese
-    for item in items:
-        i = pq(item)
-        title = i(".lh-condensed a").text()
-        description = i("p.col-9").text()
-        url = i(".lh-condensed a").attr("href")
-        url = "https://github.com" + url
-        results[title] = { 'title': title, 'url': url, 'description': description }
-    return results
+        results = {}
+        # codecs to solve the problem utf-8 codec like chinese
+        for item in items:
+            i = pq(item)
+            title = i(".lh-condensed a").text()
+            description = i("p.col-9").text()
+            href = i(".lh-condensed a").attr("href")
+            href = "https://github.com" + href if href else None
+            if title:
+                results[title] = { 'title': title, 'url': href, 'description': description }
+        return results
+    except (req_exc.Timeout, req_exc.RequestException) as e:
+        # Log error and return empty dict to allow caller to continue gracefully
+        print("scrape_url error for {}: {}".format(url, e))
+        return {}
 
 def scrape_lang(language):
-    ''' Scrape github trending with lang parameters
-    '''
+    ''' Scrape github trending with lang parameters '''
     url = 'https://github.com/trending/{language}'.format(language=urllib.parse.quote_plus(language))
     r1 = scrape_url(url)
     url = 'https://github.com/trending/{language}?spoken_language_code=zh'.format(language=urllib.parse.quote_plus(language))
@@ -44,8 +51,7 @@ def scrape_lang(language):
     return { **r1, **r2 }
 
 def write_markdown(lang, results, archived_contents):
-    ''' Write the results to markdown file
-    '''
+    ''' Write the results to markdown file '''
     content = ''
     with open('README.md', mode='r', encoding='utf-8') as f:
         content = f.read()
@@ -62,8 +68,7 @@ def is_title_exist(title, content, archived_contents):
     return False
 
 def convert_file_contenet(content, lang, results, archived_contents):
-    ''' Add distinct results to content
-    '''
+    ''' Add distinct results to content '''
     distinct_results = []
     for title, result in results.items():
         if not is_title_exist(title, content, archived_contents):
@@ -80,8 +85,7 @@ def convert_file_contenet(content, lang, results, archived_contents):
     return content.replace(lang_title + '\n\n', lang_title + '\n\n' + convert_result_content(distinct_results))
 
 def convert_result_content(results):
-    ''' Format all results to a string
-    '''
+    ''' Format all results to a string '''
     strdate = datetime.datetime.now().strftime('%Y-%m-%d')
     content = ''
     for result in results:
@@ -91,15 +95,13 @@ def convert_result_content(results):
     return content
 
 def format_description(description):
-    ''' Remove new line characters
-    '''
+    ''' Remove new line characters '''
     if not description:
         return ''
     return description.replace('\r', '').replace('\n', '')
 
 def convert_lang_title(lang):
-    ''' Lang title
-    '''
+    ''' Lang title '''
     if lang == '':
         return '## All language'
     return '## ' + lang.capitalize()
@@ -115,12 +117,10 @@ def get_archived_contents():
     return archived_contents
 
 def job():
-    ''' Get archived contents
-    '''
+    ''' Get archived contents '''
     archived_contents = get_archived_contents()
 
-    ''' Start the scrape job
-    '''
+    ''' Start the scrape job '''
     languages = ['', 'java', 'python', 'javascript', 'go', 'c', 'c++', 'c#', 'html', 'css', 'unknown']
     for lang in languages:
         results = scrape_lang(lang)
