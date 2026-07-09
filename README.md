@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-07-09】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+* 【2026-07-09】[huxingyi / autoremesher](https://github.com/huxingyi/autoremesher) - Automatic quad remeshing tool
 * 【2026-07-08】[MadsLorentzen / ai-job-search](https://github.com/MadsLorentzen/ai-job-search) - AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.
 * 【2026-07-08】[kyutai-labs / pocket-tts](https://github.com/kyutai-labs/pocket-tts) - A TTS that fits in your CPU (and pocket)
 * 【2026-07-07】[karakeep-app / karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -81,6 +83,9 @@
 
 ## Python
 
+* 【2026-07-09】[microsoft / SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+* 【2026-07-09】[googleanalytics / google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) - 
+* 【2026-07-09】[Graphify-Labs / graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 * 【2026-07-06】[google-antigravity / antigravity-sdk-python](https://github.com/google-antigravity/antigravity-sdk-python) - A Python library for building AI agents that leverage the full power of Google Antigravity.
 * 【2026-07-05】[microsoft / skills-for-fabric](https://github.com/microsoft/skills-for-fabric) - A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric
 * 【2026-07-04】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
@@ -120,6 +125,7 @@
 
 ## Javascript
 
+* 【2026-07-09】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 * 【2026-07-08】[Piebald-AI / claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, statusline, magic docs, WebFetch, Bash cmd, security review, agent creation). Updated for each Claude Code version.
 * 【2026-07-07】[webbrain-one / webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
 * 【2026-07-05】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel.
@@ -161,6 +167,7 @@
 
 ## Go
 
+* 【2026-07-09】[karust / openserp](https://github.com/karust/openserp) - Self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 * 【2026-07-07】[micro / go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 * 【2026-07-06】[asciimoo / hister](https://github.com/asciimoo/hister) - Your own search engine
 * 【2026-07-06】[openclaw / crabbox](https://github.com/openclaw/crabbox) - Crabbox: warm a box, sync the diff, run the suite.
@@ -197,6 +204,7 @@
 
 ## C
 
+* 【2026-07-09】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-03】[ducalex / retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
 * 【2026-07-03】[polhenarejos / pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 * 【2026-07-01】[fanchmwrt / fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source enterprise-grade router system based on OpenWrt.
@@ -290,6 +298,7 @@
 
 ## Css
 
+* 【2026-07-09】[jszmajda / lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding
 * 【2026-07-08】[XiaomingX / ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
 * 【2026-07-06】[rk192324217 / cubosapiens_world-tools](https://github.com/rk192324217/cubosapiens_world-tools) - 
 * 【2026-07-06】[jokecamp / FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
