@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-07-12】[malisper / pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now passing 100% of the Postgres regression tests
 * 【2026-07-11】[google-labs-code / stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 * 【2026-07-10】[SmartlyDressedGames / U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) - Source code for Unturned, a free open-world zombie survival sandbox game.
 * 【2026-07-09】[TencentCloud / TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
@@ -85,6 +86,9 @@
 
 ## Python
 
+* 【2026-07-12】[FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) - No fortress, purely open ground. OpenManus is Coming.
+* 【2026-07-12】[cognizant-ai-lab / neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) - A playground for neuro-san
+* 【2026-07-12】[ATH-MaaS / Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 * 【2026-07-11】[Soju06 / codex-lb](https://github.com/Soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 * 【2026-07-11】[syncable-dev / memtrace-public](https://github.com/syncable-dev/memtrace-public) - Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf.
 * 【2026-07-10】[fqscfqj / Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) - YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
@@ -257,6 +261,7 @@
 
 ## C#
 
+* 【2026-07-12】[par274 / sharpemu](https://github.com/par274/sharpemu) - An experimental PlayStation 5 emulator project.
 * 【2026-07-10】[codewithmukesh / dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit) - Make Claude Code a .NET 10 Expert
 * 【2026-07-03】[PhoenixNil / XrayUI-dev](https://github.com/PhoenixNil/XrayUI-dev) - Lightweight native Windows GUI client for Xray core, built with WinUI 3
 * 【2026-06-30】[Seralyth / Seralyth-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
@@ -330,6 +335,7 @@
 
 ## Unknown
 
+* 【2026-07-12】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * 【2026-07-10】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 * 【2026-07-10】[wowlusitong / awesome-education](https://github.com/wowlusitong/awesome-education) - 学生福利-收集支持教育优惠的软件与服务
 * 【2026-07-10】[ashuoAI / AI-CanvasPro](https://github.com/ashuoAI/AI-CanvasPro) - AI-CanvasPro
