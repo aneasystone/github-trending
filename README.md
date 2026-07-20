@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+* 【2026-07-20】[andrewrabert / jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
 * 【2026-07-19】[KnockOutEZ / wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 * 【2026-07-18】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
@@ -280,6 +282,7 @@
 
 ## C++
 
+* 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
 * 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 * 【2026-07-15】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
@@ -386,6 +389,7 @@
 
 ## Unknown
 
+* 【2026-07-20】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 * 【2026-07-19】[ZeroPointRepo / awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install-ready skills for Hermes Agent (v0.17.0). 72 built-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.
 * 【2026-07-19】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
 * 【2026-07-16】[MicrosoftDocs / Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.
