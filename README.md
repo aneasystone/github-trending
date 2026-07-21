@@ -8,6 +8,10 @@
 
 ## All language
 
+* 【2026-07-21】[tokio-rs / topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
+* 【2026-07-21】[oblien / openship](https://github.com/oblien/openship) - Self-hosted deployment platform
+* 【2026-07-21】[microsoft / Ontology-Playground](https://github.com/microsoft/Ontology-Playground) - Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.
+* 【2026-07-21】[handy-computer / transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 * 【2026-07-20】[bojieli / ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 * 【2026-07-20】[andrewrabert / jellium-desktop](https://github.com/andrewrabert/jellium-desktop) - An unofficial desktop client for Jellyfin
 * 【2026-07-19】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
@@ -79,6 +83,7 @@
 
 ## Java
 
+* 【2026-07-21】[Nxer / Twist-Space-Technology-Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) - Modded elements from GTNH players. Mainly about lategame of GTNH.
 * 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-14】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-06】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
@@ -159,6 +164,8 @@
 
 ## Javascript
 
+* 【2026-07-21】[OpenWhispr / openwhispr](https://github.com/OpenWhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+* 【2026-07-21】[magnusoverli / opencode](https://github.com/magnusoverli/opencode) - 
 * 【2026-07-19】[InterfaceX-co-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-17】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-16】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
@@ -207,6 +214,8 @@
 
 ## Go
 
+* 【2026-07-21】[open-telemetry / opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) - OpenTelemetry Go Compile Instrumentation
+* 【2026-07-21】[apache / casbin](https://github.com/apache/casbin) - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 * 【2026-07-19】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 * 【2026-07-18】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-16】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
@@ -282,6 +291,7 @@
 
 ## C++
 
+* 【2026-07-21】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 * 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
 * 【2026-07-18】[CrispStrobe / CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
@@ -308,6 +318,7 @@
 
 ## C#
 
+* 【2026-07-21】[kimmknight / raweb](https://github.com/kimmknight/raweb) - A modern web interface for your RemoteApps hosted on Windows 10, 11 and Server.
 * 【2026-07-18】[TeamWheelWizard / WheelWizard](https://github.com/TeamWheelWizard/WheelWizard) - WheelWizard, Retro Rewind Launcher
 * 【2026-07-18】[DavidObando / gsharp](https://github.com/DavidObando/gsharp) - GSharp Programming Language
 * 【2026-07-14】[Linsxyx / KugouMusic.NET](https://github.com/Linsxyx/KugouMusic.NET) - 最好用最轻量的第三方酷狗概念版音乐播放器
@@ -333,6 +344,7 @@
 
 ## Html
 
+* 【2026-07-21】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
 * 【2026-07-18】[techjarves / OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable) - Run Claude Code from a USB drive on any PC — no installation required.
 * 【2026-07-13】[GoogleCloudPlatform / knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples
 * 【2026-07-11】[mlc-ai / modern-gpu-programming-for-mlsys](https://github.com/mlc-ai/modern-gpu-programming-for-mlsys) - A tutorial on modern GPU programming for machine learning systems
@@ -389,6 +401,8 @@
 
 ## Unknown
 
+* 【2026-07-21】[201853910 / VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
+* 【2026-07-21】[MoonshotAI / Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 * 【2026-07-20】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
 * 【2026-07-19】[ZeroPointRepo / awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install-ready skills for Hermes Agent (v0.17.0). 72 built-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.
 * 【2026-07-19】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
