@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-07-24】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
+* 【2026-07-24】[Automattic / harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 * 【2026-07-23】[dreamhunter2333 / cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 * 【2026-07-23】[Pumpkin-MC / Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 * 【2026-07-22】[ayghri / i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
@@ -88,6 +90,9 @@
 
 ## Java
 
+* 【2026-07-24】[IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
+* 【2026-07-24】[hiero-ledger / hiero-consensus-node](https://github.com/hiero-ledger/hiero-consensus-node) - Crypto, token, consensus, file, and smart contract services for a Hiero based network
+* 【2026-07-24】[apache / accumulo](https://github.com/apache/accumulo) - Apache Accumulo
 * 【2026-07-21】[Nxer / Twist-Space-Technology-Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) - Modded elements from GTNH players. Mainly about lategame of GTNH.
 * 【2026-07-19】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-14】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
@@ -170,6 +175,8 @@
 
 ## Javascript
 
+* 【2026-07-24】[himself65 / finance-skills](https://github.com/himself65/finance-skills) - A collection of skills for AI financial analysis.
+* 【2026-07-24】[QLHazyCoder / FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复
 * 【2026-07-23】[HughYau / qiushi-skill](https://github.com/HughYau/qiushi-skill) - 求是Skill——从经典唯物辩证法与实践哲学中提炼出一条总原则和九大方法论工具武装AI大脑。Qiushi-Skill: Build agents that investigate first, focus on the main contradiction, validate in practice, and keep pushing until the work is actually done.
 * 【2026-07-23】[sandeco / reversa](https://github.com/sandeco/reversa) - Transform legacy systems into executable specifications for AI coding agents
 * 【2026-07-22】[conorbronsdon / avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
@@ -304,6 +311,7 @@
 
 ## C++
 
+* 【2026-07-24】[cristibaluta / Imagin-Raw](https://github.com/cristibaluta/Imagin-Raw) - A lightweight but powerful alternative to Adobe Bridge for Mac
 * 【2026-07-21】[microsoft / intelligent-terminal](https://github.com/microsoft/intelligent-terminal) - A fork of Windows Terminal with native agent integration, right in your command line.
 * 【2026-07-20】[NVIDIA / DeepStream](https://github.com/NVIDIA/DeepStream) - NVIDIA DeepStream Monorepo: DeepStream SDK and reference apps for building GPU‑accelerated, real-time video and multi‑sensor analytics pipelines with GStreamer, TensorRT, and vision AI models across edge, on‑prem, and cloud deployments.
 * 【2026-07-18】[autowarefoundation / vision_pilot](https://github.com/autowarefoundation/vision_pilot) - Free and fully open-source L2 ADAS stack powered by End-to-End AI technology
@@ -419,6 +427,8 @@
 
 ## Unknown
 
+* 【2026-07-24】[straight-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
+* 【2026-07-24】[yzfly / Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients
 * 【2026-07-21】[201853910 / VMwareWorkstation](https://github.com/201853910/VMwareWorkstation) - 手动上传官网的VMwareWorkstation安装包
 * 【2026-07-21】[MoonshotAI / Kimi-Linear](https://github.com/MoonshotAI/Kimi-Linear) - 
 * 【2026-07-20】[greensock / gsap-skills](https://github.com/greensock/gsap-skills) - Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.
