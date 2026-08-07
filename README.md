@@ -215,6 +215,7 @@
 
 ## Javascript
 
+* 【2026-08-07】[react / create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 * 【2026-08-06】[OWASP / threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 * 【2026-08-04】[techjarves / Uncensored-Local-Studio](https://github.com/techjarves/Uncensored-Local-Studio) - Uncensored local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-08-03】[LiberatedPixelCup / Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
@@ -282,6 +283,7 @@
 
 ## Go
 
+* 【2026-08-07】[nicholas-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
 * 【2026-08-03】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.
 * 【2026-08-01】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
 * 【2026-08-01】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
@@ -416,6 +418,7 @@
 
 ## C#
 
+* 【2026-08-07】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
 * 【2026-08-04】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/Linux with full GPU capability
 * 【2026-08-04】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
 * 【2026-08-04】[microsoft / PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
@@ -447,6 +450,7 @@
 
 ## Html
 
+* 【2026-08-07】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 * 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
 * 【2026-07-25】[datadrivenconstruction / OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction ERP - BOQ, PDF/CAD/BIM takeoff, AI cost matching. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 - pip install openconstructionerp
 * 【2026-07-25】[silvertakana / worldwideview](https://github.com/silvertakana/worldwideview) - 
@@ -515,6 +519,7 @@
 
 ## Unknown
 
+* 【2026-08-07】[ZYY817 / YuqiEngine](https://github.com/ZYY817/YuqiEngine) - 宇奇引擎 - 游戏性能优化工具
 * 【2026-08-05】[coreyhaines31 / makerskills](https://github.com/coreyhaines31/makerskills) - AI agent skills for the personal operator's craft — decisions, research, second-brain, content rotation, scenario modeling, and meta-skills to author more. Works with Claude Code, Codex, Cursor.
 * 【2026-08-04】[actions / attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 * 【2026-08-03】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
