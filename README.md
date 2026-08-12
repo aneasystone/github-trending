@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-08-12】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 * 【2026-08-11】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 * 【2026-08-11】[danielmiessler / LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 * 【2026-08-09】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
@@ -114,6 +115,7 @@
 
 ## Java
 
+* 【2026-08-12】[elder-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
 * 【2026-08-11】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
 * 【2026-08-11】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
 * 【2026-08-10】[termux / termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
@@ -152,6 +154,9 @@
 
 ## Python
 
+* 【2026-08-12】[AWeirdDev / flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python. (Probably)
+* 【2026-08-12】[AgriciDaniel / claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
+* 【2026-08-12】[CubicPill / china_southern_power_grid_stat](https://github.com/CubicPill/china_southern_power_grid_stat) - Home Assistant intergration to get statictics from China Southern Power Grid (CSG) 南方电网HA集成
 * 【2026-08-10】[vladmandic / sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
 * 【2026-08-09】[google-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
 * 【2026-08-09】[superlinked / sie](https://github.com/superlinked/sie) - Open-source inference server and production cluster for all the models your agent needs.
@@ -232,6 +237,10 @@
 
 ## Javascript
 
+* 【2026-08-12】[chr0nzz / traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
+* 【2026-08-12】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+* 【2026-08-12】[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+* 【2026-08-12】[polius / FileSync](https://github.com/polius/FileSync) - Send files from one device to many in real-time.
 * 【2026-08-11】[cobusgreyling / loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 * 【2026-08-11】[BeiDouMS / BeiDou-Server](https://github.com/BeiDouMS/BeiDou-Server) - Global MapleStory Server BeiDou(冒险岛GMS服务端北斗)
 * 【2026-08-10】[nonameShijian / noname](https://github.com/nonameShijian/noname) - 本Electron应用及功能由我制作，游戏内容来源于项目无名杀。无名杀项目地址：https://github.com/libnoname/noname
@@ -372,6 +381,7 @@
 
 ## C
 
+* 【2026-08-12】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 * 【2026-08-09】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
 * 【2026-08-06】[daos-stack / daos](https://github.com/daos-stack/daos) - DAOS Storage Stack (client libraries, storage engine, control plane)
 * 【2026-07-29】[mercedes-benz / ardep](https://github.com/mercedes-benz/ardep) - Software and Hardware Production Files of the Automotive Rapid DEvelopment Platform (ARDEP)
@@ -411,6 +421,7 @@
 
 ## C++
 
+* 【2026-08-12】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
 * 【2026-08-06】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
 * 【2026-08-05】[orailnoor / cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
 * 【2026-07-30】[google / xls](https://github.com/google/xls) - XLS: Accelerated HW Synthesis
@@ -447,6 +458,8 @@
 
 ## C#
 
+* 【2026-08-12】[dpadGuy / SalsaNOW](https://github.com/dpadGuy/SalsaNOW) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
+* 【2026-08-12】[Decimation / SmartImage](https://github.com/Decimation/SmartImage) - Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)
 * 【2026-08-11】[shinyflvre / VRCNext](https://github.com/shinyflvre/VRCNext) - VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface. It allows you to manage friends, groups, and more in a single application without needing to visit VRChat.com.
 * 【2026-08-10】[StartupHakk / OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
 * 【2026-08-07】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
@@ -481,6 +494,7 @@
 
 ## Html
 
+* 【2026-08-12】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-08】[itshen / learn-ai](https://github.com/itshen/learn-ai) - AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
 * 【2026-08-07】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
 * 【2026-07-29】[freenet / web](https://github.com/freenet/web) - 
