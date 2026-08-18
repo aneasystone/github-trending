@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-08-18】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+* 【2026-08-18】[auto-novel / auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 * 【2026-08-16】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 * 【2026-08-16】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 * 【2026-08-14】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
@@ -121,6 +123,7 @@
 
 ## Java
 
+* 【2026-08-18】[aklivity / zilla](https://github.com/aklivity/zilla) - 🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.
 * 【2026-08-17】[OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
 * 【2026-08-17】[7723mod / NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 * 【2026-08-16】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
@@ -166,6 +169,7 @@
 
 ## Python
 
+* 【2026-08-18】[anthropics / defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
 * 【2026-08-17】[0xSero / ai-data-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
 * 【2026-08-16】[sgl-project / sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
 * 【2026-08-16】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
@@ -335,6 +339,7 @@
 
 ## Go
 
+* 【2026-08-18】[strelov1 / freehire](https://github.com/strelov1/freehire) - freehire — the open-source search engine for job seekers
 * 【2026-08-17】[seakee / CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
 * 【2026-08-17】[Gitlawb / zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 * 【2026-08-15】[oseghalep / cloud-cost-optimization-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.
@@ -411,6 +416,7 @@
 
 ## C
 
+* 【2026-08-18】[NaGaa95 / sphaira](https://github.com/NaGaa95/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2026-08-15】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-08-12】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
 * 【2026-08-09】[rexglue / rexglue-sdk](https://github.com/rexglue/rexglue-sdk) - Xbox 360 Recompilation Runtime and Toolkit
@@ -452,6 +458,9 @@
 
 ## C++
 
+* 【2026-08-18】[petercorke / robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) - Robotics Toolbox for Python
+* 【2026-08-18】[noctalia-dev / noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
+* 【2026-08-18】[CalcProgrammer1 / OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.
 * 【2026-08-17】[fooyin / fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 * 【2026-08-16】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open-source re-implementation of The Elder Scrolls: Arena.
 * 【2026-08-16】[MeisApps / pcbu-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
@@ -494,6 +503,7 @@
 
 ## C#
 
+* 【2026-08-18】[Bannerlord-Coop-Team / BannerlordCoop](https://github.com/Bannerlord-Coop-Team/BannerlordCoop) - 
 * 【2026-08-17】[luolangaga / tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 * 【2026-08-15】[Unity-Technologies / skills](https://github.com/Unity-Technologies/skills) - A collection of reusable skills for AI coding agents — prompts, slash commands, and tools built for Unity workflows
 * 【2026-08-15】[madoiscool / LuaTools](https://github.com/madoiscool/LuaTools) - AppID Manager for ST
@@ -609,6 +619,8 @@
 
 ## Unknown
 
+* 【2026-08-18】[12britz / awesome-free-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent.
+* 【2026-08-18】[hanlulong / awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team.
 * 【2026-08-17】[angelos-p / llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 * 【2026-08-16】[cdleon / awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 * 【2026-08-15】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.
