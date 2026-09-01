@@ -190,6 +190,8 @@
 
 ## Python
 
+* 【2026-09-01】[securo-finance / securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
+* 【2026-09-01】[mukul975 / cve-mcp-server](https://github.com/mukul975/cve-mcp-server) - Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 * 【2026-08-31】[taoufik123-collab / claude-watch](https://github.com/taoufik123-collab/claude-watch) - Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save.
 * 【2026-08-31】[shootthesound / Fizgig](https://github.com/shootthesound/Fizgig) - Krea 2, MiniMax & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B & MiniMax LoRAs & LoKRs
 * 【2026-08-31】[agent0ai / agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -298,6 +300,7 @@
 
 ## Javascript
 
+* 【2026-09-01】[DsThakurRawat / Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - 
 * 【2026-08-31】[amElnagdy / delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 * 【2026-08-24】[team-codebug / babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) - 
 * 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -386,6 +389,7 @@
 
 ## Go
 
+* 【2026-09-01】[hoaxisr / awg-manager](https://github.com/hoaxisr/awg-manager) - AmneziaWG tunnel manager with web interface for Keenetic routers
 * 【2026-08-21】[autonomous-ai / autonomous-os](https://github.com/autonomous-ai/autonomous-os) - The open-source operating system for robots — install it and your robot comes alive
 * 【2026-08-20】[google / sam](https://github.com/google/sam) - SAM Sovereign Agent Mesh
 * 【2026-08-20】[ongridio / ongrid](https://github.com/ongridio/ongrid) - An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.
@@ -514,6 +518,8 @@
 
 ## C++
 
+* 【2026-09-01】[zackb / tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
+* 【2026-09-01】[UZDoom / UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
 * 【2026-08-30】[omacom / omawrite](https://github.com/omacom/omawrite) - The essence of writing
 * 【2026-08-30】[Neroued / ninfer](https://github.com/Neroued/ninfer) - High-performance single-GPU inference for selected model checkpoints and GPUs.
 * 【2026-08-28】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
@@ -610,6 +616,7 @@
 
 ## Html
 
+* 【2026-09-01】[Abdess / retrobios](https://github.com/Abdess/retrobios) - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding authority.
 * 【2026-08-27】[Manavarya09 / design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
 * 【2026-08-27】[fcaronte / KingInstaller](https://github.com/fcaronte/KingInstaller) - Porting of KingInstaller get from GitLab by annexhack
 * 【2026-08-27】[tianma-if / edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
@@ -691,6 +698,7 @@
 
 ## Unknown
 
+* 【2026-09-01】[MacPaw / cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.
 * 【2026-08-30】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 * 【2026-08-25】[Ramys / Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026) - Canais , Filmes e Séries
 * 【2026-08-24】[j4Uq / TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
