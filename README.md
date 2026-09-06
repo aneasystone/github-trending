@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-06】[humanlayer / skills](https://github.com/humanlayer/skills) - 
+* 【2026-09-06】[BraveOPotato / FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 * 【2026-09-05】[bikini / exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
 * 【2026-09-05】[radixark / miles](https://github.com/radixark/miles) - Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.
 * 【2026-09-05】[clshortfuse / renodx](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games
@@ -147,6 +149,7 @@
 
 ## Java
 
+* 【2026-09-06】[spring-ai-alibaba / DataAgent](https://github.com/spring-ai-alibaba/DataAgent) - Spring AI Alibaba DataAgent
 * 【2026-09-05】[Zoeille / picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
 * 【2026-09-04】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
 * 【2026-08-25】[Keeperorowner / NagramXF](https://github.com/Keeperorowner/NagramXF) - A fork of NagramX with additional features.
@@ -197,6 +200,7 @@
 
 ## Python
 
+* 【2026-09-06】[k2-fsa / OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 * 【2026-09-05】[jihe520 / MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 * 【2026-09-04】[netalertx / NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.
 * 【2026-09-04】[datacurve-ai / deep-swe](https://github.com/datacurve-ai/deep-swe) - Measuring frontier coding agents on original, long-horizon engineering tasks
@@ -486,6 +490,8 @@
 
 ## C
 
+* 【2026-09-06】[NebuSec / CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
+* 【2026-09-06】[maxsteeel / nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 * 【2026-09-05】[QwenAudio / SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 * 【2026-09-04】[eunomia-bpf / agentsight](https://github.com/eunomia-bpf/agentsight) - lightweight system-level observability for AI Agents
 * 【2026-09-02】[JustVugg / colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
@@ -535,6 +541,7 @@
 
 ## C++
 
+* 【2026-09-06】[PlotJuggler / PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 * 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
 * 【2026-09-04】[harry7557558 / spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
 * 【2026-09-02】[metasequoiaime / MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
@@ -693,6 +700,7 @@
 
 ## Css
 
+* 【2026-09-06】[AlirezaKJ / BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
 * 【2026-09-04】[CopticScriptorium / corpora](https://github.com/CopticScriptorium/corpora) - Public repository for Coptic SCRIPTORIUM Corpora Releases
 * 【2026-09-04】[DeGrandis / canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode) - Canvas Dark Mode
 * 【2026-08-23】[fontsource / font-files](https://github.com/fontsource/font-files) - 2000+ open-source fonts bundled into neat packages.
@@ -723,6 +731,7 @@
 
 ## Unknown
 
+* 【2026-09-06】[DannyMac180 / fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok
 * 【2026-09-04】[yogsec / Hacking-Tools](https://github.com/yogsec/Hacking-Tools) - A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.
 * 【2026-09-01】[MacPaw / cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.
 * 【2026-08-30】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
