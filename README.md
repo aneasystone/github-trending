@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-07】[aipoch / open-science](https://github.com/aipoch/open-science) - Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.
+* 【2026-09-07】[The-Swarm-Corporation / AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) - Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.
 * 【2026-09-06】[humanlayer / skills](https://github.com/humanlayer/skills) - 
 * 【2026-09-06】[BraveOPotato / FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups!
 * 【2026-09-05】[bikini / exploitarium](https://github.com/bikini/exploitarium) - A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
@@ -149,6 +151,7 @@
 
 ## Java
 
+* 【2026-09-07】[SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) - Tinker a little, build a little, tinker a little more...
 * 【2026-09-06】[spring-ai-alibaba / DataAgent](https://github.com/spring-ai-alibaba/DataAgent) - Spring AI Alibaba DataAgent
 * 【2026-09-05】[Zoeille / picsou-finance](https://github.com/Zoeille/picsou-finance) - Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.
 * 【2026-09-04】[Brazzo978 / L.L.E-Legacy-Lockscreen-Effects](https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects) - 
@@ -200,6 +203,8 @@
 
 ## Python
 
+* 【2026-09-07】[sooryathejas / METATRON](https://github.com/sooryathejas/METATRON) - AI-powered penetration testing assistant using local LLM on linux (Parrot OS)
+* 【2026-09-07】[experientiallabs / experiential](https://github.com/experientiallabs/experiential) - Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.
 * 【2026-09-06】[k2-fsa / OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 * 【2026-09-05】[jihe520 / MathModelAgent](https://github.com/jihe520/MathModelAgent) - 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.
 * 【2026-09-04】[netalertx / NetAlertX](https://github.com/netalertx/NetAlertX) - Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.
@@ -405,6 +410,7 @@
 
 ## Go
 
+* 【2026-09-07】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source cold outreach and email warmup platform.
 * 【2026-09-05】[project-zot / zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 * 【2026-09-05】[basecamp / hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
 * 【2026-09-01】[hoaxisr / awg-manager](https://github.com/hoaxisr/awg-manager) - AmneziaWG tunnel manager with web interface for Keenetic routers
@@ -490,6 +496,7 @@
 
 ## C
 
+* 【2026-09-07】[Yuzhii0718 / bl-mt798x-dhcpd](https://github.com/Yuzhii0718/bl-mt798x-dhcpd) - A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.
 * 【2026-09-06】[NebuSec / CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) - PoCs and exploits for CVEs discovered by NebuSec.
 * 【2026-09-06】[maxsteeel / nomount](https://github.com/maxsteeel/nomount) - NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.
 * 【2026-09-05】[QwenAudio / SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
@@ -541,6 +548,7 @@
 
 ## C++
 
+* 【2026-09-07】[Diegiwg / PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account.
 * 【2026-09-06】[PlotJuggler / PlotJuggler](https://github.com/PlotJuggler/PlotJuggler) - The Time Series Visualization Tool that you deserve.
 * 【2026-09-04】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
 * 【2026-09-04】[harry7557558 / spirula-studio](https://github.com/harry7557558/spirula-studio) - Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.
@@ -600,6 +608,7 @@
 
 ## C#
 
+* 【2026-09-07】[mini-software / MiniPdf](https://github.com/mini-software/MiniPdf) - Lightweight Office-to-PDF libraries and command-line tools for Rust and .NET.
 * 【2026-08-20】[snownico0722 / PaperTodo](https://github.com/snownico0722/PaperTodo) - 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.
 * 【2026-08-20】[MrDiamond64 / Hydra](https://github.com/MrDiamond64/Hydra) - An Among Us utility and anticheat mod to enhance the Among Us playing experience
 * 【2026-08-18】[Bannerlord-Coop-Team / BannerlordCoop](https://github.com/Bannerlord-Coop-Team/BannerlordCoop) - 
@@ -731,6 +740,7 @@
 
 ## Unknown
 
+* 【2026-09-07】[Au1rxx / free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) - Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
 * 【2026-09-06】[DannyMac180 / fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok
 * 【2026-09-04】[yogsec / Hacking-Tools](https://github.com/yogsec/Hacking-Tools) - A curated list of penetration testing and ethical hacking tools, organized by category. This compilation includes tools from Kali Linux and other notable sources.
 * 【2026-09-01】[MacPaw / cleanmymac-cli](https://github.com/MacPaw/cleanmymac-cli) - Clean Xcode, Docker, Homebrew, and developer caches, remove project and AI artifacts, analyze storage, and reclaim disk space from the Terminal.
