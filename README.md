@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-11】[alsk1992 / CloddsBot](https://github.com/alsk1992/CloddsBot) - Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+* 【2026-09-11】[nashsu / llm_wiki](https://github.com/nashsu/llm_wiki) - LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
 * 【2026-09-10】[Tencent / teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
 * 【2026-09-10】[vastsa / PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
 * 【2026-09-08】[MoonTechLab / LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
@@ -206,6 +208,7 @@
 
 ## Python
 
+* 【2026-09-11】[google-deepmind / alphagenome](https://github.com/google-deepmind/alphagenome) - This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.
 * 【2026-09-10】[OpenDCAI / GameFactory-3A](https://github.com/OpenDCAI/GameFactory-3A) - A comprehensive open-source 3A game-generation skill and asset framework.
 * 【2026-09-10】[anbeime / skill](https://github.com/anbeime/skill) - 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
 * 【2026-09-09】[neka-nat / freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
@@ -327,6 +330,8 @@
 
 ## Javascript
 
+* 【2026-09-11】[Anil-matcha / awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.
+* 【2026-09-11】[Eigenwise / eigenwise-toolshed](https://github.com/Eigenwise/eigenwise-toolshed) - Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.
 * 【2026-09-08】[mekos2772 / ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
 * 【2026-09-08】[Yu9191 / wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 * 【2026-09-01】[DsThakurRawat / Backend-from-first-Principle](https://github.com/DsThakurRawat/Backend-from-first-Principle) - 
@@ -418,6 +423,8 @@
 
 ## Go
 
+* 【2026-09-11】[R-s0n / ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) - AI Native Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
+* 【2026-09-11】[theagentrouter / agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 * 【2026-09-07】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source cold outreach and email warmup platform.
 * 【2026-09-05】[project-zot / zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 * 【2026-09-05】[basecamp / hey-cli](https://github.com/basecamp/hey-cli) - HEY CLI and Agent Skills
@@ -504,6 +511,7 @@
 
 ## C
 
+* 【2026-09-11】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 * 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
 * 【2026-09-09】[doldecomp / melee](https://github.com/doldecomp/melee) - A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
 * 【2026-09-07】[Yuzhii0718 / bl-mt798x-dhcpd](https://github.com/Yuzhii0718/bl-mt798x-dhcpd) - A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.
@@ -752,6 +760,8 @@
 
 ## Unknown
 
+* 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
+* 【2026-09-11】[MoonTechLab / Selene-TV](https://github.com/MoonTechLab/Selene-TV) - 以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化
 * 【2026-09-10】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 * 【2026-09-07】[Au1rxx / free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) - Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
 * 【2026-09-06】[DannyMac180 / fable-advisor](https://github.com/DannyMac180/fable-advisor) - Claude Fable as an orchestrator for Opus, GPT and Grok
