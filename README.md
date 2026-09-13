@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+* 【2026-09-13】[multimodal-art-projection / YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
+* 【2026-09-13】[max-sixty / worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 * 【2026-09-12】[nab138 / iloader](https://github.com/nab138/iloader) - User friendly sideloader
 * 【2026-09-12】[melgarafael / DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
 * 【2026-09-12】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
@@ -213,6 +216,8 @@
 
 ## Python
 
+* 【2026-09-13】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
+* 【2026-09-13】[google-gemini / gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions
 * 【2026-09-11】[google-deepmind / alphagenome](https://github.com/google-deepmind/alphagenome) - This API provides programmatic access to the AlphaGenome model developed by Google DeepMind.
 * 【2026-09-10】[OpenDCAI / GameFactory-3A](https://github.com/OpenDCAI/GameFactory-3A) - A comprehensive open-source 3A game-generation skill and asset framework.
 * 【2026-09-10】[anbeime / skill](https://github.com/anbeime/skill) - 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
@@ -335,6 +340,7 @@
 
 ## Javascript
 
+* 【2026-09-13】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - 
 * 【2026-09-12】[0xranx / OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
 * 【2026-09-12】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
 * 【2026-09-11】[Anil-matcha / awesome-generative-ai-apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) - 50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.
@@ -430,6 +436,7 @@
 
 ## Go
 
+* 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 * 【2026-09-12】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
 * 【2026-09-11】[R-s0n / ars0n-framework-v2](https://github.com/R-s0n/ars0n-framework-v2) - AI Native Bug Bounty Hunting Framework Designed to Help Beginners Compete w/ the Pros
 * 【2026-09-11】[theagentrouter / agent-router](https://github.com/theagentrouter/agent-router) - Manages Unified Access to Generative AI Services built on Envoy Gateway
@@ -519,6 +526,7 @@
 
 ## C
 
+* 【2026-09-13】[FoggyBytes / StreamLight](https://github.com/FoggyBytes/StreamLight) - Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.
 * 【2026-09-11】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 * 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
 * 【2026-09-09】[doldecomp / melee](https://github.com/doldecomp/melee) - A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
@@ -772,6 +780,7 @@
 
 ## Unknown
 
+* 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 * 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
 * 【2026-09-11】[MoonTechLab / Selene-TV](https://github.com/MoonTechLab/Selene-TV) - 以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化
 * 【2026-09-10】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
