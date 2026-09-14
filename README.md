@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-14】[ever-co / ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
+* 【2026-09-14】[tonhowtf / omniget](https://github.com/tonhowtf/omniget) - Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.
 * 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 * 【2026-09-13】[multimodal-art-projection / YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
 * 【2026-09-13】[max-sixty / worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -340,6 +342,8 @@
 
 ## Javascript
 
+* 【2026-09-14】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
+* 【2026-09-14】[shaun8149 / sdf-js](https://github.com/shaun8149/sdf-js) - Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port & extension of fogleman/sdf.
 * 【2026-09-13】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) - 
 * 【2026-09-12】[0xranx / OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
 * 【2026-09-12】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
@@ -646,6 +650,7 @@
 
 ## C#
 
+* 【2026-09-14】[vectorcmdr / NMSE](https://github.com/vectorcmdr/NMSE) - NMSE (NO MAN'S SAVE EDITOR) - Open source save editor for No Man's Sky, boasting the most complete editing features among save editors.
 * 【2026-09-12】[ProwlEngine / Prowl](https://github.com/ProwlEngine/Prowl) - An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor
 * 【2026-09-07】[mini-software / MiniPdf](https://github.com/mini-software/MiniPdf) - Lightweight Office-to-PDF libraries and command-line tools for Rust and .NET.
 * 【2026-08-20】[snownico0722 / PaperTodo](https://github.com/snownico0722/PaperTodo) - 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown.
@@ -691,6 +696,7 @@
 
 ## Html
 
+* 【2026-09-14】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
 * 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
 * 【2026-09-05】[dqev / reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
 * 【2026-09-04】[datawhalechina / Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub) - AI Agent 学习路线与资料库收集
@@ -780,6 +786,7 @@
 
 ## Unknown
 
+* 【2026-09-14】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 * 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
 * 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
 * 【2026-09-11】[MoonTechLab / Selene-TV](https://github.com/MoonTechLab/Selene-TV) - 以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化
