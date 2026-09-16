@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-09-16】[Homebrew / BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
+* 【2026-09-16】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
+* 【2026-09-16】[MG1937 / ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 * 【2026-09-15】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages
 * 【2026-09-15】[peetzweg / opendisplay](https://github.com/peetzweg/opendisplay) - Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.
 * 【2026-09-14】[ever-co / ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
@@ -444,6 +447,7 @@
 
 ## Go
 
+* 【2026-09-16】[e2b-dev / runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
 * 【2026-09-15】[xob0t / gotohp](https://github.com/xob0t/gotohp) - Unofficial Google Photos Desktop GUI Client
 * 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
 * 【2026-09-12】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
@@ -535,6 +539,7 @@
 
 ## C
 
+* 【2026-09-16】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
 * 【2026-09-13】[FoggyBytes / StreamLight](https://github.com/FoggyBytes/StreamLight) - Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.
 * 【2026-09-11】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
 * 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
@@ -702,6 +707,7 @@
 
 ## Html
 
+* 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
 * 【2026-09-14】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
 * 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
 * 【2026-09-05】[dqev / reicon](https://github.com/dqev/reicon) - Reicon — Open-Source Icon Library for Designers & Developers
