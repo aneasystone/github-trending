@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-09-18】[Tencent / BrowserSkill](https://github.com/Tencent/BrowserSkill) - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 * 【2026-09-17】[abue-ammar / tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 * 【2026-09-16】[Homebrew / BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 * 【2026-09-16】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
@@ -225,6 +226,9 @@
 
 ## Python
 
+* 【2026-09-18】[arnegiacomo / fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
+* 【2026-09-18】[strands-agents / harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
+* 【2026-09-18】[wilbowes / EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
 * 【2026-09-17】[TencentCloud / Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
 * 【2026-09-17】[meituan-longcat / LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - 
 * 【2026-09-13】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
@@ -351,6 +355,7 @@
 
 ## Javascript
 
+* 【2026-09-18】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 * 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 * 【2026-09-14】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
 * 【2026-09-14】[shaun8149 / sdf-js](https://github.com/shaun8149/sdf-js) - Chainable JS SDF library + 基于 SDF 的离散结构生成器层 (form × generator decoupling). Port & extension of fogleman/sdf.
@@ -542,6 +547,7 @@
 
 ## C
 
+* 【2026-09-18】[SlickAmogus / silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) - Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
 * 【2026-09-16】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
 * 【2026-09-13】[FoggyBytes / StreamLight](https://github.com/FoggyBytes/StreamLight) - Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.
 * 【2026-09-11】[willfaust / Madeira](https://github.com/willfaust/Madeira) - Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT
@@ -599,6 +605,7 @@
 
 ## C++
 
+* 【2026-09-18】[fougue / mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 * 【2026-09-17】[JingMatrix / NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
 * 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
 * 【2026-09-12】[0xShug0 / audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
@@ -712,6 +719,7 @@
 
 ## Html
 
+* 【2026-09-18】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
 * 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
 * 【2026-09-14】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
 * 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
