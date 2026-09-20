@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-09-20】[higgsfield-ai / higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
+* 【2026-09-20】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+* 【2026-09-20】[yynxxxxx / Codex-X](https://github.com/yynxxxxx/Codex-X) - OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
 * 【2026-09-18】[Tencent / BrowserSkill](https://github.com/Tencent/BrowserSkill) - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 * 【2026-09-17】[abue-ammar / tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
 * 【2026-09-16】[Homebrew / BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
@@ -227,6 +230,8 @@
 
 ## Python
 
+* 【2026-09-20】[PenglongHuang / chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
+* 【2026-09-20】[mcncarl / yichen-skills](https://github.com/mcncarl/yichen-skills) - 
 * 【2026-09-18】[arnegiacomo / fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
 * 【2026-09-18】[strands-agents / harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
 * 【2026-09-18】[wilbowes / EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
@@ -356,6 +361,7 @@
 
 ## Javascript
 
+* 【2026-09-20】[techjarves / Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-09-18】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
 * 【2026-09-15】[yuliskov / SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) - Watch YouTube videos on your TV and set-top-box with comfort
 * 【2026-09-14】[plugin87 / ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a senior design architect - DTCG design tokens, 50 components, WCAG 2.2 AA to AAA, 138 design systems, any-framework code, and 38 objective gates that fail the build instead of claiming success. Install as a Claude Code plugin or with npx.
@@ -456,6 +462,8 @@
 
 ## Go
 
+* 【2026-09-20】[openai / tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
+* 【2026-09-20】[grafana / gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
 * 【2026-09-19】[felinics / Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
 * 【2026-09-19】[weave-os / router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
 * 【2026-09-19】[router-for-me / CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
@@ -551,6 +559,8 @@
 
 ## C
 
+* 【2026-09-20】[HarbourMasters / PaperBoat](https://github.com/HarbourMasters/PaperBoat) - 
+* 【2026-09-20】[Rainchus / Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled) - 
 * 【2026-09-19】[matz / spinel](https://github.com/matz/spinel) - 
 * 【2026-09-19】[i12bp8 / TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 * 【2026-09-18】[SlickAmogus / silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) - Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
@@ -817,6 +827,7 @@
 
 ## Unknown
 
+* 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases) - 
 * 【2026-09-15】[liangdabiao / Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
 * 【2026-09-14】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
 * 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
