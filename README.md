@@ -231,6 +231,8 @@
 
 ## Python
 
+* 【2026-09-22】[cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) - 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
+* 【2026-09-22】[TNT-Likely / PanWatch](https://github.com/TNT-Likely/PanWatch) - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
 * 【2026-09-21】[zhouxiaoka / autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 * 【2026-09-20】[PenglongHuang / chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
 * 【2026-09-20】[mcncarl / yichen-skills](https://github.com/mcncarl/yichen-skills) - 
@@ -465,6 +467,9 @@
 
 ## Go
 
+* 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
+* 【2026-09-22】[AminMGMT / BackPack](https://github.com/AminMGMT/BackPack) - High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups
+* 【2026-09-22】[zhoushoujianwork / easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) - 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
 * 【2026-09-21】[vshulcz / deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
 * 【2026-09-21】[superdurable / dex](https://github.com/superdurable/dex) - Durable Execution (D-EX) framework built on Temporal/Cadence
 * 【2026-09-20】[openai / tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
@@ -628,6 +633,8 @@
 
 ## C++
 
+* 【2026-09-22】[mg-chao / snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
+* 【2026-09-22】[Codensity30 / Strivers-A2Z-DSA-Sheet](https://github.com/Codensity30/Strivers-A2Z-DSA-Sheet) - Contains everything related to Stiver's A2Z sheet along with question, approach and code.
 * 【2026-09-18】[fougue / mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
 * 【2026-09-17】[JingMatrix / NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
 * 【2026-09-15】[eden-emulator / mirror](https://github.com/eden-emulator/mirror) - Mirror of Eden. PRs welcome.
@@ -695,6 +702,7 @@
 
 ## C#
 
+* 【2026-09-22】[mcneel / RhinoAI](https://github.com/mcneel/RhinoAI) - AI features for Rhino
 * 【2026-09-21】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
 * 【2026-09-17】[crazysmile-PhD / downkyicore](https://github.com/crazysmile-PhD/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2026-09-14】[vectorcmdr / NMSE](https://github.com/vectorcmdr/NMSE) - NMSE (NO MAN'S SAVE EDITOR) - Open source save editor for No Man's Sky, boasting the most complete editing features among save editors.
