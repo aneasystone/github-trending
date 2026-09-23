@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-09-23】[google / ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
+* 【2026-09-23】[superdesigndev / treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 * 【2026-09-21】[vercel-labs / json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
 * 【2026-09-20】[higgsfield-ai / higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
 * 【2026-09-20】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
@@ -365,6 +367,7 @@
 
 ## Javascript
 
+* 【2026-09-23】[DuarteSantos8 / openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 * 【2026-09-21】[BuilderIO / skills](https://github.com/BuilderIO/skills) - Skills for agents
 * 【2026-09-20】[techjarves / Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
 * 【2026-09-18】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
@@ -467,6 +470,11 @@
 
 ## Go
 
+* 【2026-09-23】[CarterPerez-dev / Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
+* 【2026-09-23】[openbkn-ai / bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) - BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.
+* 【2026-09-23】[skyhook-io / radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.
+* 【2026-09-23】[fullsend-ai / fullsend](https://github.com/fullsend-ai/fullsend) - On the path to fully autonomous agentic engineering
+* 【2026-09-23】[samber / cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
 * 【2026-09-22】[AminMGMT / BackPack](https://github.com/AminMGMT/BackPack) - High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups
 * 【2026-09-22】[zhoushoujianwork / easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) - 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
@@ -569,6 +577,8 @@
 
 ## C
 
+* 【2026-09-23】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
+* 【2026-09-23】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 * 【2026-09-21】[bryanthaboi / gen1recomp](https://github.com/bryanthaboi/gen1recomp) - Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke
 * 【2026-09-21】[PlatformLab / HomaModule](https://github.com/PlatformLab/HomaModule) - A Linux kernel module that implements the Homa transport protocol.
 * 【2026-09-20】[HarbourMasters / PaperBoat](https://github.com/HarbourMasters/PaperBoat) - 
@@ -751,6 +761,7 @@
 
 ## Html
 
+* 【2026-09-23】[zouzhekang / YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 * 【2026-09-18】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
 * 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
 * 【2026-09-14】[tinkerhub / useless_project_temp](https://github.com/tinkerhub/useless_project_temp) - 
@@ -812,6 +823,7 @@
 
 ## Css
 
+* 【2026-09-23】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
 * 【2026-09-06】[AlirezaKJ / BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
 * 【2026-09-04】[CopticScriptorium / corpora](https://github.com/CopticScriptorium/corpora) - Public repository for Coptic SCRIPTORIUM Corpora Releases
 * 【2026-09-04】[DeGrandis / canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode) - Canvas Dark Mode
@@ -843,6 +855,7 @@
 
 ## Unknown
 
+* 【2026-09-23】[harsh-bothra / learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
 * 【2026-09-21】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 * 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases) - 
 * 【2026-09-15】[liangdabiao / Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator) - 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为多集视频。 为什么做这个？ 因为 seedance2 已经改变了一切，需要新的剧本剧情制作工具，更好的利用新AI的能力和更方便的制作短剧
