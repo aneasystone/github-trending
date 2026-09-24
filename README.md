@@ -367,6 +367,7 @@
 
 ## Javascript
 
+* 【2026-09-24】[elidickinson / pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) - Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev.
 * 【2026-09-23】[DuarteSantos8 / openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
 * 【2026-09-21】[BuilderIO / skills](https://github.com/BuilderIO/skills) - Skills for agents
 * 【2026-09-20】[techjarves / Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
@@ -577,6 +578,7 @@
 
 ## C
 
+* 【2026-09-24】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
 * 【2026-09-23】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 * 【2026-09-23】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
 * 【2026-09-21】[bryanthaboi / gen1recomp](https://github.com/bryanthaboi/gen1recomp) - Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke
@@ -643,6 +645,7 @@
 
 ## C++
 
+* 【2026-09-24】[mod-playerbots / mod-playerbots](https://github.com/mod-playerbots/mod-playerbots) - AzerothCore Playerbots Module
 * 【2026-09-22】[mg-chao / snow-apps](https://github.com/mg-chao/snow-apps) - Snow Apps repository, providing source code for Snow Shot and Snow Image Viewer.
 * 【2026-09-22】[Codensity30 / Strivers-A2Z-DSA-Sheet](https://github.com/Codensity30/Strivers-A2Z-DSA-Sheet) - Contains everything related to Stiver's A2Z sheet along with question, approach and code.
 * 【2026-09-18】[fougue / mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
@@ -712,6 +715,10 @@
 
 ## C#
 
+* 【2026-09-24】[RayrenSX / iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) - Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
+* 【2026-09-24】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
+* 【2026-09-24】[SafeExamBrowser / seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring) - Safe Exam Browser for Windows.
+* 【2026-09-24】[marcussacana / DirectPackageInstaller](https://github.com/marcussacana/DirectPackageInstaller) - Send Direct PKG URLs to your PS4
 * 【2026-09-22】[mcneel / RhinoAI](https://github.com/mcneel/RhinoAI) - AI features for Rhino
 * 【2026-09-21】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
 * 【2026-09-17】[crazysmile-PhD / downkyicore](https://github.com/crazysmile-PhD/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
