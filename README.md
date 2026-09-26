@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-09-26】[derv82 / wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 * 【2026-09-25】[FxEmbed / FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 * 【2026-09-25】[julyx10 / lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries
 * 【2026-09-23】[google / ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
@@ -235,6 +236,7 @@
 
 ## Python
 
+* 【2026-09-26】[Alban1911 / Rose](https://github.com/Alban1911/Rose) - League, unlocked.
 * 【2026-09-25】[aayushch / laya](https://github.com/aayushch/laya) - Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.
 * 【2026-09-22】[cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) - 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
 * 【2026-09-22】[TNT-Likely / PanWatch](https://github.com/TNT-Likely/PanWatch) - 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送
@@ -774,6 +776,7 @@
 
 ## Html
 
+* 【2026-09-26】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
 * 【2026-09-23】[zouzhekang / YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 * 【2026-09-18】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
 * 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
