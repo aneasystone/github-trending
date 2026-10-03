@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-10-03】[pablostanley / yoinks](https://github.com/pablostanley/yoinks) - yoink any video from your terminal. no shady ads.
 * 【2026-09-30】[NVIDIA / OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 * 【2026-09-30】[t8y2 / dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
 * 【2026-09-29】[cs341-illinois / coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
@@ -248,6 +249,7 @@
 
 ## Python
 
+* 【2026-10-03】[Friedrich-M / UniMate](https://github.com/Friedrich-M/UniMate) - [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
 * 【2026-09-29】[ashhart / TensorFold](https://github.com/ashhart/TensorFold) - Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
 * 【2026-09-29】[samugit83 / redamon](https://github.com/samugit83/redamon) - An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
 * 【2026-09-29】[Rizzo-AI-Academy / rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii) - Local-first privacy guard: anonymize your documents before sharing with LLMs.
@@ -387,6 +389,7 @@
 
 ## Javascript
 
+* 【2026-10-03】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
 * 【2026-09-30】[QwenAudio / qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present. Real-time Voice Runtime for AI Agents
 * 【2026-09-28】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-28】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
@@ -606,6 +609,8 @@
 
 ## C
 
+* 【2026-10-03】[martanne / vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
+* 【2026-10-03】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
 * 【2026-09-29】[YuKongA / ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
 * 【2026-09-24】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
 * 【2026-09-23】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
@@ -674,6 +679,7 @@
 
 ## C++
 
+* 【2026-10-03】[YesterMester / TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp) - A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game running
 * 【2026-09-29】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 * 【2026-09-28】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
 * 【2026-09-28】[cataclysmbn / Cataclysm-BN](https://github.com/cataclysmbn/Cataclysm-BN) - Cataclysm: Bright Nights: A fork/variant of Cataclysm:DDA by CleverRaven with a mod registry at https://mods.cataclysmbn.org/
@@ -870,6 +876,7 @@
 
 ## Css
 
+* 【2026-10-03】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
 * 【2026-09-29】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-23】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
 * 【2026-09-06】[AlirezaKJ / BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
@@ -903,6 +910,8 @@
 
 ## Unknown
 
+* 【2026-10-03】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
+* 【2026-10-03】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
 * 【2026-09-23】[harsh-bothra / learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
 * 【2026-09-21】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
 * 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases) - 
