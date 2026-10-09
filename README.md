@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-10-09】[storytold / artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 * 【2026-10-07】[morluto / rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 * 【2026-10-06】[boykopovar / AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 * 【2026-10-06】[M-Abozaid / esp32-c3-adblock](https://github.com/M-Abozaid/esp32-c3-adblock) - Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share
@@ -258,6 +259,8 @@
 
 ## Python
 
+* 【2026-10-09】[abrignoni / ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
+* 【2026-10-09】[CursorTouch / Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 * 【2026-10-08】[MDX-Tom / gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 * 【2026-10-07】[omnigent-ai / omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
 * 【2026-10-06】[achillean / shodan-python](https://github.com/achillean/shodan-python) - The official Python library for Shodan
@@ -701,6 +704,8 @@
 
 ## C++
 
+* 【2026-10-09】[facebook / rebalancer](https://github.com/facebook/rebalancer) - Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).
+* 【2026-10-09】[SethRobinson / Patchy](https://github.com/SethRobinson/Patchy) - Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users.
 * 【2026-10-08】[Confetti3 / SF4-Ember-Netplay](https://github.com/Confetti3/SF4-Ember-Netplay) - Private rollback rooms and a controller-first overlay for Ultra Street Fighter IV. An unofficial experimental port of Anthony Danducci's sf4e.
 * 【2026-10-05】[noctalia-dev / umbriel](https://github.com/noctalia-dev/umbriel) - An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.
 * 【2026-10-05】[kvoltmer / Audionaut](https://github.com/kvoltmer/Audionaut) - Audionaut professional audio editing and audio recording
