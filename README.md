@@ -260,6 +260,7 @@
 
 ## Python
 
+* 【2026-10-11】[BitterSecurity / Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-10-10】[Tencent-Hunyuan / Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - 
 * 【2026-10-10】[headroomlabs-ai / headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 * 【2026-10-09】[abrignoni / ALEAPP](https://github.com/abrignoni/ALEAPP) - Android Logs Events And Protobuf Parser
@@ -525,6 +526,7 @@
 
 ## Go
 
+* 【2026-10-11】[Autumn-27 / ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 * 【2026-10-10】[Agent-Field / CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 * 【2026-10-06】[stripe / stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 * 【2026-10-06】[vavallee / bindery](https://github.com/vavallee/bindery) - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
