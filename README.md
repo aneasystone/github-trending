@@ -527,6 +527,8 @@
 
 ## Go
 
+* 【2026-10-13】[Bennettxai / FounderOS](https://github.com/Bennettxai/FounderOS) - An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard.
+* 【2026-10-13】[HEXUXIU / M365-Copilot2API](https://github.com/HEXUXIU/M365-Copilot2API) - Microsoft 365 Copilot → OpenAI / Anthropic 兼容 API 网关。
 * 【2026-10-11】[Autumn-27 / ScopeSentry](https://github.com/Autumn-27/ScopeSentry) - ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 * 【2026-10-10】[Agent-Field / CodeAF](https://github.com/Agent-Field/CodeAF) - Open-Source Software factory for Open Models
 * 【2026-10-06】[stripe / stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
@@ -643,6 +645,7 @@
 
 ## C
 
+* 【2026-10-13】[mbm110 / MSN-GUARD](https://github.com/mbm110/MSN-GUARD) - High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
 * 【2026-10-12】[tarwin / tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
 * 【2026-10-12】[sp00nznet / xboxrecomp](https://github.com/sp00nznet/xboxrecomp) - Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
 * 【2026-10-03】[martanne / vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
