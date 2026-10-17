@@ -263,6 +263,8 @@
 
 ## Python
 
+* 【2026-10-17】[elder-plinius / V3R1T4S](https://github.com/elder-plinius/V3R1T4S) - liberating known unknowns
+* 【2026-10-17】[google / artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieves 99%+ success rate on AndroidWorld Benchmark.
 * 【2026-10-16】[ahujasid / mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) - Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.
 * 【2026-10-16】[ShawnPana / phone-harness](https://github.com/ShawnPana/phone-harness) - let your agent control your phone
 * 【2026-10-15】[isair / jarvis](https://github.com/isair/jarvis) - Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.
@@ -418,6 +420,7 @@
 
 ## Javascript
 
+* 【2026-10-17】[superdesigndev / superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
 * 【2026-10-10】[chuspeeism / dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 * 【2026-10-10】[chaolucky18 / xuexitongScript](https://github.com/chaolucky18/xuexitongScript) - 学习通自动刷课脚本
 * 【2026-10-08】[MiaAI-Lab / sparkDash](https://github.com/MiaAI-Lab/sparkDash) - sparkDash ⚡ — Multi-DGX Spark Monitoring Dashboard
@@ -534,6 +537,9 @@
 
 ## Go
 
+* 【2026-10-17】[tristenlammi / Arrmada](https://github.com/tristenlammi/Arrmada) - arrrrrrrr
+* 【2026-10-17】[jasonxu114514 / opencode2api](https://github.com/jasonxu114514/opencode2api) - A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI.
+* 【2026-10-17】[GoogleCloudPlatform / scion](https://github.com/GoogleCloudPlatform/scion) - 
 * 【2026-10-15】[razorpay / slashdocs](https://github.com/razorpay/slashdocs) - Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions.
 * 【2026-10-15】[google / agentmesh](https://github.com/google/agentmesh) - Agent Mesh
 * 【2026-10-15】[Christ9038 / Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
@@ -656,6 +662,7 @@
 
 ## C
 
+* 【2026-10-17】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 * 【2026-10-16】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 * 【2026-10-14】[rogerbinns / apsw](https://github.com/rogerbinns/apsw) - Another Python SQLite wrapper
 * 【2026-10-13】[mbm110 / MSN-GUARD](https://github.com/mbm110/MSN-GUARD) - High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.
@@ -731,6 +738,8 @@
 
 ## C++
 
+* 【2026-10-17】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
+* 【2026-10-17】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
 * 【2026-10-16】[Flare-Animate / Flare](https://github.com/Flare-Animate/Flare) - Flare - A Familiar, Open Source Animation Suite. Forked from OpenToonz.
 * 【2026-10-09】[facebook / rebalancer](https://github.com/facebook/rebalancer) - Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).
 * 【2026-10-09】[SethRobinson / Patchy](https://github.com/SethRobinson/Patchy) - Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users.
@@ -814,6 +823,7 @@
 
 ## C#
 
+* 【2026-10-17】[Matteo842 / CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher) - CrashBandicoot native pc port
 * 【2026-10-16】[empira / PDFsharp](https://github.com/empira/PDFsharp) - PDFsharp and MigraDoc Foundation for .NET 6 and .NET Framework
 * 【2026-10-15】[thanhkeke97 / RSTGameTranslation](https://github.com/thanhkeke97/RSTGameTranslation) - 🎮 Real-time Game Translation Tool | OCR + AI Translation | Windows Gaming | Open Source
 * 【2026-10-14】[SplitScreen-Me / splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus) - Nucleus Co-op is an application that starts multiple instances of a game for split-screen multiplayer gaming!
@@ -979,6 +989,7 @@
 
 ## Unknown
 
+* 【2026-10-17】[ai-for-developers / awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) - A curated list of AI-powered coding tools
 * 【2026-10-12】[lobehub / awesome-rsi](https://github.com/lobehub/awesome-rsi) - A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.
 * 【2026-10-05】[MobileGL-Dev / MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) - MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
 * 【2026-10-04】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
