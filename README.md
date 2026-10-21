@@ -748,6 +748,9 @@
 
 ## C++
 
+* 【2026-10-21】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
+* 【2026-10-21】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
+* 【2026-10-21】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
 * 【2026-10-19】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
 * 【2026-10-17】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 * 【2026-10-17】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
@@ -897,6 +900,7 @@
 
 ## Html
 
+* 【2026-10-21】[tykimos / agent-native-agent](https://github.com/tykimos/agent-native-agent) - Self-hosted apps you operate by watching a dashboard and talking to a coding agent that IS the runtime — it proposes, applies, and evolves the app live. Built for Claude Code and MCP.
 * 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
 * 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
 * 【2026-10-12】[SamidyFR / Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) - List of Game Decompilations i could gather from around the internet.
@@ -968,6 +972,7 @@
 
 ## Css
 
+* 【2026-10-21】[EDMOK / blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆
 * 【2026-10-18】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
 * 【2026-10-18】[prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - 🐬 A comprehensive tutorial on getting started with Docker!
 * 【2026-10-03】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
