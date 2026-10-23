@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-10-23】[Meloong-Git / PCL](https://github.com/Meloong-Git/PCL) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 * 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
 * 【2026-10-16】[xerj-org / xerj](https://github.com/xerj-org/xerj) - XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.
 * 【2026-10-14】[xtool-org / xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
@@ -753,6 +754,7 @@
 
 ## C++
 
+* 【2026-10-23】[google-pytorch / torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 * 【2026-10-21】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
 * 【2026-10-21】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
 * 【2026-10-21】[zufuliu / notepad4](https://github.com/zufuliu/notepad4) - Notepad4 (Notepad2⨯2, Notepad2++) is a light-weight Scintilla based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for many programming languages and documents, bundled with file browser plugin matepath.
@@ -905,6 +907,7 @@
 
 ## Html
 
+* 【2026-10-23】[MengTo / threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 * 【2026-10-21】[tykimos / agent-native-agent](https://github.com/tykimos/agent-native-agent) - Self-hosted apps you operate by watching a dashboard and talking to a coding agent that IS the runtime — it proposes, applies, and evolves the app live. Built for Claude Code and MCP.
 * 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
 * 【2026-10-15】[OCA / reporting-engine](https://github.com/OCA/reporting-engine) - Odoo Alternative Reporting Engine
@@ -1015,6 +1018,7 @@
 
 ## Unknown
 
+* 【2026-10-23】[xdash / FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 * 【2026-10-19】[piomin / claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags)
 * 【2026-10-19】[togg53192-cmd / jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 * 【2026-10-19】[wtsxDev / reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
