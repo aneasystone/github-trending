@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-10-25】[pollen-robotics / microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
+* 【2026-10-25】[jbiaojerry / ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+* 【2026-10-25】[makecindy / cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 * 【2026-10-24】[Renhuai123 / ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) - 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据
 * 【2026-10-23】[Meloong-Git / PCL](https://github.com/Meloong-Git/PCL) - Minecraft 启动器 Plain Craft Launcher（PCL）。
 * 【2026-10-19】[Kruk2 / jasna](https://github.com/Kruk2/jasna) - Video restoration tool
@@ -202,6 +205,7 @@
 
 ## Java
 
+* 【2026-10-25】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-22】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 * 【2026-10-15】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 * 【2026-10-10】[Leclowndu93150 / Thaumaturge](https://github.com/Leclowndu93150/Thaumaturge) - 
@@ -757,6 +761,7 @@
 
 ## C++
 
+* 【2026-10-25】[wopss / RED4ext](https://github.com/wopss/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2026-10-24】[jamro / tiny-engineer](https://github.com/jamro/tiny-engineer) - A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
 * 【2026-10-23】[google-pytorch / torch_tpu](https://github.com/google-pytorch/torch_tpu) - 
 * 【2026-10-21】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
