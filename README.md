@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-10-30】[milind-soni / OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
+* 【2026-10-30】[CopilotKit / OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 * 【2026-10-29】[xiaolai / the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 * 【2026-10-28】[elayadesign / ai-design-skills](https://github.com/elayadesign/ai-design-skills) - 
 * 【2026-10-27】[nightly-labs / openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
@@ -776,6 +778,8 @@
 
 ## C++
 
+* 【2026-10-30】[hypery11 / flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) - Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
+* 【2026-10-30】[dji-sdk / Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) - DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
 * 【2026-10-29】[meta / rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 * 【2026-10-26】[socquique / TamaPoke](https://github.com/socquique/TamaPoke) - A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firmware + one-click web installer. Case remixed from yoyothechicken's Pokeball.
 * 【2026-10-26】[psiberx / cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
@@ -1009,6 +1013,8 @@
 
 ## Css
 
+* 【2026-10-30】[lestercorderomurillo / macos-tahoe-liquid-kde](https://github.com/lestercorderomurillo/macos-tahoe-liquid-kde) - MacOS Tahoe Liquid Glass Theme for KDE Plasma 6.7/6.8+
+* 【2026-10-30】[OpsiMate / documentation](https://github.com/OpsiMate/documentation) - OpsiMate
 * 【2026-10-22】[Napster2210 / ngx-spinner](https://github.com/Napster2210/ngx-spinner) - Highly customizable Angular loading spinner library with 50+ animations, multiple named spinners, an optional HTTP interceptor for automatic show/hide, MatDialog-safe fullscreen overlays via the Popover API, and one-command ng add setup. Supports Angular 4–22, standalone & NgModule apps.
 * 【2026-10-21】[EDMOK / blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆
 * 【2026-10-18】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
