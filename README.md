@@ -277,6 +277,8 @@
 
 ## Python
 
+* 【2026-10-31】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
+* 【2026-10-31】[ethanplusai / harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 * 【2026-10-29】[shitagaki-lab / see-through](https://github.com/shitagaki-lab/see-through) - "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
 * 【2026-10-28】[HKUDS / AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)
 * 【2026-10-28】[NVIDIA / auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
@@ -446,6 +448,8 @@
 
 ## Javascript
 
+* 【2026-10-31】[IamRamgarhia / Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) - Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, no signup, no limits.
+* 【2026-10-31】[Orkas-AI / Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 * 【2026-10-28】[hanliang97 / MatrixMedia](https://github.com/hanliang97/MatrixMedia) - 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
 * 【2026-10-28】[QCYTSN / dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) - Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
 * 【2026-10-22】[NomaDamas / CozyClay](https://github.com/NomaDamas/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
@@ -699,6 +703,7 @@
 
 ## C
 
+* 【2026-10-31】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 * 【2026-10-27】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
 * 【2026-10-24】[FoloToy / ai-passport](https://github.com/FoloToy/ai-passport) - FOLOTOY AI Passport develop resources for Agent
 * 【2026-10-18】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
@@ -940,6 +945,7 @@
 
 ## Html
 
+* 【2026-10-31】[zeabur / zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
 * 【2026-10-23】[MengTo / threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 * 【2026-10-21】[tykimos / agent-native-agent](https://github.com/tykimos/agent-native-agent) - Self-hosted apps you operate by watching a dashboard and talking to a coding agent that IS the runtime — it proposes, applies, and evolves the app live. Built for Claude Code and MCP.
 * 【2026-10-18】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
