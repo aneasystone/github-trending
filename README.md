@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-11-03】[vercel-labs / agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 * 【2026-11-02】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 * 【2026-11-02】[anomalyco / hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 * 【2026-11-02】[FlashML-org / FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -215,6 +216,7 @@
 
 ## Java
 
+* 【2026-11-03】[mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) - Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 * 【2026-11-02】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 * 【2026-10-25】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-22】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -458,6 +460,7 @@
 
 ## Javascript
 
+* 【2026-11-03】[DeanChensj / jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 * 【2026-10-31】[IamRamgarhia / Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) - Free invoice builder & GST billing software for India. Make GST invoices, quotations, bills of supply and credit notes as PDF; GSTR-1/3B reports. Free invoice maker for shops, freelancers & small businesses. Free Tally alternative: open source, 100% offline, no signup, no limits.
 * 【2026-10-31】[Orkas-AI / Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 * 【2026-10-28】[hanliang97 / MatrixMedia](https://github.com/hanliang97/MatrixMedia) - 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
@@ -584,6 +587,7 @@
 
 ## Go
 
+* 【2026-11-03】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 * 【2026-11-01】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 * 【2026-10-22】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu
 * 【2026-10-19】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
