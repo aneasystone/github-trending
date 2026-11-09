@@ -293,6 +293,7 @@
 
 ## Python
 
+* 【2026-11-09】[googlecolab / google-colab-cli](https://github.com/googlecolab/google-colab-cli) - A CLI for interacting with Google Colab runtimes
 * 【2026-11-07】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2026-11-06】[sandbox-quantum / switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
 * 【2026-11-04】[AminBlg / SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
@@ -995,6 +996,7 @@
 
 ## Html
 
+* 【2026-11-09】[sdli1995 / dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) - Here is a dlssg for RTX30 Series GPU
 * 【2026-11-07】[plannotator / effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
 * 【2026-11-07】[naveedharri / baalda](https://github.com/naveedharri/baalda) - The team second brain. Plain Markdown files on your disk, edited together in real time, and read and written by your AI like a teammate.
 * 【2026-10-31】[zeabur / zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
