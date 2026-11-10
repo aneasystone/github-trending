@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-11-10】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 * 【2026-11-08】[meta / astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 * 【2026-11-08】[mbillow / localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
 * 【2026-11-08】[ranxianglei / billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
@@ -293,6 +294,8 @@
 
 ## Python
 
+* 【2026-11-10】[opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+* 【2026-11-10】[snap-stanford / memorilla](https://github.com/snap-stanford/memorilla) - 🦍 Memorilla: Latent Semantic Memory for LLMs
 * 【2026-11-09】[googlecolab / google-colab-cli](https://github.com/googlecolab/google-colab-cli) - A CLI for interacting with Google Colab runtimes
 * 【2026-11-07】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2026-11-06】[sandbox-quantum / switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
@@ -821,6 +824,8 @@
 
 ## C++
 
+* 【2026-11-10】[JakeATX / llamAmpere](https://github.com/JakeATX/llamAmpere) - llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
+* 【2026-11-10】[skizzophrenic / SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD) - SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!
 * 【2026-11-08】[dashdogy / MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) - DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
 * 【2026-11-08】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-08】[komaruworld / mocktail](https://github.com/komaruworld/mocktail) - Experimental Roblox compatibility runtime for Linux and FreeBSD
@@ -996,6 +1001,7 @@
 
 ## Html
 
+* 【2026-11-10】[Weiss-UltimateSavior / Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) - 多引擎视觉小说（Galgame）模拟器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG Maker RGSS 外置 APK 引擎模块与 PSP / Nintendo Switch 外置模拟器跳转（PPSSPP / Eden），可识别和启动多类游戏，提供游戏库管理、封面获取、存档镜像、引擎参数调节等一体化体验。
 * 【2026-11-09】[sdli1995 / dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) - Here is a dlssg for RTX30 Series GPU
 * 【2026-11-07】[plannotator / effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
 * 【2026-11-07】[naveedharri / baalda](https://github.com/naveedharri/baalda) - The team second brain. Plain Markdown files on your disk, edited together in real time, and read and written by your AI like a teammate.
@@ -1113,6 +1119,7 @@
 
 ## Unknown
 
+* 【2026-11-10】[github / copilot-app-for-beginners](https://github.com/github/copilot-app-for-beginners) - Learn how to get started using the GitHub Copilot app!
 * 【2026-11-07】[hudl / open-data](https://github.com/hudl/open-data) - Free football data from StatsBomb
 * 【2026-11-02】[bowlarbear / yeti-2.0](https://github.com/bowlarbear/yeti-2.0) - How to Securely Store Bitcoin
 * 【2026-10-28】[helloianneo / ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
