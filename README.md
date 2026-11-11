@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-11-11】[we-promise / sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 * 【2026-11-10】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 * 【2026-11-08】[meta / astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
 * 【2026-11-08】[mbillow / localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
@@ -608,6 +609,7 @@
 
 ## Go
 
+* 【2026-11-11】[dsx-ai-factory / run-ai](https://github.com/dsx-ai-factory/run-ai) - Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.
 * 【2026-11-08】[google-gemini / gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
 * 【2026-11-06】[openchoreo / openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 * 【2026-11-06】[dsx-ai-factory / nvke](https://github.com/dsx-ai-factory/nvke) - NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
