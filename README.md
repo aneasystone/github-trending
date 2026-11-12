@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-11-12】[GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
+* 【2026-11-12】[openai / codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 * 【2026-11-11】[we-promise / sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
 * 【2026-11-10】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 * 【2026-11-08】[meta / astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
@@ -295,6 +297,7 @@
 
 ## Python
 
+* 【2026-11-12】[googleads / google-ads-mcp](https://github.com/googleads/google-ads-mcp) - 
 * 【2026-11-10】[opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 * 【2026-11-10】[snap-stanford / memorilla](https://github.com/snap-stanford/memorilla) - 🦍 Memorilla: Latent Semantic Memory for LLMs
 * 【2026-11-09】[googlecolab / google-colab-cli](https://github.com/googlecolab/google-colab-cli) - A CLI for interacting with Google Colab runtimes
@@ -609,6 +612,9 @@
 
 ## Go
 
+* 【2026-11-12】[Tencent / LoopForge](https://github.com/Tencent/LoopForge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+* 【2026-11-12】[unstablebuild / rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
+* 【2026-11-12】[devaccuracy / ledgerforge](https://github.com/devaccuracy/ledgerforge) - The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.
 * 【2026-11-11】[dsx-ai-factory / run-ai](https://github.com/dsx-ai-factory/run-ai) - Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.
 * 【2026-11-08】[google-gemini / gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
 * 【2026-11-06】[openchoreo / openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
@@ -826,6 +832,7 @@
 
 ## C++
 
+* 【2026-11-12】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
 * 【2026-11-10】[JakeATX / llamAmpere](https://github.com/JakeATX/llamAmpere) - llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
 * 【2026-11-10】[skizzophrenic / SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD) - SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!
 * 【2026-11-08】[dashdogy / MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) - DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs
@@ -1003,6 +1010,7 @@
 
 ## Html
 
+* 【2026-11-12】[fanhao375 / microduck-replica](https://github.com/fanhao375/microduck-replica) - Microduck 复刻：飞特 HD-1910 整机已实机验证（站立、行走、前滚翻起身）。镜像、Studio 网页中控、CAD/BOM、装配教程、电路工程与训练平台 | Microduck robot replica with real hardware demos.
 * 【2026-11-10】[Weiss-UltimateSavior / Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) - 多引擎视觉小说（Galgame）模拟器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG Maker RGSS 外置 APK 引擎模块与 PSP / Nintendo Switch 外置模拟器跳转（PPSSPP / Eden），可识别和启动多类游戏，提供游戏库管理、封面获取、存档镜像、引擎参数调节等一体化体验。
 * 【2026-11-09】[sdli1995 / dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) - Here is a dlssg for RTX30 Series GPU
 * 【2026-11-07】[plannotator / effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
