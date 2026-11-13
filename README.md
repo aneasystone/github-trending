@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-11-13】[pookjw / HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
 * 【2026-11-12】[GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 * 【2026-11-12】[openai / codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 * 【2026-11-11】[we-promise / sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
@@ -297,6 +298,8 @@
 
 ## Python
 
+* 【2026-11-13】[oaustegard / claude-skills](https://github.com/oaustegard/claude-skills) - My collection of Claude skills
+* 【2026-11-13】[NVIDIA / SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 * 【2026-11-12】[googleads / google-ads-mcp](https://github.com/googleads/google-ads-mcp) - 
 * 【2026-11-10】[opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 * 【2026-11-10】[snap-stanford / memorilla](https://github.com/snap-stanford/memorilla) - 🦍 Memorilla: Latent Semantic Memory for LLMs
@@ -612,6 +615,7 @@
 
 ## Go
 
+* 【2026-11-13】[databricks / cli](https://github.com/databricks/cli) - Databricks CLI
 * 【2026-11-12】[Tencent / LoopForge](https://github.com/Tencent/LoopForge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 * 【2026-11-12】[unstablebuild / rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
 * 【2026-11-12】[devaccuracy / ledgerforge](https://github.com/devaccuracy/ledgerforge) - The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.
